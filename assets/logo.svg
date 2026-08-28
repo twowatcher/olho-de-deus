@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Logo SVG animado simples — "Olho" com pupila pulsante -->
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" role="img" aria-label="Olho de Deus">
+  <title>Olho de Deus</title>
+  <rect width="100%" height="100%" fill="transparent" />
+  <!-- outer eye shape -->
+  <g transform="translate(20,20)">
+    <ellipse cx="260" cy="80" rx="220" ry="70" fill="#0b74ff10" stroke="#0b74ff" stroke-width="6" />
+    <!-- iris -->
+    <circle cx="260" cy="80" r="36" fill="#0b74ff" />
+    <!-- pupil (pulses) -->
+    <g>
+      <circle cx="260" cy="80" r="18" fill="#07122a">
+        <animate attributeName="r" values="18;14;18" dur="2.2s" repeatCount="indefinite" />
+        <animate attributeName="fill" values="#07122a;#0b1228;#07122a" dur="4s" repeatCount="indefinite" />
+      </circle>
+      <!-- glint -->
+      <circle cx="248" cy="70" r="5" fill="#fff" opacity="0.85">
+        <animate attributeName="cx" values="246;250;246" dur="3s" repeatCount="indefinite" />
+      </circle>
+    </g>
+    <!-- subtle rotating rings -->
+    <g stroke="#0b74ff33" stroke-width="2" fill="none">
+      <ellipse cx="260" cy="80" rx="80" ry="28">
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 260 80" to="360 260 80" dur="18s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="260" cy="80" rx="130" ry="44">
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="360 260 80" to="0 260 80" dur="26s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+  </g>
+  <!-- title text -->
+  <text x="18" y="180" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="18" fill="#0b1220">Olho de Deus — Conhecimento público e ferramentas</text>
+</svg>
