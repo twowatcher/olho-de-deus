@@ -86,5 +86,3 @@ Este repositório está licenciado sob MIT. Consulte o arquivo `LICENSE`.
 
 ## ✉️ Contato
 Mantenedor: twowatcher
-
-Se quiser que eu (Copilot) adicione mais dashboards, integrações com outras APIs, ou comece a importar datasets abertos (ex.: dados de população, indicadores macro), diga qual fonte e eu preparo scripts para ingestão e limpeza.
