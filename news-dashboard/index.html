@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Painel de notícias em português, atualizado automaticamente.">
+  <title>Olho de Deus — Notícias</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <p class="eyebrow">OLHO DE DEUS · EM PORTUGUÊS</p>
+      <h1>O que está acontecendo agora.</h1>
+      <p class="lede">Manchetes de fontes públicas do Brasil e de Portugal, reunidas em um só lugar.</p>
+      <p class="updated" id="updated">Carregando últimas notícias…</p>
+    </header>
+    <section class="controls" aria-label="Filtros">
+      <label class="search"><span>Buscar</span><input id="search" type="search" placeholder="Assunto, cidade ou palavra-chave"></label>
+      <label><span>Fonte</span><select id="source"><option value="">Todas as fontes</option></select></label>
+    </section>
+    <p class="count" id="count"></p>
+    <section class="grid" id="news" aria-live="polite"></section>
+    <p class="empty" id="empty" hidden>Nenhuma notícia corresponde à busca.</p>
+    <footer>O Olho de Deus exibe títulos, resumos curtos e links para as matérias originais. Confira sempre a fonte.</footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
