@@ -1,50 +1,365 @@
 {
-  "updatedAt": "2026-09-06T18:15:58.695868+00:00",
+  "updatedAt": "2026-09-06T20:25:30.279245+00:00",
   "items": [
     {
-      "title": "Pedro Silva conquista Grande Prémio TSF/JN",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/pedro-silva-conquista-grande-premio-tsfjn_d1763731",
+      "title": "Bica e Lavra estão parados desde a tragédia do Elevador da Glória",
+      "url": "https://www.rtp.pt/noticias/pais/bica-e-lavra-estao-parados-desde-a-tragedia-do-elevador-da-gloria_v1763753",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T19:13:57+00:00",
-      "summary": "O ciclista Pedro Silva (Feira dos Sofás-Boavista) venceu o Grande Prémio TSF/JN, mantendo a camisola amarela na quarta última e tirada, ganha em Cascais por Rafael Reis (Anicolor-campicarn).",
+      "publishedAt": "2026-09-06T21:12:47+00:00",
+      "summary": "Elevadores da Bica e do Lavra estão parados desde a tragédia do Elevador da Glória. Transportavam milhares de turistas diariamente, mas eram também transporte de muitos moradores e de quem por ali trabalhava.",
       "category": "Mundo"
     },
     {
-      "title": "Arsenal vira dérbi contra o Chelsea",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-vira-derbi-contra-o-chelsea_d1763730",
+      "title": "Festa do Avante fecha com avisos para \"assalto à Segurança Social\"",
+      "url": "https://www.rtp.pt/noticias/politica/festa-do-avante-fecha-com-avisos-para-assalto-a-seguranca-social_v1763751",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T19:07:38+00:00",
-      "summary": "O Arsenal recebeu e venceu o Chelsea (2-1) após reviravolta no famoso dérbi da cidade de Londres, e juntou-se ao Manchester City no topo da classificação da Liga inglesa.",
-      "category": "Esportes"
-    },
-    {
-      "title": "II Liga: Leixões bate Amarante",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-leixoes-bate-amarante_d1763728",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T18:46:17+00:00",
-      "summary": "O Leixões recebeu e venceu o Amarante por 3-1, em jogo totalmente dominado pelos matosinhenses, que conseguem assim aproximar-se dos lugares cimeiros da II Liga.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Luta interna em Israel. Ministro das Finanças acusa Netanyahu de ordenar evacuação de colonatos",
-      "url": "https://www.rtp.pt/noticias/mundo/luta-interna-em-israel-ministro-das-financas-acusa-netanyahu-de-ordenar-evacuacao-de-colonatos_n1763727",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T18:34:34+00:00",
-      "summary": "O ministro estaria a referir-se a postos avançados de colonos mais ou menos improvisados, colonatos que consistem muitas das vezes em algumas caravanas ou pré-fabricados e são construídos sem a aprovação do governo israelita.",
+      "publishedAt": "2026-09-06T21:08:47+00:00",
+      "summary": "Paulo Raimundo acusa o Governo de falta de transparência e de estar a preparar um \"assalto à Segurança Social\". No discurso que encerrou a festa do Avante, deixou ainda avisos ao PS.",
       "category": "Política"
     },
     {
-      "title": "Aryna Sabalenka nos quartos de final do US Open",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/aryna-sabalenka-nos-quartos-de-final-do-us-open_d1763724",
+      "title": "Paulo Raimundo fecha Festa do Avante com alerta para \"assalto à Segurança Social\"",
+      "url": "https://www.rtp.pt/noticias/politica/paulo-raimundo-fecha-festa-do-avante-com-alerta-para-assalto-a-seguranca-social_n1763750",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T18:20:25+00:00",
-      "summary": "A bielorrussa Aryna Sabalenka, bicampeã em título, qualificou-se para os quartos de final do Open dos Estados Unidos em ténis, quarto e último Grand Slam do ano, ao bater a norte-americana Taylor Townsend.",
+      "publishedAt": "2026-09-06T21:03:28+00:00",
+      "summary": "A partir do Seixal, o secretário-geral do PCP acusou o Governo de falta de transparência e de estar a preparar um \"assalto à Segurança Social\". No discurso que encerrou a Festa do Avante, Paulo Raimundo disse ao PS que viabilizar o Orçamento do Estado é desmantelar o SNS e a escola pública.",
+      "category": "Política"
+    },
+    {
+      "title": "Bah com traumatismo num ombro",
+      "url": "https://www.rtp.pt/noticias/benfica/bah-com-traumatismo-num-ombro_d1763749",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T20:43:49+00:00",
+      "summary": "O Benfica anunciou que o dinamarquês Alexander Bah sofreu um traumatismo no ombro direito durante o encontro da quinta jornada da I Liga frente ao Marítimo, na Madeira, que os visitantes venceram por 3-0.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Condolências enviadas por Portugal após trágico acidente em Cabo Verde",
+      "url": "https://www.rtp.pt/noticias/mundo/condolencias-enviadas-por-portugal-apos-tragico-acidente-em-cabo-verde_v1763745",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T20:30:47+00:00",
+      "summary": "O governo de Cabo Verde decretou dois dias de luto nacional e o presidente da República do país ordenou uma investigação às causas do trágico acidente deste sábado. O presidente português falou ao telefone com o homólogo cabo-verdiano para lhe endereçar sentidas condolências.",
+      "category": "Política"
+    },
+    {
+      "title": "Alavés ultrapassa Real Madrid",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/alaves-ultrapassa-real-madrid_d1763744",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T20:30:14+00:00",
+      "summary": "O Alavés subiu ao segundo lugar da Liga espanhola ao vencer na receção ao Osasuna por 5-2.",
+      "category": "Esportes"
+    },
+    {
+      "title": "20h GNR e Polícia Marítima não confirmam desembarque de migrantes numa praia perto da Aldeia do Meco",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-gnr-e-policia-maritima-nao-confirmam-desembarque-de-migrantes-numa-praia-perto-da-aldeia-do-meco_a1_1763743",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T20:27:02+00:00",
+      "summary": "",
       "category": "Mundo"
+    },
+    {
+      "title": "Gil Vicente - Académico de Viseu",
+      "url": "https://www.rtp.pt/noticias/desporto/gil-vicente-academico-de-viseu_e1763698",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T20:21:01+00:00",
+      "summary": "Registo em direto dos principais lances desta partida da 5.ª jornada da I Liga.",
+      "category": "Esportes"
+    },
+    {
+      "title": "União de Leiria sobe ao quinto lugar",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/uniao-de-leiria-sobe-ao-quinto-lugar_d1763742",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T20:19:41+00:00",
+      "summary": "Um golo solitário de José Nabil Ondó, aos 44 minutos, garantiu a vitória da União de Leiria sobre o Portimonense, por 1-0, na quinta jornada da II Liga, que permitiu aos leirienses ultrapassarem os algarvios.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Como Nelly, atração do Rock in Rio, transformou band-aid no rosto em moda nos anos 2000",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/06/como-nelly-atracao-do-rock-in-rio-transformou-band-aid-no-rosto-em-moda-nos-anos-2000.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:17:49+00:00",
+      "summary": "O cantor Nelly em trecho do videoclipe 'Dilemma' Reprodução/YouTube Uma das grandes estrelas do rap nos anos 2000, Nelly se apresenta no Palco Mundo do Rock in Rio 2026 no dia 6 de setembro. E, para além das músicas, o cantor ficou marcado pelo estilo — mais precisamente por usar band-aid no rosto a todo momento. Duran",
+      "category": "Cultura"
+    },
+    {
+      "title": "EUA, Kiev e parceiros europeus acordam nova reunião nas próximas semanas",
+      "url": "https://www.rtp.pt/noticias/mundo/eua-kiev-e-parceiros-europeus-acordam-nova-reuniao-nas-proximas-semanas_n1763729",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T20:16:16+00:00",
+      "summary": "O Presidente ucraniano adiantou que esta nova reunião poderá ter lugar nas próximas semanas.",
+      "category": "Política"
+    },
+    {
+      "title": "Rock in Rio 2026: veja fotos de FAMOSOS no 3º dia do festival",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/06/rock-in-rio-2026-veja-fotos-de-famosos-no-3o-dia-do-festival.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:16:10+00:00",
+      "summary": "Ana Clara chega ao Rock in Rio 2026 Rogério Fidalgo/Agnews Milton Cunha chega ao terceiro dia de Rock in Rio 2026 Rogério Fidalgo/AgNews Juliano Floss chega ao Rock in Rio 2026 Rogério Fidalgo/Agnews",
+      "category": "Cultura"
+    },
+    {
+      "title": "Secretário de Energia dos EUA diz ser provável que preços da gasolina caiam",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/secretario-de-energia-dos-eua-diz-ser-provavel-que-precos-da-gasolina-caiam/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:15:18+00:00",
+      "summary": "Após uma pausa nas ações militares durante grande parte de agosto, os ataques entre EUA e Irã foram retomados",
+      "category": "Economia"
+    },
+    {
+      "title": "Público canta sucessos em 'Vital – O Musical dos Paralamas' em Manaus",
+      "url": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/09/06/publico-canta-sucessos-em-vital-o-musical-dos-paralamas-em-manaus.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:15:15+00:00",
+      "summary": "Público canta sucessos em 'Vital – O Musical dos Paralamas' em Manaus Fotos: Amazon Media Check O público cantou sucessos como \"Vital e sua Moto\", \"Alagados\" e \"Lanterna dos Afogados\" durante 1h50 de apresentação do espetáculo \"Vital – O Musical dos Paralamas\" no Teatro Amazonas, no Centro de Manaus. O musical, que se ",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias das 21h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1751/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T20:15:14+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Governo do Irã aumentará preço da gasolina para grandes usuários",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-do-ira-aumentara-preco-da-gasolina-para-grandes-usuarios/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:09:49+00:00",
+      "summary": "Motoristas ainda podem comprar até 60 litros a 15 mil riais por litro e mais 50 litros a 30 mil riais por litro",
+      "category": "Política"
+    },
+    {
+      "title": "Jovem relata momentos de tensão ao ser arrastada por carro de aplicativo no interior de SP",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/06/jovem-relata-momentos-de-tensao-ao-ser-arrastada-por-carro-de-aplicativo-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:09:07+00:00",
+      "summary": "Mulher é arrastada por motorista de aplicativo, em Tremembé A estudante Yasmin Marcondes do Carmo, de 15 anos, relatou neste domingo (6) os momentos de tensão que viveu ao ser arrastada por um carro de aplicativo na última sexta-feira (4), em Tremembé, no interior de São Paulo. O motorista do veículo, de 51 anos, não f",
+      "category": "Mundo"
+    },
+    {
+      "title": "INMET emite alerta de 'tempestade' para 129 cidades do Norte, Centro e Noroeste de MG",
+      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/06/inmet-emite-alerta-de-tempestade-para-129-cidades-do-norte-centro-e-noroeste-de-mg.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:09:01+00:00",
+      "summary": "INMET emite alerta de 'tempestade' para 129 cidades do Norte, Centro e Noroeste de MG Inmet O Instituto Nacional de Meteorologia (Inmet) emitiu, na manhã desta sexta-feira (12), um alerta amarelo de “tempestade” para 129 cidades das regiões Norte, Centro e Noroeste de Minas Gerais O aviso, classificado como “Perigo pot",
+      "category": "Clima"
+    },
+    {
+      "title": "Dor do crescimento em crianças: o que é, causas e como aliviar desconforto",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/dor-do-crescimento-em-criancas-o-que-e-causas-e-como-aliviar-desconforto/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:07:29+00:00",
+      "summary": "Entenda por que as pernas doem à noite na infância, conheça tratamentos eficazes e saiba quando procurar ajuda médica para seu filho",
+      "category": "Saúde"
+    },
+    {
+      "title": "Expointer 2026 movimenta R$ 6,1 bilhões em negócios",
+      "url": "https://www.cnnbrasil.com.br/agro/expointer-2026-encerra-com-r-61-bilhoes-em-comercializacao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:06:10+00:00",
+      "summary": "Resultado representa alta de 40% em relação ao registrados na edição anterior, mas segue abaixo do recorde histórico de 2024",
+      "category": "Mundo"
+    },
+    {
+      "title": "Jovem de 18 anos é preso pela 3ª vez por tráfico de drogas em casa abandonada em Belterra",
+      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/06/jovem-de-18-anos-e-preso-pela-3a-vez-por-trafico-de-drogas-em-casa-abandonada-em-belterra.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T20:03:12+00:00",
+      "summary": "Jovem foi apresentado na Seccional Urbana de Santarém Dominique Caveleiro/g1 Um jovem de 18 anos foi preso em flagrante pela Polícia Militar acusado de tráfico de drogas em Belterra, no oeste do Pará. A prisão ocorreu após agentes abordarem o suspeito em um imóvel abandonado que vinha sendo apontado por moradores como ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Leclerc admite preocupação com a visão após acidente no GP da Itália",
+      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/leclerc-admite-preocupacao-com-a-visao-apos-acidente-no-gp-da-italia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:58:42+00:00",
+      "summary": "Piloto da Ferrari relatou dificuldade momentânea para enxergar com o olho direito e fará novos exames antes da próxima etapa da F1",
+      "category": "Mundo"
+    },
+    {
+      "title": "Briga entre dois casais em festa termina com quatro pessoas feridas e espingarda apreendida no Cantá",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/06/briga-entre-dois-casais-em-festa-termina-com-quatro-pessoas-feridas-e-espingarda-apreendida-no-canta.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:58:20+00:00",
+      "summary": "Segundo testemunhas, um jovem de 23 anos voltou ao local com uma espingarda. Arquivo Uma briga entre dois casais terminou com quatro pessoas feridas durante uma festa na Vila São Sebastião, no Cantá, Norte de Roraima, neste domingo (6). Uma espingarda foi apreendida pela Polícia Militar. A PM foi acionada após o Serviç",
+      "category": "Mundo"
+    },
+    {
+      "title": "Com a égua Rihanna e vida simples no campo, menina de 5 anos faz sucesso nas redes; conheça a 'Poeirinha'",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/06/com-a-egua-rihanna-e-vida-simples-no-campo-menina-de-5-anos-faz-sucesso-nas-redes-conheca-a-poeirinha.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:57:00+00:00",
+      "summary": "Poeirinha, a mini boiadeira de Uberlândia Chapéu, bota nos pés e laço no cabelo quase sempre compõem os looks da pequena Antonelly Rippozzatti, de 5 anos, que chama a atenção nas redes sociais ao dividir a rotina simples da fazenda onde vive com a família, na zona rural de Uberlândia. Mas pouca gente a conhece pelo nom",
+      "category": "Mundo"
+    },
+    {
+      "title": "Lavrov acusa Ocidente de iniciar “guerra de verdade” contra a Rússia",
+      "url": "https://www.cnnbrasil.com.br/internacional/lavrov-acusa-ocidente-de-iniciar-guerra-de-verdade-contra-a-russia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:56:25+00:00",
+      "summary": "Ministro russo se refere às acusações sobre o incidente com drones em Leipzig como uma declaração de guerra do chanceler alemão, Friedrich Merz",
+      "category": "Política"
+    },
+    {
+      "title": "À CNN, porta-voz da Intelis explica críticas da Abin ao relatório de Moraes",
+      "url": "https://www.cnnbrasil.com.br/politica/a-cnn-porta-voz-da-intelis-explica-criticas-da-abin-ao-relatorio-de-moraes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:54:26+00:00",
+      "summary": "Em entrevista ao Agora CNN, Adriana Abrão afirma que documento apresentado pelo ministro não segue os parâmetros estabelecidos pelos profissionais de inteligência da Abin",
+      "category": "Política"
+    },
+    {
+      "title": "Turcas bicampeãs europeias de voleibol",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/turcas-bicampeas-europeias-de-voleibol_d1763739",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T19:54:18+00:00",
+      "summary": "A seleção de voleibol feminino da Turquia recuperou de duas desvantagens para vencer a Itália por 3-2 e sagrar-se bicampeã europeia, após emocionante final em Istambul.",
+      "category": "Economia"
+    },
+    {
+      "title": "Pabllo Vittar volta ao Rock in Rio 9 anos após show surpresa",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/06/pabllo-vittar-rock-in-rio.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:50:30+00:00",
+      "summary": "Pabllo Vittar volta ao Rock in Rio 9 anos após show surpresa Reprodução Nove anos depois de surpreender o público com um show inesperado, Pabllo Vittar está de volta ao Rock in Rio. A cantora retorna ao Pavilhão Itaú, na Cidade do Rock, após o encerramento do show no Palco Mundo, espaço que faz parte de um momento marc",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "VÍDEO: Serra do RS registra neve neste domingo",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/serra-do-rs-registra-neve-neste-domingo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:49:50+00:00",
+      "summary": "Serra do RS registra neve neste domingo Município dos Campos de Cima da Serra, no Rio Grande do Sul, registrou a ocorrência de neve neste domingo (6). Vídeos captaram o fenômeno em São José dos Ausentes, que foi confirmado pela Climatempo Meteorologia. Em Cambará do Sul também houve precipitação invernal. (Veja acima).",
+      "category": "Clima"
+    },
+    {
+      "title": "Benfica conquista Supertaça feminina de futebol",
+      "url": "https://www.rtp.pt/noticias/benfica/benfica-conquista-supertaca-feminina-de-futebol_d1763738",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T19:48:42+00:00",
+      "summary": "O Benfica conquistou a Supertaça feminina pela quarta vez, depois de golear o estreante FC Porto, por 5-1, em jogo disputado no Estádio Municipal do Fontelo, em Viseu.",
+      "category": "Esportes"
+    },
+    {
+      "title": "PM encontra coquetéis molotov e drogas e apura ligação com ataques às estações Águas de Pádua",
+      "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/06/pm-encontra-coqueteis-molotov-e-drogas-e-apura-ligacao-com-ataques-as-estacoes-aguas-de-padua.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:47:25+00:00",
+      "summary": "A possível ligação dos coquetéis molotov com os ataques às estações Águas de Pádua será investigada. Polícia Militar Três frascos contendo coquetéis molotov, 20 tabletes de maconha e cinco porções de haxixe foram apreendidos pela Polícia Militar em uma casa abandonada no bairro Mirante, em Santo Antônio de Pádua, no No",
+      "category": "Esportes"
+    },
+    {
+      "title": "Caminhos da Independência: Cubatão recebe espetáculo gratuito que reconta a história do Brasil",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/06/caminhos-da-independencia-cubatao-recebe-espetaculo-gratuito-que-reconta-a-historia-do-brasil.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:47:21+00:00",
+      "summary": "Cubatão recebe espetáculo 'Caminhos da Independência' no Parque Anilinas A cidade de Cubatão (SP) recebe a 22ª edição do espetáculo 'Caminhos da Independência', que reconta a história da independência do Brasil, até segunda-feira (7), às 20h, no Parque Anilinas. Segundo a prefeitura, a peça faz parte das comemorações d",
+      "category": "Cultura"
+    },
+    {
+      "title": "Choro de bebê levou PM a encontrar corpo de médica em apartamento no PR",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/choro-de-bebe-levou-pm-a-encontrar-corpo-de-medica-em-apartamento-no-pr/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:44:20+00:00",
+      "summary": "A médica Gassi Mazia, de 37 anos, foi encontrada morta em Maringá; bebê de oito meses foi deixado sozinho pelo pai, apontado como autor do crime",
+      "category": "Saúde"
+    },
+    {
+      "title": "Netanyahu ordena desmantelar postos avançados de colonos, dizem fontes",
+      "url": "https://www.cnnbrasil.com.br/internacional/netanyahu-ordena-desmantelar-postos-avancados-de-colonos-dizem-fontes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:34:55+00:00",
+      "summary": "A decisão do primeiro-ministro de Israel ocorre sob pressão dos EUA para conter a violência de colonos na Cisjordânia",
+      "category": "Política"
+    },
+    {
+      "title": "US Open: Sabalenka elimina Towsend e repete feito de Serena Williams",
+      "url": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-sabalenka-elimina-towsend-e-repete-feito-de-serena-williams/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:31:29+00:00",
+      "summary": "Tenista bielorussa alcançou a fase de quartas de final do torneio pela sexta vez consecutiva, algo que não ocorria desde o ano de 2016",
+      "category": "Mundo"
+    },
+    {
+      "title": "“TWG”: quanto custa chá de luxo que Sérgio Cabral recebeu na prisão?",
+      "url": "https://www.cnnbrasil.com.br/politica/twg-quanto-custa-cha-de-luxo-que-sergio-cabral-recebeu-na-prisao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:25:44+00:00",
+      "summary": "Justiça do Rio de Janeiro condenou ex-governador a pagar R$ 1 milhão em danos morais coletivos por improbidade administrativa em um esquema de regalias quando esteve preso",
+      "category": "Mundo"
+    },
+    {
+      "title": "Vídeo: Onça-parda é capturada em garagem de condomínio em SC",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/video-onca-parda-e-capturada-em-garagem-de-condominio-em-sc/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T19:22:28+00:00",
+      "summary": "Animal foi localizado por moradores na manhã deste domingo (6); durante as tentativas de captura, onça fugiu e percorreu vários quintais de residências próximas",
+      "category": "Mundo"
+    },
+    {
+      "title": "20h. Alemanha. Sondagens dão vitória da extrema-direita",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2045/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T19:11:04+00:00",
+      "summary": "O partido AfD (Alternativa para a Alemanha) pode atingir 44% das intenções de voto no estado federal de Saxónia-Anhalt. O cenário de maioria absoluta continua incerto.",
+      "category": "Política"
+    },
+    {
+      "title": "Se PS viabilizar OE dá espaço para Governo \"elevar ataque\"",
+      "url": "https://observador.pt/2026/09/06/paulo-raimundo-se-ps-viabilizar-orcamento-da-espaco-ao-governo-para-elevar-o-ataque/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T18:36:34+00:00",
+      "summary": "Na Festa do Avante, o secretário-geral do PCP defendeu que se o PS viabilizar o Orçamento do Estado estará a dar condições ao Governo para \"elevar o ataque\", libertando o Chega de ter de o fazer.",
+      "category": "Política"
+    },
+    {
+      "title": "Pastores reclamam pagamentos face a ataques de lobos",
+      "url": "https://observador.pt/2026/09/06/pastores-reclamam-pagamentos-atempados-face-a-ataques-de-lobos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T18:26:42+00:00",
+      "summary": "Mais de meia centena de pastores do Planalto Mirandês reclamam ao Governo pagamentos atempados devido aos ataques de lobos que têm acontecido nos últimos anos.",
+      "category": "Política"
     },
     {
       "title": "Os ares de Viseu não mudaram a tendência do clássico",
@@ -56,13 +371,13 @@
       "category": "Esportes"
     },
     {
-      "title": "As notícias das 19h",
+      "title": "19h. PS não revela o sentido de voto face à moção de censura",
       "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2161/",
       "source": "Observador",
       "region": "Portugal",
       "publishedAt": "2026-09-06T18:12:17+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
+      "summary": "José Luís Carneiro, secretário-geral do Partido Socialista, adianta que, até terça-feira, vai ouvir os membros do partido, mas afirma que os socialistas vão assegurar a estabilidade política no país.",
+      "category": "Política"
     },
     {
       "title": "Pianista Maria João Pires anuncia academia 'online'",
@@ -74,175 +389,13 @@
       "category": "Ciência & Tech"
     },
     {
-      "title": "Morre Paulo Eduardo Gomes, fundador do PT-RJ e do PSOL em Niterói",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/06/morre-paulo-eduardo-gomes.ghtml",
-      "source": "G1",
+      "title": "São Paulo tem mais de 58 mil casos de dengue desde o início do ano",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-tem-mais-de-58-mil-casos-de-dengue-desde-o-inicio-do-ano",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-06T17:59:32+00:00",
-      "summary": "Morre Paulo Eduardo Gomes, fundador do PT-RJ e do PSOL em Niterói Reprodução/Instagram PSOLNiterói Morreu na noite deste sábado (5), aos 75 anos, Paulo Eduardo Gomes, ex-vereador de Niterói, na Região Metropolitana do Rio. Paulo foi um dos fundadores do PT-RJ e do PSOL Niterói, que publicou uma nota em homenagem ao pol",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vitória de Guimarães - Casa Pia",
-      "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-casa-pia_e1763697",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T17:53:23+00:00",
-      "summary": "Registo em direto dos principais lances desta partida da 5.ª jornada da I Liga.",
-      "category": "Esportes"
-    },
-    {
-      "title": "3º dia de Rock in Rio tem chuva, Calvin Harris, Black Eyed Peas e Ne-yo; brinquedos são suspensos",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:52:24+00:00",
-      "summary": "3º dia de Rock in Rio tem chuva, Calvin Harris, Black Eyed Peas e Ne-yo; brinquedos são suspensos Festival entra no universo pop neste domingo (6). O que pode e o que não pode levar para a Cidade do Rock? Veja.. Como chegar no Rock in Rio de ônibus, carro ou metrô?. Festival acontece até dia 13. Veja a programação comp",
-      "category": "Cultura"
-    },
-    {
-      "title": "Líder Barcelona `passeia` em Valência",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/lider-barcelona-passeia-em-valencia_d1763723",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T17:51:59+00:00",
-      "summary": "O FC Barcelona ultrapassou sem dificuldades o Valência (5-0), em jogo da quarta jornada da Liga espanhola, e isolou-se na liderança da competição só com vitórias.",
-      "category": "Esportes"
-    },
-    {
-      "title": "AfD diz ter 'mandato para governar' após liderar projeções na Saxônia-Anhalt; oposição descarta apoio",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/06/afd-saxonia-anhalt-eleicoes.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:50:39+00:00",
-      "summary": "Extrema direita na frente em eleição na Alemanha Líderes da Alternativa para a Alemanha (AfD), partido de extrema direita, afirmaram neste domingo (6) que as projeções da eleição na Saxônia-Anhalt, no leste da Alemanha, deram à legenda um “mandato para governar” o estado. O principal candidato do partido, Ulrich Siegmu",
-      "category": "Política"
-    },
-    {
-      "title": "Desfile de 7 de setembro em Manaus: confira como ficará o trânsito e transporte coletivo na área",
-      "url": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/09/06/desfile-de-7-de-setembro-em-manaus-confira-como-ficara-o-transito-e-transporte-coletivo-na-area.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:48:49+00:00",
-      "summary": "Desfile cívico-militar marca comemorações da Independência do Brasil em Manaus. Leandro Guedes, Rede Amazônica Na segunda-feira (7), a Prefeitura de Manaus vai interditar trechos da avenida Constantino Nery e vias próximas ao sambódromo para a realização do Desfile Militar da Semana da Pátria. A operação especial de tr",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dia da Independência terá desfile cívico e exposição cultural em Divinópolis; veja a programação",
-      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/06/dia-da-independencia-tera-desfile-civico-e-exposicao-cultural-em-divinopolis-veja-a-programacao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:48:28+00:00",
-      "summary": "Desfile cívico em Divinópolis Prefeitura de Divinópolis/Divulgação O Dia da Independência do Brasil, celebrado na segunda-feira (7), terá desfile cívico militar, exposição cultural e ações educativas em Divinópolis. A programação divulgada pela Prefeitura segue até a sexta-feira (11). A programação tem como objetivo va",
-      "category": "Cultura"
-    },
-    {
-      "title": "Tiramisu e iogurte: gastronomia e ciência se unem para popularizar a uvaia no interior e litoral de SP",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/06/tiramisu-e-iogurte-gastronomia-e-ciencia-se-unem-para-popularizar-a-uvaia-no-interior-e-litoral-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:47:38+00:00",
-      "summary": "Sobremesa com uvaia Divulgação/Café com Leide Você conhece a uvaia? Já provou ou a viu nas bancas de feira? Se você não conhece esta fruta de tonalidade amarela, não se preocupe, porque você não está só. Essa fruta pequena e bem ácida, nativa da Mata Atlântica, ainda é pouco conhecida pelos consumidores. Apesar disso, ",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Homem é preso com drogas em Volta Redonda",
-      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/06/homem-e-preso-com-drogas-em-volta-redonda.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:47:08+00:00",
-      "summary": "Homem é preso com drogas em Volta Redonda Divulgação/Polícia Militar Um homem foi preso com drogas no sábado (5) em Volta Redonda (RJ). O caso aconteceu no Morro da Conquista, no bairro Santo Agostinho. Segundo a Polícia Militar, os agentes foram até o local e encontraram o suspeito. Ainda de acordo com a PM, durante a",
-      "category": "Mundo"
-    },
-    {
-      "title": "Chuva forte na Zona Sudoeste faz Rock in Rio suspender agendamento da roda-gigante e tirolesa; veja",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/06/chuva-rock-in-rio-terceiro-dia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:47:01+00:00",
-      "summary": "Chuva faz Rock in Rio suspender os agendamentos da roda-gigante e da tirolesa Cristina Boeckel/g1 A forte chuva que atinge a Zona Sudoeste do Rio na tarde deste domingo (6) levou a organização do Rock in Rio a suspender o agendamento de 2 dos principais brinquedos da Cidade do Rock: a roda-gigante e a tirolesa. Em comu",
-      "category": "Clima"
-    },
-    {
-      "title": "Pastor investigado por usar projeto religioso para ajudar Comando Vermelho morre em MT",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/06/pastor-investigado-por-usar-projeto-religioso-para-ajudar-comando-vermelho-morre-em-mt.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:46:55+00:00",
-      "summary": "Pastor Nivaldo de Almeida Reprodução O pastor Nivaldo de Almeida morreu neste sábado (5), em Cuiabá, após sofrer complicações de um câncer. O religioso estava entre os investigados na Operação Fariseus, realizada pela Polícia Civil em julho deste ano para apurar uma possível relação de familiares dele com integrantes d",
-      "category": "Mundo"
-    },
-    {
-      "title": "Justiça Federal suspende licenças da mina da Sigma Lithium em Minas Gerais",
-      "url": "https://www.cnnbrasil.com.br/infra/justica-federal-suspende-licencas-da-mina-da-sigma-lithium-em-minas-gerais/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:41:43+00:00",
-      "summary": "Decisão foi tomada em uma ação civil movida pela Federação das Comunidades Quilombolas do Estado de Minas Gerais, na qual o grupo alegou que o projeto da mineradora se situava na área de influência direta da Comunidade Quilombola de Baú",
-      "category": "Mundo"
-    },
-    {
-      "title": "Incêndio atinge mais de 25 moradias em comunidade na zona Norte de SP",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-atinge-mais-de-25-moradias-em-comunidade-na-zona-norte-de-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:41:38+00:00",
-      "summary": "Pelo menos 10 viaturas do Corpo de Bombeiros foram empenhadas para o atendimento da ocorrência; não houve vítimas",
-      "category": "Clima"
-    },
-    {
-      "title": "Paolla Oliveira posta foto com vestido de renda transparente e fãs elogiam",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/paolla-oliveira-posta-foto-com-vestido-de-renda-transparente-e-fas-elogiam/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:40:56+00:00",
-      "summary": "Atriz dedicou o look à sua participação no programa \"Altas Horas\", exibido no último sábado (5)",
-      "category": "Mundo"
-    },
-    {
-      "title": "Everton e Manchester United empatam em jogo emocionante",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/everton-e-manchester-united-empatam-em-jogo-emocionante_d1763722",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T17:40:51+00:00",
-      "summary": "O Everton e o Manchester United empataram a dois golos, num encontro da terceira jornada da Liga inglesa que teve um final frenético e incerteza no marcador.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Três mulheres são presas por suspeita de raptar e torturar adolescente de 14 anos no RS",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/tres-mulheres-sao-presas-por-suspeita-de-raptar-e-torturar-adolescente-de-14-anos-no-rs.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:40:16+00:00",
-      "summary": "Três mulheres são presas por suspeita de raptar e torturar adolescente de 14 anos no RS Polícia Civil/Divulgação Três mulheres foram presas preventivamente por suspeita de raptar, roubar e torturar uma adolescente de 14 anos em Vicente Dutra, Norte do Rio Grande do Sul, na divisa com Santa Catarina. A Polícia Civil cum",
-      "category": "Mundo"
-    },
-    {
-      "title": "Área equivalente a mais de 14 campos de futebol é encontrada degradada em Campos, após denúncia",
-      "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/06/area-equivalente-a-mais-de-14-campos-de-futebol-e-encontrada-degradada-em-campos-apos-denuncia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:39:16+00:00",
-      "summary": "Vegetação nativa foi suprimida às margens de um córrego, em área considerada de preservação permanente. Programa Linha Verde Uma denúncia de crime ambiental recebida pelo Linha Verde, programa do Disque Denúncia voltado para crimes contra o meio ambiente, levou a polícia a localizar, neste sábado (5), uma área de aprox",
-      "category": "Esportes"
-    },
-    {
-      "title": "VÍDEO: cachorro cai na galeria de macrodrenagem da praia alargada de Balneário Camboriú e resgate mobiliza bombeiros",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/video-cachorro-cai-galeria-macrodrenagem-praia-alargada-balneario-camboriu.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:38:56+00:00",
-      "summary": "Cão é resgatado após cair na galeria de macrodrenagem em Balneário Camboriú Um cachorro caiu em uma abertura da galeria de macrodrenagem da praia alargada de Balneário Camboriú, no Litoral Norte de Santa Catarina, e precisou ser resgatado pelos bombeiros. O cão estava cansado, com dificuldade respiratória e tremores in",
-      "category": "Mundo"
-    },
-    {
-      "title": "Paolla Oliveira é criticada por fãs de Virginia após mensagem para Anitta",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/paolla-oliveira-e-criticada-por-fas-de-virginia-apos-mensagem-para-anitta/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:35:34+00:00",
-      "summary": "Cantora assumiu posto de Rainha de Bateria da Grande Rio no lugar da influenciadora",
-      "category": "Cultura"
+      "publishedAt": "2026-09-06T17:43:00+00:00",
+      "summary": "Autoridades de saúde confirmaram 58.683 casos de dengue em todo o estado de São Paulo, desde o início deste ano. Também foram contabilizados 42 óbitos, número que pode crescer, pois há 30 mortes sob investigação. De acordo com a Secretaria da Saúde, 57.402 foram classificados como casos de dengue, 1.180 como de dengue ",
+      "category": "Saúde"
     },
     {
       "title": "A batalha de Londres terminou com o canhão ao alto",
@@ -251,33 +404,6 @@
       "region": "Portugal",
       "publishedAt": "2026-09-06T17:33:51+00:00",
       "summary": "Os gunners continuam amplamente dominadores nos dérbis contra os blues",
-      "category": "Mundo"
-    },
-    {
-      "title": "Flávio cobra voto de Cármen Lúcia a favor de investigação contra Moraes",
-      "url": "https://www.cnnbrasil.com.br/politica/flavio-cobra-voto-de-carmen-lucia-a-favor-de-investigacao-contra-moraes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:30:47+00:00",
-      "summary": "Candidato afirmou que voto contrário pela ministra seria \"muito ruim para sua história\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Governo deve converter subsídio à gasolina em desoneração",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-deve-converter-subsidio-a-gasolina-em-desoneracao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:30:25+00:00",
-      "summary": "Valor do alívio tributário ainda está em aberto, mas tendência é que se mantenha no mesmo patamar atual da subvenção, segundo apurou a CNN",
-      "category": "Política"
-    },
-    {
-      "title": "China aplicará US$ 54 bi em bancos estatais e seguradoras",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/china-aplicara-us-54-bi-em-bancos-estatais-e-seguradoras/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:30:21+00:00",
-      "summary": "Iniciativa visa reforçar o capital em todo o sistema financeiro",
       "category": "Mundo"
     },
     {
@@ -290,15 +416,6 @@
       "category": "Economia"
     },
     {
-      "title": "Irã diz que lidará com questões econômicas e ameaça novos ataques",
-      "url": "https://www.cnnbrasil.com.br/internacional/ira-diz-que-lidara-com-questoes-economicas-e-ameaca-novos-ataques/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:20:39+00:00",
-      "summary": "Após uma pausa nas ações militares durante grande parte de agosto, os ataques de retaliação foram retomados, com o Comando Central dos EUA informando que atingiu três petroleiros iranianos no sábado (5)",
-      "category": "Cultura"
-    },
-    {
       "title": "Unicef: 15 milhões de crianças foram expostas a conteúdo sexual online",
       "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/unicef-15-milhoes-de-criancas-foram-expostas-conteudo-sexual-online",
       "source": "Agência Brasil",
@@ -306,15 +423,6 @@
       "publishedAt": "2026-09-06T17:15:00+00:00",
       "summary": "Cerca de 20 milhões de crianças e adolescentes de 21 países já sofreram, no período de um ano, algum tipo de exploração ou abuso sexual facilitado pela tecnologia . Acredita-se, ainda, que 9 milhões tenham sido induzidas a manter conversas de teor sexual ou compartilhar imagens desse cunho contra sua vontade e que 4 mi",
       "category": "Ciência & Tech"
-    },
-    {
-      "title": "Raphinha e Yamal comandam goleada do Barcelona em LaLiga",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/raphinha-e-yamal-comandam-goleada-do-barcelona-em-laliga/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T17:10:57+00:00",
-      "summary": "Clube catalão derrotou o Valencia por 5 a 0 fora de casa",
-      "category": "Esportes"
     },
     {
       "title": "18h. Alemanha. Projeções dão vitória à AfD nas regionais",
@@ -335,60 +443,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Sondagens à boca das urnas apontam vitória histórica da extrema-direita da AfD nas regionais alemãs",
-      "url": "https://www.rtp.pt/noticias/mundo/sondagens-a-boca-das-urnas-apontam-vitoria-historica-da-extrema-direita-da-afd-nas-regionais-alemas_n1763718",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T17:08:45+00:00",
-      "summary": "A extrema-direita AFD (Alternativa para a Alemanha) conseguiu uma vitória histórica no Estado oriental da Saxónia-Anhalt, de acordo com sondagens à boca das urnas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Van Aert é o vencedor do dia na Vuelta",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/van-aert-e-o-vencedor-do-dia-na-vuelta_d1763716",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T17:05:14+00:00",
-      "summary": "O belga Wout van Aert (Visma-Lease a Bike) repetiu um feito de 2024, ao vencer a 15.ª etapa da Volta a Espanha em bicicleta em Córdova, após entrar na fuga decisiva a 31 quilómetros da meta.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Kimi Antonelli reforça liderança do Mundial de Fórmula 1",
-      "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-reforca-lideranca-do-mundial-de-formula-1_d1763715",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T17:00:37+00:00",
-      "summary": "O piloto italiano Kimi Antonelli (Mercedes) venceu o Grande Prémio de Itália de Fórmula 1, 16.ª prova da temporada, e reforçou o comando do campeonato do Mundo.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Detido jovem suspeito de matar a avó em Mafra",
-      "url": "https://www.rtp.pt/noticias/pais/detido-jovem-suspeito-de-matar-a-avo-em-mafra_n1763713",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T16:59:35+00:00",
-      "summary": "O jovem de 24 anos \"terá esfaqueado a avó\" na residência da idosa em Mafra.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Veritá: Flávio tem 48,5% no 2º turno; Lula, 43,1%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/verita-flavio-tem-485-no-2o-turno-lula-431/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T16:53:57+00:00",
-      "summary": "Lula aparece na liderança em cenários contra Augusto Cury, Pablo Marçal, Renan Santos e Ronaldo Caiado",
-      "category": "Mundo"
-    },
-    {
-      "title": "Do 19º ao 1º: Kimi Antonelli protagoniza 2ª maior reação da história da F1",
-      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/do-19o-ao-1o-kimi-antonelli-protagoniza-2a-maior-reacao-da-historia-da-f1/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T16:49:13+00:00",
-      "summary": "Italiano largou na penúltima fila por punição, venceu o Grande Prêmio da Itália em Monza e igualou feito de Bill Vukovich nas 500 Milhas de Indianápolis de 1954",
-      "category": "Mundo"
-    },
-    {
       "title": "Von der Leyen chega à Gronelândia com medidas \"substanciais\"",
       "url": "https://observador.pt/2026/09/06/von-der-leyen-chega-a-gronelandia-com-pacote-de-medidas-substancial/",
       "source": "Observador",
@@ -396,15 +450,6 @@
       "publishedAt": "2026-09-06T16:47:00+00:00",
       "summary": "A presidente da Comissão Europeia chegou à Gronelândia levando \"um pacote de medidas substancial\". Visita pretende reafirmar o compromisso da UE com o território autónomo dinamarquês.",
       "category": "Política"
-    },
-    {
-      "title": "Série de Harlan Coben entra para o top 5 da Netflix em 2026; saiba qual é",
-      "url": "https://www.cnnbrasil.com.br/pop/streaming/serie-de-harlan-coben-entra-para-o-top-5-da-netflix-em-2026-saiba-qual-e/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T16:42:04+00:00",
-      "summary": "\"Custe o que Custar\" alcançou a terceira posição no ranking de séries mais assistidas da plataforma no primeiro semestre desse ano",
-      "category": "Mundo"
     },
     {
       "title": "Itabirito bate Minas Brasília e vai a final do Brasileiro Feminino A2",
@@ -422,42 +467,6 @@
       "region": "Portugal",
       "publishedAt": "2026-09-06T16:18:46+00:00",
       "summary": "O Bloco de Esquerda questionou o Governo sobre os tempos de espera para a primeira consulta de psicologia no Serviço Nacional de Saúde. Segundo a bastonária dos psicólogos pode chegar a meio ano.",
-      "category": "Política"
-    },
-    {
-      "title": "Costa sul da Madeira e Porto Santo sob aviso amarelo",
-      "url": "https://observador.pt/2026/09/06/costa-sul-da-madeira-e-porto-santo-sob-aviso-amarelo-devido-ao-tempo-quente-ate-terca-feira/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T16:18:31+00:00",
-      "summary": "O Instituto Português do Mar e da Atmosfera colocou a costa sul da Madeira e a ilha do Porto Santo sob aviso amarelo devido ao tempo quente.",
-      "category": "Clima"
-    },
-    {
-      "title": "17h. Eleições Alemanha. Participação perto de valor recorde",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2279/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T16:12:45+00:00",
-      "summary": "Encerram, por esta hora, as urnas no estado da Saxónia-Anhalt. Perto de 70% dos eleitores compareceram. Possibilidade do partido de extrema-direita AfD conquistar a maioria absoluta.",
-      "category": "Política"
-    },
-    {
-      "title": "Sondagem dá vitória à AfD com 44% — maioria ainda incerta",
-      "url": "https://observador.pt/2026/09/06/sondagem-a-boca-das-urnas-da-vitoria-a-afd-com-44-das-intencoes-de-voto-maioria-absoluta-ainda-incerta/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T16:11:30+00:00",
-      "summary": "Partido de extrema-direita conseguiu obter vitória confortável na Saxónia-Anhalt com 44% das intenções de voto. Ainda assim, projeções não dão maioria absoluta à AfD. CDU em segundo.",
-      "category": "Política"
-    },
-    {
-      "title": "PS não revela decisão sobre moção de censura",
-      "url": "https://observador.pt/2026/09/06/ps-diz-garantir-estabilidade-mas-nao-revela-decisao-sobre-mocao-de-censura/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T16:07:35+00:00",
-      "summary": "O secretário-geral do Partido Socialista recusa assumir qual a decisão que o partido tomará na moção de censura apresentada pelo Chega, mas reafirmou que vai garantir a estabilidade política.",
       "category": "Política"
     },
     {
@@ -513,15 +522,6 @@
       "publishedAt": "2026-09-06T14:03:00+00:00",
       "summary": "O tradicional desfile de 7 de Setembro na Esplanada dos Ministérios, nesta segunda-feira (7), terá um reforço na segurança com atuação de tropas especializadas em toda a região central de Brasília. No domingo (6), a partir das 16h o trânsito de veículos será interrompido de entre a Rodoviária do Plano Piloto e a Via L4",
       "category": "Mundo"
-    },
-    {
-      "title": "Com menos de dois anos de vida, Planalto-GO conquista Feminino A3",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/com-menos-de-dois-anos-de-vida-planalto-go-conquista-feminino-a3",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:00:00+00:00",
-      "summary": "O Planalto Esporte Clube , de Aparecida de Goiânia (GO), colocou Goiás na lista dos estados campeões nacionais entre as mulheres. Na noite de sábado (5), o Corvo da Massa (apelido da equipe) conquistou o título da Série A3 (terceira divisão) do Campeonato Brasileiro Feminino de futebol, ao derrotar o Juventude-SE por 1",
-      "category": "Esportes"
     }
   ],
   "sources": [
