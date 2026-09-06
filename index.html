@@ -3,26 +3,55 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Painel de notícias em português, atualizado automaticamente.">
-  <title>Olho de Deus — Notícias</title>
+  <meta name="description" content="Olho de Deus: painel de notícias em português, atualizado automaticamente.">
+  <meta property="og:title" content="Olho de Deus — Central de notícias">
+  <meta property="og:description" content="Sinais do Brasil, Portugal e do mundo em português.">
+  <title>Olho de Deus — Central de Notícias</title>
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <div class="scanlines" aria-hidden="true"></div>
   <main class="shell">
-    <header class="hero">
-      <p class="eyebrow">OLHO DE DEUS · EM PORTUGUÊS</p>
-      <h1>O que está acontecendo agora.</h1>
-      <p class="lede">Manchetes de fontes públicas do Brasil e de Portugal, reunidas em um só lugar.</p>
-      <p class="updated" id="updated">Carregando últimas notícias…</p>
+    <header class="masthead">
+      <a class="brand" href="/" aria-label="Olho de Deus, início">
+        <img src="assets/logo.svg" alt="" width="112" height="40">
+        <span>OLHO<br>DE DEUS</span>
+      </a>
+      <div class="system-state"><i></i> REDE ATIVA <span>•</span> FONTES PÚBLICAS</div>
     </header>
-    <section class="controls" aria-label="Filtros">
-      <label class="search"><span>Buscar</span><input id="search" type="search" placeholder="Assunto, cidade ou palavra-chave"></label>
-      <label><span>Fonte</span><select id="source"><option value="">Todas as fontes</option></select></label>
+
+    <section class="hero">
+      <div>
+        <p class="kicker">CENTRAL DE INTELIGÊNCIA PÚBLICA <span>///</span> EM PORTUGUÊS</p>
+        <h1>Veja o pulso<br><em>do agora.</em></h1>
+        <p class="lede">Sinais do Brasil, Portugal e do mundo — selecionados por relevância, organizados para leitura rápida.</p>
+      </div>
+      <div class="signal-card">
+        <span>ÚLTIMA SINCRONIA</span>
+        <strong id="updated">Conectando…</strong>
+        <small id="total">Aguardando sinais</small>
+      </div>
     </section>
+
+    <section class="featured-section" aria-labelledby="featured-title">
+      <div class="section-head"><p>LEITURA PRIORITÁRIA</p><h2 id="featured-title">Sinais em destaque</h2></div>
+      <div class="featured" id="featured" aria-live="polite"></div>
+    </section>
+
+    <section class="feed-head">
+      <div class="section-head"><p>FLUXO CONTÍNUO</p><h2>Radar de notícias</h2></div>
+      <div class="categories" id="categories" aria-label="Filtrar por assunto"></div>
+      <div class="controls" aria-label="Filtros">
+        <label class="search"><span>RASTREAR ASSUNTO</span><input id="search" type="search" placeholder="Palavra-chave, cidade ou tema"></label>
+        <label><span>FONTE</span><select id="source"><option value="">Todas as fontes</option></select></label>
+      </div>
+    </section>
+
     <p class="count" id="count"></p>
     <section class="grid" id="news" aria-live="polite"></section>
-    <p class="empty" id="empty" hidden>Nenhuma notícia corresponde à busca.</p>
-    <footer>O Olho de Deus exibe títulos, resumos curtos e links para as matérias originais. Confira sempre a fonte.</footer>
+    <p class="empty" id="empty" hidden>Nenhum sinal corresponde ao filtro atual.</p>
+    <footer><span>OLHO DE DEUS</span> exibe títulos, resumos curtos e links para as publicações originais. Verifique sempre a fonte.</footer>
   </main>
   <script src="app.js"></script>
 </body>
