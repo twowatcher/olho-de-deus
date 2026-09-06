@@ -1,311 +1,491 @@
 {
-  "updatedAt": "2026-09-06T15:25:54.833307+00:00",
+  "updatedAt": "2026-09-06T18:15:58.695868+00:00",
   "items": [
     {
-      "title": "Benfica repudia \"arbitragem inadmíssivel\" na Supertaça de futsal",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/benfica-repudia-arbitragem-inadmissivel-na-supertaca-de-futsal_d1763709",
+      "title": "Pedro Silva conquista Grande Prémio TSF/JN",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/pedro-silva-conquista-grande-premio-tsfjn_d1763731",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T16:14:09+00:00",
-      "summary": "O Benfica repudiou, em comunicado, a arbitragem da final da Supertaça de futsal, considerando que foram cometidos vários erros graves com influência direta no resultado e na atribuição do troféu ao Sporting.",
+      "publishedAt": "2026-09-06T19:13:57+00:00",
+      "summary": "O ciclista Pedro Silva (Feira dos Sofás-Boavista) venceu o Grande Prémio TSF/JN, mantendo a camisola amarela na quarta última e tirada, ganha em Cascais por Rafael Reis (Anicolor-campicarn).",
+      "category": "Mundo"
+    },
+    {
+      "title": "Arsenal vira dérbi contra o Chelsea",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-vira-derbi-contra-o-chelsea_d1763730",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T19:07:38+00:00",
+      "summary": "O Arsenal recebeu e venceu o Chelsea (2-1) após reviravolta no famoso dérbi da cidade de Londres, e juntou-se ao Manchester City no topo da classificação da Liga inglesa.",
       "category": "Esportes"
     },
     {
-      "title": "Infantino recandidato à presidência da FIFA",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/infantino-recandidato-a-presidencia-da-fifa_d1763708",
+      "title": "II Liga: Leixões bate Amarante",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-leixoes-bate-amarante_d1763728",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T16:10:30+00:00",
-      "summary": "O ítalo-suíço Gianni Infantino irá recandidatar-se à presidência da FIFA, cargo que ocupa desde 2016, apesar da crise desencadeada pelo seu plano fracassado, revelou hoje um porta-voz do organismo, à agência noticiosa France-Presse (AFP).",
+      "publishedAt": "2026-09-06T18:46:17+00:00",
+      "summary": "O Leixões recebeu e venceu o Amarante por 3-1, em jogo totalmente dominado pelos matosinhenses, que conseguem assim aproximar-se dos lugares cimeiros da II Liga.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Luta interna em Israel. Ministro das Finanças acusa Netanyahu de ordenar evacuação de colonatos",
+      "url": "https://www.rtp.pt/noticias/mundo/luta-interna-em-israel-ministro-das-financas-acusa-netanyahu-de-ordenar-evacuacao-de-colonatos_n1763727",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T18:34:34+00:00",
+      "summary": "O ministro estaria a referir-se a postos avançados de colonos mais ou menos improvisados, colonatos que consistem muitas das vezes em algumas caravanas ou pré-fabricados e são construídos sem a aprovação do governo israelita.",
+      "category": "Política"
+    },
+    {
+      "title": "Aryna Sabalenka nos quartos de final do US Open",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/aryna-sabalenka-nos-quartos-de-final-do-us-open_d1763724",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T18:20:25+00:00",
+      "summary": "A bielorrussa Aryna Sabalenka, bicampeã em título, qualificou-se para os quartos de final do Open dos Estados Unidos em ténis, quarto e último Grand Slam do ano, ao bater a norte-americana Taylor Townsend.",
       "category": "Mundo"
     },
     {
-      "title": "Witkoff e Kushner confiantes. Terminou em Kiev o encontro entre enviados de Trump e Zelensky",
-      "url": "https://www.rtp.pt/noticias/mundo/witkoff-e-kushner-confiantes-terminou-em-kiev-o-encontro-entre-enviados-de-trump-e-zelensky_n1763705",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T15:46:32+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "15h - PS: voto de moção de censura ainda não está definido",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-ps-voto-de-mocao-de-censura-ainda-nao-esta-definido_a1_1763704",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T15:22:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "PR de Cabo Verde: \"é uma imensa tragédia\"",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/pr-de-cabo-verde-e-uma-imensa-tragedia_a1_1763702",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T15:17:01+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cinco pessoas ficam feridas e grávida passa mal após estrutura de evento desabar durante temporal em Patos de Minas",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/06/cinco-pessoas-ficam-feridas-e-gravida-passa-mal-apos-estrutura-de-evento-desabar-durante-temporal-em-patos-de-minas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T15:15:59+00:00",
-      "summary": "Cinco ficam feridas e grávida passa mal com queda de estrutura de evento em Patos de Minas Cinco pessoas ficaram feridas e uma mulher grávida passou mal após parte da estrutura de um evento desabar no Parque de Exposições de Patos de Minas, no Alto Paranaíba, na noite deste sábado (5). Segundo o Corpo de Bombeiros, o p",
-      "category": "Cultura"
-    },
-    {
-      "title": "As notícias das 16h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2352/",
+      "title": "Os ares de Viseu não mudaram a tendência do clássico",
+      "url": "https://observador.pt/2026/09/06/os-ares-de-viseu-nao-mudaram-a-tendencia-do-classico-benfica-goleia-fc-porto-e-iguala-1o-dezembro-como-equipa-mais-titulada-de-portugal/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T15:12:48+00:00",
+      "publishedAt": "2026-09-06T18:13:54+00:00",
+      "summary": "As inspiradoras conquistaram um troféu pela 19.ª vez e são, a par do 1º Dezembro, a equipa mais titulada de Portugal no futebol feminino",
+      "category": "Esportes"
+    },
+    {
+      "title": "As notícias das 19h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2161/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T18:12:17+00:00",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
-      "title": "Dois são presos durante operação da PM em bares e adegas, em Guaratinguetá",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/06/dois-sao-presos-durante-operacao-da-pm-em-bares-e-adegas-em-guaratingueta.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T15:12:21+00:00",
-      "summary": "Dois são presos durante operação da PM em bares e adegas, em Guaratinguetá Divulgação/PM Dois homens foram presos, além de um revólver apreendido, durante uma operação da Polícia Militar contra a criminalidade nas proximidades de bares e adegas, na madrugada deste domingo (6), em Guaratinguetá (SP). Segundo a PM, equip",
-      "category": "Mundo"
-    },
-    {
-      "title": "3º dia de Rock in Rio tem chuva, Calvin Harris, Black Eyed Peas e Ne-yo",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T15:08:09+00:00",
-      "summary": "3º dia de Rock in Rio tem chuva, Calvin Harris, Black Eyed Peas e Ne-yo Festival entra no universo pop neste domingo (6). O que pode e o que não pode levar para a Cidade do Rock? Veja.. Como chegar no Rock in Rio de ônibus, carro ou metrô?. Festival acontece até dia 13. Veja a programação completa.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Quem não sabe andar nas alturas tende a cair à lei da bomba",
-      "url": "https://observador.pt/2026/09/06/quem-nao-sabe-andar-nas-alturas-tende-a-cair-a-lei-da-bomba-man-united-empata-em-casa-do-everton-com-golaco-na-ultima-jogada/",
+      "title": "Pianista Maria João Pires anuncia academia 'online'",
+      "url": "https://observador.pt/2026/09/06/pianista-maria-joao-pires-anuncia-academia-online-com-residencias-em-belgais/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T15:07:46+00:00",
-      "summary": "Sesko saiu do banco para colocar os red devils de novo em vantagem aos 88 minutos, mas Maitland-Niles empatou no último lance",
-      "category": "Mundo"
-    },
-    {
-      "title": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/06/a-apresentadora-de-tv-condenada-a-morte-por-trafico-de-drogas-no-egito.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T15:06:03+00:00",
-      "summary": "Sarah Khalifa é mais conhecida por seu programa de TV Missão Impossível, que abordava questões relacionadas ao crime. Sarah Khalifa/Instagram A apresentadora de televisão egípcia Sarah Khalifa e outras 11 pessoas foram condenadas à morte por enforcamento após serem consideradas culpadas por acusações relacionadas a dro",
-      "category": "Mundo"
-    },
-    {
-      "title": "Processo seletivo em Campo Novo de Rondônia com salário de até R$ 5,2 mil termina nesta segunda",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/09/06/processo-seletivo-em-campo-novo-de-rondonia-com-salario-de-ate-r-52-mil-termina-nesta-segunda.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T15:03:22+00:00",
-      "summary": "Imagem ilustrativa de processo seletivo Magnific/IA ⌛Terminam nesta segunda-feira, 7 de setembro de 2026, as inscrições para o processo seletivo simplificado da Prefeitura de Campo Novo de Rondônia (RO). O certame oferece 12 vagas imediatas e temporárias na Secretaria Municipal de Assistência Social (Semas), com vencim",
+      "publishedAt": "2026-09-06T18:04:22+00:00",
+      "summary": "A pianista Maria João Pires anunciou o lançamento da primeira edição da \"MJP Piano Academy\", espaço online dedicado ao ensino de piano. Haverá 'masterclasses' no Centro de Artes de Belgais.",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Ecopeneiras: conheça a tecnologia que será usada em grande ação de limpeza na praia de Alter do Chão antes do Sairé 2026",
-      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/06/ecopeneiras-conheca-a-tecnologia-que-sera-usada-em-grande-acao-de-limpeza-na-praia-de-alter-do-chao-antes-do-saire-2026.ghtml",
+      "title": "Morre Paulo Eduardo Gomes, fundador do PT-RJ e do PSOL em Niterói",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/06/morre-paulo-eduardo-gomes.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-06T15:03:05+00:00",
-      "summary": "Ecopeneiras serão utilizadas em ação de limpeza em Alter do Chão Divulgação Às vésperas da celebração do Sairé 2026, a vila balneária de Alter do Chão, em Santarém, no oeste do Pará, receberá no dia 14 de setembro, a partir das 7h, uma grande mobilização de limpeza de praias. A ação do Projeto Porto do Bem reunirá volu",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Alemanha prepara planos para reforçar defesa contra \"ataques híbridos\" da Rússia",
-      "url": "https://www.rtp.pt/noticias/mundo/alemanha-prepara-planos-para-reforcar-defesa-contra-ataques-hibridos-da-russia_n1763678",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:59:06+00:00",
-      "summary": "O Governo da Alemanha elaborou planos de segurança para reforçar as defesas do país contra \"ataques híbridos\" da Rússia, na sequência do recente incidente com drones no aeroporto de Leipzig, que Berlim atribuiu a Moscovo.",
-      "category": "Política"
-    },
-    {
-      "title": "Idosa morta por touro de rodeio no Paraná estava na cidade para visitar amigas: 'Estou sem acreditar'",
-      "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/06/amigas-idosa-morta-touro-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:58:58+00:00",
-      "summary": "Touro de rodeio foge por ruas e mata mulher em Barbosa Ferraz A mulher que foi morta por um touro em Barbosa Ferraz, no centro-oeste do Paraná, foi identificada como Juraci Francisco, de 78 anos. O animal fugiu durante a festa de comemoração dos 66 anos da cidade, que contava com uma programação de rodeios, e atacou a ",
+      "publishedAt": "2026-09-06T17:59:32+00:00",
+      "summary": "Morre Paulo Eduardo Gomes, fundador do PT-RJ e do PSOL em Niterói Reprodução/Instagram PSOLNiterói Morreu na noite deste sábado (5), aos 75 anos, Paulo Eduardo Gomes, ex-vereador de Niterói, na Região Metropolitana do Rio. Paulo foi um dos fundadores do PT-RJ e do PSOL Niterói, que publicou uma nota em homenagem ao pol",
       "category": "Mundo"
     },
     {
-      "title": "Raio atinge imóvel e provoca incêndio em central de monitoramento em Bastos",
-      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/06/raio-atinge-imovel-e-provoca-incendio-em-central-de-monitoramento-em-bastos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:58:39+00:00",
-      "summary": "Raio que atingiu imóvel provocou incêndio em central de monitoramento e painel elétrico em Bastos (SP) Defesa Civil/Divulgação Um raio atingiu um imóvel na área rural de Bastos (SP) e provocou um incêndio na central de monitoramento e no painel elétrico da estrutura, neste sábado (5). Ninguém ficou ferido. De acordo co",
-      "category": "Clima"
-    },
-    {
-      "title": "Santa Clara - Rio Ave",
-      "url": "https://www.rtp.pt/noticias/desporto/santa-clara-rio-ave_e1763696",
+      "title": "Vitória de Guimarães - Casa Pia",
+      "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-casa-pia_e1763697",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T14:57:23+00:00",
+      "publishedAt": "2026-09-06T17:53:23+00:00",
       "summary": "Registo em direto dos principais lances desta partida da 5.ª jornada da I Liga.",
       "category": "Esportes"
     },
     {
-      "title": "Mais história, 60 anos depois: Kimi de 19.º para a vitória",
-      "url": "https://observador.pt/2026/09/06/das-lagrimas-pela-ferrari-a-festa-por-novo-feito-historico-60-anos-depois-kimi-antonelli-sai-de-19-o-para-a-vitoria-em-italia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:56:53+00:00",
-      "summary": "Kimi Antonelli superou George Russell a três voltas do final, carimbando a recuperação de 19.º para o topo da classificação",
-      "category": "Mundo"
-    },
-    {
-      "title": "Médio Oriente. Gaza enterra 100 corpos recuperados nos últimos dias",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/medio-oriente-gaza-enterra-100-corpos-recuperados-nos-ultimos-dias_n1763676",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:56:00+00:00",
-      "summary": "Centenas de palestinianos participaram hoje na Faixa de Gaza num funeral de 100 pessoas, dos quais 70 crianças, cujos corpos foram recuperados nos últimos dias dos escombros de edifícios bombardeados por Israel.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Miguel Oliveira penalizado na segunda corrida em Magny-Cours",
-      "url": "https://www.rtp.pt/noticias/motores/miguel-oliveira-penalizado-na-segunda-corrida-em-magny-cours_d1763694",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:55:11+00:00",
-      "summary": "O piloto português Miguel Oliveira (BMW) terminou na 15.ª posição a segunda corrida da ronda francesa do Mundial de Superbikes, depois de ser penalizado em três segundos por cortar a pista sem perder tempo suficiente.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Kimi Antonelli vence GP da Itália e encerra jejum de 60 anos na Fórmula 1",
-      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/kimi-antonelli-vence-gp-da-italia-e-encerra-jejum-de-60-anos-na-formula-1/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:55:03+00:00",
-      "summary": "Um piloto da casa não vencia a prova da Itália desde 1966",
-      "category": "Mundo"
-    },
-    {
-      "title": "Grito dos Excluídos no Amapá defende mulheres, Amazônia e protesta contra injustiças sociais",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/06/grito-dos-excluidos-defende-mulheres-amazonia-e-protesta-contra-injusticas-sociais.ghtml",
+      "title": "3º dia de Rock in Rio tem chuva, Calvin Harris, Black Eyed Peas e Ne-yo; brinquedos são suspensos",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-06T14:54:20+00:00",
-      "summary": "Movimento religioso relembra a importãncia da preservação e defesa da terra Projeto Árvores Gigantes da Amazônia/ Divulgação O 32º Grito dos Excluídos ocorre nesta segunda-feira (7), feriado da Independência. O ato reúne fé e mobilização contra injustiças sociais. Neste ano, o tema é “Vida em primeiro lugar”, com desta",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem é preso por dirigir bêbado e sem CNH após avançar sinal vermelho e bater de frente com moto em MS",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/06/homem-e-preso-por-dirigir-bebado-e-sem-cnh-apos-avancar-sinal-vermelho-e-bater-de-frente-com-moto-em-ms.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:53:25+00:00",
-      "summary": "O caso foi registrado na Delegacia de Pronto Atendimento Comunitário (Depac) Cepol. Eduardo de Almeida/TV Morena Um homem de 47 anos foi preso em flagrante por dirigir embriagado e sem Carteira Nacional de Habilitação (CNH) após avançar o sinal vermelho e bater de frente com uma motocicleta na noite deste sábado (5), n",
+      "publishedAt": "2026-09-06T17:52:24+00:00",
+      "summary": "3º dia de Rock in Rio tem chuva, Calvin Harris, Black Eyed Peas e Ne-yo; brinquedos são suspensos Festival entra no universo pop neste domingo (6). O que pode e o que não pode levar para a Cidade do Rock? Veja.. Como chegar no Rock in Rio de ônibus, carro ou metrô?. Festival acontece até dia 13. Veja a programação comp",
       "category": "Cultura"
     },
     {
-      "title": "Quase 1 ano após crime, Justiça marca júri de PM acusado de assassinar esposa na frente das filhas dela no AC",
-      "url": "https://g1.globo.com/ac/acre/noticia/2026/09/06/quase-1-ano-apos-crime-justica-marca-juri-de-pm-acusado-de-assassinar-esposa-na-frente-das-filhas-dela-no-ac.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:53:13+00:00",
-      "summary": "Caso Ionara: Suspeito de matar esposa foi preso e arma dele é apreendida na época do crime O ex-tenente da reserva remunerada da Polícia Militar do Acre (PM-AC), Reginaldo de Freitas Rodrigues, de 56 anos, acusado de matar a esposa Ionara da Silva Nazaré, de 29 anos, vai a júri popular no dia 17 deste mês. A data do ju",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lavrov acusa Alemanha de iniciar uma \"verdadeira guerra\" contra a Rússia",
-      "url": "https://www.rtp.pt/noticias/mundo/lavrov-acusa-alemanha-de-iniciar-uma-verdadeira-guerra-contra-a-russia_n1763669",
+      "title": "Líder Barcelona `passeia` em Valência",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/lider-barcelona-passeia-em-valencia_d1763723",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T14:52:33+00:00",
-      "summary": "O ministro dos Negócios Estrangeiros russo acusou hoje a Alemanha de iniciar uma \"verdadeira guerra\" contra a Rússia, devido à reação de Berlim perante o alegado envolvimento de Moscovo no recente incidente com um drone no aeroporto de Leipzig.",
-      "category": "Política"
-    },
-    {
-      "title": "Polícia apreende R$ 330 mil em espécie em casa onde foram encontradas 12 armas de fogo em Fortaleza",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/06/policia-apreende-r-330-mil-em-especie-em-casa-onde-foram-encontradas-12-armas-de-fogo-em-fortaleza.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:52:17+00:00",
-      "summary": "Mulher é presa por esconder fuzil e mais 11 armas de fogo em casa em Fortaleza A Polícia Militar divulgou, neste domingo (6), que a o dinheiro apreendido na mesma residência onde foram encontradas 12 armas de fogo totalizou R$ 330 mil. Drogas também foram localizadas na casa na comunidade da Colônia, no bairro Barra do",
-      "category": "Mundo"
-    },
-    {
-      "title": "Szymon Marciniak arbitra FC Porto-Manchester City",
-      "url": "https://www.rtp.pt/noticias/fc-porto/szymon-marciniak-arbitra-fc-porto-manchester-city_d1763693",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:52:01+00:00",
-      "summary": "O árbitro polaco Szymon Marciniak vai dirigir na terça-feira o encontro entre o FC Porto e o Manchester City, da primeira jornada da fase de liga da Liga dos Campeões, anunciou a UEFA.",
+      "publishedAt": "2026-09-06T17:51:59+00:00",
+      "summary": "O FC Barcelona ultrapassou sem dificuldades o Valência (5-0), em jogo da quarta jornada da Liga espanhola, e isolou-se na liderança da competição só com vitórias.",
       "category": "Esportes"
     },
     {
-      "title": "Veritá: Flávio tem 38,9% no 1º turno; Lula, 38,4% e Cury, 12,2%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/verita-flavio-tem-389-no-1o-turno-lula-384-e-cury-122/",
-      "source": "CNN Brasil",
+      "title": "AfD diz ter 'mandato para governar' após liderar projeções na Saxônia-Anhalt; oposição descarta apoio",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/06/afd-saxonia-anhalt-eleicoes.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-06T14:49:58+00:00",
-      "summary": "Foram entrevistados 3.804 eleitores entre os dias 1º e 4 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "publishedAt": "2026-09-06T17:50:39+00:00",
+      "summary": "Extrema direita na frente em eleição na Alemanha Líderes da Alternativa para a Alemanha (AfD), partido de extrema direita, afirmaram neste domingo (6) que as projeções da eleição na Saxônia-Anhalt, no leste da Alemanha, deram à legenda um “mandato para governar” o estado. O principal candidato do partido, Ulrich Siegmu",
+      "category": "Política"
+    },
+    {
+      "title": "Desfile de 7 de setembro em Manaus: confira como ficará o trânsito e transporte coletivo na área",
+      "url": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/09/06/desfile-de-7-de-setembro-em-manaus-confira-como-ficara-o-transito-e-transporte-coletivo-na-area.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:48:49+00:00",
+      "summary": "Desfile cívico-militar marca comemorações da Independência do Brasil em Manaus. Leandro Guedes, Rede Amazônica Na segunda-feira (7), a Prefeitura de Manaus vai interditar trechos da avenida Constantino Nery e vias próximas ao sambódromo para a realização do Desfile Militar da Semana da Pátria. A operação especial de tr",
       "category": "Mundo"
     },
     {
-      "title": "Cantanhede: interface multimodal junto à antiga estação",
-      "url": "https://observador.pt/2026/09/06/cantanhede-vai-criar-interface-multimodal-junto-a-antiga-estacao-ferroviaria/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:49:36+00:00",
-      "summary": "O futuro interface vai integrar a rede de ciclovia e ficará apto a receber o Sistema de Mobilidade do Mondego, no âmbito do projeto de expansão do 'metrobus' (autocarro articulado em via dedicada) ao concelho de Cantanhede",
+      "title": "Dia da Independência terá desfile cívico e exposição cultural em Divinópolis; veja a programação",
+      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/06/dia-da-independencia-tera-desfile-civico-e-exposicao-cultural-em-divinopolis-veja-a-programacao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:48:28+00:00",
+      "summary": "Desfile cívico em Divinópolis Prefeitura de Divinópolis/Divulgação O Dia da Independência do Brasil, celebrado na segunda-feira (7), terá desfile cívico militar, exposição cultural e ações educativas em Divinópolis. A programação divulgada pela Prefeitura segue até a sexta-feira (11). A programação tem como objetivo va",
       "category": "Cultura"
     },
     {
-      "title": "Mediterrâneo atingiu recorde de 28,54 graus a 13 de agosto",
-      "url": "https://observador.pt/2026/09/06/aguas-do-mediterraneo-atingiram-recorde-de-2854-graus-a-13-de-agosto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:49:32+00:00",
-      "summary": "Durante praticamente todo o mês de agosto, o Mediterrâneo bateu recordes diários de temperatura",
+      "title": "Tiramisu e iogurte: gastronomia e ciência se unem para popularizar a uvaia no interior e litoral de SP",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/06/tiramisu-e-iogurte-gastronomia-e-ciencia-se-unem-para-popularizar-a-uvaia-no-interior-e-litoral-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:47:38+00:00",
+      "summary": "Sobremesa com uvaia Divulgação/Café com Leide Você conhece a uvaia? Já provou ou a viu nas bancas de feira? Se você não conhece esta fruta de tonalidade amarela, não se preocupe, porque você não está só. Essa fruta pequena e bem ácida, nativa da Mata Atlântica, ainda é pouco conhecida pelos consumidores. Apesar disso, ",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Homem é preso com drogas em Volta Redonda",
+      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/06/homem-e-preso-com-drogas-em-volta-redonda.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:47:08+00:00",
+      "summary": "Homem é preso com drogas em Volta Redonda Divulgação/Polícia Militar Um homem foi preso com drogas no sábado (5) em Volta Redonda (RJ). O caso aconteceu no Morro da Conquista, no bairro Santo Agostinho. Segundo a Polícia Militar, os agentes foram até o local e encontraram o suspeito. Ainda de acordo com a PM, durante a",
       "category": "Mundo"
     },
     {
-      "title": "Zverev e Rybakina confirmam favoritismo no US Open",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/zverev-e-rybakina-confirmam-favoritismo-no-us-open_d1763692",
+      "title": "Chuva forte na Zona Sudoeste faz Rock in Rio suspender agendamento da roda-gigante e tirolesa; veja",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/06/chuva-rock-in-rio-terceiro-dia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:47:01+00:00",
+      "summary": "Chuva faz Rock in Rio suspender os agendamentos da roda-gigante e da tirolesa Cristina Boeckel/g1 A forte chuva que atinge a Zona Sudoeste do Rio na tarde deste domingo (6) levou a organização do Rock in Rio a suspender o agendamento de 2 dos principais brinquedos da Cidade do Rock: a roda-gigante e a tirolesa. Em comu",
+      "category": "Clima"
+    },
+    {
+      "title": "Pastor investigado por usar projeto religioso para ajudar Comando Vermelho morre em MT",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/06/pastor-investigado-por-usar-projeto-religioso-para-ajudar-comando-vermelho-morre-em-mt.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:46:55+00:00",
+      "summary": "Pastor Nivaldo de Almeida Reprodução O pastor Nivaldo de Almeida morreu neste sábado (5), em Cuiabá, após sofrer complicações de um câncer. O religioso estava entre os investigados na Operação Fariseus, realizada pela Polícia Civil em julho deste ano para apurar uma possível relação de familiares dele com integrantes d",
+      "category": "Mundo"
+    },
+    {
+      "title": "Justiça Federal suspende licenças da mina da Sigma Lithium em Minas Gerais",
+      "url": "https://www.cnnbrasil.com.br/infra/justica-federal-suspende-licencas-da-mina-da-sigma-lithium-em-minas-gerais/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:41:43+00:00",
+      "summary": "Decisão foi tomada em uma ação civil movida pela Federação das Comunidades Quilombolas do Estado de Minas Gerais, na qual o grupo alegou que o projeto da mineradora se situava na área de influência direta da Comunidade Quilombola de Baú",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio atinge mais de 25 moradias em comunidade na zona Norte de SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-atinge-mais-de-25-moradias-em-comunidade-na-zona-norte-de-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:41:38+00:00",
+      "summary": "Pelo menos 10 viaturas do Corpo de Bombeiros foram empenhadas para o atendimento da ocorrência; não houve vítimas",
+      "category": "Clima"
+    },
+    {
+      "title": "Paolla Oliveira posta foto com vestido de renda transparente e fãs elogiam",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/paolla-oliveira-posta-foto-com-vestido-de-renda-transparente-e-fas-elogiam/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:40:56+00:00",
+      "summary": "Atriz dedicou o look à sua participação no programa \"Altas Horas\", exibido no último sábado (5)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Everton e Manchester United empatam em jogo emocionante",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/everton-e-manchester-united-empatam-em-jogo-emocionante_d1763722",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T14:48:16+00:00",
-      "summary": "O alemão Alexander Zverev, primeiro cabeça de série do Open dos Estados Unidos, viveu uma noite tranquila em Flushing Meadows, onde acedeu à quarta ronda, enquanto a cazaque Elena Rybakina manteve a perseguição à liderança do ranking mundial.",
+      "publishedAt": "2026-09-06T17:40:51+00:00",
+      "summary": "O Everton e o Manchester United empataram a dois golos, num encontro da terceira jornada da Liga inglesa que teve um final frenético e incerteza no marcador.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Três mulheres são presas por suspeita de raptar e torturar adolescente de 14 anos no RS",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/tres-mulheres-sao-presas-por-suspeita-de-raptar-e-torturar-adolescente-de-14-anos-no-rs.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:40:16+00:00",
+      "summary": "Três mulheres são presas por suspeita de raptar e torturar adolescente de 14 anos no RS Polícia Civil/Divulgação Três mulheres foram presas preventivamente por suspeita de raptar, roubar e torturar uma adolescente de 14 anos em Vicente Dutra, Norte do Rio Grande do Sul, na divisa com Santa Catarina. A Polícia Civil cum",
       "category": "Mundo"
     },
     {
-      "title": "Ataque de Israel deixa ao menos quatro mortos no sul do Líbano",
-      "url": "https://www.cnnbrasil.com.br/internacional/ataque-israelense-mortos-no-sul-do-libano/",
-      "source": "CNN Brasil",
+      "title": "Área equivalente a mais de 14 campos de futebol é encontrada degradada em Campos, após denúncia",
+      "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/06/area-equivalente-a-mais-de-14-campos-de-futebol-e-encontrada-degradada-em-campos-apos-denuncia.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-06T14:47:57+00:00",
-      "summary": "Apesar do cessar-fogo com grupo Hezbollah, Forças Armadas de Israel declaram operar em zona de segurança no país libanês",
+      "publishedAt": "2026-09-06T17:39:16+00:00",
+      "summary": "Vegetação nativa foi suprimida às margens de um córrego, em área considerada de preservação permanente. Programa Linha Verde Uma denúncia de crime ambiental recebida pelo Linha Verde, programa do Disque Denúncia voltado para crimes contra o meio ambiente, levou a polícia a localizar, neste sábado (5), uma área de aprox",
+      "category": "Esportes"
+    },
+    {
+      "title": "VÍDEO: cachorro cai na galeria de macrodrenagem da praia alargada de Balneário Camboriú e resgate mobiliza bombeiros",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/video-cachorro-cai-galeria-macrodrenagem-praia-alargada-balneario-camboriu.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:38:56+00:00",
+      "summary": "Cão é resgatado após cair na galeria de macrodrenagem em Balneário Camboriú Um cachorro caiu em uma abertura da galeria de macrodrenagem da praia alargada de Balneário Camboriú, no Litoral Norte de Santa Catarina, e precisou ser resgatado pelos bombeiros. O cão estava cansado, com dificuldade respiratória e tremores in",
       "category": "Mundo"
     },
     {
-      "title": "Incêndio em galpão na Ceagesp: ao menos 320 boxes foram atingidos",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-galpao-na-ceagesp-ao-menos-320-boxes-foram-atingidos/",
+      "title": "Paolla Oliveira é criticada por fãs de Virginia após mensagem para Anitta",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/paolla-oliveira-e-criticada-por-fas-de-virginia-apos-mensagem-para-anitta/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-06T14:47:29+00:00",
-      "summary": "Fogo também provocou danos generalizados nas estruturas de todo o quarteirão formado por galpões; não houve registro de vítimas",
+      "publishedAt": "2026-09-06T17:35:34+00:00",
+      "summary": "Cantora assumiu posto de Rainha de Bateria da Grande Rio no lugar da influenciadora",
       "category": "Cultura"
     },
     {
-      "title": "Amor aos livros e tempos difíceis",
-      "url": "https://observador.pt/2026/09/06/amor-aos-livros-e-tempos-dificeis/",
+      "title": "A batalha de Londres terminou com o canhão ao alto",
+      "url": "https://observador.pt/2026/09/06/a-batalha-de-londres-terminou-com-o-canhao-ao-alto-arsenal-vence-chelsea-com-reviravolta-e-iguala-manchester-city-na-lideranca/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-06T14:41:38+00:00",
-      "summary": "As ilustrações a guache e aguarela são de Yas Imamura, asiática-americana com trabalhos sobre Antigo Egipto, dinossauros, a artista Yoko Ono (2025) e a astrónoma Cecilia Payne (2026), entre outros",
+      "publishedAt": "2026-09-06T17:33:51+00:00",
+      "summary": "Os gunners continuam amplamente dominadores nos dérbis contra os blues",
+      "category": "Mundo"
+    },
+    {
+      "title": "Flávio cobra voto de Cármen Lúcia a favor de investigação contra Moraes",
+      "url": "https://www.cnnbrasil.com.br/politica/flavio-cobra-voto-de-carmen-lucia-a-favor-de-investigacao-contra-moraes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:30:47+00:00",
+      "summary": "Candidato afirmou que voto contrário pela ministra seria \"muito ruim para sua história\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Governo deve converter subsídio à gasolina em desoneração",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-deve-converter-subsidio-a-gasolina-em-desoneracao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:30:25+00:00",
+      "summary": "Valor do alívio tributário ainda está em aberto, mas tendência é que se mantenha no mesmo patamar atual da subvenção, segundo apurou a CNN",
+      "category": "Política"
+    },
+    {
+      "title": "China aplicará US$ 54 bi em bancos estatais e seguradoras",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/china-aplicara-us-54-bi-em-bancos-estatais-e-seguradoras/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:30:21+00:00",
+      "summary": "Iniciativa visa reforçar o capital em todo o sistema financeiro",
+      "category": "Mundo"
+    },
+    {
+      "title": "Milhares de euros, segredos e uma arma: as buscas ao espião",
+      "url": "https://observador.pt/especiais/milhares-de-euros-em-notas-dezenas-de-documentos-secretos-e-uma-arma-as-buscas-a-casa-do-espiao-do-sis-controlado-pelos-russos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T17:22:15+00:00",
+      "summary": "Frederico Carvalhão Gil foi condenado a sete anos e quatro meses de prisão por espionagem. A história do ex-agente do SIS é revelada em \"A vida dupla do espião traidor\", o último Podcast Plus do Observador",
+      "category": "Economia"
+    },
+    {
+      "title": "Irã diz que lidará com questões econômicas e ameaça novos ataques",
+      "url": "https://www.cnnbrasil.com.br/internacional/ira-diz-que-lidara-com-questoes-economicas-e-ameaca-novos-ataques/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:20:39+00:00",
+      "summary": "Após uma pausa nas ações militares durante grande parte de agosto, os ataques de retaliação foram retomados, com o Comando Central dos EUA informando que atingiu três petroleiros iranianos no sábado (5)",
       "category": "Cultura"
+    },
+    {
+      "title": "Unicef: 15 milhões de crianças foram expostas a conteúdo sexual online",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/unicef-15-milhoes-de-criancas-foram-expostas-conteudo-sexual-online",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:15:00+00:00",
+      "summary": "Cerca de 20 milhões de crianças e adolescentes de 21 países já sofreram, no período de um ano, algum tipo de exploração ou abuso sexual facilitado pela tecnologia . Acredita-se, ainda, que 9 milhões tenham sido induzidas a manter conversas de teor sexual ou compartilhar imagens desse cunho contra sua vontade e que 4 mi",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Raphinha e Yamal comandam goleada do Barcelona em LaLiga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/raphinha-e-yamal-comandam-goleada-do-barcelona-em-laliga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:10:57+00:00",
+      "summary": "Clube catalão derrotou o Valencia por 5 a 0 fora de casa",
+      "category": "Esportes"
+    },
+    {
+      "title": "18h. Alemanha. Projeções dão vitória à AfD nas regionais",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2131/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T17:10:40+00:00",
+      "summary": "No entanto, a maioria absoluta ainda é incerta. Volodymyr Zelensky, Jared Kushner e Steve Witkoff fazem um balanço positivo da reunião em Kiev.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mirassol vence e mantém Vasco e Internacional na zona de rebaixamento",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/mirassol-vence-e-mantem-vasco-e-internacional-na-zona-de-rebaixamento",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T17:10:00+00:00",
+      "summary": "O primeiro jogo deste domingo (6) pelo Campeonato Brasileiro garantiu que, ao menos nesta 26ª rodada, não haverá mudanças na zona de rebaixamento, que engloba as quatro últimas posições (o Z-4). Melhor para o Mirassol, que venceu o Coritiba por 2 a 1 no Couto Pereira. Pior para Vasco e Internacional, que torciam por um",
+      "category": "Esportes"
+    },
+    {
+      "title": "Sondagens à boca das urnas apontam vitória histórica da extrema-direita da AfD nas regionais alemãs",
+      "url": "https://www.rtp.pt/noticias/mundo/sondagens-a-boca-das-urnas-apontam-vitoria-historica-da-extrema-direita-da-afd-nas-regionais-alemas_n1763718",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T17:08:45+00:00",
+      "summary": "A extrema-direita AFD (Alternativa para a Alemanha) conseguiu uma vitória histórica no Estado oriental da Saxónia-Anhalt, de acordo com sondagens à boca das urnas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Van Aert é o vencedor do dia na Vuelta",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/van-aert-e-o-vencedor-do-dia-na-vuelta_d1763716",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T17:05:14+00:00",
+      "summary": "O belga Wout van Aert (Visma-Lease a Bike) repetiu um feito de 2024, ao vencer a 15.ª etapa da Volta a Espanha em bicicleta em Córdova, após entrar na fuga decisiva a 31 quilómetros da meta.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Kimi Antonelli reforça liderança do Mundial de Fórmula 1",
+      "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-reforca-lideranca-do-mundial-de-formula-1_d1763715",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T17:00:37+00:00",
+      "summary": "O piloto italiano Kimi Antonelli (Mercedes) venceu o Grande Prémio de Itália de Fórmula 1, 16.ª prova da temporada, e reforçou o comando do campeonato do Mundo.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Detido jovem suspeito de matar a avó em Mafra",
+      "url": "https://www.rtp.pt/noticias/pais/detido-jovem-suspeito-de-matar-a-avo-em-mafra_n1763713",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T16:59:35+00:00",
+      "summary": "O jovem de 24 anos \"terá esfaqueado a avó\" na residência da idosa em Mafra.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Veritá: Flávio tem 48,5% no 2º turno; Lula, 43,1%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/verita-flavio-tem-485-no-2o-turno-lula-431/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T16:53:57+00:00",
+      "summary": "Lula aparece na liderança em cenários contra Augusto Cury, Pablo Marçal, Renan Santos e Ronaldo Caiado",
+      "category": "Mundo"
+    },
+    {
+      "title": "Do 19º ao 1º: Kimi Antonelli protagoniza 2ª maior reação da história da F1",
+      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/do-19o-ao-1o-kimi-antonelli-protagoniza-2a-maior-reacao-da-historia-da-f1/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T16:49:13+00:00",
+      "summary": "Italiano largou na penúltima fila por punição, venceu o Grande Prêmio da Itália em Monza e igualou feito de Bill Vukovich nas 500 Milhas de Indianápolis de 1954",
+      "category": "Mundo"
+    },
+    {
+      "title": "Von der Leyen chega à Gronelândia com medidas \"substanciais\"",
+      "url": "https://observador.pt/2026/09/06/von-der-leyen-chega-a-gronelandia-com-pacote-de-medidas-substancial/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T16:47:00+00:00",
+      "summary": "A presidente da Comissão Europeia chegou à Gronelândia levando \"um pacote de medidas substancial\". Visita pretende reafirmar o compromisso da UE com o território autónomo dinamarquês.",
+      "category": "Política"
+    },
+    {
+      "title": "Série de Harlan Coben entra para o top 5 da Netflix em 2026; saiba qual é",
+      "url": "https://www.cnnbrasil.com.br/pop/streaming/serie-de-harlan-coben-entra-para-o-top-5-da-netflix-em-2026-saiba-qual-e/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T16:42:04+00:00",
+      "summary": "\"Custe o que Custar\" alcançou a terceira posição no ranking de séries mais assistidas da plataforma no primeiro semestre desse ano",
+      "category": "Mundo"
+    },
+    {
+      "title": "Itabirito bate Minas Brasília e vai a final do Brasileiro Feminino A2",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/itabirito-bate-minas-brasilia-e-vai-final-do-brasileiro-feminino-a2",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T16:21:00+00:00",
+      "summary": "O Itabirito está na final da Série A2 (segunda divisão) do Campeonato Brasileiro Feminino de futebol. Na manhã deste domingo (6), as Gatas do Mato golearam o Minas Brasília por 4 a 0 na Arena do Jacaré, em Sete Lagoas (MG), no jogo de volta do confronto pelas semifinais. A TV Brasil transmitiu o duelo ao vivo. No prime",
+      "category": "Esportes"
+    },
+    {
+      "title": "BE questiona tempos de espera para psicologia no SNS",
+      "url": "https://observador.pt/2026/09/06/bloco-questiona-tempos-de-espera-para-primeira-consulta-de-psicologia-no-sns/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T16:18:46+00:00",
+      "summary": "O Bloco de Esquerda questionou o Governo sobre os tempos de espera para a primeira consulta de psicologia no Serviço Nacional de Saúde. Segundo a bastonária dos psicólogos pode chegar a meio ano.",
+      "category": "Política"
+    },
+    {
+      "title": "Costa sul da Madeira e Porto Santo sob aviso amarelo",
+      "url": "https://observador.pt/2026/09/06/costa-sul-da-madeira-e-porto-santo-sob-aviso-amarelo-devido-ao-tempo-quente-ate-terca-feira/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T16:18:31+00:00",
+      "summary": "O Instituto Português do Mar e da Atmosfera colocou a costa sul da Madeira e a ilha do Porto Santo sob aviso amarelo devido ao tempo quente.",
+      "category": "Clima"
+    },
+    {
+      "title": "17h. Eleições Alemanha. Participação perto de valor recorde",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2279/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T16:12:45+00:00",
+      "summary": "Encerram, por esta hora, as urnas no estado da Saxónia-Anhalt. Perto de 70% dos eleitores compareceram. Possibilidade do partido de extrema-direita AfD conquistar a maioria absoluta.",
+      "category": "Política"
+    },
+    {
+      "title": "Sondagem dá vitória à AfD com 44% — maioria ainda incerta",
+      "url": "https://observador.pt/2026/09/06/sondagem-a-boca-das-urnas-da-vitoria-a-afd-com-44-das-intencoes-de-voto-maioria-absoluta-ainda-incerta/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T16:11:30+00:00",
+      "summary": "Partido de extrema-direita conseguiu obter vitória confortável na Saxónia-Anhalt com 44% das intenções de voto. Ainda assim, projeções não dão maioria absoluta à AfD. CDU em segundo.",
+      "category": "Política"
+    },
+    {
+      "title": "PS não revela decisão sobre moção de censura",
+      "url": "https://observador.pt/2026/09/06/ps-diz-garantir-estabilidade-mas-nao-revela-decisao-sobre-mocao-de-censura/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-06T16:07:35+00:00",
+      "summary": "O secretário-geral do Partido Socialista recusa assumir qual a decisão que o partido tomará na moção de censura apresentada pelo Chega, mas reafirmou que vai garantir a estabilidade política.",
+      "category": "Política"
+    },
+    {
+      "title": "Mega-Sena acumula e próximo sorteio terá prêmio de R$ 70 milhões",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-e-proximo-sorteio-tera-premio-de-r-70-milhoes",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T15:54:00+00:00",
+      "summary": "O concurso 3054 da Mega-Sena, realizado nesta manhã (6) na sede da Caixa em São Paulo (SP), não teve nenhum acertador para o prêmio principal. Os números sorteados foram 08-17-24-43-47-58. Com a ausência de vencedores, o prêmio para o próximo concurso, que será sorteado na terça-feira (8), está estimado em R$ 70 milhõe",
+      "category": "Mundo"
+    },
+    {
+      "title": "Maria Clara Pacheco mantém hegemonia no ciclo olímpico do taekwondo",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/maria-clara-pacheco-mantem-hegemonia-no-ciclo-olimpico-do-taekwondo",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T15:32:00+00:00",
+      "summary": "O ciclo olímpico de Maria Clara Pacheco no taekwondo é quase perfeito. Neste domingo (6), a brasileira conquistou o oitavo título em nove competições desde os Jogos de Paris (França), sendo o sexto seguido. Agora, a paulista de 23 anos venceu o Grand Prix de Muju (Coreia do Sul), seguindo hegemônica na categoria até 57",
+      "category": "Esportes"
+    },
+    {
+      "title": "Incêndio atinge pavilhão de frutas no Ceagesp; não há vítimas",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/incendio-atinge-pavilhao-de-frutas-no-ceagesp-nao-ha-vitimas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-06T14:55:00+00:00",
+      "summary": "Um incêndio de grandes proporções que começou na noite de sábado (5) atingiu 320 boxes do pavilhão MFE-A, onde são comercializadas frutas na Companhia de Entrepostos e Armazéns Gerais de São Paulo (Ceagesp). O fogo começou por volta das 23h e foi combatido durante cerca de três horas e meia por 16 viaturas do corpo de ",
+      "category": "Clima"
     },
     {
       "title": "Roda de Choro estreia com homenagem a disco de Jacob do Bandolim",
@@ -317,42 +497,6 @@
       "category": "Clima"
     },
     {
-      "title": "Camisa de Neymar: polícia identifica torcedores que hostilizaram criança",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/camisa-de-neymar-policia-identifica-torcedores-que-hostilizaram-crianca/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:31:27+00:00",
-      "summary": "Grupo de seis torcedores é suspeito de provocar tumulto após menino receber camisa do jogador em clássico entre Corinthians e Santos na Neo Química Arena",
-      "category": "Mundo"
-    },
-    {
-      "title": "PS acusa Governo de \"faltar à verdade\" sobre combustíveis",
-      "url": "https://observador.pt/2026/09/06/ps-acusa-governo-de-faltar-a-verdade-sobre-receitas-dos-combustiveis/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:29:36+00:00",
-      "summary": "\"E se compararmos com a data em que o Governo tomou, pela primeira vez, posse, em abril de 2024, significa que cada português está a pagar mais de 26 euros por cada 50 litros de gasóleo\", contabilizou José Luís Carneiro",
-      "category": "Política"
-    },
-    {
-      "title": "“Guerra interna”: Como a crise no STF repercute na imprensa internacional",
-      "url": "https://www.cnnbrasil.com.br/internacional/guerra-interna-como-a-crise-no-stf-repercute-na-imprensa-internacional/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:27:47+00:00",
-      "summary": "Veículos estrangeiros destacam a disputa entre os ministros Alexandre de Moraes e André Mendonça após retirada de sigilo de relatório da PF sobre o ex-banqueiro Daniel Vorcaro",
-      "category": "Política"
-    },
-    {
-      "title": "Xuxa volta a comentar sobre ter “pacto com diabo”: “Deus me deu tudo”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/xuxa-volta-a-comentar-sobre-ter-pacto-com-diabo-deus-me-deu-tudo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:23:17+00:00",
-      "summary": "Apresentadora rebateu antigos rumores e negou qualquer ligação com \"forças malignas\"",
-      "category": "Esportes"
-    },
-    {
       "title": "Prêmio para mulheres e meninas cientistas abre inscrições até outubro",
       "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-para-mulheres-e-meninas-cientistas-abre-inscricoes-ate-outubro",
       "source": "Agência Brasil",
@@ -360,42 +504,6 @@
       "publishedAt": "2026-09-06T14:21:00+00:00",
       "summary": "As inscrições para o Prêmio Carolina Bori Ciência & Mulheres estão abertas até o dia 30 de outubro. O objetivo é reconhecer jovens talentosas cujas pesquisas de iniciação científica demonstrem criatividade, rigor metodológico e potencial para contribuir para o futuro da ciência no país. Promovido pela Sociedade Brasile",
       "category": "Ciência & Tech"
-    },
-    {
-      "title": "15h. Cabo Verde vai decretar dois dias de luto nacional",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2448/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:12:24+00:00",
-      "summary": "Acidente com autocarro escolar provocou 25 mortes. Ainda, autoridades investigam denúncia que dá conta de que 30 pessoas chegaram num bote a uma praia de Sesimbra.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mega-Sena 3054 acumula e prêmio vai a R$ 70 milhões; veja números sorteados",
-      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/resultado-mega-sena-3054-6-setembro-2026/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:09:14+00:00",
-      "summary": "Mais de 5 mil apostas levaram premiações parciais; próximo sorteio será realizado na terça-feira (8)",
-      "category": "Mundo"
-    },
-    {
-      "title": "Weimar: o terror na véspera do Terceiro Reich",
-      "url": "https://observador.pt/especiais/weimar-o-terror-na-cidade-historica-na-vespera-do-terceiro-reich/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T14:07:29+00:00",
-      "summary": "Adolf Hitler lidera uma marcha com cerca de 5 mil homens pelas ruas de Weimar, cidade que em 1926 acolher a primeira reunião do Partido dos Trabalhadores Nacional-Socialistas alemão",
-      "category": "Política"
-    },
-    {
-      "title": "Ivete Sangalo dá beijão em namorado em show; veja",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/ivete-sangalo-da-beijao-em-namorado-em-show-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:03:40+00:00",
-      "summary": "Tiago Maia está em Portugal para acompanhar cantora em estreia de turnê",
-      "category": "Cultura"
     },
     {
       "title": "Confira dicas para acompanhar o Desfile de 7 de Setembro em Brasília",
@@ -407,24 +515,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Sessões de cinema trazem sorrisos de volta às crianças de Gaza",
-      "url": "https://www.cnnbrasil.com.br/internacional/sessoes-de-cinema-trazem-sorrisos-de-volta-as-criancas-de-gaza/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:00:14+00:00",
-      "summary": "Iniciativa \"Little Wings\" (Pequenas Asas), realizada pelo Fundo Masharawi para Filmes e Cineastas em Gaza, busca trazer uma distração para o medo enfrentado durante a guerra",
-      "category": "Cultura"
-    },
-    {
-      "title": "“Vinho de cobra”: bebida milenar com serpente dentro da garrafa chama atenção na Ásia",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/vinho-de-cobra-bebida-milenar-com-serpente-dentro-da-garrafa-chama-atencao-na-asia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T14:00:05+00:00",
-      "summary": "O destilado é encontrado em países como Vietnã, Laos, Tailândia e sul da China e reúne tradição, crenças populares e curiosidade turística",
-      "category": "Mundo"
-    },
-    {
       "title": "Com menos de dois anos de vida, Planalto-GO conquista Feminino A3",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/com-menos-de-dois-anos-de-vida-planalto-go-conquista-feminino-a3",
       "source": "Agência Brasil",
@@ -432,96 +522,6 @@
       "publishedAt": "2026-09-06T14:00:00+00:00",
       "summary": "O Planalto Esporte Clube , de Aparecida de Goiânia (GO), colocou Goiás na lista dos estados campeões nacionais entre as mulheres. Na noite de sábado (5), o Corvo da Massa (apelido da equipe) conquistou o título da Série A3 (terceira divisão) do Campeonato Brasileiro Feminino de futebol, ao derrotar o Juventude-SE por 1",
       "category": "Esportes"
-    },
-    {
-      "title": "Deputada do PT aciona polícia e MPE após receber ameaça de estupro e morte",
-      "url": "https://www.cnnbrasil.com.br/politica/deputada-do-pt-aciona-policia-e-mpe-apos-receber-ameaca-de-estupro-e-morte/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T13:59:21+00:00",
-      "summary": "Natália Bonavides recebeu um e-mail de um grupo que diz representar o Ku Klux Klan – organização terrorista que defende a supremacia branca",
-      "category": "Mundo"
-    },
-    {
-      "title": "Acidente em Cabo Verde. \"Não há nenhum indício de crime\"",
-      "url": "https://observador.pt/programas/resposta-pronta/acidente-em-cabo-verde-nao-ha-nenhum-indicio-de-crime/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T13:57:49+00:00",
-      "summary": "O correspondente Jaime Rodrigues da agência cabo-verdiana Inforpress explica à Rádio Observador todos os detalhes que se conhecem do acidente que já vitimou pelo menos 25 pessoas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dupla de Luisa Stefani vence mais uma e vai às oitavas do US Open",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/dupla-de-luisa-stefani-vence-mais-uma-e-vai-oitavas-do-us-open",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T13:36:00+00:00",
-      "summary": "A paulista Luisa Stefani está classificada para as oitavas de final do torneio de duplas femininas do US Open. Na noite deste sábado (5), a parceria da brasileira – quarta do mundo no ranking da Associação de Tênis Feminino (WTA) –, com a canadense Gabriela Dabrowski – teceira no mesmo ranking – derrotou a italiana Sar",
-      "category": "Mundo"
-    },
-    {
-      "title": "Golpe do sósia usa tecnologia para tentar burlar biometria",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/golpe-do-sosia-usa-tecnologia-para-tentar-burlar-biometria",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T13:23:00+00:00",
-      "summary": "Uma nova estratégia de fraude de identidade usa tecnologia de comparação facial para encontrar pessoas com características físicas semelhantes às dos próprios criminosos. O método, chamado de “golpe do sósia”, foi identificado pela equipe de inteligência analítica da Serasa Experian e descrito na edição do Mapa da Frau",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Flip 2026: Conversa com o Autor traz especial com Bethânia Pires Amaro",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/flip-2026-conversa-com-o-autor-traz-especial-com-bethania-pires-amaro",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T13:17:00+00:00",
-      "summary": "Neste domingo, às 12h30, a Rádio MEC leva ao ar uma edição especial do programa Conversa com o Autor , gravada diretamente da Festa Literária Internacional de Paraty (Flip 2026). Conduzido pela jornalista Katy Navarro, o bate-papo recebe Bethânia Pires Amaro, um dos nomes mais celebrados da literatura brasileira contem",
-      "category": "Mundo"
-    },
-    {
-      "title": "14h. Autoridades procuram pessoas após chegada de barco",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2467/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T13:09:54+00:00",
-      "summary": "Polícia Marítima de Setúbal explica que estão em cima da mesa todos os cenários e que vão continuar as buscas por terra e por mar. Ainda, já decorre a reunião entre a Ucrânia e os enviados dos EUA.",
-      "category": "Mundo"
-    },
-    {
-      "title": "O ponto no final que não apaga vários pontos de interrogação",
-      "url": "https://observador.pt/2026/09/06/o-ponto-no-final-que-nao-apaga-varios-pontos-de-interrogacao-miguel-oliveira-fecha-fim-de-semana-no-15-o-lugar-em-magny-cours/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-06T13:05:31+00:00",
-      "summary": "Após ter fechado a corrida superpole em 12.º, Miguel Oliveira voltou a mostrar que as duas BMW estavam a anos luz da concorrência em França e não foi além de uma 15.ª posição na corrida 2 em França.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Recursos precisam chegar a povos tradicionais, defende Fundo Brasil",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/recursos-precisam-chegar-povos-tradicionais-defende-fundo-brasil",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T12:44:00+00:00",
-      "summary": "À frente da fundação filantrópica Fundo Brasil desde maio deste ano, a diretora executiva Allyne Andrade chegou à instituição para ajudar a repensar a luta por direitos humanos frente aos desafios que agravam a desigualdade social no país. Carioca de Realengo, na Zona Oeste, e com origem na política de cotas da Univers",
-      "category": "Mundo"
-    },
-    {
-      "title": "Rádio Nacional transmite Remo e Flamengo pelo Brasileirão hoje",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/radio-nacional-transmite-remo-e-flamengo-pelo-brasileirao-hoje",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T12:40:00+00:00",
-      "summary": "A Rádio Nacional leva ao ar neste domingo (6) a partida válida pela 26ª rodada da Série A do Brasileirão 2026 entre Remo e Flamengo. As equipes duelam pelos 3 pontos direto do Estádio Mangueirão, em Belém, Pará. O Remo recebe o Flamengo para um confronto pelo Campeonato Brasileiro que não acontece em Belém desde 2 de a",
-      "category": "Esportes"
-    },
-    {
-      "title": "Rádio MEC: Caderno de Música lembra 130 anos da morte de Carlos Gomes",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/radio-mec-caderno-de-musica-lembra-130-anos-da-morte-de-carlos-gomes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-06T12:28:00+00:00",
-      "summary": "O Caderno de Música que a Rádio MEC leva ao ar nos próximos dois domingos lembra os 130 anos de morte de Carlos Gomes, um dos principais compositores brasileiros do século XIX. O programa especial, que destaca a trajetória do primeiro compositor das Américas a alcançar projeção duradoura nos grandes teatros de ópera da",
-      "category": "Cultura"
     }
   ],
   "sources": [
