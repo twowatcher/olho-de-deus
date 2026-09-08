@@ -1,6 +1,429 @@
 {
-  "updatedAt": "2026-09-07T21:30:55.277123+00:00",
+  "updatedAt": "2026-09-08T00:22:44.788032+00:00",
   "items": [
+    {
+      "title": "Por 30 dólares por hora robôs humanoides oferecem serviços de limpeza em São Francisco",
+      "url": "https://www.rtp.pt/noticias/mundo/por-30-dolares-por-hora-robos-humanoides-oferecem-servicos-de-limpeza-em-sao-francisco_n1763958",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T00:43:31+00:00",
+      "summary": "Uma empresa de robótica de São Francisco (Califórnia), iniciou um programa piloto que oferece limpeza de residências e comércios por robôs humanoides por 30 dólares por hora, iniciativa que pretende alargar nos EUA e no mundo.",
+      "category": "Economia"
+    },
+    {
+      "title": "0h PS vai abster-se na votação da moção de censura do Chega ao governo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-ps-vai-abster-se-na-votacao-da-mocao-de-censura-do-chega-ao-governo_a1_1763957",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T00:26:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Procurador-geral da Ucrânia demite-se após acusações de corrupção",
+      "url": "https://www.rtp.pt/noticias/mundo/procurador-geral-da-ucrania-demite-se-apos-acusacoes-de-corrupcao_n1763950",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T00:24:36+00:00",
+      "summary": "O procurador-geral da Ucrânia, Ruslan Kravchenko, demitiu-se esta segunda-feira, após buscas realizadas no fim de semana no seu gabinete no âmbito de uma investigação por corrupção sobre centros de atendimento fraudulentos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "PS vai abster-se na moção de censura do Chega ao Governo",
+      "url": "https://www.rtp.pt/noticias/politica/ps-vai-abster-se-na-mocao-de-censura-do-chega-ao-governo_n1763955",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T00:19:45+00:00",
+      "summary": "José Luís Carneiro considera que esta posição evita uma crise política mas não iliba o Governo de responsabilidades.",
+      "category": "Política"
+    },
+    {
+      "title": "As notícias da 1h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2377/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T00:15:34+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Estado compra 13,7% do capital da REN ao grupo de Amancio Ortega",
+      "url": "https://www.rtp.pt/noticias/economia/estado-compra-137-do-capital-da-ren-ao-grupo-de-amancio-ortega_n1763954",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T00:14:56+00:00",
+      "summary": "O Estado português já comprou uma posição de 13,7 por cento na REN ao dono da Zara. Pagou 380 milhões de euros, mais 55 milhões do que o preço de mercado.",
+      "category": "Economia"
+    },
+    {
+      "title": "VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 7 de setembro de 2026",
+      "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-7-de-setembro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T00:10:30+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Manaus integra estudo internacional sobre calor urbano em cidades tropicais",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/07/manaus-integra-estudo-internacional-sobre-calor-urbano-em-cidades-tropicais.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T00:07:52+00:00",
+      "summary": "Representantes do MIT e Ufam se reuniram com o Implurb na sede do órgão para discutir a integração de Manaus em estudo sobre calor urbano. Maxwell Oliveira/Implurb A Universidade Federal do Amazonas (UFAM), em parceria com o Instituto de Tecnologia de Massachusetts (MIT), estudará as condições térmicas de diferentes ár",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Comemorações da Independência movimentam cidades pelo Brasil",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/07/comemoracoes-da-independencia-movimentam-cidades-pelo-brasil.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T00:06:09+00:00",
+      "summary": "Comemorações do 7 de setembro reúnem milhares de pessoas em diferentes regiões As comemorações da Independência movimentaram cidades em todo o país nesta segunda-feira (7). Em Brasília, o desfile na Esplanada dos Ministérios reuniu autoridades e milhares de pessoas. Em Brasília, a movimentação na Esplanada dos Ministér",
+      "category": "Mundo"
+    },
+    {
+      "title": "Justiça derruba suspensão de advogado suspeito de usar IA para influenciar processos na PB",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/07/justica-derruba-suspensao-de-advogado-suspeito-de-usar-ia-para-influenciar-processos-na-pb.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T00:00:04+00:00",
+      "summary": "OAB-PB Divulgação A Justiça Federal derrubou uma decisão que suspendia o exercício profissional de um advogado por suspeita de inserir comandos ocultos, conhecidos como “prompt injection”, em petições apresentadas ao Tribunal de Justiça da Paraíba (TJPB). A decisão é do dia 3 de setembro, mas veio a público nesta segun",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Marconi Perillo promete subsídio no transporte e metrô para o Entorno",
+      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/07/marconi-perillo-promete-subsidio-no-transporte-e-metro-para-o-entorno.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:59:12+00:00",
+      "summary": "Marconi Perillo promete subsídio no transporte e metrô para o Entorno O candidato ao governo de Goiás, Marconi Perillo (PSDB), participou nesta segunda-feira (7) de um culto em uma igreja evangélica de Formosa, no Entorno do Distrito Federal. Marconi foi recebido por lideranças religiosas, cumprimentou fiéis e apresent",
+      "category": "Política"
+    },
+    {
+      "title": "Cantor do “Estrela da Casa” esquece letra no palco do Rock in Rio e chora",
+      "url": "https://www.cnnbrasil.com.br/pop/realities/cantor-do-estrela-da-casa-esquece-letra-no-palco-do-rock-in-rio-e-chora/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:58:03+00:00",
+      "summary": "Filgueira estava ao lado de Belo quando se atrapalhou e não conseguiu terminar solo",
+      "category": "Cultura"
+    },
+    {
+      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 7 de setembro de 2026",
+      "url": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-7-de-setembro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:57:39+00:00",
+      "summary": "Reveja os vídeos do telejornal.",
+      "category": "Mundo"
+    },
+    {
+      "title": "“Da Magia à Sedução 2” e mais: veja os lançamentos da semana",
+      "url": "https://www.cnnbrasil.com.br/pop/streaming/da-magia-a-seducao-2-e-mais-veja-os-lancamentos-da-semana/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:56:43+00:00",
+      "summary": "\"Estilhaços\", \"Star Trek\" e \"Masterchef Brasil 13\" estreiam novos episódios nos próximos dias",
+      "category": "Mundo"
+    },
+    {
+      "title": "23h Governo afirma que não recebeu qualquer alerta técnico para impedir a digitalização dos exames",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-governo-afirma-que-nao-recebeu-qualquer-alerta-tecnico-para-impedir-a-digitalizacao-dos-exames_a1_1763952",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:52:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "VÍDEO mostra avalanche que matou 11 alpinistas em montanha da Rússia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/07/video-mostra-avalanche-que-matou-11-alpinistas-em-montanha-da-russia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:51:27+00:00",
+      "summary": "Avalanche mata 11 alpinistas no monte Mizhirgi, na Rússia Pelo menos 11 pessoas morreram e outras seis ficaram feridas após uma avalanche atingir um grupo de alpinistas na região de Cabárdia-Balcária, no Cáucaso do Norte, na Rússia, informaram os serviços de emergência locais. A avalanche desceu o Monte Mizhirgi — um d",
+      "category": "Mundo"
+    },
+    {
+      "title": "Rock in Rio 2026: Gilberto Gil se apresenta no palco Mundo",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:47:00+00:00",
+      "summary": "Rock in Rio 2026: Gilberto Gil se apresenta no palco Mundo Elton John, Gilberto Gil e Laufey também estão na programação desta segunda (7). Como chegar no Rock in Rio de ônibus, carro ou metrô?. Festival acontece até dia 13. Veja a programação completa.. 1º dia teve Foo Fighters em boa forma e nostalgia; veja resumo.. ",
+      "category": "Cultura"
+    },
+    {
+      "title": "Vídeo: Homem tenta fugir da polícia pela praia e é capturado no mar em ação com helicóptero, em Fortaleza",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/07/video-homem-tenta-fugir-da-policia-capturado-no-mar-acao-com-helicoptero-fortaleza.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:46:35+00:00",
+      "summary": "Homem tenta fugir da polícia e é capturado no mar em ação com helicóptero, em Fortaleza Um homem de 40 anos com antecedentes criminais tentou fugir da Polícia Militar nadando pelo mar da orla da avenida Beira-Mar, em Fortaleza, na tarde desta segunda-feira (7). Ele acabou capturado dentro da água em uma ação com apoio ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Homem joga ovo em Rogério Marinho durante manifestação em Natal e é conduzido à delegacia",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/07/homem-joga-ovo-em-rogerio-marinho-durante-manifestacao-em-natal-e-e-conduzido-a-delegacia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:46:18+00:00",
+      "summary": "Senador Rogério Marinho coordena a campanha de Flávio Bolsonaro Pedro Trindade/Inter TV Cabugi Um jovem de 24 anos foi conduzido à Delegacia Central de Flagrantes, em Natal, após jogar um ovo no senador Rogério Marinho durante uma agenda do Partido Liberal nesta segunda-feira (7), no Largo do Ateneu, no bairro Petrópol",
+      "category": "Política"
+    },
+    {
+      "title": "Análise: Dívidas inibem sucesso da renda e do emprego",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/analise-dividas-inibem-sucesso-da-renda-e-do-emprego/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:45:34+00:00",
+      "summary": "A editora e analista de Economia da CNN Lucinda Pinto analisa, ao Hora H, por que brasileiros avaliam negativamente a economia mesmo com baixo desemprego e crescimento da renda",
+      "category": "Economia"
+    },
+    {
+      "title": "EUA destroem suposto ponto de reabastecimento de drogas no Pacífico",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-destroem-suposto-ponto-de-reabastecimento-de-drogas-no-pacifico/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:42:24+00:00",
+      "summary": "Operação foi realizada em conjunto com o governo do Equador, informou o SOUTHCOM (Comando Sul dos Estados Unidos)",
+      "category": "Política"
+    },
+    {
+      "title": "Inteligência artificial é apoio em cuidados pré-natais, diz especialista",
+      "url": "https://www.cnnbrasil.com.br/saude/inteligencia-artificial-e-apoio-em-cuidados-pre-natais-diz-especialista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:40:11+00:00",
+      "summary": "Médico obstetra destaca que ferramenta de IA auxilia gestantes, mas não substitui profissionais de saúde no acompanhamento da gravidez",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Weverton tem mal-estar antes de partida entre Grêmio e Vitória",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/weverton-tem-mal-estar-antes-de-partida-entre-gremio-e-vitoria/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:39:45+00:00",
+      "summary": "Goleiro chegou a cair no gramado e preocupou a comissão técnica do clube gaúcho",
+      "category": "Esportes"
+    },
+    {
+      "title": "David Harbour abre o jogo sobre atuar novamente com Millie Bobby Brown",
+      "url": "https://www.cnnbrasil.com.br/pop/streaming/david-harbour-abre-o-jogo-sobre-atuar-novamente-com-millie-bobby-brown/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:38:35+00:00",
+      "summary": "Atores trabalharam juntos por quase dez anos na série \"Stranger Things\"",
+      "category": "Esportes"
+    },
+    {
+      "title": "Hulk elege pior técnico da carreira e torcida mais difícil de jogar contra",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/hulk-elege-pior-tecnico-da-carreira-e-torcida-mais-dificil-de-jogar-contra/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:38:27+00:00",
+      "summary": "Jogador do Fluminense definiu momentos importantes da trajetória no futebol, desde a conquista mais especial até o maior arrependimento",
+      "category": "Esportes"
+    },
+    {
+      "title": "Reuniões, visitas e gravações: veja como foi a agenda dos candidatos ao governo de RO nesta segunda (7)",
+      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/09/07/reunioes-visitas-e-gravacoes-veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-ro-nesta-segunda-7.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:38:07+00:00",
+      "summary": "Confira a agenda dos candidatos ao governo desta segunda-feira Nesta segunda-feira (7), os seis candidatos ao Governo de Rondônia nas eleições de 2026 cumpriram agenda de campanha em diferentes municípios do estado. Entre os compromissos estavam reuniões, entrevistas e gravações para o horário eleitoral. O candidato Ma",
+      "category": "Política"
+    },
+    {
+      "title": "Manifestantes protestam contra STF e Alexandre de Moraes no Busto de Tamandaré, em João Pessoa",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/07/protesto-contra-stf-e-alexandre-de-moraes-no-busto-de-tamandare-em-joao-pessoa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:35:40+00:00",
+      "summary": "Manifestação no Busto de Tamandaré em João Pessoa Reprodução/TV Cabo Branco Uma manifestação contra o Supremo Tribunal Federal (STF) e o ministro Alexandre de Moraes foi realizada no final da tarde desta segunda-feira (7), em João Pessoa. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp O ato foi organizado por p",
+      "category": "Política"
+    },
+    {
+      "title": "Airfryer: saiba qual o jeito correto de limpar o eletrodoméstico",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/airfryer-saiba-qual-o-jeito-correto-de-limpar-o-eletrodomestico/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:27:40+00:00",
+      "summary": "Apesar de bastante utilizado para cozinhar alimentos de forma saudável, poucos sabem a forma correta de limpar o equipamento",
+      "category": "Mundo"
+    },
+    {
+      "title": "Messi e Cristiano Ronaldo podem jogar no mesmo time pela 1ª vez; entenda",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-e-cristiano-ronaldo-podem-jogar-no-mesmo-time-pela-1a-vez-entenda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:26:02+00:00",
+      "summary": "Craques de gerações diferentes podem dividir o mesmo time em dezembro deste ano",
+      "category": "Mundo"
+    },
+    {
+      "title": "Protestos e risco de demissões movimentam os bastidores do Internacional",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/protestos-e-risco-de-demissoes-movimentam-os-bastidores-do-internacional/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:25:14+00:00",
+      "summary": "Colorado segue na zona de rebaixamento e torcedores pedem a renúncia do presidente",
+      "category": "Política"
+    },
+    {
+      "title": "Quando o mantra é curto",
+      "url": "https://observador.pt/opiniao/quando-o-mantra-e-curto/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:24:20+00:00",
+      "summary": "O jogo de Ventura é muito simples e consiste basicamente em explorar todos os campos da vida política, da ética à política pública, em que PS e PSD chafurdam na sua própria lama.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Central nuclear de Zaporijia restabelece ligação de energia após três semanas",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/central-nuclear-de-zaporijia-restabelece-ligacao-de-energia-apos-tres-semanas_n1763946",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:23:12+00:00",
+      "summary": "A central nuclear ucraniana de Zaporijia, ocupada pela Rússia desde março de 2022, restabeleceu hoje a sua ligação externa de energia, após quase três semanas de interrupção.",
+      "category": "Esportes"
+    },
+    {
+      "title": "O risco da desesperança",
+      "url": "https://observador.pt/opiniao/o-risco-da-desesperanca/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:22:08+00:00",
+      "summary": "Montenegro assumiu como objetivo lutar pela maioria absoluta. Resta saber se está a fazer o caminho mais óbvio. É que às vezes não há uma terceira oportunidade para deixar uma primeira boa impressão.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Princípios a la Carte",
+      "url": "https://observador.pt/opiniao/principios-a-la-carte/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:20:15+00:00",
+      "summary": "Presumo que, quando os convidaram para participar num festival com Jerry Seinfeld como cabeça de cartaz, tenham perguntado: “Jerry quem?”",
+      "category": "Cultura"
+    },
+    {
+      "title": "São Paulo tem tarde mais fria de setembro em quase 26 anos",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-tem-tarde-mais-fria-de-setembro-em-quase-26-anos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:20:01+00:00",
+      "summary": "Capital paulista registrou máxima de 13,6°C no feriado da Independência, menor temperatura desde o ano 2000 para o mês",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:17:00+00:00",
+      "summary": "O Brasil finalizou o Campeonato Mundial de paraciclismo de estrada, em Huntsville (Estados Unidos), com cinco medalhas . Nesta segunda-feira (7), último dia do evento, a paranaense Victoria Barbosa conquistou o bronze na prova de resistência da classe C1 (atletas com deficiências motoras severas, mas que utilizam bicic",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "A paz não está no mapa",
+      "url": "https://observador.pt/opiniao/a-paz-nao-esta-no-mapa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:15:46+00:00",
+      "summary": "Na Ucrânia, a linha de contacto pode estabilizar. O difícil começa no dia seguinte.",
+      "category": "Mundo"
+    },
+    {
+      "title": "00h. Estoril Praia e Arouca encerram jornada com ‘nulo’",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2414/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:15:43+00:00",
+      "summary": "O Arouca mantém-se em 5º lugar e o Estoril Praia permanece na 17ª posição. Ainda, o Governo garante que não está a lucrar com a crise energética.",
+      "category": "Política"
+    },
+    {
+      "title": "O início de uma verdadeira guerra",
+      "url": "https://observador.pt/opiniao/o-inicio-de-uma-verdadeira-guerra/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:14:15+00:00",
+      "summary": "O fim da NATO parece mais distante do que muitas vezes se faz parecer no discurso público. Mas isso não deve servir como consolo aos europeus.",
+      "category": "Economia"
+    },
+    {
+      "title": "O que esperar da rentrée política?",
+      "url": "https://observador.pt/opiniao/o-que-esperar-da-rentree-politica/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:11:04+00:00",
+      "summary": "Portugal está em declínio… Pois Portugal está em declínio. A questão é saber se existem elites.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Miguel Macedo demitiu-se, Luís Neves mantém-se",
+      "url": "https://observador.pt/opiniao/miguel-macedo-demitiu-se-por-decencia-luis-neves-mantem-se-por-conveniencia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:08:46+00:00",
+      "summary": "Miguel Macedo ensinou-nos, sem querer e a más custas, como é que um ministro decente lida com a dúvida sobre a sua própria autoridade. Luís Neves faz o contrário.",
+      "category": "Política"
+    },
+    {
+      "title": "A manada",
+      "url": "https://observador.pt/opiniao/a-manada/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:07:48+00:00",
+      "summary": "O que fez, então, Seinfeld? Que culpa recai sobre ele? Matou alguém? Incitou ao extermínio de um povo?",
+      "category": "Mundo"
+    },
+    {
+      "title": "A “costela galega” de Paulo Portas",
+      "url": "https://observador.pt/opiniao/a-costela-galega-de-paulo-portas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:06:31+00:00",
+      "summary": "Entre a nostalgia familiar de Paulo Portas e o défice comercial entre Portugal e Espanha, há um oceano por atravessar.",
+      "category": "Mundo"
+    },
+    {
+      "title": "A propósito da vitória da AfD nas eleições em Sachsen Anhalt",
+      "url": "https://observador.pt/opiniao/a-proposito-da-vitoria-da-afd-nas-eleicoes-em-sachsen-anhalt/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T23:05:19+00:00",
+      "summary": "Uma nota \"à vol d`oiseau\" sobre os extremismos na Europa.",
+      "category": "Política"
+    },
+    {
+      "title": "Veja como foi a segunda-feira (7) dos presidenciáveis",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-segunda-feira-7-dos-presidenciaveis",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T23:00:00+00:00",
+      "summary": "A agenda dos presidenciáveis nesta segunda-feira (7) incluiu atos em alusão ao 7 de Setembro, feriado da Independência do Brasil, além de entrevistas, visitas e manifestações políticas. >> Veja como foi o dia dos candidatos a presidente: Clariana Barão (DC) A candidata concedeu entrevista ao canal Bacci Notícias TV. El",
+      "category": "Política"
+    },
+    {
+      "title": "22h Governo garante não está a lucrar com a crise dos combustíveis",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-governo-garante-nao-esta-a-lucrar-com-a-crise-dos-combustiveis_a1_1763947",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-07T22:40:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Brasileiro Feminino: Corinthians vai às semifinais e enfrenta o Bahia",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-corinthians-vai-semifinais-e-enfrenta-o-bahia",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-07T22:23:00+00:00",
+      "summary": "O Corinthians, pela décima vez seguida, está nas semifinais da Série A1 (primeira divisão) do Campeonato Brasileiro Feminino de futebol. Nesta segunda-feira (7), as Brabas venceram novamente o Cruzeiro, agora por 3 a 1 , no Canindé, em São Paulo, no jogo de volta do confronto pelas quartas de final. Dono de sete título",
+      "category": "Esportes"
+    },
     {
       "title": "Representante para Gaza teme que solução de dois estados se torne impossível",
       "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/representante-para-gaza-teme-que-solucao-de-dois-estados-se-torne-impossivel_n1763940",
@@ -38,400 +461,22 @@
       "category": "Política"
     },
     {
-      "title": "Leiria aprova linha financeira para estruturas residenciais comprarem geradores",
-      "url": "https://www.rtp.pt/noticias/economia/leiria-aprova-linha-financeira-para-estruturas-residenciais-comprarem-geradores_n1763914",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:59:25+00:00",
-      "summary": "O município de Leiria aprovou hoje a criação de uma linha financeira destinada a instituições particulares de solidariedade social com a valência de estrutura residencial para a compra de geradores de emergência na sequência do mau tempo.",
-      "category": "Clima"
-    },
-    {
-      "title": "\"Santo António: o Casamenteiro de Lisboa\" é o novo filme de Ruben Alves",
-      "url": "https://www.rtp.pt/noticias/cultura/santo-antonio-o-casamenteiro-de-lisboa-e-o-novo-filme-de-ruben-alves_v1763939",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:38:47+00:00",
-      "summary": "O filme conta com Rita Blanco e Joaquim de Almeida. Um retrato de Lisboa onde a tradição luta pela sobrevivência perante o aumento do turismo. A estreia vai ser esta quinta-feira.",
-      "category": "Mundo"
-    },
-    {
-      "title": "FC Porto de volta à Champions. Dragões defrontam o Manchester City",
-      "url": "https://www.rtp.pt/noticias/desporto/fc-porto-de-volta-a-champions-dragoes-defrontam-o-manchester-city_v1763938",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:34:47+00:00",
-      "summary": "O FC Porto está de volta à Liga dos Campeões. Recebe esta terça-feira o Manchester City. O técnico dos dragões vai estrear-se na prova milionária e acredita que pode vencer a equipa inglesa.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Portugal já tem cinco mestrados em gestão no \"ranking\" do Financial Times",
-      "url": "https://www.rtp.pt/noticias/mundo/portugal-ja-tem-cinco-mestrados-em-gestao-no-ranking-do-financial-times_v1763937",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:29:47+00:00",
-      "summary": "O mestrado da Nova SBE sobe à segunda posição, a melhor de sempre de uma escola portuguesa.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Von der Leyen visita a Gronelândia para assinalar apoio da UE",
-      "url": "https://www.rtp.pt/noticias/mundo/von-der-leyen-visita-a-gronelandia-para-assinalar-apoio-da-ue_v1763936",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:27:48+00:00",
-      "summary": "Ursula von der Leyen foi à Gronelândia responder à cobiça norte-americana. Levou 200 milhões de euros em novos investimentos e um recado para Washington.",
-      "category": "Economia"
-    },
-    {
-      "title": "Brasil ‘cresce’ em novo mapa-múndi aprovado pela ONU; entenda o motivo",
-      "url": "https://www.cnnbrasil.com.br/ciencia/brasil-cresce-em-novo-mapa-mundi-aprovado-pela-onu-entenda-o-motivo/",
-      "source": "CNN Brasil",
+      "title": "Luisa Stefani vai às quartas de final nas duplas femininas do US Open",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/luisa-stefani-vai-quartas-de-final-nas-duplas-femininas-do-us-open",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-07T21:25:52+00:00",
-      "summary": "Nova projeção Equal Earth ajusta a representação da área do país, tornando-a mais próxima da realidade geográfica",
+      "publishedAt": "2026-09-07T21:13:00+00:00",
+      "summary": "A paulista Luisa Stefani está nas quartas de final do torneio de duplas do US Open. Nesta segunda-feira (7), a parceria entre a brasileira, número 4 do ranking da Associação de Tênis Feminino (WTA, sigla em inglês), e a canadense Gabriela Dabrowski (3ª) venceu a da japonesa Eri Hozumi (68ª) com a eslovena Andreja Klepa",
       "category": "Mundo"
     },
     {
-      "title": "21h Combustíveis: Ministra do Ambiente deixa críticas à oposição",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-combustiveis-ministra-do-ambiente-deixa-criticas-a-oposicao_a1_1763935",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:25:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Volkswagen vê defesa como futuro de fábrica alemã em meio à reestruturação",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/volkswagen-ve-defesa-como-futuro-de-fabrica-alema-em-meio-a-reestruturacao/",
-      "source": "CNN Brasil",
+      "title": "Policial militar é preso suspeito de feminicídio em Embu das Artes",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/policial-militar-e-preso-suspeito-de-feminicidio-em-embu-das-artes",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-07T21:24:50+00:00",
-      "summary": "Acordo oferece um modelo potencial para outras unidades da montadora com um futuro incerto",
-      "category": "Mundo"
-    },
-    {
-      "title": "Alemanha. AFD alcança vitória histórica na Saxónia Anhalt",
-      "url": "https://www.rtp.pt/noticias/mundo/alemanha-afd-alcanca-vitoria-historica-na-saxonia-anhalt_v1763934",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:23:47+00:00",
-      "summary": "Os eleitores da Saxónia Anhalt deram um mandato claro à extrema-direita para Governar, mas sem maioria absoluta.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Nathalia Valente mostra festa de 1 ano de filho com Yuri Meirelles; veja",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/nathalia-valente-mostra-festa-de-1-ano-de-filho-com-yuri-meirelles-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:22:38+00:00",
-      "summary": "Influenciadores comemoraram aniversário do primogênito com tema \"Thalleslândia\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Roupa Nova retorna ao Rock in Rio após 35 anos e faz passeio por novelas com estreia de Guilherme Arantes",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/07/roupa-nova-retorna-ao-rock-in-rio-apos-35-anos-e-faz-passeio-por-novelas-com-estreia-de-guilherme-arantes.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:20:02+00:00",
-      "summary": "Roupa Nova se apresenta no Rock in Rio 2026 Reprodução/Globoplay Eles estão presentes em todas as edições do Rock in Rio, desde a primeira, em 1985, interpretando a música tema do festival (aquela do “ô ô ô hô – ô ô ô hô – ô ô ô Rock in Rio”). Apesar disso, subiram ao palco do evento apenas uma vez, em 1991. HORÁRIOS R",
+      "publishedAt": "2026-09-07T20:59:00+00:00",
+      "summary": "A Polícia Civil cumpriu, na tarde desta segunda-feira (7), o mandado de prisão temporária contra o policial militar Vinícius Costa Silva, marido de Larissa Cruz Morata, de 29 anos. Ele é suspeito de ter cometido feminicídio contra Larissa. Ela morreu com um tiro na cabeça no banheiro da casa em que morava com o policia",
       "category": "Cultura"
-    },
-    {
-      "title": "Quaest: 32% dizem que Lula e PT vencerem é o melhor resultado; 24% responderam a volta da família Bolsonaro",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-melhor-resultado-eleitor-7-de-setembro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:20:00+00:00",
-      "summary": "Esta matéria está em atualização.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Safras da Europa atingem maturação mais cedo devido às mudanças climáticas",
-      "url": "https://www.cnnbrasil.com.br/agro/safras-da-europa-atingem/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:20:00+00:00",
-      "summary": "Dados da comissão europeia mostram que o aquecimento global tem levado à maturação precoce de culturas como milho e colza desde 2000",
-      "category": "Economia"
-    },
-    {
-      "title": "Dupla em bicicleta elétrica assalta casal e criminoso atira durante luta corporal com mulher em Vila Velha",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/07/dupla-em-bicicleta-eletrica-assalta-casal-e-criminoso-atira-durante-luta-corporal-com-mulher-em-vila-velha.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:19:18+00:00",
-      "summary": "Assalto ocorreu em uma rua do bairro Itapuã, em Vila Velha, no Espírito Santo Reprodução/Google Street View Um casal foi assaltado por dois homens em uma bicicleta elétrica nesta segunda-feira (7) em Vila Velha, na Grande Vitória. De acordo com a Polícia Militar, durante o assalto, a mulher entrou em luta corporal com ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Paixão por Marina Sena faz fãs enfrentarem horas de espera e até corrida por presente em Palmas",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/07/paixao-por-marina-sena-faz-fas-enfrentarem-horas-de-espera-e-ate-corrida-por-presente-em-palmas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:17:26+00:00",
-      "summary": "Fã tocantinense assistiu show da cantora em Palmas n A paixão por Marina Sena levou fãs tocantinenses a enfrentarem horas de espera na grade do palco e até a uma corrida por acessórios de capim-dourado para presentear a cantora. A artista retribuiu o carinho com autógrafos e interação com o público durante o Festival G",
-      "category": "Cultura"
-    },
-    {
-      "title": "Quaest: 50% desaprovam governo Lula; 43% aprovam",
-      "url": "https://www.cnnbrasil.com.br/politica/quaest-50-desaprovam-governo-lula-43-aprovam/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:17:05+00:00",
-      "summary": "Foram ouvidas 2.004 pessoas entre os dias 4 e 7 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "category": "Política"
-    },
-    {
-      "title": "Justiça Eleitoral nega registro de candidaturas do PCO a governador, senador e outros cargos em MG",
-      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/07/justica-eleitoral-nega-registro-de-candidaturas-do-pco-mg.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:16:57+00:00",
-      "summary": "Montagem de fotos de Henrique Áreas (PCO) e Tião Pessoa (PCO) PCO/ Divulgação A Justiça Eleitoral negou os pedidos de registro das candidaturas do Partido da Causa Operária (PCO) em Minas Gerais. A decisão abrange todos os cargos, inclusive o de governador, pleiteado por Henrique Áreas, e o de senador, disputado por Ti",
-      "category": "Política"
-    },
-    {
-      "title": "Controlo de fronteiras. Recolha obrigatória de dados biométricos em vigor",
-      "url": "https://www.rtp.pt/noticias/pais/controlo-de-fronteiras-recolha-obrigatoria-de-dados-biometricos-em-vigor_v1763933",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:16:47+00:00",
-      "summary": "Ao fim de 24 horas, o novo sistema de controlo digital de passaportes está a funcionar sem constrangimentos apesar da recolha obrigatória de dados.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Campo Grande entra em alerta para tempestades com chuva forte e ventos intensos",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/07/campo-grande-entra-em-alerta-para-tempestades-com-chuva-forte-e-ventos-intensos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:16:26+00:00",
-      "summary": "Chuva forte em Campo Grande (MS) Ariovaldo Dantas A Defesa Civil de Campo Grande emitiu alerta amarelo para risco de tempestades na Capital. O aviso começa às 23h desta terça-feira (8) e permanece válido até às 22h59 de quarta-feira (9). Segundo o alerta, há previsão de chuvas entre 20 e 30 milímetros por hora ou até 5",
-      "category": "Clima"
-    },
-    {
-      "title": "Cebolinha é liberado de viagem pelo Flamengo e saída fica mais próxima",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/cebolinha-e-liberado-de-viagem-pelo-flamengo-e-saida-fica-mais-proxima/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:15:47+00:00",
-      "summary": "Nota emitida pelo clube informa que jogador retornou ao Rio de Janeiro para tratar \"assuntos pessoais\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Pancadaria entre torcedores de Remo e Flamengo no Mangueirão termina com 11 pessoas na delegacia",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/09/07/confusao-entre-torcedores-de-remo-e-flamengo-no-mangueirao-termina-com-11-pessoas-na-delegacia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:15:21+00:00",
-      "summary": "Briga entre torcedores de Remo e Flamengo antes do jogo no Mangueirão A confusão entre torcedores de Remo e Flamengo nos arredores do Estádio Mangueirão, em Belém, terminou com 11 pessoas apresentadas pela Polícia Militar à Delegacia de Proteção ao Torcedor e de Grandes Eventos (DPTGE). Os confrontos ocorreram no domin",
-      "category": "Esportes"
-    },
-    {
-      "title": "Bruxelas propõe regras para regular alojamento local",
-      "url": "https://observador.pt/2026/09/07/bruxelas-propoe-regras-para-regular-alojamento-local-e-aliviar-pressao-habitacional-na-uniao-europeia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:15:04+00:00",
-      "summary": "Documento não prevê uma proibição geral do alojamento local, mas estabelece critérios para determinar quando poderão ser adotadas medidas restritivas",
-      "category": "Mundo"
-    },
-    {
-      "title": "Rock in Rio 2026: Zeca Veloso se apresenta no palco Supernova",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:14:47+00:00",
-      "summary": "Rock in Rio 2026: Zeca Veloso se apresenta no palco Supernova Elton John, Gilberto Gil e Laufey também estão na programação desta segunda (7). Como chegar no Rock in Rio de ônibus, carro ou metrô?. Festival acontece até dia 13. Veja a programação completa.. 1º dia teve Foo Fighters em boa forma e nostalgia; veja resumo",
-      "category": "Cultura"
-    },
-    {
-      "title": "Procurado é preso após tentar fugir de abordagem da PM no litoral de SP",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/07/pm-captura-procurado-por-lesao-corporal-no-litoral-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:13:50+00:00",
-      "summary": "Homem procurado pela Justiça por lesão corporal é preso em Santos, SP. Divulgação Um homem de 42 anos, procurado pela Justiça, foi preso em Santos, no litoral de São Paulo, na madrugada de sábado (5). Segundo a Polícia Militar, havia um mandado de prisão preventiva contra Thiago Tenório Duart por lesão corporal. A capt",
-      "category": "Mundo"
-    },
-    {
-      "title": "ÁUDIO: garota de programa grava plano de homem para abusar do sobrinho de 10 anos em MT",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/07/audio-garota-de-programa-grava-plano-de-homem-para-abusar-do-sobrinho-de-10-anos-em-mt.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:13:47+00:00",
-      "summary": "Garota de programa grava plano de homem para abusar do sobrinho de 10 anos em MT O áudio gravado por uma garota de programa durante uma conversa com um homem de 34 anos mostra o momento em que ele admite sentir desejo sexual pelo sobrinho de 10 anos e afirma que já teria tentado abusar dele. O caso aconteceu em Sinop, ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fula no TikTok. E agora, até onde vai a brincadeira?",
-      "url": "https://observador.pt/programas/brainstorming/fula-no-tiktok-e-agora-ate-onde-vai-a-brincadeira/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:12:48+00:00",
-      "summary": "A Fula chegou ao TikTok para falar com uma nova geração. Marina Barros, responsável pela marca, explica como uma marca de óleo pode reinventar a conversa sem perder a identidade.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Raquel Lyra promete duplicar BR-232 de São Caetano até Serra Talhada",
-      "url": "https://g1.globo.com/pe/caruaru-regiao/eleicoes/2026/noticia/2026/09/07/raquel-lyra-promete-duplicar-br-232-de-sao-caetano-ate-serra-talhada.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:12:13+00:00",
-      "summary": "Raquel Lyra (PSD) cumpre agenda em São Caetano Robson Santos/TV Asa Branca Candidata à reeleição, a governadora de Pernambuco, Raquel Lyra (PSD), participou de um diálogo com empresários em São Caetano, no Agreste de Pernambuco, durante a tarde desta segunda-feira (7). Durante a agenda de campanha, ela falou sobre prop",
-      "category": "Política"
-    },
-    {
-      "title": "22h. Exames. Governo desvaloriza menos adesão",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1860/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:11:20+00:00",
-      "summary": "A época especial acaba amanhã com menor adesão do que o Governo esperava. Ainda, uma sondagem conhecida hoje põe a AD atrás do PS e do Chega.",
-      "category": "Política"
-    },
-    {
-      "title": "Mãe e filha saem de São Paulo para ver Elton John no Rock in Rio; fã acompanha cantor em shows desde 1970",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/07/mae-e-filha-saem-de-sao-paulo-para-ver-elton-john-no-rock-in-rio.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:10:30+00:00",
-      "summary": "Mãe e filha saem de São Paulo para ver Elton John no Rock in Rio Rafael Nascimento/g1 Rio Nem a previsão de chuva desanimou Darlene Dias da Silva, de 65 anos, e a filha Dalma Dias, de 34. As duas paulistas viajaram à capital fluminense especialmente para assistir ao show de Elton John no Rock in Rio. Assistente social,",
-      "category": "Cultura"
-    },
-    {
-      "title": "Terminaram os Jogos Mundial Nómadas no Quirguistão",
-      "url": "https://observador.pt/2026/09/07/chegaram-ao-fim-os-jogos-mundial-nomadas-no-quirguistao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:08:46+00:00",
-      "summary": "Consiste em desportos tradicionais, como jogos com cabeça de cabra e em eventos culturais. Surgiram em 2014 e contam com a participação de mais de 100 países, incluindo Brasil e Espanha.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Moedas globais: dólar cai com força do iene em sessão limitada por feriado",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/moedas-globais-dolar-cai-com-forca-do-iene-em-sessao-limitada-por-feriado/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:06:54+00:00",
-      "summary": "Moeda americana recuou a 154,38 ienes, enquanto o euro tinha alta a US$ 1,1623 e a libra avançava a US$ 1,3541",
-      "category": "Economia"
-    },
-    {
-      "title": "Veja por que gatos têm bigodes longos e por que são tão úteis para os felinos",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/veja-por-que-gatos-tem-bigodes-longos-e-por-que-sao-tao-uteis-para-os-felinos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:05:53+00:00",
-      "summary": "As vibrissas dos felinos cumprem uma função fundamental no desenvolvimento do animal",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quaest: Lula e Flávio empatam em 41% no 2º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-segundo-turno-setembro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:05:11+00:00",
-      "summary": "Pesquisa Genial/Quaest ouviu 2.004 eleitores, entre os dias 4 e 7 de setembro, por meio de entrevista pessoal; margem de erro é de 2 pontos percentuais",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Poatan pede revanche a Ciryl Gane por cinturão dos pesados do UFC",
-      "url": "https://www.cnnbrasil.com.br/esportes/lutas/poatan-pede-revanche-a-ciryl-gane-por-cinturao-dos-pesados-do-ufc/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:03:01+00:00",
-      "summary": "Lutador brasileiro quer nova chance contra o francês Ciryl Gane para conquistar o terceiro cinturão em categorias diferentes na organização",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quaest: no 1º turno, Lula tem 36%; Flávio, 29%; e Cury, 8%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-no-1o-turno-lula-tem-36-flavio-29-e-cury-8/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:02:47+00:00",
-      "summary": "Foram ouvidas 2.004 pessoas entre os dias 4 e 7 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Luísa Sonza sobe ao palco com look ousado no Rock in Rio 2026; veja fotos",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/luisa-sonza-sobe-ao-palco-com-look-ousado-no-rock-in-rio-2026-veja-fotos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T21:01:22+00:00",
-      "summary": "Cantora abriu os shows no Palco Mundo nesta segunda-feira (7) ao lado de Roberto Menescal",
-      "category": "Cultura"
-    },
-    {
-      "title": "Trailer \"Os Escândalos de uma Revolucionária\"",
-      "url": "https://observador.pt/programas/os-escndalos-de-uma-revolucionria/trailer-os-escandalos-de-uma-revolucionaria-estreia-a-15-de-setembro/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T21:00:43+00:00",
-      "summary": "Novo Podcast Plus revela a história de Annie Silva Pais, a filha do último diretor da PIDE, que em 1965 abandonou tudo para se juntar à revolução cubana. Estreia a 15 de setembro.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cabo Verde/Acidente: PM considera \"tragédia no Fogo a maior\"",
-      "url": "https://observador.pt/2026/09/07/cabo-verde-acidente-primeiro-ministro-considera-tragedia-no-fogo-a-maior-desde-a-independencia-e-anuncia-equipa-de-emergencia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T20:59:50+00:00",
-      "summary": "O Governo anunciou também a criação de uma equipa multidisciplinar para ser acionada em emergências",
-      "category": "Política"
-    },
-    {
-      "title": "Mourinho quer \"ganhar\" frente ao Inter de Milão",
-      "url": "https://observador.pt/2026/09/07/jose-mourinho-quer-ganhar-nao-jogar-frente-ao-inter-de-milao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T20:53:53+00:00",
-      "summary": "O treinador do Real Madrid manifestou o desejo de entrar a ganhar na Liga dos Campeões de futebol, frente ao Inter Milão",
-      "category": "Esportes"
-    },
-    {
-      "title": "Governo afasta, para já, mais apoios a combustíveis",
-      "url": "https://observador.pt/2026/09/07/governo-esclarece-especulacoes-e-descarta-para-ja-mais-apoios-nos-combustiveis-cuja-subida-esta-alinhada-com-a-europa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T20:49:12+00:00",
-      "summary": "Maria da Graça Carvalho deu uma conferência de imprensa sobre o preço dos combustíveis",
-      "category": "Política"
-    },
-    {
-      "title": "21h. Combustíveis. Governo garante que não lucra com preços",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1752/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T20:15:54+00:00",
-      "summary": "A ministra do Ambiente e da Energia deu, esta tarde, uma conferência de imprensa na sede do Governo. Ainda, o Governo vai começar negociações com os partidos para o OE, no final deste mês.",
-      "category": "Política"
-    },
-    {
-      "title": "Como Seguro atirou a Fitch contra a moção de censura",
-      "url": "https://observador.pt/especiais/como-seguro-utilizou-a-fitch-para-se-posicionar-contra-a-mocao-de-censura/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T20:12:34+00:00",
-      "summary": "Presidente não fala sobre moção de censura antes da votação, mas posicionou-se a favor da \"estabilidade política\" quando elogiou subida de rating do País. Seguro defende legislatura até 2029.",
-      "category": "Política"
-    },
-    {
-      "title": "O que vai na cabeça dos miúdos",
-      "url": "https://observador.pt/newsletters/mental/o-que-vai-na-cabeca-dos-miudos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T20:09:46+00:00",
-      "summary": "Os desafios de saúde mental dos mais novos. E as preocupações dos mais velhos. É disto que falamos na nova rubrica da secção Mental.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Vitória da AfD \"importante\" para o Chega. Ventura celebra",
-      "url": "https://observador.pt/especiais/vitoria-da-afd-importante-para-o-chega-derrota-de-partidos-do-sistema-da-esperanca-a-ventura/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-07T19:55:11+00:00",
-      "summary": "A vitória do partido de extrema-direita alemão foi motivo de festejo por parte do Chega. Ventura diz que é um \"abrir de olhos\" da Europa para as questões da \"imigração descontrolada e corrupção\".",
-      "category": "Política"
     },
     {
       "title": "Rio de Janeiro tem aviso de ressaca; ciclovia Tim Maia é fechada",
@@ -477,51 +522,6 @@
       "publishedAt": "2026-09-07T15:32:00+00:00",
       "summary": "Equipes de resgate nepalesas procuram, nesta segunda-feira (7), mais de 100 trabalhadores de usinas hidrelétricas que podem estar presos em túneis, dias após quatro resgates milagrosos dos escombros das enchentes que devastaram cidades e vilarejos na fronteira do Himalaia com a China. Os resgates dos últimos dias troux",
       "category": "Clima"
-    },
-    {
-      "title": "Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T15:30:00+00:00",
-      "summary": "A exposição Amazônicas: Poéticas femininas , que fica aberta ao público até 16 de novembro de 2026, no Centro Cultural Banco do Brasil Rio de Janeiro (CCBB RJ), na região central da cidade, mostra a força da arte contemporânea em 80 obras de 21 de mulheres protagonistas e pioneiras de diferentes gerações dos estados do",
-      "category": "Cultura"
-    },
-    {
-      "title": "Ambulantes \"desfilam\" no 7 de Setembro em busca de sustento",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ambulantes-desfilam-no-7-de-setembro-em-busca-de-sustento",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T14:33:00+00:00",
-      "summary": "Equilibrar 30 quilos de balões e algodões-doces coloridos sobre o ombro esquerdo, em uma caminhada apressada, foi o \"desfile\" do Palhaço Bolinha, o autônomo Renato Siqueira, de 53 anos, às margens da área do desfile de 7 de Setembro deste ano, em Brasília (DF). Renato Siqueira vende balões durante o Desfile da Independ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Justiça Federal paralisa atividade de mina de lítio em Minas Gerais",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-federal-paralisa-atividade-de-mina-de-litio-em-minas-gerais",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T14:25:00+00:00",
-      "summary": "A Justiça Federal em Minas Gerais determinou a suspensão das licenças ambientais e a consequente paralisação das atividades no complexo minerário Grota do Cirilo, operado pela Sigma Mineração S.A. nos municípios de Itinga e Araçuaí, região do Vale do Jequitinhonha . O juiz federal Antônio Lúcio Túlio de Oliveira Barbos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fachin aguarda explicações de ministros para decidir sobre crise",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-aguarda-explicacoes-de-ministros-para-decidir-sobre-crise",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T13:45:00+00:00",
-      "summary": "O ministro Edson Fachin, presidente do Supremo Tribunal Federal (STF), aguarda as explicações dos ministros André Mendonça e Alexandre de Moraes, também do Supremo, para decidir se leva a crise dos dois para julgamento no plenário, em sessão aberta ou fechada. A crise ganhou, na última semana, gravidade sem precedentes",
-      "category": "Política"
-    },
-    {
-      "title": "Começa o desfile cívico-militar do Dia da Independência em Brasília",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/comeca-o-desfile-civico-militar-do-dia-da-independencia-em-brasilia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-07T12:36:00+00:00",
-      "summary": "Começou pouco depois das 9h desta segunda-feira (7) o desfile cívico-militar do Dia da Independência, na Esplanada dos Ministérios, no centro de Brasília. Após a execução do Hino Nacional, o general de divisão João Felipe Dias Alves solicitou autorização para iniciar o evento. Notícias relacionadas: Desfile de 7 de Set",
-      "category": "Mundo"
     }
   ],
   "sources": [
