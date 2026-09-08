@@ -1,436 +1,517 @@
 {
-  "updatedAt": "2026-09-08T15:06:02.881793+00:00",
+  "updatedAt": "2026-09-08T18:37:31.411441+00:00",
   "items": [
     {
-      "title": "Doze países, incluindo Portugal, anunciam sanções a colonatos israelitas",
-      "url": "https://www.rtp.pt/noticias/mundo/doze-paises-incluindo-portugal-anunciam-sancoes-a-colonatos-israelitas_n1764109",
+      "title": "19h Moção de Censura apresentada pelo Chega chumbada",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-mocao-de-censura-apresentada-pelo-chega-chumbada_a1_1764228",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-08T16:02:34+00:00",
-      "summary": "Doze países, entre os quais Portugal, confirmaram hoje a intenção de introduzir restrições nacionais e apoiar medidas europeias que limitem o comércio de bens provenientes de colonatos israelitas na Cisjordânia.",
+      "publishedAt": "2026-09-08T19:22:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Chumbada a moção de censura levada pelo Chega ao Parlamento",
+      "url": "https://www.rtp.pt/noticias/politica/chumbada-a-mocao-de-censura-levada-pelo-chega-ao-parlamento_e1764080",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T18:57:32+00:00",
+      "summary": "A moção de censura ao Governo, apresentada pelo Chega, foi chumbada no Parlamento. Apenas os deputados do partido de André Ventura votaram a favor. Esta manhã, o ministro da Administração Interna, no centro das críticas, foi ouvido pelos deputados na Comissão Permanente.",
+      "category": "Política"
+    },
+    {
+      "title": "Acidente entre carros deixa uma pessoa ferida na Via Dutra, em Barra Mansa",
+      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/08/acidente-entre-carros-deixa-uma-pessoa-ferida-na-via-dutra-em-barra-mansa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T18:32:33+00:00",
+      "summary": "Uma colisão lateral entre dois carros deixou uma pessoa levemente ferida na tarde desta terça-feira (8), na Via Dutra, em Barra Mansa (RJ). Segundo a concessionária que administra a rodovia, o acidente aconteceu no km 277, no sentido São Paulo. O Centro de Controle Operacional foi acionado às 13h08. Durante o atendimen",
+      "category": "Mundo"
+    },
+    {
+      "title": "Concursos PM e Bombeiros AL reabrem inscrições; veja cronograma",
+      "url": "https://g1.globo.com/al/alagoas/noticia/2026/09/08/concursos-pm-e-bombeiros-al-reabrem-inscricoes-veja-cronograma.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T18:32:32+00:00",
+      "summary": "Dicas de como estudar para concursos públicos com Thaynara OG Os concursos públicos da Polícia Militar (PM) e do Corpo de Bombeiros Militar de Alagoas (CBMAL) terão as inscrições reabertas. Os novos cronogramas foram publicados no Diário Oficial do Estado desta terça-feira (8). Ao todo, as duas seleções somam 1.404 vag",
+      "category": "Mundo"
+    },
+    {
+      "title": "Irmã de PM suspeito de matar a esposa estava na casa no momento do disparo em Embu das Artes, diz delegada",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/08/irma-de-pm-suspeito-de-matar-a-esposa-estava-na-casa-no-momento-do-disparo-em-embu-das-artes-diz-delegada.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T18:32:03+00:00",
+      "summary": "Vinicius Costa Silva, de 26 anos, foi preso na investigação que apura a morte da esposa dele, Larissa da Cruz Morata, de 29 anos. Reprodução/Redes Sociais A irmã do soldado da Polícia Militar Vinícius Costa Silva, acusado de matar a esposa de 29 anos no domingo (6), estava na casa do casal no momento da morte de Lariss",
+      "category": "Cultura"
+    },
+    {
+      "title": "GNR descarta hipótese de atropelamento em morte de imigrante",
+      "url": "https://observador.pt/2026/09/08/gnr-descartou-hipotese-de-atropelamento-em-morte-de-imigrante-mas-pj-recusou-investigar/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T18:28:25+00:00",
+      "summary": "A PJ entendeu não haver indícios suficientes para investigar o caso dos agentes da PSP acusados de matar um imigrante em Olhão",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Mais de 200 porcos foram saqueados após carreta tombar em MT e prejuízo chega a R$ 80 mil",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/08/mais-de-200-porcos-foram-saqueados-apos-carreta-tombar-em-mt-e-prejuizo-chega-a-r-80-mil.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T18:28:21+00:00",
+      "summary": "Grupo de pessoas flagrado saqueando porcos de carreta que tombou na BR-070 O número de porcos saqueados por populares após a carreta tombar no km 516 da BR-070, em Várzea Grande, região metropolitana de Cuiabá, é de 220, segundo o proprietário do veículo, Cleomar Roque Lavall. Os animais e alguns chegaram a ser abatido",
+      "category": "Mundo"
+    },
+    {
+      "title": "Preso foge da Penitenciária Estadual de Alcaçuz durante obra de ampliação",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/preso-foge-da-penitenciaria-estadual-de-alcacuz-durante-obra-de-ampliacao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T18:28:13+00:00",
+      "summary": "Anderson Stallone Flores dos Santos, 38 anos, fugiu de Alcaçuz Seap/Divulgação Um interno de 38 anos fugiu da Penitenciária Estadual de Alcaçuz, em Nísia Floresta, na Grande Natal, nesta terça-feira (8). Segundo a Secretaria de Administração Penitenciária (Seap), Anderson Stallone Flores dos Santos deixou a unidade por",
+      "category": "Mundo"
+    },
+    {
+      "title": "Crianças passam mal e são internadas após banho de mar em praia do Grande Recife",
+      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/08/criancas-passam-mal-e-sao-internadas-apos-banho-de-mar-em-praia-do-grande-recife.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T18:27:23+00:00",
+      "summary": "Crianças passam mal após banho de mar na Praia do Janga Cinco crianças passaram mal e ficaram mais de um dia no hospital após tomarem banho de mar na Praia do Janga, em Paulista, no Grande Recife. À TV Globo, a empreendedora Bruna Michelle disse que levou seus três filhos e dois amigos para um passeio no sábado (5) e, ",
+      "category": "Saúde"
+    },
+    {
+      "title": "VÍDEO: Homem se joga em avenida e salva criança de ser atropelada no México",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/08/video-homem-se-joga-em-avenida-e-salva-crianca-de-ser-atropelada-no-mexico.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T18:24:51+00:00",
+      "summary": "Homem salva criança de ser atropelada no México Um entregador mexicano conseguiu evitar uma tragédia em uma avenida da cidade de Puebla. Luís Henrique Cruz, funcionário de uma rede de supermercados da cidade, salvou uma menina de 3 anos de ser atropelada no local, em um ato heróico. ➡️ O caso ocorreu no domingo (6) na ",
       "category": "Economia"
     },
     {
-      "title": "Moção de censura em discussão no parlamento com chumbo anunciado",
-      "url": "https://www.rtp.pt/noticias/politica/mocao-de-censura-em-discussao-no-parlamento-com-chumbo-anunciado_e1764080",
-      "source": "RTP Notícias",
+      "title": "18h. EUA não aderem às sanções britânicas aos colonatos",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2132/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-08T15:49:05+00:00",
-      "summary": "A moção de censura, apresentada pelo Chega, já tem desfecho conhecido. Os partidos já anunciaram como vão votar, estando à vista o chumbo da moção. De manhã, o ministro da Administração Interna, no centro das críticas ao Governo, foi ouvido pelos deputados na Comissão Permanente. A troca de argumentos deverá continuar ",
+      "publishedAt": "2026-09-08T18:24:39+00:00",
+      "summary": "Marco Rubio fez o anúncio e pediu estabilidade na Cisjordânia. Parlamento debate moção de censura ao governo.",
       "category": "Política"
     },
     {
-      "title": "Primeiro-ministro anuncia suplemento para pensionistas e alívio do IRS até sexto escalão",
-      "url": "https://www.rtp.pt/noticias/politica/primeiro-ministro-anuncia-suplemento-para-pensionistas-e-alivio-do-irs-ate-sexto-escalao_n1764119",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T15:41:48+00:00",
-      "summary": "Luís Montenegro garante que o Governo não está a ganhar dinheiro com a crise. As medidas vão ser aprovadas na quinta-feira durante o próximo Conselho de Ministros.",
-      "category": "Política"
-    },
-    {
-      "title": "Bruno Fernandes entre os nomeados para a Bola de Ouro",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/bruno-fernandes-entre-os-nomeados-para-a-bola-de-ouro_d1764107",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T15:12:40+00:00",
-      "summary": "A lista de nomeados está a ser apresentada esta terça-feira.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Luís Neves diz estar \"absolutamente confortável\" com aquilo que fez e recusa demitir-se",
-      "url": "https://www.rtp.pt/noticias/pais/luis-neves-diz-estar-absolutamente-confortavel-com-aquilo-que-fez-e-recusa-demitir-se_e1764018",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T15:01:11+00:00",
-      "summary": "O ministro da Administração Interna, Luís Neves, foi ouvido esta terça-feira em audição regimental no parlamento durante cerca de 4h30. Apesar de todas as polémicas e de admitir alguns erros, Luís Neves disse estar \"absolutamente confortável\" e voltou a recusar demitir-se, afirmando que só abandonará o cargo \"quando o ",
-      "category": "Política"
-    },
-    {
-      "title": "Ligas acusam FIFA de \"conduta abusiva\" no futebol feminino",
-      "url": "https://observador.pt/2026/09/08/associacao-de-ligas-europeias-acusa-fifa-de-conduta-abusiva-e-alerta-para-riscos-no-futebol-feminino/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:59:26+00:00",
-      "summary": "A entidade alerta ainda que as decisões unilaterais da FIFA ameaçam o crescimento financeiro das ligas profissionais femininas",
-      "category": "Esportes"
-    },
-    {
-      "title": "Moreirense revela maior preocupação para jogo com o Benfica",
-      "url": "https://observador.pt/2026/09/08/moreirense-ve-andamento-como-preocupacao-maior-para-jogo-com-benfica/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:58:24+00:00",
-      "summary": "A equipa minhota não conta com os dois médios - um deles expulso na última partida -, e tem menos um dia do que o normal para preparar o jogo. O encontro está marcado para quarta-feira às 20h45.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Região de Leiria exige intervenção no IC8",
-      "url": "https://observador.pt/2026/09/08/comunidade-intermunicipal-da-regiao-de-leiria-pede-reducao-da-sinistralidade-no-ic8/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:55:44+00:00",
-      "summary": "Este ano, a Guarda Nacional Republicana contabilizou cinco acidentes com feridos graves ou vítimas mortais, dos quais resultaram seis feridos graves e cinco mortos (dois dos quais na semana passada), no troço do IC8 no distrito de Leiria",
-      "category": "Mundo"
-    },
-    {
-      "title": "Aclara fecha acordo com Japão para explorar terras raras no Brasil",
-      "url": "https://www.cnnbrasil.com.br/infra/aclara-fecha-acordo-com-japao-para-explorar-terras-raras-no-brasil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:55:39+00:00",
-      "summary": "Parceria prevê até US$ 4,5 milhões em aportes da agência estatal japonesa JOGMEC, que poderá adquirir 30% de participação em um dos projetos da mineradora no país",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vídeo: Homem entra em luta corporal com PM e é morto após perseguição em SP",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-homem-entra-em-luta-corporal-com-pm-e-e-morto-apos-perseguicao-em-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:54:49+00:00",
-      "summary": "Imagens das câmeras corporais dos agentes mostram o momento da abordagem; suspeito chegou a ser socorrido, mas não resistiu",
-      "category": "Mundo"
-    },
-    {
-      "title": "Brasil derrota Canadá e assegura classificação no Mundial Feminino Sub-20",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-derrota-canada-e-assegura-classificacao-no-mundial-feminino-sub-20/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:54:19+00:00",
-      "summary": "Em busca do título inédito, Seleção Brasileira garantiu vaga antecipada no mata-mata e ocupa a liderança do Grupo B na competição",
-      "category": "Esportes"
-    },
-    {
-      "title": "Quem é André Mendonça, ministro do STF e relator do caso do Banco Master",
-      "url": "https://www.cnnbrasil.com.br/politica/quem-e-andre-mendonca/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:53:53+00:00",
-      "summary": "Magistrado determinou, nesta terça-feira (8) o afastamento preventivo do diretor-geral da Polícia Federal, Andrei Rodrigues",
-      "category": "Política"
-    },
-    {
-      "title": "João Gomes e Ary Mirelle celebram 1º ano do filho com festa colorida",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/joao-gomes-e-ary-mirelle-celebram-1o-ano-do-filho-com-festa-colorida/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:53:46+00:00",
-      "summary": "Além de Joaquim, cantor e influenciadora também são pais de José, de dois anos",
-      "category": "Cultura"
-    },
-    {
-      "title": "Adolescentes sem photoshop: reféns do corpo e da imagem",
-      "url": "https://observador.pt/programas/porque-sim-nao-e-resposta/adolescentes-sem-photoshop-refens-do-corpo-e-da-imagem/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:50:35+00:00",
-      "summary": "Depois da revolta da puberdade, a relação dos adolescentes com o corpo caminha para a composição de uma imagem, muito talhada por influencers, cultivada pelo grupo e orientada pelas redes sociais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quatro pessoas ficam feridas após batida entre carro e caminhão na Zona Sul de Teresina; motorista ficou preso às ferragens",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/08/acidente-zona-sul-teresina.ghtml",
+      "title": "Hemonúcleo de Barra Mansa alerta para estoque crítico de sangue; saiba como doar",
+      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/08/hemonucleo-de-barra-mansa-alerta-para-estoque-critico-de-sangue-saiba-como-doar.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-08T14:49:45+00:00",
-      "summary": "Quatro pessoas ficam feridas após colisão entre carro e caminhão na Zona Sul de Teresina Um acidente entre um carro de passeio e um caminhão deixou quatro pessoas feridas na manhã desta terça-feira (8), na Estrada da Alegria, Zona Sul de Teresina. As vítimas foram socorridas e encaminhadas ao Hospital de Urgência de Te",
+      "publishedAt": "2026-09-08T18:23:54+00:00",
+      "summary": "Hemonúcleo de Barra Mansa alerta para estoque crítico de tipos sanguíneos negativos Divulgação O Hemonúcleo de Barra Mansa (RJ) reforçou o pedido por doações de sangue para abastecer a unidade. Segundo a Secretaria Municipal de Saúde, os tipos sanguíneos negativos estão em situação crítica. Já os tipos AB positivo e O ",
       "category": "Saúde"
     },
     {
-      "title": "Latam anuncia voos diretos para Cusco, no Peru, a partir de 2027",
-      "url": "https://www.cnnbrasil.com.br/infra/latam-anuncia-voos-diretos-para-cusco-no-peru-a-partir-de-2027/",
-      "source": "CNN Brasil",
+      "title": "Mulher dá à luz dentro de carro em engarrafamento na PE-15, em Olinda; VÍDEO",
+      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/08/mulher-da-a-luz-dentro-de-carro-em-engarrafamento-na-pe-15-em-olinda-video.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-08T14:48:39+00:00",
-      "summary": "Rota se dará pelo Aeroporto de Guarulhos e terá quatro frequências semanais; passagens começam a ser vendidas nesta quarta (9)",
+      "publishedAt": "2026-09-08T18:22:59+00:00",
+      "summary": "Mulher dá à luz em rodovia em Olinda durante o feriado Um bebê nasceu no meio de um engarragamento na PE-15, em Olinda. A gestante, que não teve nome nem idade divulgados, voltava para casa depois do feriado do Dia da Independência, na segunda-feira (7). A mulher entrou em trabalho de parto no trajeto e pediu ajuda a u",
       "category": "Mundo"
     },
     {
-      "title": "Atlético-MG sonda Richarlison, do Tottenham; veja o que sabemos",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-sonda-richarlison-do-tottenham-veja-o-que-sabemos/",
-      "source": "CNN Brasil",
+      "title": "Delegado é condenado a mais de 11 anos de prisão por desvios milionários que seriam destinados a obras em escolas de Goiás",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/09/08/delegado-e-condenado-a-mais-de-11-anos-de-prisao-por-desvio-de-r-22-milhoes-que-seriam-destinados-a-obras-em-escolas-de-goias.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-08T14:47:36+00:00",
-      "summary": "Clubes brasileiros acompanham situação do jogador ex-Seleção Brasileira; atacante pode sair do Tottenham",
+      "publishedAt": "2026-09-08T18:22:51+00:00",
+      "summary": "Delegado é condenado a mais de 11 anos de prisão em Goiás O delegado da Polícia Civil Dannilo Ribeiro Proto foi condenado a mais de 11 anos de prisão por envolvimento em um esquema de fraudes e desvio de R$ 2,2 milhões em recursos públicos que seriam destinados principalmente a reformas e obras em escolas estaduais de ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Empresário que fez repasses para 'Dark Horse' passa por audiência com auxiliar de Mendonça e diz que delação sobre Master foi voluntária",
+      "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/empresario-repasses-dark-horse-delacao-master.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T18:22:10+00:00",
+      "summary": "Sede do Banco Master Divulgação/Banco Master O empresário Antonio Carlos Freixo Junior e sua defesa participaram na tarde desta terça-feira (8) de uma audiência com um juiz auxiliar do ministro André Mendonça, do Supremo Tribunal Federal (STF), para avaliar o acordo de delação fechado com a Procuradoria-Geral da Repúbl",
+      "category": "Política"
+    },
+    {
+      "title": "TCE reprova contas de ex-prefeitos de três municípios do Maranhão",
+      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/08/tce-reprova-contas-de-ex-prefeitos-de-tres-municipios-do-maranhao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T18:18:33+00:00",
+      "summary": "TCE reprova contas de ex-prefeitos de três municípios do Maranhão O Tribunal de Contas do Estado (TCE) reprovou as contas de ex-prefeitos de três municípios maranhenses: o ex-gestor Josimar de Alves de Oliveira, de Governador Nunes Freire; a ex-prefeita de Timon, Dinair Veloso; e o ex-prefeito de Rosário, José Nilton R",
+      "category": "Política"
+    },
+    {
+      "title": "FC Porto - Manchester City",
+      "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/fc-porto-manchester-city_e1764197",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T18:17:08+00:00",
+      "summary": "O FC Porto estreia-se na fase de liga da Liga dos Campeões frente ao Manchester City, num encontro entre os líderes dos campeonatos português e inglês, marcado para o Estádio do Dragão, no Porto.",
       "category": "Esportes"
     },
     {
-      "title": "Assista ao Bahia Meio Dia",
-      "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:46:17+00:00",
-      "summary": "Assista ao Bahia Meio Dia",
+      "title": "Grupo propõe plano de salvaguarda do centro histórico",
+      "url": "https://observador.pt/2026/09/08/grupo-propoe-criacao-de-plano-de-pormenor-de-salvaguarda-do-centro-historico-do-porto/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T18:09:53+00:00",
+      "summary": "A proposta dos investigadores organiza-se em torno de três vetores: \"reforço\", \"proximidade\"e \"capacitação\"",
       "category": "Mundo"
     },
     {
-      "title": "Piloto de asa-delta que sofreu acidente há duas semanas sai do coma, respira sem aparelhos e deve ter alta da UTI 'em breve', diz hospital",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/piloto-de-asa-delta-que-sofreu-acidente-ha-duas-semanas-sai-do-coma-respira-sem-aparelhos-e-deve-ter-alta-da-uti-em-breve-diz-hospital.ghtml",
-      "source": "G1",
+      "title": "Presidente da Escola Nacional de Bombeiros demite-se",
+      "url": "https://observador.pt/2026/09/08/presidente-da-escola-nacional-de-bombeiros-demite-se-liga-dos-bombeiros-critica-pedido-de-demissao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T18:07:18+00:00",
+      "summary": "O Presidente da Escola Nacional de Bombeiros irá renunciar ao cargo a partir de outubro",
+      "category": "Política"
+    },
+    {
+      "title": "Apple. A era de John Ternus arranca com um iPhone dobrável",
+      "url": "https://observador.pt/especiais/apple-a-era-de-john-ternus-arranca-com-um-iphone-dobravel-e-muitos-desafios/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T18:02:49+00:00",
+      "summary": "John Ternus assumiu o cargo de CEO a 1 de setembro. Foi anunciado como sucessor de Tim Cook em abril",
+      "category": "Mundo"
+    },
+    {
+      "title": "História de Ceuta no tempo em que era portuguesa",
+      "url": "https://observador.pt/programas/e-o-resto-e-historia/e-o-resto-e-historia-em-video-historia-de-ceuta-no-tempo-em-que-era-portuguesa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T18:01:28+00:00",
+      "summary": "Ceuta foi conquistada por Portugal em 1415 e passou a ser espanhola após 1640. Como foram esses dois séculos de presença portuguesa e o que levou a investir tanta gente e dinheiro no Norte de África?",
+      "category": "Clima"
+    },
+    {
+      "title": "Elton John elogia Gilberto Gil no Rock in Rio: “Você é uma lenda”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/elton-john-elogia-gilberto-gil-no-rock-in-rio-voce-e-uma-lenda/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-08T14:45:20+00:00",
-      "summary": "Vídeo mostra decolagem de piloto de asa-delta que caiu sobre carro e ficou ferido no RS O piloto de asa-delta Adilson Schoroeder, 55 anos, que sofreu um acidente em Sapiranga, na Região Metropolitana de Porto Alegre, segue internado. A queda aconteceu no dia 23 de agosto. Durante uma manobra de pouso no Morro Ferrabraz",
+      "publishedAt": "2026-09-08T18:00:10+00:00",
+      "summary": "Cantor brasileiro compartilhou a filmagem do encontro entre os dois nas redes sociais",
+      "category": "Cultura"
+    },
+    {
+      "title": "FC Porto-Manchester City. Rosario e Alan Varela no onze",
+      "url": "https://observador.pt/liveblogs/fc-porto-manchester-city-dragoes-regressam-a-champions-frente-a-haaland-ruben-dias-e-companhia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:59:33+00:00",
+      "summary": "Após uma série de cinco vitórias seguidas na Liga, FC Porto assinala regresso à Champions com receção ao Manchester City. Froholdt e Pietuszewski, Bednarek e Zaidu de fora das opções. Siga em direto.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Água Limpa: a próxima fronteira da competitividade brasileira",
+      "url": "https://www.cnnbrasil.com.br/infra/agua-limpa-a-proxima-fronteira-da-competitividade-brasileira/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:58:05+00:00",
+      "summary": "Em artigo à CNN Infra, Virgilio Viana e Luana Pretto explicam importância e caminho do Brasil rumo a universalização do saneamento",
+      "category": "Mundo"
+    },
+    {
+      "title": "Moção. Ventura: “Democracia é com Luís Neves na rua”",
+      "url": "https://observador.pt/programas/emissao-especial/mocao-ventura-democracia-e-com-luis-neves-na-rua/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:57:25+00:00",
+      "summary": "André Ventura encerra o debate sobre a moção de censura, antes da votação, com críticas à oposição e a acusação de que o governo está a “brincar à democracia”.",
+      "category": "Política"
+    },
+    {
+      "title": "Governo português preocupado com glorificação de genocida sérvio-bósnio Ratko Mladic",
+      "url": "https://www.rtp.pt/noticias/politica/governo-portugues-preocupado-com-glorificacao-de-genocida-servio-bosnio-ratko-mladic_n1764170",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:57:15+00:00",
+      "summary": "O Governo português expressou hoje \"profunda preocupação\" com as manifestações de glorificação do criminoso de guerra sérvio-bósnio Ratko Mladic, por ocasião das suas cerimónias fúnebres na Sérvia.",
+      "category": "Política"
+    },
+    {
+      "title": "Porto x Manchester City: horário e onde assistir à Champions League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/porto-x-manchester-city-horario-e-onde-assistir-a-champions-league-2/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:56:57+00:00",
+      "summary": "Equipes se enfrentam nesta terça-feira (8), às 16h (de Brasília)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Líder de Singapura recebe aumento salarial de 951 mil euros",
+      "url": "https://observador.pt/2026/09/08/primeiro-ministro-de-singapura-recebe-aumento-salarial-de-951-mil-euros-lawrence-wong-e-o-lider-politico-mais-bem-pago-no-mundo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:56:45+00:00",
+      "summary": "O segundo líder mundial mais bem pago, atrás de Lawrence Wong, é John Lee, o presidente executivo de Hong Kong, que ganha aproximadamente 619 mil euros",
+      "category": "Política"
+    },
+    {
+      "title": "Ordem lança programa de saúde mental para enfermeiros com consultas e linha SOS",
+      "url": "https://www.rtp.pt/noticias/pais/ordem-lanca-programa-de-saude-mental-para-enfermeiros-com-consultas-e-linha-sos_n1764140",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:56:39+00:00",
+      "summary": "A Ordem dos Enfermeiros (OE) anunciou hoje a criação de um programa gratuito de saúde mental e bem-estar dirigido a esses profissionais de saúde, que inclui consultas e uma linha SOS disponível 24 horas por dia.",
       "category": "Saúde"
     },
     {
-      "title": "Magalhães, Marquinhos e Vini Jr. são finalistas da Bola de Ouro 2026; veja",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/magalhaes-marquinhos-e-vini-jr-sao-finalistas-da-bola-de-ouro-2026-veja/",
+      "title": "Produção de veículos sobe 9,4% em agosto ante agosto de 2025, diz Anfavea",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/producao-de-veiculos-sobe-94-em-agosto-ante-agosto-de-2025-diz-anfavea/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-08T14:45:18+00:00",
-      "summary": "Cerimônia de entrega dos prêmios acontece no dia 26 de outubro, em Londres",
+      "publishedAt": "2026-09-08T17:55:23+00:00",
+      "summary": "No acumulado de janeiro a agosto, foram produzidos 1,90 milhão, alta de 8,5% em relação aos oito primeiros meses de 2025",
       "category": "Mundo"
     },
     {
-      "title": "Moção. Ventura: \"Em nome de Deus e do país, vá-se embora\"",
-      "url": "https://observador.pt/programas/emissao-especial/mocao-ventura-em-nome-de-deus-e-do-pais-va-se-embora/",
+      "title": "Incêndio deflagra junto à estação de Rio de Mouro",
+      "url": "https://observador.pt/2026/09/08/incendio-deflagra-junto-a-estacao-de-comboios-de-rio-de-mouro/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-08T14:44:59+00:00",
-      "summary": "Líder do Chega chama ao ministro da Administração Interna “Xerife da República” e acusa o PS de estar capturado por Luís Neves. “Como é que não tem vergonha de estar na bancada do Governo?”, pergunta.",
-      "category": "Política"
+      "publishedAt": "2026-09-08T17:54:36+00:00",
+      "summary": "Fogo teve início num automóvel. Foram mobilizados 10 operacionais e três viaturas dos bombeiros para o local. Entretanto, incêndio já foi extinto.",
+      "category": "Clima"
     },
     {
-      "title": "Música que Elton John tocou no Rock in Rio foi trilha de novela e só fez sucesso no Brasil; relembre",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/08/musica-que-elton-john-tocou-no-rock-in-rio-foi-trilha-de-novela-e-so-fez-sucesso-no-brasil-relembre.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:44:52+00:00",
-      "summary": "Elton John se apresentou no Rock in Rio 2026 Leo Franco/AgNews No fim do imbatível show de Elton John no Rock in Rio, nesta segunda (7), ele tocou \"Skyline Pigeon\" para celebrar a relação dele com o Brasil. Isso porque a faixa fez sucesso só no Brasil... graças, claro, a uma novela. No bis, entre declarações e agradeci",
-      "category": "Cultura"
-    },
-    {
-      "title": "João Vitor Silva se derrete ao falar de Iza: “me apaixona todos os dias”",
-      "url": "https://www.cnnbrasil.com.br/pop/joao-vitor-silva-se-derrete-ao-falar-de-iza-me-apaixona-todos-os-dias/",
+      "title": "Inflação ao consumidor de países da OCDE tem alta de 4,1% em julho",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/inflacao-ao-consumidor-de-paises-da-ocde-tem-alta-de-41-em-julho/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-08T14:44:51+00:00",
-      "summary": "Ator esteve no \"Encontro com Patrícia Poeta\" e falou um pouco sobre a rotina do casal",
-      "category": "Mundo"
+      "publishedAt": "2026-09-08T17:51:22+00:00",
+      "summary": "Por outro lado, houve desaceleração em 14 países integrantes e estabilidade em outros 11",
+      "category": "Economia"
     },
     {
-      "title": "Assista ao Gazeta Meio Dia - edição regional",
-      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:44:39+00:00",
-      "summary": "Assista ao Gazeta Meio Dia - edição regional Fique bem informado com o seu jornal da hora do almoço.",
-      "category": "Mundo"
-    },
-    {
-      "title": "3 chás anti-inflamatórios: funcionam?",
-      "url": "https://observador.pt/programas/aprender-a-comer/3-chas-anti-inflamatorios-funcionam/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:44:32+00:00",
-      "summary": "Três chás podem ajudar a criar um terreno menos pró-inflamatório. Mas chá e suplemento não são iguais. A Nutricionista Mariana Chaves esclarece porquê.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Assista ao Gazeta Meio Dia",
-      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:44:13+00:00",
-      "summary": "Assista ao Gazeta Meio Dia Fique bem informado com o seu jornal da hora do almoço.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Após festa de filho de Virginia e Zé Felipe, tia da influenciadora viraliza com comentário sobre o cantor: ‘Nunca vai deixar de ser família’",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/09/08/apos-festa-de-filho-de-virginia-e-ze-felipe-tia-da-influenciadora-viraliza-com-comentario-sobre-o-cantor-nunca-vai-deixar-de-ser-familia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:43:41+00:00",
-      "summary": "Após festa, tia de Virginia diz que Zé Felipe nunca vai deixar de ser família A tia da influenciadora Virginia Fonseca, Nelsia Fonseca, viralizou ao comentar sobre o cantor Zé Felipe, ex-esposo da sobrinha, após a festa de aniversário de dois anos do filho do casal, José Leonardo. \"O Zé Felipe que fez o show. Foi incrí",
-      "category": "Cultura"
-    },
-    {
-      "title": "Assista aos telejornais da TV Liberal",
-      "url": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:42:54+00:00",
-      "summary": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Assista ao JAP1 desta terça-feira (8)",
-      "url": "https://g1.globo.com/ap/ao-vivo/assista-ao-jap2-desta-segunda-feira-7.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:42:43+00:00",
-      "summary": "Assista ao JAP1 desta terça-feira (8) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
-      "category": "Mundo"
-    },
-    {
-      "title": "Gianni Infantino é alvo de denúncia por supostas violações éticas na Fifa",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/gianni-infantino-e-alvo-de-denuncia-por-supostas-violacoes-eticas-na-fifa/",
+      "title": "Veja a primeira foto de Nina de Pádua na novela “Quem Ama Cuida”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/veja-a-primeira-foto-de-nina-de-padua-na-novela-quem-ama-cuida/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-08T14:42:38+00:00",
-      "summary": "FairSquare alega que presidente já cumpriu limite máximo de três mandatos e não deveria concorrer a um quarto período",
-      "category": "Política"
-    },
-    {
-      "title": "VÍDEOS: Bom Dia Amazonas desta terça-feira, 8 de setembro de 2026",
-      "url": "https://g1.globo.com/am/amazonas/playlist/videos-bom-dia-amazonas-desta-terca-feira-8-de-setembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:41:31+00:00",
-      "summary": "",
+      "publishedAt": "2026-09-08T17:51:13+00:00",
+      "summary": "Atriz estava há 21 anos afastada da TV Globo e volta para participação especial",
       "category": "Mundo"
     },
     {
-      "title": "Lewandowski diz não ter sido procurado para assinar manifesto de ministros aposentados sobre crise no STF",
-      "url": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/09/08/lewandowski-manifesto-ministros-aposentados-stf.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:41:15+00:00",
-      "summary": "Ex-ministro da Justiça e Segurança Pública e ex-presidente do STF, Ricardo Lewandowski Fátima Meira/Estadão Conteúdo O ex-presidente do STF Ricardo Lewandowski não foi procurado para assinar o manifesto de ministros aposentados da Corte sobre a crise no Supremo. O blog apurou que o ex-ministro soube do documento pela i",
-      "category": "Política"
-    },
-    {
-      "title": "Suspeito de tentativa de feminicídio em Taperoá, PB, é preso",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/08/suspeito-de-tentativa-de-feminicidio-em-taperoa-pb-e-preso.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:40:45+00:00",
-      "summary": "Homem foragido é preso suspeito de tentativa de feminicídio contra ex-companheira em Taperoá, PB Reprodução/TV Paraíba Um homem suspeito de tentar matar a ex-companheira foi preso nesta terça-feira (8), em Campina Grande, no Agreste da Paraíba. Ele estava foragido desde dezembro de 2025, quando atacou a mulher com quat",
-      "category": "Mundo"
-    },
-    {
-      "title": "Guimarães diz que decisão de afastamento de Andrei Rodrigues é “descabida”",
-      "url": "https://www.cnnbrasil.com.br/politica/guimaraes-diz-que-decisao-de-afastamento-de-andrei-rodrigues-e-descabida/",
+      "title": "Real Madrid x Inter de Milão: escalações e onde assistir à Champions League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/real-madrid-x-inter-de-milao-escalacoes-e-onde-assistir-a-champions-league/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-08T14:40:21+00:00",
-      "summary": "Ministro da Secretaria de Relações Institucionais afirmou que a medida é uma \"intromissão\" e \"cheira como eleitoral\"",
-      "category": "Política"
+      "publishedAt": "2026-09-08T17:48:58+00:00",
+      "summary": "Equipes se enfrentam nesta terça-feira (8), às 16h (de Brasília)",
+      "category": "Mundo"
     },
     {
-      "title": "Tragédias na neve: relembre as histórias por trás das maiores avalanches do planeta",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/tragedias-na-neve-relembre-as-historias-por-tras-das-maiores-avalanches-do-planeta/",
+      "title": "Musk queria \"uma legião de crianças antes da guerra civil\"",
+      "url": "https://observador.pt/2026/09/08/temos-de-ter-uma-legiao-de-criancas-antes-da-guerra-civil-ex-companheira-de-elon-musk-acusa-o-de-criar-divisoes-deliberadas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:48:19+00:00",
+      "summary": "Elon Musk tem pelo menos 14 filhos e filhas de quatro mulheres diferentes",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brennan isola-se como o mais ganhador após novo sprint categórico",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/brennan-isola-se-como-o-mais-ganhador-apos-novo-sprint-categorico_d1764189",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:46:27+00:00",
+      "summary": "O britânico Matthew Brennan (Visma-Lease a Bike) isolou-se como o ciclista com mais vitórias em etapas na 81.ª Volta a Espanha em bicicleta, ao triunfar pela quarta vez, num sprint em que negou quaisquer hipóteses à concorrência.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Exportações de frango avançam 24,8% em agosto e atingem 492,6 mil toneladas",
+      "url": "https://www.cnnbrasil.com.br/agro/exportacoes-de-frango-avancam-248-em-agosto-e-atingem-4926-mil-toneladas/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-08T14:39:25+00:00",
-      "summary": "Tragédias na neve já mataram centenas de pessoas pelo mundo; relembre algumas delas",
+      "publishedAt": "2026-09-08T17:45:25+00:00",
+      "summary": "Receita chega perto de US$ 1 bilhão no mês, enquanto embarques acumulam alta de 15,5% em 2026",
       "category": "Mundo"
     },
     {
-      "title": "Caso de imigrante. Agentes da PSP de Olhão começam a ser julgados",
-      "url": "https://www.rtp.pt/noticias/pais/caso-de-imigrante-agentes-da-psp-de-olhao-comecam-a-ser-julgados_n1764102",
+      "title": "Bombas de fragmentação fizeram mais de 1.000 vítimas em 2025",
+      "url": "https://www.rtp.pt/noticias/mundo/bombas-de-fragmentacao-fizeram-mais-de-1000-vitimas-em-2025_n1764114",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-08T14:36:39+00:00",
-      "summary": "Começaram a ser julgados os dois agentes da PSP de Olhão acusados de sequestro e homicídio de um homem marroquino.",
+      "publishedAt": "2026-09-08T17:44:32+00:00",
+      "summary": "As bombas de fragmentação, proibidas por uma convenção assinada por mais de 100 países em 2008, mataram ou feriram pelo menos 1.063 pessoas em 2025, num dos totais anuais mais elevados registados, disse hoje a ONU.",
       "category": "Mundo"
     },
     {
-      "title": "Tribunal finlandês acusa capitão de cargueiro russo",
-      "url": "https://observador.pt/2026/09/08/tribunal-da-finlandia-acusa-capitao-de-cargueiro-russo-de-danificar-cabo-submarino/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:34:52+00:00",
-      "summary": "O capitão e o tripulante de um navio mercante estão a ser julgados por acusações de dano qualificado e obstrução qualificada, pelo tribunal da Finlândia. Os acusados negam os factos.",
-      "category": "Mundo"
+      "title": "EUA atingem 36 empresas do setor de aviação do Irã com novas sanções",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/eua-atingem-36-empresas-do-setor-de-aviacao-do-ira-com-novas-sancoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:42:17+00:00",
+      "summary": "Segundo autoridades americanas, as novas medidas têm como objetivo impedir a República Islâmica de usar seu setor de aviação para mover armas, pessoal e carga ilícita",
+      "category": "Economia"
     },
     {
-      "title": "14h Começou julgamento de dois agentes da PSP acusados de sequestro e homicidio",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-comecou-julgamento-de-dois-agentes-da-psp-acusados-de-sequestro-e-homicidio_a1_1764101",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:33:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Detida dupla suspeita de vários roubos em Espinho",
-      "url": "https://observador.pt/2026/09/08/detida-dupla-suspeita-de-varios-roubos-em-espinho/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:31:32+00:00",
-      "summary": "A PSP realça que esta operação é um importante contributo para a reposição do sentimento de segurança em Espinho",
-      "category": "Mundo"
-    },
-    {
-      "title": "Feira do Livro do Porto recebeu 231 mil visitantes",
-      "url": "https://observador.pt/2026/09/08/feira-do-livro-do-porto-recebeu-231-mil-visitantes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:29:35+00:00",
-      "summary": "A 13.ª Feira do Livro do Porto decorreu de 21 de agosto a 6 de setembro e homenageou a poeta Inês Lourenço",
-      "category": "Cultura"
-    },
-    {
-      "title": "Câmara da Amadora diz que cumpriu em 100% o PRR",
-      "url": "https://observador.pt/2026/09/08/camara-da-amadora-diz-que-cumpriu-em-100-o-plano-de-recuperacao-e-resiliencia-com-investimento-de-50-milhoes-de-euros/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:29:18+00:00",
-      "summary": "\"A concretização destes investimentos é a prova do rigor e da capacidade de execução do nosso município\", afirmou o presidente da câmara",
-      "category": "Política"
-    },
-    {
-      "title": "Visitas encenadas no Palácio Nacional de Sintra para mostrar como viviam as rainhas",
-      "url": "https://www.rtp.pt/noticias/cultura/visitas-encenadas-no-palacio-nacional-de-sintra-para-mostrar-como-viviam-as-rainhas_v1764100",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:28:47+00:00",
-      "summary": "Há visitas encenadas que mostram como viviam as mulheres na monarquia. \"Palácio das Rainhas\" é a nova exposição do Palácio Nacional de Sintra.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fóssil de dinossauro com 146 milhões de anos encontrado em Portugal",
-      "url": "https://www.rtp.pt/noticias/pais/fossil-de-dinossauro-com-146-milhoes-de-anos-encontrado-em-portugal_v1764098",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:25:47+00:00",
-      "summary": "É o fóssil de dinossauro mais completo alguma vez encontrado em Portugal. Investigadores da Sociedade de História Natural de Torres Vedras concluíram a escavação nas arribas do concelho.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Leiria apresenta projeto educativo com foco na integração",
-      "url": "https://observador.pt/2026/09/08/municipio-de-leiria-assenta-projeto-educativo-na-integracao-e-sucesso-escolar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:23:40+00:00",
-      "summary": "Projeto educativo \"não é uma soma de projetos, nem iniciativas isoladas\", mas \"organizado em cinco pilares: cuidar, pensar, criar, participar e qualificar\", segundo vereadora com pelouro da Educação.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Moreirense vai realizar dois jogos em seis dias",
-      "url": "https://www.rtp.pt/noticias/desporto/moreirense-vai-realizar-dois-jogos-em-seis-dias_v1764096",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:19:47+00:00",
-      "summary": "O treinador do Moreirense, Vasco Botelho da Costa, lembra que o pouco tempo de preparação para este jogo pode influenciar o resultado final.",
+      "title": "Após recorde, Alison dos Santos é escolhido Atleta do Mês no Atletismo",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/apos-recorde-alison-dos-santos-e-escolhido-atleta-do-mes-no-atletismo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:40:16+00:00",
+      "summary": "Piu quebrou o recorde mundial dos 400m com barreiras na etapa de Zurique da Diamond League, e ganhou reconhecimento da World Athletics",
       "category": "Esportes"
     },
     {
-      "title": "PRR. Pagamentos aproximam-se dos 15.000 milhões de euros",
-      "url": "https://observador.pt/2026/09/08/prr-pagamentos-aproximam-se-dos-15-000-milhoes-de-euros-ate-setembro/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-08T14:19:30+00:00",
-      "summary": "Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida",
-      "category": "Política"
-    },
-    {
-      "title": "Benfica joga no terreno do Moreirense na quarta-feira",
-      "url": "https://www.rtp.pt/noticias/desporto/benfica-joga-no-terreno-do-moreirense-na-quarta-feira_v1764095",
+      "title": "Estádio do Estrela da Amadora interditado para receção ao Sporting de Braga",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/estadio-do-estrela-da-amadora-interditado-para-rececao-ao-sporting-de-braga_d1764181",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-08T14:16:47+00:00",
-      "summary": "O Benfica joga amanhã em Moreira de Cónegos, um jogo em atraso da terceira jornada. Palhinha, El Karouani e Echeverri estão disponíveis. Os três reforços não estavam inscritos na Liga à data do adiamento.",
+      "publishedAt": "2026-09-08T17:37:48+00:00",
+      "summary": "A partida entre o Estrela da Amadora e o Sporting de Braga, da terceira jornada da I Liga, não vai ser disputada no Estádio José Gomes, por decisão da Liga Portuguesa de Futebol Profissional (LPFP).",
       "category": "Esportes"
     },
     {
-      "title": "Fim ao comércio com colónias israelitas nos territórios ocupados da Palestina. Portugal entre os 12 países subscritores",
-      "url": "https://www.rtp.pt/noticias/mundo/fim-ao-comercio-com-colonias-israelitas-nos-territorios-ocupados-da-palestina-portugal-entre-os-12-paises-subscritores_n1764090",
+      "title": "Fisco notifica senhorios para cessarem contratos de arrendamento terminados há vários anos",
+      "url": "https://www.rtp.pt/noticias/economia/fisco-notifica-senhorios-para-cessarem-contratos-de-arrendamento-terminados-ha-varios-anos_n1764117",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-08T14:14:12+00:00",
-      "summary": "A decisão do Eliseu foi anunciada esta terça-feira. O comunicado do Ministério dos Negócios Estrangeiros francês diz que Portugal fez o mesmo, num total de 12 países que tomaram posição.",
+      "publishedAt": "2026-09-08T17:36:51+00:00",
+      "summary": "O fisco enviou e-mails a 33.400 senhorios com contratos de arrendamento não renováveis que já terminaram, solicitando-lhes que comuniquem a cessação do contrato, mas há contribuintes a garantir que já o fizeram há vários anos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "SATA recebe oito manifestações de interesse na privatização da Azores Airlines",
+      "url": "https://www.rtp.pt/noticias/economia/sata-recebe-oito-manifestacoes-de-interesse-na-privatizacao-da-azores-airlines_n1764118",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:35:28+00:00",
+      "summary": "Ponta Delgada, Açores, 08 set 2026 (Lusa) - A SATA Holding revelou hoje que recebeu oito manifestações de interesse no processo de privatização da SATA Internacional - Azores Airlines, para alienação de, pelo menos, 75% do capital social da empresa de aviação açoriana.",
+      "category": "Economia"
+    },
+    {
+      "title": "Bolsas da Europa fecham sem direção única com alta do petróleo",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-fecham-sem-direcao-unica-com-alta-do-petroleo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:34:55+00:00",
+      "summary": "FTSE 100 fechou em queda de 0,1%, DAX caiu 0,05%, enquanto CAC 40 subiu 0,14%",
+      "category": "Economia"
+    },
+    {
+      "title": "Fable e Astra: estamos mais perto da inteligência artificial geral?",
+      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/fable-e-astra-estamos-mais-perto-da-inteligencia-artificial-geral/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:34:42+00:00",
+      "summary": "Especialista de IA, Álvaro Machado avalia os novos modelos de ponta da OpenAI e Anthropic",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Polícia indicia 13 em caso de morte de homem espancado em Copacabana",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/policia-indicia-13-em-caso-de-morte-de-homem-espancado-em-copacabana",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:34:00+00:00",
+      "summary": "A Polícia Civil do Rio de Janeiro indiciou 13 pessoas no caso da morte do ciclista Cláudio Rafael Landeiro Moreira, de 37 anos, espancado ao ser confundido com um ladrão de bicicleta, em Copacabana, região turística da cidade. Cinco delas vão responder por homicídio triplamente qualificado, sendo que quatro estão presa",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mega-Sena sorteia prêmio de R$ 70 milhões nesta terça-feira",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-de-r-70-milhoes-nesta-terca-feira",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:33:00+00:00",
+      "summary": "A Mega-Sena sorteia nesta terça-feira (8) prêmio estimado em R$ 70 milhões. As seis dezenas do concurso 3.055 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) em casas lotéricas credenciadas pela Caixa em todo o país ou",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Moção. Rangel: \"Há que dizer chega ao Chega e basta ao PS\"",
+      "url": "https://observador.pt/programas/emissao-especial/mocao-rangel-ha-que-dizer-chega-ao-chega-e-basta-ao-ps/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:30:17+00:00",
+      "summary": "Ministro dos Negócios Estrangeiros critica Chega pela moção de censura e pelo apoio ao partido alemão AfD. Paulo Rangel acusa PS de manipular dados e de irresponsabilidade na governação.",
+      "category": "Política"
+    },
+    {
+      "title": "UE autoriza Kiev a comprar mísseis Patriot com empréstimo de 90 mil milhões de euros",
+      "url": "https://www.rtp.pt/noticias/mundo/ue-autoriza-kiev-a-comprar-misseis-patriot-com-emprestimo-de-90-mil-milhoes-de-euros_n1764112",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:30:16+00:00",
+      "summary": "A União Europeia (UE) autorizou esta terça-feira a Ucrânia a utilizar fundos do empréstimo europeu de 90 mil milhões de euros para comprar mísseis intercetores Patriot, fabricados nos Estados Unidos, anunciou a presidente da Comissão Europeia.",
+      "category": "Política"
+    },
+    {
+      "title": "Mendonça usou pedido do partido Novo para afastar diretor-geral da PF",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-usou-pedido-do-partido-novo-para-afastar-diretor-geral-da-pf",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:26:00+00:00",
+      "summary": "O ministro do Supremo Tribunal Federal (STF) André Mendonça solicitou o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues , com base em um pedido do partido Novo. A sigla também chegou a defender a prisão preventiva do delegado, alegando que a medida seria necessária para preservar as investigações do c",
+      "category": "Política"
+    },
+    {
+      "title": "Anvisa aprova novo medicamento para tratamento de enxaqueca",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-novo-medicamento-para-tratamento-de-enxaqueca",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:24:00+00:00",
+      "summary": "Um novo medicamento para o tratamento da enxaqueca foi aprovado nesta terça-feira (8) pela Agência Nacional de Vigilância Sanitária (Anvisa). O Aquipta (atogepanto) é indicado para adultos que têm pelo menos quatro episódios mensais de enxaqueca. De acordo com a agência, a substância atua no bloqueio de uma via envolvi",
+      "category": "Saúde"
+    },
+    {
+      "title": "\"Verdade prevalecerá\", diz número 2 da PF após afastamento de Andrei",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/verdade-prevalecera-diz-numero-2-da-pf-apos-afastamento-de-andrei",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T17:16:00+00:00",
+      "summary": "O diretor-executivo da Polícia Federal (PF), William Marcel Murad, declarou, nesta terça-feira (8), que a atuação autônoma, imparcial, técnica e apartidária permite que a corporação se defenda de “disparates, ataques, tentativas de usurpação de funções e de desqualificar o trabalho” do órgão. “Saber que trabalhamos est",
+      "category": "Mundo"
+    },
+    {
+      "title": "Israel encerra consulado britânico em resposta a sanções na Cisjordânia",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-encerra-consulado-britanico-em-resposta-a-sancoes-na-cisjordania_n1764167",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-08T17:08:24+00:00",
+      "summary": "O ministro israelita dos Negócios Estrangeiros anunciou hoje o encerramento do consulado britânico em Jerusalém em retaliação pelas sanções contra os colonatos israelitas na Cisjordânia, impostas por Londres e outros países ocidentais.",
+      "category": "Política"
+    },
+    {
+      "title": "Sem Censura festeja 90 anos da Rádio Nacional com edições temáticas",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/sem-censura-festeja-90-anos-da-radio-nacional-com-edicoes-tematicas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T16:21:00+00:00",
+      "summary": "O programa Sem Censura faz um esquenta com atrações especiais durante esta semana na telinha da TV Brasil em comemoração aos 90 anos da Rádio Nacional , celebrados no próximo sábado, dia 12 de setembro. A cada dia, a roda de conversa recebe convidados para bate-papos temáticos que ajudam a contar diferentes capítulos d",
+      "category": "Mundo"
+    },
+    {
+      "title": "CNU 1: prazo da lista de espera se encerra nesta sexta-feira",
+      "url": "https://agenciabrasil.ebc.com.br/concursos/noticia/2026-09/cnu-1-prazo-da-lista-de-espera-se-encerra-nesta-sexta-feira",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T16:03:00+00:00",
+      "summary": "Os candidatos que estão na lista de espera da primeira edição do Concurso Público Nacional Unificado (CPNU 1) devem, até às 23h59 desta sexta-feira (11), manifestar interesse em continuar concorrendo às vagas dos cargos para os quais estão habilitados. O prazo foi prorrogado pelo Ministério da Gestão e da Inovação em S",
+      "category": "Mundo"
+    },
+    {
+      "title": "Gabriel Magalhães, Marquinhos e Vini Jr. são indicados ao Bola de Ouro",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/gabriel-magalhaes-marquinhos-e-vini-jr-sao-indicados-ao-bola-de-ouro",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T16:01:00+00:00",
+      "summary": "O Brasil conta com os jogadores brasileiros Vinicius Júnior (Real Madrid), Marquinhos (Paris Saint-Germain) e Gabriel Magalhães (Arsenal) na lista de 30 indicados ao prêmio Bola de Ouro de 2026 de melhor jogador do mundo. A relação de concorrentes foi anunciada nesta terça-feira (8) pelos organizadores – a revista Fran",
+      "category": "Mundo"
+    },
+    {
+      "title": "Leitura entre adolescentes atinge pior nível deste século",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/leitura-entre-adolescentes-atinge-pior-nivel-deste-seculo",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-08T15:58:00+00:00",
+      "summary": "Adolescentes mais acostumados a smartphones do que a Shakespeare estão apresentando os piores índices de leitura já registrados neste século, o que está levando a um declínio mais amplo na educação, segundo avaliação global de alunos. O teste de 2025 da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), ",
       "category": "Mundo"
     },
     {
@@ -441,87 +522,6 @@
       "publishedAt": "2026-09-08T14:09:00+00:00",
       "summary": "A Segunda Turma do Supremo Tribunal Federal (STF) formou maioria nesta terça-feira (8) para manter a decisão do ministro André Mendonça que afastou o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, de suas funções. A conclusão do julgamento, contudo, foi interrompida por um pedido de vista do ministro Gilmar M",
       "category": "Política"
-    },
-    {
-      "title": "Amazônia tem mais de 2,7 mil espécies de peixes, aponta estudo",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/amazonia-tem-mais-de-27-mil-especies-de-peixes-aponta-estudo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T14:00:00+00:00",
-      "summary": "A Bacia Amazônica abriga mais de 2,7 mil espécies de peixes de água doce, cerca de 15% de todas as espécies conhecidas no mundo. Aproximadamente dois terços delas são encontradas exclusivamente na região. Os dados fazem parte da quarta edição do relatório Peixes Esquecidos da Amazônia, liderado pela The Nature Conserva",
-      "category": "Cultura"
-    },
-    {
-      "title": "Ex-ministros do STF pedem apuração rigorosa da \"mais aguda crise\"",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/ex-ministros-do-STF-pedem-apuracao-rigorosa-da-mais-aguda-crise",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T13:27:00+00:00",
-      "summary": "Treze ex-ministros do Supremo Tribunal Federal (STF) enviaram uma carta conjunta ao atual presidente da Corte, Edson Fachin, para pedir que o colegiado investigue de forma rigorosa as denúncias envolvendo ministros da Corte . No texto, os signatários pedem convocação de sessão pública para discutir os fatos e classific",
-      "category": "Política"
-    },
-    {
-      "title": "Inventário extrajudicial não exigirá mais pagamento prévio de ITCMD",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/inventario-extrajudicial-nao-exigira-imposto-de-transmissao-previo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T13:22:00+00:00",
-      "summary": "Resolução do Conselho Nacional de Justiça (CNJ), em atendimento a requerimento feito pelo Colégio Notarial do Brasil — Conselho Federal (CNB/CF), prevê que o Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) em inventários extrajudiciais não precisará mais ser pago antecipadamente. Segundo especialistas, a decisã",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mercado financeiro reduz previsão da inflação para 5% este ano",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mercado-financeiro-reduz-previsao-da-inflacao-para-5-este-ano",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T13:02:00+00:00",
-      "summary": "A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) , referência oficial da inflação no país, passou de 5,01% para 5% este ano. A estimativa está no Boletim Focus desta terça-feira (8), pesquisa divulgada semanalmente pelo Banco Central (BC) com a expectativa de instituições fin",
-      "category": "Economia"
-    },
-    {
-      "title": "Mendonça afasta Andrei Rodrigues da direção-geral da Polícia Federal",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-afasta-andrei-rodrigues-da-direcao-geral-da-policia-federal",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T12:27:00+00:00",
-      "summary": "O ministro André Mendonça, relator do caso do Banco Master no Supremo Tribunal Federal (STF), decidiu nesta terça-feira (8) afastar o diretor-geral da Polícia Federal, Andrei Rodrigues, de suas funções. Mendonça também afastou preventivamente o diretor de Inteligência da PF, Leandro Almada. O ministro atendeu a pedido ",
-      "category": "Política"
-    },
-    {
-      "title": "Confira a agenda dos presidenciáveis nesta terça-feira (8)",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-terca-feira-8",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T11:58:00+00:00",
-      "summary": "A agenda dos presidenciáveis nesta terça-feira (8) inclui entrevistas, reuniões com apoiadores e visitas técnicas pelo país. Há ainda participação em sabatina e encontro com lideranças locais. Renan Santos (Missão) Às 8h, participa de sabatina na Jovem Pan, em São Paulo (SP). Às 9h30, concede entrevista a Paulo Mathias",
-      "category": "Mundo"
-    },
-    {
-      "title": "Rússia ataca Kiev após breve pausa para visita de enviados dos EUA",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/russia-ataca-kiev-apos-breve-pausa-para-visita-de-enviados-dos-eua",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T11:32:00+00:00",
-      "summary": "A Rússia bombardeou Kiev com drones e mísseis na madrugada desta terça-feira (8), retomando seus ataques aéreos após uma breve pausa para a visita dos negociadores de paz dos Estados Unidos (EUA). Três pessoas morreram, segundo o prefeito Vitali Klitschko, e incêndios foram registrados por toda a capital ucraniana O mi",
-      "category": "Política"
-    },
-    {
-      "title": "Vasco vai à final e decide título do Feminino A2 contra Itabirito",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-vai-final-e-decide-titulo-do-feminino-a2-contra-itabirito",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T10:48:00+00:00",
-      "summary": "Dono da melhor campanha da Série A2 (segunda divisão) do Campeonato Brasileiro Feminino de futebol, o Vasco está na final da competição. Na noite da última segunda-feira (7), o Cruzmaltino voltou a derrotar o Atlético-PI, desta vez por 4 a 0, no Luso-Brasileiro, na partida de volta das semifinais. A TV Brasil transmiti",
-      "category": "Esportes"
-    },
-    {
-      "title": "Programa de Reforma Agrária inclui 2,4 mil quilombolas no Maranhão",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/programa-de-reforma-agraria-inclui-24-mil-quilombolas-no-maranhao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-08T10:40:00+00:00",
-      "summary": "O Instituto Nacional de Colonização e Reforma Agrária (Incra) reconheceu 2.451 famílias de comunidades quilombolas do Maranhão como beneficiárias do Programa Nacional de Reforma Agrária. A Portaria nº 2.173 autoriza o início da seleção das unidades familiares incluídas no Cadastro Único para Programas Sociais do Govern",
-      "category": "Esportes"
     }
   ],
   "sources": [
