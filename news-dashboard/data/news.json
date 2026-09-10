@@ -1,365 +1,437 @@
 {
-  "updatedAt": "2026-09-10T04:37:48.445875+00:00",
+  "updatedAt": "2026-09-10T09:40:27.019116+00:00",
   "items": [
     {
-      "title": "4h Reunião do BCE com nova subida das taxas de juro no horizonte",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-reuniao-do-bce-com-nova-subida-das-taxas-de-juro-no-horizonte_a1_1764529",
+      "title": "Houthis do Iémen avançam para controlar o estratégico Estreito de Bab el-Mandeb",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/houthis-do-iemen-avancam-para-controlar-o-estrategico-estreito-de-bab-el-mandeb_n1764578",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-10T04:25:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Previsão do tempo hoje para Brasília (DF): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:07:23+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quinta-feira (10) para Brasília (DF) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da t",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Paulo (SP): tempo chuvoso durante o dia; à noite ocorre chuva forte e trovoada",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-sao-paulo-sp-tempo-chuvoso-durante-o-dia-a-noite-ocorre-chuva-forte-e-trovoada.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:07:08+00:00",
-      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta quinta-feira (10) para São Paulo (SP) é de tempo chuvoso durante o dia. À noite ocorre chuva forte e trovoada. As máximas são de 21ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde; à noite, temporal",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:06:50+00:00",
-      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para esta quinta-feira (10) para São Bernardo do Campo (SP) é de sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde. À noite, temporal. As máximas são de 23ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasi",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Santo André (SP): sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde; à noite, temporal",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:06:33+00:00",
-      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para esta quinta-feira (10) para Santo André (SP) é de sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde. À noite, temporal. As máximas são de 23ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, ",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Osasco (SP): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-osasco-sp-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:06:13+00:00",
-      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para esta quinta-feira (10) para Osasco (SP) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 23ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No p",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde; à noite, temporal",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:05:56+00:00",
-      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para esta quinta-feira (10) para Guarulhos (SP) é de sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde. À noite, temporal. As máximas são de 24ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol ",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens de manhã passando a nublado, com possibilidade de garoa, à noite; noite com muitas nuvens",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-de-manha-passando-a-nublado-com-possibilidade-de-garoa-a-noite-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:05:33+00:00",
-      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para esta quinta-feira (10) para São Gonçalo (RJ) é de sol com muitas nuvens de manhã passando a nublado, com possibilidade de garoa, à noite. Noite com muitas nuvens. As máximas são de 30ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Bras",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:05:13+00:00",
-      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para esta quinta-feira (10) para o Rio de Janeiro (RJ) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 30ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. N",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:04:55+00:00",
-      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para esta quinta-feira (10) para Nova Iguaçu (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 30ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:04:37+00:00",
-      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para esta quinta-feira (10) para Niterói (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 29ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muit",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens e pancadas de chuva à noite; céu nublado com possibilidade de garoa à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-com-muitas-nuvens-e-pancadas-de-chuva-a-noite-ceu-nublado-com-possibilidade-de-garoa-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:04:18+00:00",
-      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para esta quinta-feira (10) para Duque de Caxias (RJ) é de sol com muitas nuvens e pancadas de chuva à noite. Céu nublado com possibilidade de garoa à noite. As máximas são de 30ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Du",
-      "category": "Clima"
-    },
-    {
-      "title": "Porque é que os alunos portugueses estão a piorar?",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/porque-e-que-os-alunos-portugueses-estao-a-piorar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T04:04:00+00:00",
-      "summary": "Os resultados do PISA fizeram Portugal recuar quase 20 anos em algumas aprendizagens. Miguel Herdade explica o que aconteceu, da pandemia às políticas educativas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/10/previsao-do-tempo-hoje-para-sete-lagoas-mg-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T04:03:55+00:00",
-      "summary": "Previsão do tempo hoje em Sete Lagoas g1 A previsão do tempo para esta quinta-feira (10) para Sete Lagoas (MG) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 30ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol ",
-      "category": "Clima"
-    },
-    {
-      "title": "Fernando Diniz reclama de falta no gol do Estudiantes contra o Corinthians",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/fernando-diniz-reclama-de-falta-no-gol-do-estudiantes-contra-o-corinthians/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T03:46:27+00:00",
-      "summary": "Equipes empataram nesta quarta-feira (9), na Argentina, pelo confronto de ida das quartas de final da Copa Libertadores da América",
-      "category": "Esportes"
-    },
-    {
-      "title": "3h Copernicus. Agosto foi o mês mais quente desde que há registos",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-copernicus-agosto-foi-o-mes-mais-quente-desde-que-ha-registos_a1_1764524",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T03:41:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "2h PS entende que Governo devia ir mais longe no apoio às famílias",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ps-entende-que-governo-devia-ir-mais-longe-no-apoio-as-familias_a1_1764523",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T03:41:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-09-10T10:26:12+00:00",
+      "summary": "Os Houthis do Iémen, alinhados com o Irão, estão próximos de obter o controlo sobre o estreito de Bab el-Mandeb - uma das rotas mais importantes do mundo para navios de transporte de mercadorias-, segundo fontes militares do Governo iemenita, enquanto os combates contra as forças apoiadas pela Arábia Saudita ameaçam le",
       "category": "Política"
     },
     {
-      "title": "Estudiantes 1 x 1 Corinthians: veja os melhores momentos pela Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/estudiantes-1-x-1-corinthians-veja-os-melhores-momentos-pela-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T03:23:40+00:00",
-      "summary": "Equipes empataram nesta quarta-feira (9), em La Plata, pela partida de ida das quartas de final do torneio continental",
+      "title": "10h José Sócrates reaparece no julgamento da Operação Marquês",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-jose-socrates-reaparece-no-julgamento-da-operacao-marques_a1_1764581",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T10:25:04+00:00",
+      "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "As notícias das 4h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2397/",
+      "title": "Estado Islâmico reivindica ataque que destruiu acampamento turístico de Carlos Queiroz",
+      "url": "https://www.rtp.pt/noticias/mundo/estado-islamico-reivindica-ataque-que-destruiu-acampamento-turistico-de-carlos-queiroz_n1764574",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T10:10:50+00:00",
+      "summary": "Elementos associados ao grupo extremista Estado Islâmico reivindicaram hoje o ataque na Coutada de Marangira, na Reserva Especial do Niassa, norte do Moçambique, que destruiu o acampamento turístico associado ao treinador de futebol luso-moçambicano Carlos Queiroz.",
+      "category": "Esportes"
+    },
+    {
+      "title": "\"Já ninguém fala de corrupção\". Sócrates volta a ser ouvido em tribunal para se defender",
+      "url": "https://www.rtp.pt/noticias/pais/ja-ninguem-fala-de-corrupcao-socrates-volta-a-ser-ouvido-em-tribunal-para-se-defender_n1764573",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T10:07:55+00:00",
+      "summary": "José Sócrates volta a tribunal, um ano depois das últimas alegações sobre a Operação Marquês, a pedido próprio para voltar a falar, num requerimento apresentado no final de junho. Apontando culpa ao sistema judicial e à comunicação social, o ex-primeiro-ministro diz que tem de se defender e provar a própria inocência.",
+      "category": "Política"
+    },
+    {
+      "title": "Linha de prevenção do suicídio atendeu mais de 25 mil chamadas no primeiro ano de atividade",
+      "url": "https://www.rtp.pt/noticias/pais/linha-de-prevencao-do-suicidio-atendeu-mais-de-25-mil-chamadas-no-primeiro-ano-de-atividade_n1764555",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:49:01+00:00",
+      "summary": "A Linha Nacional de Prevenção do Suicídio foi criada há precisamente um ano e registou 25.600 chamadas. Para o INEM, foram encaminhadas cerca de 600 situações. Mulheres e jovens entre os 18 e os 29 anos ligam mais, mas a maioria dos casos de suicídio são entre homens e idosos. A pensar nisso, coordenação clínica prepar",
+      "category": "Esportes"
+    },
+    {
+      "title": "\"Pedir a demissão do ministro Luís Neves é ser populista\"",
+      "url": "https://observador.pt/programas/comissao-de-inquerito/pedir-a-demissao-do-ministro-luis-neves-e-ser-populista/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-10T03:17:38+00:00",
+      "publishedAt": "2026-09-10T09:38:15+00:00",
+      "summary": "Marina Gonçalves admite que Luís Neves manteve uma atitude arrogante e diz que os socialistas estão a ser responsáveis. A deputada do PS antecipa que o partido não tem linhas vermelhas sobre OE.",
+      "category": "Política"
+    },
+    {
+      "title": "09h Pedro Siza Vieira aconselha prudência por causa da subida das taxas de juros",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-pedro-siza-vieira-aconselha-prudencia-por-causa-da-subida-das-taxas-de-juros_a1_1764571",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:34:08+00:00",
+      "summary": "",
+      "category": "Economia"
+    },
+    {
+      "title": "Sp. Braga e Estrela acertam calendário",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/sp-braga-e-estrela-acertam-calendario_d1764570",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:33:42+00:00",
+      "summary": "O Sporting de Braga procura hoje o terceiro triunfo consecutivo na I Liga num jogo em atraso da terceira jornada, em Alverca, casa emprestada do Estrela da Amadora, por interdição do seu recinto.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Alexander Zverev nas meias-finais do US Open",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/alexander-zverev-nas-meias-finais-do-us-open_d1764569",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:30:59+00:00",
+      "summary": "O alemão Alexander Zverev, número dois do ranking mundial, passou às meias-finais do Open dos Estados Unidos em ténis, ao bater o neerlandês Botic van de Zandschulp em apenas três parciais.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Operação cumpre mandados contra suspeitos de homicídios, roubos e tráfico na Grande João Pessoa",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/10/operacao-cumpre-mandados-contra-suspeitos-de-homicidios-roubos-e-trafico-na-grande-joao-pessoa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:28:42+00:00",
+      "summary": "Operação cumpre mandados contra suspeitos de homicídios, roubos e tráfico na Grande João Pessoa Reprodução / TV Cabo Branco A Polícia Militar da Paraíba e o Grupo de Atuação Especial contra o Crime Organizado (Gaeco) deflagraram, na manhã desta quinta-feira (10), uma operação para cumprir mandados de prisão contra susp",
+      "category": "Mundo"
+    },
+    {
+      "title": "Rybakina garante liderança do ranking mundial",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/rybakina-garante-lideranca-do-ranking-mundial_d1764568",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:26:54+00:00",
+      "summary": "A cazaque Elena Rybakina garantiu que se vai tornar a 30.ª tenista a chegar ao topo do ranking WTA, depois de se qualificar pela primeira para as meias-finais do Open dos Estados Unidos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Segurança da embaixada britânica detido na Rússia por espionagem para a Ucrânia",
+      "url": "https://www.rtp.pt/noticias/mundo/seguranca-da-embaixada-britanica-detido-na-russia-por-espionagem-para-a-ucrania_n1764562",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:23:20+00:00",
+      "summary": "As autoridades russas detiveram um segurança da embaixada do Reino Unido em Moscovo por alegadamente espiar para os serviços de informações ucranianos, declarou hoje o Serviço Federal de Segurança da Rússia (FSB).",
+      "category": "Mundo"
+    },
+    {
+      "title": "AO VIVO: assista à programação da NSC TV",
+      "url": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:21:50+00:00",
+      "summary": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Trump promete dar cinco mil dólares a cada americano se republicanos vencerem as intercalares",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-promete-dar-cinco-mil-dolares-a-cada-americano-se-republicanos-vencerem-as-intercalares_n1764565",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:20:25+00:00",
+      "summary": "O presidente norte-americano garante que se os Republicanos vencerem a Câmara dos Representantes e o Senado, vai distribuir a cada cidadão cinco mil dólares, o equivalente a 4.200 euros.",
+      "category": "Política"
+    },
+    {
+      "title": "As notícias das 10h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2462/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:20:23+00:00",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
-      "title": "Incêndio em balsa deixa cinco mortos e 80 desaparecidos nas Filipinas",
-      "url": "https://www.cnnbrasil.com.br/internacional/incendio-em-balsa-deixa-mortos-e-desaparecidos-nas-filipinas/",
+      "title": "“Pelicot 2.0”: Mulher austríaca morre após suposto abuso sexual pelo marido",
+      "url": "https://www.cnnbrasil.com.br/internacional/pelicot-2-0-mulher-austriaca-morre-apos-suposto-abuso-sexual-pelo-marido/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-10T03:15:58+00:00",
-      "summary": "Quarenta e três pessoas foram resgatadas; causa do início do fogo está sendo investigada",
-      "category": "Clima"
-    },
-    {
-      "title": "Deyverson revela sonho de se aposentar no Palmeiras: “Quem sabe”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/deyverson-revela-sonho-de-se-aposentar-no-palmeiras-quem-sabe/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T02:59:07+00:00",
-      "summary": "Atacante garantiu que não comemorará se marcar contra o time alviverde no segundo jogo das quartas de final da Copa Libertadores da América",
-      "category": "Esportes"
-    },
-    {
-      "title": "Salão de Baile da Casa Branca vai superar Grande Salão da China, diz Trump",
-      "url": "https://www.cnnbrasil.com.br/internacional/salao-de-baile-da-casa-branca-vai-superar-grande-salao-da-china-diz-trump/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T02:50:30+00:00",
-      "summary": "Projeto, com área de quase 8.300 metros quadrados, recebeu permissão da Suprema Corte para prosseguir as construções",
+      "publishedAt": "2026-09-10T09:11:52+00:00",
+      "summary": "Mulher de 40 anos morreu após sofrer ferimentos durante suposto abuso sexual; autoridades investigam se outros homens também participaram dos crimes",
       "category": "Mundo"
     },
     {
-      "title": "Corinthians quebra jejum como visitante na Libertadores que durava 14 anos",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/corinthians-quebra-jejum-como-visitante-na-libertadores-que-durava-14-anos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T02:35:52+00:00",
-      "summary": "Timão empatou jogando fora de casa e agora decide a vaga na Neo Química Arena",
-      "category": "Mundo"
-    },
-    {
-      "title": "Trump cita “movimentação” na Montanha Pickaxe, no Irã, e ameaça atacá-la",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-cita-movimentacao-na-montanha-pickaxe-no-ira-e-ameaca-ataca-la/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T02:31:49+00:00",
-      "summary": "Local é suspeito de abrigar instalações nucleares iranianas perto do complexo de Natanz, a cerca de 225 quilÔmetros de Teerã",
-      "category": "Mundo"
-    },
-    {
-      "title": "Temer diz que instituições devem prevalecer ante pessoas na crise do STF",
-      "url": "https://www.cnnbrasil.com.br/politica/temer-diz-que-instituicoes-devem-prevalecer-ante-pessoas-na-crise-do-stf/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T02:31:09+00:00",
-      "summary": "Ex-presidente, que indicou Alexandre de Moraes para a Corte, não citou nomes em vídeo publicado nas redes sociais",
-      "category": "Política"
-    },
-    {
-      "title": "Corinthians empata com o Estudiantes e decide em casa vaga na Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/corinthians-empata-com-o-estudiantes-e-decide-em-casa-vaga-na-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T02:26:33+00:00",
-      "summary": "Time alvinegro saiu atrás no placar nesta quarta-feira (9), mas buscou a igualdade no Estádio Jorge Luis Hirschi, na Argentina, pela partida de ida das quartas de final",
-      "category": "Mundo"
-    },
-    {
-      "title": "EUA: Trump promete US$ 5 mil para adultos caso republicanos vençam eleições",
-      "url": "https://www.cnnbrasil.com.br/internacional/eua-trump-promete-us-5-mil-para-adultos-caso-republicanos-vencam-eleicoes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T02:18:16+00:00",
-      "summary": "Presidente americano prometeu pagar dividendo para cada adulto americano caso o partido vença a disputa de meio de mandato no Senado e na Câmara dos Representantes",
-      "category": "Política"
-    },
-    {
-      "title": "3h. Chega quer ouvir o diretor nacional da PJ no Parlamento",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2432/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T02:16:44+00:00",
-      "summary": "O Chega quer ouvir o diretor da PJ no Parlamento sobre os custos de destruição de químicos num atrelado. André Ventura acusa a ministra da Justiça de mentir e \"sacudir responsabilidades\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "PT vai ao STF por retirada de sigilo do caso Master após pedido de Lula",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/pt-vai-ao-stf-por-retirada-de-sigilo-do-caso-master-apos-pedido-de-lula/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T02:16:12+00:00",
-      "summary": "Petições assinadas por advogado da campanha de Lula foram encaminhadas aos ministros André Mendonça e Flávio Dino",
-      "category": "Política"
-    },
-    {
-      "title": "Gabriel Paulista fica com galo na testa em jogo da Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/gabriel-paulista-fica-com-galo-na-testa-em-jogo-da-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-10T02:03:35+00:00",
-      "summary": "Zagueiro do Corinthians se envolveu em disputa de bola e jogador adversário não levou cartão amarelo",
-      "category": "Esportes"
-    },
-    {
-      "title": "1h Cabaz alimentar volta a subir e pode continuar por causa do preço dos combustíveis",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-cabaz-alimentar-volta-a-subir-e-pode-continuar-por-causa-do-preco-dos-combustiveis_a1_1764517",
+      "title": "Economista Ricardo Reis terá sido afastado pelo FMI após criticar tarifas de Trump",
+      "url": "https://www.rtp.pt/noticias/economia/economista-ricardo-reis-tera-sido-afastado-pelo-fmi-apos-criticar-tarifas-de-trump_n1764566",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-10T01:27:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-09-10T09:11:26+00:00",
+      "summary": "O especialista português era apontado ao cargo de economista-chefe do Fundo Monetário Internacional.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Zero aponta falhas no restauro da natureza em áreas urbanas",
+      "url": "https://observador.pt/2026/09/10/associacao-zero-aponta-falhas-no-restauro-da-natureza-em-areas-urbanas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:10:41+00:00",
+      "summary": "O Pro Nat.urbe é um programa de restauro da natureza em áreas urbanas, no âmbito da lei europeia do restauro da natureza",
       "category": "Economia"
     },
     {
-      "title": "0h Benfica e Sporting triunfaram em noite de muitos golos",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-benfica-e-sporting-triunfaram-em-noite-de-muitos-golos_a1_1764516",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T01:24:02+00:00",
-      "summary": "",
-      "category": "Esportes"
-    },
-    {
-      "title": "2h. Ministra do Ambiente descarta fixar preço do combustível",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2406/",
+      "title": "PSD pede mais investimento da STCP em Matosinhos",
+      "url": "https://observador.pt/2026/09/10/psd-matosinhos-quer-mais-investimento-da-stcp-no-concelho/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-10T01:13:15+00:00",
-      "summary": "Maria da Graça Carvalho volta a afastar o teto aos combustíveis por causar disrupções no mercado. À CNN, a ministra do Ambiente garantiu ainda estar a acompanhar a fusão da Galp com a Moeve.",
+      "publishedAt": "2026-09-10T09:09:21+00:00",
+      "summary": "\"Deve também ser estudado o reforço e o eventual alargamento da operação da STCP a outras zonas do concelho, de forma articulada com os restantes operadores\", aconselha Bruno Pereira",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dois astronautas da Artemis II deixam de realizar missões",
+      "url": "https://observador.pt/2026/09/10/dois-astronautas-da-artemis-ii-que-orbitaram-a-lua-deixam-de-realizar-voos-espaciais/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:08:24+00:00",
+      "summary": "Entre as suas principais funções estarão a formação de pessoal para futuros lançamentos, especialmente os que se destinam à Lua",
+      "category": "Cultura"
+    },
+    {
+      "title": "'Da Magia à Sedução: Feitiço de Amor', com Sandra Bullock, estreia nos cinemas da Paraíba",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/10/da-magia-a-seducao-feitico-de-amor-com-sandra-bullock-estreia-nos-cinemas-da-paraiba.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:08:00+00:00",
+      "summary": "Gillian (Nicole Kidman) e Sally (Sandra Bullock) enfrentam uma ameaça em 'Da magia à sedução: feitiço de amor' Divulgação O filme “Da Magia à Sedução: Feitiço de Amor” estreia nos cinemas da Paraíba nesta quinta-feira (10). O longa é uma continuação do sucesso de 1988 e traz Sandra Bullock e Nicole Kidman como as prota",
+      "category": "Cultura"
+    },
+    {
+      "title": "Aumento do preço do gás pode aumentar procura de carvão",
+      "url": "https://observador.pt/2026/09/10/aumento-do-preco-do-gas-pode-aumentar-procura-mundial-de-carvao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T09:07:39+00:00",
+      "summary": "Nos países que dispõem de centrais elétricas tanto a gás como a carvão, o encarecimento do gás está a favorecer uma maior utilização do carvão para a produção de eletricidade.",
       "category": "Economia"
     },
     {
-      "title": "Apple revela o seu primeiro iPhone dobrável e volta a aumentar os preços",
-      "url": "https://www.rtp.pt/noticias/economia/apple-revela-o-seu-primeiro-iphone-dobravel-e-volta-a-aumentar-os-precos_n1764515",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T00:45:14+00:00",
-      "summary": "A Apple revelou quarta-feira o seu primeiro telemóvel dobrável, o iPhone Duo, que marca o início da gestão do novo executivo John Ternus, ao mesmo tempo que aumentou o preço dos seus modelos iPhone Pro.",
+      "title": "Eleições 2026: saiba quais são as propostas dos candidatos ao governo da Paraíba para geração de emprego",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-saiba-quais-sao-as-propostas-dos-candidatos-ao-governo-da-paraiba-para-geracao-de-emprego.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:06:21+00:00",
+      "summary": "Candidatos ao governo da Paraíba: Camilo Duarte (PCO), Cícero Lucena (MDB), Efraim Filho (PL), Lucas Ribeiro (PP), Pedro Coutinho (DC) e Yuri Ezequiel (UP) Reprodução O desemprego é apontado como principal problema por 6% dos eleitores paraibanos ouvidos pela pesquisa Quaest, divulgada no dia 25 de agosto pelas TVs Cab",
+      "category": "Política"
+    },
+    {
+      "title": "Assista ao Bom Dia ES",
+      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:05:40+00:00",
+      "summary": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Houthis tomam cidade portuária no Iêmen próxima ao Estreito de Bab el-Mandeb",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/10/houthis-tomam-cidade-portuaria-moca-iemen.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:03:50+00:00",
+      "summary": "Agora no g1 O grupo terrorista Houthi tomou controle nesta quinta-feira (10) de Moca, cidade portuária no sudoeste do Iêmen, segundo o governo iemenita. A tomada da cidade foi confirmada por fontes diplomáticas e militares do governo do Iêmen às agências de notícias internacionais Reuters e AFP. ✅ Siga o canal de notíc",
+      "category": "Política"
+    },
+    {
+      "title": "Rússia diz ter detido homem que espionava diplomatas britânicos em Moscou",
+      "url": "https://www.cnnbrasil.com.br/internacional/russia-diz-ter-detido-homem-que-espionava-diplomatas-britanicos-em-moscou/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:03:27+00:00",
+      "summary": "Agência russa diz que ele trabalhava para inteligência ucraniana e coletava dados de diplomatas para suposta operação de falsa bandeira",
+      "category": "Mundo"
+    },
+    {
+      "title": "Biólogo mostra “desespero” de gambás durante resgate em residência",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/biologo-mostra-desespero-de-gambas-durante-resgate-em-residencia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:03:06+00:00",
+      "summary": "Profissional brincou com agressividade dos pequenos animais ao registrar momento em vídeo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Vale a pena investir no Tesouro Direto?",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/vale-a-pena-investir-no-tesouro-direto/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:00:25+00:00",
+      "summary": "Com aportes acessíveis, diferentes tipos de títulos e possibilidade de investir para objetivos de curto, médio e longo prazo, o Tesouro Direto pode ser uma alternativa para quem busca segurança e diversificação",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quem é Elena Rybakina, 30ª tenista a ser número 1 do mundo no tênis",
+      "url": "https://www.cnnbrasil.com.br/esportes/tenis/quem-e-elena-rybakina-30a-tenista-a-ser-numero-1-do-mundo-no-tenis/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:00:25+00:00",
+      "summary": "Russa naturalizada cazaque fica no topo do ranking da WTA mesmo se não vencer o US Open",
+      "category": "Mundo"
+    },
+    {
+      "title": "Trabalhador é resgatado de condição análoga à escravidão após um ano em fazenda de gado no Acre",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/09/10/trabalhador-e-resgatado-de-condicao-analoga-a-escravidao-apos-um-ano-em-fazenda-de-gado-no-acre.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:00:01+00:00",
+      "summary": "Auditores fiscais do trabalho resgatam homem em situação análoga à escravidão em zona rural de Rio Branco em agosto Arquivo/MTE Um trabalhador foi resgatado de condições análogas às de escravo em uma fazenda de gado na zona rural de Rio Branco, em agosto deste ano, durante a Operação Resgate VI, força-tarefa nacional d",
+      "category": "Mundo"
+    },
+    {
+      "title": "Veja todos os 137 pontos de apoio aos romeiros que vão ao Santuário de Aparecida pela Dutra em 2026",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/festa-da-padroeira/noticia/2026/09/10/veja-todos-os-137-pontos-de-apoio-aos-romeiros-que-vao-ao-santuario-de-aparecida-pela-dutra-em-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:00:00+00:00",
+      "summary": "Imagem de arquivo - Romeiros seguem em peregrinação a Aparecida Carlos Santos/g1 O devoto de Nossa Senhora Aparecida que resolver enfrentar quilômetros de peregrinação pela Rodovia Presidente Dutra, rumo ao Santuário Nacional, terá o apoio de diversos pontos de atendimento aos romeiros em várias cidades. Ao todo, neste",
+      "category": "Política"
+    },
+    {
+      "title": "Aluno autista da UFJF transforma brincadeira de infância em livro sobre neurodivergência na Bienal de SP",
+      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/10/aluno-autista-da-ufjf-transforma-brincadeira-de-infancia-em-livro-sobre-neurodivergencia-na-bienal-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:00:00+00:00",
+      "summary": "Romance 'Hegemonia — Vellanda' de Clinton Davisson Fialho acompanha jovem que ganha inteligência extraordinária e passa a ser perseguida por ser diferente Arquivo Pessoal Quando criou Jun Vellanda nas brincadeiras de infância com o irmão, Clinton Davisson Fialho ainda não sabia que a personagem teria tantas semelhanças",
       "category": "Economia"
     },
     {
-      "title": "França indignada com vídeo de polícia próximo de Le Pen com comentários racistas",
-      "url": "https://www.rtp.pt/noticias/mundo/franca-indignada-com-video-de-policia-proximo-de-le-pen-com-comentarios-racistas_n1764498",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T00:30:23+00:00",
-      "summary": "Um vídeo gravado acidentalmente no qual se ouve um polícia municipal filiado no partido de Marine Le Pen, a Rassemblement National (RN), e colegas seus a fazer comentários racistas, homofóbicos e sexistas está a causar grande indignação em França.",
-      "category": "Política"
+      "title": "Jorge Vercillo, A Última Sessão de Freud e mais: veja agenda cultural do fim de semana em Natal",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/o-que-fazer-em-natal-e-regiao/noticia/2026/09/10/jorge-vercillo-a-ultima-sessao-de-freud-e-mais-veja-agenda-cultural-do-fim-de-semana-em-natal.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:00:00+00:00",
+      "summary": "Jorge Vercillo se apresenta em Natal Divulgação A programação cultural de Natal reúne shows, festas, teatro, festivais e opções de lazer entre esta quinta-feira (10) e segunda-feira (14), com atrações para diferentes públicos. Entre os destaques estão o show de Jorge Vercillo, o espetáculo “A Última Sessão de Freud”, c",
+      "category": "Cultura"
     },
     {
-      "title": "Rubio garante que EUA não têm intenção de matar pescadores após ataques no Pacífico",
-      "url": "https://www.rtp.pt/noticias/mundo/rubio-garante-que-eua-nao-tem-intencao-de-matar-pescadores-apos-ataques-no-pacifico_n1764514",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T00:28:44+00:00",
-      "summary": "O secretário de Estado norte-americano, Marco Rubio, garantiu hoje no Equador que a administração liderada por Donald Trump não tem \"intenção de matar pescadores\", após os ataques a embarcações de pesca equatorianas em águas do Pacífico nas últimas semanas.",
+      "title": "Quem eram Ágata Silva e Gabriel Souza, jovens mortos após grave acidente no interior de SP",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/10/quem-eram-agata-silva-e-gabriel-souza-jovens-mortos-apos-grave-acidente-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:00:00+00:00",
+      "summary": "Quem eram Ágata Silva e Gabriel Souza, jovens mortos após grave acidente no interior de SP As mortes dos jovens Ágata Priscila da Silva, de 19 anos, e de Gabriel Souza Santos, de 17, em um grave acidente na na Rodovia Comandante João Ribeiro de Barros (SP-255), em Bocaina (SP), geraram comoção em Boa Esperança do Sul, ",
       "category": "Mundo"
     },
     {
-      "title": "Moreirense x Benfica. \"Sem penalty sobre Pavlidis\"",
-      "url": "https://observador.pt/programas/sem-falta/moreirense-x-benfica-sem-penalty-sobre-pavlidis/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T00:23:24+00:00",
-      "summary": "Nota 6 para Fábio Veríssimo no triunfo do Benfica frente ao Moreirense. Pedro Henriques fala de uma arbitragem globalmente positiva onde a nota só não é mais alta por ter sido o VAR a ver um penalty.",
+      "title": "Operação resgata seis trabalhadores em condições análogas à escravidão em Boa Vista",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/10/operacao-resgata-seis-trabalhadores-em-condicoes-analogas-a-escravidao-em-boa-vista.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T09:00:00+00:00",
+      "summary": "Seis pessoas foram resgatadas de condições análogas à escravidão em Boa Vista (RR). MTE/Divulgação Seis pessoas foram resgatadas de condições análogas à escravidão durante uma fiscalização em dois locais de trabalho em Boa Vista. Eles trabalhavam na construção de cercas, na criação de aves e porcos e na produção de car",
       "category": "Mundo"
     },
     {
-      "title": "1h. Ministro da Economia admite novos apoios ao combustível",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2379/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T00:14:52+00:00",
-      "summary": "Manuel Castro Almeida admite alargar os apoios ao combustível a novos setores, após prolongar a ajuda ao gasóleo agrícola. A promessa foi feita no Coliseu do Porto pelo ministro da Economia.",
-      "category": "Política"
-    },
-    {
-      "title": "Sporting x Galatasaray. \"Penalty bem assinalado.\"",
-      "url": "https://observador.pt/programas/sem-falta/sporting-x-galatasaray-penalty-bem-assinalado/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T00:11:17+00:00",
-      "summary": "Nota 5 para Espen Eskås no triunfo do Sporting na Champions. Pedro Henriques diz que os golos foram bem decididos, ainda assim, a arbitragem fica marcada por \"imensos equívocos na parte disciplinar.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Rita Blanco e Ruben Alves na Grande Entrevista. Perda da identidade de Lisboa \"já é uma realidade\" mas \"não é inevitabilidade\"",
-      "url": "https://www.rtp.pt/noticias/cultura/rita-blanco-e-ruben-alves-na-grande-entrevista-perda-da-identidade-de-lisboa-ja-e-uma-realidade-mas-nao-e-inevitabilidade_n1764506",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-09T23:44:42+00:00",
-      "summary": "É um dos traços da identidade de Lisboa: os casamentos de Santo António mobilizam por alturas de junho casais que escolhem dar o nó com a bênção do Santo padroeiro de Lisboa. Foi a partir desta tradição que o realizador Rúben Alves decidiu criar o seu novo filme, \"Santo António, o Casamenteiro de Lisboa\", que estreia p",
+      "title": "Rubio diz que Equador é principal aliado dos EUA contra o crime",
+      "url": "https://www.cnnbrasil.com.br/internacional/rubio-diz-que-equador-e-principal-aliado-dos-eua-contra-o-crime/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T08:47:13+00:00",
+      "summary": "Em viagem à Quito, o secretário de Estado americano prometeu enviar equipamentos para fortalecer operações; gangue Los Tiguerones foi classificada como organização terrorista",
       "category": "Mundo"
+    },
+    {
+      "title": "Festival Cidnay Vale do Ave começa esta quinta-feira",
+      "url": "https://observador.pt/2026/09/10/festival-cidnay-vale-do-ave-inicia-se-esta-quinta-feira-com-dezenas-de-iniciativas-e-artistas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T08:46:31+00:00",
+      "summary": "A 6.ª edição do Festival tem como tema \"Futuro: Tempo Presente\" e irá contar com 55 artistas de 17 nacionalidades. Este ano haverá a estreia da Orquestra Festival do Vale do Ave.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Manchester United x Sabah: horário e onde assistir à Champions League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/manchester-united-x-sabah-horario-e-onde-assistir-a-champions-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T08:45:03+00:00",
+      "summary": "Equipes se enfrentam nesta quinta-feira (10), às 16h (de Brasília)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Baixos rendimentos são principal causa da precariedade",
+      "url": "https://observador.pt/2026/09/10/baixos-rendimentos-sao-principal-causa-da-precariedade-para-75-dos-portugueses/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T08:41:40+00:00",
+      "summary": "O estudo foi realizado pela Ipsos BVA para o Secours Populaire Français, com entrevistas online a 10.000 pessoas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Parlamento ou estúdio? O \"primetime\" é o novo plenário",
+      "url": "https://observador.pt/programas/e-o-vencedor-e/parlamento-ou-estudio-o-primetime-e-o-novo-plenario/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T08:36:06+00:00",
+      "summary": "Para quê votar moções no Parlamento quando se pode dar um show na televisão? Rui Rocha trocou o plenário pelos estúdios porque afinal em Portugal o debate político sério agora é feito no \"primetime\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasil x Colômbia: onde assistir ao Sul-Americano feminino de vôlei",
+      "url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-x-colombia-onde-assistir-ao-sul-americano-feminino-de-volei/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T08:30:44+00:00",
+      "summary": "Seleções se enfrentam nesta quinta-feira (10), às 20h (de Brasília), pela terceira rodada da competição que vale vaga na Olimpíada de Los Angeles 2028",
+      "category": "Mundo"
+    },
+    {
+      "title": "CML condenada a pagar 464 mil euros no caso \"Russiagate\"",
+      "url": "https://observador.pt/2026/09/10/camara-municipal-de-lisboa-condenada-a-pagar-4637-mil-euros-na-sequencia-do-caso-russiagate/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T08:28:22+00:00",
+      "summary": "Em 2021, o executivo liderado pelo socialista Fernando Medina partilhou os dados pessoais de três cidadãos, que se manifestavam contra o regime de Vladimir Putin, às autoridades russas.",
+      "category": "Economia"
+    },
+    {
+      "title": "9h. Operação Marquês. Sócrates volta esta manhã ao tribunal",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2466/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T08:17:29+00:00",
+      "summary": "O antigo PM volta um ano depois de ter pedido uma pausa de dez dias. Ainda, a CML foi condenada a pagar mais de 460 mil euros pelo caso Russiagate.",
+      "category": "Economia"
+    },
+    {
+      "title": "Prémio Casino da Póvoa de 25 mil euros regressa ao Correntes",
+      "url": "https://observador.pt/2026/09/10/premio-casino-da-povoa-de-25-mil-euros-regressa-ao-correntes-descritas-em-2027/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-10T08:13:32+00:00",
+      "summary": "O Prémio Literário Casino da Póvoa foi instituído no festival Correntes d'Escritas da Póvoa de Varzim, em 2004, para distinguir autores de expressão ibérica",
+      "category": "Economia"
+    },
+    {
+      "title": "“Plante Ar Puro”: floricultura brasileira explora novo argumento de venda",
+      "url": "https://www.cnnbrasil.com.br/agro/plante-ar-puro-floricultura-brasileira-explora-novo-argumento-de-venda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T08:08:31+00:00",
+      "summary": "Nova tendência em plantas ornamentais destaca benefícios para a qualidade do ar e bem-estar em ambientes internos",
+      "category": "Saúde"
+    },
+    {
+      "title": "Mega-Sena: quanto rendem R$ 76 milhões na poupança, Tesouro Direto ou CDB",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-76-milhoes-na-poupanca-tesouro-direto-ou-cdb-4/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T08:05:09+00:00",
+      "summary": "Sorteio desta quinta-feira (10) será realizado às 21h; apostas podem ser feitas até 20h",
+      "category": "Mundo"
+    },
+    {
+      "title": "G63 Brabus a Range Rover Sport: conheça garagem milionária de Ludmilla",
+      "url": "https://www.cnnbrasil.com.br/auto/g63-brabus-a-range-rover-sport-conheca-garagem-milionaria-de-ludmilla/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T08:00:26+00:00",
+      "summary": "Brunna Gonçalves, esposa da cantora, exibiu coleção de veículos que impressiona qualquer fã de carros exclusivos",
+      "category": "Cultura"
+    },
+    {
+      "title": "Estreia da Fórmula 1 em Madri coloca pilotos diante de desafio inédito",
+      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/estreia-da-formula-1-em-madri-coloca-pilotos-diante-de-desafio-inedito/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-10T08:00:13+00:00",
+      "summary": "Novo circuito na Espanha recebe seu primeiro Grande Prêmio, introduzindo a desafiadora curva “La Monumental”; circuito de Madring marca o fim da temporada europeia",
+      "category": "Economia"
     },
     {
       "title": "Rádio Nacional lança clipe para celebrar seus 90 anos",
@@ -378,51 +450,6 @@
       "publishedAt": "2026-09-09T23:32:00+00:00",
       "summary": "A agenda dos presidenciáveis nesta quarta-feira (9) incluiu atos e comícios, panfletagem, encontros com representantes dos setores produtivo e imobiliário, visitas a instituições e participação em ato contra a violência de gênero. >> Veja como foi o dia dos candidatos a presidente: Flávio Bolsonaro (PL) O candidato Flá",
       "category": "Política"
-    },
-    {
-      "title": "Relatório põe cidades europeias no centro da crise climática",
-      "url": "https://observador.pt/2026/09/10/cidades-europeias-no-centro-dos-perigos-das-alteracoes-climaticas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-09T23:30:22+00:00",
-      "summary": "Nas cidades do sul da Europa a mortalidade relacionada com o calor aumentou 160% entre 1991-2000 e 2015-2024",
-      "category": "Economia"
-    },
-    {
-      "title": "Teerão, Pequim e Moscovo criticam envio nuclear à ONU",
-      "url": "https://observador.pt/2026/09/10/teerao-pequim-e-moscovo-criticam-envio-de-programa-nuclear-ao-conselho-de-seguranca/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-09T23:27:27+00:00",
-      "summary": "A decisão aprovada em Viena agrava as tensões em torno do programa nuclear iraniano e pode levar o Conselho de Segurança da ONU a analisar novas medidas contra Teerão.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mensagens imorais e outras encrencas menores",
-      "url": "https://observador.pt/opiniao/mensagens-imorais-e-outras-encrencas-menores/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-09T23:25:52+00:00",
-      "summary": "De como, do Brasil a Espanha, parece persistir a esperança de que o mundo, ao olhar os que seguram a tocha da Democracia contra “a ameaça da extrema-direita”, não veja para além da cortina de fumo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Obituário do Brasil",
-      "url": "https://observador.pt/opiniao/obituario-do-brasil/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-09T23:24:07+00:00",
-      "summary": "Aqui jaz um país e uma gente. Qualquer semelhança com uma nação é fake news.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vila do Conde investe 4,9 milhões em novo centro escolar",
-      "url": "https://observador.pt/2026/09/10/vila-do-conde-investe-49-milhoes-de-euros-em-novo-centro-escolar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-09T23:23:39+00:00",
-      "summary": "Construção do novo Centro Escolar de Guilhabreu vai concentrar num único espaço a comunidade escolar da freguesia",
-      "category": "Ciência & Tech"
     },
     {
       "title": "Mendonça homologa delação sobre financiamento do filme sobre Bolsonaro",
@@ -452,24 +479,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Trump prevê que guerra no Irão acabe \"imediatamente após as eleições\" intercalares nos EUA",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-preve-que-guerra-no-irao-acabe-imediatamente-apos-as-eleicoes-intercalares-nos-eua_n1764477",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-09T22:07:50+00:00",
-      "summary": "O Presidente norte-americano, Donald Trump, previu hoje que a guerra com o Irão \"terminará imediatamente após as eleições\" intercalares para o Congresso dos Estados Unidos, marcadas para 03 de novembro.",
-      "category": "Política"
-    },
-    {
-      "title": "Coco Gauff regressa às meias-finais em Nova Iorque",
-      "url": "https://www.rtp.pt/noticias/tenis/coco-gauff-regressa-as-meias-finais-em-nova-iorque_d1764495",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-09T22:02:08+00:00",
-      "summary": "A tenista norte-americana Coco Gauff garantiu hoje o regresso, três anos depois, às meias-finais do Open dos Estados Unidos, ao vencer a russa Mirra Andreeva em três sets.",
-      "category": "Mundo"
-    },
-    {
       "title": "Fachin decide tirar Moraes da relatoria do inquérito das fake news",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-decide-tirar-moraes-da-relatoria-do-inquerito-das-fake-news",
       "source": "Agência Brasil",
@@ -477,15 +486,6 @@
       "publishedAt": "2026-09-09T21:54:00+00:00",
       "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, retirou o ministro Alexandre de Moraes da relatoria do inquérito das fake news . A decisão foi publicada nesta quarta-feira (9) e ficam preservadas todas as decisões tomadas por Moraes no processo até a data de hoje. O inquérito foi aberto pela Corte em març",
       "category": "Política"
-    },
-    {
-      "title": "Cristiano Ronaldo marca no regresso aos triunfos do Al Nassr",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/cristiano-ronaldo-marca-no-regresso-aos-triunfos-do-al-nassr_d1764494",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-09T21:39:56+00:00",
-      "summary": "O avançado português Cristiano Ronaldo marcou no regresso aos triunfos do Al Nassr na Liga saudita de futebol, na receção ao Abha (2-1), último classificado, na sexta jornada da competição.",
-      "category": "Esportes"
     },
     {
       "title": "André Mendonça manda soltar filho do \"Careca do INSS\"",
