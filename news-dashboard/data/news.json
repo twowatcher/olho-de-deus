@@ -1,275 +1,437 @@
 {
-  "updatedAt": "2026-09-11T04:35:19.621326+00:00",
+  "updatedAt": "2026-09-11T09:37:57.374191+00:00",
   "items": [
     {
-      "title": "Relembre os ataques de 11 de setembro de 2001 nos EUA",
-      "url": "https://www.cnnbrasil.com.br/internacional/relembre-os-ataques-de-11-de-setembro-de-2001-nos-eua/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:30:48+00:00",
-      "summary": "Atentados terroristas contra Nova York, em Washington, D.C. e Pensilvânia completam 25 anos nesta sexta-feira (11)",
-      "category": "Mundo"
-    },
-    {
-      "title": "4h EUA. Várias homenagens nos 25 anos dos ataques do 11 de setembro",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-eua-varias-homenagens-nos-25-anos-dos-ataques-do-11-de-setembro_a1_1764748",
+      "title": "FC Porto e Benfica jogam em casa, Sporting em Famalicão",
+      "url": "https://www.rtp.pt/noticias/sporting/fc-porto-e-benfica-jogam-em-casa-sporting-em-famalicao_d1764802",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-11T04:18:02+00:00",
+      "publishedAt": "2026-09-11T10:37:32+00:00",
+      "summary": "O FC Porto visita o Casa Pia, último classificado, na sexta jornada da I Liga, e procura manter a liderança isolada, perante a ameaça de Benfica, que recebe o Gil Vicente, e Sporting, que joga em Famalicão.",
+      "category": "Esportes"
+    },
+    {
+      "title": "11 de setembro: Montenegro sublinha valor da democracia e recorda vítimas portuguesas",
+      "url": "https://www.rtp.pt/noticias/pais/11-de-setembro-montenegro-sublinha-valor-da-democracia-e-recorda-vitimas-portuguesas_n1764800",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T10:32:21+00:00",
+      "summary": "Primeiro-ministro afirma que “o mundo mudou há 25 anos” para todos os países “que prezam e defendem a liberdade”.",
+      "category": "Política"
+    },
+    {
+      "title": "10h Julgamento dos dois polícias no caso do Rato é à porta fechada",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-julgamento-dos-dois-policias-no-caso-do-rato-e-a-porta-fechada_a1_1764797",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T10:26:03+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:07:18+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta sexta-feira (11) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 30ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuv",
+      "title": "Vários incêndios destruíram 42 tendas de migrantes e oito viaturas",
+      "url": "https://www.rtp.pt/noticias/mundo/varios-incendios-destruiram-42-tendas-de-migrantes-e-oito-viaturas_n1764785",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T10:04:16+00:00",
+      "summary": "Mais de 40 tendas que albergavam migrantes na região autónoma espanhola de Ceuta foram incendiadas durante a última noite, tendo-se registado fogos em outros pontos do território destruindo oito automóveis e contentores de lixo.",
       "category": "Clima"
     },
     {
-      "title": "Previsão do tempo hoje para São Paulo (SP): chuva forte de manhã; aberturas de sol à tarde e pancadas de chuva que vão até a noite",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-sao-paulo-sp-chuva-forte-de-manha-aberturas-de-sol-a-tarde-e-pancadas-de-chuva-que-vao-ate-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:07:02+00:00",
-      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta sexta-feira (11) para São Paulo (SP) é de chuva forte de manhã. Aberturas de sol à tarde e pancadas de chuva que vão até a noite. As máximas são de 28ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, chuva e t",
-      "category": "Clima"
+      "title": "Rybakina no jogo do título do US Open",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/rybakina-no-jogo-do-titulo-do-us-open_d1764792",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T10:00:49+00:00",
+      "summary": "A tenista cazaque Elena Rybakina, atual número dois mundial, mas virtual líder do ranking, que será atualizado na próxima semana, chegou pela primeira vez à final do Open dos Estados Unidos, o último 'major' da temporada, ao vencer a norte-americana Coco Gauff em três sets.",
+      "category": "Esportes"
     },
     {
-      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): chuva forte de manhã; ainda chove no começo da tarde, as nuvens diminuem e o sol aparece",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-chuva-forte-de-manha-ainda-chove-no-comeco-da-tarde-as-nuvens-diminuem-e-o-sol-aparece.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:06:44+00:00",
-      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para esta sexta-feira (11) para São Bernardo do Campo (SP) é de chuva forte de manhã. Ainda chove no começo da tarde. As nuvens diminuem e o sol aparece. As máximas são de 28ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. ",
-      "category": "Clima"
+      "title": "Investigador português admite riscos conceptuais da IA e apela à regulamentação",
+      "url": "https://www.rtp.pt/noticias/pais/investigador-portugues-admite-riscos-conceptuais-da-ia-e-apela-a-regulamentacao_n1764789",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:57:34+00:00",
+      "summary": "O antigo presidente do Instituto Superior Técnico admite que não há \"risco zero\" em questões de segurança e de controlo da Inteligência Artificial, mas que estarão protegidos. Arlindo Oliveira destaca, numa entrevista à RTP, que é necessário apostar na regulamentação para uso destes sistemas.",
+      "category": "Política"
     },
     {
-      "title": "“Estrelas da Casa”: veja quem continua e quem foi eliminado do reality",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/estrelas-da-casa-veja-quem-continua-e-quem-foi-eliminado-do-reality/",
-      "source": "CNN Brasil",
+      "title": "Sabalenka na final do US Open",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/sabalenka-na-final-do-us-open_d1764791",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:51:22+00:00",
+      "summary": "A bielorrussa Aryna Sabalenka, vencedora das duas últimas edições do Open dos Estados Unidos, qualificou-se pela quarta vez seguida para a final, ao vencer a tenista da casa, Jessica Pegula.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Julgamento dos dois polícias acusados de tortura vai decorrer à porta fechada",
+      "url": "https://www.rtp.pt/noticias/pais/julgamento-dos-dois-policias-acusados-de-tortura-vai-decorrer-a-porta-fechada_n1764787",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:38:54+00:00",
+      "summary": "O julgamento dos dois polícias da esquadra do Rato, em Lisboa, que estão acusados de crimes de tortura e violação vai decorrer esta sexta-feira à porta fechada, confirmou a advogada de um dos agentes.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pelo menos cinco pessoas morreram em acidente com autocarro holandês na Suíça",
+      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-cinco-pessoas-morreram-em-acidente-com-autocarro-holandes-na-suica_n1764784",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:35:18+00:00",
+      "summary": "Cinco pessoas morreram e dezenas ficaram feridas na sequência de um acidente rodoviário com um autocarro turístico nos Alpes suíços.",
+      "category": "Mundo"
+    },
+    {
+      "title": "09h Início do ano letivo sem professores. Há mais de mil horários por preencher",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-inicio-do-ano-letivo-sem-professores-ha-mais-de-mil-horarios-por-preencher_a1_1764788",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:35:04+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "INEM. Sindicato reunido com Ministério da Saúde para tentar travar greve",
+      "url": "https://www.rtp.pt/noticias/pais/inem-sindicato-reunido-com-ministerio-da-saude-para-tentar-travar-greve_v1764786",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:31:47+00:00",
+      "summary": "O Sindicato dos Técnicos de Emergência Pré-Hospitalar (STEPH) encontra-se reunido com o Ministério da Saúde com o objetivo de negociar e evitar a greve agendada.",
+      "category": "Saúde"
+    },
+    {
+      "title": "PISA. \"Governos de António Costa não fizeram nada de eficaz\"",
+      "url": "https://observador.pt/programas/explicador/pisa-governos-de-antonio-costa-nao-fizeram-nada-de-eficaz/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:23:30+00:00",
+      "summary": "Neste novo ano letivo, o Ministro da Educação sublinha que 50% da falta de professores está concentrada na Grande Lisboa. Fernando Alexandre quer inverter tendendência negativa do PISA e culpa PS.",
+      "category": "Política"
+    },
+    {
+      "title": "Irão e Arábia Saudita discutem o conflito no Iémen",
+      "url": "https://www.rtp.pt/noticias/mundo/irao-e-arabia-saudita-discutem-o-conflito-no-iemen_n1764782",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:23:21+00:00",
+      "summary": "O Irão e a Arábia Saudita, que apoiam lados opostos na guerra do Iémen, conversaram na quinta-feira à noite sobre a \"escalada das tensões\" na região. Pela primeira vez em quatro meses, os preços do petróleo devem terminar a semana acima dos 100 dólares, à medida que os ataques crescentes ao longo de importantes rotas d",
+      "category": "Economia"
+    },
+    {
+      "title": "Adolescente investigado por quatro homicídios é apreendido em Teresina; já foi apreendido 18 vezes",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/11/adolescente-homicidios-apreendido.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T04:06:42+00:00",
-      "summary": "Público salvou quatro participantes, enquanto Junior, Belo e Anitta decidiram as últimas eliminações nesta quinta-feira (10); 16 cantores avançaram à semifinal",
+      "publishedAt": "2026-09-11T09:21:29+00:00",
+      "summary": "Adolescente investigado por quatro homicídios é apreendido em Teresina; já foi apreendido 18 vezes Reprodução/SSP-PI Um adolescente de 17 anos foi apreendido na noite de quinta-feira (10), na Zona Norte de Teresina. Investigado por quatro homicídios, ele foi localizado pelas forças de segurança após um trabalho de inte",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dia do k-pop no Rock in Rio leva fãs a formar filas durante a madrugada na Cidade do Rock",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/11/dia-do-k-pop-no-rock-in-rio-leva-fas-a-formar-filas-durante-a-madrugada-na-cidade-do-rock.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:20:18+00:00",
+      "summary": "Fãs já formam fila antes da abertura dos portões do Rock in Rio Reprodução/ TV Globo A Cidade do Rock já registra filas antes da abertura dos portões para o início da segunda semana do Rock in Rio, nesta sexta-feira (11). Antes das 6h, mais de 200 pessoas aguardavam em uma das entradas do festival. Nem o frio nem a chu",
       "category": "Cultura"
     },
     {
-      "title": "Previsão do tempo hoje para Santo André (SP): chuva forte de manhã; ainda chove no começo da tarde, as nuvens diminuem e o sol aparece",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-santo-andre-sp-chuva-forte-de-manha-ainda-chove-no-comeco-da-tarde-as-nuvens-diminuem-e-o-sol-aparece.ghtml",
+      "title": "Pablo, Whindersson Nunes e Os Fulano: 'Qual a Boa?' do fim de semana, 11, 12 e 13 de setembro, na PB",
+      "url": "https://g1.globo.com/pb/paraiba/musica/noticia/2026/09/11/pablo-whindersson-nunes-e-os-fulano-qual-a-boa-do-fim-de-semana-11-12-e-13-de-setembro-na-pb.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T04:06:26+00:00",
-      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para esta sexta-feira (11) para Santo André (SP) é de chuva forte de manhã. Ainda chove no começo da tarde. As nuvens diminuem e o sol aparece. As máximas são de 28ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, chu",
-      "category": "Clima"
+      "publishedAt": "2026-09-11T09:18:29+00:00",
+      "summary": "Cantor Pablo se apresenta em São Bento, na Paraí Agência Amapá/Divulgação A agenda cultural do \"Qual a Boa?\" traz festas, shows e outros eventos que acontecem na Paraíba neste fim de semana: sexta-feira (11), sábado (12) e domingo (13). Entre os destaques estão um show de stand up do humorista Whindersson Nunes em João",
+      "category": "Cultura"
     },
     {
-      "title": "Previsão do tempo hoje para Osasco (SP): chuva forte de manhã; ainda chove no começo da tarde, as nuvens diminuem e o sol aparece",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-osasco-sp-chuva-forte-de-manha-ainda-chove-no-comeco-da-tarde-as-nuvens-diminuem-e-o-sol-aparece.ghtml",
+      "title": "Lá Vem o Enem: resolva questões de sociologia sobre plataformização do trabalho",
+      "url": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/09/11/la-vem-o-enem-resolva-questoes-de-sociologia-sobre-plataformizacao-do-trabalho.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T04:06:08+00:00",
-      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para esta sexta-feira (11) para Osasco (SP) é de chuva forte de manhã. Ainda chove no começo da tarde. As nuvens diminuem e o sol aparece. As máximas são de 27ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, chuva e trovo",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-muitas-nuvens-mas-com-tempo-firme.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:05:52+00:00",
-      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para esta sexta-feira (11) para Guarulhos (SP) é de sol com algumas nuvens e chuva passageira. À noite, muitas nuvens mas com tempo firme. As máximas são de 28ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuv",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-poucas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:05:34+00:00",
-      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para esta sexta-feira (11) para São Gonçalo (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com poucas nuvens. As máximas são de 29ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol c",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-muitas-nuvens-mas-com-tempo-firme.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:05:17+00:00",
-      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para esta sexta-feira (11) para o Rio de Janeiro (RJ) é de sol com algumas nuvens e chuva passageira. À noite, muitas nuvens mas com tempo firme. As máximas são de 32ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:05:01+00:00",
-      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para esta sexta-feira (11) para Nova Iguaçu (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 30ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol c",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-poucas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:04:38+00:00",
-      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para esta sexta-feira (11) para Niterói (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com poucas nuvens. As máximas são de 28ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muita",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:04:13+00:00",
-      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para esta sexta-feira (11) para Duque de Caxias (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 30ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manh",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Sete Lagoas (MG): muitas nuvens o dia todo, com aberturas de sol",
-      "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-sete-lagoas-mg-muitas-nuvens-o-dia-todo-com-aberturas-de-sol.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T04:03:56+00:00",
-      "summary": "Previsão do tempo hoje em Sete Lagoas g1 A previsão do tempo para esta sexta-feira (11) para Sete Lagoas (MG) é de muitas nuvens o dia todo, com aberturas de sol. As máximas são de 32ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, s",
-      "category": "Clima"
-    },
-    {
-      "title": "Como evitar que a Inteligência Artificial nos mate a todos?",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/como-evitar-que-a-inteligencia-artificial-nos-mate-a-todos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T04:02:34+00:00",
-      "summary": "Um ex-investigador da Anthropic alerta para riscos extremos da IA. Adolfo Mesquita Nunes explica até onde pode ir a ameaça e o que ainda podemos fazer para a controlar.",
+      "publishedAt": "2026-09-11T09:16:27+00:00",
+      "summary": "Motorista de aplicativo Freepik O mundo do trabalho passou por diversas transformações ao longo da história e ganhou novas características com o avanço das tecnologias e das plataformas digitais. Aplicativos como Uber e iFood são exemplos dessa mudança. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp Na videoaul",
       "category": "Ciência & Tech"
     },
     {
-      "title": "“Tirar sigilo do Master não contribui com imagem do STF”, diz especialista",
-      "url": "https://www.cnnbrasil.com.br/politica/tirar-sigilo-do-master-nao-contribui-com-imagem-do-stf-diz-especialista/",
-      "source": "CNN Brasil",
+      "title": "Emma Bonino, ícone do feminismo italiano, morre aos 78 anos",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/11/emma-bonino-icone-do-feminismo-italiano-morre-aos-78-anos.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T03:45:39+00:00",
-      "summary": "Ao WW, diretor de análise política da Prospectiva Thiago Vidal avalia que decisão de Fachin é sintoma da crise institucional do Supremo e não resolve os problemas da corte",
+      "publishedAt": "2026-09-11T09:15:16+00:00",
+      "summary": "Emma Bonino, política e ícone do feminismo italiano AP Photo/Luca Bruno A histórica ativista italiana Emma Bonino, uma das figuras políticas mais populares e respeitadas do país, morreu aos 78 anos de idade, anunciou seu partido nesta sexta-feira (11). ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Veteran",
       "category": "Política"
     },
     {
-      "title": "Léo Pereira critica partida da Libertadores na altitude: “Horrível jogar”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/leo-pereira-critica-partida-da-libertadores-na-altitude-horrivel-jogar/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T03:44:56+00:00",
-      "summary": "Autor de gol decisivo, zagueiro do Flamengo ressalta superação do time após dificuldades no Equador",
-      "category": "Esportes"
+      "title": "10h. Esquadra do Rato. Julgamento decorre à porta fechada",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2463/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:14:55+00:00",
+      "summary": "Os dois agentes estão acusados de crimes de tortura e violação. Os trabalhos começaram hoje no Campus de Justiça. Ainda as propostas da Ordem dos Médicos para fixar médicos no interior.",
+      "category": "Saúde"
     },
     {
-      "title": "Anitta muda o tom, evita críticas e decide “amar tudo” no Estrelas da Casa",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/anitta-muda-o-tom-evita-criticas-e-decide-amar-tudo-no-estrelas-da-casa/",
+      "title": "Vôlei: com Osasco e Sesi, FIVB define participantes do Mundial em São Paulo",
+      "url": "https://www.cnnbrasil.com.br/esportes/volei/volei-com-osasco-e-sesi-fivb-define-participantes-do-mundial-em-sao-paulo/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T03:42:01+00:00",
-      "summary": "Após a repercussão de suas avaliações, cantora distribuiu elogios irônicos, recebeu pedidos da plateia para voltar a falar e deu recado aos participantes; confira",
+      "publishedAt": "2026-09-11T09:14:00+00:00",
+      "summary": "Competição feminina de clubes acontece de 8 a 13 de dezembro no Ginásio Wlamir Marques",
+      "category": "Mundo"
+    },
+    {
+      "title": "A história de quem fotografou o 11 de setembro por acaso",
+      "url": "https://observador.pt/2026/09/11/fotogaleria-a-historia-de-quem-fotografou-o-11-de-setembro-por-acaso/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:11:40+00:00",
+      "summary": "Richard Drew preparava-se para fotografar um desfile de moda e Amy Sancetta estava de folga depois de um torneio de ténis. 25 anos depois, recordamos o que está para lá das imagens",
       "category": "Cultura"
     },
     {
-      "title": "O que documentos recém divulgados revelam sobre qualidade do ar após 11/9",
-      "url": "https://www.cnnbrasil.com.br/internacional/o-que-documentos-recem-divulgados-revelam-sobre-qualidade-do-ar-apos-11-9/",
+      "title": "PF: Vorcaro viabilizou viagem de diretor do BC à Disney",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-viabilizou-viagem-de-diretor-do-bc-a-disney/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T03:30:24+00:00",
-      "summary": "Mais de 170 mil páginas reveladas nesta semana indicam que autoridades ocultaram informações sobre níveis de poluição do ar após o ataque ao World Trade Center",
+      "publishedAt": "2026-09-11T09:08:53+00:00",
+      "summary": "Informações constam dos documentos divulgados na noite desta quinta-feira (10)",
       "category": "Mundo"
     },
     {
-      "title": "US Open: nova número 1, Rybakina bate Gauff e fará tira-teima com Sabalenka",
-      "url": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-nova-numero-1-rybakina-bate-gauff-e-fara-tira-teima-com-sabalenka/",
+      "title": "Conheça as 5 expressões que pessoas gentis mais repetem, segundo a psicologia",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/quer-melhorar-suas-relacoes-conheca-as-5-expressoes-que-pessoas-gentis-mai/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T03:17:32+00:00",
-      "summary": "Cazaque e bielorrussa vão se enfrentar em uma final de Grand Slam pela terceira vez, com uma vitória para cada",
-      "category": "Mundo"
+      "publishedAt": "2026-09-11T09:06:25+00:00",
+      "summary": "Expressões simples no dia a dia fortalecem vínculos interpessoais, melhoram o humor e aumentam a sensação de bem-estar",
+      "category": "Saúde"
     },
     {
-      "title": "3h Agentes da PSP vão estar em protesto em outubro",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-agentes-da-psp-vao-estar-em-protesto-em-outubro_a1_1764746",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T03:17:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "2h Passos avisa Montenegro que tempo para reformas está a acabar",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-passos-avisa-montenegro-que-tempo-para-reformas-esta-a-acabar_a1_1764745",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T03:17:02+00:00",
-      "summary": "",
-      "category": "Clima"
-    },
-    {
-      "title": "Trump pede que apoiadores votem e “trapaceiem pra valer” nas eleições",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-pede-que-apoiadores-votem-e-trapaceiem-pra-valer-nas-eleicoes/",
+      "title": "Fórmula 1: horário e onde assistir ao Grande Prêmio da Espanha 2026",
+      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/formula-1-horario-e-onde-assistir-ao-grande-premio-da-espanha-2026/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T03:15:25+00:00",
-      "summary": "Presidente americano não especificou, durante o discurso de encerramento da convenção do Partido Republicano, o que seria trapacear nas votações de Meio de Mandato",
-      "category": "Política"
-    },
-    {
-      "title": "As notícias das 4h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2398/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T03:14:10+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Rajada de vento ‘tomba’ teto de posto de gasolina no MS e assusta moradores",
-      "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/ms/rajada-de-vento-tomba-teto-de-posto-de-gasolina-no-ms-e-assusta-moradores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T03:11:49+00:00",
-      "summary": "Chuvas intensas são esperados a partir desta sexta-feira em diversas regiões do estado",
-      "category": "Clima"
-    },
-    {
-      "title": "Trump pede para apoiadores fingirem que ele “está na chapa” nas eleições",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-pede-para-apoiadores-fingirem-que-ele-esta-na-chapa-nas-eleicoes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T03:03:51+00:00",
-      "summary": "Presidente americano fez o discurso de encerramento da convenção republicana para as eleições de Meio de Mandato na noite desta quinta-feira (10)",
-      "category": "Política"
-    },
-    {
-      "title": "Del Valle 0 x 2 Flamengo: veja os melhores momentos da Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/del-valle-0-x-2-flamengo-veja-os-melhores-momentos-da-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T02:46:23+00:00",
-      "summary": "Rubro-Negro leva boa vantagem para o jogo decisivo no Maracanã, na próxima quinta (17)",
+      "publishedAt": "2026-09-11T09:06:15+00:00",
+      "summary": "Corrida inédita no circuito de Madring marca a primeira pista nova no calendário desde Las Vegas e o retorno do esporte à capital espanhola pela primeira vez em 45 anos",
       "category": "Esportes"
     },
     {
-      "title": "Tempestade de granizo atinge interior de SP e causa danos em carros",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tempestade-de-granizo-atinge-interior-de-sp-e-causa-danos-em-carros/",
+      "title": "Ao atender pedido de Fachin, Mendonça retira sigilo apenas de parte das investigações sobre Master no STF",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/11/ao-atender-pedido-de-fachin-mendonca-retira-sigilo-apenas-de-parte-das-investigacoes-sobre-master-no-stf.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:05:45+00:00",
+      "summary": "Após pedido de Fachin, Mendonça levanta sigilo dos inquéritos do caso Master Ao retirar o sigilo das investigações sobre o Banco Master que tramitam no Supremo Tribunal Federal (STF), o ministro André Mendonça tornou públicos parte dos documentos do caso. Entre os materiais liberados estão apurações que envolvem o banq",
+      "category": "Política"
+    },
+    {
+      "title": "Rato. Polícias acusados de tortura julgados à porta fechada",
+      "url": "https://observador.pt/2026/09/11/esquadra-do-rato-julgamento-dos-dois-policias-acusados-de-tortura-vai-decorrer-a-porta-fechada/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:03:54+00:00",
+      "summary": "Em alguns casos, os arguidos terão sodomizado ou tentado sodomizar com um objeto alguns dos homens detidos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Rock in Rio: dermatologista dá 10 dicas para evitar perrengues no festival",
+      "url": "https://www.cnnbrasil.com.br/style/beleza/rock-in-rio-dermatologista-da-10-dicas-para-evitar-perrengues-no-festival/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T02:38:34+00:00",
-      "summary": "Vídeos mostram grandes pedras de gelo caindo e causando danos a veículos na cidade nesta quinta-feira (10)",
+      "publishedAt": "2026-09-11T09:00:50+00:00",
+      "summary": "Após soluções improvisadas que circularam no primeiro fim de semana, especialista explica o que vale levar na nécessaire para os próximos dias de festival",
+      "category": "Cultura"
+    },
+    {
+      "title": "Assista ao Jornal da Manhã",
+      "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:00:31+00:00",
+      "summary": "Assista ao Jornal da Manhã",
+      "category": "Mundo"
+    },
+    {
+      "title": "ESG como alavanca para a criação de valor nas empresas",
+      "url": "https://observador.pt/programas/empresas-em-transformacao/esg-como-alavanca-para-a-criacao-de-valor-nas-empresas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T09:00:29+00:00",
+      "summary": "Inês Soares e Francisco Neves explicam como o ESG passou de custo a investimento estratégico, sendo hoje essencial para a resiliência financeira e para o acesso ao financiamento das empresas.",
+      "category": "Economia"
+    },
+    {
+      "title": "K-pop estreia no Rock in Rio: conheça atrações que se apresentam no evento",
+      "url": "https://www.cnnbrasil.com.br/pop/musica/k-pop-estreia-no-rock-in-rio-conheca-atracoes-que-se-apresentam-no-evento/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:00:24+00:00",
+      "summary": "Palco Mundo tem seu primeiro dia de k-pop nesta sexta (11), com as atrações: Stray Kids, Nexz e Hwasa",
+      "category": "Mundo"
+    },
+    {
+      "title": "Zverev x Khachanov e Shelton x Tiafoe: o que esperar das semis do US Open",
+      "url": "https://www.cnnbrasil.com.br/esportes/tenis/zverev-x-khachanov-e-shelton-x-tiafoe-o-que-esperar-das-semis-do-us-open/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:00:24+00:00",
+      "summary": "Partidas serão nesta sexta-feira (11), a partir das 16h (de Brasília), em Nova York",
+      "category": "Mundo"
+    },
+    {
+      "title": "TCE suspende licitação de R$ 67 milhões para iluminação pública na prefeitura de Boa Vista",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/11/tce-suspende-licitacao-de-r-67-milhoes-para-iluminacao-publica-na-prefeitura-de-boa-vista.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:00:01+00:00",
+      "summary": "Edital de contratação é para obras de iluminação pública Reprodução/ Prefeitura de Boa Vista O Tribunal de Contas de Roraima (TCE-RR) suspendeu uma licitação de R$ 67.175.298,18 da Prefeitura de Boa Vista para obras de iluminação pública da capital por suspeita de irregularidades no edital. A decisão é desta terça-feir",
+      "category": "Mundo"
+    },
+    {
+      "title": "Guilherme Arantes, Rodrigo Teaser e Afonso Padilha são atrações do fim de semana no Vale; veja agenda cultural",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/agenda-cultural/noticia/2026/09/11/guilherme-arantes-rodrigo-teaser-e-afonso-padilha-sao-atracoes-do-fim-de-semana-no-vale-veja-agenda-cultural.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:00:00+00:00",
+      "summary": "As cidades do Vale do Paraíba e região recebem diversos eventos entre sexta-feira (11) e domingo (13). Entre os destaques estão os shows de Guilherme Arantes, Rodrigo Teaser, em tributo a Michael Jackson, e Bruninho e Davi, além dos stand-ups de Afonso Padilha e Marco Luque. A programação também reúne peças de teatro, ",
+      "category": "Cultura"
+    },
+    {
+      "title": "Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:00:00+00:00",
+      "summary": "Avós tentaram criar menino de 3 anos que morreu com sinais de maus-tratos no Acre O menino Davi Lucas Santos Maia, de 3 anos, morreu na última terça-feira (8), em Porto Acre, no interior do estado, após suspeita de espancamento. Os principais suspeitos são a mãe e o padrasto: Ana Clara dos Santos, de 18 anos, e Tacio G",
+      "category": "Mundo"
+    },
+    {
+      "title": "Amapá reduz taxa de analfabetismo para 4,5%, aponta Pnad Contínua",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/11/amapa-reduz-taxa-de-analfabetismo-para-45percent-aponta-pnad-continua.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:00:00+00:00",
+      "summary": "Amapá reduz taxa de analfabetismo para 4,5%, aponta Pnad Contínua, Divulgação A taxa de analfabetismo entre pessoas com 15 anos ou mais no Amapá caiu de 5,4% em 2024 para 4,5% em 2025, segundo dados da Pesquisa Nacional por Amostra de Domicílios Contínua (Pnad Contínua) divulgados pelo Instituto Brasileiro de Geografia",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Assista ao Bom Dia ES",
+      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T09:00:00+00:00",
+      "summary": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Rock in Rio 2026: veja o line-up e horários dos shows desta sexta (11)",
+      "url": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-2026-veja-o-line-up-e-horarios-dos-shows-desta-sexta-11/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T08:55:09+00:00",
+      "summary": "Stray Kids lidera as atrações do palco mundo no último final de semana do festival, marcando a estreia do gênero",
+      "category": "Cultura"
+    },
+    {
+      "title": "Ministério defende reforço do Seguro Rural diante de riscos do El Niño",
+      "url": "https://www.cnnbrasil.com.br/agro/ministerio-defende-reforco-do-seguro-rural-diante-de-riscos-do-el-nino/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T08:40:32+00:00",
+      "summary": "Pasta defende ampliação de R$ 1 bilhão no seguro; ministro afirma que o tema está entre as prioridades da pasta para enfrentar adversidades climáticas",
+      "category": "Política"
+    },
+    {
+      "title": "Suécia. Eleição renhida com imigração no centro da campanha",
+      "url": "https://observador.pt/2026/09/11/eleicoes-renhidas-na-suecia-com-imigracao-no-centro-da-campanha/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T08:35:07+00:00",
+      "summary": "A diferença entre os dois blocos, esquerda e direita, é agora de pouco mais de 2 pontos percentuais",
+      "category": "Política"
+    },
+    {
+      "title": "Trump: quem não votar nas intercalares vai \"para o inferno\"",
+      "url": "https://observador.pt/2026/09/11/trump-apela-ao-voto-nas-intercalares-e-brinca-quem-nao-o-fizer-vai-para-o-inferno/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T08:33:47+00:00",
+      "summary": "As eleições intercalares dos EUA, que vão decorrer no dia 3 de novembro, vão renovar a Câmara dos Representantes e um terço do Senado. Donald Trump diz que os que não votarem \"vão parar ao inferno\".",
+      "category": "Política"
+    },
+    {
+      "title": "11 de setembro: Americanos ainda lidam com herança 25 anos após ataques",
+      "url": "https://www.cnnbrasil.com.br/internacional/11-de-setembro-americanos-ainda-lidam-com-heranca-25-anos-apos-ataques/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T08:30:18+00:00",
+      "summary": "Atentados em 2001 mataram cerca de 3.000 pessoas nos Estados Unidos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Contrato entre Master e esposa de Moraes previa pagamento de R$ 131 milhões",
+      "url": "https://www.cnnbrasil.com.br/politica/contrato-entre-master-e-esposa-de-moraes-previa-pagamento-de-r-108-milhoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T08:28:23+00:00",
+      "summary": "Eram previstos pagamento de 36 parcelas mensais e sucessivas no valor de R$ 3 milhões cada",
+      "category": "Mundo"
+    },
+    {
+      "title": "O que avaliar na hora de escolher um creme antissinais? Veja dicas cruciais",
+      "url": "https://www.cnnbrasil.com.br/style/beleza/o-que-avaliar-na-hora-de-escolher-um-creme-antissinais-veja-dicas-cruciais/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-11T08:27:59+00:00",
+      "summary": "Tipo de pele, composição da fórmula e objetivo do tratamento são alguns dos fatores que devem ser analisados antes da compra",
+      "category": "Mundo"
+    },
+    {
+      "title": "Passos avisa Montenegro: o tempo voa e as reformas não andam",
+      "url": "https://observador.pt/programas/e-o-vencedor-e/passos-avisa-montenegro-o-tempo-voa-e-as-reformas-nao-andam/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T08:23:00+00:00",
+      "summary": "Pedro Passos Coelho avisa Montenegro que o tempo se esgota e exige reformas. Enquanto o país acumula estudos sem fim, continuamos todos a ferver na panela à espera que os bloqueios se resolvam de vez.",
       "category": "Clima"
     },
     {
-      "title": "3h. Lisboa aprova novas regras para gestão de resíduos",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2433/",
+      "title": "Castelo de Bode. Abastecimento de Setúbal tem benefícios",
+      "url": "https://observador.pt/2026/09/11/abastecimento-de-agua-em-setubal-a-partir-de-castelo-de-bode-beneficiara-consumidores/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-11T02:13:41+00:00",
-      "summary": "A autarquia quer aproximar Lisboa das metas ambientais assumidas por Portugal e pela União Europeia. Ainda neste jornal, Governo dá ordens à Parpública para comprar até 20% da REN.",
-      "category": "Política"
+      "publishedAt": "2026-09-11T08:19:24+00:00",
+      "summary": "Barragem de Castelo de Bode",
+      "category": "Mundo"
+    },
+    {
+      "title": "9h. INEM. Técnicos acreditam no cancelamento da greve",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2467/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T08:12:24+00:00",
+      "summary": "A reunião foi convocada pela Ministra da Saúde e o objetivo é chegar a um acordo que cancele a greve. Ainda o estudo co-coordenado por Passos Coelho e os 25 anos dos ataques do 11 de Setembro.",
+      "category": "Saúde"
+    },
+    {
+      "title": "A política de frigoríficos de Luís Montenegro vai funcionar?",
+      "url": "https://observador.pt/programas/e-o-vencedor-e/a-politica-de-frigorificos-de-luis-montenegro-vai-funcionar/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T08:10:24+00:00",
+      "summary": "A derrocada no PISA atira o país para 2006, enquanto Montenegro distribui bónus para animar as sondagens. Pelo meio, João Costa culpa os telemóveis e Sócrates jura que não tem casa em Paris.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Matosinhos. GNR deteve quatro homens por caça ilegal",
+      "url": "https://observador.pt/2026/09/11/gnr-deteve-em-matosinhos-quatro-homens-por-caca-ilegal-e-apreendeu-quatro-armas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T07:57:51+00:00",
+      "summary": "Nesta ação foram apreendidas quatro cartas de caçador, quatro livretes de manifesto da arma e diversas munições",
+      "category": "Mundo"
     },
     {
       "title": "Projeto pago com emenda de Mario Frias não teve execução comprovada",
@@ -278,33 +440,6 @@
       "region": "Brasil",
       "publishedAt": "2026-09-11T01:51:00+00:00",
       "summary": "Um projeto de R$ 1 milhão destinado pelo deputado federal Mario Frias (PL-SP) ao Instituto Conhecer Brasil (ICB) não foi executado conforme previsto, segundo informações reunidas pela Polícia Federal (PF) e que fundamentaram a Operação Make Up, deflagrada nesta quinta-feira (10) para investigar suspeitas de desvio de r",
-      "category": "Mundo"
-    },
-    {
-      "title": "01h Anthropic admite perigo de armas biológicas com recurso IA",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-anthropic-admite-perigo-de-armas-biologicas-com-recurso-ia_a1_1764741",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T01:18:02+00:00",
-      "summary": "",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "2h. Ministro da Educação diz que faltam 1% dos professores",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2407/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T01:14:14+00:00",
-      "summary": "Fernando Alexandre diz que falta de docentes não é problema, mas sim a concentração das necessidades em algumas zonas. Ainda neste jornal, Governo dá ordens à Parpública para comprar até 20% da REN.",
-      "category": "Política"
-    },
-    {
-      "title": "00h Começa hoje o julgamento de 2 polícias da Esquadra do Rato",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-comeca-hoje-o-julgamento-de-2-policias-da-esquadra-do-rato_a1_1764739",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T00:38:02+00:00",
-      "summary": "",
       "category": "Mundo"
     },
     {
@@ -326,78 +461,6 @@
       "category": "Ciência & Tech"
     },
     {
-      "title": "1h. Estudo de Passos Coelho vai propor reformas prioritárias",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2380/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T00:14:17+00:00",
-      "summary": "Estudo de Passos Coelho identifica bloqueios ao crescimento em Portugal. A 1.ª fase é apresentada esta 6.ª feira no Porto e as propostas finais vão para o PM e Presidente da República.",
-      "category": "Política"
-    },
-    {
-      "title": "Provedor do Estudante defende maior articulação com Governo",
-      "url": "https://observador.pt/2026/09/11/provedores-do-estudante-defendem-maior-articulacao-com-o-governo-no-apoio-a-alunos-internacionais/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T23:52:58+00:00",
-      "summary": "Presidente da rede sublinha que instituições \"não são barrigas de aluguer\", mas \"tem de haver uma articulação maior para o agendamento das reuniões\". Solução passa por facilitar acesso aos vistos.",
-      "category": "Política"
-    },
-    {
-      "title": "Serralves apresenta histórias de reclusos de Tenerife",
-      "url": "https://observador.pt/2026/09/11/semillas-traz-a-serralves-historias-de-reclusos-de-tenerife-por-estudantes-do-porto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T23:50:12+00:00",
-      "summary": "Performance pode ser vista pelas 20h00 de sábado, no Parque de Serralves, com entrada gratuita",
-      "category": "Mundo"
-    },
-    {
-      "title": "Surto de mpox com dois mortos desde 2024",
-      "url": "https://observador.pt/2026/09/11/angola-governo-regista-surto-de-mpox-com-dois-obitos-em-442-casos-desde-2024/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T23:49:58+00:00",
-      "summary": "Os dados estatísticos apontam que Angola registou cumulativamente até ao dia 5 deste mês (setembro) 442 casos confirmados, quatro dos quais em 2024, seis em 2025 e 432 em 2026",
-      "category": "Esportes"
-    },
-    {
-      "title": "Município da Maia cria novo escalão para apoiar famílias",
-      "url": "https://observador.pt/2026/09/11/municipio-da-maia-cria-novo-escalao-para-apoiar-familias-este-ano-letivo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T23:46:43+00:00",
-      "summary": "O executivo da Câmara da Maia aprovou a \"criação excecional\" de um novo escalão de apoio socioeducativo, apelidado de \"Escalão C\"",
-      "category": "Política"
-    },
-    {
-      "title": "Três detidos por furto em Lagos após perseguição pelo lesado",
-      "url": "https://observador.pt/2026/09/11/tres-detidos-por-furto-no-interior-de-casa-em-lagos-apos-perseguicao-pelo-lesado/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T23:46:41+00:00",
-      "summary": "A intervenção policial, ocorrida na madrugada de quarta-feira, \"teve origem numa comunicação de um cidadão, que surpreendeu um indivíduo no interior da sua habitação\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Instituto Miguel Torga deverá integrar Univ. de Coimbra",
-      "url": "https://observador.pt/2026/09/11/camara-de-coimbra-diz-que-instituto-miguel-torga-vai-provavelmente-integrar-a-universidade/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T23:45:30+00:00",
-      "summary": "\"Este instituto vai passar, provavelmente, com todas as cautelas, para a Universidade [de Coimbra]. E, no fim do dia, vamos ter um polo da Universidade na Baixa e haveremos de ter mais\", disse Ana Abrunhosa",
-      "category": "Mundo"
-    },
-    {
-      "title": "Produção de petróleo dos EUA continua a bater recordes",
-      "url": "https://observador.pt/2026/09/11/producao-de-petroleo-dos-eua-continua-a-bater-recordes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T23:45:23+00:00",
-      "summary": "O conflito entre Washington e Teerão abalou o mercado petrolífero e prejudicou as exportações de hidrocarbonetos do Golfo.",
-      "category": "Economia"
-    },
-    {
       "title": "Confira como foi a quinta-feira (10) dos candidatos a presidente",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-quinta-feira-10-dos-candidatos-presidente",
       "source": "Agência Brasil",
@@ -407,15 +470,6 @@
       "category": "Política"
     },
     {
-      "title": "23h Vários mortos em acidente de autocarro na Suíça",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-varios-mortos-em-acidente-de-autocarro-na-suica_a1_1764730",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T23:24:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
       "title": "Brasil continua sem vitória no mundial de basquete em cadeira de rodas",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-continua-sem-vitoria-no-mundial-de-basquete-em-cadeira-de-rodas",
       "source": "Agência Brasil",
@@ -423,33 +477,6 @@
       "publishedAt": "2026-09-10T22:58:00+00:00",
       "summary": "As seleções brasileiras de basquete em cadeira de rodas continuam sem vencer no Campeonato Mundial da modalidade, que ocorre em Ottawa (Canadá). Nesta quinta-feira (10), o time masculino estreou com derrota por 77 a 32 para a Itália, no ginásio da Carleton University. O feminino, pela segunda rodada, caiu por 70 a 63 p",
       "category": "Esportes"
-    },
-    {
-      "title": "Uber recebe autorização para testes de condução autónoma em Madrid",
-      "url": "https://www.rtp.pt/noticias/mundo/uber-recebe-autorizacao-para-testes-de-conducao-autonoma-em-madrid_n1764729",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T22:42:55+00:00",
-      "summary": "A aliança entre a Uber, a WeRide e a Avomo recebeu as primeiras licenças em Espanha para realizar testes de circulação de carros autónomos de nível 4 nas vias públicas de Madrid, anunciou a Uber Technologies, esta quinta-feira.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Operação no Brasil mira financiamento do filme \"Dark Horse\" e aliado de Flávio Bolsonaro",
-      "url": "https://www.rtp.pt/noticias/mundo/operacao-no-brasil-mira-financiamento-do-filme-dark-horse-e-aliado-de-flavio-bolsonaro_n1764704",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T22:32:41+00:00",
-      "summary": "A Polícia Federal do Brasil realiza hoje uma operação para investigar um suposto financiamento, com recursos públicos, do filme \"Dark Horse\", uma cinebiografia do ex-presidente Jair Bolsonaro.",
-      "category": "Política"
-    },
-    {
-      "title": "22h PCP anuncia protestos contra aumento do custo de vida",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-pcp-anuncia-protestos-contra-aumento-do-custo-de-vida_a1_1764728",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T22:26:02+00:00",
-      "summary": "",
-      "category": "Mundo"
     },
     {
       "title": "Número de lares com idosos em insegurança alimentar cai em dois anos",
@@ -476,33 +503,6 @@
       "region": "Brasil",
       "publishedAt": "2026-09-10T22:18:00+00:00",
       "summary": "Maior vencedor da Copa América de futebol de cegos entre os homens, o Brasil vai em busca do sétimo título. Nesta quinta-feira (10), a seleção verde e amarela derrotou a Costa Rica por 2 a 0 no Centro de Treinamento Paralímpico, em São Paulo, pelas semifinais da competição. Os brasileiros não encontraram dificuldades e",
-      "category": "Esportes"
-    },
-    {
-      "title": "\"Mecanismos de extermínio em Gaza\". Documentário denuncia morte de civis com tecnologia israelita",
-      "url": "https://www.rtp.pt/noticias/cultura/mecanismos-de-exterminio-em-gaza-documentario-denuncia-morte-de-civis-com-tecnologia-israelita_n1764725",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T22:13:03+00:00",
-      "summary": "Filmado durante a noite no topo de edifícios de Telavive, \"Naza\" baseia-se nos testemunhos anonimizados de 24 militares e membros dos serviços secretos israelitas.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "21h Agentes da PSP vão estar em protesto",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-agentes-da-psp-vao-estar-em-protesto_a1_1764724",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T21:38:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Liga Portuguesa contra o Cancro. Paula Rebelo vence segundo prémio de jornalismo",
-      "url": "https://www.rtp.pt/noticias/pais/liga-portuguesa-contra-o-cancro-paula-rebelo-vence-segundo-premio-de-jornalismo_v1764722",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-10T21:26:47+00:00",
-      "summary": "A jornalista da RTP Paula Rebelo foi contemplada com o Segundo Prémio de Jornalismo da Liga Portuguesa Contra o Cancro.",
       "category": "Esportes"
     },
     {
