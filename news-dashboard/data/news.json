@@ -1,6 +1,303 @@
 {
-  "updatedAt": "2026-09-12T00:15:38.068053+00:00",
+  "updatedAt": "2026-09-12T04:35:49.221567+00:00",
   "items": [
+    {
+      "title": "4h Negociações entre Israel e Líbano adiadas para outubro",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-negociacoes-entre-israel-e-libano-adiadas-para-outubro_a1_1764958",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T04:26:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h Houthis assumem controlo do estreito de Bab el-Mandeb",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-houthis-assumem-controlo-do-estreito-de-bab-el-mandeb_a1_1764957",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T04:20:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
+      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:07:39+00:00",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este sábado (12) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 31ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuvens. ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Paulo (SP): tempo chuvoso durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-sao-paulo-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:07:15+00:00",
+      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para este sábado (12) para São Paulo (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 23ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, chuva e trovoadas. No período da tarde, tempo chuvoso. À noite,",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens a nublado com chuva de manhã; tarde e noite com temporal",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-e-noite-com-temporal.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:06:52+00:00",
+      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para este sábado (12) para São Bernardo do Campo (SP) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde e noite com temporal. As máximas são de 25ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens a nublado com chuva de manhã; tarde e noite com temporal",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-e-noite-com-temporal.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:06:26+00:00",
+      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para este sábado (12) para Santo André (SP) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde e noite com temporal. As máximas são de 25ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No pe",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens a nublado com chuva de manhã; tarde e noite com temporal",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-e-noite-com-temporal.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:06:01+00:00",
+      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para este sábado (12) para Osasco (SP) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde e noite com temporal. As máximas são de 24ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da t",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens a nublado com chuva de manhã; tarde e noite com temporal",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-e-noite-com-temporal.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:05:44+00:00",
+      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para este sábado (12) para Guarulhos (SP) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde e noite com temporal. As máximas são de 24ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No períod",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol e muitas nuvens à tarde; à noite ocorrem pancadas de chuva",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-e-muitas-nuvens-a-tarde-a-noite-ocorrem-pancadas-de-chuva.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:05:27+00:00",
+      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para este sábado (12) para São Gonçalo (RJ) é de sol e muitas nuvens à tarde. À noite ocorrem pancadas de chuva. As máximas são de 27ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:05:10+00:00",
+      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para este sábado (12) para o Rio de Janeiro (RJ) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e tro",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol e muitas nuvens à tarde; à noite ocorrem pancadas de chuva",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-e-muitas-nuvens-a-tarde-a-noite-ocorrem-pancadas-de-chuva.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:04:54+00:00",
+      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para este sábado (12) para Nova Iguaçu (RJ) é de sol e muitas nuvens à tarde. À noite ocorrem pancadas de chuva. As máximas são de 28ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período",
+      "category": "Clima"
+    },
+    {
+      "title": "Batalha de ofícios: ministros trocam farpas em comunicações oficiais do STF",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/12/batalha-de-oficios-ministros-trocam-farpas-em-comunicacoes-oficiais-do-stf.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:04:41+00:00",
+      "summary": "Ministros do STF Alexandre de Moraes, André Mendonça, Cristiano Zanin e Edson Fachin Reprodução Em meio a uma crise sem precedentes, o Supremo Tribunal Federal (STF) viveu nesta sexta-feira (11) uma batalha de ofícios entre ministros. Um ofício é um documento formal usado por ministros, gabinetes ou pela presidência da",
+      "category": "Política"
+    },
+    {
+      "title": "Previsão do tempo hoje para Niterói (RJ): sol e muitas nuvens à tarde; à noite ocorrem pancadas de chuva",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-niteroi-rj-sol-e-muitas-nuvens-a-tarde-a-noite-ocorrem-pancadas-de-chuva.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:04:38+00:00",
+      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para este sábado (12) para Niterói (RJ) é de sol e muitas nuvens à tarde. À noite ocorrem pancadas de chuva. As máximas são de 26ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tard",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol e muitas nuvens à tarde; à noite ocorrem pancadas de chuva",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/12/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-e-muitas-nuvens-a-tarde-a-noite-ocorrem-pancadas-de-chuva.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:04:21+00:00",
+      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para este sábado (12) para Duque de Caxias (RJ) é de sol e muitas nuvens à tarde. À noite ocorrem pancadas de chuva. As máximas são de 28ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No",
+      "category": "Clima"
+    },
+    {
+      "title": "As histórias que Nova Iorque ainda conta 25 anos depois",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/as-historias-que-nova-iorque-ainda-conta-25-anos-depois/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T04:04:19+00:00",
+      "summary": "Vinte e cinco anos depois do 11 de Setembro, Nova Iorque voltou a parar. Ricardo Conceição conta o que viu e ouviu numa cidade onde as histórias daquele dia continuam vivas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Crystal Palace x Ipswich Town: horário e onde assistir à Premier League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/crystal-palace-x-ipswich-town-horario-e-onde-assistir-a-premier-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T04:00:16+00:00",
+      "summary": "Equipes se enfrentam neste sábado (12) em partida válida pela 4ª rodada do Campeonato Inglês",
+      "category": "Esportes"
+    },
+    {
+      "title": "Coritiba 3 x 3 Athletico-PR: veja os melhores momentos pelo Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/coritiba-3-x-3-athletico-pr-veja-os-melhores-momentos-pelo-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T03:45:24+00:00",
+      "summary": "Equipes se enfrentaram na noite desta sexta-feira (11)",
+      "category": "Mundo"
+    },
+    {
+      "title": "PF detalha viagens pagas por Vorcaro para Ciro com hospedagem “royal”",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-detalha-viagens-pagas-por-vorcaro-para-ciro-com-hospedagem-royal/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T03:40:19+00:00",
+      "summary": "Ex-banqueiro e senador foram para Nova York e Alpes Franceses",
+      "category": "Política"
+    },
+    {
+      "title": "US Open: Shelton vira sobre Tiafoe e garante vaga na final contra Zverev",
+      "url": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-shelton-vira-sobre-tiafoe-e-garante-vaga-na-final-contra-zverev/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T03:23:03+00:00",
+      "summary": "Decisão do último Grand Slam da temporada acontecerá no domingo (13)",
+      "category": "Clima"
+    },
+    {
+      "title": "PF: “Mineiro” fez estrutura para operar fluxo financeiro ilicito do Master",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-mineiro-fez-estrutura-para-operar-fluxo-financeiro-ilicito-do-master/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T03:16:46+00:00",
+      "summary": "Empresário Antonio Carlos Freixo Junior operou envio de dinheiro de Daniel Vorcaro para fundo nos EUA, descreveu a PF",
+      "category": "Mundo"
+    },
+    {
+      "title": "4h. CGTP vai avançar com \"mês de ação, mobilização e luta\"",
+      "url": "https://observador.pt/programas/noticiario/4h-cgtp-vai-avancar-com-mes-de-acao-mobilizacao-e-luta/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T03:15:58+00:00",
+      "summary": "Secretário-geral da CGTP quer envolver trabalhadores na discussão política e alertá-los para direitos do trabalho. Ainda, Governo vai aumentar desconto no ISP para gasóleo e reduzi-lo para gasolina.",
+      "category": "Política"
+    },
+    {
+      "title": "Defesa Civil de SP emite alerta severo para chuvas fortes e ventos intensos",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-de-sp-emite-alerta-severo-para-chuvas-fortes-e-ventos-intensos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T02:38:47+00:00",
+      "summary": "Instabilidade é causada pela formação de ciclone extratropical no litoral do Paraná, que já registrou rajadas de 88 km/h",
+      "category": "Clima"
+    },
+    {
+      "title": "Joe Salgado virou à direita no 11 de setembro e sobreviveu",
+      "url": "https://observador.pt/especiais/joe-salgado-fugiu-da-torre-norte-do-world-trade-center-e-virou-a-direita-os-quatro-colegas-que-viraram-a-esquerda-morreram/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T02:37:15+00:00",
+      "summary": "Homenagem da comunidade portuguesa de Newark às vítimas e aos heróis do 11 de setembro de 2001",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h Riade fecha oleoduto estratégico depois de ataques",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-riade-fecha-oleoduto-estrategico-depois-de-ataques_a1_1764951",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T02:35:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "SP registra ventos de até 88 km/h e Defesa Civil instala Gabinete de Crise",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-registra-ventos-de-ate-88-km-h-e-defesa-civil-instala-gabinete-de-crise/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T02:25:23+00:00",
+      "summary": "População deve reavaliar segurança de estruturas e planejar evacuação devido a rajadas de vento e fenômenos severos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasileirão: com um a menos, Coritiba busca empate com Athletico-PR no fim",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-com-um-a-menos-coritiba-busca-empate-com-athletico-pr-no-fim/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T02:23:53+00:00",
+      "summary": "Equipes se enfrentaram na noite desta sexta-feira (11)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Por que ler antes de dormir pode ajudar no desenvolvimento das crianças? Veja o que a leitura pode estimular",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-ler-antes-de-dormir-pode-ajudar-no-desenvolvimento-das-criancas-veja-o-que-a-leitura-pode-estimular/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T02:23:31+00:00",
+      "summary": "Leitura compartilhada pode estimular a linguagem, ampliar o repertório e criar um momento de interação entre crianças e adultos",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h. GNR vai juntar-se aos protestos da PSP",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2434/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T02:14:27+00:00",
+      "summary": "Presidente da Associação dos Profissionais da Guarda garante que só com medidas concretas será possível desconvocar os protestos. Ainda, Pedro Passos Coelho vai apresentar reformas para o país.",
+      "category": "Política"
+    },
+    {
+      "title": "PF: Eduardo pediu o “máximo possível” de recursos para Dark Horse nos EUA",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-eduardo-pediu-o-maximo-possivel-de-recursos-para-dark-horse-nos-eua/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T02:12:19+00:00",
+      "summary": "Mensagens atribuídas a Eduardo Bolsonaro indicam preocupação do ex-deputado com a demora no repasse de verbas que seriam supostamente utilizadas para o filme sobre seu pai, o ex-presidente Jair Bolsonaro",
+      "category": "Política"
+    },
+    {
+      "title": "Mendonça reforça que todo material para julgamento na terça está disponível",
+      "url": "https://www.cnnbrasil.com.br/politica/mendonca-reforca-que-todo-material-para-julgamento-na-terca-esta-disponivel/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T02:07:46+00:00",
+      "summary": "Fala aconteceu ao afirmar que derrubar o sigilo do celular do ex-banqueiro Daniel Vorcaro, dono do Banco Master, comprometeria o inquérito",
+      "category": "Mundo"
+    },
+    {
+      "title": "Vampiros realmente existem? Conheça a Rede Vamp, que realiza a Aurora Vampyrica com retiro, práticas e imersão de vampirismo",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/vampiros-realmente-existem-conheca-a-rede-vamp-que-realiza-a-aurora-vampyrica-com-retiro-praticas-e-imersao-de-vampirismo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-12T02:07:24+00:00",
+      "summary": "Prática inclui a difusão da Cosmovisão “Vampyrica”, da Mitopoese e das Artes das Noites",
+      "category": "Cultura"
+    },
+    {
+      "title": "1h Iraque fecha fronteira com Irão",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-iraque-fecha-fronteira-com-irao_a1_1764949",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T01:22:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h. Passos Coelho vai apresentar reformas dentro de 2 meses",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2408/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T01:13:37+00:00",
+      "summary": "Reformas sugeridas pelo antigo primeiro-ministro vão desde a sustentabilidade da Segurança Social à competividade da economia. Ainda, um comboio com 180 passageiros a bordo descarrilou na Normandia.",
+      "category": "Política"
+    },
     {
       "title": "00h Vindimas: seis pessoas feridas em Celorico de Basto",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-vindimas-seis-pessoas-feridas-em-celorico-de-basto_a1_1764947",
@@ -11,157 +308,40 @@
       "category": "Mundo"
     },
     {
-      "title": "Primeiro DJ com síndrome de Down a se apresentar no Rock in Rio, JP transforma paixão pela música em profissão",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/11/-dj-sindrome-de-down-rock-in-rio.ghtml",
-      "source": "G1",
+      "title": "Plataformas vão informar canais de denúncia de violência contra mulher",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/plataformas-vao-informar-canais-de-denuncia-de-violencia-contra-mulher",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-12T00:12:33+00:00",
-      "summary": "João Pedro Rocha é o primeiro DJ com síndrome de Down a se apresentar no Rock in Rio Reprodução Aos 23 anos, João Pedro Rocha, conhecido como DJ JP, fez história nesta sexta-feira (11) no Rock in Rio 2026. Ele se tornou o primeiro DJ com síndrome de Down a se apresentar no festival, em uma apresentação no Artist Villag",
-      "category": "Cultura"
-    },
-    {
-      "title": "Ex-vereador é condenado a 25 anos de prisão por mandar matar desafeto político",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/11/ex-vereador-e-condenado-a-25-anos-de-prisao-por-mandar-matar-desafeto-politico.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T00:12:29+00:00",
-      "summary": "Ex-vereador de Boa Viagem é condenado a 25 anos de prisão por homicídio Reprodução O ex-vereador de Boa Viagem José Airto Vieira Lima, conhecido como \"Setenta\", foi condenado a 25 anos de prisão, na última quinta-feira (10), pelo homicídio de um desafeto político, o líder comunitário Joel Ramos do Nascimento, em setemb",
-      "category": "Mundo"
-    },
-    {
-      "title": "Rock in Rio 2026: Veja vídeos do quinto dia de festival",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/playlist/rock-in-rio-2026-veja-videos-do-quinto-dia-de-festival.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T00:09:14+00:00",
-      "summary": "",
-      "category": "Cultura"
-    },
-    {
-      "title": "Eleições 2026: podcast 'Quem Resolve' vai ao Jardim Botânico para discutir os problemas históricos da região",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-podcast-quem-resolve-vai-ao-jardim-botanico-para-discutir-os-problemas-historicos-da-regiao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T00:02:56+00:00",
-      "summary": "Eleições 2026: podcast 'Quem Resolve' vai ao Jardim Botânico As eleições estão chegando, e a TV Globo e o g1 estão de olho em \"Quem Resolve\". Nosso projeto de podcast itinerante rodou por regiões do Distrito Federal para saber o que pensa a população (veja vídeo acima). ✅ Clique aqui para seguir o canal do g1 no WhatsA",
+      "publishedAt": "2026-09-12T00:22:00+00:00",
+      "summary": "As plataformas digitais terão prazo sugerido de 15 dias para informar ao governo federal como funcionam seus canais e mecanismos de denúncia de violência contra mulheres no ambiente digital. O pedido foi encaminhado em ofício conjunto pelas Secretarias de Políticas Digitais da Secretaria de Comunicação Social da Presid",
       "category": "Política"
     },
     {
-      "title": "Caminhão de coleta de lixo fica preso após asfalto ceder em rua de Feira de Santana",
-      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/11/caminhao-de-coleta-de-lixo-fica-preso-apos-asfalto-ceder-em-rua-de-feira-de-santana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T00:02:54+00:00",
-      "summary": "Asfalto de rua cede em Feira de Santana após acidente com carro de coleta de lixo Um caminhão de coleta de lixo ficou preso em um buraco após o asfalto ceder durante a passagem do veículo na Rua Água Verde, no bairro Parque Ipê, em Feira de Santana, segunda maior cidade da Bahia. A situação aconteceu nesta sexta-feira ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Motorista de ônibus passa mal ao volante e bate em oito carros em Juiz de Fora",
-      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/11/motorista-de-onibus-passa-mal-ao-volante-e-bate-em-oito-carros-em-juiz-de-fora.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T00:02:44+00:00",
-      "summary": "Motorista de ônibus passa mal ao volante, e coletivo bate em oito carros em Juiz de Fora Humberto Campos/TV Integração O ônibus bateu em oito veículos após o motorista motorista apresenta um mal súbito enquanto dirigia, na tarde desta sexta-feira (11), no Centro de Juiz de Fora. Três pessoas precisaram de atendimento m",
-      "category": "Mundo"
-    },
-    {
-      "title": "Agendas de candidatos ao governo do Ceará incluem panfletagem, bandeiraço e reuniões nesta sexta",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/11/agendas-de-candidatos-ao-governo-do-ceara-incluem-panfletagem-bandeiraco-e-reunioes-nesta-sexta.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T00:00:49+00:00",
-      "summary": "Candidatos a governador do Ceará em 2026 Fabiane de Paula/SVM; Thiago Gadelha/SVM; Kid Junior/SVM; Divulgação e As agendas dos oito candidatos ao governo do Ceará incluíram panfletagem, bandeiraço e reuniões nesta sexta-feira (11). Seis candidatos divulgaram agendas públicas. Dois deles foram a municípios do interior, ",
+      "title": "1h. Descarrilamento de comboio em França provoca 44 feridos",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2381/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T00:18:07+00:00",
+      "summary": "A bordo do serviço regional na Normandia seguiam 180 pessoas. Uma mulher de 18 anos está em estado crítico. Ainda, ministro da Administração Interna vai reunir com profissionais da GNR e PSP.",
       "category": "Política"
     },
     {
-      "title": "Homem se aproxima de funcionária de academia, tenta estuprá-la e a mata a facadas, no PR",
-      "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/11/homem-se-aproxima-de-funcionaria-de-academia-tenta-estupra-la-e-a-mata-a-facadas-no-pr.ghtml",
-      "source": "G1",
+      "title": "Veja como foi a sexta-feira (11) dos candidatos a presidente",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-sexta-feira-11-dos-candidatos-presidente",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-12T00:00:17+00:00",
-      "summary": "Suspeito fugiu do local após o crime RPC Um homem de 21 anos é suspeito de matar uma jovem da mesma idade a facadas em uma academia de Londrina, no norte do Paraná, na tarde desta sexta-feira (11). De acordo com a Polícia Militar (PM-PR), o suspeito tentou estuprar a jovem, que trabalhava no estabelecimento, no estacio",
-      "category": "Mundo"
-    },
-    {
-      "title": "Richarlison comenta recusa ao Vasco: “Um dia vou realizar esse sonho”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/richarlison-comenta-recusa-ao-vasco-um-dia-vou-realizar-esse-sonho/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:59:50+00:00",
-      "summary": "Atacante explicou motivos de não acertar com o \"time do coração\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem é morto após ataque a tiros em loja na Bahia",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/11/homem-e-morto-em-itamaraju.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:55:06+00:00",
-      "summary": "Jovem de 21 anos foi morto a tiros dentro de uma loja em Itamaraju Um homem de 21 anos foi morto a tiros dentro de uma loja de som automotivo na cidade de Itamaraju, no extremo sul da Bahia, nesta sexta-feira (11). Conforme a Polícia Civil, um inquérito foi instaurado para apurar o caso, que aconteceu no bairro Cristo ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta sexta-feira (11)",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-sexta-feira-11.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:53:55+00:00",
-      "summary": "Veja como foi a agenda dos candidatos ao governo do Tocantins nesta sexta-feira (11) Confira como foi a agenda de campanha dos candidatos ao governo do Tocantins nesta sexta-feira (11). Vicentinho Júnior (PSDB) cumpriu agenda em Porto Nacional, na região central do estado. Enquanto a Professora Dorinha (União Brasil) v",
+      "publishedAt": "2026-09-12T00:17:00+00:00",
+      "summary": "A agenda dos candidatos à Presidência da República nesta sexta-feira (11) incluiu sabatinas e entrevistas em veículos de comunicação, gravações para programas de televisão e participação em atos de campanha. >> Veja como foi o dia dos presidenciáveis: Luiz Inácio Lula da Silva (PT) O candidato Luiz Inácio Lula da Silva",
       "category": "Política"
     },
     {
-      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 11 de setembro de 2026",
-      "url": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sexta-feira-11-de-setembro-de-2026.ghtml",
-      "source": "G1",
+      "title": "Mendonça levanta sigilo de quase 40 processos no STF",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-levanta-sigilo-de-quase-40-processos-no-stf",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-11T23:52:34+00:00",
-      "summary": "Reveja os vídeos do telejornal.",
-      "category": "Mundo"
-    },
-    {
-      "title": "William Siri defende ampliação do ensino em horário integral",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/11/william-siri-defende-ampliacao-do-ensino-em-horario-integral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:49:42+00:00",
-      "summary": "William Siri faz capanha em São Gonçalo O candidato do PSOL ao governo do RJ, William Siri, fez campanha em São Gonçalo, na Região Metropolitana do Rio, nesta sexta-feira (11). Siri apresentou propostas para a área de educação. Durante a agenda, Siri disse que defende a ampliação do ensino em horário integral. 📱Baixe o",
+      "publishedAt": "2026-09-12T00:13:00+00:00",
+      "summary": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (11) o levantamento do sigilo de 39 processos que tramitam na Corte. A decisão atende, em parte, a pedido da Procuradoria Geral da República (PGR), que havia solicitado a abertura de 18 processos. Entre os procedimentos estão inv",
       "category": "Política"
-    },
-    {
-      "title": "Nepal: Famílias buscam desaparecidos após inundação na fronteira com Tibete",
-      "url": "https://www.cnnbrasil.com.br/internacional/nepal-familias-buscam-desaparecidos-apos-inundacao-na-fronteira-com-tibete/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:49:29+00:00",
-      "summary": "Pouco mais de três semanas depois da tragédia que deixou quase 1400 mortos, a esperança de encontrar entes queridos com vida continua",
-      "category": "Mundo"
-    },
-    {
-      "title": "TRE intima Meta e X sobre laudo atribuido à PF postado por Nikolas",
-      "url": "https://www.cnnbrasil.com.br/politica/tre-intima-meta-e-x-sobre-laudo-atribuido-a-pf-postado-por-nikolas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:46:12+00:00",
-      "summary": "Justiça Eleitoral apura origem de material e possível ligação entre perfil de apoio e conta oficial do deputado",
-      "category": "Esportes"
-    },
-    {
-      "title": "Guto Miguel x Latak: horário e onde assistir à final do US Open juvenil",
-      "url": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-x-latak-horario-e-onde-assistir-a-final-do-us-open-juvenil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:40:13+00:00",
-      "summary": "Brasileiro de 17 anos busca mais um título de Grand Slam em 2026",
-      "category": "Mundo"
-    },
-    {
-      "title": "SLC Agrícola aprova emissão de R$ 515,5 milhões em CPR-F",
-      "url": "https://www.cnnbrasil.com.br/agro/slc-agricola-aprova-emissao-de-r-5155-milhoes-em-cpr-f/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:34:11+00:00",
-      "summary": "Operação terá prazo de sete anos e recursos serão destinados integralmente a atividades ligadas ao agronegócio",
-      "category": "Esportes"
     },
     {
       "title": "STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes",
@@ -171,15 +351,6 @@
       "publishedAt": "2026-09-11T23:29:00+00:00",
       "summary": "O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes enviou ofício ao presidente da corte, Edson Fachin, em que pede o adiamento da sessão de julgamento marcada para a próxima terça-feira (15), que vai decidir se o ministro Alexandre de Moraes será investigado por suposta relação com o banqueiro Daniel Vorcaro, e",
       "category": "Política"
-    },
-    {
-      "title": "Mais de 100 pessoas ficam desabrigadas após chuvas intensas em SC",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/mais-de-100-pessoas-ficam-desabrigadas-apos-chuvas-intensas-em-sc/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:27:14+00:00",
-      "summary": "Defesa Civil registra alagamentos, inundações, deslizamentos e queda de árvores após fortes chuvas no estado",
-      "category": "Clima"
     },
     {
       "title": "Não basta trabalhar: “o Luís” tem de correr",
@@ -200,13 +371,31 @@
       "category": "Mundo"
     },
     {
-      "title": "Príncipe saudita pede ajuda militar dos EUA contra os Houthis",
-      "url": "https://www.cnnbrasil.com.br/internacional/principe-saudita-pede-ajuda-militar-dos-eua-contra-os-houthis/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:23:47+00:00",
-      "summary": "O presidente Donald Trump não concordou com ataque direto, mas prometeu compartilhamento de inteligência para identificar alvos no Iêmen",
-      "category": "Política"
+      "title": "É a estupidez, estúpido",
+      "url": "https://observador.pt/opiniao/e-a-estupidez-estupido/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T23:24:40+00:00",
+      "summary": "Não sei se a inteligência artificial destruirá a humanidade, conforme alguns prometem. Mas é evidente que a estupidez natural está bastante empenhada nisso.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Afinal, a democracia está segura?",
+      "url": "https://observador.pt/opiniao/afinal-a-democracia-esta-segura/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T23:23:50+00:00",
+      "summary": "Não é o colapso da democracia que devíamos temer, mas sim a possibilidade de que \"isto\" seja o que a democracia vai ser durante muito tempo",
+      "category": "Clima"
+    },
+    {
+      "title": "O cónego Jeremias e Torreciudad",
+      "url": "https://observador.pt/opiniao/o-conego-jeremias-e-torreciudad/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-11T23:22:21+00:00",
+      "summary": "Ao contrário do que recentemente se fez crer, a imagem de Nossa Senhora dos Anjos sempre esteve e continua a estar na ‘sua casa’, que foi e é Torreciudad.",
+      "category": "Mundo"
     },
     {
       "title": "Desdém à mesa",
@@ -218,24 +407,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Hulk não enfrentará o Atlético-MG por cláusula contratual",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/hulk-nao-enfrentara-o-atletico-mg-por-clausula-contratual/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:21:38+00:00",
-      "summary": "Atacante, que vive grande fase pelo Fluminense, tem acordo para não jogar contra o ex-clube em Belo Horizonte neste ano",
-      "category": "Mundo"
-    },
-    {
-      "title": "Gengibre em pó: por que usar e quais são os benefícios",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/gengibre-em-po-por-que-usar-e-quais-sao-os-beneficios/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:20:02+00:00",
-      "summary": "É possível obter vitaminas da raiz mesmo em sua versão desidratada",
-      "category": "Mundo"
-    },
-    {
       "title": "Candidatura a Capital da Cultura quer valorizar Setúbal",
       "url": "https://observador.pt/2026/09/12/candidatura-a-capital-da-cultura-quer-valorizar-patrimonio-local-de-setubal-e-deixar-legado/",
       "source": "Observador",
@@ -243,114 +414,6 @@
       "publishedAt": "2026-09-11T23:18:43+00:00",
       "summary": "A proposta adota um conceito alargado de cultura, integrando \"áreas como a comunidade, a paisagem, o ambiente e até a astronomia\".",
       "category": "Cultura"
-    },
-    {
-      "title": "PJ detém único tripulante da lancha que encalhou em Caminha",
-      "url": "https://observador.pt/2026/09/12/pj-detem-unico-tripulante-da-lancha-que-encalhou-na-praia-de-moledo-em-caminha/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T23:17:58+00:00",
-      "summary": "O homem \"acabou por ser identificado e detido, por suspeita de envolvimento na atividade de tráfico de estupefacientes\"",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Cabo Verde: famílias recebem 907 euros por vítima",
-      "url": "https://observador.pt/2026/09/12/acidente-em-cabo-verde-familias-recebem-907-euros-por-vitima-e-outros-apoios-da-autarquia-e-do-governo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T23:17:25+00:00",
-      "summary": "Já foram identificados e estão a ser processados nas contas os apoios monetários a cada família, no valor de 100 mil escudos (907 euros)",
-      "category": "Economia"
-    },
-    {
-      "title": "Avanço dos houthis ameaça rota crucial para Arábia Saudita",
-      "url": "https://observador.pt/2026/09/12/controlo-da-costa-do-iemen-no-mar-vermelho-pelos-houthis-ameaca-rota-crucial-para-a-arabia-saudita-e-para-o-petroleo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T23:16:45+00:00",
-      "summary": "Grupo rebelde pró-Irão conquista posições no estreito que dá acesso ao Mar Vermelho e proíbe circulação de navios petroleiros sauditas. E ameaça gerar uma disrupção ainda maior no mercado do petróleo.",
-      "category": "Economia"
-    },
-    {
-      "title": "Lisboa deve receber melhor quem chega ao aeroporto",
-      "url": "https://observador.pt/opiniao/lisboa-deve-receber-melhor-quem-chega-ao-aeroporto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T23:15:32+00:00",
-      "summary": "Porque a forma como recebemos quem chega não é um detalhe. Tudo conta. Tudo transmite uma atitude.",
-      "category": "Mundo"
-    },
-    {
-      "title": "00h. Ministro Administração Interna vai reunir com PSP e GNR",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2417/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T23:15:17+00:00",
-      "summary": "As reuniões acontecem depois de 4 associações da GNR e 3 sindicatos da PSP terem exigido ao ministro uma reunião urgente. Ainda, a CGTP vai convocar uma manifestação nacional para o dia 17 de outubro.",
-      "category": "Política"
-    },
-    {
-      "title": "Coitados dos americanos que estão tão mal (?!)",
-      "url": "https://observador.pt/opiniao/coitados-dos-americanos-que-estao-tao-mal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T23:14:56+00:00",
-      "summary": "A tragédia do português comum não é apenas desconhecer a prosperidade brutal gerada pelo capitalismo americano; é ter sido ensinado e formatado para sentir pena de quem vive no motor económico.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Presidente do Irã diz que país não vai ceder à pressão dos EUA e de Israel",
-      "url": "https://www.cnnbrasil.com.br/internacional/presidente-do-ira-diz-que-pais-nao-vai-ceder-a-pressao-dos-eua-e-de-israel/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:12:48+00:00",
-      "summary": "Masoud Pezeshkian participou de um evento com líderes religiosos e empresariais em Nova Délhi, à margem da cúpula do Brics",
-      "category": "Política"
-    },
-    {
-      "title": "Everton Cebolinha é relacionado e pode estrear pelo Santos contra Cruzeiro",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/everton-cebolinha-e-relacionado-e-pode-estrear-pelo-santos-contra-cruzeiro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:10:35+00:00",
-      "summary": "Partida será realizada neste sábado (12), na Vila Belmiro, pela 27ª rodada do Campeonato Brasileiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Pequena meditação sobre o despojamento da luz",
-      "url": "https://observador.pt/opiniao/pequena-meditacao-sobre-o-despojamento-da-luz/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T23:09:45+00:00",
-      "summary": "Nos 25 anos dos ataques às torres gémeas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "IVA alimentar: reformar em vez de remendar",
-      "url": "https://observador.pt/opiniao/iva-alimentar-reformar-em-vez-de-remendar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T23:08:34+00:00",
-      "summary": "A alimentação não é um luxo. E a fiscalidade também não deveria tratá-la como se fosse",
-      "category": "Mundo"
-    },
-    {
-      "title": "Regresso a um triste passado em Arroios",
-      "url": "https://observador.pt/opiniao/regresso-a-um-triste-passado-em-arroios/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T23:07:00+00:00",
-      "summary": "O actual presidente da Junta de Arroios vai abandonar o cargo menos de 1 ano depois de ser eleito numa lista do PS com o Livre e o BE. João Jaime Pires serviu de barriga de aluguer",
-      "category": "Política"
-    },
-    {
-      "title": "Aviões se chocam contra torres do World Trade Center e provocam pânico mundial: veja como a Nasa acompanhou o atentado do espaço",
-      "url": "https://www.cnnbrasil.com.br/ciencia/avioes-se-chocam-contra-torres-do-world-trade-center-e-provocam-panico-mundial-veja-como-a-nasa-acompanhou-o-atentado-do-espaco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T23:03:30+00:00",
-      "summary": "Frank Culbertson estava na ISS e documentou os ataques com fotos feitas da Estação Internacional Espacial que passava pela região dos EUA",
-      "category": "Ciência & Tech"
     },
     {
       "title": "Andrei Rodrigues nega que PF tenha monitorado ministro André Mendonça",
@@ -459,69 +522,6 @@
       "publishedAt": "2026-09-11T21:43:47+00:00",
       "summary": "Nas operações de busca e salvamento após o atentado de 11 de setembro de 2001 estiveram dois bombeiros portugueses. José Ricardo Bismarck recorda os oito dias em que esteve em solo norte-americano.",
       "category": "Mundo"
-    },
-    {
-      "title": "11 de Setembro. Atentados de Nova Iorque mataram 2.977 pessoas",
-      "url": "https://www.rtp.pt/noticias/mundo/11-de-setembro-atentados-de-nova-iorque-mataram-2977-pessoas_v1764936",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T21:39:53+00:00",
-      "summary": "Ao todo morreram 2.977 pessoas no 11 de Setembro. O Estados unidos lançaram de imediato uma guerra ao terror. Bin Laden só seria morto quase dez anos depois, numa operação das forças norte-americanas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Enamed 2026: prova que avalia formação médica será neste domingo",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enamed-2026-prova-que-avalia-formacao-medica-sera-neste-domingo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T21:39:00+00:00",
-      "summary": "O Exame Nacional de Avaliação da Formação Médica (Enamed), que afere o aprendizado dos estudantes de medicina e avalia os cursos brasileiros de graduação nesta área, será aplicado em todo o país neste domingo (13). De acordo com edital do Enamed 2026 , a prova será aplicado em todos os estados e no Distrito Federal, no",
-      "category": "Saúde"
-    },
-    {
-      "title": "Atuais medidas \"mais rigorosas\" nos aeroportos foram impostas após ataque às torres gémeas",
-      "url": "https://www.rtp.pt/noticias/mundo/atuais-medidas-mais-rigorosas-nos-aeroportos-foram-impostas-apos-ataque-as-torres-gemeas_v1764934",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T21:34:47+00:00",
-      "summary": "O ataque às torres gémeas, em 2001, alteraram de imediato as regras de segurança nos aeroportos e nas fronteiras. Os controlos mais rigorosos e a proibição de artigos a bordo foram algumas das medidas impostas no %u2018novo mundo%u2019 pós-ataque.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Chega desafia PS a aprovar redução do IVA dos combustíveis",
-      "url": "https://www.rtp.pt/noticias/pais/chega-desafia-ps-a-aprovar-reducao-do-iva-dos-combustiveis_v1764933",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T21:26:47+00:00",
-      "summary": "O Chega vai avançar com os projetos de lei para a descida do IVA sobre os combustíveis e a implementação do IVA zero no cabaz de alimentos essenciais. As propostas são discutidas a 24 de setembro e André Ventura já lançou o repto a José Luís Carneiro.",
-      "category": "Mundo"
-    },
-    {
-      "title": "21h GNR junta-se à PSP nos protestos contra o Governo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-gnr-junta-se-a-psp-nos-protestos-contra-o-governo_a1_1764932",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-11T21:20:04+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "STF retoma julgamento da Lei da Ficha Limpa com voto de Gilmar Mendes",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-retoma-julgamento-da-lei-da-ficha-limpa-com-voto-de-gilmar-mendes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T21:04:00+00:00",
-      "summary": "O Supremo Tribunal Federal (STF) retomou o julgamento da Lei da Ficha Limpa nesta sexta-feira (11), com a liberação do voto do ministro Gilmar Mendes. O magistrado havia pedido vista, o que interrompeu o julgamento, ocorrido em ambiente virtual. Mendes votou pela validade das alterações feitas pelo Congresso Nacional n",
-      "category": "Política"
-    },
-    {
-      "title": "Aulas serão suspensas no DF nas sextas-feiras antes das eleições",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/aulas-serao-suspensas-no-df-nas-sextas-feiras-antes-das-eleicoes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-11T20:20:00+00:00",
-      "summary": "O governo do Distrito Federal (GDF) decidiu suspender as aulas nas redes de ensino público e privada nas duas sextas-feiras que antecedem o primeiro e o segundo turno das eleições deste ano. Com isso, não haverá aulas nos dias 2 de outubro e 23 de outubro. Se não houver segundo turno, a medida será cancelada no dia 23 ",
-      "category": "Política"
     }
   ],
   "sources": [
