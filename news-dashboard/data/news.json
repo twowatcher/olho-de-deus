@@ -1,6 +1,312 @@
 {
-  "updatedAt": "2026-09-12T23:59:55.783133+00:00",
+  "updatedAt": "2026-09-13T04:42:26.741614+00:00",
   "items": [
+    {
+      "title": "4h Barricadas no arranque da campanha para as eleições em São Tomé e Príncipe",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-barricadas-no-arranque-da-campanha-para-as-eleicoes-em-sao-tome-e-principe_a1_1765096",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T04:32:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "3h CCP acusa Estado de falhar compromissos do acordo de valorização salarial",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ccp-acusa-estado-de-falhar-compromissos-do-acordo-de-valorizacao-salarial_a1_1765095",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T04:31:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Naufrágio deixa mais de 30 desaparecidos em Vanuatu, no Pacífico",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/13/naufragio-deixa-mais-de-30-desaparecidos-em-vanuatu-no-pacifico.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:30:35+00:00",
+      "summary": "Pelo menos uma pessoa morreu e mais de 30 estavam desaparecidas neste domingo após uma balsa afundar na costa de Vanuatu, informou em nota o gabinete do primeiro-ministro Jotham Napat. As operações de busca e resgate continuavam na nação insular do Pacífico, localizada a cerca de 1.750 quilômetros a leste da Austrália,",
+      "category": "Política"
+    },
+    {
+      "title": "Levante x Barcelona: horário e onde assistir ao jogo de LaLiga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/levante-x-barcelona-horario-e-onde-assistir-ao-jogo-de-laliga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:15:07+00:00",
+      "summary": "Equipes vão a campo neste domingo (13) pela 5ª rodada do Campeonato Espanhol",
+      "category": "Esportes"
+    },
+    {
+      "title": "As notícias das 5h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1564/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T04:14:02+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
+      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:06:53+00:00",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este domingo (13) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 32ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuvens.",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Paulo (SP): tempo chuvoso durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-sao-paulo-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:06:34+00:00",
+      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para este domingo (13) para São Paulo (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chuvoso. À noite, te",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): tempo chuvoso durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:06:18+00:00",
+      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para este domingo (13) para São Bernardo do Campo (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 16ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, te",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Santo André (SP): tempo chuvoso durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-santo-andre-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:06:00+00:00",
+      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para este domingo (13) para Santo André (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chuvoso. À noite",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Osasco (SP): tempo chuvoso durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-osasco-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:05:41+00:00",
+      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para este domingo (13) para Osasco (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chuvoso. À noite, tempo ch",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens a nublado com chuva no fim da manhã; tarde e noite chuvosas",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-no-fim-da-manha-tarde-e-noite-chuvosas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:05:19+00:00",
+      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para este domingo (13) para Guarulhos (SP) é de sol com muitas nuvens a nublado com chuva no fim da manhã. Tarde e noite chuvosas. As máximas são de 18ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No pe",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-o-dia-todo-muitas-nuvens-e-pancadas-de-chuva-de-manha-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:05:02+00:00",
+      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para este domingo (13) para São Gonçalo (RJ) é de sol o dia todo. Muitas nuvens e pancadas de chuva de manhã e à noite. As máximas são de 24ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens a nublado com chuva no fim da manhã; tarde e noite chuvosas",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-muitas-nuvens-a-nublado-com-chuva-no-fim-da-manha-tarde-e-noite-chuvosas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:04:46+00:00",
+      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para este domingo (13) para o Rio de Janeiro (RJ) é de sol com muitas nuvens a nublado com chuva no fim da manhã. Tarde e noite chuvosas. As máximas são de 22ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:04:29+00:00",
+      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para este domingo (13) para Nova Iguaçu (RJ) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, s",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Niterói (RJ): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-niteroi-rj-sol-o-dia-todo-muitas-nuvens-e-pancadas-de-chuva-de-manha-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:04:12+00:00",
+      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para este domingo (13) para Niterói (RJ) é de sol o dia todo. Muitas nuvens e pancadas de chuva de manhã e à noite. As máximas são de 23ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, s",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T04:03:56+00:00",
+      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para este domingo (13) para Duque de Caxias (RJ) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da ",
+      "category": "Clima"
+    },
+    {
+      "title": "Embarcação com 243 pessoas é dada como desaparecida no mar da Indonésia",
+      "url": "https://www.cnnbrasil.com.br/internacional/embarcacao-com-243-pessoas-desaparece-no-mar-da-indonesia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T03:37:03+00:00",
+      "summary": "Navio perdeu contato horas depois de zarpar de Surabaya rumo a Banjarmasin; agência de busca e salvamento já mobilizou equipes na região",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h CCP não se considera obrigada a cumprir aumento no salário mínimo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ccp-nao-se-considera-obrigada-a-cumprir-aumento-no-salario-minimo_a1_1765092",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T03:22:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "4h.PSP. Sindicatos exigem negociar \"matérias que interessam\"",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2399/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T03:14:36+00:00",
+      "summary": "SPP e SINAPOL querem negociar melhoria do desenvolvimento das carreiras e melhoria dos índices remuneratórios. Ainda, Kremlin diz que encontro entre Putin e Zelensky na cimeira do G20 \"é impossível\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Celta de Vigo x Málaga: horário e onde assistir ao jogo de LaLiga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/celta-de-vigo-x-malaga-horario-e-onde-assistir-ao-jogo-de-laliga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T03:10:59+00:00",
+      "summary": "Equipes vão a campo neste domingo (13) pela 5ª rodada do Campeonato Espanhol",
+      "category": "Esportes"
+    },
+    {
+      "title": "Auxiliar de Abel Ferreira comenta suspensão do treinador no Palmeiras",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/auxiliar-de-abel-ferreira-comenta-suspensao-do-treinador-no-palmeiras/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T02:37:25+00:00",
+      "summary": "João Martins comandou o time no clássico contra o São Paulo e comparou o futebol à sociedade ao analisar punição ao treinador",
+      "category": "Esportes"
+    },
+    {
+      "title": "Santos 2 x 1 Cruzeiro: veja os melhores momentos do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-2-x-1-cruzeiro-veja-os-melhores-momentos-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T02:35:12+00:00",
+      "summary": "Jogo contou com a estreia de Everton Cebolinha pelo Peixe",
+      "category": "Esportes"
+    },
+    {
+      "title": "São Paulo: Dorival explica ausência de Calleri em jogo contra o Palmeiras",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-dorival-explica-ausencia-de-calleri-em-jogo-contra-o-palmeiras/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T02:23:46+00:00",
+      "summary": "Atacante ficou no banco de reservas e não entrou em campo na derrota tricolor por 2 a 0 pelo Brasileirão",
+      "category": "Esportes"
+    },
+    {
+      "title": "3h. Kremlin: encontro entre Putin e Zelensky \"é impossível\"",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2435/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T02:16:15+00:00",
+      "summary": "Porta-voz do Kremlin reitera exigência de Moscovo de que encontro se realize na capital russa. Ainda, quase 100 operacionais, apoiados por cerca de 30 viaturas, combatem incêndio no concelho de Beja.",
+      "category": "Clima"
+    },
+    {
+      "title": "Colocar um rolo de papel higiênico na geladeira: para que serve e por que recomendam fazer isso",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/colocar-um-rolo-de-papel-higienico-na-geladeira-para-que-serve-e-por-que-recomendam-fazer-isso/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T02:04:06+00:00",
+      "summary": "Descubra como papel higiênico controla umidade, elimina maus odores e prolonga a conservação dos alimentos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Santos vence Cruzeiro pelo Brasileirão em estreia de Cebolinha",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-vence-cruzeiro-pelo-brasileirao-em-estreia-de-cebolinha/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T01:59:57+00:00",
+      "summary": "Atacante jogou pela primeira vez com a camisa do Peixe neste sábado (12)",
+      "category": "Esportes"
+    },
+    {
+      "title": "Fuchs projeta jogo contra LDU: “Precisamos aprender com os erros passados”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/fuchs-projeta-jogo-contra-ldu-precisamos-aprender-com-os-erros-passados/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T01:48:24+00:00",
+      "summary": "Possível substituto de Gómez na próxima quarta (16), zagueiro destacou os principais pontos da derrota no jogo que antecedeu a “noite mágica”",
+      "category": "Esportes"
+    },
+    {
+      "title": "Defesa de Vorcaro pede filtro antes de divulgação de dados do caso Master",
+      "url": "https://www.cnnbrasil.com.br/politica/defesa-de-vorcaro-pede-filtro-antes-de-divulgacao-de-dados-do-caso-master/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T01:32:11+00:00",
+      "summary": "Advogados querem preservar informações privadas e sem relação com as investigações após retirada de sigilo de processos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Com um jogador a mais em campo, Botafogo fica no empate com o Bragantino",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/com-um-jogador-a-mais-em-campo-botafogo-fica-no-empate-com-o-bragantino/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T01:30:57+00:00",
+      "summary": "Atacante Wallace Yan foi expulso no final do primeiro tempo após intervenção do VAR",
+      "category": "Clima"
+    },
+    {
+      "title": "Madame Satã: entenda se boate por ser responsabilizada por festa de Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/madame-sata-entenda-se-boate-por-ser-responsabilizada-por-festa-de-vorcaro/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T01:22:19+00:00",
+      "summary": "Equipe afirma que espaço foi locado para uma produtora de eventos terceirizada, sem qualquer negociação direta com o empresário investigado",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "2h. Quase 100 operacionais combatem incêndio em Beja",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2409/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T01:15:44+00:00",
+      "summary": "Incêndio continua a consumir montado e pasto. Combate às chamas está a ser dificultado pela dificuldade de acessos. Ainda, Jorge Pinto, porta-voz do Livre, critica atenção mediática de André Ventura.",
+      "category": "Clima"
+    },
+    {
+      "title": "01h Incêndio em Beja combatido por mais de 130 bombeiros",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-incendio-em-beja-combatido-por-mais-de-130-bombeiros_a1_1765087",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T01:14:01+00:00",
+      "summary": "",
+      "category": "Clima"
+    },
+    {
+      "title": "Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-stf-assume-relatoria-do-processo-sobre-moraes-e-vorcaro",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T01:14:00+00:00",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, é agora o relator do caso sobre a suposta relação entre o ministro Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro. No mesmo despacho deste sábado (12), Fachin remeteu à Presidência da Corte processos relacionados ao Banco Master e a fraudes no Inst",
+      "category": "Política"
+    },
+    {
+      "title": "Brasil é hepatcampeão da Copa América de futebol de cegos em SP",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-e-hepatcampeao-da-copa-america-de-futebol-de-cegos-em-sp",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T00:43:00+00:00",
+      "summary": "A seleção brasileira masculina de futebol conquistou de forma invicta o heptacampeonato da Copa América de futebol de cegos. Na final disputada neste sábado (12), a Amarelinha derrotou a Colômbia por 3 a 0 no CT Paralímpico, em São Paulo. Ao levantar a taça pela sétima vez, os brasileiros mantêm a hegemonia em 11 ediçõ",
+      "category": "Esportes"
+    },
     {
       "title": "23h CCP acusa Estado de não estar a cumprir a sua parte",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ccp-acusa-estado-de-nao-estar-a-cumprir-a-sua-parte_a1_1765086",
@@ -29,121 +335,49 @@
       "category": "Cultura"
     },
     {
-      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição de sábado, 12 de setembro de 2026",
-      "url": "https://g1.globo.com/go/goias/edicao/2026/09/12/videos-jornal-anhanguera-2-edicao-de-sabado-12-de-setembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:56:38+00:00",
-      "summary": "Assista agora os vídeos do Jornal Anhanguera 2ª Edição",
-      "category": "Mundo"
-    },
-    {
-      "title": "São Paulo tem maior chuva do Brasil em 24 horas e setembro já é o 4º mais chuvoso desde 1943",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/12/sao-paulo-tem-maior-chuva-do-brasil-em-24-horas-e-setembro-ja-e-o-4o-mais-chuvoso-desde-1943.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:54:18+00:00",
-      "summary": "Temporal causa alagamentos e deixa desaparecidos em SP São Paulo registrou a maior chuva acumulada em 24 horas de todo o Brasil entre sexta-feira (11) e sábado (12), e o volume fez setembro de 2026 entrar para o ranking dos meses mais chuvosos da capital desde o início da série histórica, em 1943, de acordo com a Defes",
-      "category": "Clima"
-    },
-    {
-      "title": "Rock in Rio 2026: João Gomes se apresenta no Palco Sunset neste 6º dia; ASSISTA",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:47:43+00:00",
-      "summary": "Rock in Rio 2026: João Gomes se apresenta no Palco Sunset neste 6º dia; ASSISTA Maroon 5, Demi Lovato e Mumford & Sons se apresentam neste sábado (12). Como chegar no Rock in Rio de ônibus, carro ou metrô?. Festival acontece até dia 13. Veja a programação completa.. Os melhores e os piores shows do 1º final de semana; ",
-      "category": "Cultura"
-    },
-    {
-      "title": "Tabu histórico: Palmeiras vence São Paulo em todos os clássicos de 2026",
-      "url": "https://www.cnnbrasil.com.br/noticias/tabu-historico-palmeiras-vence-sao-paulo-em-todos-os-classicos-de-2026/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:41:04+00:00",
-      "summary": "Verdão mantém impressionante sequência de triunfos sobre o Tricolor em confrontos importantes da temporada",
-      "category": "Clima"
-    },
-    {
-      "title": "Motociclista bate contra caminhão em chamas durante combate a incêndio e morre carbonizado na BR-153",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/12/motociclista-bate-contra-caminhao-em-chamas-durante-combate-a-incendio-e-morre-carbonizado-na-br-153.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:40:55+00:00",
-      "summary": "Motociclista morre após bater em carreta incendiada entre Paraíso e Barrolândia Um motociclista de 40 anos morreu carbonizado após bater contra um caminhão em chamas na BR-153, no trecho entre Paraíso do Tocantins e Barrolândia, na região central do estado. O acidente aconteceu neste sábado (12), no momento em que equi",
-      "category": "Clima"
-    },
-    {
-      "title": "Meta estaria testando robôs para operar data centers, diz revista",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/12/meta-robos-data-centers.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:38:29+00:00",
-      "summary": "Meta O CEO Mark Zuckerberg faz um discurso durante o evento Meta Connect em Menlo Park REUTERS/Carlos Barria A Meta, gigante de tecnologia de Mark Zuckerberg, estaria testando robôs para conduzir tarefas de manutenção dentro de data centers. Diversos funcionários da empresa, em condição de anonimato, conversaram com a ",
-      "category": "Economia"
-    },
-    {
-      "title": "J Balvin anuncia retorno ao Brasil em 2027 durante show no Rock in Rio",
-      "url": "https://www.cnnbrasil.com.br/pop/musica/j-balvin-anuncia-retorno-ao-brasil-em-2027-durante-show-no-rock-in-rio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:36:23+00:00",
-      "summary": "Artista colombiano convidou Pedro Sampaio e Melody para participar de sua apresentação",
-      "category": "Mundo"
-    },
-    {
-      "title": "Análise: sintonia do Atlético-MG com a torcida será importante",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/analise-sintonia-do-atletico-mg-com-a-torcida-sera-essa-semana/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:30:48+00:00",
-      "summary": "Comentarista analisa desempenho do Galo contra o Fluminense e aponta estratégia tática para o próximo jogo contra o Santos",
-      "category": "Esportes"
-    },
-    {
-      "title": "Setlist do Mumford & Sons no Rock in Rio: veja como pode ser show da banda no festival",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/12/setlist-do-mumford-and-sons-no-rock-in-rio-veja-como-pode-ser-show-da-banda-no-festival.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:30:00+00:00",
-      "summary": "Mumford & Sons: Ted Dwane (baixo), Marcus Mumford (voz), Winston Marshall (guitarra) e Ben Lovett (teclado) Divulgação A banda britânica Mumford & Sons se apresenta no Rock in Rio neste sábado (12), sexto dia de festival. Donos de hits mundiais como \"I Will Wait\" e \"The Cave\", o grupo deve trazer seus sucessos do folk ",
-      "category": "Cultura"
-    },
-    {
-      "title": "VÍDEOS: JL2 de sábado, 12 de setembro de 2026",
-      "url": "https://g1.globo.com/pa/para/edicao/2026/09/12/videos-jl2-de-sabado-12-de-setembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:27:19+00:00",
-      "summary": "Assista ao telejornal apresentado por Priscilla Castro.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Palmeiras vence o São Paulo, dorme na liderança e seca o Flamengo",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-vence-o-sao-paulo-dorme-na-lideranca-e-seca-o-flamengo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:27:08+00:00",
-      "summary": "Verdão chegou a sete vitórias seguidas contra o rival; último triunfo do tricolor no clássico foi em 2023",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fachin assume relatoria da discussão sobre suposta relação entre Moraes e Vorcaro e remete à presidência do STF investigações sobre INSS e Master",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/12/fachin-assume-relatoria-de-discussao-sobre-suposta-relacao-entre-moraes-e-vorcaro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:23:55+00:00",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, assumiu a relatoria da discussão sobre a suposta relação entre o ministro Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro e determinou a remessa à Presidência da Corte dos processos relacionados às investigações sobre as fraudes do INSS e do banco Master",
+      "title": "1h. Livre não alinha no \"jogo viciado da extrema direita\"",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2382/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T00:16:17+00:00",
+      "summary": "Jorge Pinto lembra que partido foi único da esquerda que votou contra moção de censura e critica o mediatismo de Ventura. Ainda, Kremlin diz que encontro entre Putin e Zelensky no G20 \"é impossível\".",
       "category": "Política"
     },
     {
-      "title": "Trabalhador prende dedo em amaciador de carne e é levado junto com a máquina ao hospital em Manaus",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/12/trabalhador-prende-dedo-em-amaciador-de-carne-e-e-levado-junto-com-a-maquina-ao-hospital-em-manaus.ghtml",
-      "source": "G1",
+      "title": "Fachin dá 24 horas para PF enviar informações sobre celular de Vorcaro",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-da-24-horas-para-pf-enviar-informacoes-sobre-celular-de-vorcaro",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-12T23:22:13+00:00",
-      "summary": "Bombeiros socorrem trabalhador que ficou com dedo preso em amaciador de carne em Manaus. Divulgação/Arlesson Lourenço Um homem não identificado teve um dos dedos preso em um amaciador de carne e precisou ser levado junto com o aparelho a um hospital de Manaus. O acidente ocorreu no estabelecimento em que ele trabalha, ",
-      "category": "Saúde"
+      "publishedAt": "2026-09-12T23:53:00+00:00",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, estabeleceu o prazo de 24 horas para que a Polícia Federal (PF) envie informações sobre a custódia do material extraído do celular do ex-banqueiro Daniel Vorcaro e o estado em que ele se encontra. A petição, enviada neste sábado (12), responde ",
+      "category": "Política"
+    },
+    {
+      "title": "11 de Setembro: 25 anos",
+      "url": "https://observador.pt/opiniao/11-de-setembro-25-anos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T23:26:36+00:00",
+      "summary": "O 11 de Setembro foi suficiente para alterar profundamente a ordem internacional. Hoje, podemos dizer que essa mudança veio, ainda que, como sempre, não nos termos dos protagonistas",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Vinte cinco anos depois do 11 de setembro, duas lições",
+      "url": "https://observador.pt/opiniao/vinte-cinco-anos-depois-do-11-de-setembro-duas-licoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T23:23:53+00:00",
+      "summary": "Donald Trump, apesar de promessas de contenção na frente externa, parece determinado a voltar a aprender a lição de que ser uma grande potência não é o mesmo que ser omnipotente.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Será Luís Montenegro pior que António Costa?",
+      "url": "https://observador.pt/opiniao/sera-luis-montenegro-pior-que-antonio-costa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-12T23:22:33+00:00",
+      "summary": "A falta de Montenegro é mais grave que a de António Costa, porque Costa era do PS e o PS estava condenado. O PSD, não. O PSD salvou Portugal da bancarrota. Tinha créditos que Montenegro deitou fora.",
+      "category": "Mundo"
     },
     {
       "title": "Há 25 anos foi ontem",
@@ -153,33 +387,6 @@
       "publishedAt": "2026-09-12T23:20:53+00:00",
       "summary": "No 11 de Setembro eu estava apaixonado por Nova Iorque e falava a todos desse amor. Vi-a sofrer e sofri eu à distância",
       "category": "Mundo"
-    },
-    {
-      "title": "Caminhada, carreatas e ato em bloco de carnaval: o que candidatos ao governo de PE fizeram neste sábado",
-      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/12/agenda-candidatos-pernambuco-12-setembro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:19:41+00:00",
-      "summary": "Candidatos ao governo de Pernambuco Arte/g1 Seis dos oito candidatos ao governo de Pernambuco nas eleições de 2026 tiveram compromissos de campanha neste sábado (12). Entre as atividades, teve panfletagem, caminhadas e carreatas por cidades do Grande Recife, do Agreste e do Sertão. Os candidatos Guilherme Fonseca (PSTU",
-      "category": "Política"
-    },
-    {
-      "title": "Forte neblina cobre cidade de SP durante queda de temperatura; veja",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/forte-neblina-cobre-cidade-de-sp-durante-queda-de-temperatura-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:17:04+00:00",
-      "summary": "Imagens enviadas à CNN Brasil mostram dezenas de prédios ofuscados pela névoa, pouco antes das 20h00",
-      "category": "Mundo"
-    },
-    {
-      "title": "Alagamento e água parada dificultam a rotina de moradores, no bairro Balneário, em São Pedro da Aldeia",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/12/alagamento-e-agua-parada-dificultam-a-rotina-de-moradores-no-bairro-balneario-em-sao-pedro-da-aldeia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:16:55+00:00",
-      "summary": "Moradores enfrentam lama e transtornos no Balneário após chuvas Moradores da Rua Visconde de Albuquerque, no bairro Balneário, em São Pedro da Aldeia, na Região dos Lagos do Rio, reclamam dos constantes alagamentos e da dificuldade de circulação provocada pelo acúmulo de água na via. O problema também chama atenção pel",
-      "category": "Clima"
     },
     {
       "title": "Dois preços, duas escolhas: o que estamos a pagar por viver",
@@ -200,15 +407,6 @@
       "category": "Mundo"
     },
     {
-      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sábado, 12 de setembro de 2026",
-      "url": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sabado-12-de-setembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:14:22+00:00",
-      "summary": "Reveja os vídeos do telejornal.",
-      "category": "Mundo"
-    },
-    {
       "title": "Sócrates cansa-se...e já cansa",
       "url": "https://observador.pt/opiniao/socrates-cansa-se-e-ja-cansa/",
       "source": "Observador",
@@ -218,78 +416,6 @@
       "category": "Saúde"
     },
     {
-      "title": "Anúncios Políticos que servem o poder mas não a população",
-      "url": "https://observador.pt/opiniao/anuncios-politicos-que-servem-o-poder-mas-nao-a-populacao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:11:04+00:00",
-      "summary": "Pretendeu-se fazer a impermeabilização da idoneidade de um ministro, que se encontra sob intenso escrutínio, uilizando para tal um engodo.",
-      "category": "Política"
-    },
-    {
-      "title": "Informalidade, uma questão aceitável e inevitável?",
-      "url": "https://observador.pt/opiniao/informalidade-uma-questao-aceitavel-e-inevitavel/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:08:59+00:00",
-      "summary": "Separar aquilo que juridicamente é aceitável e possível do que é de facto uma decisão prejudicial ao Estado e aos cidadãos é o cerne da questão.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ex-ministro da Educação penitencia-se: «Por minha culpa...»",
-      "url": "https://observador.pt/opiniao/ex-ministro-da-educacao-penitencia-se-por-minha-culpa-minha-tao-grande-culpa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:07:14+00:00",
-      "summary": "Agora os resultados PISA são “os piores desde 2006” e há mea culpa. O que não é claro, na boca de João Costa, é a outra factura: anos a substituir conhecimento pelo catecismo identitário.",
-      "category": "Política"
-    },
-    {
-      "title": "Transparência não pode depender da insistência dos cidadãos",
-      "url": "https://observador.pt/opiniao/transparencia-nao-pode-depender-da-insistencia-dos-cidadaos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:06:52+00:00",
-      "summary": "A informação pública pertence aos cidadãos. Autarquia, entidade reguladora ou concessionária que dificulte o acesso a documentos cria um problema burocrático e enfraquece a confiança na democracia.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Santos x Cruzeiro: escalações e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/noticias/santos-x-cruzeiro-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao-2/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:06:35+00:00",
-      "summary": "Equipes se enfrentam neste sábado (12), às 21h (de Brasília), na Vila Belmiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Armazenar para integrar: o próximo passo do sistema elétrico",
-      "url": "https://observador.pt/opiniao/armazenar-para-integrar-o-proximo-passo-do-sistema-eletrico/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:06:15+00:00",
-      "summary": "Aumentar a capacidade instalada de produção renovável não é suficiente. É necessário criar condições para integrar essa produção de energia de forma mais eficaz.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "“Foi o algoritmo que decidiu” não é resposta",
-      "url": "https://observador.pt/opiniao/foi-o-algoritmo-que-decidiu-nao-pode-ser-uma-resposta-do-estado/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:05:39+00:00",
-      "summary": "A inteligência artificial pode tornar uma decisão mais rápida. Não pode torná-la anónima. Devemos perguntar quem responde quando o sistema se engana.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "O problema não é termos elites. É termos estas elites",
-      "url": "https://observador.pt/opiniao/o-problema-nao-e-termos-elites-e-termos-estas-elites/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:04:44+00:00",
-      "summary": "Todas as sociedades funcionais têm elites. É um facto. E precisam delas. Na verdade, as elites são inevitáveis. A mediocridade não.",
-      "category": "Mundo"
-    },
-    {
       "title": "Ana Sátila é ouro em etapa da Copa do Mundo de canoagem slalom",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ana-satila-e-ouro-em-etapa-da-copa-do-mundo-de-canoagem-slalom",
       "source": "Agência Brasil",
@@ -297,69 +423,6 @@
       "publishedAt": "2026-09-12T23:04:00+00:00",
       "summary": "A brasileira Ana Sátila garantiu a medalha de ouro ao vencer neste sábado (12) a final do C1 (canoa individual) da última etapa da Copa do Mundo de canoagem slalom em La Seul d’Urgell (Espanha). A mineira de 30 anos concluiu a prova no em 103s85, deixando para trás a espanhola Miren Lazkano (104s55), que ficou com a pr",
       "category": "Mundo"
-    },
-    {
-      "title": "Santo António nasceu numa família da nobreza portuguesa?",
-      "url": "https://observador.pt/opiniao/santo-antonio-nasceu-numa-familia-da-nobreza-portuguesa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:03:31+00:00",
-      "summary": "O santo do povo pode, afinal, ter começado a sua história muito mais perto das elites de Lisboa do que a memória popular costuma admitir.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mensagens de Vorcaro e ex-BRB revelam negociação de fraude bilionária",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mensagens-de-vorcaro-e-ex-brb-revelam-negociacao-de-fraude-bilionaria/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:00:42+00:00",
-      "summary": "Segundo a investigação da Polícia Federal, a fraude teria somado aproximadamente R$ 17 bilhões",
-      "category": "Mundo"
-    },
-    {
-      "title": "Top 1: Rybakina conquista primeiro título do US Open ao derrotar Sabalenka",
-      "url": "https://www.cnnbrasil.com.br/esportes/tenis/top-1-rybakina-conquista-primeiro-titulo-do-us-open-ao-derrotar-sabalenka/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T22:51:04+00:00",
-      "summary": "Cazaque supera a cabeça de chave número 1 e atual campeã Aryna Sabalenka por 6/4, 5/7 e 6/2 na final",
-      "category": "Mundo"
-    },
-    {
-      "title": "Crise entre EUA e Brasil trava combate ao crime organizado, diz jornal",
-      "url": "https://www.cnnbrasil.com.br/internacional/crise-entre-eua-e-brasil-trava-combate-ao-crime-organizado-diz-jornal/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T22:49:26+00:00",
-      "summary": "Fontes do The New York Times afirmam que governo Trump está bloqueando os vistos de agentes da PF designados para trabalhar no país",
-      "category": "Política"
-    },
-    {
-      "title": "Chapecoense 1 x 2 Internacional: veja os melhores momentos do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-1-x-2-internacional-veja-os-melhores-momentos-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T22:40:13+00:00",
-      "summary": "Internacional vence Chapecoense e ganha fôlego contra o Z4 do Brasileirão",
-      "category": "Mundo"
-    },
-    {
-      "title": "STF irá transmitir ao vivo sessão sobre mensagens de Moraes e Vorcaro",
-      "url": "https://www.cnnbrasil.com.br/politica/stf-ira-transmitir-ao-vivo-sessao-sobre-mensagens-de-moraes-e-vorcaro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T22:36:43+00:00",
-      "summary": "Corte abriu credenciamento para imprensa e informou que sessão de terça-feira (15), às 10h, terá transmissão pela TV Justiça e YouTube",
-      "category": "Política"
-    },
-    {
-      "title": "Sara Bareilles transforma luto em novo álbum: “Encontrei conforto”",
-      "url": "https://www.cnnbrasil.com.br/pop/musica/sara-bareilles-transforma-luto-em-novo-album-encontrei-conforto/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T22:36:31+00:00",
-      "summary": "Cantora e compositora lança \"Good Grief\" após enfrentar perdas de amigos, crise de saúde mental e três anos de luta pela fertilidade",
-      "category": "Saúde"
     },
     {
       "title": "22h Leão de Ouro do Festival de Veneza para \"Woman Unknown\"",
@@ -434,42 +497,6 @@
       "category": "Política"
     },
     {
-      "title": "Benfica recebe Gil Vicente. Bah a recuperar e Echeverri nas opções",
-      "url": "https://www.rtp.pt/noticias/desporto/benfica-recebe-gil-vicente-bah-a-recuperar-e-echeverri-nas-opcoes_v1765073",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T21:18:47+00:00",
-      "summary": "O Benfica recebe este domingo o Gil Vicente. Marco Silva lidera o melhor ataque do campeonato. Já Luís Pinto orienta a melhor defesa.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Famalicão - Sporting CP. Leões procuram 5ª vitória seguida no campeonato",
-      "url": "https://www.rtp.pt/noticias/desporto/famalicao-sporting-cp-leoes-procuram-5a-vitoria-seguida-no-campeonato_v1765072",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T21:17:47+00:00",
-      "summary": "O Sporting defronta domingo à noite o Famalicão. Os leões procuram o quinto triunfo consecutivo no campeonato nacional.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Alterações climáticas. Estudo revela que jovens estão preocupados com o futuro",
-      "url": "https://www.rtp.pt/noticias/pais/alteracoes-climaticas-estudo-revela-que-jovens-estao-preocupados-com-o-futuro_v1765071",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T21:11:47+00:00",
-      "summary": "Os jovens portugueses garantem estar preocupados com os efeitos das alterações climáticas, mas têm dificuldade em passar à ação.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Irão nega estar em guerra com Arábia Saudita. Houthis falaram com Trump",
-      "url": "https://www.rtp.pt/noticias/mundo/irao-nega-estar-em-guerra-com-arabia-saudita-houthis-falaram-com-trump_v1765070",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T21:09:47+00:00",
-      "summary": "O Irão quer afastar a possibilidade de um confronto direto com a Arábia Saudita. Mas os houthis reforçam a pressão sobre os navios no Mar Vermelho, com Trump a garantir que os rebeldes também contactaram Washington.",
-      "category": "Mundo"
-    },
-    {
       "title": "Entidades pedem apoio de candidatos em defesa da agroecologia",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/entidades-pedem-apoio-de-candidatos-em-defesa-da-agroecologia",
       "source": "Agência Brasil",
@@ -495,33 +522,6 @@
       "publishedAt": "2026-09-12T20:16:00+00:00",
       "summary": "A cidade de São Paulo registra alto volume de chuvas neste mês de setembro. Em apenas 12 dias, a chuva acumulada na estação meteorológica do Instituto Nacional de Meteorologia (INMET) no Mirante de Santana chegou a 198,2 milímetros (mm) até as 9h de hoje. O total é o segundo maior acumulado mensal registrado na cidade ",
       "category": "Clima"
-    },
-    {
-      "title": "SUS vacina mais de 1 milhão de crianças com Pneumo 20",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sus-vacina-mais-de-1-milhao-de-criancas-com-pneumo-20",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T19:24:00+00:00",
-      "summary": "Mais de 1 milhão de crianças menores de 5 anos foram vacinadas com a Pneumo 20 pelo Sistema Único de Saúde (SUS) desde junho deste ano, quando se iniciou a estratégia nacional de vacinação. A vacinação é a principal forma de prevenir as formas graves das doenças pneumocócicas. O anúncio foi feito na sexta-feira (11) pe",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Álcool e cigarro podem causar cegueira, alertam especialistas",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/alcool-e-cigarro-podem-causar-cegueira-alertam-especialistas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T19:20:00+00:00",
-      "summary": "O consumo crônico de álcool e de tabaco pode causar colapso na produção de energia das células responsáveis pela visão, causando danos graves e até mesmo cegueira. A informação integra panorama inédito sobre a neuro-oftalmologia, uma subespecialidade médica que une a oftalmologia e a neurologia com o objetivo de diagno",
-      "category": "Economia"
-    },
-    {
-      "title": "Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-4o-jogo-e-encara-argentina-por-vaga-olimpica-no-domingo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T19:20:00+00:00",
-      "summary": "A seleção brasileira feminina de vôlei derrotou o Chile por 3 sets a 0 (25/13, 30/28 e 25/11) neste sábado (12) no Pré-Olímpico Sul-Americano e ficou a uma vitória de garantir presença nos Jogos Olímpicos de Los Angeles 2028. A Amarelinha decide a vaga olímpica contra a Argentina às 12h (horário de Brasília) deste domi",
-      "category": "Esportes"
     }
   ],
   "sources": [
