@@ -1,6 +1,366 @@
 {
-  "updatedAt": "2026-09-13T20:46:28.214861+00:00",
+  "updatedAt": "2026-09-13T23:07:22.050106+00:00",
   "items": [
+    {
+      "title": "23h Bombeiros em dificuldades por causa do preço dos combustíveis",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-bombeiros-em-dificuldades-por-causa-do-preco-dos-combustiveis_a1_1765200",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T23:24:02+00:00",
+      "summary": "",
+      "category": "Economia"
+    },
+    {
+      "title": "A eletrificação forçada e o fosso que ninguém quer discutir",
+      "url": "https://observador.pt/opiniao/a-eletrificacao-forcada-e-o-fosso-que-ninguem-quer-discutir/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T23:05:29+00:00",
+      "summary": "Não é preciso teoria da conspiração para questionar a prudência de trocar uma dependência energética por outra, sem debate público sério sobre o risco.",
+      "category": "Mundo"
+    },
+    {
+      "title": "O elo mais frágil da reforma da Saúde Mental",
+      "url": "https://observador.pt/opiniao/o-elo-mais-fragil-da-reforma-a-realidade-das-equipas-comunitarias-de-saude-mental/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T23:04:36+00:00",
+      "summary": "A saúde mental comunitária é uma mudança de paradigma que exige investimento, estabilidade das equipas, recursos materiais adequados e verdadeira interdisciplinaridade.",
+      "category": "Saúde"
+    },
+    {
+      "title": "Governados por homens de meia idade \"ancorados no Estado\"",
+      "url": "https://observador.pt/especiais/um-pais-governado-por-homens-de-meia-idade-ancorados-no-estado-o-que-revela-o-perfil-da-elite-ministerial-portuguesa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T23:03:56+00:00",
+      "summary": "Estudo da Fundação Francisco Manuel dos Santos analisou o percurso dos 507 ministros da democracia portuguesa para traçar perfil da elite que tem governado o país nos 50 anos da democracia portuguesa.",
+      "category": "Política"
+    },
+    {
+      "title": "O Algoritmo depois de Leão",
+      "url": "https://observador.pt/opiniao/o-algoritmo-depois-de-leao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T23:03:24+00:00",
+      "summary": "Há qualquer coisa de profundamente simbólico no facto de um Papa chamado Leão ter escolhido falar de inteligência artificial.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Vou contar-vos quem foi Fidel",
+      "url": "https://observador.pt/opiniao/vou-contar-vos-quem-foi-fidel/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T23:02:24+00:00",
+      "summary": "Mais importante que a iconografia do mural, o importante para as gerações futuras, é saber quem foi o homem que governou Cuba.",
+      "category": "Política"
+    },
+    {
+      "title": "Mega-central solar Sophia encolhe um terço",
+      "url": "https://observador.pt/especiais/mega-central-sophia-encolhe-um-terco-promotor-acena-com-luz-mais-barata-e-banco-de-ovelhas-para-vencer-oposicao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T23:02:10+00:00",
+      "summary": "A promoção do pastoreio na área dos painéis com foco para o apoio à ovelha merina é um dos benefícios que a Lightsource BP promete dar",
+      "category": "Mundo"
+    },
+    {
+      "title": "Porsche vendeu a Bugatti que o Grupo Volkswagen pagou",
+      "url": "https://observador.pt/2026/09/13/porsche-vendeu-a-bugatti-que-o-grupo-volkswagen-pagou/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T22:56:19+00:00",
+      "summary": "Continua a “magia” da gestão no Grupo VW, em que este perde e a Porsche parece ganhar. Agora, o construtor que vende menos de 300.000 carros por ano vendeu a Bugatti, que o grupo adquiriu em 1998.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mirassol 2×2 Vitória: veja os melhores momentos pelo Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-2x2-vitoria-veja-os-melhores-momentos-pelo-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:48:25+00:00",
+      "summary": "Gol de empate foi marcado nos acréscimos do segundo tempo",
+      "category": "Esportes"
+    },
+    {
+      "title": "Fortes chuvas em São Paulo atrapalham ato de Haddad e Alckmin",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/fortes-chuvas-em-sao-paulo-atrapalham-ato-de-haddad-e-alckmin/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:42:59+00:00",
+      "summary": "Mobilização com Alckmin e cúpula do PT era esperada como demonstração de força na reta final da campanha",
+      "category": "Clima"
+    },
+    {
+      "title": "Rock in Rio 2026: DENNIS se apresenta no Espaço Favela neste último dia",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:41:57+00:00",
+      "summary": "Rock in Rio 2026: DENNIS se apresenta no Espaço Favela neste último dia Twenty One Pilots, Halsey e Zara Larson se apresentam neste domingo (13). Como chegar no Rock in Rio de ônibus, carro ou metrô?. Festival acontece até dia 13. Veja a programação completa.. Os melhores e os piores shows do 1º final de semana; veja c",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Orgulho LGBT+: Parada colore ruas do Acre e fala de cultura, turismo e diversidade",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/09/13/orgulho-lgbt-parada-colore-ruas-de-rio-branco.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:36:59+00:00",
+      "summary": "Caminhada até o Palácio Rio Branco se encerra com show da cantora Gaby Amarantos Com muito brilho, cores coloridas e animação, a 20ª Parada do Orgulho LGBTQIAPN+ reúne diversas pessoas neste domingo (13) em desfile pelas ruas de Rio Branco. Com o tema 'Orgulho que movimenta o Acre: Cultura, Turismo, Diversidade e Empre",
+      "category": "Cultura"
+    },
+    {
+      "title": "Cade autoriza compra da Desktop pela Claro sem restrições",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cade-autoriza-compra-da-desktop-pela-claro-sem-restricoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:36:28+00:00",
+      "summary": "Parecer do órgão observou que a maior sobreposição das duas companhias acontece no mercado de banda larga fixa",
+      "category": "Economia"
+    },
+    {
+      "title": "FAM x SCP. \" A jogar com 10, o Famalicão empata com mérito.\"",
+      "url": "https://observador.pt/programas/relat-rio-de-jogo/fam-x-scp-a-jogar-com-10-o-famalicao-empata-com-merito/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T22:36:27+00:00",
+      "summary": "O Sporting empata em Famalicão e \"perde dois pontos importantes para o futuro\". Altimira é o \"capitão\" do jogo dos leões, Pedro Bondo não deixou Catamo jogar e Rofino quase anulou Luis Suárez.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Ivete Sangalo agita público em último dia de Rock in Rio 2026; veja fotos",
+      "url": "https://www.cnnbrasil.com.br/pop/musica/ivete-sangalo-agita-publico-em-ultimo-dia-de-rock-in-rio-2026-veja-fotos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:35:11+00:00",
+      "summary": "A cantora baiana foi a primeira atração do Palco Mundo no Rock in Rio e animou a plateia com seu show",
+      "category": "Cultura"
+    },
+    {
+      "title": "Detentos tentam fugir de presídio em Manaus, mas são impedidos por forças de segurança; visitas são suspensas",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/13/detentos-tentam-fugir-de-presidio-em-manaus-mas-sao-impedidos-por-forcas-de-seguranca-visitas-sao-suspensas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:33:53+00:00",
+      "summary": "Vista aérea do Complexo Penitenciário Anísio Jobim (Compaj), em Manaus Luana Borba/Rede Amazônica Detentos tentaram fugir de um dos pavilhões do Complexo Penitenciário Anísio Jobim (Compaj), em Manaus, na manhã deste domingo (13). A ação foi impedida por forças de segurança que atuaram dentro da unidade. Agentes da Sec",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ministro da Cultura de Israel quer revogar cidadania dos cineastas de \"Naza\"",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/ministro-da-cultura-de-israel-quer-revogar-cidadania-dos-cineastas-de-naza_n1765196",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T22:31:39+00:00",
+      "summary": "O ministro da Cultura israelita disse hoje que tomará medidas para revogar a cidadania dos realizadores do documentário \"Naza\", sobre massacres de civis em Gaza, que conquistou o Prémio Especial do Júri no Festival de Cinema de Veneza.",
+      "category": "Política"
+    },
+    {
+      "title": "Lívian Aragão surge com suposto novo romance em Rock in Rio; veja",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/livian-aragao-surge-com-suposto-novo-romance-em-rock-in-rio-veja/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:30:10+00:00",
+      "summary": "Registros deste último sábado (12) mostram a artista em clima de romance",
+      "category": "Clima"
+    },
+    {
+      "title": "Flamengo vence o Corinthians e reassume a liderança do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-vence-o-corinthians-e-reassume-a-lideranca-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:28:57+00:00",
+      "summary": "Debaixo de uma chuva contínua, Rubro-Negro supera o time reserva do Timão por 2 a 1 com gols marcados no segundo tempo.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Operação traz medicamento “urgente” para tratamento de Lito Sousa",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-traz-medicamento-urgente-para-tratamento-de-lito-sousa/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:25:01+00:00",
+      "summary": "Substância experimental ALN-6457, que apresenta potencial terapêutico que diminui com o tempo, foi despachada em minutos no Aeroporto Internacional de Guarulhos",
+      "category": "Clima"
+    },
+    {
+      "title": "Manaus terá interrupção de energia nesta segunda-feira (14); veja locais e horários",
+      "url": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/09/13/manaus-tera-interrupcao-de-energia-nesta-segunda-feira-14-veja-locais-e-horarios.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:21:12+00:00",
+      "summary": "Bairros de Manaus ficam sem energia Divulgação Manaus terá interrupções programadas de energia elétrica em diferentes bairros nesta segunda-feira (14). Segundo a Âmbar Energia Amazonas, os desligamentos serão realizados para serviços de manutenção e melhoria na rede elétrica. Os trabalhos estão previstos para ocorrer e",
+      "category": "Esportes"
+    },
+    {
+      "title": "\"Traição\" de Adzic impõe primeira derrota à Juventus",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/traicao-de-adzic-impoe-primeira-derrota-a-juventus_d1765195",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T22:20:11+00:00",
+      "summary": "Um golo do montenegrino Vasilije Adzic, emprestado pela Juventus, impôs hoje a primeira derrota à equipa de Turim na Liga italiana de futebol, ao marcar, aos 90+4 minutos, o triunfo do Sassuolo, por 3-2, em jogo da quarta jornada.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Comer olhando o celular pode atrapalhar a saciedade e fazer você comer mais depois",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/comer-olhando-o-celular-pode-atrapalhar-a-saciedade-e-fazer-voce-comer-mais-depois/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:18:05+00:00",
+      "summary": "Especialistas explicam como as telas durante as refeições podem afetar a percepção de fome, aumentar o consumo automático e até influenciar escolhas alimentares",
+      "category": "Mundo"
+    },
+    {
+      "title": "\"Temos de estar 98 minutos ligados, não ter facilitismos\"",
+      "url": "https://observador.pt/2026/09/13/temos-de-estar-98-minutos-ligados-a-corrente-nao-entrar-em-facilitismos-as-explicacoes-de-rui-borges-depois-do-empate/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T22:17:27+00:00",
+      "summary": "Rui Borges deixou Rodrigo Zalazar no banco e só lançou o uruguaio na segunda parte",
+      "category": "Esportes"
+    },
+    {
+      "title": "Atleta de jiu-jitsu morre eletrocutado em acidente doméstico no Ceará",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/13/atleta-de-jiu-jitsu-morre-eletrocutado-no-ceara.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:17:00+00:00",
+      "summary": "Atleta de jiu-jitsu morre eletrocutado em acidente doméstico no Ceará. Redes sociais/Reprodução Lucas Fernandes da Silva morreu, neste domingo (13), após sofrer um choque elétrico em Sobral, na região norte do Ceará. Lucas, que tinha 33 anos, era atleta de jiu-jitsu. O acidente aconteceu na casa onde ele morava com a f",
+      "category": "Esportes"
+    },
+    {
+      "title": "DTV+: Globo ganha prêmio no IBC, um dos principais eventos globais de tecnologia e inovação",
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/09/13/dtv-globo-premio-ibc.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:16:51+00:00",
+      "summary": "A Globo foi premiada neste domingo (13) no IBC (International Broadcasting Convention), um dos principais eventos globais de tecnologia e inovação, em Amsterdã, na Holanda. O prêmio de inovação foi conquistado na categoria \"Conteúdo em Todos os Lugares\", com a implementação da DTV+ no Brasil. 📱Favorite o g1 no Google e",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Pagamentos de Vorcaro: o que há na ação que Moraes pede quebra de sigilo",
+      "url": "https://www.cnnbrasil.com.br/politica/pagamentos-de-vorcaro-o-que-ha-na-acao-que-moraes-pede-quebra-de-sigilo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:14:00+00:00",
+      "summary": "Analista de política Gustavo Uribe explica, no CNN Agora, o que tem no processo que Alexandre de Moraes quer ter acesso antes da sessão de terça-feira no STF",
+      "category": "Política"
+    },
+    {
+      "title": "'Cinderela do Rock in Rio': mulher que perdeu sapato rosa-choque no festival resgata o calçado",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/cinderela-rock-in-rio-resgate-calcado.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:13:54+00:00",
+      "summary": "'Cinderela do Rock in Rio' que perdeu sapato no festival encontra o calçado Enfim, o reencontro. Após dias buscando informações sobre os sapatos que perdeu durante o Rock in Rio, Giullia Pessanha finalmente conseguiu resgatar o calçado. O sapato plataforma rosa-choque havia sido encontrado pela equipe de sustentabilida",
+      "category": "Cultura"
+    },
+    {
+      "title": "Saiba quando saem os gabaritos do Enamed e do Revalida",
+      "url": "https://www.cnnbrasil.com.br/educacao/saiba-quando-saem-os-gabaritos-do-enamed-e-do-revalida/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:12:00+00:00",
+      "summary": "Enamed, que avalia cursos de medicina, e Revalida, para a revalidação de diplomas médicos obtidos no exterior foram aplicados neste domingo (13)",
+      "category": "Saúde"
+    },
+    {
+      "title": "Joelma muda letra de 'Príncipe Encantado', canta música para Jesus e bate cabelo com Vivi Batidão no Rock in Rio",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/joelma-muda-letra-de-principe-encantado-canta-musica-para-jesus-e-bate-cabelo-com-vivi-batidao-no-rock-in-rio.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:10:25+00:00",
+      "summary": "Joelma canta “A Lua Me Traiu” Aos 50 anos, Joelma chegou ao Palco Sunset neste domingo (13) para sua estreia no Rock in Rio, depois de mais de três décadas de carreira. HORÁRIOS ROCK IN RIO: Confira a programação completa GALERIA: Veja fotos dos shows do último dia Famosos curtem último dia; veja imagens Subiu ao palco",
+      "category": "Cultura"
+    },
+    {
+      "title": "Caso Master: BRB afirma ter sido \"vítima de atos criminosos\" e que promoveu \"renovação total\" dos dirigentes",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/13/caso-master-brb-afirma-que-foi-vitima-de-atos-criminosos-e-que-promoveu-renovacao-total-dos-dirigentes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:09:40+00:00",
+      "summary": "O Banco de Brasília (BRB) se manifestou sobre documentos divulgados com a quebra de sigilo da Operação Compliance Zero, que investiga fraudes bilionárias ligadas ao Banco Master, de Daniel Vorcaro. Em nota enviada neste domingo (13), o BRB afirmou que a divulgação é uma oportunidade de mostrar que a instituição foi \"ví",
+      "category": "Esportes"
+    },
+    {
+      "title": "Moraes pede nova quebra de sigilo sobre Master antes de sessão desta terça; Fachin aciona PGR",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/13/moraes-pede-nova-quebra-de-sigilo-sobre-master-antes-de-sessao-desta-terca-fachin-aciona-pgr.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:07:59+00:00",
+      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), pediu ao presidente da Corte, Edson Fachin, a quebra do sigilo de um dos inquéritos sobre o caso Master antes do julgamento marcado para esta terça-feira (15). Moraes afirma que \"elementos essenciais\" para o julgamento não foram tornadas públicas pelo m",
+      "category": "Política"
+    },
+    {
+      "title": "Nota cancelada e falta de estrutura: indícios investigados no caso do ICB",
+      "url": "https://www.cnnbrasil.com.br/politica/nota-cancelada-e-falta-de-estrutura-indicios-investigados-no-caso-do-icb/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:07:42+00:00",
+      "summary": "Ministro Flávio Dino determinou quebra de sigilo do material produzido pela Polícia Civil de São Paulo sobre investigação em relação ao \"Wi-Fi Livre\", prestado pela ONG",
+      "category": "Política"
+    },
+    {
+      "title": "Venezuela. Oikos conclui distribuição de ajuda humanitária",
+      "url": "https://observador.pt/2026/09/13/sismo-oikos-conclui-distribuicao-de-ajuda-humanitaria-a-luso-venezuelanos-afetados/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T22:05:21+00:00",
+      "summary": "A ONG portuguesa Oikos concluiu a missão de distribuição de ajuda humanitária a luso-venezuelanos afetados pelo sismo de 24 de junho na Venezuela. Foram distribuídos mais de três mil kits.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Boom de data centers cria novo mercado lucrativo para advogados nos EUA",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/boom-de-data-centers-cria-novo-mercado-lucrativo-para-advogados-nos-eua/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:03:28+00:00",
+      "summary": "Juristas faturam com expansão do mercado de tecnologia enquanto comunidades e empresas travam disputas legais por todo país",
+      "category": "Economia"
+    },
+    {
+      "title": "Pai e filho juntam cachaça e café em bebida produzida no interior do Acre: ‘Genuinamente acreana’",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/09/13/pai-e-filho-juntam-cachaca-e-cafe-em-bebida-produzida-no-interior-do-acre-genuinamente-acreana.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:02:00+00:00",
+      "summary": "Pai e filho juntam cachaça e café em bebida produzida no Acre Café para acordar, cachaça para... bom, cada um sabe. Em Acrelândia, no interior do Acre, pai e filho resolveram juntar os dois em uma só garrafa. Aloísio Júnior, de 32 anos, e Aloísio David de Oliveira, de 67, estão há nove anos no ramo da cachaça e decidir",
+      "category": "Mundo"
+    },
+    {
+      "title": "Setlist da Halsey no Rock in Rio: veja como deve ser show da cantora no festival",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/setlist-da-halsey-no-rock-in-rio-veja-como-deve-ser-show-da-cantora-no-festival.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T22:00:00+00:00",
+      "summary": "Halsey se apresenta no Rock in Rio no dia 13 de setembro Divulgação A cantora americana Halsey se apresenta no Palco Mundo do Rock in Rio neste domingo (13). Ela não vinha ao Brasil desde 2023 e deve incluir sucessos de várias fases, incluindo os discos \"The Great Impersonator\", \"Badlands\" e mais. Veja, abaixo, o prová",
+      "category": "Cultura"
+    },
+    {
+      "title": "FAM x SCP. \"Inácio está a passar um mau bocado.\"",
+      "url": "https://observador.pt/programas/relat-rio-de-jogo/fam-x-scp-inacio-esta-a-passar-um-mau-bocado/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T21:59:14+00:00",
+      "summary": "No empate do Sporting, \"faltou a Rui Borges a quinta substituição\". João Castro acredita que o treinador \"pagou caro\" por não ter posto mais um médio e atira: \"tem de começar a ler melhor o jogo\".",
+      "category": "Esportes"
+    },
+    {
+      "title": "Sociedade Portuguesa de Matemática faz propostas",
+      "url": "https://observador.pt/2026/09/13/sociedade-portuguesa-de-matematica-faz-propostas-para-melhorar-resultados/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T21:59:11+00:00",
+      "summary": "Sociedade Portuguesa de Matemática (SPM) propôs criação de programas curriculares coerentes, metas curriculares difere e a transformação das provas ModA em provas com peso na classificação dos alunos.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Paris Saint-Germain vence pela primeira vez, Lille sobe à liderança em França",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/paris-saint-germain-vence-pela-primeira-vez-lille-sobe-a-lideranca-em-franca_d1765193",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T21:52:04+00:00",
+      "summary": "O pentacampeão Paris Saint-Germain conseguiu, em Brest, à quarta jornada, a sua primeira vitória na Liga francesa de futebol, numa ronda que marcou a subida do Lille à liderança, com os mesmos 10 pontos de Mónaco e Rennes.",
+      "category": "Esportes"
+    },
     {
       "title": "Procissão da Senhora da Pena. \"Maior andor do mundo\" carregado por 110 homens",
       "url": "https://www.rtp.pt/noticias/cultura/procissao-da-senhora-da-pena-maior-andor-do-mundo-carregado-por-110-homens_v1765192",
@@ -29,6 +389,15 @@
       "category": "Ciência & Tech"
     },
     {
+      "title": "Veja como foi o fim de semana dos candidatos a presidente",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-o-final-de-semana-dos-candidatos-presidente",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T21:12:00+00:00",
+      "summary": "A agenda dos candidatos à Presidência da República neste fim de semana incluiu atos de campanha, caminhadas, reuniões, entrevistas e gravações para programas de televisão. Entre os temas abordados estiveram as investigações envolvendo o Banco Master, a atuação do Supremo Tribunal Federal (STF), segurança pública, comba",
+      "category": "Política"
+    },
+    {
       "title": "Gulbenkian financiou projeto de reabilitação de fortaleza portuguesa no estreito de Ormuz",
       "url": "https://www.rtp.pt/noticias/cultura/gulbenkian-financiou-projeto-de-reabilitacao-de-fortaleza-portuguesa-no-estreito-de-ormuz_v1765189",
       "source": "RTP Notícias",
@@ -47,6 +416,15 @@
       "category": "Mundo"
     },
     {
+      "title": "Ex-ministros e sociedade civil divulgam carta em apoio a Fachin",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/ex-ministros-e-sociedade-civil-divulgam-carta-em-apoio-fachin",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T21:07:00+00:00",
+      "summary": "Um grupo de ex-ministros de Estado, economistas, empresários e integrantes da sociedade civil divulgaram uma carta neste domingo (13) em apoio ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin. A carta fala em apoio às medidas tomadas por Fachin até o momento, “com o objetivo de preservar a autorid",
+      "category": "Política"
+    },
+    {
       "title": "O Segredo do Algoritmo. Poderá a IA realizar ataques sem conhecimento de humanos?",
       "url": "https://www.rtp.pt/noticias/mundo/o-segredo-do-algoritmo-podera-a-ia-realizar-ataques-sem-conhecimento-de-humanos_v1765186",
       "source": "RTP Notícias",
@@ -56,30 +434,12 @@
       "category": "Ciência & Tech"
     },
     {
-      "title": "Polícia prende homem suspeito de tentar matar companheira a mordidas no RJ",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-prende-homem-suspeito-de-tentar-matar-companheira-a-mordidas-no-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:41:55+00:00",
-      "summary": "Polícia civil da 66ª DP em Magé efetuou a prisão em flagrante de um agressor com extensa ficha criminal horas após o ataque",
-      "category": "Mundo"
-    },
-    {
       "title": "Vida de professor. Docentes de quatro gerações contam como encaram a profissão",
       "url": "https://www.rtp.pt/noticias/pais/vida-de-professor-docentes-de-quatro-geracoes-contam-como-encaram-a-profissao_v1765185",
       "source": "RTP Notícias",
       "region": "Portugal",
       "publishedAt": "2026-09-13T20:40:47+00:00",
       "summary": "No arranque do ano letivo, uma equipa da RTP reuniu quatro professores de gerações diferentes. Explicam como encaram a profissão e como estão a preparar os próximos meses.",
-      "category": "Mundo"
-    },
-    {
-      "title": "As notícias das 21h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1756/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T20:39:00+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
@@ -92,256 +452,13 @@
       "category": "Esportes"
     },
     {
-      "title": "Jovem morre em acidente na BR-353 em Mucajaí",
-      "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/13/jovem-morre-em-acidente-na-br-353-em-mucajai.ghtml",
-      "source": "G1",
+      "title": "Mendonça cita risco às investigações com dados de celular de Vorcaro",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-cita-risco-investigacoes-com-dados-de-celular-de-vorcaro",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T20:32:37+00:00",
-      "summary": "Corpo foi removido pelo Instituto Médico Legal de Roraima. iml rr, iml boa vista, rabecão iml Polícia Civil/Divulgação/Arquivo O autônomo Valderi Pereira dos Santos, de 21 anos, morreu em um acidente de trânsito na BR-353, a cerca de 1 km da Vila do Roxinho, em Mucajaí, ao Sul de Roraima. O acidente ocorreu na noite de",
-      "category": "Saúde"
-    },
-    {
-      "title": "RJ1 faz série de entrevistas com candidatos ao governo do RJ; veja datas e como assistir",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/13/rj1-globo-serie-de-entrevistas-com-candidatos-ao-governo-do-rj-veja-datas-e-como-assistir.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:32:37+00:00",
-      "summary": "O RJ1 realiza, de segunda (14) a quarta (16), uma série de entrevistas com candidatos ao governo de Rio de Janeiro nas eleições de 2026. As conversas serão exibidas ao vivo diretamente do estúdio do telejornal, na Zona Sul do Rio. A Globo convidou os três candidatos mais bem colocados na pesquisa Datafolha do dia 11 de",
+      "publishedAt": "2026-09-13T20:35:00+00:00",
+      "summary": "O ministro do Supremo Tribunal Federal (STF) André Mendonça afirmou, neste domingo (13), que disponibilizar aos colegas de Corte todos os dados do telefone celular do ex-banqueiro Daniel Vorcaro contribuiria para “tumultuar o julgamento” marcado para a próxima terça-feira (15) e colocar as investigações em risco. Na da",
       "category": "Política"
-    },
-    {
-      "title": "Setembro Verde: morador de Araxá autoriza doação de órgãos da esposa para ajudar outras pessoas",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/13/setembro-verde-morador-de-araxa-autoriza-doacao-de-orgaos-da-esposa-para-ajudar-outras-pessoas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:31:01+00:00",
-      "summary": "Lílian Raquel Duarte da Silva morreu aos 49 anos Adriano Duarte / Divulgação Depois de 31 anos ao lado da esposa, o técnico de projetos Adriano Duarte da Silva, de 53 anos, precisou tomar uma decisão difícil: autorizar a doação dos órgãos dela. Lílian Raquel Duarte da Silva tinha 49 anos quando faleceu, vítima de um AV",
-      "category": "Cultura"
-    },
-    {
-      "title": "Após 2 semanas de internação, filhos de Cazarré visitam irmã no hospital",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/apos-2-semanas-de-internacao-filhos-de-cazarre-visitam-irma-no-hospital/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:30:45+00:00",
-      "summary": "Ator registrou o encontro em família no hospital e recebeu mensagens de apoio dos seguidores",
-      "category": "Saúde"
-    },
-    {
-      "title": "Dia de Nossa Senhora das Dores será celebrado com missas e barraquinhas em Divinópolis; veja a programação",
-      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/13/dia-de-nossa-senhora-das-dores-sera-celebrado-com-missas-e-barraquinhas-em-divinopolis-veja-a-programacao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:30:00+00:00",
-      "summary": "Igreja matriz que leva o nome da padroeira está localizada na rua Argentina, n° 431, no Bairro Nações Mariana Gonçalves/g1 O Dia de Nossa Senhora das Dores celebrado na terça-feira (15) será comemorado com missas, barraquinhas e procissão em Divinópolis. A igreja matriz que leva o nome da padroeira está localizada na r",
-      "category": "Mundo"
-    },
-    {
-      "title": "Segurança digital, inteligência artificial e dados e computação em nuvem são temas de cursos gratuitos oferecidos para todo o Brasil",
-      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/13/seguranca-digital-inteligencia-artificial-e-dados-e-computacao-em-nuvem-sao-temas-de-cursos-gratuitos-oferecidos-para-todo-o-brasil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:30:00+00:00",
-      "summary": "Cursos online - Imagem ilustrativa Divulgação/MCTIC Estão abertas e vão até 30 de dezembro as inscrições para os cursos 'Proteja-se no Digital', 'Inteligência Artificial Aplicada' e 'Gerenciamento de Dados e Computação em Nuvem'. Ao todo, são 10 mil vagas gratuitas. Confira mais abaixo detalhes sobre quem pode particip",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Ex-ministros, juristas e empresários assinam carta de apoio a Fachin em meio à crise no STF",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/13/ex-ministros-juristas-e-empresarios-assinam-carta-de-apoio-a-fachin-em-meio-a-crise-no-stf.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:28:26+00:00",
-      "summary": "Decisões de Edson Fachin foram notícia na imprensa internacional Getty Images via BBC Um grupo de autoridades, incluindo ex-ministros dos governos Fernando Henrique Cardoso, Lula e Dilma Rousseff, juristas, empresários e líderes da sociedade civil, assinou uma carta em apoio ao presidente do Supremo Tribunal Federal (S",
-      "category": "Política"
-    },
-    {
-      "title": "Rock in Rio 2026: Ivete Sangalo se apresenta no Palco Mundo neste último dia",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:28:00+00:00",
-      "summary": "Rock in Rio 2026: Ivete Sangalo se apresenta no Palco Mundo neste último dia Twenty One Pilots, Halsey e Zara Larson se apresentam neste domingo (13). Como chegar no Rock in Rio de ônibus, carro ou metrô?. Festival acontece até dia 13. Veja a programação completa.. Os melhores e os piores shows do 1º final de semana; v",
-      "category": "Cultura"
-    },
-    {
-      "title": "“A Nobreza do Amor”: Dumi vive seus últimos momentos com Kênia",
-      "url": "https://www.cnnbrasil.com.br/pop/tv/a-nobreza-do-amor-dumi-vive-seus-ultimos-momentos-com-kenia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:27:00+00:00",
-      "summary": "Após ser preso, personagem vive momento com Kênia dentro de sua cela",
-      "category": "Mundo"
-    },
-    {
-      "title": "Montanha de dinheiro: suspeito de comandar finanças de grupo investigado por agiotagem disse em vídeo que dinheiro ‘corre atrás’ dele",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/09/13/montanha-de-dinheiro-suspeito-de-comandar-financas-de-grupo-investigado-por-agiotagem-disse-em-video-que-dinheiro-corre-atras-dele.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:26:42+00:00",
-      "summary": "Montanha de dinheiro: vídeo de preso em operação contra agiotas impressiona O suspeito de comandar as finanças de um grupo investigado por agiotagem aparece em um vídeo contando uma grande quantidade de dinheiro e dizendo que, atualmente, o dinheiro “corre atrás” dele. Adailton Fernandes de Oliveira foi preso durante u",
-      "category": "Mundo"
-    },
-    {
-      "title": "Viveros ultrapassa Luis Suárez na artilharia histórica do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/viveros-ultrapassa-luis-suarez-na-artilharia-historica-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:26:42+00:00",
-      "summary": "Colombiano marca pela 18ª vez e supera uruguaio em lista de estrangeiros com mais gols em uma mesma edição do campeonato",
-      "category": "Esportes"
-    },
-    {
-      "title": "Perícia de SP recusou aparelhos do caso Dark Horse por falhas na lacração",
-      "url": "https://www.cnnbrasil.com.br/politica/pericia-de-sp-recusou-aparelhos-do-caso-dark-horse-por-falhas-na-lacracao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:26:02+00:00",
-      "summary": "Ao todo foram recusados cinco celulares, 13 pendrives e nove notebooks apreendidos em 1º de junho",
-      "category": "Mundo"
-    },
-    {
-      "title": "Pedidos de primeira CNH em Sergipe crescem 261% entre janeiro e agosto em comparação com mesmo período de 2025",
-      "url": "https://g1.globo.com/se/sergipe/noticia/2026/09/13/pedidos-de-primeira-cnh-em-sergipe-crescem-261percent-entre-janeiro-e-agosto-em-comparacao-com-mesmo-periodo-de-2025.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:25:51+00:00",
-      "summary": "Novas regras para quem vai tirar a Carteira Nacional de Habilitação (CNH) em Mato Grosso Reprodução O número de pedidos para a primeira habilitação em Sergipe foi de 59.776 entre janeiro e agosto de 2026, informou o Departamento Estadual de Trânsito de Sergipe (Detran/SE). O número representa uma variação de 261% em re",
-      "category": "Cultura"
-    },
-    {
-      "title": "Polícia prende homem suspeito de estuprar enteados de 14 e 10 anos em São Roque",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/13/policia-prende-homem-suspeito-de-estuprar-enteados-de-14-e-10-anos-em-sao-roque.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:25:50+00:00",
-      "summary": "Delegacia de São Roque (SP) São Roque Notícias/Divulgação Um homem de 31 anos foi preso neste sábado (12), suspeito de estuprar uma menina de 14 anos e um menino de 10 anos, em São Roque (SP). Segundo a Polícia Civil, o homem foi preso durante o cumprimento de um mandado de prisão preventiva no Jardim Santa Vitória, no",
-      "category": "Mundo"
-    },
-    {
-      "title": "Livre acusa Governo de \"condicionar\" Parlamento ao anunciar descida do IRS e bónus nas pensões",
-      "url": "https://www.rtp.pt/noticias/politica/livre-acusa-governo-de-condicionar-parlamento-ao-anunciar-descida-do-irs-e-bonus-nas-pensoes_v1765182",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T20:25:47+00:00",
-      "summary": "O Livre acusa o Governo de estar a condicionar o trabalho do Parlamento com os anúncios da descida do IRS e do bónus das pensões. Na rentrée do partido, Isabel Mendes Lopes garantiu que o Livre vai apresentar propostas para o próximo Orçamento do Estado.",
-      "category": "Política"
-    },
-    {
-      "title": "Mais de dois mil professores meteram baixa na última semana",
-      "url": "https://www.rtp.pt/noticias/pais/mais-de-dois-mil-professores-meteram-baixa-na-ultima-semana_v1765181",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T20:23:47+00:00",
-      "summary": "As aulas começam esta semana para a maioria dos alunos do primeiro ao nono anos. Foram colocados cerca de 20 mil professores, mas há muitos horários por preencher.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lituânia confunde pássaros com drones e leva Otan a acionar caças",
-      "url": "https://www.cnnbrasil.com.br/internacional/lituania-confunde-passaros-com-drones-e-leva-otan-a-acionar-cacas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:22:23+00:00",
-      "summary": "Alerta aéreo foi suspenso e o aeroporto foi reaberto após 38 minutos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Imigrantes em Portugal falam em clima de medo e insegurança crescente",
-      "url": "https://www.rtp.pt/noticias/pais/imigrantes-em-portugal-falam-em-clima-de-medo-e-inseguranca-crescente_v1765180",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T20:20:47+00:00",
-      "summary": "A PSP rejeita que haja uma caça aos imigrantes ilegais em Portugal. No entanto, a Associação Cabo-verdiana em Lisboa garante que se está a instalar um clima de medo e insegurança entre os imigrantes e entende que a PSP não foi taxativa a negar perseguições.",
-      "category": "Clima"
-    },
-    {
-      "title": "Botas, jaquetas de couro e capas de chuva: o que dominou os looks do último dia de Rock in Rio",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/looks-ultimo-dia-rock-in-rio.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:20:38+00:00",
-      "summary": "Botas foram um dos acessórios preferidos dos fãs no último dia de Rock in Rio Thaís Espírito Santo/g1 O último dia de Rock in Rio, neste domingo (13), tem sido marcado por chuva desde os primeiros momentos, como já apontava a previsão do tempo. Os looks do público precisaram ser adaptados por conta do frio e da chuva i",
-      "category": "Clima"
-    },
-    {
-      "title": "Três são presos na BA e ES por sequestrar adolescente parente de ganhador da Mega-Sena",
-      "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/09/13/tres-sao-presos-na-ba-e-es-por-sequestrar-adolescente-parente-de-ganhador-da-mega-sena.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:19:41+00:00",
-      "summary": "Operação Sorte Reversa prendeu três por sequestrar adolescente parente de ganhador da Mega-Sena no ES Divulgação/Sesp Três pessoas foram presas por sequestrarem a neta de um ganhador de R$ 99,5 milhões da Mega-Sena, uma adolescente de 16 anos, no Espírito Santo. As prisões aconteceram entre a sexta-feira (11) e este do",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Não vai ser sempre sem sofrer, sempre a marcar cedo...\"",
-      "url": "https://observador.pt/2026/09/13/nao-vai-ser-sempre-sem-sofrer-sempre-a-marcar-cedo-era-uma-ilusao-marco-silva-destaca-resiliencia-do-benfica-para-a-reviravolta/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T20:18:13+00:00",
-      "summary": "Treinador do Benfica diz que não foi surpreendido pelo esquema do Gil Vicente mas que nem tudo correu conforme pretendido. No entanto, entre elogios a Echeverri, destacou o \"acreditar até ao fim\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fórmula 1: Norris reclama de “azar absurdo” após perder vitória na Espanha",
-      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/formula-1-norris-reclama-de-azar-absurdo-apos-perder-vitoria-na-espanha/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:16:42+00:00",
-      "summary": "Piloto da McLaren liderava corrida, mas safety car virtual impediu parada e tirou chance de triunfo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Zanin manda PF entregar dados de celular de Vorcaro em seu gabinete",
-      "url": "https://www.cnnbrasil.com.br/politica/zanin-manda-pf-entregar-dados-de-celular-de-vorcaro-eu-seu-gabinete/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:15:43+00:00",
-      "summary": "A ordem foi dada após a PF informar que tem condições de fornecer cópias idênticas do material aos ministros",
-      "category": "Política"
-    },
-    {
-      "title": "Titular da Seleção chora após título sul-americano: “Primeira vez vencendo”",
-      "url": "https://www.cnnbrasil.com.br/esportes/volei/titular-da-selecao-chora-apos-titulo-sul-americano-primeira-vez-vencendo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:10:34+00:00",
-      "summary": "Central Luzia não segurou a emoção depois da conquista do Brasil neste domingo (13), que também garantiu vaga em Los Angeles 2028",
-      "category": "Esportes"
-    },
-    {
-      "title": "Psicóloga analisa efeitos da IA nas relações amorosas da Geração Z",
-      "url": "https://www.cnnbrasil.com.br/saude/psicologa-analisa-efeitos-da-ia-nas-relacoes-amorosas-da-geracao-z/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:04:57+00:00",
-      "summary": "Tecnologia já é usada por jovens para buscar apoio emocional, avaliar conflitos e até construir vínculos afetivos com chatbots",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Deputado dos EUA escapa a nado de avião que afundou em lago",
-      "url": "https://www.cnnbrasil.com.br/internacional/deputado-dos-eua-escapa-a-nado-de-aviao-que-afundou-em-lago/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:04:20+00:00",
-      "summary": "Candidato republicano a governador de Wisconsin, Tom Tiffany, sofreu ferimentos leves",
-      "category": "Mundo"
-    },
-    {
-      "title": "RJ: Motociclista é baleado durante abordagem policial em Niterói",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rj-motociclista-e-baleado-durante-abordagem-policial-em-niteroi/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T20:02:34+00:00",
-      "summary": "Jovem de 26 anos foi atingido na cabeça durante abordagem do Segurança Presente; policial que atirou foi preso em flagrante",
-      "category": "Mundo"
-    },
-    {
-      "title": "Enric Mas confirma triunfo após 21.ª etapa vencida por Tobias Halland Johannessen",
-      "url": "https://www.rtp.pt/noticias/ciclismo/enric-mas-confirma-triunfo-apos-21a-etapa-vencida-por-tobias-halland-johannessen_d1765170",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:48:32+00:00",
-      "summary": "O espanhol Enric Mas (Movistar) confirmou o triunfo na 81.ª edição da Volta a Espanha em bicicleta, o seu primeiro numa grande Volta, após a 21.ª e última etapa, vencida pelo norueguês Tobias Halland Johannessen (Uno-X).",
-      "category": "Mundo"
     },
     {
       "title": "Chuvas deixam ao menos oito mortos na Grande São Paulo",
@@ -353,24 +470,6 @@
       "category": "Clima"
     },
     {
-      "title": "Adolescente morre no rio Douro em Vila Nova de Gaia",
-      "url": "https://observador.pt/2026/09/13/adolescente-morre-no-rio-douro-em-vila-nova-de-gaia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:45:15+00:00",
-      "summary": "Adolescente de 12 anos morreu no rio Douro em Avintes, no concelho de Vila Nova de Gaia. No local estiveram 27 operacionais.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Santa Clara vence em Arouca por 2-1",
-      "url": "https://observador.pt/2026/09/13/santa-clara-vence-em-arouca-por-2-1/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:40:04+00:00",
-      "summary": "Santa Clara bateu o Arouca por 2-1 e subiu provisoriamente ao terceiro lugar do campeonato.",
-      "category": "Esportes"
-    },
-    {
       "title": "Melhor entre os melhores: Alison dos Santos é campeão do Ultimate 2026",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/melhor-entre-os-melhores-alison-dos-santos-e-campeao-do-ultimate-2026",
       "source": "Agência Brasil",
@@ -380,51 +479,6 @@
       "category": "Clima"
     },
     {
-      "title": "GNR atropelado por condutor que desrespeitou ordens",
-      "url": "https://observador.pt/2026/09/13/militar-da-gnr-atropelado-por-condutor-que-desrespeitou-ordens-em-almada/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:34:04+00:00",
-      "summary": "Um condutor de motociclo desobedeceu a uma ordem de paragem na zona da Costa da Caparica (Almada) e atropelou um militar da GNR, que sofreu ferimentos ligeiros.",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Samuel Soares, guarda-redes de equipa grande.\"",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/samuel-soares-guarda-redes-de-equipa-grande/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:33:01+00:00",
-      "summary": "Na opinião de João Pinto, os adeptos encarnados levaram a equipa à vitória. \"O Gil Vicente\" fez um grande jogo na luz, Prestianni e Pavlidis estiveram em grande e Samuel Soares foi salvador.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Oliver Solberg vence Rali do Chile",
-      "url": "https://observador.pt/2026/09/13/oliver-solberg-vence-rali-do-chile-e-toyota-conquista-10-o-titulo-mundial/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:30:56+00:00",
-      "summary": "Sueco Oliver Solberg venceu o Rali do Chile e aproximou-se da liderança do Mundial. Toyota conquista assim o 10.º título mundial de construtores.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Madrid arranca com teste de táxis áutonomos (sob supervisão)",
-      "url": "https://observador.pt/2026/09/13/madrid-arranca-com-servico-de-taxis-autonomos-sob-supervisao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:27:49+00:00",
-      "summary": "Madrid passa a figurar entre as cidades europeias que pretendem estar na linha da frente, no que respeita à introdução no mercado do serviço de táxis autónomos supervisionados",
-      "category": "Economia"
-    },
-    {
-      "title": "Liga: preços dos combustíveis a \"estrangular\" bombeiros",
-      "url": "https://observador.pt/2026/09/13/liga-diz-que-precos-dos-combustiveis-estao-a-estrangular-corporacoes-de-bombeiros/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:24:11+00:00",
-      "summary": "Liga dos Bombeiros Portugueses (LBP) diz que aumento dos combustíveis está a ter um \"impacto muito negativo\" sobre as corporações de bombeiros, que estão a ser \"estranguladas\".",
-      "category": "Economia"
-    },
-    {
       "title": "Dino aponta indícios de liderança de Mário Frias em desvio de emendas",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-aponta-indicios-de-lideranca-de-mario-frias-em-desvio-de-emendas",
       "source": "Agência Brasil",
@@ -432,33 +486,6 @@
       "publishedAt": "2026-09-13T19:22:00+00:00",
       "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino disse haver indícios de um papel de liderança do deputado federal Mário Frias no esquema criminoso de desvio de emendas parlamentares. O objetivo seria o financiamento do filme Dark Horse , uma dramatização da vida do ex-presidente Jair Bolsonaro. “Há a alusão re",
       "category": "Política"
-    },
-    {
-      "title": "Nunca desistiram dele e ele continua a recusar desistir",
-      "url": "https://observador.pt/2026/09/13/nunca-desistiram-dele-e-ele-continua-a-recusar-desistir-a-cronica-do-benfica-gil-vicente/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:16:30+00:00",
-      "summary": "No jogo mais complicado da época na Luz frente a um Gil Vicente bem montado e capaz de anular pontos fortes do Benfica, voltou a ser a magia individual de Prestianni a construir a reviravolta (3-1).",
-      "category": "Esportes"
-    },
-    {
-      "title": "PIlotos da EasyJet França adiam greve para fim de setembro",
-      "url": "https://observador.pt/2026/09/13/pilotos-da-easyjet-franca-adiam-greve-para-fim-de-setembro/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T19:13:41+00:00",
-      "summary": "Greve de pilotos marcada para domingo e segunda-feira foi suspensa. Sindicato diz que surgiu oportunidade para retomar negociações, mas mantém-se \"vigilante\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Reform recebe 84 milhões de dois milionários das 'cripto'",
-      "url": "https://observador.pt/2026/09/13/reform-recebe-84-milhoes-de-euros-em-donativos-de-bilionarios-das-criptomoedas-e-inflama-debate-sobre-contribuicoes-para-partidos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T18:55:28+00:00",
-      "summary": "Nigel Farage disse sentir-se \"honrado e humilde\" com estes donativos",
-      "category": "Mundo"
     },
     {
       "title": "Brasil é campeão do Pré-Olímpico e garante vaga em Los Angeles 2028",
@@ -495,33 +522,6 @@
       "publishedAt": "2026-09-13T15:33:00+00:00",
       "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou, neste domingo (13), a quebra de sigilo de todo o material apreendido pela polícia de São Paulo nas investigações de desvio de emendas parlamentares para financiamento do filme Dark Horse , uma dramatização da vida do ex-presidente Jair Bolsonaro. Em s",
       "category": "Política"
-    },
-    {
-      "title": "Prova que avalia formação médica ocorre neste domingo em todo país",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prova-que-avalia-formacao-medica-ocorre-neste-domingo-em-todo-pais",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:53:00+00:00",
-      "summary": "Será aplicado neste domingo (13), em todos os estados do país e no Distrito Federal, o Exame Nacional de Avaliação da Formação Médica (Enamed), que afere o aprendizado dos estudantes de medicina e avalia os cursos brasileiros de graduação na área. De acordo com edital do Enamed 2026 , a prova será aplicado em todos os ",
-      "category": "Saúde"
-    },
-    {
-      "title": "Crise institucional prejudica debate eleitoral, avaliam entidades",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/crise-institucional-prejudica-debate-eleitoral-avaliam-entidades",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:43:00+00:00",
-      "summary": "A menos de um mês do primeiro turno das eleições de 2026, a escalada da crise político-institucional ofuscou o debate sobre as propostas de campanha e os problemas estruturais brasileiros. Para entidades da sociedade civil ouvidas pela Agência Brasil , ao extrapolarem o Supremo Tribunal Federal (STF) e envolverem outra",
-      "category": "Política"
-    },
-    {
-      "title": "Conversa com o Autor, na Rádio MEC, será com Itamar Vieira Junior",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/conversa-com-o-autor-na-radio-mec-sera-com-itamar-vieira-junior",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T12:05:00+00:00",
-      "summary": "A Rádio MEC apresenta neste domingo (13), às 12h30, mais uma edição especial do Conversa com o Autor gravada diretamente da Festa Literária Internacional de Paraty (Flip 2026). Comandada por Katy Navarro, a atração traz uma entrevista com Itamar Vieira Junior , um dos principais nomes da literatura brasileira contempor",
-      "category": "Clima"
     }
   ],
   "sources": [
