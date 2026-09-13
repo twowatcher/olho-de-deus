@@ -1,293 +1,437 @@
 {
-  "updatedAt": "2026-09-13T04:42:26.741614+00:00",
+  "updatedAt": "2026-09-13T10:13:40.366405+00:00",
   "items": [
     {
-      "title": "4h Barricadas no arranque da campanha para as eleições em São Tomé e Príncipe",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-barricadas-no-arranque-da-campanha-para-as-eleicoes-em-sao-tome-e-principe_a1_1765096",
+      "title": "Sara Barros Leitão conta história da despenalização do aborto com histórias de quem o viveu",
+      "url": "https://www.rtp.pt/noticias/cultura/sara-barros-leitao-conta-historia-da-despenalizacao-do-aborto-com-historias-de-quem-o-viveu_n1765122",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T04:32:02+00:00",
+      "publishedAt": "2026-09-13T10:47:00+00:00",
+      "summary": "A atriz, dramaturga e encenadora Sara Barros Leitão vai estrear na sexta-feira, em Braga, o monólogo \"Nós, Sozinhas\", para circular pelo país nos próximos meses e contribuir para a discussão que antecipa os 20 anos da despenalização do aborto.",
+      "category": "Mundo"
+    },
+    {
+      "title": "10h Países emergentes defendem um crescimento económico mundial inclusivo e multilateral",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-paises-emergentes-defendem-um-crescimento-economico-mundial-inclusivo-e-multilateral_a1_1765121",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T10:32:02+00:00",
       "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal foi 18.º produtor e 13.º exportador de calçado a nível global em 2025",
+      "url": "https://www.rtp.pt/noticias/economia/portugal-foi-18o-produtor-e-13o-exportador-de-calcado-a-nivel-global-em-2025_n1765119",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T10:13:12+00:00",
+      "summary": "Portugal subiu em 2025 ao 18.º lugar entre os maiores produtores mundiais de calçado e ocupou a 13.ª posição entre os principais exportadores em valor, mantendo o 2.º lugar entre os produtores europeus e consolidando a ultrapassagem a Espanha.",
+      "category": "Economia"
+    },
+    {
+      "title": "Putin defende reforço das capacidades do Novo Banco de Desenvolvimento dos BRICS",
+      "url": "https://www.rtp.pt/noticias/economia/putin-defende-reforco-das-capacidades-do-novo-banco-de-desenvolvimento-dos-brics_n1765117",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T10:12:41+00:00",
+      "summary": "O Presidente da Rússia, Vladimir Putin, defendeu hoje o fortalecimento das capacidades do Novo Banco de Desenvolvimento dos BRICS, já que as necessidades de financiamento superam significativamente os volumes que atualmente a instituição financeira fornece.",
       "category": "Política"
     },
     {
-      "title": "3h CCP acusa Estado de falhar compromissos do acordo de valorização salarial",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ccp-acusa-estado-de-falhar-compromissos-do-acordo-de-valorizacao-salarial_a1_1765095",
+      "title": "Guterres diz que mundo \"precisa de paz\" perante líderes da Rússia e do Irão",
+      "url": "https://www.rtp.pt/noticias/mundo/guterres-diz-que-mundo-precisa-de-paz-perante-lideres-da-russia-e-do-irao_n1765116",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T04:31:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-09-13T10:04:26+00:00",
+      "summary": "O secretário-geral da ONU sublinhou hoje a necessidade de pôr fim aos conflitos mundiais, perante os líderes da Rússia, Irão, Emirados Árabes Unidos e da China, reunidos na cimeira dos BRICS, na Índia.",
       "category": "Mundo"
     },
     {
-      "title": "Naufrágio deixa mais de 30 desaparecidos em Vanuatu, no Pacífico",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/13/naufragio-deixa-mais-de-30-desaparecidos-em-vanuatu-no-pacifico.ghtml",
+      "title": "Enfermeira goiana morre seis meses após receber diagnóstico de doença rara, diz amiga",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/09/13/enfermeira-goiana-morreu-apos-receber-o-diagnostico-de-doenca-rara-de-lito-sousa-diz-amiga.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T04:30:35+00:00",
-      "summary": "Pelo menos uma pessoa morreu e mais de 30 estavam desaparecidas neste domingo após uma balsa afundar na costa de Vanuatu, informou em nota o gabinete do primeiro-ministro Jotham Napat. As operações de busca e resgate continuavam na nação insular do Pacífico, localizada a cerca de 1.750 quilômetros a leste da Austrália,",
+      "publishedAt": "2026-09-13T10:02:43+00:00",
+      "summary": "Enfermeira goiana morre com a mesma doença rara de influenciador Lito Sousa Reprodução A enfermeira Érika Fernandes Viana, de 51 anos, diagnosticada com doença de Creutzfeldt-Jakob (DCJ), a mesma doença do influenciador Lito Sousa, do canal Aviões e Músicas, morreu seis meses após receber o diagnóstico, segundo a amiga",
+      "category": "Saúde"
+    },
+    {
+      "title": "Instituto Superior Miguel Torga promete revitalizar Baixa de Coimbra",
+      "url": "https://www.rtp.pt/noticias/pais/instituto-superior-miguel-torga-promete-revitalizar-baixa-de-coimbra_n1765113",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T10:00:47+00:00",
+      "summary": "Os cursos do Instituto Superior Miguel Torga (ISMT) vão a partir deste novo ano letivo ser ministrados parcialmente em novas instalações na Baixa de Coimbra, cedidas pela Câmara Municipal, numa estratégia que passa pela revitalização daquela zona.",
       "category": "Política"
     },
     {
-      "title": "Levante x Barcelona: horário e onde assistir ao jogo de LaLiga",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/levante-x-barcelona-horario-e-onde-assistir-ao-jogo-de-laliga/",
-      "source": "CNN Brasil",
+      "title": "Você viu? Menino morto com sinais de maus-tratos, acreana assassinada no MT, mulher morta em casa e mais",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/09/13/voce-viu-menino-morto-com-sinais-de-maus-tratos-acreana-assassinada-no-mt-mulher-morta-em-casa-e-mais.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T04:15:07+00:00",
-      "summary": "Equipes vão a campo neste domingo (13) pela 5ª rodada do Campeonato Espanhol",
+      "publishedAt": "2026-09-13T10:00:00+00:00",
+      "summary": "Confira os destaques do g1 na semana Reprodução O g1 lista as reportagens mais acessadas para você ficar por dentro de tudo que aconteceu entre 6 e 12 de setembro. Confira abaixo. 📲 Participe do canal do g1 AC no WhatsApp Avós tentaram criar menino de 3 anos que morreu com sinais de maus-tratos no Acre Menino que morre",
+      "category": "Mundo"
+    },
+    {
+      "title": "Saiba como serão as entrevistas da TV Morena com os candidatos ao governo de MS",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/13/saiba-como-serao-as-entrevistas-da-tv-morena-com-os-candidatos-ao-governo-de-ms.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T10:00:00+00:00",
+      "summary": "Eleições 2026 - Candidatos a Governador em Mato Grosso do Sul Nesta segunda-feira (14), a TV Morena começa uma série de entrevistas ao vivo com candidatos ao governo de Mato Grosso do Sul. As conversas serão realizadas durante o jornal MS1, a partir das 11h30. A apresentadora Bruna Mendes receberá um candidato por dia.",
+      "category": "Política"
+    },
+    {
+      "title": "Assista à 7ª Corrida TVLAR ao vivo",
+      "url": "https://g1.globo.com/am/amazonas/ao-vivo/assista-ao-painel-como-as-novas-tecnologias-influenciam-o-seu-voto.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:56:19+00:00",
+      "summary": "Assista à 7ª Corrida TVLAR ao vivo g1 AM acompanha a corrida na Ponte Rio Negro, em Iranduba Fique ligado! A 7ª Corrida TVLAR acontece neste domingo (13), às 6h, na Ponte Jornalista Phelippe Daou. A prova terá percursos de 5 km e 10 km.",
       "category": "Esportes"
     },
     {
-      "title": "As notícias das 5h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1564/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T04:14:02+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:06:53+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este domingo (13) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 32ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuvens.",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Paulo (SP): tempo chuvoso durante o dia e à noite",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-sao-paulo-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:06:34+00:00",
-      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para este domingo (13) para São Paulo (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chuvoso. À noite, te",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): tempo chuvoso durante o dia e à noite",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:06:18+00:00",
-      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para este domingo (13) para São Bernardo do Campo (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 16ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, te",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Santo André (SP): tempo chuvoso durante o dia e à noite",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-santo-andre-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:06:00+00:00",
-      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para este domingo (13) para Santo André (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chuvoso. À noite",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Osasco (SP): tempo chuvoso durante o dia e à noite",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-osasco-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:05:41+00:00",
-      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para este domingo (13) para Osasco (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chuvoso. À noite, tempo ch",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens a nublado com chuva no fim da manhã; tarde e noite chuvosas",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-no-fim-da-manha-tarde-e-noite-chuvosas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:05:19+00:00",
-      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para este domingo (13) para Guarulhos (SP) é de sol com muitas nuvens a nublado com chuva no fim da manhã. Tarde e noite chuvosas. As máximas são de 18ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No pe",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-o-dia-todo-muitas-nuvens-e-pancadas-de-chuva-de-manha-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:05:02+00:00",
-      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para este domingo (13) para São Gonçalo (RJ) é de sol o dia todo. Muitas nuvens e pancadas de chuva de manhã e à noite. As máximas são de 24ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da ",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens a nublado com chuva no fim da manhã; tarde e noite chuvosas",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-muitas-nuvens-a-nublado-com-chuva-no-fim-da-manha-tarde-e-noite-chuvosas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:04:46+00:00",
-      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para este domingo (13) para o Rio de Janeiro (RJ) é de sol com muitas nuvens a nublado com chuva no fim da manhã. Tarde e noite chuvosas. As máximas são de 22ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e ",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:04:29+00:00",
-      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para este domingo (13) para Nova Iguaçu (RJ) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, s",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Niterói (RJ): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-niteroi-rj-sol-o-dia-todo-muitas-nuvens-e-pancadas-de-chuva-de-manha-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:04:12+00:00",
-      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para este domingo (13) para Niterói (RJ) é de sol o dia todo. Muitas nuvens e pancadas de chuva de manhã e à noite. As máximas são de 23ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, s",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T04:03:56+00:00",
-      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para este domingo (13) para Duque de Caxias (RJ) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da ",
-      "category": "Clima"
-    },
-    {
-      "title": "Embarcação com 243 pessoas é dada como desaparecida no mar da Indonésia",
-      "url": "https://www.cnnbrasil.com.br/internacional/embarcacao-com-243-pessoas-desaparece-no-mar-da-indonesia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T03:37:03+00:00",
-      "summary": "Navio perdeu contato horas depois de zarpar de Surabaya rumo a Banjarmasin; agência de busca e salvamento já mobilizou equipes na região",
-      "category": "Mundo"
-    },
-    {
-      "title": "2h CCP não se considera obrigada a cumprir aumento no salário mínimo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ccp-nao-se-considera-obrigada-a-cumprir-aumento-no-salario-minimo_a1_1765092",
+      "title": "09h Empresários ameaçam não subir o salário mínimo porque o Estado falha nos compromissos",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-empresarios-ameacam-nao-subir-o-salario-minimo-porque-o-estado-falha-nos-compromissos_a1_1765118",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T03:22:02+00:00",
+      "publishedAt": "2026-09-13T09:52:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "4h.PSP. Sindicatos exigem negociar \"matérias que interessam\"",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2399/",
+      "title": "Casa de tenista destruída. Toalha de Roland Garros resiste",
+      "url": "https://observador.pt/2026/09/13/um-pedaco-do-tenis-mundial-a-sobreviver-a-um-missil-russo-casa-de-yastremska-foi-atacada-em-odessa-so-sobrou-uma-toalha-de-roland-garros/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T03:14:36+00:00",
-      "summary": "SPP e SINAPOL querem negociar melhoria do desenvolvimento das carreiras e melhoria dos índices remuneratórios. Ainda, Kremlin diz que encontro entre Putin e Zelensky na cimeira do G20 \"é impossível\".",
+      "publishedAt": "2026-09-13T09:47:22+00:00",
+      "summary": "Tenista ocupa atulamente o 113º lugar no ranking mundial feminino de ténis.",
       "category": "Mundo"
     },
     {
-      "title": "Celta de Vigo x Málaga: horário e onde assistir ao jogo de LaLiga",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/celta-de-vigo-x-malaga-horario-e-onde-assistir-ao-jogo-de-laliga/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T03:10:59+00:00",
-      "summary": "Equipes vão a campo neste domingo (13) pela 5ª rodada do Campeonato Espanhol",
-      "category": "Esportes"
+      "title": "Teerão denuncia que guerra bloqueia acesso dos iranianos a alimentos e medicamentos",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/teerao-denuncia-que-guerra-bloqueia-acesso-dos-iranianos-a-alimentos-e-medicamentos_n1765112",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T09:27:18+00:00",
+      "summary": "O Presidente iraniano denunciou hoje que a guerra dos EUA contra o Irão trava o acesso da população a \"alimentos e medicamentos\", referindo-se ao recrudescimento das sanções e ao bloqueio naval de Washington contra Teerão.",
+      "category": "Política"
     },
     {
-      "title": "Auxiliar de Abel Ferreira comenta suspensão do treinador no Palmeiras",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/auxiliar-de-abel-ferreira-comenta-suspensao-do-treinador-no-palmeiras/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T02:37:25+00:00",
-      "summary": "João Martins comandou o time no clássico contra o São Paulo e comparou o futebol à sociedade ao analisar punição ao treinador",
-      "category": "Esportes"
-    },
-    {
-      "title": "Santos 2 x 1 Cruzeiro: veja os melhores momentos do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-2-x-1-cruzeiro-veja-os-melhores-momentos-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T02:35:12+00:00",
-      "summary": "Jogo contou com a estreia de Everton Cebolinha pelo Peixe",
-      "category": "Esportes"
-    },
-    {
-      "title": "São Paulo: Dorival explica ausência de Calleri em jogo contra o Palmeiras",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-dorival-explica-ausencia-de-calleri-em-jogo-contra-o-palmeiras/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T02:23:46+00:00",
-      "summary": "Atacante ficou no banco de reservas e não entrou em campo na derrota tricolor por 2 a 0 pelo Brasileirão",
-      "category": "Esportes"
-    },
-    {
-      "title": "3h. Kremlin: encontro entre Putin e Zelensky \"é impossível\"",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2435/",
+      "title": "10h. CEO Anthropic pede para abrandar ritmo da tecnologia",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2465/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T02:16:15+00:00",
-      "summary": "Porta-voz do Kremlin reitera exigência de Moscovo de que encontro se realize na capital russa. Ainda, quase 100 operacionais, apoiados por cerca de 30 viaturas, combatem incêndio no concelho de Beja.",
-      "category": "Clima"
+      "publishedAt": "2026-09-13T09:19:29+00:00",
+      "summary": "A discussão começou depois um investigador da empresa Anthropic se ter demitido. Ainda, o Tribunal Constitucional pode ter falhado ao permitir a inscrição do Chega como partido político.",
+      "category": "Política"
     },
     {
-      "title": "Colocar um rolo de papel higiênico na geladeira: para que serve e por que recomendam fazer isso",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/colocar-um-rolo-de-papel-higienico-na-geladeira-para-que-serve-e-por-que-recomendam-fazer-isso/",
-      "source": "CNN Brasil",
+      "title": "Mala com duas pernas humanas é encontrada boiando no mar no litoral de SP",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/13/mala-com-duas-pernas-humanas-e-encontrada-boiando-no-mar-no-litoral-de-sp.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T02:04:06+00:00",
-      "summary": "Descubra como papel higiênico controla umidade, elimina maus odores e prolonga a conservação dos alimentos",
+      "publishedAt": "2026-09-13T09:17:09+00:00",
+      "summary": "Mala com duas pernas humanas é encontrada boiando no mar em São Vicente Reprodução g Uma mala com partes de um corpo foi encontrada na água, perto do píer de uma marina em São Vicente, no litoral de São Paulo. Segundo a Polícia Militar (PM), funcionários do estabelecimento encontraram duas pernas dentro da bagagem e ac",
+      "category": "Cultura"
+    },
+    {
+      "title": "Antes das mansões: fotos mostram como era a Riviera de São Lourenço nos anos 1980",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/13/antes-das-mansoes-fotos-mostram-como-era-a-riviera-de-sao-lourenco-nos-anos-1980.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:17:07+00:00",
+      "summary": "Riviera de São Lourenço em obras, na década de 1980 Riviera de São Lourenço ( Antes de ganhar casas de alto padrão, edifícios e se tornar endereço de famosos no litoral de São Paulo, a Riviera de São Lourenço, em Bertioga (SP), era um enorme canteiro de obras. Fotos antigas que voltaram a circular nas redes sociais mos",
       "category": "Mundo"
     },
     {
-      "title": "Santos vence Cruzeiro pelo Brasileirão em estreia de Cebolinha",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-vence-cruzeiro-pelo-brasileirao-em-estreia-de-cebolinha/",
-      "source": "CNN Brasil",
+      "title": "Há 260 anos, ilha em SP troca de donos e acumula projetos que nunca saem do papel",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/13/ha-260-anos-ilha-em-sp-troca-de-donos-e-acumula-projetos-que-nunca-saem-do-papel.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T01:59:57+00:00",
-      "summary": "Atacante jogou pela primeira vez com a camisa do Peixe neste sábado (12)",
-      "category": "Esportes"
-    },
-    {
-      "title": "Fuchs projeta jogo contra LDU: “Precisamos aprender com os erros passados”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/fuchs-projeta-jogo-contra-ldu-precisamos-aprender-com-os-erros-passados/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T01:48:24+00:00",
-      "summary": "Possível substituto de Gómez na próxima quarta (16), zagueiro destacou os principais pontos da derrota no jogo que antecedeu a “noite mágica”",
-      "category": "Esportes"
-    },
-    {
-      "title": "Defesa de Vorcaro pede filtro antes de divulgação de dados do caso Master",
-      "url": "https://www.cnnbrasil.com.br/politica/defesa-de-vorcaro-pede-filtro-antes-de-divulgacao-de-dados-do-caso-master/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T01:32:11+00:00",
-      "summary": "Advogados querem preservar informações privadas e sem relação com as investigações após retirada de sigilo de processos",
+      "publishedAt": "2026-09-13T09:17:04+00:00",
+      "summary": "Ilha Urubuqueçaba fica a 260 metros da praia Arquivo AT A cerca de 260 metros da costa de Santos, no litoral de São Paulo, a Ilha Urubuqueçaba permanece sem ocupação urbana e coberta por vegetação de Mata Atlântica. A paisagem, porém, poderia ser completamente diferente: ao longo de mais de um século, o local já teve p",
       "category": "Mundo"
     },
     {
-      "title": "Com um jogador a mais em campo, Botafogo fica no empate com o Bragantino",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/com-um-jogador-a-mais-em-campo-botafogo-fica-no-empate-com-o-bragantino/",
+      "title": "IA é fundamental para modelo de operação das empresas, diz CIO da MRV",
+      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ia-e-fundamental-para-modelo-de-operacao-das-empresas-diz-cio-da-mrv/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T01:30:57+00:00",
-      "summary": "Atacante Wallace Yan foi expulso no final do primeiro tempo após intervenção do VAR",
-      "category": "Clima"
+      "publishedAt": "2026-09-13T09:15:20+00:00",
+      "summary": "Reinaldo Sima afirma que inteligência artificial ocupa papel semelhante ao da internet há 20 anos",
+      "category": "Economia"
     },
     {
-      "title": "Madame Satã: entenda se boate por ser responsabilizada por festa de Vorcaro",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/madame-sata-entenda-se-boate-por-ser-responsabilizada-por-festa-de-vorcaro/",
+      "title": "Manchester United x City: horário e onde assistir ao jogo da Premier League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-united-x-city-horario-e-onde-assistir-ao-jogo-da-premier-league/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T01:22:19+00:00",
-      "summary": "Equipe afirma que espaço foi locado para uma produtora de eventos terceirizada, sem qualquer negociação direta com o empresário investigado",
+      "publishedAt": "2026-09-13T09:11:32+00:00",
+      "summary": "Clássico é válido pela quarta rodada do Campeonato Inglês e acontece neste domingo (13)",
+      "category": "Esportes"
+    },
+    {
+      "title": "Como usar bolas de papel alumínio e bicarbonato de sódio em água fervente para limpar talheres",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/como-usar-bolas-de-papel-aluminio-e-bicarbonato-de-sodio-em-agua-fervente-para-limpar-talheres/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:10:14+00:00",
+      "summary": "Existe um método caseiro infalível, transmitido de geração em geração, que utiliza princípios científicos simples para deixar a talheres impecáveis",
       "category": "Ciência & Tech"
     },
     {
-      "title": "2h. Quase 100 operacionais combatem incêndio em Beja",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2409/",
+      "title": "Modi alerta para risco de usar tecnologia e minerais críticos como armas entre os BRICS",
+      "url": "https://www.rtp.pt/noticias/economia/modi-alerta-para-risco-de-usar-tecnologia-e-minerais-criticos-como-armas-entre-os-brics_n1765111",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T09:06:16+00:00",
+      "summary": "O primeiro-ministro da Índia alertou hoje os líderes dos BRICS de que o uso da tecnologia e dos minerais críticos como armas geopolíticas pode fraturar a coesão do bloco, num contexto de corrida ao desenvolvimento tecnológico mundial.",
+      "category": "Política"
+    },
+    {
+      "title": "Real Sociedad x Atl. de Madrid: horário e onde assistir ao jogo de LaLiga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-sociedad-x-atl-de-madrid-horario-e-onde-assistir-ao-jogo-de-laliga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:00:25+00:00",
+      "summary": "Equipes vão a campo neste domingo (13) pela 5ª rodada do Campeonato Espanhol",
+      "category": "Esportes"
+    },
+    {
+      "title": "Twenty One Pilots no Rock in Rio: veja provável setlist para show",
+      "url": "https://www.cnnbrasil.com.br/pop/musica/twenty-one-pilots-no-rock-in-rio-veja-provavel-setlist-para-show/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:00:22+00:00",
+      "summary": "Duo é responsável por fechar as apresentações no último dia de festival",
+      "category": "Cultura"
+    },
+    {
+      "title": "Seca na Europa ameaça plantio de canola no final do verão",
+      "url": "https://www.cnnbrasil.com.br/agro/seca-freia-corrida-dos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:00:03+00:00",
+      "summary": "Condições climáticas adversas levantam dúvidas sobre o aumento da área cultivada, apesar dos preços elevados da semente oleaginosa",
+      "category": "Economia"
+    },
+    {
+      "title": "Nódulos de tireoide: Kalil e especialistas explicam quando ter atenção",
+      "url": "https://www.cnnbrasil.com.br/saude/nodulos-de-tireoide-kalil-e-especialistas-explicam-quando-ter-atencao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:00:03+00:00",
+      "summary": "Endocrinologistas explicam que apenas 5% a 10% dos nódulos são malignos e alertam para sinais que exigem atenção médica imediata",
+      "category": "Saúde"
+    },
+    {
+      "title": "Motoqueiro campeão de enduro morre na serraria da família em SC: 'Ronco da moto se cala'",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/13/motoqueiro-campeao-de-enduro-morre.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:00:00+00:00",
+      "summary": "Gian Taffarel, piloto de enduro morto em acidente em serraria Arquivo Pessoal Um acidente de trabalho na serraria da família causou a morte do piloto Gian Taffarel, de 30 anos, conhecido no motociclismo de Santa Catarina, sendo bicampeão estadual na modalidade enduro. Ele foi resgatado após ter o tórax perfurado por um",
+      "category": "Cultura"
+    },
+    {
+      "title": "'Casa das Irmãs': Como um rumor sobre sequestro de mulheres dividiu um país inteiro",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/13/casa-das-irmas-como-um-rumor-sobre-sequestro-de-mulheres-dividiu-um-pais-inteiro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:00:00+00:00",
+      "summary": "Síria deixa lista dos EUA de países que patrocinam terrorismo Foi uma batida na porta e uma ameaça velada que motivaram a professora de matemática Laya, mãe de três filhos, a deixar a Síria. Até recentemente, a mulher na casa dos 40 anos, que pediu que a DW não usasse seu nome completo por motivos de segurança, morava ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Periquito, 'furacão' e verde e branco: conheça os símbolos do Uberlândia Esporte Clube, que decide a Série D neste domingo",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/13/periquito-furacao-e-verde-e-branco-conheca-os-simbolos-do-uberlandia-esporte-clube-que-decide-a-serie-d-neste-domingo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:00:00+00:00",
+      "summary": "Estádio Juca Ribeiro em dia de jogo do UEC Reprodução/Uberlândia Esporte Clube: A história e seus personagens - Odival Ferreira Mais do que o time, os símbolos que marcam a história centenária do Uberlândia Esporte Clube estarão em evidência neste domingo (13), quando o time disputa a final da Série D do Campeonato Bra",
+      "category": "Esportes"
+    },
+    {
+      "title": "Justiça manda aluno mudar de turma após ataques racistas e de gênero contra colega de 14 anos",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/13/justica-manda-aluno-mudar-de-turma-apos-ataques-racistas-e-de-genero-contra-colega-de-14-anos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:00:00+00:00",
+      "summary": "Sede do Ministério Público do Tocantins, em Palmas MPTO/Divulgação A Justiça determinou o remanejamento imediato de um aluno investigado por praticar ataques racistas e de gênero contra uma colega de 14 anos em uma escola pública de Araguaçu, na região sul do Tocantins. A decisão é liminar, uma ordem judicial provisóri",
+      "category": "Mundo"
+    },
+    {
+      "title": "Jovem ganha festa de 15 anos surpresa em hospital de MG durante tratamento de câncer",
+      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/13/jovem-ganha-festa-de-15-anos-surpresa-em-hospital-de-mg-durante-tratamento-de-cancer.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T09:00:00+00:00",
+      "summary": "Jovem ganha festa de 15 anos surpresa em hospital de MG durante tratamento contra o câncer Realizar uma festa de 15 anos é o sonho de muitas meninas. Entre elas, estava Eloah Pedro, que foi diagnosticada com câncer aos 14 e está internada no Hospital do Câncer de Muriaé - Fundação Cristiano Varella desde junho deste an",
+      "category": "Saúde"
+    },
+    {
+      "title": "Trump defende que reunificação da Irlanda \"vai acontecer\"",
+      "url": "https://observador.pt/2026/09/13/trump-defende-que-reunificacao-da-irlanda-vai-acontecer-eventualmente/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T01:15:44+00:00",
-      "summary": "Incêndio continua a consumir montado e pasto. Combate às chamas está a ser dificultado pela dificuldade de acessos. Ainda, Jorge Pinto, porta-voz do Livre, critica atenção mediática de André Ventura.",
+      "publishedAt": "2026-09-13T08:57:14+00:00",
+      "summary": "A Irlanda do Norte esteve dividida entre duas comunidades: nacionalistas, na sua maioria católicos, que desejavam a união com o resto da Irlanda, e os unionistas, sobretudo protestantes.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Modi alerta para o risco do uso de tecnologia e de minerais",
+      "url": "https://observador.pt/2026/09/13/modi-alerta-para-o-risco-do-uso-de-tecnologia-e-de-minerais-criticos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:54:02+00:00",
+      "summary": "\"O uso da tecnologia e dos minerais críticos como armas pode tornar-se um obstáculo ao nosso [BRICS] progresso. Por esta razão, temos sublinhado a importância da inclusão na adoção da tecnologia.\"",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Portugal acerta apoio sobre arquivo militar com Moçambique em visita de Nuno Melo",
+      "url": "https://www.rtp.pt/noticias/mundo/portugal-acerta-apoio-sobre-arquivo-militar-com-mocambique-em-visita-de-nuno-melo_n1765109",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:53:05+00:00",
+      "summary": "Moçambique e Portugal pretendem reforçar a cooperação na preservação e valorização do património arquivístico militar, através de um memorando de entendimento a assinar em Maputo pelo ministro da Defesa Nacional, Nuno Melo.",
+      "category": "Política"
+    },
+    {
+      "title": "Castelo de Leiria e Sé de Lisboa nas novas sete maravilhas",
+      "url": "https://observador.pt/2026/09/13/castelo-de-leiria-e-se-de-lisboa-nas-novas-7-maravilhas-de-portugal/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:51:14+00:00",
+      "summary": "Da lista fazem também parte as ruínas romanas de São Cucufate, em Vila de Frades, o Aqueduto da Usseira, em Óbidos (Grandes Obras) e os Mercados de Olhão (Arquitetura).",
+      "category": "Economia"
+    },
+    {
+      "title": "UNEF rejeita estratégia de caça ao imigrante",
+      "url": "https://observador.pt/2026/09/13/responsavel-pela-unidade-de-estrangeiros-e-fronteiras-da-psp-rejeita-caca-ao-imigrante/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:47:31+00:00",
+      "summary": "Associações de imigrantes tinham acusado a UNEF de perseguir imigrantes e se inspirar nos Estados Unidos. João Ribeiro, responsável pela unidade de estrangeiros, refuta críticas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "“Na província não se sentia tanto a opressão do regime”",
+      "url": "https://observador.pt/programas/justica-cega/na-provincia-nao-se-sentia-tanto-a-opressao-do-regime/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:34:38+00:00",
+      "summary": "Henrique Araújo, ex-presidente do Supremo Tribunal de Justiça, recorda o período revolucionário do 25 de Abril, os primeiros tempos como juiz e as reformas que a administração da Justiça necessita.",
+      "category": "Política"
+    },
+    {
+      "title": "Responsável pela unidade de estrangeiros e fronteiras da PSP rejeita caça ao imigrante",
+      "url": "https://www.rtp.pt/noticias/pais/responsavel-pela-unidade-de-estrangeiros-e-fronteiras-da-psp-rejeita-caca-ao-imigrante_n1765098",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:32:11+00:00",
+      "summary": "O responsável pela Unidade Nacional de Estrangeiros e Fronteiras (UNEF) da PSP recusou hoje \"uma caça\" ao imigrante ilegal, considerando que a UNEF faz \"uma abordagem inteligente\" ao atuar nos locais onde existem fatores de risco.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Rússia, Ucrânia e EUA devem voltar a negociar paz em outubro",
+      "url": "https://observador.pt/liveblogs/russia-eua-e-a-ucrania-devem-voltar-a-negociar-a-paz-em-outubro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:30:59+00:00",
+      "summary": "No sábado, Zelensky admitiu encontrar-se com Putin na cimeira dos G20, em dezembro. Kremlin nega que encontro seja possível.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Miriam Toews: duas irmãs à espera do fim",
+      "url": "https://observador.pt/2026/09/13/miriam-toews-duas-irmas-a-espera-do-fim/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:19:01+00:00",
+      "summary": "No livro, a vida parece estar por um fio, e Toews trata esta delicadeza com elegância. Em todas as frases, sussurra o drama da perda, o desespero de talvez não se conseguir evitar o fim anunciado",
+      "category": "Cultura"
+    },
+    {
+      "title": "11 livros infantis para o regresso à escola",
+      "url": "https://observador.pt/2026/09/13/11-livros-infantis-para-o-regresso-a-escola/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:18:57+00:00",
+      "summary": "Do primeiro dia de escola às manhãs atribuladas com cereais pelo ar, da magia dos trabalhos de grupo à gazeta aproveitada para brincar: 11 novos livros infantis para um regresso às aulas e à rotina.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Extremamente desnecessário",
+      "url": "https://observador.pt/2026/09/13/joana-marques-culpada-ou-indecente-extremamente-desnecessario/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:18:50+00:00",
+      "summary": "Raso do início ao fim, sem um conflito, plot twist possível ou qualquer elemento-surpresa, \"Joana Marques – Culpada ou Indecente?\" é, fundamentalmente, uma repetição em loop de tudo o que já sabemos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Primeiros namoros. Falar com o filho ou esperar que conte?",
+      "url": "https://observador.pt/especiais/primeiros-namoros-falar-com-os-filhos-ou-esperar-que-eles-contem/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:18:43+00:00",
+      "summary": "Os primeiros namoros dos filhos trazem novas dúvidas para os pais: quanto devem perguntar, aconselhar, proteger ou deixar acontecer? E proibir, alguma vez é solução?",
+      "category": "Mundo"
+    },
+    {
+      "title": "Microsoft incorpora modelos de inteligência artificial Grok no Copilot",
+      "url": "https://www.rtp.pt/noticias/mundo/microsoft-incorpora-modelos-de-inteligencia-artificial-grok-no-copilot_n1765089",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T08:08:40+00:00",
+      "summary": "A Microsoft anunciou este sábado a incorporação da família de modelos de inteligência artificial (IA) Grok no seu assistente Copilot, uma integração que foi publicamente celebrada nas redes sociais pelo dono da Grok, Elon Musk.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Mega-Sena: quanto rendem R$ 85 milhões na poupança, Tesouro Direto ou CDB",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-85-milhoes-na-poupanca-tesouro-direto-ou-cdb-4/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T08:05:52+00:00",
+      "summary": "Sorteio deste domingo (13) será realizado às 11h; apostas poderiam ter sido feitas até 22h de sábado (12)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Emmy Awards: 7 recordes mais impressionantes de todos os tempos",
+      "url": "https://www.cnnbrasil.com.br/pop/emmy-awards-7-recordes-mais-impressionantes-de-todos-os-tempos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T08:00:59+00:00",
+      "summary": "Relembre marcas históricas de indicações e vitórias que ajudaram a definir a trajetória da principal premiação da televisão americana",
       "category": "Clima"
     },
     {
-      "title": "01h Incêndio em Beja combatido por mais de 130 bombeiros",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-incendio-em-beja-combatido-por-mais-de-130-bombeiros_a1_1765087",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T01:14:01+00:00",
-      "summary": "",
-      "category": "Clima"
+      "title": "Dia do Cliente: PMEs podem aumentar vendas com ações simples",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/dia-do-cliente-pmes-podem-aumentar-vendas-com-acoes-simples/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T08:00:44+00:00",
+      "summary": "Condições especiais, brindes, atendimento personalizado e comunicação nas redes sociais podem gerar resultados relevantes para pequenas e médias empresas",
+      "category": "Economia"
+    },
+    {
+      "title": "Brest x PSG: horário e onde assistir ao jogo da Ligue 1",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/brest-x-psg-horario-e-onde-assistir-ao-jogo-da-ligue-1/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T08:00:30+00:00",
+      "summary": "Equipes entram em campo neste domingo (13) pela quarta rodada do Campeonato Francês",
+      "category": "Esportes"
+    },
+    {
+      "title": "Dia da Cachaça: por que a bebida brasileira ainda exporta tão pouco",
+      "url": "https://www.cnnbrasil.com.br/agro/cachaca-busca-transformar-potencial-brasileiro-em-negocio-global/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T08:00:24+00:00",
+      "summary": "Setor aposta em produtos premium e promoção internacional para ampliar as exportações, que somaram apenas 7,95 milhões de litros em 2025 diante de uma produção de 234,4 milhões.",
+      "category": "Mundo"
     },
     {
       "title": "Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro",
@@ -308,42 +452,6 @@
       "category": "Esportes"
     },
     {
-      "title": "23h CCP acusa Estado de não estar a cumprir a sua parte",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ccp-acusa-estado-de-nao-estar-a-cumprir-a-sua-parte_a1_1765086",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T00:27:01+00:00",
-      "summary": "",
-      "category": "Cultura"
-    },
-    {
-      "title": "00h FC Porto vence Casa Pia",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-fc-porto-vence-casa-pia_a1_1765085",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T00:26:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "23h CCP acusa Estado de não estar a cumprir a sua parte",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ccp-acusa-estado-de-nao-estar-a-cumprir-a-sua-parte_a1_1765084",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T00:25:03+00:00",
-      "summary": "",
-      "category": "Cultura"
-    },
-    {
-      "title": "1h. Livre não alinha no \"jogo viciado da extrema direita\"",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2382/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T00:16:17+00:00",
-      "summary": "Jorge Pinto lembra que partido foi único da esquerda que votou contra moção de censura e critica o mediatismo de Ventura. Ainda, Kremlin diz que encontro entre Putin e Zelensky no G20 \"é impossível\".",
-      "category": "Política"
-    },
-    {
       "title": "Fachin dá 24 horas para PF enviar informações sobre celular de Vorcaro",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-da-24-horas-para-pf-enviar-informacoes-sobre-celular-de-vorcaro",
       "source": "Agência Brasil",
@@ -351,69 +459,6 @@
       "publishedAt": "2026-09-12T23:53:00+00:00",
       "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, estabeleceu o prazo de 24 horas para que a Polícia Federal (PF) envie informações sobre a custódia do material extraído do celular do ex-banqueiro Daniel Vorcaro e o estado em que ele se encontra. A petição, enviada neste sábado (12), responde ",
       "category": "Política"
-    },
-    {
-      "title": "11 de Setembro: 25 anos",
-      "url": "https://observador.pt/opiniao/11-de-setembro-25-anos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:26:36+00:00",
-      "summary": "O 11 de Setembro foi suficiente para alterar profundamente a ordem internacional. Hoje, podemos dizer que essa mudança veio, ainda que, como sempre, não nos termos dos protagonistas",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Vinte cinco anos depois do 11 de setembro, duas lições",
-      "url": "https://observador.pt/opiniao/vinte-cinco-anos-depois-do-11-de-setembro-duas-licoes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:23:53+00:00",
-      "summary": "Donald Trump, apesar de promessas de contenção na frente externa, parece determinado a voltar a aprender a lição de que ser uma grande potência não é o mesmo que ser omnipotente.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Será Luís Montenegro pior que António Costa?",
-      "url": "https://observador.pt/opiniao/sera-luis-montenegro-pior-que-antonio-costa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:22:33+00:00",
-      "summary": "A falta de Montenegro é mais grave que a de António Costa, porque Costa era do PS e o PS estava condenado. O PSD, não. O PSD salvou Portugal da bancarrota. Tinha créditos que Montenegro deitou fora.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Há 25 anos foi ontem",
-      "url": "https://observador.pt/opiniao/ha-25-anos-foi-ontem/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:20:53+00:00",
-      "summary": "No 11 de Setembro eu estava apaixonado por Nova Iorque e falava a todos desse amor. Vi-a sofrer e sofri eu à distância",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dois preços, duas escolhas: o que estamos a pagar por viver",
-      "url": "https://observador.pt/opiniao/dois-precos-duas-escolhas-o-que-estamos-a-pagar-por-viver-em-portugal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:15:38+00:00",
-      "summary": "Quando a carga fiscal penaliza o trabalho, o investimento, a mobilidade e a capacidade de consumo, chega o momento de perguntar se não estaremos a ultrapassar o limite do razoável.",
-      "category": "Economia"
-    },
-    {
-      "title": "As notícias das 00h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2418/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:15:18+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sócrates cansa-se...e já cansa",
-      "url": "https://observador.pt/opiniao/socrates-cansa-se-e-ja-cansa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T23:13:55+00:00",
-      "summary": "A lentidão da máquina judicial transformea-se num escudo, e uma pausa por cansaço merce o mesmo respeito que um verdadeiro impedimento de saúde.",
-      "category": "Saúde"
     },
     {
       "title": "Ana Sátila é ouro em etapa da Copa do Mundo de canoagem slalom",
@@ -425,24 +470,6 @@
       "category": "Mundo"
     },
     {
-      "title": "22h Leão de Ouro do Festival de Veneza para \"Woman Unknown\"",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-leao-de-ouro-do-festival-de-veneza-para-woman-unknown_a1_1765079",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T22:24:02+00:00",
-      "summary": "",
-      "category": "Cultura"
-    },
-    {
-      "title": "Arsenal vence Sunderland e tem dia perfeito na Liga inglesa",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-vence-sunderland-e-tem-dia-perfeito-na-liga-inglesa_d1765078",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T22:13:30+00:00",
-      "summary": "O campeão Arsenal teve um dia perfeito na Liga inglesa de futebol, depois de vencer fora o Sunderland, por 1-0, e ver as escorregadelas de Liverpool e Chelsea, em jogos da quarta jornada.",
-      "category": "Esportes"
-    },
-    {
       "title": "Avião da GOL faz pouso de emergência após decolagem em Goiânia",
       "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/aviao-da-gol-faz-pouso-de-emergencia-apos-decolagem-em-goiania",
       "source": "Agência Brasil",
@@ -452,15 +479,6 @@
       "category": "Economia"
     },
     {
-      "title": "Organização da marcha dos imigrantes em Lisboa lamenta ausência de políticos",
-      "url": "https://www.rtp.pt/noticias/pais/organizacao-da-marcha-dos-imigrantes-em-lisboa-lamenta-ausencia-de-politicos_n1765059",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T21:35:03+00:00",
-      "summary": "Pessoas de diversas culturas saíram hoje à rua em Lisboa numa \"marcha de celebração\", integrada no Festival Todos, que voltou a ficar marcada pela ausência de políticos, apesar dos apelos da organização e apoio da autarquia.",
-      "category": "Cultura"
-    },
-    {
       "title": "Mega-Sena sorteia prêmio acumulado de R$ 85 milhões neste domingo",
       "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-85-milhoes-neste-domingo",
       "source": "Agência Brasil",
@@ -468,24 +486,6 @@
       "publishedAt": "2026-09-12T21:25:00+00:00",
       "summary": "A Mega-Sena sorteia neste domingo (13) prêmio estimado em R$ 85 milhões. As seis dezenas do concurso 3.057 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 22h (horário de Brasília) de sábado (12) em casas lotéricas credenciadas pela Caixa em to",
       "category": "Ciência & Tech"
-    },
-    {
-      "title": "Regresso de Céline Dion. Paris recebe 26 concertos até maio de 2027",
-      "url": "https://www.rtp.pt/noticias/cultura/regresso-de-celine-dion-paris-recebe-26-concertos-ate-maio-de-2027_v1765075",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T21:22:47+00:00",
-      "summary": "Céline Dion subiu este sábado ao palco para uma série de concertos em Paris. A cidade transformou-se para receber a cantora durante dois meses. Céline Dion está há seis anos afastada dos palcos por causa de uma doença neurológica rara.",
-      "category": "Economia"
-    },
-    {
-      "title": "Festival de Cinema de Veneza. \"Woman unkown\" venceu Leão de Ouro",
-      "url": "https://www.rtp.pt/noticias/cultura/festival-de-cinema-de-veneza-woman-unkown-venceu-leao-de-ouro_v1765074",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-12T21:20:47+00:00",
-      "summary": "O filme dinamarquês \"Woman unkown\" é o vencedor do Leão de Ouro no festival de Cinema de Veneza. John Malkovich ganhou o prémio de Melhor Ator. O documentário de realizadores israelitas \"Naza\", que denuncia o genocídio na Palestina, venceu o Prémio Especial do Júri.",
-      "category": "Cultura"
     },
     {
       "title": "PGR repete pedido por acesso integral a dados de Vorcaro",
