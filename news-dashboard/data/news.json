@@ -1,400 +1,481 @@
 {
-  "updatedAt": "2026-09-13T14:22:36.102692+00:00",
+  "updatedAt": "2026-09-13T18:10:24.913318+00:00",
   "items": [
     {
-      "title": "Arouca - Santa Clara",
-      "url": "https://www.rtp.pt/noticias/desporto/arouca-santa-clara_e1765148",
+      "title": "City vence dérbi de Manchester na casa do United",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/city-vence-derbi-de-manchester-na-casa-do-united_d1765168",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T15:15:27+00:00",
-      "summary": "O Arouca recebe o Santa Clara, em jogo da jornada seis da I Liga de futebol.",
+      "publishedAt": "2026-09-13T18:51:32+00:00",
+      "summary": "O Manchester City continua com um arranque perfeito na Liga inglesa de futebol, ao vencer domingo em casa do rival Manchester United, por 1-0, em jogo da quarta jornada decidido pelo inevitável Erling Haaland.",
       "category": "Esportes"
     },
     {
-      "title": "Irão diz que acordo com Omã não leva à reabertura de Ormuz",
-      "url": "https://www.rtp.pt/noticias/mundo/irao-diz-que-acordo-com-oma-nao-leva-a-reabertura-de-ormuz_n1765142",
+      "title": "Famalicão - Sporting CP",
+      "url": "https://www.rtp.pt/noticias/desporto/famalicao-sporting-cp_e1765167",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T14:48:34+00:00",
-      "summary": "O ministro dos Negócios Estrangeiros do Irão, Abbas Araghchi, disse hoje que o acordo com Omã não vai levar à reabertura do estreito de Ormuz, pelo menos, até que os EUA retomem os seus compromissos.",
+      "publishedAt": "2026-09-13T18:37:58+00:00",
+      "summary": "O Sporting defronta fora o Famalicão, num terreno sempre complicado, e procura o triunfo que lhe permita manter a distância para o líder FC Porto, em jogo da sexta jornada da I Liga de futebol.",
+      "category": "Esportes"
+    },
+    {
+      "title": "CEO da Anthropic denuncia mentiras sobre IA e pede intervenção de governos e cidadãos",
+      "url": "https://www.rtp.pt/noticias/mundo/ceo-da-anthropic-denuncia-mentiras-sobre-ia-e-pede-intervencao-de-governos-e-cidadaos_n1765166",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T18:14:04+00:00",
+      "summary": "O cofundador e presidente executivo (CEO) da Anthropic afirmou, numa entrevista divulgada este domingo, que \"a indústria mentiu\" sobre os perigos da inteligência artificial (IA), e que governo e cidadãos devem intervir.",
       "category": "Política"
     },
     {
-      "title": "14h PS acusa o Chega de ajudar o Governo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-ps-acusa-o-chega-de-ajudar-o-governo_a1_1765146",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T14:35:02+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "Céline Dion regressou aos palcos",
-      "url": "https://www.rtp.pt/noticias/cultura/celine-dion-regressou-aos-palcos_v1765145",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T14:22:47+00:00",
-      "summary": "Trinta mil pessoas assistiram ao primeiro concerto de Céline Dion em Paris. Um espetáculo de emoções no regresso da artista aos palcos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Madeirenses e turistas participam nas tradições das vindimas",
-      "url": "https://www.rtp.pt/noticias/pais/madeirenses-e-turistas-participam-nas-tradicoes-das-vindimas_v1765144",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T14:16:48+00:00",
-      "summary": "A Festa das Vindimas, na Madeira, levou muita gente ao estreito de Câmara de Lobos. Da apanha à pisa da uva, foram muitos os que quiseram acompanhar a tradição.",
-      "category": "Política"
-    },
-    {
-      "title": "As notícias das 15h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2454/",
+      "title": "19h. Mundial feminino sub-20. Portugal vence Costa Rica",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2165/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T14:15:41+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "publishedAt": "2026-09-13T18:03:25+00:00",
+      "summary": "A equipa portuguesa venceu a Costa Rica, por 3-0, com golos de Anna Marques (2) e Carolina Tristão. Ainda, Polónia condenada escalada russa com ataques de drones.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Eleitores com deficiência ou mobilidade reduzida do interior de SP têm até esta segunda para solicitar transporte gratuito nas eleições",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/13/eleitores-com-deficiencia-solicitar-transporte-gratuito-nas-eleicoes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T18:02:32+00:00",
+      "summary": "Pessoas com deficiência ou mobilidade reduzida têm transporte gratuito para votar Eleitores de São José do Rio Preto, Sorocaba, Itapetininga, Bauru e Presidente Prudente (SP) que possuem algum tipo de deficiência ou mobilidade reduzida têm até esta segunda-feira (14) para solicitar o transporte gratuito para votar nas ",
+      "category": "Política"
+    },
+    {
+      "title": "A consagração dos \"eternos segundos\" chegou a Johannessen",
+      "url": "https://observador.pt/2026/09/13/a-consagracao-dos-eternos-segundos-chegou-a-outra-figura-johannessen-ganha-etapa-enric-mas-confirma-vitoria-na-vuelta/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T18:00:38+00:00",
+      "summary": "Movistar fez a festa com o triunfo de Enric Mas na Vuelta que quebrou um longo jejum espanhol em Grandes Voltas",
       "category": "Mundo"
     },
     {
-      "title": "Bom ano para os vinhos alentejanos",
-      "url": "https://www.rtp.pt/noticias/pais/bom-ano-para-os-vinhos-alentejanos_v1765143",
+      "title": "FC Barcelona continua imparável e soma quinta vitória na Liga espanhola",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/fc-barcelona-continua-imparavel-e-soma-quinta-vitoria-na-liga-espanhola_d1765165",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T14:14:47+00:00",
-      "summary": "Em tempo de vindimas, há quem olhe para o futuro a pensar já nas castas que melhor se podem adaptar às mudanças do clima.",
+      "publishedAt": "2026-09-13T17:59:09+00:00",
+      "summary": "O FC Barcelona manteve um início perfeito de temporada, ao vencer em casa do Levante, do treinador português Luís Castro, por 4-2, na quinta jornada da Liga espanhola de futebol.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Polícia Civil de SP solicita desde maio acesso aos dados do Coaf de instituto e produtora de 'Dark Horse'",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/13/policia-civil-de-sp-solicita-desde-maio-acesso-aos-dados-do-coaf-de-instituto-e-produtora-de-dark-horse.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:53:51+00:00",
+      "summary": "A Polícia Civil de São Paulo solicita desde maio acesso a dados do Conselho de Controle de Atividades Financeiras (Coaf) de Karina Ferreira da Gama, empresária responsável pelo Instituto Conhecer Brasil (ICB) e produtora Go Up Entertainment, responsável pelo filme \"Dark Horse\". A investigação apura se recursos públicos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Adolescente sequestrada e levada para a Bahia não era alvo inicial de plano ligado à Mega-Sena",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/13/adolescente-sequestrada-e-levada-para-a-bahia-nao-era-alvo-inicial-de-plano-ligado-a-mega-sena.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:53:45+00:00",
+      "summary": "Polícia Civil da Bahia Divulgação/Ascom-PCBA A adolescente de 16 anos encontrada na Bahia dois dias após ser sequestrada no Espírito Santo não era o alvo inicial dos criminosos, segundo apontou a investigação da Polícia Civil. O grupo pretendia sequestrar outra pessoa da família de um homem que teria ganhado um prêmio ",
+      "category": "Esportes"
+    },
+    {
+      "title": "À boleia de Anna e rumo à história: Portugal nos oitavos",
+      "url": "https://observador.pt/2026/09/13/a-boleia-de-anna-e-rumo-a-historia-portugal-vence-costa-rica-e-esta-nos-oitavos-do-mundial-sub-20/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T17:53:11+00:00",
+      "summary": "As portuguesas ainda não tinham marcado qualquer golo na competição",
+      "category": "Esportes"
+    },
+    {
+      "title": "Homem desaparecido após ser arrastado por correnteza é encontrado morto em Jandira",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/13/homem-desaparecido-apos-ser-arrastado-por-correnteza-durante-enchente-e-encontrado-morto-em-jandira.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:53:04+00:00",
+      "summary": "Dois homens desaparecem após serem arrastados por correnteza durante enchente em Jandira, na Grande SP Um dos homens que desapareceram após serem arrastados pela correnteza de um rio durante uma enchente em Jandira, na Grande São Paulo, foi encontrado morto na tarde deste domingo (13). O segundo desaparecido segue send",
       "category": "Clima"
     },
     {
-      "title": "Líderes da Escócia, País de Gales e Irlanda do Norte assinam memorando para a independência",
-      "url": "https://www.rtp.pt/noticias/mundo/lideres-da-escocia-pais-de-gales-e-irlanda-do-norte-assinam-memorando-para-a-independencia_n1765134",
+      "title": "VÍDEO: polícia encontra drogas escondidas em velocípede de bebê em Macapá",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/13/video-policia-encontra-drogas-escondidas-em-velocipede-de-bebe-em-macapa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:53:03+00:00",
+      "summary": "Polícia encontra drogas escondidas em velocípede de bebê em Macapá A polícia encontrou porções de maconha e crack escondidas em um velocípede de uma criança de 11 meses durante uma busca no Conjunto Habitacional Macapaba, na Zona Norte de Macapá. O pai foi preso em flagrante e a mãe, de 16 anos, junto com a criança, fo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Moradores de Sorocaba exibem cartazes contra transferência de elefante Sandro: ‘Sentença de morte’",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/13/moradores-de-sorocaba-exibem-cartazes-contra-transferencia-de-elefante-sandro-sentenca-de-morte.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:52:32+00:00",
+      "summary": "Famílias protestam contra transferência do elefante Sandro, em Sorocaba (SP) Thiago Ariosi/TV TEM O elefante Sandro passa, neste domingo (13), seu último fim de semana no Zoológico Municipal Quinzinho de Barros, em Sorocaba (SP), antes de ser transferido para o Santuário de Elefantes Brasil (SEB), na Chapada dos Guimar",
+      "category": "Mundo"
+    },
+    {
+      "title": "Bairros de Atibaia ficam com ruas alagadas após forte chuva",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/13/bairros-de-atibaia-ficam-com-ruas-alagadas-apos-forte-chuva.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:52:18+00:00",
+      "summary": "Chuva alaga ruas do Parque das Nações, em Atibaia As fortes chuvas que atingiram Atibaia no último sábado (12) deixaram pontos de alagamento em bairros da cidade, como Jardim Kanimar, Rio Acima, Ponte, Parque das Nações, Vila Mira, Caetetuba e Guaxinduva. Equipes da Defesa Civil estão nos locais neste domingo (13) e mo",
+      "category": "Clima"
+    },
+    {
+      "title": "17h Donald Tusk alerta para intensificação dos ataque",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/17h-donald-tusk-alerta-para-intensificacao-dos-ataque_a1_1765164",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T14:12:20+00:00",
-      "summary": "Os líderes da Escócia, País de Gales e Irlanda do Norte vão reunir-se, na segunda-feira, em Cardiff, para assinar um memorando de entendimento, que visa a independência destas regiões britânicas.",
+      "publishedAt": "2026-09-13T17:49:02+00:00",
+      "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Imagens mostram carreta ivadindo restaurante às margens da BR-110, em Monteiro, na Paraíba",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/13/imagens-mostram-carreta-ivadindo-restaurante-as-margens-da-br-110-em-monteiro-na-paraiba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:12:13+00:00",
-      "summary": "Imagens mostram carreta que atingiu restaurante às margens da BR-110, na PB Imagens de um circuito de segurança mostram o momento em que uma carreta colidiu com o muro de um restaurante e invadiu parte do estabelecimento na tarde do último sábado (12), na cidade de Monteiro, no Cariri da Paraíba. Veja as imagens acima.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Passageiro de avião com 180 pessoas que fez pouso de emergência em Goiânia diz que aeronave perdeu altitude após ouvir barulho ‘assustador’",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/09/13/passageiro-de-aviao-com-180-pessoas-que-fez-pouso-de-emergencia-em-goiania-diz-que-aeronave-perdeu-altitude-apos-ouvir-barulho-assustador.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:12:07+00:00",
-      "summary": "Avião com mais de 180 passageiros faz pouso de emergência em Goiânia Um passageiro do avião com 180 pessoas que fez um pouso de emergência em Goiânia disse que a aeronave perdeu altitude após um barulho “assustador”. Francisco Chagas, de 44 anos, contou que ouviu um forte estrondo cerca de 10 minutos após a decolagem, ",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: Inter TV Rural deste domingo, 13 de setembro de 2026",
-      "url": "https://g1.globo.com/mg/grande-minas/playlist/videos-inter-tv-rural-deste-domingo-13-de-setembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:09:28+00:00",
-      "summary": "Inter TV Rural deste domingo, 13 de setembro de 2026",
-      "category": "Mundo"
-    },
-    {
-      "title": "Casos de estelionato crescem em Rondônia e golpes pela internet avançam 79,6% em dois anos",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/09/13/casos-de-estelionato-crescem-em-rondonia-e-golpes-pela-internet-avancam-796percent-em-dois-anos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:07:21+00:00",
-      "summary": "Golpe do falso advogado: Em Rondônia OAB já registra mais de 400 casos Os golpes de estelionato estão presentes em diferentes ambientes, desde residências até a internet. Rondônia registrou 59.902 ocorrências de estelionato entre 2023 e 2025. Nesse período foram registrados 15.600 casos em 2023, 21.158 em 2024 e 23.144",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Fumaça volta a encobrir Manaus durante a madrugada; qualidade do ar chegou a nível 'péssimo'",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/13/fumaca-volta-a-encobrir-manaus-durante-a-madrugada-qualidade-do-ar-chegou-a-nivel-pessimo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:05:26+00:00",
-      "summary": "Manaus amanhece com fumaça forte e qualidade do ar chega a nível ‘péssimo’ em bairros. Reprodução Manaus voltou a registrar forte presença de fumaça na madrugada deste domingo (13). Moradores de diferentes áreas da cidade relataram a presença intensa do material no ar, principalmente nas primeiras horas do dia. Dados d",
-      "category": "Mundo"
-    },
-    {
-      "title": "Bauru mantém Campanha de Multivacinação em todas as unidades de saúde em setembro",
-      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/13/bauru-mantem-campanha-de-multivacinacao-em-todas-as-unidades-de-saude-em-setembro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:05:19+00:00",
-      "summary": "Bauru (SP) segue com campanha de multivacinação em todas as unidades de saúde Prefeitura Municipal/Divulgação A Prefeitura de Bauru (SP) mantém a Campanha de Multivacinação em todas as Unidades Básicas de Saúde (UBSs) e Unidades de Saúde da Família (USFs) ao longo do mês de setembro. A ação é um desdobramento da mobili",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Mega-Sena, concurso 3057: confira os números sorteados",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/13/mega-sena-concurso-3057-confira-os-numeros-sorteados.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:02:38+00:00",
-      "summary": "Como funciona a Mega-Sena? O sorteio do concurso 3.057 da Mega-Sena foi realizado na manhã desta domingo (13), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 84.385.864,02. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Clique aqui para seguir o canal de Loterias do g1 ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Morre Arnaldo Menezes, ex-árbitro assistente baiano que representou o Brasil na Copa do Mundo de 1998",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/13/morre-arnaldo-menezes-ex-arbitro-assistente-baiano-que-representou-o-brasil-na-copa-do-mundo-de-1998.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:02:16+00:00",
-      "summary": "Morre Arnaldo Menezes, ex-árbitro assistente baiano que representou o Brasil na Copa do Mundo de 1998 Reprodução/Redes Sociais Morreu Arnaldo Menezes Pinto Filho, ex-árbitro assistente baiano que representou a arbitragem do estado na Copa do Mundo de 1998, realizada na França. A morte foi comunicada pela Federação Bahi",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lázaro Ramos celebra 22 anos ao lado de Taís Araújo: 'Muito amor, amizade e companheirismo'",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/13/lazaro-ramos-celebra-22-anos-ao-lado-de-tais-araujo-muito-amor-amizade-e-companheirismo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:00:59+00:00",
-      "summary": "Lázaro Ramos celebra 22 anos ao lado de Taís Araújo Reprodução/Redes Sociais O ator baiano Lázaro Ramos celebrou neste domingo (13) os 22 anos de relacionamento com a atriz Taís Araújo. Nas redes sociais, ele publicou uma foto ao lado da mulher e se declarou, destacando a parceria construída ao longo de mais de duas dé",
-      "category": "Mundo"
-    },
-    {
-      "title": "Teflon, cerâmica ou usinado: qual antiaderente dura mais",
-      "url": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/13/teflon-ceramica-ou-usinado-qual-antiaderente-dura-mais.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T14:00:00+00:00",
-      "summary": "Toda panela antiaderente funciona bem no começo. A diferença aparece depois de um ano — e é aí que teflon, revestimento cerâmico e alumínio usinado se separam. Entender como cada um envelhece evita a frustração de ver a panela nova começar a grudar. Jogos de panelas com revestimento antiaderente cerâmico e marmorizado ",
-      "category": "Esportes"
-    },
-    {
-      "title": "Rúben Rodrigues e Rui Raimundo venceram o Rali da Água",
-      "url": "https://www.rtp.pt/noticias/desporto/ruben-rodrigues-e-rui-raimundo-venceram-o-rali-da-agua_v1765141",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T13:59:47+00:00",
-      "summary": "Estão cada vez mais perto de conquistar o título do Campeonato de Portugal de Ralis.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Jean Silva finaliza mexicano no UFC e se aproxima de cinturão",
-      "url": "https://www.cnnbrasil.com.br/esportes/lutas/jean-silva-finaliza-mexicano-no-ufc-e-se-aproxima-de-cinturao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:58:15+00:00",
-      "summary": "Lutador superou knockdown no primeiro round e consolidou sua posição entre os principais nomes do peso-pena no Ultimate",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ataque \"sistemático\" em curso na rede ferroviária ucraniana",
-      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/ataque-sistematico-em-curso-na-rede-ferroviaria-ucraniana_n1765139",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T13:56:54+00:00",
-      "summary": "A companhia ferroviária ucraniana alertou este domingo que está em curso um \"ataque sistemático\" à rede \"em todo o país\", após o Presidente, Volodymyr Zelensky, ter indicado que um drone russo atingiu um comboio perto da fronteira com a Polónia.",
-      "category": "Política"
-    },
-    {
-      "title": "Prefeito anuncia shows religiosos para o aniversário de Porto Velho; veja atrações",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/09/13/prefeito-anuncia-shows-religiosos-para-o-aniversario-de-porto-velho-veja-atracoes.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:54:05+00:00",
-      "summary": "Da esquerda para a direita: Bruna Karla, Fernanda Lopes e Flávio Vitor Jr. Reprodução redes sociais dos artistas O prefeito de Porto Velho, Léo Moraes (Podemos), anunciou neste sábado (12), nas redes sociais, três artistas que vão comandar os shows religiosos no aniversário de 112 anos da capital. A comemoração acontec",
-      "category": "Política"
-    },
-    {
-      "title": "Hugo Calderano é vice no WTT Macau após perder para sueco",
-      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/hugo-calderano-e-vice-no-wtt-macau-apos-perder-para-sueco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:52:30+00:00",
-      "summary": "Mesa-tenista brasileiro é superado por Truls Moregardh, o mesmo que o eliminou em Paris-2024",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lady Gaga e Michael Polansky estão “radiantes” com 1º filho, diz site",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/lady-gaga-e-michael-polansky-estao-radiantes-com-1o-filho-diz-site/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:52:15+00:00",
-      "summary": "Casal teve o primeiro filho recentemente, segundo revelou o veículo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Candidatos ao governo do AM participam de série de entrevistas na Rede Amazônica; veja datas e como assistir",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/13/candidatos-ao-governo-do-am-participam-de-serie-de-entrevistas-na-rede-amazonica-veja-datas-e-como-assistir.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:51:29+00:00",
-      "summary": "Candidatos ao Governo pelo Amazonas nas eleições 2026 DivulgaCandContas A Rede Amazônica realiza, entre esta segunda-feira (14) e quinta-feira (17), uma série de entrevistas com candidatos ao Governo do Amazonas nas eleições de 2026. As conversas serão exibidas ao vivo no Jornal do Amazonas 1ª Edição (JAM1), com duraçã",
-      "category": "Política"
-    },
-    {
-      "title": "Flávio cancela agenda de campanha no interior de SP após fortes chuvas",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-cancela-agenda-de-campanha-no-interior-de-sp-apos-fortes-chuvas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:47:42+00:00",
-      "summary": "Candidato do PL participaria de encontros com empresários e lideranças políticas em Presidente Prudente",
-      "category": "Política"
-    },
-    {
-      "title": "\"Não temos ainda instrumentos jurídicos no espaço digital\"",
-      "url": "https://observador.pt/programas/resposta-pronta/nao-temos-ainda-instrumentos-juridicos-no-espaco-digital/",
+      "title": "A crise da escola",
+      "url": "https://observador.pt/opiniao/a-crise-da-escola/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T13:46:58+00:00",
-      "summary": "José Tribolet, professor no IST, considera que não chega regular os fabricantes de IA, sendo essencial fiscalizar todo o ecossistema e atribuir responsabilidades.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "XI Jinping promete criar IA com código aberto para os países do Brics",
-      "url": "https://www.cnnbrasil.com.br/internacional/xi-jinping-promete-criar-ia-com-codigo-aberto-para-os-paises-do-brics/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:40:06+00:00",
-      "summary": "Líder chinês dominou segundo dia de discussões na cúpula do bloco; primeiro-ministro da Índia pediu que países deixem de usar tecnologia e minerais críticos como armas nas relações globais",
-      "category": "Política"
-    },
-    {
-      "title": "China e Índia disponíveis para mediar conflito entre a Rússia e a Ucrânia",
-      "url": "https://www.rtp.pt/noticias/mundo/china-e-india-disponiveis-para-mediar-conflito-entre-a-russia-e-a-ucrania_v1765138",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T13:36:11+00:00",
-      "summary": "Na Cimeira dos BRICS, China e Índia ofereceram-se como mediadores de paz para o conflito.",
+      "publishedAt": "2026-09-13T17:48:40+00:00",
+      "summary": "A escola é preciosa e insubstituível. Mas tarda a perceber que a forma como as crianças do século XXI pensam, conhecem e falam é diferente daquilo que a escola sempre imaginou.",
       "category": "Mundo"
     },
     {
-      "title": "PS aponta Fernando Alexandre como candidato a pior ministro da Educação desde o 25 de Abril",
-      "url": "https://www.rtp.pt/noticias/politica/ps-aponta-fernando-alexandre-como-candidato-a-pior-ministro-da-educacao-desde-o-25-de-abril_n1765131",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T13:33:52+00:00",
-      "summary": "O líder parlamentar do PS apontou hoje Fernando Alexandre como candidato a pior ministro da Educação desde o 25 de Abril, considerando escandaloso que haja centenas de alunos sem colocação no ensino público.",
+      "title": "Documento aponta autofaturamento de R$ 1,4 mi em contrato do WiFi Livre",
+      "url": "https://www.cnnbrasil.com.br/politica/documento-aponta-autofaturamento-de-r-14-mi-em-contrato-do-wifi-livre/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:47:07+00:00",
+      "summary": "Representação da Polícia Civil, citado pelo Ministério Público, aponta notas fiscais emitidas pelo Instituto Conhecer Brasil contra si mesmo; investigação apura se recursos do WiFi Livre SP foram usados para custear a produção do filme Dark Horse",
+      "category": "Mundo"
+    },
+    {
+      "title": "Foragido da Justiça por estupro de vulnerável é preso em Volta Redonda",
+      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/13/foragido-da-justica-por-estupro-de-vulneravel-e-preso-em-volta-redonda.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:46:53+00:00",
+      "summary": "Deam de Volta Redonda,RJ Jeniffer Marcato/TV Rio Sul Um homem, de 40 anos, que estava foragido da Justiça por estupro de vulnerável, foi preso no sábado (12) em Volta Redonda (RJ). O caso aconteceu no bairro Água Limpa. Segundo a Delegacia Especializada de Atendimento à Mulher (Deam), o suspeito, que estava foragido da",
+      "category": "Mundo"
+    },
+    {
+      "title": "Celular com marca de disparo é apreendido após morte em cachoeira de Governador Valadares",
+      "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/13/celular-com-marca-de-disparo-e-apreendido-apos-morte-em-cachoeira-de-governador-valadares.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:42:54+00:00",
+      "summary": "Dois homens são baleados em cachoeira de Governador Valadares; um morreu Um celular com uma perfuração aparentemente provocada por disparo de arma de fogo foi apreendido pela Polícia Militar durante as diligências após a morte de um adolescente de 16 anos em uma cachoeira de Governador Valadares , neste sábado (12). O ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Homem é morto a tiros dentro de bar e suspeito foge na Serra",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/13/homem-e-morto-a-tiros-dentro-de-bar-e-suspeito-foge-na-serra.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:42:41+00:00",
+      "summary": "Samuel Paradela Antonio, de 44 anos, foi morto a tiros dentro de bar na Serra, no Espírito Santo Divulgação Um homem foi morto a tiros dentro de um bar no Bairro das Laranjeiras, na Serra, no final da tarde de sábado (12). Ele foi identificado como Samuel Paradela Antonio, de 44 anos. Segundo a Polícia Militar, testemu",
+      "category": "Mundo"
+    },
+    {
+      "title": "Alison dos Santos faz história e conquista o Mundial de Atletismo Ultimate",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/alison-dos-santos-faz-historia-e-conquista-o-mundial-de-atletismo-ultimate/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:42:01+00:00",
+      "summary": "Piu alcançou o ouro nos 400m com barreiras em Budapeste sem perder nenhuma prova internacional na especialidade",
+      "category": "Mundo"
+    },
+    {
+      "title": "TRE-PI indefere pedido de registro de candidatura do Professor Jurity ao Governo do Piauí",
+      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/13/tre-jurity-piaui.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:40:27+00:00",
+      "summary": "Francisco Jurity, pré-candidato ao Governo do Piauí pelo DC Reprodução/Redes Sociais O registro de candidatura de Francisco José Martins Jurity ao Governo do Piauí foi indeferido pelo Tribunal Regional Eleitoral do Piauí (TRE-PI). A decisão foi assinada na sexta-feira (11) pela juíza eleitoral Keylla Ranyere Lopes Teix",
       "category": "Política"
     },
     {
-      "title": "Cirurgia inovadora em Santa Maria. Doentes com hipertensão pulmonar deixaram de ir ao estrangeiro",
-      "url": "https://www.rtp.pt/noticias/pais/cirurgia-inovadora-em-santa-maria-doentes-com-hipertensao-pulmonar-deixaram-de-ir-ao-estrangeiro_v1765137",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T13:30:47+00:00",
-      "summary": "O Hospital de Santa Maria passou a operar os doentes com uma forma de hipertensão grave que só tinham resposta no Reino Unido. Doentes e famílias já não são obrigados a ir para o estrangeiro.",
+      "title": "VÍDEOS: Estação Agrícola deste domingo, 13 de setembro",
+      "url": "https://g1.globo.com/se/sergipe/edicao/2026/09/13/videos-estacao-agricola-deste-domingo-13-de-setembro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:37:28+00:00",
+      "summary": "Confira os vídeos do programa.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Triatleta morre em Brasília após sofrer mal súbito durante treino",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/triatleta-morre-em-brasilia-apos-sofrer-mal-subito-durante-treino/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:33:16+00:00",
+      "summary": "Rachel Furtado tinha 46 anos e foi levada ao hospital, mas não resistiu",
       "category": "Saúde"
     },
     {
-      "title": "Ataque \"sistemático\" em curso na rede ferroviária ucraniana",
-      "url": "https://observador.pt/2026/09/13/ataque-sistematico-em-curso-na-rede-ferroviaria-ucraniana/",
-      "source": "Observador",
+      "title": "Judoca Jorge Fonseca conquista medalha de prata no Grand Slam da Hungria",
+      "url": "https://www.rtp.pt/noticias/judo/judoca-jorge-fonseca-conquista-medalha-de-prata-no-grand-slam-da-hungria_d1765163",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T13:29:28+00:00",
-      "summary": "\"Está em curso um ataque sistemático à rede ferroviária em todo o país\", indicou a Ukrzaliznytsia.",
+      "publishedAt": "2026-09-13T17:32:37+00:00",
+      "summary": "O judoca português Jorge Fonseca conquistou domingo a medalha de prata nos -100 kg no Grand Slam da Hungria, voltando mais de dois anos depois a subir ao pódio de um torneio desta categoria.",
       "category": "Mundo"
     },
     {
-      "title": "Fabrício Bruno se emociona após derrota do Cruzeiro: “Momento difícil”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/fabricio-bruno-se-emociona-apos-derrota-do-cruzeiro-momento-dificil/",
+      "title": "ICB fez pagamentos duplicados que somam R$ 925 mil, diz Polícia Civil de SP",
+      "url": "https://www.cnnbrasil.com.br/politica/icb-fez-pagamentos-duplicados-que-somam-r-925-mil-diz-policia-civil-de-sp/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T13:28:52+00:00",
-      "summary": "Zagueiro do Cruzeiro se emocionou e pediu desculpas à torcida após gol contra e derrota para o Santos no Brasileirão",
+      "publishedAt": "2026-09-13T17:28:12+00:00",
+      "summary": "Informação consta em representação policial sobre financiamento do Dark Horse que investiga ONG da Karina Gama; documento teve sigilo retirado neste domingo (13)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Comboio atingido. Tusk prevê intensificação dos ataques russos numa escalada que poderá \"afetar Polónia\"",
+      "url": "https://www.rtp.pt/noticias/mundo/comboio-atingido-tusk-preve-intensificacao-dos-ataques-russos-numa-escalada-que-podera-afetar-polonia_n1765162",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T17:27:26+00:00",
+      "summary": "As declarações surgem após um ataque à rede ferroviária que atingiu um comboio a apenas dois quilómetros da fronteira com a Polónia.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Elliot chegou agora e tinha mesmo razão: eles são os reis",
+      "url": "https://observador.pt/2026/09/13/afinal-elliot-chegou-agora-e-tinha-mesmo-razao-quando-disse-que-eles-sao-os-reis-city-com-10-vence-united-em-old-trafford/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T17:26:07+00:00",
+      "summary": "O avançado norueguês marcou o único golo do jogo",
       "category": "Esportes"
     },
     {
-      "title": "Dark Horse: Dino retira sigilo de material da polícia de SP sobre produtora",
-      "url": "https://www.cnnbrasil.com.br/politica/dino-retira-sigilo-de-caso-dark-horse-relacionado-a-emendas-parlamentares/",
+      "title": "Haaland marca e City vence United mesmo com um a menos na Premier League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/haaland-marca-e-city-vence-united-mesmo-com-um-a-menos-na-premier-league/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T13:26:20+00:00",
-      "summary": "Decisão foi tomada neste domingo (13)",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cruzeiro: Otávio desabafa sobre clima no vestiário após derrota",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/cruzeiro-otavio-desabafa-sobre-clima-no-vestiario-apos-derrota/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:24:20+00:00",
-      "summary": "Goleiro da Raposa destacou a tristeza no grupo, mas pregou foco total para o próximo compromisso contra o Vitória",
+      "publishedAt": "2026-09-13T17:24:13+00:00",
+      "summary": "Phil Foden recebeu vermelho direto aos 22 minutos de jogo em Old Trafford; vitória não mantém City na liderança do campeonato",
       "category": "Esportes"
     },
     {
-      "title": "Escócia, País de Gales e Irlanda do Norte pressionam Londres",
-      "url": "https://observador.pt/2026/09/13/lideres-da-escocia-pais-de-gales-e-irlanda-do-norte-assinam-memorando-para-a-independencia/",
+      "title": "\"Revejo-me em coisas da direita e da esquerda\"",
+      "url": "https://observador.pt/especiais/henrique-araujo-ex-presidente-do-supremo-revejo-me-em-coisas-da-direita-e-da-esquerda-os-rotulos-nao-me-preocupam/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T13:23:15+00:00",
-      "summary": "A declaração conjunta pretende exigir a Londres que lhes conceda o direito de realizar referendos sobre a sua independência e recuperar poderes. Burnham já afastou novo referendo na Escócia.",
+      "publishedAt": "2026-09-13T17:22:53+00:00",
+      "summary": "Ex-líder do STJ foi músico profissional, teve uma banda rock, foi fundador do PS no Alto Minho e, numa suas primeiras decisões como juiz, afrontou a Igreja. Uma entrevista de vida do \"Justiça Cega\".",
       "category": "Mundo"
     },
     {
-      "title": "14h. Ceuta. 2 pessoas detidas na sequência de confrontos",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2472/",
-      "source": "Observador",
+      "title": "Mega-Sena acumula para R$ 95 milhões; confira os números sorteados",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-95-milhoes-confira-os-numeros-sorteados",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:17:00+00:00",
+      "summary": "Nenhum apostador acertou as seis dezenas do concurso 3.057 da Mega-Sena, realizado neste domingo (13), em São Paulo. O prêmio acumulou e está estimado em R$ 95 milhões para o próximo sorteio. Os números sorteados foram: 02 - 04 - 16 - 21 - 48 - 53. Oitenta e seis apostas acertaram cinco dezenas e irão receber R$ 31.872",
+      "category": "Mundo"
+    },
+    {
+      "title": "MP cita suspeita de verba do WiFi Livre para financiar “Dark Horse”",
+      "url": "https://www.cnnbrasil.com.br/politica/mp-cita-suspeita-de-verba-do-wifi-livre-para-financiar-dark-horse/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:13:50+00:00",
+      "summary": "Promotoria apura possível uso indireto de recursos públicos destinados pela Prefeitura de São Paulo à programa municipal de internet gratuita na produção do filme",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Ricardo Batista sobe a terceiro no Mundial de triatlo liderado por Vasco Vilaça",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/ricardo-batista-sobe-a-terceiro-no-mundial-de-triatlo-liderado-por-vasco-vilaca_d1765161",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T13:15:08+00:00",
-      "summary": "Os confrontos ocorreram nas imediações da praia de Trampolín, em Ceuta. Ainda, o Papa Leão 14 recordou hoje as vítimas dos atentados terroristas do 11 de setembro de 2001.",
+      "publishedAt": "2026-09-13T17:07:51+00:00",
+      "summary": "O português Ricardo Batista subiu ao terceiro lugar do Mundial de triatlo, com o quarto lugar na oitava e penúltima etapa, em Karvoly Vary, na República Checa, onde o francês Dorian Coninx foi o vencedor.",
       "category": "Mundo"
     },
     {
-      "title": "Embarcação em Vanuatu afunda e deixa um morto e mais de 30 desaparecidos",
-      "url": "https://www.cnnbrasil.com.br/internacional/embarcacao-em-vanuatu-afunda-e-deixa-morte-e-desaparecidos/",
+      "title": "Filho de Virginia posa com bailarinas de Leonardo e mãe reage; veja",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-virginia-posa-com-bailarinas-de-leonardo-e-mae-reage-veja/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T13:14:25+00:00",
-      "summary": "Balsa naufragou devido ao mau tempo entre as ilhas de Ambae e Santo, no território do país; outras quinze pessoas foram localizadas com vida",
-      "category": "Clima"
-    },
-    {
-      "title": "Torcedores usam morte de Diogo Jota para provocar Rúben Neves durante jogo",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/torcedores-usam-morte-de-diogo-jota-para-provocar-ruben-neves-durante-jogo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:09:40+00:00",
-      "summary": "Meia expressou indignação com os cânticos e disse esperar que os responsáveis “não vão rezar depois do que fizeram”",
-      "category": "Esportes"
-    },
-    {
-      "title": "Naufrágio de navio na Indonésia deixa 129 desaparecidos e seis mortos",
-      "url": "https://www.cnnbrasil.com.br/internacional/naufragio-de-navio-na-indonesia-deixa-desaparecidos-e-mortos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:08:12+00:00",
-      "summary": "Embarcação levava 243 pessoas de Surabaya, em Java Oriental, para Banjarmasin, em Kalimantan do Sul; outros 108 foram resgatados com vida",
+      "publishedAt": "2026-09-13T17:02:51+00:00",
+      "summary": "José Leonardo, 2, esteve em show do avô no sábado (12)",
       "category": "Mundo"
     },
     {
-      "title": "Maroon 5 e Demi Lovato: saiba como foi o penúltimo dia de Rock in Rio 2026",
-      "url": "https://www.cnnbrasil.com.br/pop/musica/maroon-5-e-demi-lovato-saiba-como-foi-o-penultimo-dia-de-rock-in-rio-2026/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T13:02:53+00:00",
-      "summary": "Festival reuniu ainda Mumford & Sons, Pedro Sampaio, J Balvin, João Gomes e Alok na noite de sábado (12)",
+      "title": "Gilberto Filipe tornou-se tricampeão do mundo de Equitação de Trabalho",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/gilberto-filipe-tornou-se-tricampeao-do-mundo-de-equitacao-de-trabalho_d1765160",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T17:02:19+00:00",
+      "summary": "Gilberto Filipe, montando o cavalo Morante SS, conquistou o terceiro título mundial de Equitação de Trabalho e tornou-se no primeiro cavaleiro da história da modalidade a alcançar este feito.",
       "category": "Cultura"
     },
     {
-      "title": "13h. Livre garante que vai votar contra propostas do Chega",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2444/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T12:18:13+00:00",
-      "summary": "A co-porta-voz do partido defende antes limites aos lucros das petrolíferas e uma política fiscal mais justa. Ainda, está dominado o incêndio que começou ontem à tarde em Beja.",
-      "category": "Política"
-    },
-    {
-      "title": "Confrontos com facas entre migrantes em Ceuta",
-      "url": "https://observador.pt/2026/09/13/ceuta-duas-pessoas-foram-detidas-e-outras-duas-ficaram-feridas-apos-confrontos-com-facas-entre-migrantes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T12:14:54+00:00",
-      "summary": "Migrantes aplaudiram chegada a novas instalações governamentais onde vão pernoitar.",
+      "title": "Caiado recebe alta após três dias internado por faringite aguda",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/caiado-recebe-alta-apos-tres-dias-internado-por-faringite-aguda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T17:02:00+00:00",
+      "summary": "Candidato do PSD cancelou agendas de campanha eleitoral desde quinta-feira (10)",
       "category": "Mundo"
     },
     {
-      "title": "Turquia detém ativistas LGBT em operação de grande escala",
-      "url": "https://observador.pt/2026/09/13/policia-turca-detem-ativistas-lgbt-e-faz-buscas-em-varias-provincias/",
+      "title": "Parte dos pagamentos do WiFi Livre SP ocorreu sem nota fiscal",
+      "url": "https://www.cnnbrasil.com.br/politica/parte-dos-pagamentos-do-wifi-livre-sp-ocorreu-sem-nota-fiscal/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T16:58:22+00:00",
+      "summary": "Projeto foi operacionalizado por ONG de produtora de filme de Bolsonaro; contrato é alvo de investigação da Polícia Civil",
+      "category": "Cultura"
+    },
+    {
+      "title": "FC Barcelona bate Levante e soma quinta vitória",
+      "url": "https://observador.pt/2026/09/13/fc-barcelona-bate-levante-e-soma-quinta-vitoria-na-liga-espanhola/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-13T12:08:58+00:00",
-      "summary": "Gürlek, ministro da Justiça, detalhou que a operação visa \"pessoas que facilitam a prostituição\" e suspeitos de \"produzir e difundir conteúdos obscenos a que as crianças podem ter acesso\".",
+      "publishedAt": "2026-09-13T16:57:03+00:00",
+      "summary": "FC Barcelona venceu em casa do Levante por 4-2. Lamine Yamal bisou.",
+      "category": "Mundo"
+    },
+    {
+      "title": "17h. Marco Silva troca Palhinha por Enzo no onze do Benfica",
+      "url": "https://observador.pt/programas/noticiario/17h-marco-silva-troca-palhinha-por-enzo-no-onze-do-benfica/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T16:55:24+00:00",
+      "summary": "Antes da visita a Milão e na jornada anterior ao Clássico no Dragão, o Benfica recebe o Gil Vicente com apenas uma mudança no onze inicial. Ainda, Portugal perde com Israel (2-3) no Eurovolley.",
+      "category": "Economia"
+    },
+    {
+      "title": "Filho de Maldini sofre acidente após marcar gol da vitória do Cagliari",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/filho-de-maldini-sofre-acidente-apos-marcar-gol-da-vitoria-do-cagliari/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T16:52:43+00:00",
+      "summary": "Atleta do time italiano foi levado de ambulância a um hospital para exames e foi constatado que as lesões eram apenas leves",
+      "category": "Saúde"
+    },
+    {
+      "title": "Pedido de vista em julgamento sobre Moraes anteciparia votos de ministros",
+      "url": "https://www.cnnbrasil.com.br/politica/pedido-de-vista-em-julgamento-sobre-moraes-anteciparia-votos-de-ministros/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T16:48:06+00:00",
+      "summary": "Eventual suspensão da análise pode abrir espaço para que integrantes da Corte revelem antecipadamente suas posições sobre a apuração envolvendo Alexandre de Moraes",
+      "category": "Política"
+    },
+    {
+      "title": "Mundial de Sub20 na Polónia. Seleção feminina participa pela primeira vez",
+      "url": "https://www.rtp.pt/noticias/desporto/mundial-de-sub20-na-polonia-selecao-feminina-participa-pela-primeira-vez_v1765159",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T16:47:47+00:00",
+      "summary": "A Seleção Feminina de Futebol Sub20 tem de vencer este domingo a Costa Rica para ultrapassar a fase de grupos no Campeonato do Mundo. Portugal participa pela primeira vez na Competição.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Obama: \"Se não controlarmos a IA, pode ser perigoso\"",
+      "url": "https://observador.pt/2026/09/13/obama-alerta-para-perigos-da-ia-e-pede-aos-democratas-para-avancarem-com-regulacao-pode-ser-perigoso-se-ficar-fora-de-controlo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T16:45:06+00:00",
+      "summary": "Barack Obama deixou conselho aos democratas para assumirem a dianteira na regulação da IA",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Kimi Antonelli vence em Madrid e reforça liderança do Mundial de F1",
+      "url": "https://www.rtp.pt/noticias/formula-1/kimi-antonelli-vence-em-madrid-e-reforca-lideranca-do-mundial-de-f1_d1765151",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T16:44:59+00:00",
+      "summary": "O piloto italiano Andrea Kimi Antonelli (Mercedes) venceu domingo o Grande Prémio de Espanha de Fórmula 1, 14.ª ronda da temporada, e alargou a vantagem no comando do Mundial.",
+      "category": "Clima"
+    },
+    {
+      "title": "Brasileiro é vice em primeira final entre tenistas assumidamente gays",
+      "url": "https://www.cnnbrasil.com.br/esportes/tenis/brasileiro-e-vice-em-primeira-final-entre-tenistas-assumidamente-gays/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T16:43:37+00:00",
+      "summary": "Finalistas são os únicos tenistas em atividade a terem falado abertamente sobre suas orientações sexuais durante a carreira profissional",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal perde com Israel e sofre terceira derrota no Europeu de voleibol",
+      "url": "https://www.rtp.pt/noticias/lusa/portugal-perde-com-israel-e-sofre-terceira-derrota-no-europeu-de-voleibol_d1765155",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T16:41:12+00:00",
+      "summary": "A seleção portuguesa de voleibol sofreu a terceira derrota no mesmo número de jogos no Grupo B do Campeonato da Europa, ao ser batida por Israel, por 3-2, em jogo disputado em Sófia, na Bulgária.",
+      "category": "Economia"
+    },
+    {
+      "title": "Judoca Jorge Fonseca conquista medalha de prata na Hungria",
+      "url": "https://observador.pt/2026/09/13/judoca-jorge-fonseca-conquista-medalha-de-prata-no-grand-slam-da-hungria/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T16:36:25+00:00",
+      "summary": "Jorge Fonseca conquistou a medalha de prata nos -100 kg no Grand Slam da Hungria, depois da vitória sobre o italiano Gennaro Pirelli.",
+      "category": "Mundo"
+    },
+    {
+      "title": "PF está com celular de Vorcaro e afirma poder enviar dados a ministros",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pf-esta-com-celular-de-vorcaro-e-afirma-poder-enviar-dados-ministros",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T16:30:00+00:00",
+      "summary": "A Polícia Federal (PF) informou ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, que os dados extraídos do telefone celular do ex-banqueiro Daniel Vorcaro estão preservados, sob a guarda da instituição. A PF informou que está de posse do aparelho e do material original extraído dele, com lacres í",
+      "category": "Política"
+    },
+    {
+      "title": "Ricardo Batista sobe a terceiro no Mundial de triatlo",
+      "url": "https://observador.pt/2026/09/13/portugues-ricardo-batista-sobe-a-terceiro-no-mundial-de-triatlo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T16:09:24+00:00",
+      "summary": "Ricardo Batista subiu ao terceiro lugar do Mundial de triatlo, com o quarto lugar na oitava etapa. Francês Dorian Coninx foi o vencedor. Líder do campeonato é o também português Vasco Vilaça.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Segunda parte começa sem alterações (1-1, 46')",
+      "url": "https://observador.pt/liveblogs/benfica-gil-vicente-aguias-procuram-quinto-triunfo-seguido-na-liga-antes-do-classico/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-13T16:00:09+00:00",
+      "summary": "Após quatro vitórias seguidas na Liga, Benfica procura manter senda de triunfos na receção ao Gil Vicente, antes de deslocações de risco a San Siro e ao Dragão. Bah continua de fora. Siga em direto.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Dino determina fim do sigilo de investigações sobre o filme Dark Horse",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-determina-fim-do-sigilo-de-investigacoes-sobre-o-filme-dark-horse",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T15:33:00+00:00",
+      "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou, neste domingo (13), a quebra de sigilo de todo o material apreendido pela polícia de São Paulo nas investigações de desvio de emendas parlamentares para financiamento do filme Dark Horse , uma dramatização da vida do ex-presidente Jair Bolsonaro. Em s",
+      "category": "Política"
+    },
+    {
+      "title": "Prova que avalia formação médica ocorre neste domingo em todo país",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prova-que-avalia-formacao-medica-ocorre-neste-domingo-em-todo-pais",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T13:53:00+00:00",
+      "summary": "Será aplicado neste domingo (13), em todos os estados do país e no Distrito Federal, o Exame Nacional de Avaliação da Formação Médica (Enamed), que afere o aprendizado dos estudantes de medicina e avalia os cursos brasileiros de graduação na área. De acordo com edital do Enamed 2026 , a prova será aplicado em todos os ",
+      "category": "Saúde"
+    },
+    {
+      "title": "Crise institucional prejudica debate eleitoral, avaliam entidades",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/crise-institucional-prejudica-debate-eleitoral-avaliam-entidades",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-13T13:43:00+00:00",
+      "summary": "A menos de um mês do primeiro turno das eleições de 2026, a escalada da crise político-institucional ofuscou o debate sobre as propostas de campanha e os problemas estruturais brasileiros. Para entidades da sociedade civil ouvidas pela Agência Brasil , ao extrapolarem o Supremo Tribunal Federal (STF) e envolverem outra",
       "category": "Política"
     },
     {
@@ -407,33 +488,6 @@
       "category": "Clima"
     },
     {
-      "title": "Papa recorda vítimas dos ataques do 11 de setembro",
-      "url": "https://observador.pt/2026/09/13/papa-recorda-vitimas-dos-ataques-do-11-de-setembro-nos-eua-e-renova-apelo-a-paz/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T11:43:37+00:00",
-      "summary": "\"Num momento em que o conflito e a violência afligem tantos dos nossos irmãos e irmãs, convido a todos a rezar para que o senhor conceda o seu dom da paz ao mundo\", afirmou.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Reforma laboral é possível com medidas que \"interessem\"",
-      "url": "https://observador.pt/2026/09/13/reforma-laboral-e-possivel-com-medidas-que-verdadeiramente-interessem/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T11:43:19+00:00",
-      "summary": "\"Acho que batemos em paredes de cimento quando estamos a discutir coisas que são sensíveis, politizadas, ideológicas e outras\", lamenta o presidente da CCP, Gustavo Paulo Duarte.",
-      "category": "Política"
-    },
-    {
-      "title": "\"Fernando Alexandre candidato a pior ministro da Educação\"",
-      "url": "https://observador.pt/2026/09/13/fernando-alexandre-candidata-se-a-ser-o-pior-ministro-da-educacao-desde-o-25-de-abril/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T11:41:54+00:00",
-      "summary": "\"É escandaloso que a educação pública deixe centenas de pessoas de fora, centenas de alunos sem acesso ao ensino público, que é obrigatório, é o ensino obrigatório\", declarou Eurico Brilhante Dias.",
-      "category": "Política"
-    },
-    {
       "title": "Rádio Nacional transmite clássico Flamengo x Corinthians neste domingo",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/radio-nacional-transmite-classico-flamengo-x-corinthians-neste-domingo",
       "source": "Agência Brasil",
@@ -441,15 +495,6 @@
       "publishedAt": "2026-09-13T11:41:00+00:00",
       "summary": "A Rádio Nacional transmite neste domingo (13) às 17h o clássico nacional válido pela 27ª rodada da Série A do Brasileirão 2026 entre Flamengo e Corinthians. O duelo que movimenta as duas maiores torcidas do país será realizado no Estádio do Maracanã, no Rio de Janeiro. O Rubro-Negro recebe o Timão ao lado da sua torcid",
       "category": "Mundo"
-    },
-    {
-      "title": "IA representa um risco real? \"Os governos têm de intervir\"",
-      "url": "https://observador.pt/programas/resposta-pronta/ia-representa-um-risco-real-os-governos-tem-de-intervir/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T11:33:53+00:00",
-      "summary": "Pedro Veiga, ex-coordenador do Centro Nacional de Cibersegurança, reconhece os alertas deixados por especialistas e empresas de IA. Os governos mundiais devem agir, mas não chega: polícia deve ajudar.",
-      "category": "Política"
     },
     {
       "title": "Prazo para inscrições no Prêmio Rádio MEC termina neste domingo",
@@ -477,51 +522,6 @@
       "publishedAt": "2026-09-13T01:14:00+00:00",
       "summary": "O presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, é agora o relator do caso sobre a suposta relação entre o ministro Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro. No mesmo despacho deste sábado (12), Fachin remeteu à Presidência da Corte processos relacionados ao Banco Master e a fraudes no Inst",
       "category": "Política"
-    },
-    {
-      "title": "Brasil é hepatcampeão da Copa América de futebol de cegos em SP",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-e-hepatcampeao-da-copa-america-de-futebol-de-cegos-em-sp",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T00:43:00+00:00",
-      "summary": "A seleção brasileira masculina de futebol conquistou de forma invicta o heptacampeonato da Copa América de futebol de cegos. Na final disputada neste sábado (12), a Amarelinha derrotou a Colômbia por 3 a 0 no CT Paralímpico, em São Paulo. Ao levantar a taça pela sétima vez, os brasileiros mantêm a hegemonia em 11 ediçõ",
-      "category": "Esportes"
-    },
-    {
-      "title": "Fachin dá 24 horas para PF enviar informações sobre celular de Vorcaro",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-da-24-horas-para-pf-enviar-informacoes-sobre-celular-de-vorcaro",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:53:00+00:00",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, estabeleceu o prazo de 24 horas para que a Polícia Federal (PF) envie informações sobre a custódia do material extraído do celular do ex-banqueiro Daniel Vorcaro e o estado em que ele se encontra. A petição, enviada neste sábado (12), responde ",
-      "category": "Política"
-    },
-    {
-      "title": "Ana Sátila é ouro em etapa da Copa do Mundo de canoagem slalom",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ana-satila-e-ouro-em-etapa-da-copa-do-mundo-de-canoagem-slalom",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T23:04:00+00:00",
-      "summary": "A brasileira Ana Sátila garantiu a medalha de ouro ao vencer neste sábado (12) a final do C1 (canoa individual) da última etapa da Copa do Mundo de canoagem slalom em La Seul d’Urgell (Espanha). A mineira de 30 anos concluiu a prova no em 103s85, deixando para trás a espanhola Miren Lazkano (104s55), que ficou com a pr",
-      "category": "Mundo"
-    },
-    {
-      "title": "Avião da GOL faz pouso de emergência após decolagem em Goiânia",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/aviao-da-gol-faz-pouso-de-emergencia-apos-decolagem-em-goiania",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T21:49:00+00:00",
-      "summary": "Um avião da empresa GOL fez um pouso de emergência após decolar do Aeroporto Internacional de Goiânia, em Goiás, com destino ao Aeroporto de Congonhas, na capital paulista, na manhã deste sábado (12). Segundo a GOL, a aeronave do voo G3 1433 apresentou problemas técnicos e, após retornar ao aeroporto goiano, teve seu v",
-      "category": "Economia"
-    },
-    {
-      "title": "Mega-Sena sorteia prêmio acumulado de R$ 85 milhões neste domingo",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-85-milhoes-neste-domingo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-12T21:25:00+00:00",
-      "summary": "A Mega-Sena sorteia neste domingo (13) prêmio estimado em R$ 85 milhões. As seis dezenas do concurso 3.057 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 22h (horário de Brasília) de sábado (12) em casas lotéricas credenciadas pela Caixa em to",
-      "category": "Ciência & Tech"
     }
   ],
   "sources": [
