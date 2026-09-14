@@ -1,410 +1,446 @@
 {
-  "updatedAt": "2026-09-14T01:01:34.185394+00:00",
+  "updatedAt": "2026-09-14T06:14:19.614827+00:00",
   "items": [
     {
-      "title": "01h SCP \"escorrega\" em Famalicão",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-scp-escorrega-em-famalicao_a1_1765207",
+      "title": "Extrema-direita cai nas urnas em noitada eleitoral ao rubro na Suécia",
+      "url": "https://www.rtp.pt/noticias/mundo/extrema-direita-cai-nas-urnas-em-noitada-eleitoral-ao-rubro-na-suecia_v1765236",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-14T01:22:01+00:00",
+      "publishedAt": "2026-09-14T07:08:47+00:00",
+      "summary": "As eleições legislativas na Suécia estão a ser decididas ao pormenor, com a margem de vitória a poder resumir-se a um único deputado.",
+      "category": "Política"
+    },
+    {
+      "title": "I Liga. Autogolo infeliz aos 90 dita empate do Sporting em Famalicão",
+      "url": "https://www.rtp.pt/noticias/desporto/i-liga-autogolo-infeliz-aos-90-dita-empate-do-sporting-em-famalicao_v1765235",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T07:05:47+00:00",
+      "summary": "Balde de água fria para o Sporting em Famalicão. Os leões deixaram escapar a vitória já no período de compensação, com um autogolo de Gonçalo Inácio a ditar a igualdade final.",
+      "category": "Esportes"
+    },
+    {
+      "title": "I Liga. Benfica vence Gil Vicente com golo decisivo aos 87 minutos",
+      "url": "https://www.rtp.pt/noticias/desporto/i-liga-benfica-vence-gil-vicente-com-golo-decisivo-aos-87-minutos_v1765234",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T07:00:47+00:00",
+      "summary": "O Benfica venceu o Gil Vicente por três bolas a uma, num jogo decidido apenas ao cair do pano.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Meia maratona do Porto",
+      "url": "https://www.rtp.pt/noticias/desporto/meia-maratona-do-porto_v1765190",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:46:17+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Edição genética: técnica que ‘reescreve’ o DNA abre caminho para tratar doenças raras, mas levanta debates éticos",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/09/13/edicao-genetica-tecnica-que-reescreve-o-dna-abre-caminho-para-tratar-doencas-raras-mas-levanta-dilemas-eticos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-14T00:41:18+00:00",
-      "summary": "\"A gente achava que ele não ia completar um ano\". Edição genética promete revolucionar tratamento de doenças raras A edição genética, antes restrita ao campo da ficção científica, está cada vez mais próxima da prática médica. Avanços recentes têm permitido corrigir alterações específicas no DNA humano para tratar doenç",
-      "category": "Ciência & Tech"
+      "title": "6h Eleições na Suécia. Resultados apontam para vantagem mínima da esquerda",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-eleicoes-na-suecia-resultados-apontam-para-vantagem-minima-da-esquerda_a1_1765233",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:32:02+00:00",
+      "summary": "",
+      "category": "Política"
     },
     {
-      "title": "Perícia aponta falha em lacre de 27 dispositivos apreendidos em operação contra produtora de 'Dark Horse'",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/13/pericia-aponta-falha-em-lacre-de-27-dispositivos-apreendidos-em-operacao-contra-produtora-de-dark-horse.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-14T00:32:28+00:00",
-      "summary": "Aparelhos com lacres mal fechados por agentes da Polícia Civil de São Paulo Reprodução/Polícia Civil A perícia da Polícia Civil de São Paulo apontou que 27 dispositivos eletrônicos apreendidos por agentes durante operação contra produtora do filme \"Dark Horse\" em junho não foram lacrados corretamente e foram devolvidos",
+      "title": "Coreia do Norte confirma lançamento de mísseis balísticos em \"exercício de ataque\"",
+      "url": "https://www.rtp.pt/noticias/mundo/coreia-do-norte-confirma-lancamento-de-misseis-balisticos-em-exercicio-de-ataque_n1765232",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:31:33+00:00",
+      "summary": "A Coreia do Norte confirmou hoje ter realizado um \"exercício de ataque\", com unidades de artilharia e o lançamento de mísseis balísticos, na sequência de manobras militares conjuntas entre a Coreia do Sul, Estados Unidos e Japão.",
       "category": "Mundo"
     },
     {
-      "title": "À CNN, Ancelotti confirma fim de ciclo de Neymar na Seleção Brasileira",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/a-cnn-ancelotti-confirma-fim-de-ciclo-de-neymar-na-selecao-brasileira/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-14T00:30:43+00:00",
-      "summary": "Durante entrevista ao CNN Esportes S/A deste domingo (13), técnico italiano também defendeu a ida de Neymar à Copa",
+      "title": "\"É muito difícil proibir um partido e dizer que é fascista\" assumiu juíza do TC",
+      "url": "https://www.rtp.pt/noticias/pais/e-muito-dificil-proibir-um-partido-e-dizer-que-e-fascista-assumiu-juiza-do-tc_n1765231",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:29:23+00:00",
+      "summary": "O Tribunal Constitucional (TC) recebeu um requerimento para a extinção do Chega, confirmou hoje a juíza conselheira Maria Benedita Urbano, que sublinhou ser \"muito difícil\" determinar se um partido político é fascista.",
+      "category": "Política"
+    },
+    {
+      "title": "Indonésia retoma buscas após naufrágio que deixou 129 desaparecidos",
+      "url": "https://www.rtp.pt/noticias/mundo/indonesia-retoma-buscas-apos-naufragio-que-deixou-129-desaparecidos_n1765230",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:26:41+00:00",
+      "summary": "As autoridades indonésias retomaram hoje operações de socorro para tentar salvar 129 pessoas desaparecidas após o naufrágio de um ferry que ligava as ilhas de Java e Bornéu, num acidente que já provocou pelo menos seis mortos.",
       "category": "Esportes"
     },
     {
-      "title": "Rock in Rio 2026: Dawn Patrol se apresenta no palco New Dance Order neste último dia",
+      "title": "Empresa chinesa Z.ai vai captar mais de 4.300 ME com venda de ações e obrigações",
+      "url": "https://www.rtp.pt/noticias/economia/empresa-chinesa-zai-vai-captar-mais-de-4300-me-com-venda-de-acoes-e-obrigacoes_n1765227",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:21:52+00:00",
+      "summary": "A empresa chinesa de inteligência artificial Z.ai, pretende captar mais de 5.000 milhões de dólares (4.321 milhões de euros) através da venda de novas ações e obrigações convertíveis para financiar o desenvolvimento de modelos e infraestruturas.",
+      "category": "Economia"
+    },
+    {
+      "title": "Trump desvaloriza alegado fornecimento de informações chinesas ao Irão",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-desvaloriza-alegado-fornecimento-de-informacoes-chinesas-ao-irao_n1765226",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:17:34+00:00",
+      "summary": "O Presidente norte-americano, Donald Trump, desvalorizou hoje informações de que entidades chinesas terão fornecido a Teerão imagens de satélite de uma base militar na Jordânia antes e após um ataque iraniano que matou três soldados norte-americanos.",
+      "category": "Política"
+    },
+    {
+      "title": "Tiroteio mortal a poucas horas de votação histórica em região autónoma filipina",
+      "url": "https://www.rtp.pt/noticias/mundo/tiroteio-mortal-a-poucas-horas-de-votacao-historica-em-regiao-autonoma-filipina_n1765224",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:12:40+00:00",
+      "summary": "As mesas de voto abriram hoje de em Bangsamoro, região de maioria muçulmana, para eleger, pela primeira vez, o parlamento local, poucas horas após a morte de três pessoas num tiroteio entre fações de um grupo rebelde.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pequim vai ativar zona de exclusão aérea após acidente com avioneta em junho",
+      "url": "https://www.rtp.pt/noticias/mundo/pequim-vai-ativar-zona-de-exclusao-aerea-apos-acidente-com-avioneta-em-junho_n1765223",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:10:08+00:00",
+      "summary": "A China vai colocar em funcionamento, em 20 de setembro, uma zona de exclusão aérea em Pequim e arredores, quase três meses após uma avioneta ter embatido no arranha-céus mais alto da capital, causando um morto e 13 feridos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Late night drama antes do Clássico. E um super Santa Clara",
+      "url": "https://observador.pt/programas/vamos-a-bola/late-night-drama-antes-do-classico-e-um-super-santa-clara/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:04:52+00:00",
+      "summary": "Antes da visita ao Dragão, o Benfica venceu o Gil Vicente, por 3-1, com dois golos na reta final. Já o Sporting escorregou na visita a Famalicão. Ainda, haja Paciência no Santa Clara.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Chuvas deixam rastro de destruição e mortes em SP no fim de semana",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuvas-deixam-rastro-de-destruicao-e-mortes-em-sp-no-fim-de-semana/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T06:01:02+00:00",
+      "summary": "Estado sofreu com desabamentos, enxurradas e pessoas desaparecidas durante os últimos dias",
+      "category": "Clima"
+    },
+    {
+      "title": "“Poderemos receber um aviso de tsunami meia hora antes”",
+      "url": "https://observador.pt/programas/convidado-extra/jose-sousa-barros-poderemos-receber-um-aviso-de-tsunami-meia-hora-antes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T06:00:26+00:00",
+      "summary": "“Cabos submarinos são infraestruturas críticas, mas ainda não reconhecidas como tal” diz José Sousa Barros. E afinal asseguram quase 100% da ligação de dados entre continentes.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Inteligência artificial está cada vez mais difícil de se controlar. Até quando os humanos vão se manter no comando?",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/inteligencia-artificial-esta-cada-vez-mais-dificil-de-se-controlar-ate-quando-os-humanos-vao-se-manter-no-comando.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T06:00:00+00:00",
+      "summary": "Inteligência artificial está cada vez mais difícil de se controlar. Até quando os humanos vão se manter no comando? Getty Images via BBC \"MEU DEUS!\" \"Encontramos outros agentes!\" Este é o momento em que um bot de inteligência artificial publicou um comentário estranhamente semelhante ao de um humano, após descobrir uma",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Aspirador-robô: 10 dicas para ajudar a escolher um para a sua casa",
+      "url": "https://g1.globo.com/guia/guia-de-compras/casa/aspirador-robo-10-dicas-para-ajudar-a-escolher-um-para-a-sua-casa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T06:00:00+00:00",
+      "summary": "Positivo PRA2000 voltando para a base de esvaziamento Henrique Martin/g1 Existem muitos modelos diferentes de aspiradores-robô no mercado, cada qual com seu nível de complexidade, recursos e independência. Um aspirador-robô pode fazer apenas uma aspiração rápida em um apartamento pequeno ou uma limpeza completa com pan",
+      "category": "Economia"
+    },
+    {
+      "title": "Quem era o piloto campeão de enduro morto em serraria da família em SC",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/14/quem-era-o-piloto-campeao-de-enduro-morto-em-serraria-da-familia-em-sc.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T06:00:00+00:00",
+      "summary": "Gian Taffarel, piloto de enduro morto em acidente em serraria Arquivo Pessoal O piloto morto após um acidente de trabalho na serraria da família em Caxambu do Sul, no Oeste de Santa Catarina, na sexta-feira (11) era bastante conhecido no universo do motociclismo. Identificado como Gian Taffarel, de 30 anos, ele era bic",
+      "category": "Mundo"
+    },
+    {
+      "title": "Por que fazer vários tipos de exercício pode ser a chave para uma vida mais longa",
+      "url": "https://g1.globo.com/saude/noticia/2026/09/14/por-que-fazer-varios-tipos-de-exercicio-pode-ser-a-chave-para-uma-vida-mais-longa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T06:00:00+00:00",
+      "summary": "Por que fazer vários tipos de exercício pode ser a chave para uma vida mais longa Getty Images via BBC Não aposte todas as suas fichas em um único tipo de exercício — praticar uma variedade de atividades físicas diferentes toda semana é a chave para melhorar a saúde e viver mais, sugere um estudo. Depois de acompanhar ",
+      "category": "Saúde"
+    },
+    {
+      "title": "Jovem entregava panfletos em frente à academia onde havia sido recém-contratada quando foi morta após reagir a tentativa de estupro no Paraná",
+      "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/14/jovem-entregava-panfletos-em-frente-a-academia-onde-havia-sido-recem-contratada-quando-foi-morta-apos-reagir-a-tentativa-de-estupro-no-parana.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T06:00:00+00:00",
+      "summary": "Polícia prende homem que confessou matar jovem em Londrina Thaissa de Oliveira Marques, de 21 anos, entregava panfletos em frente à academia onde havia sido recém-contratada quando foi assassinada, em Londrina, no norte do Paraná. O crime aconteceu na tarde de sexta-feira (11), antes da inauguração do estabelecimento. ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Amazon suspende operações com 21 Air após acidente aéreo em Miami",
+      "url": "https://www.cnnbrasil.com.br/infra/amazon-suspende-operacoes-com-21-air-apos-acidente-aereo-em-miami/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T05:48:07+00:00",
+      "summary": "Empresa operava voo de carga que saiu da pista e atingiu veículos; cinco pessoas morreram no episódio",
+      "category": "Economia"
+    },
+    {
+      "title": "Escócia, País de Gales e Irlanda podem anunciar fim do RU",
+      "url": "https://observador.pt/programas/conferencia-de-imprensa/escocia-pais-de-gales-e-irlanda-podem-anunciar-fim-do-ru/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T05:35:10+00:00",
+      "summary": "Na Irlanda destaque para o memorando que vai ser assinado entre Escócia, País de Gales e Irlanda do Norte que pode anunciar o fim do RU. E o JN revela que a VCI vai proibir a circulação de camiões.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Promotor desiste da central solar da Beira",
+      "url": "https://observador.pt/2026/09/14/promotor-desiste-de-avancar-com-central-solar-da-beira-que-teve-parecer-ambiental-negativo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T05:30:12+00:00",
+      "summary": "A Lightsource BP conclui que alterações necessárias para obter conformidade ambiental tinham implicação negativa na viabilidade financeira da central prevista para Castelo Branco e Idanha-a-Nova.",
+      "category": "Mundo"
+    },
+    {
+      "title": "O Museu Municipal de Castro Daire",
+      "url": "https://observador.pt/programas/a-historia-das-historias/o-museu-municipal-de-castro-daire/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T05:23:35+00:00",
+      "summary": "Hoje fala-se deste Museu, inaugurado em 1993, e do Centro de Interpretação e Informação do Montemuro e Paiva, que inclui percursos pedestres, megalitismo, romanização e lipsanoteca",
+      "category": "Mundo"
+    },
+    {
+      "title": "6h. Bugalho espera pedido de desculpas a Fernando Alexandre",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2494/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T05:15:32+00:00",
+      "summary": "Brilhante Dias afirmou que Fernando Alexandre é candidato a ser o pior Ministro da Educação desde o 25 de Abril. Bugalho garante escolas para alunos e espera pedido de desculpas da bancada socialista.",
+      "category": "Política"
+    },
+    {
+      "title": "Sobre feromonemaxxing e um desafio para casais",
+      "url": "https://observador.pt/programas/terapia-de-casal/sobre-feromonemaxxing-e-um-desafio-para-casais/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T05:04:26+00:00",
+      "summary": "Perdoem o cheiro mas estamos a fazer feromonemaxxing para vos atrair para mais um episódio de Terapia de Casal. Esta semana temos um jogo caótico para casais e um drama sobre prendas de casamento.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Olhem só as cartas que me escrevem - Intermédios",
+      "url": "https://observador.pt/programas/somos-todos-malucos/olhem-so-as-cartas-que-me-escrevem-intermedios/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T05:02:55+00:00",
+      "summary": "Hoje falamos sobre as mensagens que me deixam no fim do espetáculo Volto Já, que está de regresso!",
+      "category": "Mundo"
+    },
+    {
+      "title": "Como seria o cinema português sem Paulo Branco? — Sugestões",
+      "url": "https://observador.pt/programas/pop-up/como-seria-o-cinema-portugues-sem-paulo-branco-sugestoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T05:02:55+00:00",
+      "summary": "O ciclo da Cinemateca dedicado ao produtor é uma das propostas desta semana, mas também há “Música de Elevador”, uma “Pátria” em banda desenhada e papas de aveia.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Do contorno ao verniz: os segredos do retrato a carvão",
+      "url": "https://observador.pt/programas/a-nossa-cultura/do-contorno-ao-verniz-os-segredos-do-retrato-a-carvao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T05:02:00+00:00",
+      "summary": "Do primeiro contorno ao acabamento final, Manuel dos Santos explica as diferentes fases dos retratos: ganham vida com o traço, conhecem depois o toque do carvão e, no final, uma camada de verniz.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Procrastinação: quando o “amanhã” prejudica a saúde",
+      "url": "https://observador.pt/programas/tratar-da-saude/procrastinacao-quando-o-amanha-comeca-a-prejudicar-a-saude/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-14T05:01:59+00:00",
+      "summary": "“Depois faço.” “Trato amanhã.” Todos adiamos tarefas, mas quando esse padrão começa a prejudicar as relações em casa, no trabalho e até a própria saúde, pode haver mais do que preguiça.",
+      "category": "Saúde"
+    },
+    {
+      "title": "Base de cálculo do IPTU passará por atualização em Uberaba",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/14/base-de-calculo-do-iptu-passara-por-atualizacao-em-uberaba.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T05:00:00+00:00",
+      "summary": "Imóveis residência casas IPTU Uberaba Reprodução/TV Integração A Prefeitura de Uberaba iniciou um processo para revisão da planta genérica de valores, tabela que é base de cálculo para o IPTU. Os estudos para identificar a valorização ou desvalorização do metro quadrado serão feitos pela FIPE (Fundação Instituto de Pes",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEO: ‘Encantador de búfalos’ toca violino para conduzir animais no RS",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/14/video-encantador-de-bufalos-toca-violino-para-conduzir-animais-no-rs.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T05:00:00+00:00",
+      "summary": "‘Encantador de búfalos’ toca violino para conduzir animais no RS O criador e veterinário Antônio Carlos Trierweiler ficou conhecido como o “Encantador de Búfalos” por conduzir os animais por meio da música em sua fazenda no interior de General Câmara, município de 7 mil habitantes a 85 km de Porto Alegre. Basta ele peg",
+      "category": "Política"
+    },
+    {
+      "title": "Tem água ou não? Entenda em 5 pontos o abastecimento de Ribeirão Preto, SP, pelo Aquífero Guarani",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/14/tem-agua-ou-nao-entenda-em-5-pontos-o-abastecimento-de-ribeirao-preto-sp-pelo-aquifero-guarani.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T05:00:00+00:00",
+      "summary": "Entenda o sistema de abastecimento de de Ribeirão Preto, SP, em 5 pontos Tem água no Aquífero Guarani? Sim. Mas isso não significa que ela chegue com regularidade à torneira de todos os moradores de Ribeirão Preto (SP). Depois de o g1 mostrar que um relatório técnico aponta capacidade de abastecimento da cidade pelo ma",
+      "category": "Mundo"
+    },
+    {
+      "title": "De cliente a dona de clínica: empreendedora faz da paixão por estética um negócio de milhões",
+      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/14/de-cliente-a-dona-de-clinica-empreendedora-faz-da-paixao-por-estetica-um-negocio-de-milhoes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T05:00:00+00:00",
+      "summary": "De cliente a dona: empreendedora transforma paixão por estética em negócio milionário O mercado de estética continua em expansão no Brasil, impulsionado por consumidores cada vez mais atentos ao bem-estar, à autoestima e aos cuidados com a aparência. Mas, em um setor cada vez mais competitivo, tecnologia e equipamentos",
+      "category": "Economia"
+    },
+    {
+      "title": "Os melhores e os piores shows do Rock in Rio 2026... Os destaques e as decepções do festival",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/14/os-melhores-e-os-piores-shows-do-rock-in-rio-2026-os-destaques-e-as-decepcoes-do-festival.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T04:57:36+00:00",
+      "summary": "Hwasa se apresenta no Rock in Rio 2026 Leo Franco/AgNews Após sete dias de diferentes programações, o Rock in Rio 2026 acabou neste domingo (13). Mais de 120 atrações passaram pela Cidade do Rock, do metal ao k-pop, reunindo centenas de milhares de pessoas. O g1 acompanhou e cobriu todos os shows dos palcos principais:",
+      "category": "Cultura"
+    },
+    {
+      "title": "Rock in Rio 2026: Último dia tem potência das mulheres, muita chuva e Twenty One Pilots maduro",
       "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-14T00:26:08+00:00",
-      "summary": "Rock in Rio 2026: Dawn Patrol se apresenta no palco New Dance Order neste último dia Twenty One Pilots, Halsey e Zara Larson se apresentam neste domingo (13). Como chegar no Rock in Rio de ônibus, carro ou metrô?. Festival acontece até dia 13. Veja a programação completa.. Os melhores e os piores shows do 1º final de s",
-      "category": "Cultura"
-    },
-    {
-      "title": "Marina Sena rasga boneco de pano ao cantar sobre término em show místico e hipnotizante no Rock in Rio",
-      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/marina-sena-rasga-boneco-de-pano-ao-cantar-sobre-termino-em-show-mistico-e-hipnotizante-no-rock-in-rio.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-14T00:24:06+00:00",
-      "summary": "Marina Sena rasga boneco no Palco Sunset, do Rock in Rio Marina Sena finalmente estreou no Rock in Rio, no Palco Sunset, neste domingo (13). A artista já tinha passado pelo festival como convidada de Luísa Sonza e até pelo The Town, para cantar Gal Costa; mas só agora, em 2026, ganhou um show para chamar de seu. HORÁRI",
-      "category": "Cultura"
-    },
-    {
-      "title": "00h Estudo: ministros cada vez mais qualificados e especializados",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-estudo-ministros-cada-vez-mais-qualificados-e-especializados_a1_1765206",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-14T00:24:02+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "'Eu fui salvo pelo gongo': Alex Escobar conta como episódio ao vivo levou à descoberta de doença rara e de um tumor",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/09/13/eu-fui-salvo-pelo-gongo-alex-escobar-conta-como-episodio-ao-vivo-levou-a-descoberta-de-doenca-rara-e-de-um-tumor.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-14T00:21:26+00:00",
-      "summary": "Alex Escobar fala sobre retorno ao trabalho depois do diagnóstico de Miastenia Gravis O jornalista Alex Escobar descobriu que tem miastenia gravis, uma doença autoimune rara, depois de apresentar dificuldade para falar durante uma transmissão ao vivo na cobertura da Copa do Mundo, em Nova Jersey, nos Estados Unidos. Os",
-      "category": "Saúde"
-    },
-    {
-      "title": "Ator brasileiro agradece ajuda após incêndio atingir sua casa nos EUA",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/ator-brasileiro-agradece-ajuda-apos-incendio-atingir-sua-casa-nos-eua/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-14T00:21:07+00:00",
-      "summary": "Erik Marmo, que mora em Los Angeles desde 2014, mostrou imagens do local e agradeceu a mobilização de amigos e instituições",
+      "publishedAt": "2026-09-14T04:47:30+00:00",
+      "summary": "Rock in Rio 2026: Último dia tem potência das mulheres, muita chuva e Twenty One Pilots maduro Domingo (13) contou com shows de Zara Larsson, Marina Sena e mais. Os melhores e os piores shows do 1º final de semana; veja como foi.",
       "category": "Clima"
     },
     {
-      "title": "1h. Benfica vence o Gil Vicente por 3-1",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2383/",
+      "title": "Trump minimiza relato de ajuda chinesa ao Irã antes de ataque na Jordânia",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-minimiza-relato-de-ajuda-chinesa-ao-ira-antes-de-ataque-na-jordania/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T04:46:26+00:00",
+      "summary": "Relatório aponta que entidades da China forneceram imagens de satélite de base onde três militares dos EUA morreram",
+      "category": "Mundo"
+    },
+    {
+      "title": "​Twenty One Pilots encerra Rock in Rio, confirma evolução, mas toca para menor plateia de headliner desta edição",
+      "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/14/twenty-one-pilots-encerra-rock-in-rio-confirma-evolucao-mas-toca-para-menor-plateia-de-headliner-desta-edicao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T04:43:50+00:00",
+      "summary": "Josh Dun, do Twenty One Pilots, toca bateria no topo de estrutura no Rock in Rio A estreia de Tyler Joseph e Josh Dun no Rock in Rio carregou o peso de uma trajetória de dez anos no Brasil. O Twenty One Pilots, definitivamente, deixou de ser encarado como uma novidade do rap rock para assumir o posto de headliner (quas",
+      "category": "Mundo"
+    },
+    {
+      "title": "5h.Escócia, País de Gales e Irlanda podem anunciar fim do UK",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1565/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-14T00:15:41+00:00",
-      "summary": "O Gil Vicente inaugurou o marcador aos 7 minutos com um golo de Hector Hernández. Ainda, o porta voz do PSD espera que o líder parlamentar do PS peça desculpa ao ministro da Educação.",
+      "publishedAt": "2026-09-14T04:15:14+00:00",
+      "summary": "Hoje os primeiros-ministros da Escócia, o País de Gales e a Irlanda do Norte vão assinar um memorando que pode anunciar o fim do Reino Unido. No desporto, Sporting empatou com o Famalicão.",
       "category": "Política"
     },
     {
-      "title": "'Armeiro' do Crime: investigação aponta cabo do Exército como fornecedor de armamentos e munições para facções criminosas",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/09/13/investigacao-aponta-cabo-do-exercito-como-fornecedor-de-armamentos-e-municoes-para-faccoes-criminosas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-14T00:09:40+00:00",
-      "summary": "Áudios revelam cabo do Exército negociando munição de fuzil e granadas com o tráfico na Bahia Uma investigação da Polícia Civil e do Ministério Público da Bahia revelou um suposto esquema de desvio de armamentos e munições do Exército para abastecer organizações criminosas. Segundo os investigadores, o cabo Deivison do",
-      "category": "Mundo"
-    },
-    {
-      "title": "Trump diz que EUA estão aumentando seu arsenal de armas “muito rapidamente”",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-estao-aumentando-seu-arsenal-de-armas-muito-rapidamente/",
+      "title": "Fim de semana teve 10 movimentações do STF; entenda como impacta julgamento",
+      "url": "https://www.cnnbrasil.com.br/politica/fim-de-semana-teve-10-movimentacoes-do-stf-entenda-como-impacta-julgamento/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-14T00:05:23+00:00",
-      "summary": "Apuração da CNN revelou estoques de mísseis cruciais de defesa aérea estavam severamente reduzidos após uma grande escalada do conflito com o Irã",
-      "category": "Mundo"
+      "publishedAt": "2026-09-14T03:01:12+00:00",
+      "summary": "Despachos de Fachin, Mendonça, Zanin, Moraes, Gilmar Mendes e Flávio Dino tratam do acesso à íntegra dos dados do celular de Daniel Vorcaro e antecedem a sessão de terça-feira (15), que analisa as mensagens entre o ex-banqueiro e Alexandre de Moraes.",
+      "category": "Política"
     },
     {
-      "title": "Louro com vinagre branco: para que serve essa mistura na limpeza da casa?",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/louro-com-vinagre-branco-para-que-serve-essa-mistura-na-limpeza-da-casa/",
+      "title": "José Sarney é internado com pneumonia; condição clínica é estável",
+      "url": "https://www.cnnbrasil.com.br/politica/jose-sarney-e-internado-com-pneumonia-condicao-clinica-e-estavel/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-14T00:00:14+00:00",
-      "summary": "Fácil de preparar e econômica, a solução pode ajudar na higienização de pisos e deixar um aroma herbal suave nos ambientes",
-      "category": "Mundo"
-    },
-    {
-      "title": "AO VIVO: Entrevista com os candidatos ao Senado no RN",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/ao-vivo-entrevista-com-os-candidatos-ao-senado-no-rn.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T23:58:03+00:00",
-      "summary": "AO VIVO: Entrevista com os candidatos ao Senado no RN Entrevistas acontecem no Bom Dia da Inter de 14 a 18 de setembro.",
+      "publishedAt": "2026-09-14T02:26:25+00:00",
+      "summary": "Segundo o hospital, o ex-presidente respira sem a ajuda de aparelhos e está recebendo remédios na veia, mas não há previsão de alta",
       "category": "Política"
     },
     {
-      "title": "AO VIVO: Entrevista com os candidatos ao governo do RN no Inter 1",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/ao-vivo-entrevista-com-os-candidatos-ao-governo-do-rn-no-inter-1.ghtml",
-      "source": "G1",
+      "title": "Caetano analisa impacto da turbulência política na CBF em resultado na Copa",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/caetano-analisa-impacto-da-turbulencia-politica-na-cbf-em-resultado-na-copa/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T23:57:47+00:00",
-      "summary": "AO VIVO: Entrevista com os candidatos ao governo do RN no Inter 1 Entrevistas acontecem de 14 a 18 de setembro.",
+      "publishedAt": "2026-09-14T02:00:19+00:00",
+      "summary": "Coordenador-executivo-geral das Seleções Masculinas da CBF é o entrevistado do CNN Esportes S/A deste domingo (13)",
+      "category": "Esportes"
+    },
+    {
+      "title": "Rodrigo Caetano avalia Copa de 2026: “Sabíamos que seria difícil”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/rodrigo-caetano-avalia-copa-de-2026-sabiamos-que-seria-dificil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T01:45:22+00:00",
+      "summary": "Coordenador-executivo-geral das Seleções Masculinas da CBF é o entrevistado do CNN Esportes S/A deste domingo (13)",
+      "category": "Esportes"
+    },
+    {
+      "title": "STF foi incapaz de compreender as demandas da sociedade, diz especialista",
+      "url": "https://www.cnnbrasil.com.br/politica/stf-foi-incapaz-de-compreender-as-demandas-da-sociedade-diz-especialista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T01:44:41+00:00",
+      "summary": "Jurista Oscar Vilhena afirma ao CNN Agora que crise interna no Supremo é a maior em 135 anos e cobra transparência e responsabilização",
       "category": "Política"
     },
     {
-      "title": "Polícia Civil e Guarda Municipal salvam cães em situação de maus-tratos em Petrópolis: 'Risco concreto de morte'",
-      "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/13/policia-civil-e-guarda-municipal-salvam-caes-em-situacao-de-maus-tratos-em-petropolis-risco-concreto-de-morte.ghtml",
-      "source": "G1",
+      "title": "Folha de louro: conheça o analgésico escondido no armário da cozinha",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/folha-de-louro-conheca-o-analgesico-escondido-no-armario-da-cozinha/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T23:55:03+00:00",
-      "summary": "Caso de maus-tratos foi registrado na 105ª Delegacia de Polícia, no bairro Retiro, em Petrópolis Bruno Rodrigues/G1 Agentes da Polícia Civil e da Guarda Municipal em Petrópolis, na Região Serrana do Rio, autuaram um homem em flagrante pelo crime de maus-tratos a animais. A ação foi realizada neste sábado (12), no bairr",
-      "category": "Mundo"
-    },
-    {
-      "title": "Miastenia gravis: um papo com Alex Escobar sobre o susto que ele tomou depois de passar mal ao vivo, na Copa",
-      "url": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/09/13/miastenia-gravis-um-papo-com-alex-escobar-sobre-o-susto-que-ele-tomou-depois-de-passar-mal-ao-vivo-na-copa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T23:51:42+00:00",
-      "summary": "Alex Escobar é um colega muito querido e uma referência no telejornalismo esportivo. Mas, nos últimos meses, ele precisou se distanciar da TV para enfrentar um desafio inesperado. Durante a cobertura da Copa do Mundo, nos Estados Unidos, o apresentador passou mal ao vivo e, após exames, descobriu uma doença autoimune r",
+      "publishedAt": "2026-09-14T01:15:08+00:00",
+      "summary": "Especiaria possui compostos que atuam diretamente na saúde",
       "category": "Saúde"
     },
     {
-      "title": "Cidades da Região Metropolitana de Belo Horizonte são atingidas por forte chuva e granizo neste domingo",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/13/cidades-da-regiao-metropolitana-sao-atingidas-por-forte-chuva-e-granizo-neste-domingo.ghtml",
-      "source": "G1",
+      "title": "Fãs? Brad Pitt e Matthew McConaughey posam ao lado de Ronaldo",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/fas-brad-pitt-e-matthew-mcconaughey-posam-ao-lado-de-ronaldo/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T23:47:24+00:00",
-      "summary": "Cidades da Região Metropolitana são atingidas por forte chuva e granizo neste domingo Cidades da Região Metropolitana de Belo Horizonte foram atingidas por uma forte chuva e granizo no início da noite deste domingo (13). Na capital mineira, a Defesa Civil emitiu um alerta para a possibilidade de pancadas de chuva até a",
+      "publishedAt": "2026-09-14T00:55:13+00:00",
+      "summary": "O ex-jogador encontrou estrelas de Hollywood durante o US Open, torneio de tênis que aconteceu em Nova York",
+      "category": "Mundo"
+    },
+    {
+      "title": "Grêmio chega a acordo para o retorno de Renato Gaúcho",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/gremio-chega-a-acordo-para-o-retorno-de-renato-gaucho/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-14T00:48:27+00:00",
+      "summary": "Ídolo gremista volta ao comando da equipe para sua quinta passagem pelo clube, com contrato inicialmente até o fim da temporada",
       "category": "Clima"
     },
     {
-      "title": "PT aciona STF para apurar suposto custeio estrangeiro à campanha de Flávio",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/pt-aciona-stf-para-apurar-suposto-custeio-estrangeiro-a-campanha-de-flavio/",
+      "title": "Ancelotti detalha trabalho com técnicos de base da Seleção em renovação",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-detalha-trabalho-com-tecnicos-de-base-da-selecao-em-renovacao/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T23:47:10+00:00",
-      "summary": "Petição relaciona fundo de investimento co-fundado por J.D. Vance, vice-presidente norte-americano, e apresentação sobre terras raras feita pelo candidato ao governo do Rio, André Marinho",
-      "category": "Política"
-    },
-    {
-      "title": "Um ano após crise do metanol, investigação revela cadeia de falsificação e vítimas convivem com sequelas",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/09/13/um-ano-apos-crise-do-metanol-investigacao-revela-cadeia-de-falsificacao-e-vitimas-convivem-com-sequelas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T23:46:41+00:00",
-      "summary": "Um ano após crise do metanol, investigações avançam, mas ainda há mortes no país por intoxicação Um ano depois da onda de intoxicações por metanol associadas a bebidas adulteradas em São Paulo, a polícia afirma ter identificado os principais envolvidos na cadeia de falsificação que provocou mortes e deixou vítimas com ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ator de “Velozes e Furiosos” anuncia divórcio após 20 anos de casamento",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/ator-de-velozes-e-furiosos-anuncia-divorcio-apos-20-anos-de-casamento/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T23:44:11+00:00",
-      "summary": "Alan e Cat Ritchson divulgaram que seguirão caminhos diferentes em uma publicação no Instagram; os dois são pais de três filhos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Famalicão x Sporting. \"Havia penalty sobre Maxi.\"",
-      "url": "https://observador.pt/programas/sem-falta/famalicao-x-sporting-havia-penalty-sobre-maxi/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:30:52+00:00",
-      "summary": "Nota 4 para Luís Godinho no empate do Sporting em Famalicão. Um penalty por assinalar, um penalty bem assinalado a favor do Sporting, o jogador do Famalicão foi bem expulso e o golo do empate foi legal.",
+      "publishedAt": "2026-09-14T00:45:32+00:00",
+      "summary": "Ao CNN Esportes S/A deste domingo (13), técnico italiano conta detalhes sobre novo ciclo da Seleção Brasileira",
       "category": "Esportes"
     },
     {
-      "title": "Bruno Henrique elogia jovem do Flamengo: “Tem muita qualidade”",
-      "url": "https://www.cnnbrasil.com.br/noticias/bruno-henrique-elogia-jovem-do-flamengo-tem-muita-qualidade/",
-      "source": "CNN Brasil",
+      "title": "Guilherme Schimidt é ouro e país fecha Grand Slam de judô com 3 pódios",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/guilherme-schimidt-e-ouro-e-pais-fecha-grand-slam-de-judo-com-3-podios",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-13T23:30:04+00:00",
-      "summary": "Atacante aponta qualidade do novo reforço após vitória rubro-negra no Brasileirão contra o Corinthians",
+      "publishedAt": "2026-09-13T23:20:00+00:00",
+      "summary": "O judoca brasiliense Guilherme Schimidt subiu ao topo do pódio no Grand Slam de Budapeste (Hungria) neste domingo (12), último dia da competição. Em sua primeira final de Grand Slam na categoria até 90 quilios, o brasileiro derrotou o sérvio Boris Rutovic ao definir o embate com um ippon. Além do ouro, o país encerrou ",
       "category": "Mundo"
-    },
-    {
-      "title": "Centro-esquerda lidera por pouco em eleição parlamentar na Suécia",
-      "url": "https://www.cnnbrasil.com.br/internacional/centro-esquerda-lidera-por-pouco-em-eleicao-parlamentar-na-suecia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T23:29:50+00:00",
-      "summary": "Apuração parcial mostra empate técnico, com bloco liderado pelo Partido Social-Democrata projetado para conquistar 175 cadeiras",
-      "category": "Política"
-    },
-    {
-      "title": "Benfica x Gil Vicente. \"Erros sem grande impacto.\"",
-      "url": "https://observador.pt/programas/sem-falta/benfica-x-gil-vicente-erros-sem-grande-impacto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:27:19+00:00",
-      "summary": "Nota 6 para João Gonçalves no triunfo do Benfica na recepção do Gil Vicente. Na opinião de Pedro Henriques, o penalty que desbloqueou o jogo bem assinalado.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Gilmar Mendes reforça pedido por acesso aos dados do celular de Vorcaro",
-      "url": "https://www.cnnbrasil.com.br/politica/gilmar-mendes-reforca-pedido-por-acesso-aos-dados-do-celular-de-vorcaro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T23:26:22+00:00",
-      "summary": "Ministro do STF já havia pedido nessa sexta (11) acesso aos dados colhidos no celular do ex-banqueiro",
-      "category": "Política"
-    },
-    {
-      "title": "Sobreviverão os ayatollahs ao mata-leão?",
-      "url": "https://observador.pt/opiniao/sobreviverao-os-ayatollahs-ao-mata-leao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:24:38+00:00",
-      "summary": "Agora o Irão enfrenta, não o heroico martírio na Grande Jihad, mas a prosaica doença que fez definhar a matar a URSS: a falta de dinheiro!",
-      "category": "Saúde"
-    },
-    {
-      "title": "23h Bombeiros em dificuldades por causa do preço dos combustíveis",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-bombeiros-em-dificuldades-por-causa-do-preco-dos-combustiveis_a1_1765200",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:24:02+00:00",
-      "summary": "",
-      "category": "Economia"
-    },
-    {
-      "title": "A escola está muito doente",
-      "url": "https://observador.pt/opiniao/a-escola-esta-muito-doente/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:22:40+00:00",
-      "summary": "Há cinquenta anos fizemos uma revolução extraordinária e abrimos a escola a todos. Falta acabar o trabalho. Porque igualdade não é pôr todas as crianças dentro do mesmo edifício durante doze anos",
-      "category": "Mundo"
-    },
-    {
-      "title": "A infantilização da mente moderna",
-      "url": "https://observador.pt/opiniao/a-infantilizacao-da-mente-moderna/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:20:25+00:00",
-      "summary": "É verdade que a Universidade dificilmente consegue deixar de refletir as mudanças mais gerais da sociedade. Mas não nos devemos render sem luta: não estamos a fazer bem aos estudantes",
-      "category": "Mundo"
-    },
-    {
-      "title": "A depressão portuguesa",
-      "url": "https://observador.pt/opiniao/a-depressao-portuguesa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:19:16+00:00",
-      "summary": "Manifesto por um novo projeto nacional",
-      "category": "Mundo"
-    },
-    {
-      "title": "Repôr o equilíbrio cívico",
-      "url": "https://observador.pt/opiniao/repor-o-equilibrio-civico/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:15:43+00:00",
-      "summary": "O serviço militar obrigatório, o serviço médico à periferia, foram exemplos de exercícios de deveres para com a comunidade, fundamentais para a reivindicação de direitos.",
-      "category": "Saúde"
-    },
-    {
-      "title": "00h. Sporting empata a uma bola em casa do Famalicão",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2419/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:15:42+00:00",
-      "summary": "Os “leões” perdem assim terreno para os rivais, depois de sofrerem um autogolo de Gonçalo Inácio já em tempo de compensação. Ainda, os Sociais-Democratas vencem as eleições legislativas na Suécia.",
-      "category": "Política"
-    },
-    {
-      "title": "14 de Setembro: o dia que nunca existiu e amarrou o fisco",
-      "url": "https://observador.pt/opiniao/14-de-setembro-o-dia-que-nunca-existiu-e-amarrou-o-fisco-a-6-de-abril/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:14:00+00:00",
-      "summary": "Chegar tarde devia ser uma vantagem, porque dá tempo de ver o resultado noutro país antes de o repetir. É a única que temos e nunca a soubemos usar",
-      "category": "Clima"
-    },
-    {
-      "title": "O que se compra quando se compram fragatas",
-      "url": "https://observador.pt/opiniao/o-que-se-compra-quando-se-compram-fragatas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:11:35+00:00",
-      "summary": "Portugal colabora na defesa europeia em vários teatros, mas em quase todos é um entre muitos. No Oceano Atlântico não o é.",
-      "category": "Economia"
-    },
-    {
-      "title": "Namorado de Hayden Panettiere é algemado em bar nos Estados Unidos",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/namorado-de-hayden-panettiere-e-algemado-em-bar-nos-estados-unidos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T23:09:37+00:00",
-      "summary": "Brian Hickerson se envolveu em uma confusão em Greenville, na Carolina do Sul",
-      "category": "Mundo"
-    },
-    {
-      "title": "Taxas, taxinhas e emolumentos da Autoridade Marítima",
-      "url": "https://observador.pt/opiniao/taxas-taxinhas-e-emolumentos-da-autoridade-maritima/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T23:08:36+00:00",
-      "summary": "Um Governo que fuja da reforma e da racionalização da Autoridade Marítima é um governo do poucochinho, e não tem razão para se intitular reformista.",
-      "category": "Política"
-    },
-    {
-      "title": "Flamengo 2 x 1 Corinthians: veja os melhores momentos pelo Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-2-x-1-corinthians-veja-os-melhores-momentos-pelo-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T23:07:40+00:00",
-      "summary": "Debaixo de muita chuva no Maracanã, Rubro-Negro reassume liderança do campeonato; gols foram marcados no segundo tempo.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Concurso Fotógrafo Oceânico do Ano nomeia vencedores de 2026; veja imagens",
-      "url": "https://www.cnnbrasil.com.br/ciencia/concurso-fotografo-oceanico-do-ano-nomeia-vencedores-de-2026-veja-imagens/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T22:54:12+00:00",
-      "summary": "Julien Anton venceu a principal categoria do evento por registro de cavalo-marinho adulto acompanhado por filhotes recém-nascidos nas águas da Polinésia Francesa",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ministro da Cultura de Israel quer revogar cidadania dos cineastas de \"Naza\"",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/ministro-da-cultura-de-israel-quer-revogar-cidadania-dos-cineastas-de-naza_n1765196",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T22:31:39+00:00",
-      "summary": "O ministro da Cultura israelita disse hoje que tomará medidas para revogar a cidadania dos realizadores do documentário \"Naza\", sobre massacres de civis em Gaza, que conquistou o Prémio Especial do Júri no Festival de Cinema de Veneza.",
-      "category": "Política"
-    },
-    {
-      "title": "\"Traição\" de Adzic impõe primeira derrota à Juventus",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/traicao-de-adzic-impoe-primeira-derrota-a-juventus_d1765195",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T22:20:11+00:00",
-      "summary": "Um golo do montenegrino Vasilije Adzic, emprestado pela Juventus, impôs hoje a primeira derrota à equipa de Turim na Liga italiana de futebol, ao marcar, aos 90+4 minutos, o triunfo do Sassuolo, por 3-2, em jogo da quarta jornada.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Paris Saint-Germain vence pela primeira vez, Lille sobe à liderança em França",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/paris-saint-germain-vence-pela-primeira-vez-lille-sobe-a-lideranca-em-franca_d1765193",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T21:52:04+00:00",
-      "summary": "O pentacampeão Paris Saint-Germain conseguiu, em Brest, à quarta jornada, a sua primeira vitória na Liga francesa de futebol, numa ronda que marcou a subida do Lille à liderança, com os mesmos 10 pontos de Mónaco e Rennes.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Procissão da Senhora da Pena. \"Maior andor do mundo\" carregado por 110 homens",
-      "url": "https://www.rtp.pt/noticias/cultura/procissao-da-senhora-da-pena-maior-andor-do-mundo-carregado-por-110-homens_v1765192",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T21:13:54+00:00",
-      "summary": "O andor gigante da Senhora da Pena de Vila Real saiu em procissão pela primeira vez desde que faz parte do inventário nacional do património cultural. Tem 23 metros e pesa três toneladas.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Festa da Transumância realiza-se há 26 anos em Fernão Joanes, na Guarda",
-      "url": "https://www.rtp.pt/noticias/cultura/festa-da-transumancia-realiza-se-ha-26-anos-em-fernao-joanes-na-guarda_v1765191",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T21:13:48+00:00",
-      "summary": "Fernão Joanes é uma aldeia da Guarda que celebrou este fim de semana uma das tradições da Serra da Estrela, também como forma de homenagear os pastores. É a deslocação sazonal dos rebanhos dos pastos mais altos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Morreu o editor belga de BD Yves Schlirf que pôs o espaço francófono a ler \"Naruto\"",
-      "url": "https://www.rtp.pt/noticias/cultura/morreu-o-editor-belga-de-bd-yves-schlirf-que-pos-o-espaco-francofono-a-ler-naruto_n1765187",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T21:13:26+00:00",
-      "summary": "O editor belga de banda desenhada Yves Schlirf, figura chave na explosão da manga japonesa nos países francófonos com `best-sellers` como \"Naruto\", faleceu no sábado, segundo informaram hoje as editoras Dargaud e Kana, às quais estava ligado.",
-      "category": "Ciência & Tech"
     },
     {
       "title": "Veja como foi o fim de semana dos candidatos a presidente",
@@ -416,24 +452,6 @@
       "category": "Política"
     },
     {
-      "title": "Gulbenkian financiou projeto de reabilitação de fortaleza portuguesa no estreito de Ormuz",
-      "url": "https://www.rtp.pt/noticias/cultura/gulbenkian-financiou-projeto-de-reabilitacao-de-fortaleza-portuguesa-no-estreito-de-ormuz_v1765189",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T21:11:47+00:00",
-      "summary": "Portugal controlou o Estreito de Ormuz no século XVI. A Fundação Gulbenkian financiou um projeto de recuperação da fortaleza portuguesa de Nossa Senhora da Conceição, ali abandonada há mais de 500 anos. A instabilidade política e militar nunca permitiu a reabilitação do monumento.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Estados Unidos campeões mundiais femininos de basquetebol pela quinta vez seguida",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/estados-unidos-campeoes-mundiais-femininos-de-basquetebol-pela-quinta-vez-seguida_d1765188",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T21:09:20+00:00",
-      "summary": "Os Estados Unidos sagraram-se pela quinta vez consecutiva campeões mundiais femininos de basquetebol, depois de derrotarem a França, por 97-79, na final disputada em Berlim.",
-      "category": "Mundo"
-    },
-    {
       "title": "Ex-ministros e sociedade civil divulgam carta em apoio a Fachin",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/ex-ministros-e-sociedade-civil-divulgam-carta-em-apoio-fachin",
       "source": "Agência Brasil",
@@ -441,15 +459,6 @@
       "publishedAt": "2026-09-13T21:07:00+00:00",
       "summary": "Um grupo de ex-ministros de Estado, economistas, empresários e integrantes da sociedade civil divulgaram uma carta neste domingo (13) em apoio ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin. A carta fala em apoio às medidas tomadas por Fachin até o momento, “com o objetivo de preservar a autorid",
       "category": "Política"
-    },
-    {
-      "title": "O Segredo do Algoritmo. Poderá a IA realizar ataques sem conhecimento de humanos?",
-      "url": "https://www.rtp.pt/noticias/mundo/o-segredo-do-algoritmo-podera-a-ia-realizar-ataques-sem-conhecimento-de-humanos_v1765186",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-13T20:42:47+00:00",
-      "summary": "Donald Trump critica os que querem pôr um travão no rápido desenvolvimento da Inteligência Artificial. Alega que os Estados Unidos estão muito à frente e diz que estão a ser exageradas as chamadas forças negativas.",
-      "category": "Ciência & Tech"
     },
     {
       "title": "Mendonça cita risco às investigações com dados de celular de Vorcaro",
@@ -512,15 +521,6 @@
       "region": "Brasil",
       "publishedAt": "2026-09-13T16:30:00+00:00",
       "summary": "A Polícia Federal (PF) informou ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, que os dados extraídos do telefone celular do ex-banqueiro Daniel Vorcaro estão preservados, sob a guarda da instituição. A PF informou que está de posse do aparelho e do material original extraído dele, com lacres í",
-      "category": "Política"
-    },
-    {
-      "title": "Dino determina fim do sigilo de investigações sobre o filme Dark Horse",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-determina-fim-do-sigilo-de-investigacoes-sobre-o-filme-dark-horse",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-13T15:33:00+00:00",
-      "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou, neste domingo (13), a quebra de sigilo de todo o material apreendido pela polícia de São Paulo nas investigações de desvio de emendas parlamentares para financiamento do filme Dark Horse , uma dramatização da vida do ex-presidente Jair Bolsonaro. Em s",
       "category": "Política"
     }
   ],
