@@ -1,176 +1,374 @@
 {
-  "updatedAt": "2026-09-16T00:16:21.474353+00:00",
+  "updatedAt": "2026-09-16T04:51:33.103557+00:00",
   "items": [
     {
-      "title": "As notícias da 1h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2385/",
-      "source": "Observador",
+      "title": "5h Ministério divulga número de alunos colocados que não tinham escola atribuída",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-ministerio-divulga-numero-de-alunos-colocados-que-nao-tinham-escola-atribuida_a1_1765717",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-16T00:13:44+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Por que o fogão da avó voltou ao projeto de arquitetura",
-      "url": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/15/por-que-o-fogao-da-avo-voltou-ao-projeto-de-arquitetura.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-16T00:00:00+00:00",
-      "summary": "Há um detalhe curioso nas tendências de decoração de 2026: o fogão a lenha aparece em projetos de famílias que têm gás encanado, indução e forno elétrico. Ele não está ali por necessidade — está por memória afetiva, que passou a ser um critério de projeto tão citado quanto funcionalidade e paleta de cores. Fogões a len",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 15 de setembro de 2026",
-      "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-15-de-setembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:59:11+00:00",
+      "publishedAt": "2026-09-16T05:33:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Felipe Camarão propõe melhorar arrecadação tributária e reduzir gastos públicos no Maranhão",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/15/felipe-camarao-propoe-melhorar-arrecadacao-tributaria-e-reduzir-gastos-publicos-no-maranhao.ghtml",
+      "title": "4h Preço da eletricidade regulada sobe 2,7% a partir de outubro",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-preco-da-eletricidade-regulada-sobe-27-a-partir-de-outubro_a1_1765710",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T04:14:02+00:00",
+      "summary": "",
+      "category": "Economia"
+    },
+    {
+      "title": "A sessão histórica que colocou o Supremo contra si mesmo - O Assunto #1805",
+      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/16/a-sessao-historica-que-colocou-o-supremo-contra-si-mesmo-o-assunto-1805.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-15T23:57:45+00:00",
-      "summary": "Felipe Camarão defende eficiência na arrecadação de impostos e redução de gastos públicos Os candidatos ao governo do Maranhão Eduardo Braide (PSD), Felipe Camarão (PT), Roberto Rocha (PRTB) e Saulo Arcângeli (PSTU) cumpriram compromissos de campanha nesta terça-feira (15). Durante as agendas, eles apresentaram propost",
+      "publishedAt": "2026-09-16T04:12:57+00:00",
+      "summary": "A sessão dessa terça-feira (15) foi marcada pelo presidente do STF, Edson Fachin, para que o plenário da Corte deliberasse sobre a abertura de uma possível investigação contra o ministro Alexandre de Moraes, no âmbito do Caso Master. Mas a análise do mérito não chegou perto de ser debatida. Logo na abertura da sessão, ",
       "category": "Política"
     },
     {
-      "title": "Sul-Americana: veja classificados e confrontos das semifinais",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/veja-classificados-e-confrontos-das-semifinais-da-sul-americana/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:56:57+00:00",
-      "summary": "Vasco é o primeiro classificado para a próxima fase",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vasco vence Santa Fe e volta à semifinal da Sul-Americana após 15 anos",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/vasco-vence-santa-fe-e-volta-a-semifinal-da-sul-americana-apos-15-anos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:56:42+00:00",
-      "summary": "Gigante da Colina segue avançando no torneio, mesmo escalando time misto",
-      "category": "Mundo"
-    },
-    {
-      "title": "Caiado acusa STF de procrastinação e cobra “moralidade” em sessão de Moraes",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/caiado-acusa-stf-de-procrastinacao-e-cobra-moralidade-em-sessao-de-moraes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:55:54+00:00",
-      "summary": "Candidato do PSD à Presidência vê “degradação moral” no Brasil",
-      "category": "Política"
-    },
-    {
-      "title": "Fluminense perde para o Platense mas se classifica na Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/fluminense-perde-para-o-platense-mas-se-classifica-na-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:55:10+00:00",
-      "summary": "Tricolor foi superado na Argentina mas avançou à próxima fase graças ao placar agregado",
-      "category": "Mundo"
-    },
-    {
-      "title": "S&P reafirma rating e aponta melhora operacional da Jalles Machado",
-      "url": "https://www.cnnbrasil.com.br/agro/sp-reafirma-rating-e-aponta-melhora-operacional-da-jalles-machado/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:54:44+00:00",
-      "summary": "Agência destaca recuperação de produtividade agrícola e alta nos volumes de cana processada para safra 2026/27",
-      "category": "Mundo"
-    },
-    {
-      "title": "Libertadores: veja classificados e confrontos das semifinais",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/veja-classificados-e-confrontos-das-semifinais-da-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:54:38+00:00",
-      "summary": "Fluminense é o primeiro classificado para a próxima fase",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: Wilder Morais fala em criar tabela estadual para contratar hospitais privados e filantrópicos",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-wilder-morais-fala-em-criar-tabela-estadual-para-contratar-hospitais-privados-e-filantropicos.ghtml",
+      "title": "Previsão do tempo hoje para Brasília (DF): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-15T23:54:17+00:00",
-      "summary": "O candidato ao governo de Goiás, Wilder Morais (PL), foi entrevistado nesta terça-feira (15) no Jornal Anhanguera, em Goiânia. Wilder afirmou que pretende reforçar o policiamento e o uso da inteligência artificial no combate à violência doméstica. O candidato também prometeu criar um programa para garantir o primeiro e",
-      "category": "Política"
+      "publishedAt": "2026-09-16T04:07:33+00:00",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quarta-feira (16) para Brasília (DF) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No ",
+      "category": "Clima"
     },
     {
-      "title": "Campanha polêmica de Sydney Sweeney gera reações na Times Square",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/campanha-polemica-de-sydney-sweeney-gera-reacoes-na-times-square/",
+      "title": "Previsão do tempo hoje para São Paulo (SP): céu nublado com possibilidade de garoa de dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-sao-paulo-sp-ceu-nublado-com-possibilidade-de-garoa-de-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:07:16+00:00",
+      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta quarta-feira (16) para São Paulo (SP) é de céu nublado com possibilidade de garoa de dia e à noite. As máximas são de 18ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo nublado. No período da tarde, tem",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:06:59+00:00",
+      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para esta quarta-feira (16) para São Bernardo do Campo (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 16ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. D",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:06:43+00:00",
+      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para esta quarta-feira (16) para Santo André (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 16ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:06:26+00:00",
+      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para esta quarta-feira (16) para Osasco (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 18ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:06:10+00:00",
+      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para esta quarta-feira (16) para Guarulhos (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 18ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol o dia todo, com muitas nuvens; pancadas de chuva de manhã, à noite, tempo chuvoso",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-o-dia-todo-com-muitas-nuvens-pancadas-de-chuva-de-manha-a-noite-tempo-chuvoso.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:05:53+00:00",
+      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para esta quarta-feira (16) para São Gonçalo (RJ) é de sol o dia todo, com muitas nuvens. Pancadas de chuva de manhã. À noite, tempo chuvoso. As máximas são de 21ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): tempo chuvoso de manhã e à noite; aberturas de sol à tarde, ainda com pancadas de chuva",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-tempo-chuvoso-de-manha-e-a-noite-aberturas-de-sol-a-tarde-ainda-com-pancadas-de-chuva.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:05:38+00:00",
+      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para esta quarta-feira (16) para o Rio de Janeiro (RJ) é de tempo chuvoso de manhã e à noite. Aberturas de sol à tarde, ainda com pancadas de chuva. As máximas são de 22ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a ma",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-pancadas-de-chuva-de-manha-e-muitas-nuvens-a-tarde-a-noite-tempo-firme.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:05:21+00:00",
+      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para esta quarta-feira (16) para Nova Iguaçu (RJ) é de sol, com pancadas de chuva de manhã e muitas nuvens à tarde. À noite, tempo firme. As máximas são de 20ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chu",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Niterói (RJ): sol com algumas nuvens e chuva passageira; à noite, o céu fica nublado e pode chuviscar",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-o-ceu-fica-nublado-e-pode-chuviscar.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:04:50+00:00",
+      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para esta quarta-feira (16) para Niterói (RJ) é de sol com algumas nuvens e chuva passageira. À noite, o céu fica nublado e pode chuviscar. As máximas são de 21ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancad",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol o dia todo, com muitas nuvens; pancadas de chuva de manhã, à noite, tempo chuvoso",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-o-dia-todo-com-muitas-nuvens-pancadas-de-chuva-de-manha-a-noite-tempo-chuvoso.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T04:04:28+00:00",
+      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para esta quarta-feira (16) para Duque de Caxias (RJ) é de sol o dia todo, com muitas nuvens. Pancadas de chuva de manhã. À noite, tempo chuvoso. As máximas são de 21ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manh",
+      "category": "Clima"
+    },
+    {
+      "title": "Porque é que pagamos mais combustível que os espanhóis?",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/porque-e-que-pagamos-mais-combustivel-que-os-espanhois/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T04:02:24+00:00",
+      "summary": "Abastecer em Espanha é muito mais barato do que em Portugal. A explicação está no peso dos impostos e nas diferentes estratégias dos dois países perante a escalada dos preços.",
+      "category": "Economia"
+    },
+    {
+      "title": "CNJ orienta Judiciário a remunerar cooperativas de catadores de recicláveis",
+      "url": "https://www.cnnbrasil.com.br/nacional/cnj-orienta-judiciario-a-remunerar-cooperativas-de-catadores-de-reciclaveis/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-15T23:53:16+00:00",
-      "summary": "Atriz posou nua com duas bolas de futebol americano, um taco de hóquei e uma raquete de tênis",
+      "publishedAt": "2026-09-16T04:02:17+00:00",
+      "summary": "Medida recomenda que tribunais realizem contratações para que \"trabalhadores sejam tratados com dignidade e respeito\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dorival detona primeiro tempo do São Paulo contra Boca: “Não tivemos nada”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/dorival-detona-primeiro-tempo-do-sao-paulo-contra-boca-nao-tivemos-nada/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T03:54:53+00:00",
+      "summary": "Em atuação ruim, time tricolor apenas empatou com o Boca Juniors-ARG em 1 a 1 no Morumbis e caiu nas quartas de final do torneio continental",
+      "category": "Clima"
+    },
+    {
+      "title": "Queda de helicóptero deixa pelo menos três mortos em Los Angeles, nos EUA",
+      "url": "https://www.cnnbrasil.com.br/internacional/queda-de-helicoptero-deixa-mortos-em-los-angeles-nos-eua/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T03:40:58+00:00",
+      "summary": "Uma pessoa foi levada a um hospital da região; incêndio foi controlado por bombeiros",
+      "category": "Saúde"
+    },
+    {
+      "title": "“Nunca recebi em dia”, diz Luciano após eliminação do São Paulo",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/nunca-recebi-em-dia-diz-luciano-apos-eliminacao-do-sao-paulo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T03:28:28+00:00",
+      "summary": "Atacante desabafou após queda para o Boca Juniors na Sul-Americana",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h Associação vítimas de abusos recebida por Seguro na 6ª feira",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-associacao-vitimas-de-abusos-recebida-por-seguro-na-6a-feira_a1_1765708",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T03:14:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "4h. Marco Silva espera adversidades no jogo com o AC Milan",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2402/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T03:12:26+00:00",
+      "summary": "Marco Silva diz que jogar no Estádio San Siro vai ser difícil tendo em conta que as duas equipas estão habituadas a jogar na Liga dos Campeões. Ainda, Cavaco Silva critica ruído mediático e político.",
       "category": "Esportes"
     },
     {
-      "title": "Renato Gaúcho é registrado no BID e fica livre para reestrear no Grêmio",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/renato-gaucho-e-registrado-no-bid-e-fica-livre-para-reestrear-no-gremio/",
+      "title": "Veja quanto o São Paulo deixou de ganhar após queda para o Boca Juniors",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/veja-quanto-o-sao-paulo-deixou-de-ganhar-apos-queda-para-o-boca-juniors/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-15T23:52:50+00:00",
-      "summary": "Treinador acertou o retorno ao clube gaúcho depois da demissão de Luís Castro, após a derrota para o Vasco, pelo Campeonato Brasileiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Minerva homologa aumento de capital de R$ 2,7 mil após exercício de bônus",
-      "url": "https://www.cnnbrasil.com.br/agro/minerva-homologa-aumento-de-capital-de-r-27-mil-apos-exercicio-de-bonus/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:52:26+00:00",
-      "summary": "A operação, decorrente do exercício de bônus de subscrição, eleva o capital social da companhia para R$ 3,1346 bilhões e o total de ações para 1,0005 bilhão.",
+      "publishedAt": "2026-09-16T03:11:19+00:00",
+      "summary": "Conmebol paga valor de acordo com a fase que os times disputam na competição continental",
       "category": "Mundo"
     },
     {
-      "title": "Não dá para pensar futuro do país sem infraestrutura, diz CEO da CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/nao-da-para-pensar-futuro-do-pais-sem-infraestrutura-diz-ceo-da-cnn-brasil/",
+      "title": "São Paulo 1 x 1 Boca Juniors: veja os melhores momentos pela Sul-Americana",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/sao-paulo-1-x-1-boca-juniors-veja-os-melhores-momentos-pela-sul-americana/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-15T23:52:21+00:00",
-      "summary": "Na abertura do \"CNN Talks Infra Saneamento: a Segunda Metade do Caminho até 2033\", João Vitor Xavier destacou necessidade de capital e paciência para investimentos vingarem no país",
+      "publishedAt": "2026-09-16T03:03:02+00:00",
+      "summary": "Mesmo com empate, Tricolor é eliminado jogando em casa e dá adeus ao torneio continental",
+      "category": "Mundo"
+    },
+    {
+      "title": "WW Talks discute crise do STF e reflexo nas eleições",
+      "url": "https://www.cnnbrasil.com.br/politica/ww-talks-crise-stf-eleicoes-2026/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T03:01:03+00:00",
+      "summary": "Novo episódio aborda papel do Judiciário no cenário político e preocupação dos brasileiros com corrupção",
+      "category": "Política"
+    },
+    {
+      "title": "Quatro são investigados por homicídio após desabamento que matou seis em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/quatro-sao-investigados-por-homicidio-apos-desabamento-que-matou-seis-em-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T02:57:31+00:00",
+      "summary": "Investigados são um sócio oculto preso, o responsável técnico foragido, uma sócia e uma servidora municipal",
+      "category": "Mundo"
+    },
+    {
+      "title": "Câmara dos EUA aprova medida para limitar poderes de Trump em guerra no Irã",
+      "url": "https://www.cnnbrasil.com.br/internacional/camara-dos-eua-aprova-medida-para-limitar-poderes-de-trump-em-guerra-no-ira/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T02:56:10+00:00",
+      "summary": "Com apoio de sete republicanos, esta é a terceira vez em que a casa autoriza a ação",
+      "category": "Política"
+    },
+    {
+      "title": "Universalização do saneamento é pagar dívida histórica, diz CEO da Sabesp",
+      "url": "https://www.cnnbrasil.com.br/infra/universalizacao-do-saneamento-e-pagar-divida-historica-diz-ceo-da-sabesp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T02:54:06+00:00",
+      "summary": "Marco Legal do Saneamento Básico estabeleceu que país deve garantir que 99% da população tenha acesso à água potável e 90% à coleta e ao tratamento de esgoto",
+      "category": "Mundo"
+    },
+    {
+      "title": "Saneamento articula resposta para lidar com impacto de reforma tributária",
+      "url": "https://www.cnnbrasil.com.br/infra/saneamento-articula-resposta-para-lidar-com-impacto-de-reforma-tributaria/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T02:47:58+00:00",
+      "summary": "CNN Talks Infra Saneamento reuniu nesta terça-feira (15) autoridades, empresários e especialistas para debater principais gargalos e apontar caminhos do setor",
+      "category": "Mundo"
+    },
+    {
+      "title": "1h Semana europeia da mobilidade, as queixas de quem usa os comboios urbanos na região de Lisboa",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-semana-europeia-da-mobilidade-as-queixas-de-quem-usa-os-comboios-urbanos-na-regiao-de-lisboa_a1_1765705",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T02:43:02+00:00",
+      "summary": "",
+      "category": "Economia"
+    },
+    {
+      "title": "Corinthians bate o Bahia e abre vantagem na semi do Brasileirão feminino",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-bate-o-bahia-e-abre-vantagem-na-semi-do-brasileirao-feminino/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T02:34:29+00:00",
+      "summary": "Time paulista venceu com gol de Jhonson na Arena Fonte Nova, em Salvador, na noite desta terça-feira (15)",
+      "category": "Esportes"
+    },
+    {
+      "title": "2h Dominado incêndio que deflagrava desde ontem em Proença-a-Nova",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-dominado-incendio-que-deflagrava-desde-ontem-em-proenca-a-nova_a1_1765702",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T02:17:02+00:00",
+      "summary": "",
+      "category": "Clima"
+    },
+    {
+      "title": "3h. Conselho Europeu. Montenegro apoia Costa noutro mandato",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2438/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T02:16:06+00:00",
+      "summary": "O primeiro-ministro quer que o antecessor fique mais dois anos e meio à frente do Conselho Europeu. Ainda, Governo propõe uma taxa de 33% sobre os lucros extraordinários das petrolíferas.",
+      "category": "Política"
+    },
+    {
+      "title": "0h Só falta o voto a favor do PS para realização de comissão parlamentar de inquérito à correção dos exames nacionais",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-so-falta-o-voto-a-favor-do-ps-para-realizacao-de-comissao-parlamentar-de-inquerito-a-correcao-dos-exames-nacionais_a1_1765699",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T01:22:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h. 40% das pessoas que apostam online usam sites ilegais",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2412/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T01:13:36+00:00",
+      "summary": "O presidente da Associação Portuguesa de Apostas e Jogos online considera que nos últimos anos houve uma \"normalização\" do jogo ilegal. Ainda, Aníbal Cavaco Silva critica ruído mediático e político.",
+      "category": "Política"
+    },
+    {
+      "title": "Especialistas defendem maior regulação de plataformas digitais",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/especialistas-defendem-maior-regulacao-de-plataformas-digitais",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T01:01:00+00:00",
+      "summary": "O Brasil deve ampliar a regulação de plataformas digitais e a fiscalização do compartilhamento de conteúdos feitos com Inteligência Artificial. Foi o que defenderam as pesquisadoras Fernanda Rodrigues, diretora executiva do Instituto de Referência em Internet e Sociedade (IRIS) e Larissa Santiago, cofundadora da plataf",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Nunes Marques bloqueia Gilmar Mendes no WhatsApp após desentendimento",
-      "url": "https://www.cnnbrasil.com.br/politica/nunes-marques-bloqueia-gilmar-mendes-no-whatsapp-apos-desentendimento/",
-      "source": "CNN Brasil",
+      "title": "Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-chile-na-estreia-pelo-sul-americano-de-volei-masculino",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-15T23:51:53+00:00",
-      "summary": "Discussão teve início após julgamento sobre diretor-geral da PF e se intensificou com cobrança sobre citações a parentes",
+      "publishedAt": "2026-09-16T00:56:00+00:00",
+      "summary": "A seleção masculina de vôlei estreou com triunfo no Campeonato Sul-Americano da modalidade, que classifica o campeão à Olimpíada de Los Angeles (Estados Unidos). Nesta terça-feira (15), os brasileiros venceram o Chile por 3 sets a 0 , parciais de 25/23, 25/16 e 25/11, em uma hora e 20 minutos de partida. Notícias relac",
+      "category": "Esportes"
+    },
+    {
+      "title": "Mega-Sena acumula para R$ 102 milhões; confira os números sorteados",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-102-milhoes-confira-os-numeros-sorteados",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T00:30:00+00:00",
+      "summary": "Nenhum apostador acertou as seis dezenas do Concurso 3.058 da Mega-Sena, realizado nesta terça-feira (15). O prêmio acumulou e está estimado em R$ 102 milhões para o próximo sorteio. Os números sorteados foram: 14 - 23 - 53 - 56 - 57 - 60 49 apostas acertaram cinco dezenas e irão receber R$ 53.305,58 cada 3.632 apostas",
       "category": "Mundo"
     },
     {
-      "title": "Resultados das Loterias Caixa",
-      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "source": "G1",
+      "title": "Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/maioria-dos-projetos-no-congresso-ameacam-indigenas-diz-pesquisa",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-15T23:48:53+00:00",
-      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+      "publishedAt": "2026-09-16T00:25:00+00:00",
+      "summary": "Dos 272 projetos que tramitam no Congresso Nacional que afetam diretamente os direitos dos povos indígenas, 146 (54%) são desfavoráveis a essas comunidades tradicionais. Essa é uma das conclusões de um levantamento divulgado, na tarde desta terça (15), pelo Conselho Indígena Missionário (Cimi). A avaliação aponta ainda",
+      "category": "Política"
+    },
+    {
+      "title": "Veja como foi a terça-feira (15) dos candidatos a presidente",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-terca-feira-15-dos-candidatos-presidente",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T00:19:00+00:00",
+      "summary": "A agenda dos candidatos à presidência da República nesta terça-feira (15) incluiu entrevistas e participação em podcasts, manifestações e atos políticos. >> Veja como foi o dia dos presidenciáveis: Ronaldo Caiado (PSD) O candidato Ronaldo Caiado cumpriu agenda na cidade de Aparecida de Goiânia (GO), onde fez comício de",
+      "category": "Política"
+    },
+    {
+      "title": "Fluminense leva susto, mas é 1º classificado à semi da Libertadores",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/fluminense-leva-susto-mas-e-1o-classificado-semi-da-libertadores",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-16T00:17:00+00:00",
+      "summary": "O Fluminense é o primeiro classificado às semifinais da Libertadores. O Tricolor se garantiu nesta terça-feira (15), mesmo com a derrota por 2 a 1 para o Platense no Coliseo de Victoria, em Vicente López, região metropolitana de Buenos Aires. A equipe brasileira se beneficiou da vitória por 2 a 0 sobre os argentinos na",
       "category": "Mundo"
     },
     {
-      "title": "Dívida pública dos EUA pressiona Treasury, avalia economista",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/divida-publica-dos-eua-pressiona-treasury-avalia-economista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:48:35+00:00",
-      "summary": "Rendimento do Treasury de 10 anos supera 5% pela primeira vez desde 2023 e acende alerta sobre sustentabilidade fiscal dos EUA",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: NSC Notícias de terça-feira, 15 de setembro de 2026",
-      "url": "https://g1.globo.com/sc/santa-catarina/edicao/2026/09/15/videos-nsc-noticias-de-terca-feira-15-de-setembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:44:12+00:00",
-      "summary": "Assista aos vídeos das principais notícias de Santa Catarina.",
-      "category": "Mundo"
+      "title": "1h. Estreito de Ormuz. Ouvidas explosões na ilha de Qeshm",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2385/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-16T00:13:44+00:00",
+      "summary": "Qeshm é a maior ilha do estreito de Ormuz e está fortificada com uma rede subterrânea de lançamento de mísseis. Ainda, 1200 operacionais combatem incêndios em Proença a Nova, Portel e Mirandela.",
+      "category": "Clima"
     },
     {
       "title": "23h Perto de mil alunos que não tinham escola atribuída foram colocados entre ontem e hoje",
@@ -179,42 +377,6 @@
       "region": "Portugal",
       "publishedAt": "2026-09-15T23:44:02+00:00",
       "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: veja como foi o dia dos candidatos ao governo da Bahia nesta terça-feira",
-      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/15/como-foi-o-dia-dos-candidatos-ao-governo-da-bahia-nesta-terca-feira.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:43:48+00:00",
-      "summary": "Candidatos ao governo da Bahia em 2026 Reprodução/DivulgaCand Os candidatos ao governo da Bahia cumpriram compromissos de campanha nesta terça-feira (15). Entre as atividades do dia estiveram entrevistas, reuniões com equipes e lideranças, além de panfletagens em Salvador e no interior do estado. ACM Neto (União Brasil",
-      "category": "Política"
-    },
-    {
-      "title": "Quanto vai custar o chope na Oktoberfest Blumenau 2026? Veja tipos e valores",
-      "url": "https://g1.globo.com/sc/santa-catarina/oktoberfest/noticia/2026/09/15/quanto-vai-custar-chope-na-oktoberfest-blumenau-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:43:37+00:00",
-      "summary": "Oktoberfest 2026: preparativos para a festa já começaram em Blumenau A 41ª edição da Oktoberfest de Blumenau, no Vale do Itajaí, em Santa Catarina, definiu os valores das bebidas. Os chopes variam entre R$ 15 e R$ 41, dependendo do tamanho do copo. Serão 19 dias de festa. A 41ª edição da Oktoberfest ocorre de 7 a 25 de",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mulher é rendida, obrigada entrar em carro e levada até agência bancária para sacar dinheiro para suspeitos em Catanduva",
-      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/15/mulher-e-rendida-obrigada-entrar-em-carro-e-levada-ate-agencia-bancaria-para-sacar-dinheiro-para-suspeitos-em-catanduva.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:39:30+00:00",
-      "summary": "Mulher é vítima de sequestro relâmpago em Catanduva Uma mulher foi rendida por dois homens e uma idosa, obrigada a entrar em um carro e levada até uma agência bancária para sacar dinheiro para os suspeitos na manhã desta terça-feira (15) em Catanduva (SP). A vítima havia saído para comprar um bolo quando foi abordada p",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem é condenado a 12 anos de prisão pelo assassinato de jovem trans na Bahia",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/15/homem-e-condenado-por-envolvimento-na-morte-de-jovem-em-ibicarai.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:38:16+00:00",
-      "summary": "Homem é condenado a 12 anos de prisão pelo assassinato de jovem trans no sul da Bahia Reprodução/Redes Sociais Um homem foi condenado a 12 anos de prisão em regime fechado pelo assassinato de Kauana Vasconcelos, jovem transexual de 16 anos morta a facadas em 2022, na cidade de Ibicaraí, no sul da Bahia. O réu, Kauan Ar",
       "category": "Mundo"
     },
     {
@@ -234,24 +396,6 @@
       "publishedAt": "2026-09-15T23:34:02+00:00",
       "summary": "",
       "category": "Mundo"
-    },
-    {
-      "title": "Programa mapeia áreas de risco e busca retirar 30 toneladas de lixo por dia de igarapés em Rio Branco",
-      "url": "https://g1.globo.com/ac/acre/noticia/2026/09/15/programa-mapeia-areas-de-risco-e-busca-retirar-30-toneladas-de-lixo-por-dia-de-igarapes-em-rio-branco.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:29:18+00:00",
-      "summary": "Igarapés São Francisco e Batista concentram mais de 5 mil pessoas expostas a riscos Walace Gomes/g1 Acre 🚯 O descarte irregular de lixo nos igarapés é um dos problemas que agravam os riscos de alagamentos e enchentes em Rio Branco. Para tentar reduzir os impactos durante o período chuvoso, uma operação de limpeza às ma",
-      "category": "Cultura"
-    },
-    {
-      "title": "Jerônimo Rodrigues destaca apoio à cultura e defende ampliação do financiamento ao setor",
-      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/15/agenda-de-campanha-de-jeronimo-rodrigues.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T23:29:13+00:00",
-      "summary": "Jerônimo Rodrigues destaca fortalecimento da cultura e ampliação de investimentos no setor Reprodução/TV Bahia O candidato à reeleição ao governo da Bahia, Jerônimo Rodrigues (PT), cumpriu agenda de campanha nesta terça-feira (15) com compromissos em Salvador. Pela manhã, ele se reuniu com a equipe de campanha e gravou",
-      "category": "Política"
     },
     {
       "title": "O que a Alemanha e a Suécia nos dizem sobre o “não é não”",
@@ -317,42 +461,6 @@
       "category": "Política"
     },
     {
-      "title": "As notícias das 00h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2421/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T23:16:47+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "A exploração da mulher: uma causa feminista",
-      "url": "https://observador.pt/opiniao/a-exploracao-da-mulher-uma-causa-feminista/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T23:15:46+00:00",
-      "summary": "O feminismo moderno tornou-se um aliado dos homens perversos. Não apenas dos que tratam as mulheres como objectos para o seu prazer, mas de todos os que fazem da exploração a sua fonte de riqueza",
-      "category": "Mundo"
-    },
-    {
-      "title": "É preciso desacelerar a IA?",
-      "url": "https://observador.pt/opiniao/e-preciso-desacelerar-a-ia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T23:14:28+00:00",
-      "summary": "Uma pausa ou um abrandamento, apresentados como expoentes de responsabilidade e de sentido ético, aliviam as pressões mais imediatas sem que ninguém tenha de admitir nenhuma delas.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Um novo colunista, do lado de cá do Atlântico",
-      "url": "https://observador.pt/opiniao/um-novo-colunista-do-lado-de-ca-do-atlantico/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T23:11:54+00:00",
-      "summary": "Tenho uma pátria de nascimento e uma pátria de coração. E tenho-o, hoje, não apenas por afecto mas por direito, porque sou também cidadão português. Escrevo, por isso, de fora e de dentro.",
-      "category": "Mundo"
-    },
-    {
       "title": "Descoberto fragmento da \"Odisseia\" com cerca de 1.700 anos na Biblioteca de Utrecht",
       "url": "https://www.rtp.pt/noticias/cultura/descoberto-fragmento-da-odisseia-com-cerca-de-1700-anos-na-biblioteca-de-utrecht_n1765626",
       "source": "RTP Notícias",
@@ -398,15 +506,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Mundial sub-20 feminino. Selecionadora quer Portugal a \"crescer e desfrutar\" nos oitavos",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/mundial-sub-20-feminino-selecionadora-quer-portugal-a-crescer-e-desfrutar-nos-oitavos_d1765683",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T22:48:41+00:00",
-      "summary": "A selecionadora Marisa Gomes manifestou, esta terça-feira, o desejo de ver Portugal a crescer e a desfrutar da partida frente à candidata à vitória, Espanha, nos oitavos de final do Campeonato do Mundo feminino de futebol de sub-20.",
-      "category": "Esportes"
-    },
-    {
       "title": "Livro com textos de Pierre Verger será lançado amanhã em São Paulo",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/livro-com-textos-de-pierre-verger-ser%C3%A1-lan%C3%A7ado-amanh%C3%A3-em-s%C3%A3o-paulo%20ca-livro-nesta-quarta-em-sp",
       "source": "Agência Brasil",
@@ -416,51 +515,6 @@
       "category": "Cultura"
     },
     {
-      "title": "James Rodríguez retira-se da seleção colombiana 15 anos depois",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/james-rodriguez-retira-se-da-selecao-colombiana-15-anos-depois_d1765682",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T22:32:55+00:00",
-      "summary": "James Rodríguez anunciou, esta terça-feira, a sua retirada da seleção da Colômbia, encerrando 15 anos de carreira internacional em que se afirmou como um dos maiores futebolistas da história do país.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Detidos os três suspeitos de terem baleado turista na Baixa de Lisboa",
-      "url": "https://www.rtp.pt/noticias/pais/detidos-os-tres-suspeitos-de-terem-baleado-turista-na-baixa-de-lisboa_n1765680",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T22:31:44+00:00",
-      "summary": "Os três suspeitos entregaram-se às autoridades. Ao final da noite de terça-feira estavam a ser interrogados pela Polícia Judiciária.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Al Nassr de Ronaldo, Félix e Samu entra a perder na Champions asiática",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/al-nassr-de-ronaldo-felix-e-samu-entra-a-perder-na-champions-asiatica_d1765678",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T22:11:22+00:00",
-      "summary": "O Al Nassr perdeu fora contra o Al Ain por 4-0, na primeira jornada do Grupo B da Liga dos Campeões da Ásia, com Cristiano Ronaldo, João Félix e Samu Costa na equipa titular.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Estado da União. Parlamento Europeu espera propostas de Von der Leyen para uma Europa mais ativa e menos reativa",
-      "url": "https://www.rtp.pt/noticias/uniao-europeia/estado-da-uniao-parlamento-europeu-espera-propostas-de-von-der-leyen-para-uma-europa-mais-ativa-e-menos-reativa_n1765676",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T22:09:27+00:00",
-      "summary": "O Parlamento Europeu não vê este exercício do Estado da União apenas como um discurso, mas sim como um debate. É o que garante o representante em Portugal desta Instituição Europeia.",
-      "category": "Economia"
-    },
-    {
-      "title": "Mundial2030. Líder da La Liga pede que Espanha repense candidatura se Infantino for reeleito",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2030-lider-da-la-liga-pede-que-espanha-repense-candidatura-se-infantino-for-reeleito_d1765675",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-15T22:02:57+00:00",
-      "summary": "O líder da Liga espanhola de futebol, Javier Tebas, afirmou, esta terça-feira, que Espanha deve repensar a candidatura ao Mundial2030 caso Gianni Infantino seja reeleito presidente da FIFA e a final se realize em Marrocos.",
-      "category": "Política"
-    },
-    {
       "title": "Apoiado pela EBC, evento debate desenvolvimento do futebol feminino",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/apoiado-pela-ebc-evento-debate-desenvolvimento-do-futebol-feminino",
       "source": "Agência Brasil",
@@ -468,60 +522,6 @@
       "publishedAt": "2026-09-15T21:48:00+00:00",
       "summary": "O Museu do Amanhã, no Rio de Janeiro, recebeu a primeira edição do Women's International Football Summit (Wifs). O evento, voltado à expansão, crescimento e visibilidade do futebol feminino, ocorreu entre segunda (15) e terça-feira (16) e reuniu atletas, federações, patrocinadores, clubes e entidades ligadas ao desenvo",
       "category": "Esportes"
-    },
-    {
-      "title": "Paulo Gonet nega proximidade com Daniel Vorcaro",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/paulo-gonet-nega-proximidade-com-daniel-vorcaro",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T21:33:00+00:00",
-      "summary": "O procurador-geral da República, Paulo Gonet, negou nesta terça-feira (15), durante sessão do Supremo Tribunal Federal (STF), vínculos com o ex-banqueiro Daniel Vorcaro, do Banco Master. \"Não existe nem tive relacionamento de proximidade com o senhor Vorcaro. O único encontro que eu tive com o senhor Vorcaro se deu, co",
-      "category": "Política"
-    },
-    {
-      "title": "Em carta aos candidatos, Fenaj pede valorização dos jornalistas",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/em-carta-aos-candidatos-fenaj-pede-valorizacao-dos-jornalistas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T21:20:00+00:00",
-      "summary": "A Federação Nacional dos Jornalistas (Fenaj) lançou, nesta terça-feira (15), duas cartas abertas para as candidaturas à presidência da República e ao Congresso Nacional. As cartas tratam dos pleitos da categoria, alertando para a precarização e retirada de direitos dos jornalistas no país e a necessidade de regulamenta",
-      "category": "Política"
-    },
-    {
-      "title": "Flávio Dino pede vista de julgamento sobre Moraes e Mendonça",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/flavio-dino-pede-vista-de-julgamento-sobre-moraes-e-mendonca",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T21:05:00+00:00",
-      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), pediu vista do julgamento que vai decidir se os casos dos ministros Alexandre de Moraes e André Mendonça devem ser julgados simultaneamente. O pedido foi feito após os ministros André Mendonça e Gilmar Mendes iniciarem um bate-boca sobre a condução do caso Mast",
-      "category": "Política"
-    },
-    {
-      "title": "Mendonça acompanha Fachin e vota por julgamento separado de Moraes",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-acompanha-fachin-e-vota-por-julgamento-separado-de-moraes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T20:37:00+00:00",
-      "summary": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), votou nesta terça-feira (15) para que o caso Alexandre de Moraes não seja julgado simultaneamente com o pedido de apuração de sua conduta na relatoria nas investigações sobre o Banco Master. O voto de Mendonça foi proferido no julgamento em que o plenário va",
-      "category": "Política"
-    },
-    {
-      "title": "Zanin: não dá para investigar Moraes sem julgar atos de Mendonça",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-nao-da-para-investigar-moraes-sem-julgar-atos-de-mendonca",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T20:25:00+00:00",
-      "summary": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), afirmou nesta terça-feira (15) que não é possível autorizar a abertura de investigação contra o ministro Alexandre de Moraes, por sua suposta relação com o ex-banqueiro Daniel Vorcaro, sem antes analisar a legalidade das medidas tomadas pelo relator do caso",
-      "category": "Política"
-    },
-    {
-      "title": "Moraes defende que seu julgamento seja em conjunto com o de Mendonça",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-defende-que-seu-julgamento-seja-em-conjunto-com-o-de-mendonca",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-15T20:22:00+00:00",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta terça-feira (15) para que ele seja julgado simultaneamente com o ministro André Mendonça na sessão prevista para quarta-feira (23). Moraes proferiu voto durante o julgamento que vai definir se ele pode ser investigado pelo plenário suposta r",
-      "category": "Política"
     }
   ],
   "sources": [
