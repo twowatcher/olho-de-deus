@@ -1,284 +1,437 @@
 {
-  "updatedAt": "2026-09-18T04:39:30.313938+00:00",
+  "updatedAt": "2026-09-18T09:43:01.929167+00:00",
   "items": [
     {
-      "title": "5h PM confirma apoios no gasóleo para alguns setores",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-pm-confirma-apoios-no-gasoleo-para-alguns-setores_a1_1766214",
+      "title": "Sem tripulantes. Apreendida embarcação de alta velocidade a sul de Lisboa",
+      "url": "https://www.rtp.pt/noticias/pais/sem-tripulantes-apreendida-embarcacao-de-alta-velocidade-a-sul-de-lisboa_n1766256",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-18T05:37:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-09-18T10:35:30+00:00",
+      "summary": "A embarcação foi intercetada sem tripulação a bordo e a aproximadamente sete milhas náuticas da costa, a sul de Lisboa.",
       "category": "Mundo"
     },
     {
-      "title": "4h Carneiro lamenta que Montenegro não tenha apresentado medidas",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-carneiro-lamenta-que-montenegro-nao-tenha-apresentado-medidas_a1_1766210",
+      "title": "10h Ministro das Finanças dá o aval ao pacote anti-crise do governo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-ministro-das-financas-da-o-aval-ao-pacote-anti-crise-do-governo_a1_1766255",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-18T04:19:02+00:00",
+      "publishedAt": "2026-09-18T10:18:03+00:00",
       "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:07:15+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta sexta-feira (18) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 30ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuv",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Paulo (SP): céu nublado com possibilidade de garoa o dia todo; à noite as nuvens diminuem devagar",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-sao-paulo-sp-ceu-nublado-com-possibilidade-de-garoa-o-dia-todo-a-noite-as-nuvens-diminuem-devagar.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:06:58+00:00",
-      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta sexta-feira (18) para São Paulo (SP) é de céu nublado com possibilidade de garoa o dia todo. À noite as nuvens diminuem devagar. As máximas são de 22ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo nubl",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:06:41+00:00",
-      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para esta sexta-feira (18) para São Bernardo do Campo (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 20ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Du",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:06:23+00:00",
-      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para esta sexta-feira (18) para Santo André (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 19ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol c",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:05:58+00:00",
-      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para esta sexta-feira (18) para Osasco (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 21ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas ",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-muitas-nuvens-mas-com-tempo-firme.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:05:41+00:00",
-      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para esta sexta-feira (18) para Guarulhos (SP) é de sol com algumas nuvens e chuva passageira. À noite, muitas nuvens mas com tempo firme. As máximas são de 22ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, panca",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:05:25+00:00",
-      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para esta sexta-feira (18) para São Gonçalo (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 24ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol c",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:05:09+00:00",
-      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para esta sexta-feira (18) para o Rio de Janeiro (RJ) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 25ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:04:52+00:00",
-      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para esta sexta-feira (18) para Nova Iguaçu (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 23ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas ",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:04:36+00:00",
-      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para esta sexta-feira (18) para Niterói (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 23ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muita",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:04:19+00:00",
-      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para esta sexta-feira (18) para Duque de Caxias (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 24ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manh",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Sete Lagoas (MG): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/18/previsao-do-tempo-hoje-para-sete-lagoas-mg-sol-e-muitas-nuvens-a-tarde-a-noite-o-ceu-ainda-fica-com-muita-nebulosidade-mas-nao-chove.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T04:04:02+00:00",
-      "summary": "Previsão do tempo hoje em Sete Lagoas g1 A previsão do tempo para esta sexta-feira (18) para Sete Lagoas (MG) é de sol e muitas nuvens à tarde. À noite o céu ainda fica com muita nebulosidade, mas não chove. As máximas são de 28ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, ",
-      "category": "Clima"
-    },
-    {
-      "title": "Luís Montenegro deve estar preocupado com as sondangens?",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/luis-montenegro-deve-estar-preocupado-com-as-sondagens/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T04:02:57+00:00",
-      "summary": "As sondagens não estão a sorrir a Luís Montenegro. Neste episódio, olhamos para os números, comparamos com outros primeiros-ministros e percebemos se Montenegro tem razões para se preocupar.",
       "category": "Política"
     },
     {
-      "title": "Enquete: qual grupo você quer ver na final do “Estrelas da Casa”?",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/enquete-qual-grupo-voce-quer-ver-na-final-do-estrelas-da-casa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T03:56:01+00:00",
-      "summary": "Dois grupos do Pop e dois do Pagode disputam a preferência do público na semifinal de terça-feira (22); vote no seu favorito na enquete da CNN",
-      "category": "Mundo"
-    },
-    {
-      "title": "“Estrelas da Casa”: veja os quatro grupos classificados para a semifinal",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/estrelas-da-casa-veja-os-quatro-grupos-classificados-para-a-semifinal/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T03:26:28+00:00",
-      "summary": "Público escolheu as formações femininas do Pop e do Pagode nesta quinta-feira (17); semifinal acontece na próxima terça-feira (22)",
-      "category": "Mundo"
-    },
-    {
-      "title": "3h Montenegro avisa que não entra em medidas que afetem contas públicas",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-montenegro-avisa-que-nao-entra-em-medidas-que-afetem-contas-publicas_a1_1766206",
+      "title": "Sobe para 24 total de mortos em acidente na província moçambicana de Inhambane",
+      "url": "https://www.rtp.pt/noticias/mundo/sobe-para-24-total-de-mortos-em-acidente-na-provincia-mocambicana-de-inhambane_n1766248",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-18T03:24:02+00:00",
+      "publishedAt": "2026-09-18T10:17:16+00:00",
+      "summary": "As autoridades moçambicanas em Inhambane confirmaram hoje pelo menos 24 mortos na sequência do acidente de viação ocorrido na noite de quinta-feira no distrito de Zavala, agravando o balanço anterior, de 17 óbitos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Russos vão às urnas em eleições que deverão dar vitória ao partido de Putin",
+      "url": "https://www.rtp.pt/noticias/mundo/russos-vao-as-urnas-em-eleicoes-que-deverao-dar-vitoria-ao-partido-de-putin_n1766252",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:53:49+00:00",
+      "summary": "Estas são as primeiras eleições parlamentares desde que a Rússia lançou a sua ofensiva em grande escala contra a Ucrânia, em fevereiro de 2022.",
+      "category": "Política"
+    },
+    {
+      "title": "Morte de Diana. Irmão da princesa acusa Carlos de parecer \"eufórico\"",
+      "url": "https://www.rtp.pt/noticias/mundo/morte-de-diana-irmao-da-princesa-acusa-carlos-de-parecer-euforico_n1766233",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:52:07+00:00",
+      "summary": "O Palácio de Buckingham rejeita categoricamente as afirmações de Carlos Spencer, irmão da princesa Diana, no livro \"Swan Song: Diana, My Sister\" (\"O canto do cisne: Diana, minha irmã\"). O conde escreve que o então príncipe Carlos \"parecia eufórico como alguém que ganhou a lotaria\", quando ambos falaram ao telefone na n",
+      "category": "Cultura"
+    },
+    {
+      "title": "Comissão Europeia desembolsa mais 3,3 mil milhões de euros para mísseis e drones",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/comissao-europeia-desembolsa-mais-33-mil-milhoes-de-euros-para-misseis-e-drones_n1766247",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:43:56+00:00",
+      "summary": "A Comissão Europeia anunciou hoje o quarto pagamento à Ucrânia, de 3,3 mil milhões de euros para compra de drones e mísseis, ao abrigo do empréstimo de apoio ao país, de 90 mil milhões de euros.",
+      "category": "Economia"
+    },
+    {
+      "title": "Excedente próximo de zero este ano após devolução de 800 milhões em suplemento e IRS",
+      "url": "https://www.rtp.pt/noticias/economia/excedente-proximo-de-zero-este-ano-apos-devolucao-de-800-milhoes-em-suplemento-e-irs_n1766243",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:43:22+00:00",
+      "summary": "O Governo estima que as contas públicas terminem este ano com um excedente orçamental \"próximo de 0\", calculando em 800 milhões de euros a devolução aos portugueses através do suplemento extraordinário aos pensionistas e da redução do IRS.",
+      "category": "Política"
+    },
+    {
+      "title": "Para onde vai a geopolítica no Iémen e na Europa?",
+      "url": "https://observador.pt/programas/o-dominio-da-guerra/para-onde-vai-a-geopolitica-no-iemen-e-na-europa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:36:02+00:00",
+      "summary": "Major-general Arnaut Moreira considera que o contexto internacional mudou, evidencia o conflito no Iémen, os riscos de segurança na Europa e ainda a evolução da Coroa britânica.",
+      "category": "Economia"
+    },
+    {
+      "title": "Streisand critica Trump por ameaçar demolir Kennedy Center",
+      "url": "https://observador.pt/2026/09/18/barbra-streisand-critica-ego-desmedido-de-donald-trump-por-ameacas-de-demolicao-do-kennedy-center/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:33:31+00:00",
+      "summary": "A cantora recorda que, em 1964, \"após o chocante assassinato do Presidente John F. Kennedy, o Congresso aprovou uma lei que designava o Centro Cultural Nacional como um memorial vivo em sua homenagem\"",
+      "category": "Política"
+    },
+    {
+      "title": "Qual é o custo da incerteza para as PMEs?",
+      "url": "https://observador.pt/programas/empresas-em-transformacao/qual-e-o-custo-da-incerteza-para-as-pmes-2/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:32:30+00:00",
+      "summary": "No novo episódio, Alexandre Martins e Joana Carvalho explicam por que gerir riscos ESG é vital para a sobrevivência e financiamento das PME.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Indonésia reforça defesa com porta-aviões italiano",
+      "url": "https://observador.pt/2026/09/18/indonesia-reforca-capacidades-de-defesa-com-porta-avioes-cedido-por-italia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:31:41+00:00",
+      "summary": "\"Vamos renová-lo e convertê-lo num porta-helicópteros e porta-drones\", afirmou Prabowo numa videoconferência. \"Isto ajudará enormemente a nossa resposta a catástrofes.\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Azambuja. Aluno que esfaqueou colegas já não está na escola",
+      "url": "https://observador.pt/2026/09/18/aluno-que-esfaqueou-colegas-na-azambuja-ja-nao-esta-na-escola-vitimas-ainda-recebem-acompanhamento-psicologico/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:29:47+00:00",
+      "summary": "GNR na Escola Básica 1,2 e 3 da Azambuja. 17 de setembro de 2024",
+      "category": "Mundo"
+    },
+    {
+      "title": "Resultado da Mega-Sena 3059: 50 apostas do Piauí acertam números; veja valores",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/18/resultado-da-mega-sena-3059.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:28:10+00:00",
+      "summary": "G1 | Loterias - Mega-Sena 3059 Cinquenta apostas feitas no Piauí acertaram quatro números no concurso 3059 da Mega-Sena, sorteado nesta quinta-feira (17), em São Paulo. Os premiados vão receber entre R$ 763,74 e R$ 11.456,52, conforme a modalidade e a quantidade de dezenas escolhidas. Um bolão de Presidente Venceslau (",
+      "category": "Política"
+    },
+    {
+      "title": "Bruxelas quer limitar redes sociais a menores",
+      "url": "https://www.rtp.pt/noticias/mundo/bruxelas-quer-limitar-redes-sociais-a-menores_v1766246",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:27:47+00:00",
+      "summary": "A Comissão Europeia pretende proibir o acesso de menores de 13 anos às redes sociais.",
+      "category": "Economia"
+    },
+    {
+      "title": "Gustavo Mendanha, candidato ao Senado, é entrevistado no Bom Dia Goiás",
+      "url": "https://g1.globo.com/go/goias/eleicoes/2026/ao-vivo/entrevistas-candidatos-goias-senado.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:26:30+00:00",
+      "summary": "Gustavo Mendanha, candidato ao Senado, é entrevistado no Bom Dia Goiás Ele é o quinto entrevistado da série de sabatinas. O G1 Goiás transmite ao vivo, acompanhe! O Bom Dia Goiás sabatina cinco candidatos ao Senado. . Gustavo Mendanha, candidato ao Senado, é o entrevistado desta sexta-feira (18).. Gracinha Caiado, Dr. ",
+      "category": "Política"
+    },
+    {
+      "title": "Festa do livro regressa a Belém",
+      "url": "https://www.rtp.pt/noticias/cultura/festa-do-livro-regressa-a-belem_v1766245",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:25:47+00:00",
+      "summary": "Livros, autores e leitores voltam a ocupar os jardins do Palácio de Belém. A nona edição da Festa do Livro abriu portas esta quinta-feira, tendo contado com Marcelo Rebelo de Sousa e António José Seguro entre os primeiros visitantes a percorrer as bancadas do recinto.",
+      "category": "Cultura"
+    },
+    {
+      "title": "9h Alemanha: Merz está sob pressão perante avanço da AFD",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/9h-alemanha-merz-esta-sob-pressao-perante-avanco-da-afd_a1_1766244",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:22:03+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "4h. MNE admite que Portugal está a viver \"período difícil\"",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2404/",
-      "source": "Observador",
+      "title": "Pelo menos 17 mortos em acidente de viação na província moçambicana de Inhambane",
+      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-17-mortos-em-acidente-de-viacao-na-provincia-mocambicana-de-inhambane_n1766234",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-18T03:15:08+00:00",
-      "summary": "Paulo Rangel rejeita, ainda assim, a ideia de que Portugal esteja à beira de uma crise. Ainda, União Europeia vai enviar mais 3.300 milhões de euros a Kiev para apoio militar.",
-      "category": "Economia"
+      "publishedAt": "2026-09-18T09:21:05+00:00",
+      "summary": "Pelo menos 17 pessoas morreram e uma ficou ferida na sequência de um acidente de viação ocorrido na noite de quinta-feira, no distrito de Zavala, na província de Inhambane, sul de Moçambique, divulgou hoje a Presidência da República.",
+      "category": "Mundo"
     },
     {
-      "title": "Quaest/Pax aponta que 86% apoiam uso de IA no combate à violência no Brasil",
-      "url": "https://www.cnnbrasil.com.br/noticias/quaest-pax-aponta-que-86-apoiam-uso-de-ia-no-combate-a-violencia-no-brasil/",
+      "title": "Lá Vem o Enem: resolva questões de geografia sobre crise climática no semiárido",
+      "url": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/09/18/la-vem-o-enem-resolva-questoes-de-geografia-sobre-crise-climatica-no-semiarido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:19:33+00:00",
+      "summary": "Vila da Ribeira, distrito de Cabaceiras, está em processo de desertificação, segundo o INSA Reprodução/Lapis/INSA O clima e as questões ambientais estão entre os temas que podem aparecer no Exame Nacional do Ensino Médio (Enem). Entre os assuntos importantes para a prova está a crise climática no semiárido brasileiro, ",
+      "category": "Clima"
+    },
+    {
+      "title": "O fantasma Passos, teimosia na CPI e o custo para o Governo",
+      "url": "https://observador.pt/programas/vichyssoise/o-fantasma-passos-teimosia-na-cpi-e-o-custo-para-o-governo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:19:23+00:00",
+      "summary": "O plano de Passos para o País que desafia Montenegro, a guerra Ventura e Aguiar-Branco sobre CPI a Neves e os efeitos do custo de vida na vida do Governo foram os temas da Vichyssoise",
+      "category": "Política"
+    },
+    {
+      "title": "Vanessa da Mata, Mombojó e mais: 'Qual a Boa?' do fim de semana, 18, 19 e 20 de setembro, na PB",
+      "url": "https://g1.globo.com/pb/paraiba/musica/noticia/2026/09/18/vanessa-da-mata-mombojo-e-mais-qual-a-boa-do-fim-de-semana-18-19-e-20-de-setembro-na-pb.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:16:38+00:00",
+      "summary": "Vanessa da Mata se apresenta em Jo Divulgação A agenda cultural do \"Qual a Boa?\" traz festas, shows, espetáculos e outros eventos que acontecem na Paraíba neste fim de semana: sexta-feira (18), sábado (19) e domingo (20). Entre os destaques estão os shows de Vanessa da Mata em João Pessoa, o Festival Alumiô, também na ",
+      "category": "Cultura"
+    },
+    {
+      "title": "Protesto por moradia interrompe parcialmente circulação da Linha 12-Safira da CPTM em SP; Paese foi acionado",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/18/protesto-de-moradores-interrompe-parcialmente-circulacao-da-linha-12-safira-da-cptm-em-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:16:15+00:00",
+      "summary": "Protesto por moradia interrompe parcialmente circulação da Linha 12-Safira da CPTM em SP, na região de São Miguel Paulista, na Zona Leste de SP. Reprodução/TV Globo Um protesto por moradia na região de São Miguel Paulista, na Zona Leste de São Paulo, paralisa parcialmente a circulação da Linha 12-Safira, da CPTM, na ma",
+      "category": "Mundo"
+    },
+    {
+      "title": "10h. Começa a esta hora o debate de urgência pedido pelo PS",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2470/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:15:54+00:00",
+      "summary": "Os socialistas criticam o Governo por não estar a fazer o suficiente para colmatar a subida geral dos preços. Ainda, o CHEGA acusa o Governo de apresentar medidas de propaganda.",
+      "category": "Política"
+    },
+    {
+      "title": "Governo no limite da margem orçamental",
+      "url": "https://www.rtp.pt/noticias/economia/governo-no-limite-da-margem-orcamental_v1766242",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:08:48+00:00",
+      "summary": "O ministro Adjunto e da Reforma do Estado, Gonçalo Matias, assegura que este é o limite máximo até onde o Governo pode ir no momento.",
+      "category": "Política"
+    },
+    {
+      "title": "Assista ao Bom Dia ES",
+      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:07:12+00:00",
+      "summary": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Papagaio que não voa e só “namora” a cada quatro anos bate recorde de filhotes; entenda como espécie voltou a crescer",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/papagaio-que-nao-voa-e-so-se-reproduz-a-cada-quatro-anos-bate-recorde-de-filhotes-entenda-como-especie-voltou-a-crescer/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-18T03:01:10+00:00",
-      "summary": "Levantamento foi feito entre 12 e 15 de setembro, com 2.004 brasileiros de 16 anos ou mais entrevistados presencialmente; margem de erro estimada é de dois pontos percentuais, com nível de confiança de 95%",
+      "publishedAt": "2026-09-18T09:06:36+00:00",
+      "summary": "Kākāpō chegou a 325 indivíduos após uma temporada reprodutiva histórica na Nova Zelândia, mas espécie ainda é considerada criticamente ameaçada",
+      "category": "Clima"
+    },
+    {
+      "title": "Custo de vida: Governo devia (ou podia) ir mais longe?",
+      "url": "https://observador.pt/programas/explicador/custo-de-vida-governo-devia-ou-podia-ir-mais-longe/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:02:20+00:00",
+      "summary": "Rui Afonso (CH) critica \"medidas de propaganda\". António Mendonça Mendes (PS) fala em \"insensibilidade\" do Governo. Paulo Núncio (CDS) rejeita regresso à bancarrota. As medidas do Governo em debate.",
+      "category": "Política"
+    },
+    {
+      "title": "Rei Leão, Ratatouille: Conheça projeto de Gaza que leva cinema às crianças",
+      "url": "https://www.cnnbrasil.com.br/internacional/rei-leao-ratatouille-conheca-projeto-de-gaza-que-leva-cinema-as-criancas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:00:42+00:00",
+      "summary": "Iniciativa batizada de \"Pequenas Asas\" já organizou mais de 300 exibições de filmes no território palestino; organizador falou à CNN Brasil",
+      "category": "Cultura"
+    },
+    {
+      "title": "Polícia fecha quatro casas de jogos de azar em bairros nobres de São Paulo",
+      "url": "https://g1.globo.com/sp/noticia/2026/09/18/policia-fecha-quatro-casas-de-jogos-de-azar-em-bairros-nobres-de-sao-paulo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:00:40+00:00",
+      "summary": "Operação fecha casas de apostas ilegais em SP A Polícia Civil fechou quatro casas de jogos de azar na noite de quinta-feira (17) em bairros nobres zonas oeste e central de São Paulo (SP). Até a publicação desta reportagem não havia informação sobre detidos ou presos na ação. Os estabelecimentos funcionavam no Itaim Bib",
+      "category": "Esportes"
+    },
+    {
+      "title": "Treinador de Ramon Dino, Pacholok diz: “Ele é diferenciado geneticamente”",
+      "url": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/treinador-de-ramon-dino-pacholok-diz-ele-e-diferenciado-geneticamente/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:00:31+00:00",
+      "summary": "Brasileiro é o atual campeão da Classic Physique e segue preparação em busca do segundo título",
+      "category": "Mundo"
+    },
+    {
+      "title": "Planos de presidenciáveis são insuficientes para conter dívida, diz estudo",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/planos-de-presidenciaveis-sao-insuficientes-para-conter-divida-diz-estudo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:00:10+00:00",
+      "summary": "Levantamento realizado pelo Ranking dos Políticos considerou planos de governo de Luiz Inácio Lula da Silva, Flávio Bolsonaro, Ronaldo Caiado, Renan Santos, Romeu Zema e Augusto Cury",
+      "category": "Política"
+    },
+    {
+      "title": "Qual é o custo da incerteza para as PMEs?",
+      "url": "https://observador.pt/programas/empresas-em-transformacao/qual-e-o-custo-da-incerteza-para-as-pmes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T09:00:09+00:00",
+      "summary": "No novo episódio, Alexandre Martins e Joana Carvalho explicam por que gerir riscos ESG é vital para a sobrevivência e financiamento das PME.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cantor do TO leva 57 convidados para casamento paradisíaco à beira-mar em Fernando de Noronha com show famoso; VÍDEO",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/18/cantor-do-to-leva-57-convidados-para-casamento-paradisiaco-a-beira-mar-em-fernando-de-noronha-com-show-famoso-video.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:00:01+00:00",
+      "summary": "Casamento de músico do Tocantins em Fernando de Noronha tem show de Cleber e Cauan O cantor tocantinense Joan Alessandro, de 31 anos, e a dentista e influenciadora digital Larissa Carvalho, de 26, moradores de Araguaína, no norte do Tocantins, realizaram um casamento paradisíaco em Fernando de Noronha (PE), que teve am",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Violência é principal problema para 28% dos brasileiros, diz Quaest/Pax",
-      "url": "https://www.cnnbrasil.com.br/nacional/brasil/violencia-e-principal-problema-para-28-dos-brasileiros-diz-quaest-pax/",
-      "source": "CNN Brasil",
+      "title": "Polícia pede exumação de corpo de mulher para investigar suspeita de feminicídio em Boa Vista",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/18/policia-pede-exumacao-de-corpo-de-mulher-para-investigar-suspeita-de-feminicidio-em-boa-vista.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-18T03:00:21+00:00",
-      "summary": "Levantamento foi feito entre 12 e 15 de setembro, com 2.004 brasileiros de 16 anos ou mais entrevistados presencialmente; margem de erro estimada é de dois pontos percentuais, com nível de confiança de 95%",
-      "category": "Mundo"
-    },
-    {
-      "title": "Veja quanto o Flamengo ganhou com classificação à semifinal da Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/veja-quanto-o-flamengo-ganhou-com-classificacao-a-semifinal-da-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T02:56:16+00:00",
-      "summary": "Rubro-Negro decidiu a vaga contra o Independiente del Valle no Maracanã após a vitória fora de casa, no primeiro jogo",
-      "category": "Esportes"
-    },
-    {
-      "title": "Flamengo 1 x 1 Ind. del Valle: veja os melhores momentos pela Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-1-x-1-ind-del-valle-veja-os-melhores-momentos-pela-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T02:53:45+00:00",
-      "summary": "Time equatoriano chegou a abrir o placar e ficar com um a mais no segundo tempo, após expulsão de Jorginho, mas Rubro-Negro achou gol salvador na reta final, com falha de goleiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "2h Bónus entre 100 a 200 euros para pensionistas pago em dezembro",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-bonus-entre-100-a-200-euros-para-pensionistas-pago-em-dezembro_a1_1766204",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T02:51:02+00:00",
-      "summary": "",
-      "category": "Economia"
-    },
-    {
-      "title": "Titular do Flamengo é expulso e vira desfalque na semifinal da Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/titular-do-flamengo-e-expulso-e-vira-desfalque-na-semifinal-da-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T02:48:06+00:00",
-      "summary": "Volante rubro-negro não participará do primeiro duelo contra o Estudiantes pela vaga na grande final do torneio continental",
-      "category": "Mundo"
-    },
-    {
-      "title": "Voos são suspensos em aeroporto de Washington após drone voar sobre a pista",
-      "url": "https://www.cnnbrasil.com.br/internacional/voos-sao-suspensos-em-aeroporto-de-washington-apos-drone-voar-sobre-a-pista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T02:44:05+00:00",
-      "summary": "Interrupção aconteceu na noite de quarta-feira (16) e durou cerca de 20 minutos; dispositivo foi avistado no Aeródromo Nacional Ronald Reagan, um dos mais movimentados do país",
-      "category": "Mundo"
-    },
-    {
-      "title": "Gabriel Brazão desfalca o Santos por tempo indeterminado com lesão no ombro",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/gabriel-brazao-desfalca-o-santos-por-tempo-indeterminado-com-lesao-no-ombro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T02:36:53+00:00",
-      "summary": "Cirurgia já estava prevista para o fim da temporada, mas foi antecipada devido à piora do quadro médico do atleta",
+      "publishedAt": "2026-09-18T09:00:01+00:00",
+      "summary": "Michele Soares de Deus era técnica de radiologia em Roraima. Arquivo pessoal A Polícia Civil investiga a morte da técnica de radiologia Michele Soares de Deus, que morreu após passar cerca de 40 dias internada no Hospital Geral de Roraima (HGR), em Boa Vista. A polícia pediu ao Instituto de Medicina Legal (IML) a exuma",
       "category": "Saúde"
     },
     {
-      "title": "City Torque elimina Cienciano e enfrentará Atlético-MG na Sul-Americana",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/city-torque-elimina-cienciano-e-enfrentara-atletico-mg-na-sul-americana/",
+      "title": "Prova Nacional Docente será aplicada neste domingo (20) no Amapá",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/18/prova-nacional-docente-sera-aplicada-neste-domingo-20-no-amapa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:00:01+00:00",
+      "summary": "Exame PND é dividido em duas partes: Formação Geral Docente e Componente Específico Reprodução Professores e estudantes de licenciatura inscritos na Prova Nacional Docente (PND) fazem o exame neste domingo (20), no Amapá e em outros estados. Os participantes devem responder ao Questionário Contextual até as 23h59 desta",
+      "category": "Cultura"
+    },
+    {
+      "title": "Lutador de kickboxing que teve lesões graves após treino em academia segue internado e polícia ainda investiga caso",
+      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/18/lutador-de-kickboxing-que-teve-lesoes-graves-apos-treino-em-academia-segue-internado-e-policia-ainda-investiga-caso.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:00:01+00:00",
+      "summary": "PM registra caso de lesão corporal em academia no bairro Interlagos r O lutador de kickboxing que teve lesões graves após treino em uma academia de Divinópolis segue internado no Complexo de Saúde São João de Deus (CSSJD), sob cuidados intensivos. O caso completa um mês nesta sexta-feira (18) e a Polícia Civil segue in",
+      "category": "Saúde"
+    },
+    {
+      "title": "Comprar menos e melhor: a conta do descarte na cozinha",
+      "url": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/18/comprar-menos-e-melhor-a-conta-do-descarte-na-cozinha.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T09:00:01+00:00",
+      "summary": "A discussão sobre consumo consciente costuma parar no discurso, mas na cozinha ela tem uma métrica objetiva: o custo por ano de uso. Uma panela de R$ 80 trocada a cada três anos custa mais, ao longo de duas décadas, que uma peça de R$ 300 que nunca é trocada. Fazer essa conta muda a decisão de compra. Caçarolas de ferr",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Encontros da Imagem em Braga, Guimarães, Porto e Avintes",
+      "url": "https://observador.pt/2026/09/18/encontros-da-imagem-em-braga-guimaraes-porto-vila-verde-e-avintes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T08:53:51+00:00",
+      "summary": "Cooper & Gorfer, César Dezfuli, Ciril Jazbec, Tânia Dinis e Eurico Lino do Vale são alguns dos nomes que compõem o programa daquele que é o mais antigo festival de fotografia de Portugal.",
+      "category": "Cultura"
+    },
+    {
+      "title": "China defende \"estabilidade estratégica\" com EUA",
+      "url": "https://observador.pt/2026/09/18/china-defende-estabilidade-estrategica-com-eua-antes-de-eventual-visita-de-xi/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T08:40:57+00:00",
+      "summary": "O chefe da diplomacia chinesa afirmou que a \"diplomacia entre chefes de Estado\" funciona como uma \"âncora\" das relações entre as duas maiores economias mundiais",
+      "category": "Economia"
+    },
+    {
+      "title": "Poderá o Governo proteger o país sem risco de Troika?",
+      "url": "https://observador.pt/programas/e-o-vencedor-e/podera-o-governo-proteger-o-pais-sem-correr-risco-de-troika/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-18T08:38:09+00:00",
+      "summary": "Os apoios do Governo focam no IRS e nos idosos enquanto os transportes exigem eficiência. E ainda, o jogo soma 3.000€ apostados por adulto com risco de vício.",
+      "category": "Política"
+    },
+    {
+      "title": "Por que o teste de apego virou febre nas redes — e o que ele não explica",
+      "url": "https://www.cnnbrasil.com.br/comportamento/cultura/por-que-o-teste-de-apego-virou-febre-nas-redes-e-o-que-ele-nao-explica/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-18T02:30:00+00:00",
-      "summary": "Na noite desta quinta-feira (17), Galo conheceu o adversário na semifinal",
+      "publishedAt": "2026-09-18T08:30:25+00:00",
+      "summary": "Nas redes, apego ansioso virou atalho para explicar relações, mas psicólogo alerta que os padrões de apego são mais complexos que os testes sugerem",
       "category": "Mundo"
     },
     {
-      "title": "Flamengo leva sustos do Ind. del Valle, mas vai à semifinal da Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-leva-sustos-do-ind-del-valle-mas-vai-a-semifinal-da-libertadores/",
+      "title": "Crise no STF ameaça deixar decisões importantes do agro em espera",
+      "url": "https://www.cnnbrasil.com.br/agro/crise-no-stf-ameaca-deixar-decisoes-importantes-do-agro-em-espera/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-18T02:27:32+00:00",
-      "summary": "Time equatoriano chegou a abrir o placar e ficar com um a mais no segundo tempo, após expulsão de Jorginho, mas Rubro-Negro achou gol salvador na reta final, com falha de goleiro",
+      "publishedAt": "2026-09-18T08:00:30+00:00",
+      "summary": "Cerca de 19 processos estão em espera; Marco temporal, regularização fundiária, terras estrangeiras e licenciamento ambiental estão entre temas que aguardam definição da Corte; especialistas apontam risco de mais insegurança jurídica",
+      "category": "Política"
+    },
+    {
+      "title": "Pesquisador lança ‘linha direta’ para agentes denunciarem IAs rebeldes",
+      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/pesquisador-lanca-linha-direta-para-agentes-denunciarem-ias-rebeldes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T08:00:05+00:00",
+      "summary": "Teste realizado pelo Google revelou que ferramentas se organizam para dedurar umas às outras",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "“Balada de amor ao vento”: leitura da Fuvest será tema de aula na USP",
+      "url": "https://www.cnnbrasil.com.br/educacao/balada-de-amor-ao-vento-leitura-da-fuvest-sera-tema-de-aula-na-usp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T07:45:44+00:00",
+      "summary": "Obra de Paulina Chiziane será tema de debate no dia 23 de setembro; evento terá transmissão ao vivo e inscrições gratuitas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Seu cabelo “se acostuma” com o shampoo? Veja mitos sobre a rotina capilar",
+      "url": "https://www.cnnbrasil.com.br/style/beleza/seu-cabelo-se-acostuma-com-o-shampoo-veja-mitos-sobre-a-rotina-capilar/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T07:30:49+00:00",
+      "summary": "Shampoos ricos em óleos, silicones e agentes condicionantes deixam depósitos graduais a cada lavagem e podem comprometer sua eficácia",
+      "category": "Mundo"
+    },
+    {
+      "title": "São Bernardo x Atlético-GO: horário e onde assistir ao jogo da Série B",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-bernardo-x-atletico-go-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T07:30:35+00:00",
+      "summary": "Equipes se enfrentam nesta sexta-feira (18), no Estádio Primeiro de Maio, pela 29ª rodada da Série B do Campeonato Brasileiro",
       "category": "Esportes"
     },
     {
-      "title": "Rafael Matos projeta Copa Davis no Rio: “Vai ser bem especial”",
-      "url": "https://www.cnnbrasil.com.br/esportes/tenis/rafael-matos-projeta-copa-davis-no-rio-vai-ser-bem-especial/",
+      "title": "CVM abre quatro processos contra BRB por atraso em balanço",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cvm-abre-quatro-processos-contra-brb-por-atraso-em-balanco/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-18T02:17:25+00:00",
-      "summary": "Brasil enfrenta a Suíça, pelo Grupo Mundial I, neste final de semana",
+      "publishedAt": "2026-09-18T07:24:18+00:00",
+      "summary": "Data limite para divulgação das demonstrações financeiras de 2025 do banco encerrou em 31 de março; não há previsão para publicação dos resultados",
       "category": "Mundo"
     },
     {
-      "title": "3h. PSD está em queda livre nas sondagens",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2440/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T02:15:44+00:00",
-      "summary": "A queda de Luís Montenegro nas intenções de voto só é superada pelos governos de Passos Coelho e pela dupla Durão Barroso/Santana Lopes. Ainda, vai aumentar o desconto no ISP na próxima semana.",
-      "category": "Política"
+      "title": "OpenAI flagra modelo de IA tomando ações não autorizadas – mais uma vez",
+      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/openai-flagra-modelo-de-ia-tomando-acoes-nao-autorizadas-mais-uma-vez/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-18T07:15:32+00:00",
+      "summary": "Empresa anuncia novo processo para relatar publicamente casos de comportamento inadequado; anúncio ocorre após líderes do setor de tecnologia pedirem uma desaceleração no desenvolvimento de IA",
+      "category": "Economia"
     },
     {
       "title": "Instituto faz comparativo de 228 indicadores dos estados brasileiros",
@@ -290,24 +443,6 @@
       "category": "Mundo"
     },
     {
-      "title": "1h Torreense faz história ao vencer na estreia nas competições europeias",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-torreense-faz-historia-ao-vencer-na-estreia-nas-competicoes-europeias_a1_1766199",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T01:29:02+00:00",
-      "summary": "",
-      "category": "Economia"
-    },
-    {
-      "title": "2h. Seguro inaugura Festa do Livro no Palácio de Belém",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2414/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T01:18:48+00:00",
-      "summary": "Presidente da República deixou rasgados elogios a Marcelo Rebelo de Sousa. Ainda, perante as medidas apresentadas, PS acusa Luís Montenegro de falhar a dois milhões de trabalhadores.",
-      "category": "Política"
-    },
-    {
       "title": "Brasil bate Colômbia e segue 100% no Sul-Americano masculino de vôlei",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-bate-colombia-e-segue-100-no-sul-americano-masculino-de-volei",
       "source": "Agência Brasil",
@@ -315,15 +450,6 @@
       "publishedAt": "2026-09-18T01:05:00+00:00",
       "summary": "A caminhada da seleção masculina de vôlei no Campeonato Sul-Americano, disputado no Rio de Janeiro, segue sem percalços. Nesta quinta-feira (17), os brasileiros chegaram à terceira vitória em três partidas, ao superarem a Colômbia por 3 sets a 0, parciais de 25/23, 25/14 e 25/16, após uma hora e 18 minutos de jogo no M",
       "category": "Esportes"
-    },
-    {
-      "title": "0h Antram e Federação do Táxi consideram insuficientes apoios anunciados pelo PM",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-antram-e-federacao-do-taxi-consideram-insuficientes-apoios-anunciados-pelo-pm_a1_1766198",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T00:55:02+00:00",
-      "summary": "",
-      "category": "Ciência & Tech"
     },
     {
       "title": "Bolão de Presidente Venceslau (SP) leva R$ 101 milhões na Mega-Sena",
@@ -353,24 +479,6 @@
       "category": "Política"
     },
     {
-      "title": "1h. Min. Economia admite que medidas não resolvem problemas",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2387/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T00:15:51+00:00",
-      "summary": "Manuel Castro Almeida antecipa preços nunca antes vistos nos combustíveis para a próxima semana. Ainda, Presidente da Republica inaugurou esta quinta-feira a Festa do Livro no Palácio de Belém.",
-      "category": "Política"
-    },
-    {
-      "title": "23h PM confirma apoios de 10 cêntimos por litro no gasóleo para os setores dos transportes, lares e bombeiros",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-pm-confirma-apoios-de-10-centimos-por-litro-no-gasoleo-para-os-setores-dos-transportes-lares-e-bombeiros_a1_1766195",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T23:56:04+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
       "title": "Publicações históricas são devolvidas à Biblioteca Nacional",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/publicacoes-historicas-sao-devolvidas-biblioteca-nacional",
       "source": "Agência Brasil",
@@ -380,78 +488,6 @@
       "category": "Mundo"
     },
     {
-      "title": "A crise do Estado, entre Ceuta e a Segurança Social",
-      "url": "https://observador.pt/opiniao/a-crise-do-estado-entre-ceuta-e-a-seguranca-social/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T23:25:39+00:00",
-      "summary": "Há um caminho que leva da Segurança Social a Ceuta. A prometer o que não pode, o Estado acabou por não ser capaz de fazer o que deve.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Putin, os lorpas e o benefício da dúvida",
-      "url": "https://observador.pt/opiniao/putin-os-lorpas-e-o-beneficio-da-duvida/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T23:24:48+00:00",
-      "summary": "A Europa passou trinta anos a construir procedimentos. Putin passou grande parte desse tempo a estudar os buracos entre eles.",
-      "category": "Economia"
-    },
-    {
-      "title": "A estupidificação",
-      "url": "https://observador.pt/opiniao/a-estupidificacao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T23:22:41+00:00",
-      "summary": "Para defender os jovens dos perigos do mundo, procura-se remover os instrumentos intelectuais e emocionais necessários para enfrentar esses mesmos perigos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "00h. LE: Torreense vence Lillestrom na estreia europeia",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2423/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T23:21:01+00:00",
-      "summary": "O detentor da Taça de Portugal volta a jogar para a Liga Europa a 15 de outubro, quando receber os ingleses do Sunderland, em Leiria.",
-      "category": "Economia"
-    },
-    {
-      "title": "Fim de tarde",
-      "url": "https://observador.pt/opiniao/fim-de-tarde/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T23:20:19+00:00",
-      "summary": "É esta a magia que ninguém consegue destruir: a de os estranhos se poderem ajudar uns aos outros sem saber que se ajudam.",
-      "category": "Mundo"
-    },
-    {
-      "title": "O Crepúsculo dos Deuses",
-      "url": "https://observador.pt/opiniao/o-crepusculo-dos-deuses/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T23:15:48+00:00",
-      "summary": "Mesmo que toda esta gente ande com suásticas bordadas na roupa interior, sabem que a xenofobia não dá votos na sociedade europeia, mas que o medo do colapso do Estado Social, sim.",
-      "category": "Economia"
-    },
-    {
-      "title": "Afinal, a corrente não é imparável",
-      "url": "https://observador.pt/opiniao/afinal-a-corrente-nao-e-imparavel/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T23:14:34+00:00",
-      "summary": "Entre nós, foi aprovada a legalização da eutanásia, mas a entrada em vigor da lei depende ainda da correção de algumas apontadas inconstitucionalidades que não atingem o cerne da questão.",
-      "category": "Mundo"
-    },
-    {
-      "title": "ONU vê como \"profundo sinal de esperança\" regresso de deslocados e refugiados",
-      "url": "https://www.rtp.pt/noticias/mundo/onu-ve-como-profundo-sinal-de-esperanca-regresso-de-deslocados-e-refugiados_n1766104",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T22:45:25+00:00",
-      "summary": "A ONU considerou hoje \"um profundo sinal de esperança\" o regresso voluntário de mais de dois milhões de sírios deslocados internamente e 1,8 milhões de refugiados desde dezembro de 2024, após a queda do presidente Bashar al-Assad.",
-      "category": "Política"
-    },
-    {
       "title": "Escolas da Bahia e do Pará vencem prêmio nacional de sustentabilidade",
       "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/escolas-da-bahia-e-do-para-vencem-premio-nacional-de-sustentabilidade",
       "source": "Agência Brasil",
@@ -459,42 +495,6 @@
       "publishedAt": "2026-09-17T22:42:00+00:00",
       "summary": "Iniciativas desenvolvidas por professores e estudantes de escolas em diferentes regiões do Brasil têm transformado materiais descartados em novos recursos e produtos que ajudam a resolver problemas locais. A 4ª edição do Prêmio Escolas Sustentáveis reconheceu soluções acessíveis e eficientes desenvolvidas por professor",
       "category": "Ciência & Tech"
-    },
-    {
-      "title": "Granada defensiva encontrada em Setúbal destruída por equipa especializada da PSP",
-      "url": "https://www.rtp.pt/noticias/pais/granada-defensiva-encontrada-em-setubal-destruida-por-equipa-especializada-da-psp_n1766139",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T22:38:58+00:00",
-      "summary": "Uma granada defensiva encontrada hoje junto a uma passagem ferroviária, em Setúbal, foi destruída numa explosão controlada pela PSP, que chegou a interromper a circulação de comboios, foi hoje anunciado.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Câmara de Coimbra prepara investimento de grande dimensão no parque escolar",
-      "url": "https://www.rtp.pt/noticias/pais/camara-de-coimbra-prepara-investimento-de-grande-dimensao-no-parque-escolar_n1766135",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T22:35:06+00:00",
-      "summary": "A presidente da Câmara de Coimbra anunciou hoje que está a trabalhar num plano de investimento de grande dimensão na modernização das escolas do concelho, que vai envolver várias dezenas de milhões de euros (ME).",
-      "category": "Política"
-    },
-    {
-      "title": "Preço do petróleo Brent recua quase 3% e negoceia abaixo dos 104 dólares",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/preco-do-petroleo-brent-recua-quase-3-e-negoceia-abaixo-dos-104-dolares_n1766128",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T22:33:54+00:00",
-      "summary": "O preço do barril de petróleo Brent para entrega em novembro recuava hoje perto de 3% e negociava abaixo dos 104 dólares, depois de na semana passada ter chegado perto dos 110 dólares.",
-      "category": "Economia"
-    },
-    {
-      "title": "Região de Coimbra pede apoio de 100% do Fundo de Emergência Municipal",
-      "url": "https://www.rtp.pt/noticias/economia/regiao-de-coimbra-pede-apoio-de-100-do-fundo-de-emergencia-municipal_n1766127",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-17T22:30:51+00:00",
-      "summary": "A Comunidade Intermunicipal da Região de Coimbra (CIMRC) pediu hoje o aumento para 100% da comparticipação do Fundo de Emergência Municipal (FEM) para recuperar infraestruturas danificadas na sequência das tempestades do início do ano.",
-      "category": "Mundo"
     },
     {
       "title": "Sociedade pode se inscrever para integrar delegação do Brasil na COP31",
