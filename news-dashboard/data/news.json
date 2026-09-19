@@ -1,311 +1,509 @@
 {
-  "updatedAt": "2026-09-19T17:59:15.782518+00:00",
+  "updatedAt": "2026-09-19T20:36:13.620584+00:00",
   "items": [
     {
-      "title": "18h Incêndio com várias frentes no distrito de Coimbra está a ameaçar várias aldeias",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-incendio-com-varias-frentes-no-distrito-de-coimbra-esta-a-ameacar-varias-aldeias_a1_1766508",
+      "title": "Teatro Nacional D. Maria II reabriu após três anos em obras",
+      "url": "https://www.rtp.pt/noticias/cultura/teatro-nacional-d-maria-ii-reabriu-apos-tres-anos-em-obras_v1766552",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-19T18:21:01+00:00",
+      "publishedAt": "2026-09-19T21:26:47+00:00",
+      "summary": "O Teatro Nacional D. Maria II, em Lisboa, reabriu depois de obras profundas de restauro.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Salgueiros elimina Feirense na segunda eliminatória da Taça de Portugal",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/salgueiros-elimina-feirense-na-segunda-eliminatoria-da-taca-de-portugal_d1766549",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T21:26:02+00:00",
+      "summary": "O Salgueiros, do quarto escalão, afastou hoje o Feirense, lanterna-vermelha da II Liga, da Taça de Portugal de futebol, ao vencer em casa ao emblema de Santa Maria da Feira, que estreou o treinador Rui Ferreira.",
+      "category": "Esportes"
+    },
+    {
+      "title": "\"Deixem-se ficar\", presidente da Associação de Fundos de Investimento pede calma aos investidores perante aumento das taxas de juro e da inflação",
+      "url": "https://www.rtp.pt/noticias/conversa-capital/deixem-se-ficar-presidente-da-associacao-de-fundos-de-investimento-pede-calma-aos-investidores-perante-aumento-das-taxas-de-juro-e-da-inflacao_v1766126",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T21:19:06+00:00",
+      "summary": "A crise no Médio Oriente para já não está a ter impacto no investimento a longo prazo nos fundos de investimento.",
+      "category": "Política"
+    },
+    {
+      "title": "Baixa no Benfica. Enzo Barrenechea vai ser operado ao joelho",
+      "url": "https://www.rtp.pt/noticias/desporto/baixa-no-benfica-enzo-barrenechea-vai-ser-operado-ao-joelho_v1766547",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:49:47+00:00",
+      "summary": "No Benfica, Enzo Barrenechea lesionou-se num joelho e vai ser operado.<br />Marco Silva subscreve as declarações de Farioli sobre a arbitragem e pede equilíbrio em todas as decisões de Miguel Nogueira.",
+      "category": "Mundo"
+    },
+    {
+      "title": "O Segredo do Algoritmo. Os portugueses são dos que mais trabalham na OCDE?",
+      "url": "https://www.rtp.pt/noticias/pais/o-segredo-do-algoritmo-os-portugueses-sao-dos-que-mais-trabalham-na-ocde_v1766545",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:47:47+00:00",
+      "summary": "No Segredo do Algoritmo desta semana vamos saber ser é ou não verdade que os portugueses são dos que mais trabalham entre os países da OCDE.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Três orgãos de comunicação social banidos da Casa Branca",
+      "url": "https://www.rtp.pt/noticias/mundo/tres-orgaos-de-comunicacao-social-banidos-da-casa-branca_v1766544",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:44:47+00:00",
+      "summary": "CNN, MS NOW, que antes se chamava MS NBC e o Político não podem entrar.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Rebeldes do Iémen atacam capital saudita",
+      "url": "https://www.rtp.pt/noticias/mundo/rebeldes-do-iemen-atacam-capital-saudita_v1766543",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:38:47+00:00",
+      "summary": "Um alerta de ataque foi emitido, pela primeira vez, na capital da Arábia Saudita desde que recomeçaram as hostilidades entre sauditas e os rebeldes Houthis, do Iémen.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Legislativas na Rússia. Moscovo fala em vários ciberataques",
+      "url": "https://www.rtp.pt/noticias/mundo/legislativas-na-russia-moscovo-fala-em-varios-ciberataques_v1766542",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:35:47+00:00",
+      "summary": "Com quatro anos de guerra e uma fase de hostilidades intensas, os russos estão a votar para as legislativas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Trump anunciou acordo com Gronelândia e Dinamarca",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-anunciou-acordo-com-gronelandia-e-dinamarca_v1766541",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:31:47+00:00",
+      "summary": "Donald Trump anunciou um acordo que garante para sempre e em exclusivo aos Estados Unidos o controlo da segurança da Gronelândia.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Nuno Melo diz que CDS é autónomo da AD",
+      "url": "https://www.rtp.pt/noticias/politica/nuno-melo-diz-que-cds-e-autonomo-da-ad_v1766540",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:28:47+00:00",
+      "summary": "Na rentrée que decorreu em Albergaria-a-Velha, Nuno Melo fez uma análise ao estado da educação e à situação económica no país.",
+      "category": "Mundo"
+    },
+    {
+      "title": "20h Situação complicada no distrito de Coimbra com dois incêndios",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-situacao-complicada-no-distrito-de-coimbra-com-dois-incendios_a1_1766538",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:22:04+00:00",
       "summary": "",
       "category": "Clima"
     },
     {
-      "title": "I Liga. FC Alverca - Rio Ave",
-      "url": "https://www.rtp.pt/noticias/desporto/i-liga-fc-alverca-rio-ave_e1766296",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T17:55:17+00:00",
-      "summary": "O Alverca, 12.º classificado da I Liga, com cinco pontos, recebe este sábado, pelas 18h00, no Complexo Desportivo do FC Alverca, o Rio Ave, 16.º, com quatro, em jogo da sétima jornada do campeonato, com arbitragem de Luís Filipe, da associação da Lisboa.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Rússia está travando uma 'guerra híbrida' contra a Europa?",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/19/russia-guerra-hibrida-contra-a-europa-entenda.ghtml",
+      "title": "VÍDEOS: DF1 de sábado, 19 de setembro de 2026",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/edicao/2026/09/19/videos-df1-de-sabado-19-de-setembro-de-2026.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T17:50:17+00:00",
-      "summary": "Especialistas afirmam que a Rússia está travando uma guerra híbrida contra a Europa, utilizando táticas militares e não militares para exercer pressão sem um conflito aberto EPA/BBC As tensões entre a Rússia e o Ocidente aumentaram depois que a Alemanha atribuiu a culpa pelo ataque com drones ocorrido no mês passado no",
-      "category": "Economia"
-    },
-    {
-      "title": "Candidato ao Governo pelo Amazonas, Isael Munduruku propõe hospitais em calhas de rios e valorização dos professores da rede estadual",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/19/candidato-ao-governo-pelo-amazonas-isael-munduruku-propoe-hospitais-em-calhas-de-rios-e-valorizacao-dos-professores-da-rede-estadual.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:46:18+00:00",
-      "summary": "JAM1 entrevista candidatos ao governo do AM: Isael Munduruku apresenta propostas O candidato ao governo do Amazonas Isael Munduruku (Rede/Sustentabilidade) destaca a defesa dos povos originários, geração de emprego e renda, proteção ambiental e redução das desigualdades sociais. A entrevista integra a série da Rede Ama",
-      "category": "Política"
-    },
-    {
-      "title": "André Luís defende endurecimento das penas, corte de secretarias e concurso público para a saúde no MA",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/19/andre-luis-defende-endurecimento-das-penas-corte-de-secretarias-e-concurso-publico-para-a-saude-no-ma.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:45:32+00:00",
-      "summary": "André Luís promete “ruptura” na política, corte de secretarias e mudanças na saúde do MA O candidato ao governo do Maranhão, André Luís (Missão), concedeu entrevista ao vivo ao JMTV 1ª Edição, neste sábado (19), onde apresentou suas propostas para o governo. Entre os temas abordados, o candidato defendeu o endureciment",
-      "category": "Política"
-    },
-    {
-      "title": "Barracas e revezamento: fãs acampam desde quarta para show de Luan Santana em Ribeirão Preto, SP",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/19/barracas-e-revezamento-fas-acampam-desde-quarta-para-show-de-luan-santana-em-ribeirao-preto-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:42:39+00:00",
-      "summary": "Fãs acampam desde quarta para show de Luan Santana em Ribeirão Preto, SP Barracas coloridas, etiquetas com nomes e uma escala de revezamento ocupam desde quarta-feira (16) a entrada da Arena Nicnet, estádio do Botafogo, em Ribeirão Preto (SP). O acampamento foi montado por fãs de Luan Santana que querem ficar perto do ",
+      "publishedAt": "2026-09-19T20:20:52+00:00",
+      "summary": "Veja as reportagens do telejornal com as notícias do DF.",
       "category": "Mundo"
     },
     {
-      "title": "Domingo no Campus oferece atividades culturais, científicas e de lazer gratuitas em Montes Claros",
-      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/19/domingo-no-campus-oferece-atividades-culturais-cientificas-e-de-lazer-gratuitas-em-montes-claros.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:42:35+00:00",
-      "summary": "Atividades de lazer fazem parte da programação Ana Cláudia Mendes I UFMG O campus da Universidade Federal de Minas Gerais (UFMG) em Montes Claros recebe, no próximo domingo (20), mais uma edição do Domingo no Campus. A programação faz parte das comemorações pelos 99 anos da instituição e será realizada das 8h às 13h, c",
-      "category": "Ciência & Tech"
+      "title": "Centeno critica Marcelo por ter dado posse a um Governo sem apoio parlamentar",
+      "url": "https://www.rtp.pt/noticias/politica/centeno-critica-marcelo-por-ter-dado-posse-a-um-governo-sem-apoio-parlamentar_v1766537",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:20:47+00:00",
+      "summary": "Mário Centeno critica Marcelo Rebelo de Sousa por ter dado posse ao Governo de Luís Montenegro por não ter apoio parlamentar.",
+      "category": "Política"
     },
     {
-      "title": "Homem é preso após furtar casas e ser agredido por moradores no litoral de SP",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/19/homem-e-preso-apos-furtar-casas-e-ser-agredido-por-moradores-no-litoral-de-sp.ghtml",
+      "title": "VÍDEO: Fogo em área de vegetação mata animais e destrói propriedade no PI",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/19/video-incendio-monsenhor-gil.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T17:41:49+00:00",
-      "summary": "Homem foi encaminhado para atendimento médico na UPA de Itanhaém Prefeitura de Itanhaém/Divulgação Um homem de 32 anos foi preso em flagrante após invadir e furtar casas em Itanhaém, no litoral de São Paulo. De acordo com a Polícia Militar, ele foi perseguido e agredido pelos moradores antes da chegada dos agentes. O s",
+      "publishedAt": "2026-09-19T20:19:30+00:00",
+      "summary": "Um incêndio que iniciou em uma área de vegetação nos bairros Vila Nova e Incosa, em Monsenhor Gil, provocou a morte de animais e destruiu um casebre neste sábado (19). A informação foi confirmada pela Prefeitura Municipal. Imagens obtidas pela TV Clube mostram o incêndio de grandes proporções na vegetação e corpos de p",
+      "category": "Clima"
+    },
+    {
+      "title": "Incêndio atinge apartamento na Tijuca, na Zona Norte do Rio",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/incendio-atinge-apartamento-na-tijuca.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T20:19:10+00:00",
+      "summary": "Incêndio atinge apartamento na Tijuca Reprodução Bombeiros do quartel da Tijuca foram acionados por volta das 16h15 deste sábado (19) para combater um incêndio em um apartamento na Rua Conde de Bonfim, na Tijuca, na Zona Norte do Rio. Até a última atualização desta reportagem, o fogo não havia sido controlado e não hav",
+      "category": "Cultura"
+    },
+    {
+      "title": "“A Fazenda 18”: Darlin se preocupa com interação de Mariano e Giovanna Gold",
+      "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-darlin-se-preocupa-com-interacao-de-mariano-e-giovanna-gold/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T20:18:26+00:00",
+      "summary": "Mãe de Lexa interpretou beijo enviado pelo sertanejo à atriz durante festa como possível sinal de que pode estar sendo mal-vista e teme por repercussão externa",
+      "category": "Esportes"
+    },
+    {
+      "title": "Ventura: presidente da AR não deve obstaculizar investigação",
+      "url": "https://observador.pt/2026/09/19/ventura-diz-que-se-luis-neves-aceita-ser-investigado-o-presidente-da-ar-nao-deve-obstaculizar/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T20:18:22+00:00",
+      "summary": "Esta é a terceira tentativa do Chega para forçar uma comissão de inquérito sobre a atuação de Luís Neves enquanto diretor nacional da PJ, depois de Aguiar Branco ter recusado as anteriores.",
+      "category": "Política"
+    },
+    {
+      "title": "TJ suspende restrição a uso de energia externa por artistas na Av. Paulista",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tj-suspende-restricao-a-uso-de-energia-externa-por-artistas-na-av-paulista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T20:17:55+00:00",
+      "summary": "Liminar entendeu que proibição prévia de fontes externas de energia é \"desproporcional\"; Prefeitura de São Paulo informou que vai recorrer à decisão",
+      "category": "Mundo"
+    },
+    {
+      "title": "Foi plantada em 1825 para alimentar a população; 200 anos depois, tornou-se uma árvore invasora",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/foi-plantada-em-1825-para-alimentar-a-populacao-200-anos-depois-tornou-se-uma-arvore-invasora/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T20:17:49+00:00",
+      "summary": "Saiba como o araçá vermelho, levado do Brasil ao Havaí em 1825, virou praga ambiental e está sendo controlado com insetos e drones",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pentágono retoma testes de testosterona obrigatórios em militares",
+      "url": "https://www.cnnbrasil.com.br/internacional/pentagono-retoma-testes-de-testosterona-obrigatorios-em-militares/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T20:16:21+00:00",
+      "summary": "Medida havia sido suspensa anteriormente; nova diretriz determina a realização dos exames como parte de avaliações físicas e de saúde anuais",
       "category": "Saúde"
     },
     {
-      "title": "Gil Vicente e Marítimo empatam a um golo em Barcelos",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/gil-vicente-e-maritimo-empatam-a-um-golo-em-barcelos_d1766505",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T17:38:24+00:00",
-      "summary": "O Gil Vicente e o Marítimo empataram hoje a um golo, aumentando ambos o número de encontros sem vencer, em jogo da sétima jornada da I Liga portuguesa de futebol, disputado em Barcelos.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Carol Peixinho e Thiaguinho celebram aniversário de 1 ano do filho: 'Encheu nossa casa e vida de luz'",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/19/carol-peixinho-e-thiaguinho-celebram-aniversario-do-filho.ghtml",
+      "title": "Homem é preso por estuprar e engravidar sobrinha de 10 anos",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/homem-e-preso-por-estuprar-e-engravidar-sobrinha-de-10-anos.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T17:34:32+00:00",
-      "summary": "Carol Peixinho e Thiaguinho celebram aniversário de 1 ano do filho Reprodução/Redes Sociais A influenciadora baiana Carol Peixinho e o cantor Thiaguinho usaram as redes sociais para marcar o primeiro aniversário do filho, celebrado neste sábado (19). Apesar de estarem separados fisicamente, o casal começou o dia marcan",
-      "category": "Cultura"
-    },
-    {
-      "title": "Famalicão conquista primeira vitória ao golear Nacional",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/famalicao-conquista-primeira-vitoria-ao-golear-nacional_d1766504",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T17:34:25+00:00",
-      "summary": "O Famalicão venceu hoje pela primeira vez na edição 2026/27 da I Liga portuguesa de futebol, ao golear o Nacional, por 4-0, no Funchal, em jogo da sétima jornada disputado no Funchal.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Assista aos telejornais da TV Liberal",
-      "url": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:31:01+00:00",
-      "summary": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+      "publishedAt": "2026-09-19T20:13:10+00:00",
+      "summary": "Policiais civis da 24ª DP (Piedade) prenderam neste sábado (19) um homem investigado por estupro de vulnerável contra a própria sobrinha, de 10 anos. A menina está grávida. A prisão aconteceu em São João de Meriti, na Baixada Fluminense, menos de 48 horas depois de o caso chegar ao conhecimento da Polícia Civil. A famí",
       "category": "Mundo"
     },
     {
-      "title": "VÍDEOS: Jornal do Acre 1ª edição deste sábado, 19 de setembro de 2026",
-      "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-deste-sabado-19-de-setembro-de-2026.ghtml",
+      "title": "Alambari oferece orientação jurídica gratuita à população; veja como participar",
+      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/19/alambari-oferece-orientacao-juridica-gratuita-a-populacao-veja-como-participar.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T17:29:52+00:00",
-      "summary": "Site g1 AC transmite os telejornais ao vivo.",
-      "category": "Mundo"
-    },
-    {
-      "title": "“Nunca mais será o mesmo”: Como Trump se voltou contra o Kennedy Center",
-      "url": "https://www.cnnbrasil.com.br/internacional/nunca-mais-sera-o-mesmo-como-trump-se-voltou-contra-o-kennedy-center/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:28:46+00:00",
-      "summary": "Centro de artes beira o colapso: as luzes foram apagadas, infraestrutura se deteriora e protestos se espalham enquanto as batalhas judiciais se acumulam",
+      "publishedAt": "2026-09-19T20:12:31+00:00",
+      "summary": "CRAS da região central de Alambari Reprodução/Google Maps Moradores de Alambari (SP) poderão receber orientação jurídica gratuita neste sábado (26). O atendimento será realizado a partir das 9h, no Centro de Referência de Assistência Social (CRAS) do município. A ação faz parte do EAJ Itinerante, iniciativa do Escritór",
       "category": "Cultura"
     },
     {
-      "title": "Barrenechea sofre entorse do joelho com rotura do menisco",
-      "url": "https://observador.pt/2026/09/19/i-liga-enzo-barrenechea-sofre-entorse-do-joelho-com-rotura-do-menisco/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T17:26:07+00:00",
-      "summary": "O Benfica, segundo classificado com 16 pontos, visita o líder e campeão FC Porto, que soma 18, no domingo, no clássico da sétima jornada da I Liga.",
-      "category": "Esportes"
-    },
-    {
-      "title": "17h Preocupação com incêndios de Vila Nova de Poiares, Arganil e Murganheira que se juntaram num só",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/17h-preocupacao-com-incendios-de-vila-nova-de-poiares-arganil-e-murganheira-que-se-juntaram-num-so_a1_1766503",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T17:26:02+00:00",
+      "title": "VÍDEOS: Jornal do Amazonas - 1ª edição, 19 de setembro de 2026",
+      "url": "https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-1-edicao-19-de-setembro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T20:09:10+00:00",
       "summary": "",
-      "category": "Clima"
-    },
-    {
-      "title": "“Trump precisa ficar longe da Groenlândia”, dizem moradores após acordo",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-precisa-ficar-longe-da-groenlandia-dizem-moradores-apos-acordo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:25:25+00:00",
-      "summary": "Groenlandeses expressam opiniões divergentes sobre acordo entre EUA, Dinamarca e Groenlândia que prevê aumento da presença militar americana na ilha",
       "category": "Mundo"
     },
     {
-      "title": "Diretor do CBIE: Mercado não vê guerra no Oriente Médio acabando em breve",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/diretor-do-cbie-mercado-nao-ve-guerra-no-oriente-medio-acabando-em-breve/",
-      "source": "CNN Brasil",
+      "title": "Homem tenta furtar dois chuveiros elétricos em loja de São Pedro da Aldeia",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/19/homem-tenta-furtar-dois-chuveiros-eletricos-em-loja-de-sao-pedro-da-aldeia.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T17:25:24+00:00",
-      "summary": "Pedro Rodrigues, do CBIE, analisa cenários para o preço do barril e alerta sobre impacto na inflação global",
+      "publishedAt": "2026-09-19T20:08:49+00:00",
+      "summary": "Homem foi preso tentando furtar dois chuveiros elétricos em loja de São Pedro da Aldeia Polícia Militar Um homem de 42 anos foi preso por furto após ser flagrado com cerca de R$ 280 em mercadorias de uma loja no Centro de São Pedro da Aldeia, na Região dos Lagos do Rio, na tarde desta sexta-feira (18). Segundo a Políci",
       "category": "Economia"
     },
     {
-      "title": "Arsenal sofre derrota pesada em Brighton",
-      "url": "https://observador.pt/2026/09/19/arsenal-sofre-derrota-pesada-em-brighton-e-pode-deixar-fugir-manchester-city/",
+      "title": "Drenagem. Sindicato de arqueólogos critica Moedas",
+      "url": "https://observador.pt/2026/09/19/sindicato-de-arqueologos-critica-moedas-por-causa-de-obras-do-plano-de-drenagem/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-19T17:24:31+00:00",
-      "summary": "Desaire deixa os 'gunners' em risco de perderem a liderança, com o Manchester City a ter a possibilidade de se isolar no domingo, na receção ao Sunderland.",
+      "publishedAt": "2026-09-19T20:06:23+00:00",
+      "summary": "Para o Starq, \"as eventuais derrapagens nos prazos e nos custos de execução da obra não devem, pois, ser imputadas à arqueologia\" e a autarquia deve \"assumir as suas responsabilidades\".",
       "category": "Mundo"
     },
     {
-      "title": "Assista ao JAP2 deste sábado (19)",
-      "url": "https://g1.globo.com/ap/ao-vivo/assista-ao-jap1-deste-sabado-19.ghtml",
+      "title": "VÍDEO: Fortes ventos derrubam tendas de exposição de caprinos e ovinos no PI",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/19/video-fortes-ventos-jaicos.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T17:24:18+00:00",
-      "summary": "Assista ao JAP2 deste sábado (19) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ana Castela mostra treino pesado de costas e encara barra e remada com 20 kg",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/19/ana-castela-mostra-treino-pesado-de-costas-e-encara-barra-e-remada-com-20-kg.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:24:03+00:00",
-      "summary": "Ana Castela mostra treino de costas e encara remada com 20 kg na academia A cantora Ana Castela compartilhou nas redes sociais, neste sábado (19), registros de um treino de costas na academia. Durante os exercícios, a artista mostrou a rotina de preparação física e chamou a atenção ao levantar 20 kg em atividades como ",
+      "publishedAt": "2026-09-19T20:04:14+00:00",
+      "summary": "Fortes ventos derrubam tendas de exposição de caprinos e ovinos no PI Fortes ventos danificaram, na manhã deste sábado (19), parte da estrutura de uma exposição de caprinos e ovinos em Jaicós, no Sul do Piauí. Não houve registro de pessoas ou animais feridos. Imagens registradas por testemunhas mostram o momento em que",
       "category": "Cultura"
     },
     {
-      "title": "MG1 entrevista Mateus Simões, candidato ao governo de Minas Gerais; ASSISTA",
-      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/ao-vivo/entrevista-mg1-mateus-simoes.ghtml",
+      "title": "Xuxa processa ex-paquita Andrea Sorvetão por dívida de R$ 26 mil em apartamento; entenda",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/xuxa-processa-andrea-sorvetao-por-divida-apartamento.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T17:22:18+00:00",
-      "summary": "MG1 entrevista Mateus Simões, candidato ao governo de Minas Gerais; ASSISTA Candidato do PSD será o último sabatinado no telejornal em série de entrevistas.",
-      "category": "Política"
-    },
-    {
-      "title": "Ucrânia pede à União Europeia financiamento adicional de 32.600 milhões de euros",
-      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/ucrania-pede-a-uniao-europeia-financiamento-adicional-de-32600-milhoes-de-euros_n1766495",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T17:20:55+00:00",
-      "summary": "O ministro das Finanças da Ucrânia, Sergii Marchenko, voltou hoje a pedir à União Europeia (UE) um financiamento adicional ao país de 32.600 milhões de euros até 2027, pedido que Bruxelas promete analisar, reconhecendo a intensificação da agressão russa.",
-      "category": "Política"
-    },
-    {
-      "title": "AfD enche praça de Schwerin no encerramento de campanha eleitoral",
-      "url": "https://www.rtp.pt/noticias/mundo/afd-enche-praca-de-schwerin-no-encerramento-de-campanha-eleitoral_n1766500",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T17:18:18+00:00",
-      "summary": "Mais de um milhar de apoiantes da Alternativa para a Alemanha (AfD) encheram hoje a praça principal no centro histórico de Schwerin, no comício de encerramento das eleições estaduais de domingo em Mecklemburgo-Pomerânia Ocidental.",
-      "category": "Política"
-    },
-    {
-      "title": "Roupa de academia com cheiro de suor impregnado: desinfetante usado para limpeza geral pode ser uma opção na hora de eliminar esses odores; entenda",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/roupa-de-academia-com-cheiro-de-suor-impregnado-desinfetante-usado-para-limpeza-geral-pode-ser-uma-opcao-na-hora-de-eliminar-esses-odores-entenda/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:12:18+00:00",
-      "summary": "Roupa de academia com cheiro de suor impregnado: desinfetante usado para limpeza geral pode ser uma opção na hora de eliminar esses odores; entenda",
+      "publishedAt": "2026-09-19T20:04:01+00:00",
+      "summary": "Xuxa e a ex-paquita Andrea Sorvetão Reprodução A apresentadora Xuxa Meneghel entrou na Justiça do Rio contra a ex-paquita Andrea Sorvetão para cobrar R$ 26 mil em despesas de um apartamento no Recreio dos Bandeirantes, na Zona Sudoeste do Rio. O imóvel havia sido cedido por Xuxa para que a ex-assistente de palco morass",
       "category": "Mundo"
     },
     {
-      "title": "18h. Coimbra. Incêndios mobilizam mais de 600 operacionais",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2140/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T17:11:25+00:00",
-      "summary": "Os fogos começaram por volta das 13h em locais muito próximos e com poucos minutos de diferença.",
-      "category": "Clima"
-    },
-    {
-      "title": "Memphis lamenta pênalti perdido e fala em “maior decepção da carreira”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/memphis-lamenta-penalti-e-fala-em-maior-decepcao-da-carreira/",
-      "source": "CNN Brasil",
+      "title": "Homem morre após avançar com facão contra guardas municipais em MT",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/19/homem-morre-apos-avancar-com-facao-contra-guardas-municipais-em-mt.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T17:10:45+00:00",
-      "summary": "Jogador do Corinthians se pronuncia após erro que eliminou o time da Libertadores e pede desculpas à torcida",
+      "publishedAt": "2026-09-19T20:01:46+00:00",
+      "summary": "Homem morre após avançar contra guardas municipais com um facão na manhã deste sábado (19), em Lucas do Rio Verde. Reprodução Um homem morreu após avançar contra guardas municipais com um facão na manhã deste sábado (19), em Lucas do Rio Verde, a 333 km de Cuiabá. Segundo o secretário de Segurança Pública do município,",
       "category": "Mundo"
     },
     {
-      "title": "O monumento literário de Ana Maria Gonçalves",
-      "url": "https://observador.pt/especiais/ana-maria-goncalves-e-um-monumento-literario-chamado-um-defeito-de-cor/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T17:09:22+00:00",
-      "summary": "Não é apenas pelas 958 páginas da edição agora lançada pela Bertrand. \"Um Defeito de Cor\" é a história de uma sociedade num romance que se transformou num clássico das letras brasileiras.",
+      "title": "Maratona interdita Anel Viário e outras vias de São José dos Campos neste domingo (20); veja locais",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/19/maratona-interdita-anel-viario-e-outras-vias-de-sao-jose-dos-campos-neste-domingo-20-veja-locais.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T20:01:13+00:00",
+      "summary": "São José realiza prova de maratona amanhã O Anel Viário e outras vias de São José dos Campos serão interditados neste domingo (20) para a realização de uma maratona. Os bloqueios começam às 2h e devem terminar ao meio-dia. A primeira interdição será feita para a montagem da estrutura de largada. O bloqueio acontece das",
       "category": "Mundo"
     },
     {
-      "title": "Sabrina Sato entrega que não fez enxoval e quarto do bebê: “Atrasada”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/sabrina-sato-entrega-que-nao-fez-enxoval-e-quarto-do-bebe-atrasada/",
-      "source": "CNN Brasil",
+      "title": "Home office no quintal: iluminar a edícula sem obra elétrica",
+      "url": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/19/home-office-no-quintal-iluminar-a-edicula-sem-obra-eletrica.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T17:04:05+00:00",
-      "summary": "Famosa publicou vídeo falando sobre o planejamento para a chegada do segundo herdeiro - primeiro da relação com o ator Nicolas Prattes",
-      "category": "Mundo"
-    },
-    {
-      "title": "Carro elétrico pode ser gerador? Entenda os diferentes usos",
-      "url": "https://www.cnnbrasil.com.br/auto/carro-eletrico-pode-ser-gerador-entenda-os-diferentes-usos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T17:00:00+00:00",
-      "summary": "Com nomenclaturas bastante semelhantes, há risco de confusão entre as tecnologias de carregamento bidirecional V2L, V2H, V2B e V2G",
+      "publishedAt": "2026-09-19T20:00:00+00:00",
+      "summary": "Com o trabalho remoto consolidado, muita gente converteu edícula, galpão ou quarto de fundo em escritório. A reforma costuma cuidar de piso, pintura e internet — e esquecer a iluminação, que na construção antiga foi pensada para depósito, não para oito horas de trabalho. O resultado é vista cansada e sombra sobre a mes",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Acidente com carro de bombeiros em Coruche faz quatro feridos",
-      "url": "https://www.rtp.pt/noticias/pais/acidente-com-carro-de-bombeiros-em-coruche-faz-quatro-feridos_n1766501",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T16:59:04+00:00",
-      "summary": "Um acidente com um carro dos Bombeiros Voluntários de Canha provocou quatro feridos, um deles considerado grave.",
+      "title": "Cissa Guimarães curte cachoeira em viagem de férias a Bonito; veja as fotos",
+      "url": "https://www.cnnbrasil.com.br/noticias/cissa-guimaraes-curte-cachoeira-em-viagem-de-ferias-a-bonito-veja-as-fotos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:59:54+00:00",
+      "summary": "Apresentadora está em viagem de férias e conheceu alguns dos pontos turísticos mais importantes da cidade, como a Gruta do Lago Azul",
       "category": "Mundo"
     },
     {
-      "title": "Juiz dos EUA rejeita acordo do TikTok em caso de privacidade infantil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/juiz-dos-eua-rejeita-acordo-do-tiktok-em-caso-de-privacidade-infantil/",
+      "title": "Mãe de Virginia lembra pai da influencer após 5 anos de morte: “Saudades”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/mae-de-virginia-lembra-pai-da-influencer-apos-5-anos-de-morte-saudades/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T16:56:58+00:00",
-      "summary": "Processo acusa a rede social e sua controladora, ByteDance, de não protegerem a privacidade das crianças e de coletarem ilegalmente informações pessoais",
+      "publishedAt": "2026-09-19T19:59:35+00:00",
+      "summary": "Margareth Serrão fez publicação na data em que marca o falecimento do veterano",
       "category": "Mundo"
     },
     {
-      "title": "Em SC, Lula diz que agro deveria “se ajoelhar” a ele diante de recursos",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/em-sc-lula-diz-que-agro-deveria-se-ajoelhar-diante-de-recursos/",
+      "title": "América Latina amplia experiência dos gamers com torneios e campeonatos",
+      "url": "https://www.cnnbrasil.com.br/esportes/esports/america-latina-amplia-experiencia-dos-gamers-com-torneios-e-campeonatos/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T16:53:38+00:00",
-      "summary": "Presidente e candidato à reeleição disse que \"nunca houve tanto dinheiro para a agricultura como agora\" durante agenda de campanha em Florianópolis",
+      "publishedAt": "2026-09-19T19:56:16+00:00",
+      "summary": "Competições aproximam marcas das comunidades em 14 países e contam com mais de 31 mil participantes",
+      "category": "Esportes"
+    },
+    {
+      "title": "EUA apontam maior volume de petróleo em Ormuz em 6 meses",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/eua-apontam-maior-volume-de-petroleo-em-ormuz-em-6-meses/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:52:10+00:00",
+      "summary": "Comando central americano informou que mais de 1 bilhão de barris de petróleo bruto passaram nos últimos meses pela rota",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mendonça e Fux dizem à PF que ainda não acessaram celular de Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/politica/mendonca-e-fux-dizem-a-pf-que-ainda-nao-acessaram-celular-de-vorcaro/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:50:06+00:00",
+      "summary": "Ministros do STF afirmam que seus gabinetes não estão conseguindo ver as informações do aparelho e questionaram a corporação se o motivo é técnico ou de algum defeito físico nos materiais enviados pelos investigadores",
       "category": "Política"
     },
     {
-      "title": "Demi Lovato abre álbum de fotos no Brasil: “Amo brigadeiro”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/demi-lovato-abre-album-de-fotos-no-brasil-amo-brigadeiro/",
+      "title": "BE acusa Montenegro de estar a ser o \"pai da pobreza\"",
+      "url": "https://observador.pt/2026/09/19/be-acusa-montenegro-de-estar-a-ser-o-pai-do-desespero-e-da-pobreza-acentuada/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T19:49:17+00:00",
+      "summary": "\"Ele está a ser teimosamente fiel à sua ideologia liberal e não está, por isso mesmo, a ir ao encontro das necessidades das pessoas\", criticou José Manuel Pureza.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasil bate Suíça e avança na Copa Davis",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-bate-suica-e-avanca-na-copa-davis",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:49:00+00:00",
+      "summary": "A dupla brasileira de Orlando Luz e Rafael Matos confirmou o favoritismo diante dos suíços Jakub Paul e Dominic Stricker, venceu por 2 sets a 0, e fez o terceiro ponto da equipe brasileira. Com o resultado, o time nacional fez 3 a 0 nl duelo contra os europeus e avançou no Grupo Mundial 1 da Copa Davis. As parciais do ",
+      "category": "Economia"
+    },
+    {
+      "title": "Proposta libera CNH definitiva a quem cometer infrações administrativas",
+      "url": "https://www.cnnbrasil.com.br/auto/proposta-libera-cnh-definitiva-a-quem-cometer-infracoes-administrativas/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-19T16:50:01+00:00",
-      "summary": "Cantora se declarou ao país, aos fãs e à culinária brasileira, mostrando cliques de momentos especiais",
-      "category": "Cultura"
+      "publishedAt": "2026-09-19T19:48:28+00:00",
+      "summary": "Projeto de lei do deputado Jonas Donizette é analisado por comissões antes de seguir para votação na Câmara e no Senado",
+      "category": "Política"
+    },
+    {
+      "title": "Quem é Milton Cardoso, candidato ao Senado pelo Rio Grande do Sul",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-milton-cardoso-candidato-ao-senado-pelo-rio-grande-do-sul/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:47:17+00:00",
+      "summary": "Jornalista há mais de 40 anos, ele teve passagens por diversos veículos de comunicação de alcance nacional antes de se candidatar a senador pelo PSDB",
+      "category": "Política"
+    },
+    {
+      "title": "Juliette revela que chorou ao provar vestido de noiva: “Fui tirando onda”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/juliette-revela-que-chorou-ao-provar-vestido-de-noiva-fui-tirando-onda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:46:25+00:00",
+      "summary": "Campeã do BBB 21 contou sobre mudanças de plano na vida depois de iniciar relacionamento com Kaique Cerveny, com quem oficializará a união em dezembro",
+      "category": "Mundo"
+    },
+    {
+      "title": "FMI: IA pode impulsionar crescimento, mas aumentar tensões econômicas",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/fmi-ia-pode-impulsionar-crescimento-mas-aumentar-tensoes-economicas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:21:00+00:00",
+      "summary": "A inteligência artificial pode elevar a produtividade europeia em cerca de 1% ao longo de cinco anos, mas corre o risco de ampliar a desigualdade, sobrecarregar as redes de energia e aumentar a dependência de tecnologia estrangeira, a menos que os governos aprofundem a integração econômica, diz documento do Fundo Monet",
+      "category": "Política"
+    },
+    {
+      "title": "20h. Incêndios. Sobe para sete número de bombeiros feridos",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2053/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T19:17:20+00:00",
+      "summary": "Quatro bombeiros ficaram feridos em Coruche, um deles com gravidade. Outros três em Arganil. Ainda neste jornal, PS acusa Governo de guardar 400 milhões de euros em ganhos com a inflação.",
+      "category": "Política"
+    },
+    {
+      "title": "Brasil é eliminado pela Espanha nas quartas da Copa Feminina sub-20",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-e-eliminado-pela-espanha-nas-quartas-da-copa-feminina-sub-20",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:17:00+00:00",
+      "summary": "A seleção brasileira de futebol feminino perdeu para a Espanha por 1 a 0, na Arena Sosnowiec, na Polônia, neste sábado (19). O resultado eliminou o time da técnica Camilla Orlando nas quartas de final da Copa do Mundo feminina sub-20. O gol das europeias foi marcado aos 26 minutos do primeiro tempo. Rosalia cruzou e Pa",
+      "category": "Economia"
+    },
+    {
+      "title": "Open de Portugal: Marc Warren ataca título",
+      "url": "https://observador.pt/2026/09/19/open-de-portugal-marc-warren-ataca-titulo-portugueses-ambicionam-top-10/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T19:16:31+00:00",
+      "summary": "Mantendo-se muito consistente e eficaz, sobretudo das saídas, Marc Warren, vice-campeão do Challenge da Suíça, contabilizou um agregado de 191 pancadas, 22 abaixo do par, após voltas de 65, 63 e 63.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Rádio MEC transmite domingo o concerto da Orquestra Filarmônica de MG",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/radio-mec-transmite-domingo-o-concerto-da-orquestra-filarmonica-de-mg",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:14:00+00:00",
+      "summary": "A partir das 11h deste domingo (20), a Rádio MEC transmite ao vivo mais um concerto da Orquestra Filarmônica de Minas Gerais. A apresentação integra a série Concertos para a Juventude e será realizada diretamente da Sala Minas Gerais, em Belo Horizonte, sob regência do maestro José Soares. A edição número 5 da série te",
+      "category": "Mundo"
+    },
+    {
+      "title": "Nova espécie de felino é identificada em florestas da Bolívia",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/nova-especie-de-felino-e-identificada-em-florestas-da-bolivia",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T19:01:00+00:00",
+      "summary": "Uma nova espécie de felino, batizado de Leopardus tilcayo , foi identificada em florestas montanhosas da Bolívia, em uma região conhecida como Nor Yungas. A descoberta foi feita por uma equipe de pesquisadores liderados pelo professor da Escola de Ciências da Saúde e da Vida da Pontifícia Universidade Católica do Rio G",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Carneiro diz que dentro das famílias \"não concordam todos\"",
+      "url": "https://observador.pt/2026/09/19/carneiro-diz-que-dentro-das-familias-nao-concordam-todos-e-volta-a-defender-iva-zero/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T18:46:54+00:00",
+      "summary": "O socialista respondia às declarações de João Galamba que afirmou não concordar com a medida do IVA Zero no cabaz alimentar, que considerou não ser \"caminho adequado\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ventura: PM vai ficar conhecido como \"pai dos conluios\"",
+      "url": "https://observador.pt/2026/09/19/andre-ventura-diz-que-pm-vai-ficar-conhecido-como-pai-da-incompetencia-e-dos-conluios/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T18:44:21+00:00",
+      "summary": "O presidente do Chega reagia às declarações proferidas este sábado, em Braga, pelo primeiro-ministro, Luís Montenegro, o qual afirmou que não será \"o pai da austeridade\".",
+      "category": "Política"
+    },
+    {
+      "title": "Quatro bombeiros feridos em acidente de viação em Coruche",
+      "url": "https://observador.pt/2026/09/19/quatro-bombeiros-feridos-em-acidente-de-viacao-em-coruche-2/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T18:39:19+00:00",
+      "summary": "O acidente ocorreu cerca das 15h00 quando a viatura da corporação de bombeiros de Canha (Montijo, Setúbal) se despistou e capotou na Estrada Nacional 251, perto de Coruche.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Leão na frente com golos de Inácio e Suárez (2-0)",
+      "url": "https://observador.pt/liveblogs/sporting-arouca-leao-obrigado-a-vencer-para-pressionar-rivais-antes-do-classico/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T18:30:53+00:00",
+      "summary": "Depois do empate em casa do Famalicão, o Sporting está obrigado a vencer para se manter perto dos rivais antes do clássico do Dragão. Borges estreia Irankunda no onze. Siga aqui em direto.",
+      "category": "Esportes"
+    },
+    {
+      "title": "19h. André Ventura constituído assistente no caso do assalto",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2170/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T18:16:24+00:00",
+      "summary": "A partir da Madeira, líder do Chega pede punição rápida para os culpados de vandalismo. Ainda nesta edição, Mário Centeno culpa Marcelo Rebelo de Sousa pela instabilidade e a dificuldade nas reformas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Centeno critica Marcelo por ter dado posse a Governo",
+      "url": "https://observador.pt/2026/09/19/centeno-critica-marcelo-por-ter-dado-posse-a-governo-sem-apoio-parlamentar-e-elogia-cavaco-em-2015-c-audio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T18:02:34+00:00",
+      "summary": "Mário Centeno intervinha esta tarde na primeira conferência do Instituto Progresso e recordando as seis legislaturas interrompidas que Portugal teve no século XXI.",
+      "category": "Política"
+    },
+    {
+      "title": "O entusiasmo era tanto que a energia positiva dividiu-se",
+      "url": "https://observador.pt/2026/09/19/o-entusiasmo-era-tanto-que-a-energia-positiva-dividiu-se-por-roma-e-milao-kone-e-lautaro-bisaram-e-deixaram-lideranca-totalmente-em-aberto/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T18:02:16+00:00",
+      "summary": "Os dois rivais continuam na liderança do Campeonato italiano, embora possam ser apanhados por Como e Lazio",
+      "category": "Esportes"
+    },
+    {
+      "title": "Flávia Saraiva é ouro nas assimétricas da Copa do Mundo de ginástica",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flavia-saraiva-e-ouro-nas-assimetricas-da-copa-do-mundo-de-ginastica",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T17:54:00+00:00",
+      "summary": "A ginasta Flávia Saraiva foi campeã das disputas das barras assimétricas na etapa da Hungria da Copa do Mundo. A brasileira alcançou, na manhã deste sábado (19), a somatória de 13,366. Em quarto lugar, Lorrane Oliveira ficou a apenas 00,067 pontos do pódio. A norte-americana Tatum Drusch foi a segunda colocada e a eslo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Inep muda locais de exame da PND em União da Vitória (PR)",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-muda-locais-de-exame-da-pnd-em-uniao-da-vitoria-pr",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T17:39:00+00:00",
+      "summary": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) alterou os endereços de dois locais de aplicação da Prova Nacional Docente (PND), no município de União Vitória (PR). Os exames serão aplicados na tarde deste domingo (20), em 800 municípios brasileiros. Os docentes que fariam a prova no Co",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "TV Brasil exibe final do Brasileirão feminino A2 com Vasco e Itabirito",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/tv-brasil-exibe-final-do-brasileirao-feminino-a2-com-vasco-e-itabirito",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T17:34:00+00:00",
+      "summary": "A TV Brasil transmite, neste domingo (20), a partir das 10h45, a partida de volta da grande final do Brasileirão Feminino Série A2, entre Vasco (RJ) e Itabirito (MG). A decisão será em São Januário, no Rio de Janeiro (RJ). Por ter feito melhor campanha nesta décima edição do torneio, o time cruzmaltino tem a vantagem d",
+      "category": "Mundo"
     },
     {
       "title": "Alerta de tempestade: frente fria amplia instabilidade na Região Sul",
@@ -317,96 +515,6 @@
       "category": "Cultura"
     },
     {
-      "title": "Lula: “Quero ganhar pra manter Bolsonaro na cadeia”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-quero-ganhar-pra-manter-bolsonaro-na-cadeia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T16:48:24+00:00",
-      "summary": "Presidente cumpre agenda de campanha em Florianópolis e voltou a defender investigação do caso Master pelo STF, além de associar ascensão de Vorcaro ao governo Bolsonaro",
-      "category": "Política"
-    },
-    {
-      "title": "Após mudança radical, Tati Zaqui anuncia primeira gravidez",
-      "url": "https://www.cnnbrasil.com.br/noticias/apos-mudanca-radical-tati-zaqui-anuncia-primeira-gravidez/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T16:47:44+00:00",
-      "summary": "Ex-cantora de funk, que agora se dedica à música gospel, publicou um vídeo nas redes sociais contando a novidade ao lado noivo, Mateus Oliveira",
-      "category": "Cultura"
-    },
-    {
-      "title": "Famalicão goleia Nacional e tem primeira vitória na Liga",
-      "url": "https://observador.pt/2026/09/19/famalicao-conquista-primeira-vitoria-na-i-liga-ao-golear-nacional/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T16:40:09+00:00",
-      "summary": "O Famalicão subiu provisoriamente ao 11.º lugar, com sete pontos, enquanto o Nacional, que perdeu pela quinta jornada seguida, permanece no 15.º posto, com quatro.",
-      "category": "Esportes"
-    },
-    {
-      "title": "UE não quer ficar para trás na IA, mas com regulamentação",
-      "url": "https://observador.pt/2026/09/19/ue-nao-quer-ficar-para-tras-na-ia-mas-com-regulamentacao-robusta/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T16:36:47+00:00",
-      "summary": "Os 27 Estados-Membros abordaram o impacto da inteligência artificial na UE em áreas como o mercado de trabalho, o consumo energético, as administrações públicas ou a geopolítica.",
-      "category": "Economia"
-    },
-    {
-      "title": "A história da igreja que Vasco da Gama mandou construir",
-      "url": "https://observador.pt/especiais/nossa-senhora-das-salas-a-historia-o-tesouro-e-os-mitos-da-igreja-que-vasco-da-gama-mandou-construir-em-sines/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T16:29:54+00:00",
-      "summary": "A promessa de uma donzela bizantina, a teimosia de um navegador e a devoção de uma terra: tudo isto faz parte da história desta igreja em Sines, novamente aberta após obras financiadas pelo PRR.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Luciano Gonçalves lamenta \"insinuações falsas\"",
-      "url": "https://observador.pt/2026/09/19/luciano-goncalves-nega-nomeacoes-combinadas-e-lamenta-insinuacoes-falsas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T16:29:32+00:00",
-      "summary": "O presidente do Conselho de Arbitragem rejeita acusações de que é alvo e diz que nunca ultrapassou a fronteira da relação profissional com clubes, presidentes e dirigentes.",
-      "category": "Política"
-    },
-    {
-      "title": "16h Montenegro diz ser uma ilusão pensar que o governo pode anular por completo subida do custo de vida",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-montenegro-diz-ser-uma-ilusao-pensar-que-o-governo-pode-anular-por-completo-subida-do-custo-de-vida_a1_1766498",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T16:27:02+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "Incêndio em Vila Nova de Poiares. Fogo controlado em Sabouga",
-      "url": "https://www.rtp.pt/noticias/pais/incendio-em-vila-nova-de-poiares-fogo-controlado-em-sabouga_n1766496",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T16:21:40+00:00",
-      "summary": "Está controlado o incêndio que ameaçou a aldeia de Sabouga, em Vila Nova de Poiares.",
-      "category": "Clima"
-    },
-    {
-      "title": "CNN e MS NOW impedidos de entrar na Casa Branca",
-      "url": "https://observador.pt/2026/09/19/jornalistas-da-cnn-e-da-ms-now-impedidos-de-entrar-na-casa-branca/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T16:19:09+00:00",
-      "summary": "Trump anunciou na sexta-feira que proibia \"com efeito imediato\" o acesso à Casa Branca à CNN, à MS NOW e ao Politico, que acusou de divulgar o que classificou como \"notícias falsas\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "17h. Mário Centeno critica o abuso da “reforma” na política",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2288/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T16:09:57+00:00",
-      "summary": "O antigo ministro das Finanças diz que a palavra ganhou uma dimensão destrutiva e aponta o dedo a quem promete reformas, mas nunca as concretiza. Ainda, dois incêndios em Coimbra muito próximos.",
-      "category": "Política"
-    },
-    {
       "title": "Brasil vence Venezuela e está no mundial de vôlei masculino",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-venezuela-e-esta-no-mundial-de-volei-masculino",
       "source": "Agência Brasil",
@@ -414,114 +522,6 @@
       "publishedAt": "2026-09-19T16:00:00+00:00",
       "summary": "A seleção masculina de vôlei venceu a equipe da Venezuela por 3 sets a 0 na manhã deste sábado (19) na quarta rodada do Sul-Americano da modalidade. A partida foi disputada no ginásio do Maracanazinho e valeu a vaga para o Brasil no mundial de 2027. As parciais foram 25/19, 25/14 e 25/19 para mais de 7200 pessoas. Notí",
       "category": "Esportes"
-    },
-    {
-      "title": "Teresa Bonvalot falha 'quartos' no Rio de Janeiro",
-      "url": "https://observador.pt/2026/09/19/teresa-bonvalot-falha-quartos-do-saquarema-surf-festival-no-rio-de-janeiro/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T15:51:19+00:00",
-      "summary": "Seguem-se as provas em Cloud 9, nas Filipinas (16 a 25 de outubro de 2026), e de Jinzun Harbor, em Taiwan (14 a 22 de novembro de 2026).",
-      "category": "Mundo"
-    },
-    {
-      "title": "O rei leão está pronto para continuar a parar as novas eras",
-      "url": "https://observador.pt/2026/09/19/o-rei-leao-esta-pronto-para-continuar-a-parar-as-novas-eras-sporting-soma-decima-vitoria-consecutiva-em-derbis-com-o-benfica/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T15:46:56+00:00",
-      "summary": "Nos últimos 20 dérbis, o tricampeão nacional só perdeu numa ocasião e venceu as restantes 19",
-      "category": "Mundo"
-    },
-    {
-      "title": "Impacto financeiro de bets no SUS chega a R$ 30,6 bilhões por ano",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/impacto-financeiro-de-bets-no-sus-chega-30-6-bilhoes-por-ano",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T15:43:00+00:00",
-      "summary": "O impacto financeiro por causa dos danos à saúde provocados pelas apostas online no Sistema Único de Saúde (SUS) é de R$ 30,6 bilhões por ano. O dado consta de estudo do Instituto de Estudos para Políticas de Saúde (IEPS). Nessa conta, entram as despesas com tratamentos de depressão, ansiedade e impactos causado pelas ",
-      "category": "Saúde"
-    },
-    {
-      "title": "FC Porto chama Froholdt, Samu e Pietu-ze-vski para o clássico com o Benfica",
-      "url": "https://www.rtp.pt/noticias/benfica/fc-porto-chama-froholdt-samu-e-pietu-ze-vski-para-o-classico-com-o-benfica_d1766492",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T15:38:31+00:00",
-      "summary": "A RTP confirmou que Froholdt, Samu e Pietu-ze-vski integram a convocatória do FC Porto para o clássico frente ao Benfica, marcado para este domingo, no Estádio do Dragão. A partida, que tem lotação esgotada, começa às 20h30 e poderá permitir aos portistas aumentar para cinco pontos a vantagem sobre o rival lisboeta.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Bruxelas disponível para retomar proposta sobre uso de ativos russos congelados",
-      "url": "https://www.rtp.pt/noticias/economia/bruxelas-disponivel-para-retomar-proposta-sobre-uso-de-ativos-russos-congelados_n1766489",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T15:37:32+00:00",
-      "summary": "A Comissão Europeia disse hoje estar disponível para retomar as discussões sobre a utilização dos ativos soberanos russos congelados para apoiar financeiramente a Ucrânia, admitindo analisar \"diferentes modalidades\" que permitam chegar a um consenso na União Europeia (UE).",
-      "category": "Economia"
-    },
-    {
-      "title": "Petrobras batiza primeiro navio a navegar com tripulação 100% feminina",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-batiza-primeiro-navio-navegar-com-tripulacao-100-feminina",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T15:37:00+00:00",
-      "summary": "A Petrobras batizou, no Píer Mauá, a embarcação Starnav Elektra, primeira entrega do Programa Mar Aberto, iniciativa voltada para renovação e ampliação da frota da companhia. A embarcação foi construída no Estaleiro Detroit, em Itajaí (SC), e agora segue para operar nas plataformas das bacias petrolíferas brasileiras. ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Apostas em bets avançam entre jovens e ampliam risco de dependência",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/apostas-em-bets-avancam-entre-jovens-e-ampliam-risco-de-dependencia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T15:21:00+00:00",
-      "summary": "Cada vez mais jovens têm buscado ajuda para largar a dependência de bets, avalia Luiz Carlos*, integrante de um grupo de apoio para pessoas com problemas de jogo, a irmandade Jogadores Anônimos . Segundo ele, já é comum encontrar adolescentes na faixa de 14 anos procurando ajuda para conter o vício. “Hoje quem chega à ",
-      "category": "Esportes"
-    },
-    {
-      "title": "Mega-Sena sorteia prêmio de R$ 28 milhões neste domingo",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-de-r-28-milhoes-neste-domingo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T14:00:00+00:00",
-      "summary": "A Mega-Sena sorteia neste domingo (20) prêmio estimado em R$ 28 milhões. As seis dezenas do concurso 3.060 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 22h (horário de Brasília) de sábado (19) em casas lotéricas credenciadas pela Caixa em to",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Apostas online podem levar ao endividamento rápido, diz pesquisa",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/apostas-online-podem-levar-ao-endividamento-rapido-diz-pesquisa",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T13:57:00+00:00",
-      "summary": "As apostas online têm gastos anuais de R$ 2,2 bilhões e equivalem a mais de três vezes a movimentação financeira estimada para as compras de Natal. A falsa impressão de ganho rápido de dinheiro pode causar efeitos colaterais aos apostadore, como é o caso do endividamento. O hábito pode acarretar perda de controle, conf",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Cargos de liderança são só 1,5% das vagas para pessoas com deficiência",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/cargos-de-lideranca-sao-so-15-das-vagas-para-pessoas-com-deficiencia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T13:23:00+00:00",
-      "summary": "Apenas 1,5% das vagas destinadas a pessoas com deficiência (PcDs) ofertam posições técnicas e gerenciais, aponta levantamento inédito da startup Egalite. O levantamento considera dados de 116 mil profissionais cadastrados e mais de 19 mil vagas ativas no portal Inclui PcD, da própria startup , especializada em projetos",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Confira a agenda dos presidenciáveis neste fim de semana (19 e 20)",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-fim-de-semana-19-e-20",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T13:01:00+00:00",
-      "summary": "A agenda dos candidatos à Presidência neste fim de semana inclui sabatinas, atos políticos, caminhadas e panfletagens. Também estão previstas visitas a municípios, participação em eventos e manifestações culturais, além de encontros com empresários e apoiadores e atividades de campanha em diferentes cidades. Augusto Cu",
-      "category": "Cultura"
-    },
-    {
-      "title": "Condenados por violência doméstica terão de passar por reabilitação",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/condenados-por-violencia-domestica-terao-de-passar-por-reabilitacao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T12:52:00+00:00",
-      "summary": "O Ministério Público do Estado do Rio de Janeiro (MPRJ) obteve, no Superior Tribunal de Justiça (STJ), decisão favorável que restabelece a obrigatoriedade de participação de condenados por violência doméstica em grupos reflexivos de reeducação. A decisão da 6ª Turma do STJ consolida o entendimento de que a resposta pen",
-      "category": "Mundo"
     }
   ],
   "sources": [
