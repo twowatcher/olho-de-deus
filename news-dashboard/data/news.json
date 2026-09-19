@@ -1,6 +1,366 @@
 {
-  "updatedAt": "2026-09-19T00:18:12.430186+00:00",
+  "updatedAt": "2026-09-19T05:50:17.658006+00:00",
   "items": [
+    {
+      "title": "5h Dominado o fogo em prédiio na Avenida dos Aliados",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-dominado-o-fogo-em-prediio-na-avenida-dos-aliados_a1_1766442",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T06:47:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias das 6h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2499/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T05:17:29+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Discurso de Von der Leyen: a Europa está isolada e cansada?",
+      "url": "https://observador.pt/programas/5-continentes/discurso-de-von-der-leyen-a-europa-esta-isolada-e-cansada/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T05:06:26+00:00",
+      "summary": "Bruno Cardoso Reis, Madalena Meyer Resende, Henrique Burnay e João Diogo Barbosa discutem as propostas geopolíticas de von der Leyen e a aproximação ao Canadá. E ainda a falta de coesão nos BRICS+.",
+      "category": "Economia"
+    },
+    {
+      "title": "Canções pra vindima",
+      "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-pra-vindima/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T05:04:35+00:00",
+      "summary": "Das vinhas ao copo, celebramos a época das vindimas! Com clássicos de Carlos Paião e Amália, com a pop de Nancy Sinatra e Drake, passando por Oasis e Marvin Gaye, erguemos o brinde à música.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Henrique, o \"caçador\" de cascatas e poços",
+      "url": "https://observador.pt/programas/conversas-do-fim-do-mundo/henrique-o-cacador-de-cascatas-e-pocos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T05:03:53+00:00",
+      "summary": "Henrique Mendes tem uma missão: ir a todas as praias fluviais, cascatas, açudes e poços do país. Ao fim de dez anos a percorrer Portugal, a missão vai a meio - já foi a quase 400 lugares.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Lisboa vai tornar-se num ponto central do mundo da IA",
+      "url": "https://observador.pt/programas/m-quinas-que-pensam/lisboa-vai-tornar-se-num-ponto-central-do-mundo-da-ia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T05:02:26+00:00",
+      "summary": "Lisbon AI Week regressa este mês a Lisboa com programação distribuída por diferentes locais da capital. Objectivo é aproximar diferentes comunidades e incentivar a partilha de conhecimento.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Rejeição a Mendonça dispara nas redes, mas não supera a de Moraes",
+      "url": "https://www.cnnbrasil.com.br/politica/analise-ww-ap-exata-mencoes-mendonca-moraes-semanas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T05:00:36+00:00",
+      "summary": "Dados da AP Exata apontam que menções positivas ao relator dos casos Master e INSS estacionaram em 30% no X e no Instagram",
+      "category": "Mundo"
+    },
+    {
+      "title": "Como pai e filho transformaram um pequeno estoque em um e-commerce de R$ 220 mil",
+      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/19/como-pai-e-filho-transformaram-um-pequeno-estoque-em-um-e-commerce-de-r-220-mil.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T05:00:01+00:00",
+      "summary": "Como uma família construiu um negócio de R$ 220 mil por mês vendendo online Durante mais de três décadas, Sérgio Cruz viveu atrás do volante de um caminhão. A profissão ajudou a criar os filhos e sustentar a família, mas a rotina pesada das estradas já começava a cobrar seu preço. Foi então que uma oportunidade apresen",
+      "category": "Economia"
+    },
+    {
+      "title": "Saúde e educação: veja o que os candidatos ao governo do DF disseram nas entrevistas ao DF1",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/19/saude-e-educacao-veja-o-que-os-candidatos-ao-governo-do-df-disseram-nas-entrevistas-ao-df1.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T05:00:00+00:00",
+      "summary": "Candidatos ao GDF participam de entrevistas no DF1 TV Globo/Reprodução Nesta semana, a TV Globo entrevistou os quatro candidatos ao Governo do Distrito Federal mais bem colocados na pesquisa de intenção de voto divulgada pelo Datafolha na sexta-feira (11). Entre segunda (14) e quinta-feira (17), Leandro Grass (PT), Cel",
+      "category": "Política"
+    },
+    {
+      "title": "O que se sabe e o que ainda falta saber sobre caso de vereador que caiu no Rio Piracicaba ao gravar vídeo",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/19/o-que-se-sabe-e-o-que-ainda-falta-saber-sobre-caso-de-vereador-que-caiu-no-rio-piracicaba-ao-gravar-video.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T05:00:00+00:00",
+      "summary": "Vereador Fabrício Polezi cai de ponte no Rio Piracicaba, se afoga e é internado O vereador Fabrício Polezi (PL), de Piracicaba (SP), segue internado na Unidade de Terapia Intensiva (UTI) da Santa Casa após cair no Rio Piracicaba enquanto gravava um vídeo. No último boletim médico, divulgado na tarde desta sexta-feira (",
+      "category": "Saúde"
+    },
+    {
+      "title": "Zezé Di Camargo e Luciano interrompem show para atendimento de pessoa que passou mal na plateia",
+      "url": "https://g1.globo.com/sp/campinas-regiao/rodeio-de-jaguariuna/noticia/2026/09/19/zeze-di-camargo-e-luciano-interrompem-show-para-atendimento-de-pessoa-que-passou-mal-na-plateia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:49:13+00:00",
+      "summary": "Zezé e Luciano interrompem show para atendimento de pessoa que passou mal na plateia Zezé Di Camargo e Luciano interromperam o show que abriu a edição 2026 do Jaguariúna Rodeo Festival, na noite desta sexta-feira (18), para auxiliar no atendimento a uma pessoa que passou mal na plateia. Ao perceber a movimentação do pú",
+      "category": "Cultura"
+    },
+    {
+      "title": "4h Fogo deflagrou num edifício na Avenida dos Aliados",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-fogo-deflagrou-num-edificio-na-avenida-dos-aliados_a1_1766435",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T04:43:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h Passos Coelho diz que não se aborrece com opiniões diferentes",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-passos-coelho-diz-que-nao-se-aborrece-com-opinioes-diferentes_a1_1766434",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T04:42:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h Só 70% dos comboios chegaram a horas no 1º semestre do ano",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-so-70-dos-comboios-chegaram-a-horas-no-1o-semestre-do-ano_a1_1766433",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T04:41:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Stuttgart x Bor. Dortmund: horário e onde assistir ao jogo da Bundesliga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/stuttgart-x-bor-dortmund-horario-e-onde-assistir-ao-jogo-da-bundesliga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:30:10+00:00",
+      "summary": "Equipes vão a campo neste sábado (19) pela 4ª rodada do Campeonato Alemão",
+      "category": "Esportes"
+    },
+    {
+      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
+      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:07:32+00:00",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este sábado (19) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 31ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuvens. ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:07:16+00:00",
+      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para este sábado (19) para São Paulo (SP) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 26ºC e as mínimas de 15ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. N",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:06:57+00:00",
+      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para este sábado (19) para São Bernardo do Campo (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 23ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:06:39+00:00",
+      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para este sábado (19) para Santo André (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 22ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com mu",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:06:15+00:00",
+      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para este sábado (19) para Osasco (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 25ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuven",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:05:55+00:00",
+      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para este sábado (19) para Guarulhos (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 24ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-poucas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:05:29+00:00",
+      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para este sábado (19) para São Gonçalo (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com poucas nuvens. As máximas são de 26ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com mu",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T04:05:12+00:00",
+      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para este sábado (19) para o Rio de Janeiro (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 26ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, so",
+      "category": "Clima"
+    },
+    {
+      "title": "Acabar com o Volta resolve alguma coisa?",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/acabar-com-o-volta-resolve-alguma-coisa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T04:02:28+00:00",
+      "summary": "Carlos Moedas quer acabar com o Volta, mas o Governo rejeita a ideia. Leonor Riso explica o que está em causa e o que mostram outros sistemas de depósito e reembolso na Europa.",
+      "category": "Política"
+    },
+    {
+      "title": "4h. Ex-secretário de Estado da Energia critica governo e PS",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2405/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T03:16:34+00:00",
+      "summary": "João Galamba diz que todas as partes \"podiam fazer melhor\". Ainda, na Alemanha, as sondagens antecipam novas derrotas da CDU em eleições regionais.",
+      "category": "Política"
+    },
+    {
+      "title": "Número de americanos mortos na guerra é maior que o divulgado, diz jornal",
+      "url": "https://www.cnnbrasil.com.br/internacional/numero-de-americanos-mortos-na-guerra-e-maior-que-o-divulgado-diz-jornal/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T02:51:58+00:00",
+      "summary": "Autoridades dos EUA informaram ao Washington Post que 22 militares morreram durante o conflito; Pentágono divulgou 18 baixas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Guerra contra o Irã custou US$ 45,1 bilhões até o momento, diz Pentágono",
+      "url": "https://www.cnnbrasil.com.br/internacional/guerra-contra-o-ira-custou-us-451-bilhoes-ate-o-momento-diz-pentagono/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T02:33:27+00:00",
+      "summary": "Informação foi divulgada pelo Departamento de Defesa dos Estados Unidos ao Congresso americano; estimativa não inclui custos de reparo a bases e edifícios danificados no conflito",
+      "category": "Política"
+    },
+    {
+      "title": "Quem é Leila do Vôlei, candidata ao Senado pelo Distrito Federal",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leila-do-volei-candidata-ao-senado-pelo-distrito-federal/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T02:27:19+00:00",
+      "summary": "Ex-jogadora da seleção brasileira e medalhista olímpica, senadora disputa a reeleição após trajetória no esporte e na política do Distrito Federal",
+      "category": "Política"
+    },
+    {
+      "title": "TRE-SP multa Sâmia Bomfim em R$ 5 mil por associar Tarcísio ao nazismo",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tre-sp-multa-samia-em-r-5-mil-por-associar-tarcisio-ao-nazismo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T02:22:06+00:00",
+      "summary": "No entendimento da Justiça Eleitoral, deputada federal do Psol divulgou \"notícia sabidamente falsa\" e \"ultrapassou os limites da crítica política\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h. Custo de Vida. PR recusou comentar medidas do Governo",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2441/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T02:16:11+00:00",
+      "summary": "António José Seguro apela à partilha e ao fortalecimento do chão comum. Ainda, em reação às críticas vindas do PSD, Pedro Passos Coelho volta a pedir ousadia do partido do governo.",
+      "category": "Política"
+    },
+    {
+      "title": "Quem é Helder Barbalho, candidato ao Senado pelo Pará",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-helder-barbalho-candidato-ao-senado-pelo-para/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T02:12:31+00:00",
+      "summary": "Candidato do MDB a senador já foi prefeito de Ananindeua, governador do estado e ministro nos governos de Dilma Rousseff e Michel Temer",
+      "category": "Política"
+    },
+    {
+      "title": "“Não cometi crime”, diz Milton Leite após ser preso por ligação com o PCC",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/nao-cometi-crime-diz-milton-leite-apos-ser-preso-por-ligacao-com-o-pcc/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T01:58:22+00:00",
+      "summary": "Ex-vereador afirma que provará sua inocência; ele é suspeito de gerenciar empresas de transporte em São Paulo ligadas a esquema de lavagem de dinheiro",
+      "category": "Economia"
+    },
+    {
+      "title": "Quem é Conti, candidato do Psol ao Senado pelo Pará",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-conti-candidato-do-psol-ao-senado-pelo-para/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T01:54:26+00:00",
+      "summary": "Servidor da UFF e dirigente do Movimento Negro Unificado disputa pela primeira vez um cargo eletivo",
+      "category": "Política"
+    },
+    {
+      "title": "Computador quântico opera em temperatura menor que a do espaço",
+      "url": "https://www.cnnbrasil.com.br/ciencia/computador-quantico-opera-em-temperatura-menor-que-a-do-espaco/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T01:51:58+00:00",
+      "summary": "Tecnologia que utiliza modelagem da física quântica é cerca de 100 vezes mais fria que o zero absoluto para processar informações",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Existe um interesse maior de Trump do que combater drogas, diz especialista",
+      "url": "https://www.cnnbrasil.com.br/internacional/existe-um-interesse-maior-de-trump-do-que-combater-drogas-diz-especialista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T01:48:34+00:00",
+      "summary": "Priscila Caneparo afirma que envio de drones dos EUA à América do Sul vai além do combate ao narcotráfico e mira contenção da China",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quem é Marlene Soccas, candidata ao Senado por Santa Catarina",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-marlene-soccas-candidata-ao-senado-por-santa-catarina/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T01:42:46+00:00",
+      "summary": "Ex-militante da VPR, Marlene foi presa e torturada durante a ditadura e participou da fundação do PT",
+      "category": "Política"
+    },
+    {
+      "title": "1h Trump anuncia acordo para \"controlo\" das Gronelândia",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-trump-anuncia-acordo-para-controlo-das-gronelandia_a1_1766424",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T01:34:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h. Passos Coelho relativiza críticas vindas do seio do PSD",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2415/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T01:15:38+00:00",
+      "summary": "O antigo primeiro-ministro vê com naturalidade as críticas de Leonor Beleza. Ainda, o Presidente da República recusou comentar as medidas anunciadas na quinta-feira pelo Governo.",
+      "category": "Política"
+    },
+    {
+      "title": "Passos Coelho respeita críticas, mas pede mais \"ousadia\"",
+      "url": "https://observador.pt/programas/reportagem-observador/passos-coelho-respeita-criticas-mas-pede-mais-ousadia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-19T01:00:32+00:00",
+      "summary": "Antigo primeiro-ministro responde às críticas de Leonor Beleza e afasta mal-estar com o PSD, mas volta a deixar recados a Luís Montenegro: “Era importante que ousasse mais”.",
+      "category": "Política"
+    },
+    {
+      "title": "Veja como foi a sexta-feira (18) dos candidatos a presidente",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-sexta-feira-18-dos-candidatos-presidente",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-19T01:00:00+00:00",
+      "summary": "A agenda dos presidenciáveis nesta sexta-feira (18) incluiu debates ao vivo, sabatinas e entrevistas para veículos de comunicação, além de visitas a feiras, projeto social e encontro com representantes do setor industrial. >> Veja como foi o dia dos candidatos a presidente Wilson Grassi (Democrata) O candidato Wilson G",
+      "category": "Política"
+    },
     {
       "title": "Passos Coelho quer Governo a \"ousar mais\" e desvaloriza críticas dentro do PSD",
       "url": "https://www.rtp.pt/noticias/politica/passos-coelho-quer-governo-a-ousar-mais-e-desvaloriza-criticas-dentro-do-psd_v1766423",
@@ -20,229 +380,13 @@
       "category": "Mundo"
     },
     {
-      "title": "As notícias da 1h",
+      "title": "1h. Eleições em Berlim. CDU cai para apenas 20%",
       "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2388/",
       "source": "Observador",
       "region": "Portugal",
       "publishedAt": "2026-09-19T00:14:16+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "g1 em 1 Minuto estreia novo formato nesta sexta (18); veja o que mudou",
-      "url": "https://g1.globo.com/g1-20-anos/noticia/2026/09/18/g1-em-1-minuto-estreia-novo-formato-nesta-sexta-18-veja-o-que-mudou.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T00:02:58+00:00",
-      "summary": "Como é feito o novo g1 em 1 minuto O g1 em 1 Minuto chega de cara nova nesta sexta-feira (18), nas comemorações pelos 20 anos do g1. Uma das principais novidades é o vídeo vertical, formato que já faz parte do dia a dia do portal e de suas redes sociais. A ideia é deixar claro que, mesmo também estando na TV, o g1 nasc",
-      "category": "Cultura"
-    },
-    {
-      "title": "Homem armado com faca invade faculdade em Manaus e assusta funcionários",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/18/homem-armado-com-faca-invade-faculdade-em-manaus-e-assusta-funcionarios.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T00:02:53+00:00",
-      "summary": "Suspeito de invadir universidade em Manaus é preso pela Força Tática. Jackson Oliveira/Rede Amazônica Um homem, ainda não identificado, invadiu o campus da Faculdade Estácio, na Zona Centro-Sul de Manaus, armado com uma faca e se abrigou em uma sala onde estavam funcionários da instituição. O caso aconteceu na tarde de",
-      "category": "Mundo"
-    },
-    {
-      "title": "“Tenho ranço de macho pegador”, diz Juliette prestes a subir ao altar",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/tenho-ranco-de-macho-pegador-diz-juliette-prestes-a-subir-ao-altar/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T00:01:33+00:00",
-      "summary": "Ex-BBB disse que conheceu o noivo, Kaique Cerveny, em um momento em que não tinha mais esperanças no amor",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lula promete acabar com as bets e critica impacto dos jogos: “É uma doença”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-promete-acabar-com-as-bets-e-critica-impacto-dos-jogos-e-uma-doenca/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T00:00:44+00:00",
-      "summary": "Presidente cita pessoas que venderam bens e enfrentaram situações extremas por causa dos jogos e critica os clubes de futebol.",
+      "summary": "As sondagens antecipam novas derrotas da CDU em eleições regionais. Ainda, Donald Trump baniu a CNN, o POLITICO e a MS Now da Casa Branca.",
       "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: Daniel Vilela promete aumento no número de câmeras de monitoramento com uso de Inteligência Artificial",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-agenda-de-daniel-vilela-de-sexta-feira-18.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-19T00:00:10+00:00",
-      "summary": "Daniel Vilela promete aumento no número de câmeras de monitoramento com uso de IA O candidato ao governo de Goiás Daniel Vilela (MDB) prometeu reforçar a área da segurança pública com a ampliação de câmeras de monitoramento integradas a sistemas de inteligência artificial. O emedebista desembarcou em Uruaçu no fim da m",
-      "category": "Política"
-    },
-    {
-      "title": "Proprietário é preso após MP flagrar clínica de reabilitação com pacientes internados sem autorização, no Ceará",
-      "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/09/18/proprietario-de-clinica-de-reabilitacao-preso-em-juazeiro-do-norte-no-ceara.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:59:24+00:00",
-      "summary": "Proprietário é preso após MP flagrar clínica de reabilitação com pacientes internados sem autorização, no Ceará. MPCE/Reprodução O dono de uma clínica de reabilitação foi preso, nesta quinta-feira (17), após o Ministério Público do Ceará constatar uma série de irregularidades no local. A clínica, que acolhe pessoas com",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Moradores protestam após morte na Cidade Olímpica; família diz que vítima foi confundida com criminoso pela polícia",
-      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/18/moradores-protestam-apos-morte-na-cidade-olimpica-familia-diz-que-vitima-foi-confundida-com-criminoso-pela-policia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:58:58+00:00",
-      "summary": "Moradores protestam após morte de jovem na Cidade Olímpica Moradores do bairro Cidade Olímpica, em São Luís, realizam um protesto na noite desta sexta-feira (18) após a morte de um homem de 24 anos durante uma ocorrência envolvendo policiais militares. De acordo com moradores, a manifestação começou por volta das 14h, ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quem é Pastor Gilvan Costa, candidato ao Senado por Pernambuco",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-pastor-gilvan-costa-candidato-ao-senado-por-pernambuco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:57:37+00:00",
-      "summary": "Pastor já atuou como deputado estadual e vereador em Pernambuco e busca um novo mandato federal após tentativas anteriores",
-      "category": "Política"
-    },
-    {
-      "title": "Entenda investigação sobre mortes de elefantas em santuário que recebeu Sandro em MT",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/18/entenda-investigacao-sobre-mortes-de-elefantas-em-santuario-que-recebeu-sandro-em-mt.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:56:08+00:00",
-      "summary": "Elefante Sandro chega ao santuário em Mato Grosso A chegada do elefante Sandro, de 54 anos, ao Santuário de Elefantes Brasil, em Chapada dos Guimarães, a 65 km de Cuiabá, nesta sexta-feira (18), voltou a atenção para as investigações envolvendo o local, iniciadas após as mortes de duas elefantas africanas no fim de 202",
-      "category": "Mundo"
-    },
-    {
-      "title": "Traficante “Véi Gilson” é preso no Rio Grande do Norte",
-      "url": "https://www.cnnbrasil.com.br/nacional/brasil/traficante-vei-gilson-e-preso-no-rio-grande-do-norte/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:50:21+00:00",
-      "summary": "Um dos criminosos mais procurados do Acre e fundador do Bonde dos Treze foi localizado em residência de luxo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí nesta sexta (18)",
-      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/18/agenda-candidatos-ao-governo-do-piaui-sexta-18.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:49:34+00:00",
-      "summary": "Candidatos ao Governo do Piauí Montagem/g1 Os candidatos ao Governo do Piauí cumpriram agenda de campanha nesta sexta-feira (18) em diferentes cidades do estado, como Teresina, Floriano, Valença do Piauí, Oeiras e Nazaré do Piauí. As atividades incluíram sabatina em emissora, caminhadas, panfletagens, visitas e partici",
-      "category": "Política"
-    },
-    {
-      "title": "Resultados das Loterias Caixa",
-      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:49:05+00:00",
-      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Tarcísio diz que não fazia consulta a partidos para nomear cargos e cita 'distância da política' ao comentar relação com Milton Leite",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/18/tarcisio-diz-que-nao-fazia-consulta-a-partidos-para-nomear-cargos-e-cita-distancia-da-politica-ao-comentar-relacao-com-milton-leite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:48:15+00:00",
-      "summary": "O governador de São Paulo e candidato à reeleição, Tarcísio de Freitas, durante evento na Zona Oeste de SP. Reprodução/TV Globo O governador de São Paulo e candidato à reeleição, Tarcísio de Freitas (Republicanos), afirmou nesta sexta-feira (18), em evento na Vila Leopoldina, na Zona Oeste da capital, que seu governo a",
-      "category": "Política"
-    },
-    {
-      "title": "Quem é Mendonça Filho, candidato ao Senado por Pernambuco",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-mendonca-filho-candidato-ao-senado-por-pernambuco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:45:51+00:00",
-      "summary": "Ex-ministro e ex-vice-governador do estado, candidato decidiu se lançar por uma candidatura avulsa após impasses políticos",
-      "category": "Política"
-    },
-    {
-      "title": "Brasil 2 x 0 Suíça: Heide vence batalha contra Wawrinka na Copa Davis",
-      "url": "https://www.cnnbrasil.com.br/esportes/tenis/brasil-2-x-0-suica-heide-vence-batalha-contra-wawrinka-na-copa-davis/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:43:05+00:00",
-      "summary": "Com três partidas previstas para este sábado (19), equipe brasileira está a apenas um triunfo de confirmar a vaga nos Qualifiers do torneio em 2027",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quem é Marília Arraes, candidata ao Senado por Pernambuco",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-marilia-arraes-candidata-ao-senado-por-pernambuco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:42:56+00:00",
-      "summary": "Neta do ex-governador de Pernambuco Miguel Arraes, Marília é formada em Direito e já foi vereadora do Recife e deputada federal pelo estado",
-      "category": "Política"
-    },
-    {
-      "title": "Encontro com setores produtivos, caminhadas e comícios: veja como foi o dia dos candidatos ao governo da Paraíba",
-      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/veja-como-foi-agenda-candidatos-governo-pb-18-setembro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:41:16+00:00",
-      "summary": "Candidatos a governador da Paraíba em 2026 Reprodução/TV Cabo Branco Os candidatos ao governo da Paraíba cumpriram agenda em diferentes cidades, nesta sexta-feira (18), durante mais um dia de campanha. Entre os compromissos dos candidatos, estiveram entrevistas, caminhadas e sabatinas. O primeiro turno de votação será ",
-      "category": "Política"
-    },
-    {
-      "title": "Duas pessoas são presas por maus-tratos a cães em Campinas",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/18/duas-pessoas-presas-maus-tratos-caes-campinas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:39:10+00:00",
-      "summary": "Duas pessoas são presas por maus-tratos a cães em Campinas A Polícia Civil prendeu nesta sexta-feira (18) duas pessoas por maus-tratos a cachorros, no Residencial Padre Anchieta, em Campinas (SP). Os animais tinham ferimentos e estavam em ambientes considerados insalubres. Segundo a corporação, as inspeções ocorreram a",
-      "category": "Mundo"
-    },
-    {
-      "title": "Justiça condena Sesc-MT a pagar R$ 150 mil por discriminação contra drag queen",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/18/justica-condena-sesc-mt-a-pagar-r-150-mil-por-discriminacao-contra-drag-queen.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:38:47+00:00",
-      "summary": "Justiça condena Sesc-MT a pagar R$ 150 mil por discriminação contra drag queen Nelly Winter em Cuiabá Reprodução O Serviço Social do Comércio (Sesc-MT) foi condenado pela Justiça de Mato Grosso a pagar R$ 150 mil por dano moral coletivo após a Justiça considerar discriminatória a forma como o artista Neliton Góis da Si",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quem é Mariano Macedo, candidato ao Senado por Pernambuco",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-mariano-macedo-candidato-ao-senado-por-pernambuco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:37:27+00:00",
-      "summary": "Filiado ao PSTU, o professor de ensino médio já disputou cargos como vereador, deputado e vice-prefeito em diversas eleições desde 2004, mas nunca foi eleito",
-      "category": "Política"
-    },
-    {
-      "title": "Diesel no Brasil encerra semana no maior valor desde maio, diz ANP",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/diesel-no-brasil-encerra-semana-no-maior-valor-desde-maio-diz-anp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:36:38+00:00",
-      "summary": "Avanço dos preços do combustível mais consumido do Brasil ocorre após uma disparada das cotações do petróleo e seus derivados no mercado internacional ao longo deste mês",
-      "category": "Economia"
-    },
-    {
-      "title": "Quem é Mailson da Silva Neto, candidato ao Senado por Pernambuco",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-mailson-da-silva-neto-candidato-ao-senado-por-pernambuco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:34:38+00:00",
-      "summary": "Engenheiro é filiado ao PCO (Partido da Causa Operária) e concorre pela primeira vez à um cargo político",
-      "category": "Política"
-    },
-    {
-      "title": "Acordo com EUA é “benéfico para todos nós”, diz premiê da Groenlândia",
-      "url": "https://www.cnnbrasil.com.br/internacional/acordo-com-eua-e-benefico-para-todos-nos-diz-premie-da-groenlandia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:32:40+00:00",
-      "summary": "Mais cedo, Donald Trump anunciou um tratado que garante a Washington o controle sobre a segurança da região",
-      "category": "Mundo"
-    },
-    {
-      "title": "Conselho do São Paulo define data para votar acordo de R$ 140 milhões",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/conselho-do-sao-paulo-define-data-para-votar-acordo-de-r-140-milhoes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T23:31:15+00:00",
-      "summary": "Diretoria tricolor vê no contrato com a Ticketmaster a possibilidade para auxiliar no fluxo de caixa e quitar compromissos financeiros",
-      "category": "Mundo"
     },
     {
       "title": "Não vale a pena fugir: o Estado apanha-nos sempre",
@@ -263,15 +407,6 @@
       "category": "Ciência & Tech"
     },
     {
-      "title": "É disto que o meu povo gosta",
-      "url": "https://observador.pt/opiniao/e-disto-que-o-meu-povo-gosta-2/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:25:24+00:00",
-      "summary": "Se toda a governação abusa da propaganda, aqui a propaganda substituiu completamente a governação, que sobrevive para asfixiar tudo em redor.",
-      "category": "Mundo"
-    },
-    {
       "title": "23h IGAS quer pagamentos à entrada do hospital para evitar dívidas",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-igas-quer-pagamentos-a-entrada-do-hospital-para-evitar-dividas_a1_1766415",
       "source": "RTP Notícias",
@@ -279,24 +414,6 @@
       "publishedAt": "2026-09-18T23:22:02+00:00",
       "summary": "",
       "category": "Saúde"
-    },
-    {
-      "title": "E se o Rei da Noruega fosse português?",
-      "url": "https://observador.pt/opiniao/e-se-o-rei-da-noruega-fosse-portugues/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:21:27+00:00",
-      "summary": "A atitude de Haakon VII foi de grande dignidade e fortaleceu a relação com o povo, que viu no rei um exemplo de patriotismo e de integridade",
-      "category": "Mundo"
-    },
-    {
-      "title": "O Curso das Estrelas",
-      "url": "https://observador.pt/opiniao/o-curso-das-estrelas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:20:46+00:00",
-      "summary": "O que é preciso perceber é como certas pessoas, e não outras, se tornam tão conhecidas do público.",
-      "category": "Mundo"
     },
     {
       "title": "Fogo em Aveiro dado como dominado",
@@ -308,15 +425,6 @@
       "category": "Clima"
     },
     {
-      "title": "Nem toda a imigração é igual",
-      "url": "https://observador.pt/opiniao/nem-toda-a-imigracao-e-igual/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:19:20+00:00",
-      "summary": "Se Portugal precisa de imigração, os governos devem dizer porquê. Se há um limite à capacidade de absorção, devem dizer qual. Se determinadas políticas falharam, devem reconhecê-lo.",
-      "category": "Política"
-    },
-    {
       "title": "Portugal envia segunda doação de três toneladas de medicamentos",
       "url": "https://www.rtp.pt/noticias/pais/portugal-envia-segunda-doacao-de-tres-toneladas-de-medicamentos_n1766378",
       "source": "RTP Notícias",
@@ -326,15 +434,6 @@
       "category": "Saúde"
     },
     {
-      "title": "00h. Dominado incêndio em Aveiro",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2424/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:17:14+00:00",
-      "summary": "O fogo não provocou vítimas nem danos em habitações. Ainda, a Dinamarca já confirmou a assinatura do acordo com os EUA que dá a Washington “controlo permanente sobre a segurança” da Gronelândia.",
-      "category": "Clima"
-    },
-    {
       "title": "Lucro da Infraestruturas de Portugal cai 44% para 43,8 ME no primeiro semestre",
       "url": "https://www.rtp.pt/noticias/economia/lucro-da-infraestruturas-de-portugal-cai-44-para-438-me-no-primeiro-semestre_n1766377",
       "source": "RTP Notícias",
@@ -342,96 +441,6 @@
       "publishedAt": "2026-09-18T23:16:54+00:00",
       "summary": "A Infraestruturas de Portugal (IP) registou um lucro consolidado de 43,8 milhões de euros no primeiro semestre, menos 44% em termos homólogos, penalizado pelo aumento dos gastos operacionais, em parte devido às intempéries, e pela redução de alguns rendimentos.",
       "category": "Economia"
-    },
-    {
-      "title": "Guterres lamenta recusa dos EUA em atribuir vistos à Autoridade Palestiniana",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/guterres-lamenta-recusa-dos-eua-em-atribuir-vistos-a-autoridade-palestiniana_n1766371",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:16:28+00:00",
-      "summary": "O secretário-geral da ONU, António Guterres, lamentou hoje a decisão dos Estados Unidos de negarem vistos aos membros da Organização para a Libertação da Palestina e da Autoridade Palestiniana para se deslocarem às Nações Unidas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Governo avança com projeto-piloto em municípios para usar IA nos licenciamentos",
-      "url": "https://www.rtp.pt/noticias/economia/governo-avanca-com-projeto-piloto-em-municipios-para-usar-ia-nos-licenciamentos_n1766366",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:15:57+00:00",
-      "summary": "O Governo vai avançar já este ano com a implementação de projetos-piloto em alguns municípios para testar o uso de inteligência artificial (IA) nos processos de licenciamento urbanístico, aproveitando a entrada do novo regime jurídico.",
-      "category": "Política"
-    },
-    {
-      "title": "Economia de Espanha cresceu 2,6% em 2025",
-      "url": "https://www.rtp.pt/noticias/economia/economia-de-espanha-cresceu-26-em-2025_n1766342",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:15:29+00:00",
-      "summary": "A economia espanhola cresceu 2,6% em 2025, menos duas décimas do que inicialmente estimado, disse hoje o Instituto Nacional de Estatística de Espanha (INE).",
-      "category": "Economia"
-    },
-    {
-      "title": "MAI espera ter mais polícias em Lisboa até ao fim do ano e deixa Moedas \"satisfeito\"",
-      "url": "https://www.rtp.pt/noticias/pais/mai-espera-ter-mais-policias-em-lisboa-ate-ao-fim-do-ano-e-deixa-moedas-satisfeito_n1766359",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:15:12+00:00",
-      "summary": "O ministro da Administração Interna afirmou hoje que espera ter mais polícias nas ruas de Lisboa até ao final do ano, o que deixou \"muito contente\" o presidente da Câmara, que tem reivindicado o reforço de meios na capital.",
-      "category": "Política"
-    },
-    {
-      "title": "Há uma idade para começar a usar IA? Não. Haja bom senso!",
-      "url": "https://observador.pt/opiniao/ha-uma-idade-para-comecar-a-usar-ia-nao-haja-bom-senso/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:15:11+00:00",
-      "summary": "A escola que entregar demasiado cedo à IA aquilo que ainda não ensinou ao aluno estará a produzir uma ilusão de competência.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Rússia alarga sanções a representantes da UE incluindo eurodeputados",
-      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/russia-alarga-sancoes-a-representantes-da-ue-incluindo-eurodeputados_n1766347",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:14:42+00:00",
-      "summary": "A Rússia alargou a lista de representantes da União Europeia (UE) proibidos de entrar no país, em retaliação pelas sanções aprovadas em julho devido à invasão da Ucrânia, anunciou hoje a diplomacia russa.",
-      "category": "Economia"
-    },
-    {
-      "title": "Dar a volta ao Volta",
-      "url": "https://observador.pt/opiniao/dar-a-volta-ao-volta/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:13:41+00:00",
-      "summary": "O Volta encontrou em Lisboa, e na sociedade portuguesa, uma vulnerabilidade que nenhum sistema de reciclagem poderia ter inventado em cinco meses. Essa vulnerabilidade tem o nome da pobreza",
-      "category": "Mundo"
-    },
-    {
-      "title": "Assim vai Moçambique",
-      "url": "https://observador.pt/opiniao/assim-vai-mocambique/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:12:13+00:00",
-      "summary": "Apesar de Mondlane ter sido ameaçado, perseguido e atacado, apesar de ser líder de um povo sem armas, que só pedia verdade eleitoral, é ele que será julgado",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sei Shonagon e a origem das cores",
-      "url": "https://observador.pt/opiniao/sei-shonagon-e-a-origem-das-cores/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:11:56+00:00",
-      "summary": "Só a ideia de que o arco-íris pudesse desaparecer entristecia Sei até às lágrimas. Mas bastava imaginá-lo sobre o céu para que lhe surgisse nos lábios um sorriso duradouro.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Rivais no relvado, inimigos na bancada",
-      "url": "https://observador.pt/opiniao/rivais-no-relvado-inimigos-na-bancada/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-18T23:10:51+00:00",
-      "summary": "Os clássicos e os dérbis deviam ser dias de festa. Em vez disso, tornaram-se sinónimo de pancadaria. Porque é que trocámos a união pela guerra, e como podemos trazer o futebol de volta a casa.",
-      "category": "Esportes"
     },
     {
       "title": "Primeira Turma do STF mantém condenação de Eduardo Bolsonaro",
@@ -512,15 +521,6 @@
       "region": "Brasil",
       "publishedAt": "2026-09-18T19:33:00+00:00",
       "summary": "O presidente da República, Luiz Inácio Lula da Silva, rebateu nesta sexta-feira (18) o presidente dos Estados Unidos (EUA), Donald Trump , que classificou organizações criminosas brasileiras como terroristas e disse que o Brasil não consegue enfrentar as facções. A declaração de Lula ocorreu durante evento oficial no R",
-      "category": "Política"
-    },
-    {
-      "title": "Rio: MPF vai à Justiça cobrar plano de redução da letalidade policial",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/rio-mpf-vai-justica-cobrar-plano-de-reducao-da-letalidade-policial",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-18T19:22:00+00:00",
-      "summary": "O Ministério Público Federal (MPF) solicitou à Justiça Federal a concretização do plano para reduzir as mortes por intervenção policial no estado do Rio de Janeiro. O plano é uma determinação da Corte Interamericana de Direitos Humanos (CIDH) de 2017 e cabe ao governo e à União. Na ação, que tramita na 26ª Vara Federal",
       "category": "Política"
     }
   ],
