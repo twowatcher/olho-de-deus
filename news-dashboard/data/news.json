@@ -1,59 +1,455 @@
 {
-  "updatedAt": "2026-09-20T18:45:24.702965+00:00",
+  "updatedAt": "2026-09-20T21:30:57.290081+00:00",
   "items": [
     {
-      "title": "I Liga. FC Porto - SL Benfica",
-      "url": "https://www.rtp.pt/noticias/desporto/i-liga-fc-porto-sl-benfica_e1766556",
+      "title": "Lille deixa escapar liderança, Paris Saint-Germain vence pela segunda vez",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/lille-deixa-escapar-lideranca-paris-saint-germain-vence-pela-segunda-vez_d1766700",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T19:44:05+00:00",
-      "summary": "O FC Porto, líder isolado da I Liga, com 18 pontos, recebe o Benfica, segundo classificado, com 16, a partir das 20h30 deste domingo, no Estádio do Dragão, no Porto, sob arbitragem de Miguel Nogueira (AF Lisboa), em jogo da sétima ronda.",
+      "publishedAt": "2026-09-20T22:23:51+00:00",
+      "summary": "O Lille foi hoje perder na visita ao Nice, por 2-1, em jogo da quinta jornada da Liga francesa de futebol, desperdiçando a oportunidade de igualar o Mónaco, enquanto o Paris Saint-Germain conquistou, em Marselha, a segunda vitória.",
       "category": "Esportes"
     },
     {
-      "title": "19h Chanceler Alemão já assumiu \"desastre\" eleitoral da CDU no nordeste da Alemanha nas eleições regionais",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-chanceler-alemao-ja-assumiu-desastre-eleitoral-da-cdu-no-nordeste-da-alemanha-nas-eleicoes-regionais_a1_1766669",
+      "title": "Aviso amarelo por tempo quente alargado a 16 distritos e metade até quarta-feira",
+      "url": "https://www.rtp.pt/noticias/pais/aviso-amarelo-por-tempo-quente-alargado-a-16-distritos-e-metade-ate-quarta-feira_n1766699",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T19:43:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-09-20T22:13:38+00:00",
+      "summary": "A persistência de temperaturas máximas elevadas levou hoje o Instituto Português do Mar e da Atmosfera (IPMA) a alargar o aviso amarelo de tempo quente para 16 distritos de Portugal Continental e metade até às 18:00 de quarta-feira.",
+      "category": "Clima"
+    },
+    {
+      "title": "Presidente do Conselho Europeu e líderes do Brasil, Canadá e Quénia lançam iniciativa para reformar ONU",
+      "url": "https://www.rtp.pt/noticias/mundo/presidente-do-conselho-europeu-e-lideres-do-brasil-canada-e-quenia-lancam-iniciativa-para-reformar-onu_n1766690",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T22:03:20+00:00",
+      "summary": "O presidente do Conselho Europeu, os Presidentes do Brasil e do Quénia e o primeiro-ministro do Canadá anunciaram uma iniciativa para reformar a Organização das Nações Unidas (ONU) e outras instituições multilaterais, num artigo de opinião conjunto publicado hoje.",
       "category": "Política"
     },
     {
-      "title": "Manchester United empata e iguala registo negativo de Louis van Gaal",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/manchester-united-empata-e-iguala-registo-negativo-de-louis-van-gaal_d1766663",
+      "title": "Manuela Eanes acredita que Seguro vai ser \"um grande Presidente\"",
+      "url": "https://www.rtp.pt/noticias/politica/manuela-eanes-acredita-que-seguro-vai-ser-um-grande-presidente_n1766697",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T18:56:35+00:00",
-      "summary": "O Manchester United somou hoje o segundo encontro seguido sem vencer na Liga inglesa de futebol, e esteve muito perto de sofrer uma segunda derrota, no empate (1-1) no campo do Fulham, no fecho da quinta jornada.",
+      "publishedAt": "2026-09-20T21:44:47+00:00",
+      "summary": "No último dia da Festa do Livro de Belém, António José Seguro cruzou-se com a antiga primeira-dama Manuela Eanes nos jardins do Palácio, que recordou o \"jovem dinâmico\" que conheceu há vários anos em Penamacor.",
+      "category": "Política"
+    },
+    {
+      "title": "FCP x SLB. \"Benfica terá uma palavra forte neste jogo\"",
+      "url": "https://observador.pt/programas/resposta-pronta/fcp-x-slb-benfica-tera-uma-palavra-forte-neste-jogo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T21:28:44+00:00",
+      "summary": "Emílio Peixe, antigo internacional português, que jogou nos dois clubes, considera que o Clássico \"vai ter golos\". Diz que vai ser a \"identidade própria azul e branca\" contra a \"evolução encarnada\".",
       "category": "Esportes"
     },
     {
-      "title": "Itália proíbe uso de burca e limita número de estrangeiros por sala de aula",
-      "url": "https://www.rtp.pt/noticias/mundo/italia-proibe-uso-de-burca-e-limita-numero-de-estrangeiros-por-sala-de-aula_n1766661",
+      "title": "Aviso amarelo por tempo quente alargado a 16 distritos",
+      "url": "https://observador.pt/2026/09/20/aviso-amarelo-por-tempo-quente-alargado-a-16-distritos-e-metade-ate-quarta-feira/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T21:14:13+00:00",
+      "summary": "\"A temperatura máxima deverá atingir valores acima de 30 graus na generalidade do território do continente\", prevê o IPMA.",
+      "category": "Clima"
+    },
+    {
+      "title": "Cheia de rio alaga bairros e arrasta geladeira para fora de imóvel em Itapetininga; vídeo",
+      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/20/cheia-de-rio-alaga-bairros-e-arrasta-geladeira-para-fora-de-imovel-em-itapetininga-video.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T21:13:59+00:00",
+      "summary": "Chuva alaga casas no bairro Alciati em Itapetininga Moradores do bairro Alciati, na zona rural de Itapetininga (SP) tiveram as casas alagadas após o rio que corta a cidade subir cerca de oito metros acima do nível normal no sábado (19). Segundo a Defesa Civil estadual, 107 residências foram inundadas e outras 59 tivera",
+      "category": "Clima"
+    },
+    {
+      "title": "Coroação da Rainha: Anitta é recebida com quadra lotada na Grande Rio",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2027/noticia/2026/09/20/coroacao-da-rainha-anitta-e-recebida-com-quadra-lotada-na-grande-rio.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T21:08:42+00:00",
+      "summary": "Anitta é recebida com quadra lotada na Grande Rio Gianfrancesco Melo Anitta foi recebida com a quadra lotada da Grande Rio, em Duque de Caxias, neste domingo (20), dia em que será coroada oficialmente como rainha de bateria da escola para o Carnaval 2027. A cantora chegou ao local e foi recebida com aplausos pela comun",
+      "category": "Cultura"
+    },
+    {
+      "title": "Portugal conquista duas medalhas nos Mundiais de acrobática de juniores",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-conquista-duas-medalhas-nos-mundiais-de-acrobatica-de-juniores_d1766695",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T18:55:09+00:00",
-      "summary": "A primeira-ministra italiana, Giorgia Meloni, anunciou este domingo que irá apresentar uma medida que limita por lei o número máximo de alunos estrangeiros por sala de aula e introduz a proibição da burca e do 'hijab' nas instituições de ensino.",
+      "publishedAt": "2026-09-20T21:07:48+00:00",
+      "summary": "Os par misto português constituído por Mariana Pinheiro e Jorge Silva sagrou-se hoje campeão do mundo de juniores de ginástica acrobática, em Pesaro, em Itália.",
       "category": "Mundo"
     },
     {
-      "title": "Portugal eliminado pela França nos oitavos de final do Europeu de voleibol",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-eliminado-pela-franca-nos-oitavos-de-final-do-europeu-de-voleibol_d1766662",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T18:54:42+00:00",
-      "summary": "A seleção portuguesa de voleibol foi hoje eliminada nos oitavos de final do Campeonato da Europa, ao perder por 3-0 frente à França, atual bicampeã olímpica, em Sófia.",
+      "title": "Procurado por roubo atinge casal de moto, foge sem prestar socorro e é preso após bater em árvore",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/20/procurado-por-roubo-atinge-casal-de-moto-foge-sem-prestar-socorro-e-e-preso-apos-bater-em-arvore.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T21:07:08+00:00",
+      "summary": "Procurado por roubo atinge casal de moto, foge sem prestar socorro e bate em árvore Harisson Jorge de Morais Paraizo, de 42 anos, foi preso após atingir um casal que estava em uma moto, fugir sem prestar socorro e bater o carro em uma árvore durante a fuga, neste domingo (20), em Campo Grande. A passageira, de 48 anos,",
+      "category": "Mundo"
+    },
+    {
+      "title": "Homem é preso suspeito de perseguir ex-companheira em Caroebe, no Sul de Roraima",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/20/homem-e-preso-suspeito-de-perseguir-ex-companheira-em-caroebe-no-sul-de-roraima.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T21:05:20+00:00",
+      "summary": "Caso foi atendido pela Polícia Militar de Caroebe, no Sul de Roraima. Arquivo pessoal Um homem de 37 anos foi preso na manhã deste domingo (20), em Caroebe, no Sul de Roraima, após a ex-companheira, de 35 anos, denunciá-lo por perseguição e violência psicológica. A mulher relatou À Polícia Militar que o ex-companheiro ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio destrói depósito de supermercado em Feira de Santana",
+      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/20/incendio-destroi-deposito-de-supermercado-em-feira-de-santana.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T21:03:14+00:00",
+      "summary": "Incêndio destrói depósito de supermercado em Feira de Santana Reprodução/Redes Sociais Um incêndio de grandes proporções atingiu o depósito do Supermercado Big Box, em Feira de Santana, segunda maior cidade da Bahia, neste domingo (20). O fogo tomou conta do espaço situado na Rua Carralho, no bairro Conceição, pela man",
       "category": "Economia"
     },
     {
-      "title": "Luana Dourado é a nova campeã mundial júnior de bodyboard no Brasil",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/luana-dourado-e-a-nova-campea-mundial-junior-de-bodyboard-no-brasil_d1766660",
+      "title": "Confusão a bordo: o que muda com as novas regras da Anac",
+      "url": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/09/20/confusao-a-bordo-o-que-muda-com-as-novas-regras-da-anac.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T21:03:09+00:00",
+      "summary": "Brigas, ameaças, tentativas de invadir a cabine do piloto — os episódios de indisciplina no céu e nos aeroportos não param de crescer. Foram quase cinco casos por dia em 2025, um salto de 66% em relação ao ano anterior. Diante desse cenário, a Anac decidiu apertar o cinto de segurança : desde o dia 14, passageiros que ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ciclismo/Mundiais. Evenepoel faz história `condenando` novamente Ganna",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/ciclismomundiais-evenepoel-faz-historia-condenando-novamente-ganna_d1766694",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T18:51:16+00:00",
-      "summary": "A portuguesa Luana Dourado, atleta do Clube Naval Povoense, sagrou-se este sábado campeã mundial júnior de bodyboard ao vencer a prova disputada em Jacaraípe, no estado brasileiro do Espírito Santo. Aos 16 anos, a jovem vilacondense confirmou o seu enorme potencial ao derrotar na final a brasileira Melissa Souza e alca",
+      "publishedAt": "2026-09-20T21:02:41+00:00",
+      "summary": "Remco Evenepoel tornou-se hoje no primeiro ciclista a conquistar quatro títulos consecutivos de contrarrelógio, encabeçando um pódio de luxo em Montreal ocupado pelo novamente ‘vice’ Filippo Ganna e pelo promissor Paul Seixas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Festa do Livro. Presidente da República ouviu queixas sobre educação",
+      "url": "https://www.rtp.pt/noticias/cultura/festa-do-livro-presidente-da-republica-ouviu-queixas-sobre-educacao_v1766693",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T21:01:47+00:00",
+      "summary": "Centenas de pessoas aproveitaram as últimas horas da Festa do Livro, em Belém.",
+      "category": "Política"
+    },
+    {
+      "title": "Por que a depilação a laser não funciona bem em pelos loiros?",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-a-depilacao-a-laser-nao-funciona-bem-em-pelos-loiros/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T21:01:32+00:00",
+      "summary": "Pessoas com fios muito claros não têm bons resultados em procedimentos de depilação mais populares",
+      "category": "Mundo"
+    },
+    {
+      "title": "É preciso repensar e diluir competências do Supremo, diz especialista",
+      "url": "https://www.cnnbrasil.com.br/politica/e-preciso-repensar-e-diluir-competencias-do-supremo-diz-especialista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T21:01:02+00:00",
+      "summary": "Doutor em Direito Constitucional afirma, ao Agora CNN, que nenhuma corte no mundo acumula funções como o STF e defende reforma para reequilibrar os poderes",
+      "category": "Política"
+    },
+    {
+      "title": "Primavera dos Museus reúne cinema, oficinas e exposições em Juiz de Fora e São João del Rei; veja programação",
+      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/20/primavera-dos-museus-reune-cinema-oficinas-e-exposicoes-em-juiz-de-fora-e-sao-joao-del-rei-veja-programacao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T21:00:05+00:00",
+      "summary": "Museu de Arte Murilo Mendes Pró-Reitoria de Cultura/UFJF Juiz de Fora e São João del Rei, na Zona da Mata de Minas Gerais, têm programação especial durante a 20ª Primavera dos Museus. O evento, promovido pelo Instituto Brasileiro de Museus (Ibram), acontece entre os dias 21 e 27 de setembro e tem como tema “Museus para",
+      "category": "Cultura"
+    },
+    {
+      "title": "Elversberg mantém surpresa na Bundesliga, Leverkusen e Paderborn vencem",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/elversberg-mantem-surpresa-na-bundesliga-leverkusen-e-paderborn-vencem_d1766692",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T20:58:58+00:00",
+      "summary": "O Elversberg, equipa surpresa da Liga alemã de futebol, empatou hoje 0-0 no terreno do Schalke 04, num duelo entre duas equipas recém-promovidas à Bundesliga, numa quarta jornada que fechou com as vitórias de Bayer Leverkusen e Paderborn.",
       "category": "Esportes"
+    },
+    {
+      "title": "Fluminense vence, impõe 6ª derrota seguida e aumenta crise do Corinthians",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-vence-impoe-6a-derrota-seguida-e-aumenta-crise-do-corinthians/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:58:55+00:00",
+      "summary": "Timão se aproximou do Z4, enquanto Tricolor é o terceiro colocado",
+      "category": "Mundo"
+    },
+    {
+      "title": "Prémio Jovens Músicos. Cinco solistas disputaram o prémio mais cobiçado",
+      "url": "https://www.rtp.pt/noticias/cultura/premio-jovens-musicos-cinco-solistas-disputaram-o-premio-mais-cobicado_v1766691",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T20:58:47+00:00",
+      "summary": "O Prémio Jovens Músicos é há quase 40 anos o prémio mais desejado pelos estudantes de música de todo o país.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Morre, aos 74 anos, a jornalista Sônia Carneiro, em Brasília",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/20/jornalista-sonia-carneiro-morre-aos-74-anos-em-brasilia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:58:35+00:00",
+      "summary": "Jornalista Sônia Carneiro morre aos 74 anos, em Brasília Jornalista Sônia Carneiro e os filhos Terence e Daniel Zveiter/arquivo de família A jornalista Sônia Carneiro morreu, aos 74 anos, neste domingo (20), em Brasília. Com mais de cinco décadas dedicadas ao jornalismo e à comunicação, ela teve longa trajetória na cob",
+      "category": "Mundo"
+    },
+    {
+      "title": "Moradores cobram abertura do Parque Rubem Cione após 17 anos de espera em Ribeirão Preto, SP",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/20/moradores-cobram-abertura-do-parque-rubem-cione-apos-17-anos-de-espera-em-ribeirao-preto-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:58:31+00:00",
+      "summary": "Moradores cobram abertura do Parque Rubem Cione após 17 anos de espera em Ribeirão Preto Moradores da Zona Norte de Ribeirão Preto (SP) cobram a abertura do Parque Rubem Cione, planejado em 2009 e fechado desde então. As obras de revitalização começaram em abril de 2025, mas a primeira etapa, que deveria ter sido concl",
+      "category": "Mundo"
+    },
+    {
+      "title": "Chuva afeta plantações e preço da cebola dispara em Araxá e região",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/20/chuva-afeta-plantacoes-e-preco-da-cebola-dispara-em-araxa-e-regiao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:55:47+00:00",
+      "summary": "Chuva afeta produção de cebola em Araxá e região. Caio Ranieri/TV Integração A chuva comprometeu a produção de cebola na região de Araxá, no Alto Paranaíba. E o reflexo está aparecendo nos preços em supermercados e sacolões. Segundo agricultores ouvidos pela TV Integração, o excesso de chuva no período de plantio causo",
+      "category": "Economia"
+    },
+    {
+      "title": "Motorista de ônibus que caiu de ribanceira e matou seis em Cruzeiro é preso",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/20/motorista-de-onibus-que-caiu-de-ribanceira-e-matou-seis-em-cruzeiro-e-preso.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:55:46+00:00",
+      "summary": "Vídeo mostra resgate de vítimas de ônibus que caiu de ribanceira na divisa entre MG e SP O motorista do ônibus que caiu em uma ribanceira e deixou seis pessoas mortas em Cruzeiro, no interior de São Paulo, foi preso em flagrante neste domingo (20). O acidente aconteceu na madrugada, na Rodovia Deputado Nesralla Rubez (",
+      "category": "Mundo"
+    },
+    {
+      "title": "Região de Piracicaba começa a semana com 1,8 mil vagas de emprego; veja como concorrer",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/20/regiao-de-piracicaba-comeca-a-semana-com-18-mil-vagas-de-emprego-veja-como-concorrer.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:52:20+00:00",
+      "summary": "Carteira de trabalho Divulgação / Governo de São Paulo Cinco cidades da região de Piracicaba (SP) reúnem 1.852 vagas de emprego abertas a partir desta segunda-feira (21). As oportunidades são oferecidas pelos serviços municipais de apoio ao trabalhador. ✅ Clique aqui para seguir o canal do g1 Piracicaba no WhatsApp Há ",
+      "category": "Política"
+    },
+    {
+      "title": "Filho de Rob Reiner pede acesso à herança para comprar comida na prisão",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-rob-reiner-pede-acesso-a-heranca-para-comprar-comida-na-prisao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:48:26+00:00",
+      "summary": "Nick Reiner é acusado de matar o pai e a mãe, Michele Singer Reiner, que foram encontrados mortos em dezembro do ano passado",
+      "category": "Mundo"
+    },
+    {
+      "title": "Feirense foi o único da II Liga a cair na segunda ronda da Taça de Portugal",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/feirense-foi-o-unico-da-ii-liga-a-cair-na-segunda-ronda-da-taca-de-portugal_d1766688",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T20:45:06+00:00",
+      "summary": "A estreia das equipas da II Liga na segunda eliminatória da Taça de Portugal de futebol resultou ‘apenas’ em um ‘vítima’, o Feirense, enquanto os restantes emblemas, com mais ou menos dificuldades, confirmaram o apuramento.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Flávio critica Moraes após vídeo em avião de Vorcaro: “Aparelhou o Estado”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-moraes-implodiu-a-democracia-sob-pretexto-de-protege-la/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:43:57+00:00",
+      "summary": "Candidato do PL à Presidência compartilhou vídeo em que ministro do STF aparece desembarcando de jatinho ligado a Daniel Vorcaro e afirmou que o magistrado \"implodiu a democracia\"",
+      "category": "Política"
+    },
+    {
+      "title": "O jornalista deu o onze. Amorim mexeu dois e ganhou por três",
+      "url": "https://observador.pt/2026/09/20/o-jornalista-deu-o-onze-amorim-mexeu-dois-e-ganhou-por-tres-ac-milan-regressa-aos-triunfos-e-fica-a-dois-pontos-da-lideranca/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T20:43:15+00:00",
+      "summary": "Após três jogos sem vitórias e uma reunião de urgência entre dono do clube e treinador, AC Milan conseguiu dar uma resposta forte, venceu Lecce e trocou os assobios pelos aplausos no final (3-0).",
+      "category": "Esportes"
+    },
+    {
+      "title": "O que foi a Epidemia da Dança de 1518, evento bizarro que manteve centenas de pessoas dançando por semanas em cidade francesa",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/o-que-foi-a-epidemia-da-danca-de-1518-evento-bizarro-que-manteve-centenas-de-pessoas-dancando-por-semanas-em-cidade-francesa/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:42:42+00:00",
+      "summary": "Episódio afetou mais de 400 pessoas; teoria mais aceita sugere que cidadãos sofreram um transtorno coletivo derivado do estresse extremo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Oposição recusa alertas do ministro das Finanças",
+      "url": "https://www.rtp.pt/noticias/politica/oposicao-recusa-alertas-do-ministro-das-financas_v1766686",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T20:41:47+00:00",
+      "summary": "O Ministro das Finanças avisa que as medidas do PS e do Chega para descer o IVA dos combustíveis e do cabaz alimentar podem fazer o país entrar em défice já no próximo ano.",
+      "category": "Política"
+    },
+    {
+      "title": "Calor coloca 12 distritos sob aviso amarelo",
+      "url": "https://www.rtp.pt/noticias/pais/calor-coloca-12-distritos-sob-aviso-amarelo_v1766685",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T20:39:47+00:00",
+      "summary": "São 12 os distritos com aviso meterologico amarelo a partir desta segunda-feira.",
+      "category": "Clima"
+    },
+    {
+      "title": "21h. Incêndio de Miranda do Corvo. Autarca aponta para crime",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1763/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T20:38:20+00:00",
+      "summary": "Carlos Tavares avança ainda que o fogo na freguesia de Semide já está a ceder aos meios. Ainda, partido de extrema-direita AfD soma mais uma vitória, na Alemanha.",
+      "category": "Política"
+    },
+    {
+      "title": "Flamengo x Red Bull Bragantino: escalações e onde assistir ao Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-x-red-bull-bragantino-escalacoes-e-onde-assistir-ao-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:33:51+00:00",
+      "summary": "Mengão e Massa Bruta duelam no começo da noite deste domingo (20), no Maracanã, no Rio de Janeiro (RJ), pela 28ª rodada do Campeonato Brasileiro",
+      "category": "Esportes"
+    },
+    {
+      "title": "Vídeo: professora esfrega prova em rosto de aluno em BH; polícia investiga",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/video-professora-esfrega-prova-em-rosto-de-aluno-em-bh-policia-investiga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:27:22+00:00",
+      "summary": "Polícia Civil e Secretaria de Educação de Minas Gerais apuram denúncia feita por mãe de estudante, na última quarta-feira (16)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Um clássico azul e branco: as fotos do FC Porto-Benfica",
+      "url": "https://observador.pt/2026/09/20/um-classico-azul-e-branco-com-amarelos-e-um-vermelho-as-melhores-fotografias-do-fc-porto-benfica/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T20:27:13+00:00",
+      "summary": "O primeiro clássico da temporada decorre no Estádio do Dragão",
+      "category": "Clima"
+    },
+    {
+      "title": "Demi Lovato agradece brasileiros após turnê em SP: “Espaço transformador”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/demi-lovato-agradece-brasileiros-apos-turne-em-sp-espaco-transformador/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:26:57+00:00",
+      "summary": "Cantor chegou a chorar em uma das apresentações que fez na capital paulista, depois de cantar seu hit \"Skyscraper\"",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Lançada iniciativa para reformar ONU",
+      "url": "https://observador.pt/2026/09/20/presidente-do-conselho-europeu-e-lideres-do-brasil-canada-e-quenia-lancam-iniciativa-para-reformar-onu/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T20:13:08+00:00",
+      "summary": "\"Partners for Multilateralism\" (P4M) é a iniciativa lançada num artigo conjunto de António Costa, Lula da Silva, William Ruto e Mark Carney publicado no jornal Financial Times.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Polícia prende homem foragido há 18 anos por extorsão e sequestro no Rio",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-prende-homem-foragido-ha-18-anos-por-extorsao-e-sequestro-no-rio/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:08:09+00:00",
+      "summary": "Crime aconteceu em agosto de 1997, na zona Norte da capital fluminense; investigado e outros três homens mantiveram homem de 63 anos em cativeiro por três meses",
+      "category": "Mundo"
+    },
+    {
+      "title": "Custo fiscal do reajuste do Bolsa Família não era previsto, diz pesquisador",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/custo-fiscal-do-reajuste-do-bolsa-familia-nao-era-previsto-diz-pesquisador/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:00:26+00:00",
+      "summary": "Victor Hugo Miro, do FGV-Ibre, alerta que aumento de R$ 600 para R$ 691 no piso do benefício compromete as contas públicas",
+      "category": "Economia"
+    },
+    {
+      "title": "Fotógrafa descobre doença rara depois de dar match em aplicativo de relacionamento: “Quase 30 anos depois”",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/fotografa-descobre-doenca-rara-depois-de-dar-match-em-aplicativo-de-relacionamento-quase-30-anos-depois/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T20:00:09+00:00",
+      "summary": "Maria Paula Vieira descobriu problema de saúde depois de passar por inúmeros médicos e tratamento",
+      "category": "Saúde"
+    },
+    {
+      "title": "Perderam duas batalhas mas foram a tempo de ganhar a guerra",
+      "url": "https://observador.pt/2026/09/20/perderam-duas-batalhas-mas-foram-a-tempo-de-ganhar-a-guerra-sp-braga-vence-fc-porto-na-negra-e-conquista-taca-iberica-feminina/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T19:53:51+00:00",
+      "summary": "Tira-teimas da última decisão do Campeonato caiu para o finalista vencido, com Sp. Braga a conquistar primeira Taça Ibérica feminina da história após derrotar FC Porto na \"negra\" em Estremoz (3-2).",
+      "category": "Esportes"
+    },
+    {
+      "title": "Longa de André Novais vence o Festival de Brasília de Cinema",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/longa-de-andre-novais-vence-o-festival-de-brasilia-de-cinema",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T19:40:00+00:00",
+      "summary": "O longa-metragem Se eu fosse vivo...vivia , dirigido por André Novais Oliveira, foi o grande vencedor do 59° Festival de Brasília do Cinema Brasileiro, que terminou na noite deste sábado (19). O filme levou o Troféu Candango, principal prêmio do festival, e também ficou com os prêmios de melhor figurino e melhor roteir",
+      "category": "Cultura"
+    },
+    {
+      "title": "Partido de Putin vence eleições com 57,54% dos votos",
+      "url": "https://observador.pt/2026/09/20/partido-de-putin-vence-eleicoes-na-russia-com-5754-dos-votos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T19:38:40+00:00",
+      "summary": "A formação governamental, cuja campanha foi liderada pelo Presidente russo, Vladimir Putin, obteve esse resultado através das listas partidárias, que atribuem metade dos assentos da Duma.",
+      "category": "Política"
+    },
+    {
+      "title": "Remco não perdeu o fôlego e voltou a entrar para a história",
+      "url": "https://observador.pt/2026/09/20/remco-nao-perdeu-o-folego-e-voltou-a-entrar-para-a-historia-evenepoel-e-o-primeiro-a-ganhar-quatro-mundiais-consecutivos-no-contrarrelogio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T19:16:20+00:00",
+      "summary": "É a primeira vez na história que um ciclista vence quatro edições consecutivas no contrarrelógio",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasil fecha Copa do Mundo de ginástica com mais cinco pódios",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-fecha-copa-do-mundo-de-ginastica-com-mais-cinco-podios",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T19:03:00+00:00",
+      "summary": "Neste domingo (20), último dia de disputas da Copa do Mundo da Hungria de Ginástica Artística, o Brasil conquistou cinco medalhas. Rebeca Andrade, prata, e Flávia Saraiva, com ouro, fizeram uma dobradinha verde e amarela na trave. Notícias relacionadas: Vôlei: Brasil vence Sul-Americano e está na Olimpíada 2028. Contra",
+      "category": "Mundo"
+    },
+    {
+      "title": "As boas turmas",
+      "url": "https://observador.pt/opiniao/as-boas-turmas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T18:48:22+00:00",
+      "summary": "As boas turmas não se avaliam pela quantidade das boas notas a que se chegue. Mas pelos diferentes caminhos com que todos aprendem, para lá do indispensável, até que sejam capazes de as conquistar.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Vasco é campeão do Brasileirão A2 Feminino",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-campeao-do-brasileirao-a2-feminino",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T18:48:00+00:00",
+      "summary": "O Vasco é campeão do Brasileirão Feminino Série A2. A conquista foi confirmada neste domingo (20), em São Januário, no Rio de Janeiro (RJ). Com a vitória de 3 a 1 no jogo de ida, em Minas Gerais, mesmo derrotada por 2 a 1 no segundo confronto, que teve transmissão ao vivo da TV Brasil , a equipe carioca garantiu a taça",
+      "category": "Esportes"
+    },
+    {
+      "title": "Museu do Folclore recebe bordados do Vale do Jequitinhonha",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/museu-do-folclore-recebe-bordados-do-vale-do-jequitinhonha",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T18:47:00+00:00",
+      "summary": "Ao visitar a mostra Arte têxtil de Turmalina e Veredinha – Jequitinhonha, MG , o público poderá ver de perto tecidos em algodão feitos manualmente com bordados e acabamentos ponto a ponto, típicos dessas duas cidades mineiras. A mostra gratuita ocorre até 29 de novembro no Centro Nacional de Folclore e Cultura Popular ",
+      "category": "Cultura"
     },
     {
       "title": "Juventus vence na estreia de Conceição a marcar esta época",
@@ -72,330 +468,6 @@
       "publishedAt": "2026-09-20T18:40:15+00:00",
       "summary": "Na Festa do Livro em Belém, a antiga primeira-dama lembrou as dificuldades que as pessoas enfrentam, motivo pelo qual \"precisam sempre de apoio\", e elogiou o \"grande homem\" que é atualmente Presidente",
       "category": "Política"
-    },
-    {
-      "title": "Resultados preliminares apontam partido do Putin com 57% dos votos nas eleições legislativas da Rússia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/20/resultados-preliminares-apontam-partido-do-putin-com-57percent-dos-votos-nas-eleicoes-legislativas-da-russia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:39:01+00:00",
-      "summary": "O partido Rússia Unida, do presidente Vladimir Putin, lidera as eleições legislativas da Rússia com 57,54% dos votos, segundo resultados preliminares da Comissão Eleitoral Central do país, divulgados pela Reuters neste domingo (20). A votação encerrou neste domingo (20), às 15h no horário de Brasília —21h no fuso local",
-      "category": "Política"
-    },
-    {
-      "title": "Motorista cochila ao volante, capota carro e atinge três veículos em Governador Valadares",
-      "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/20/motorista-cochila-ao-volante-capota-carro-e-atinge-tres-veiculos-em-governador-valadares.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:37:28+00:00",
-      "summary": "Motorista cochila ao volante, capota carro e atinge três veículos em Governador Valadares Redes sociais Uma motorista de 42 anos ficou ferida após cochilar ao volante, perder o controle da direção e capotar o carro que conduzia na rua Israel Pinheiro, no bairro São Pedro, em Governador Valadares, nesse sábado (19). Seg",
-      "category": "Mundo"
-    },
-    {
-      "title": "Flanelinha é encontrado morto com marcas de tiros e golpes de faca no litoral do PI",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/20/encontrado-morto-litoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:37:02+00:00",
-      "summary": "Flanelinha é encontrado morto com marcas de tiros e golpes de faca no litoral do PI Reprodução/PM-PI Um homem identificado apenas como Maicon, que atuava como flanelinha, foi encontrado morto na manhã deste domingo (20), nas proximidades do Porto de Luís Correia, no litoral do Piauí. A vítima apresentava cerca de sete ",
-      "category": "Esportes"
-    },
-    {
-      "title": "Vitória de Guimarães empata com Moreirense",
-      "url": "https://observador.pt/2026/09/20/vitoria-de-guimaraes-empata-com-moreirense-com-golo-sobre-o-final/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T18:33:14+00:00",
-      "summary": "O jovem avançado Tiago Andrade adiantou os forasteiros, aos 52 minutos, mas, sobre o final, o central croata restabeleceu a igualdade.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem se envolve em briga de bar e é preso por esfaquear outro em Itatiba",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/20/homem-se-envolve-em-briga-de-bar-e-e-preso-por-esfaquear-outro-em-itatiba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:32:52+00:00",
-      "summary": "Suspeito por agressão em briga de bar foi indiciado por lesão corporal e caso foi registrado na Delegacia de Itatiba (SP) Divulgação Um homem de 29 anos foi preso em flagrante, neste sábado (19), suspeito de esfaquear outro, de 32 anos, no bairro Núcleo Habitacional Prefeito Erasmo Chrispim, em Itatiba (SP). De acordo ",
-      "category": "Política"
-    },
-    {
-      "title": "Jovens de 20 anos morrem em colisão frontal entre carro e dois caminhões na BR-470, em SC",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/20/jovens-20-anos-morrem-colisao-frontal-carro-caminhoes-sc.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:32:07+00:00",
-      "summary": "Kauã de Souza Catani, 20 anos, e Daniele da Cunha, 20 anos, morreram em acidente de trânsito em Campos Novos (SC) Reprodução Um homem e uma mulher, ambos de 20 anos, morreram após o carro em que estavam bater de frente com um caminhão e uma carreta na BR-470, em Campos Novos, no Oeste de Santa Catarina. De acordo com a",
-      "category": "Mundo"
-    },
-    {
-      "title": "Tom Zé faz 90 anos em outubro e lança álbum ao vivo com gravação inédita de show feito em 1996, há três décadas",
-      "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/20/tom-ze-faz-90-anos-em-outubro-e-lanca-album-ao-vivo-com-gravacao-inedita-de-show-realizado-em-1996-ha-30-anos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:31:18+00:00",
-      "summary": "Tom Zé tem lançado álbum ao vivo com show feito em 1996 e perpetuado dentro da série 'Relicário', do Selo Sesc Shelle Ribeiro / Sesc Itaquera / Reprodução Facebook Tom Zé ♫ NOTÍCIA ♬ Nascido em 11 de outubro de 1936 na interiorana cidade baiana de Irará (BA), Antônio José Santana Martins – Tom Zé na certidão artística ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Calvin Harris ganha registro no Guinness World por bloco de Carnaval em SP",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/calvin-harris-ganha-registro-no-guinness-world-por-bloco-de-carnaval-em-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:29:25+00:00",
-      "summary": "DJ escocês publicou registro oficial do livro dos recordes por meio das redes sociais, depois de levar mais de 1 milhão de pessoas para o central da capital paulista",
-      "category": "Cultura"
-    },
-    {
-      "title": "Vitória x Cruzeiro: veja escalações e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/vitoria-x-cruzeiro-veja-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:29:18+00:00",
-      "summary": "Equipes se enfrentam neste domingo (20) no Barradão, em Salvador",
-      "category": "Esportes"
-    },
-    {
-      "title": "Quem são as vítimas do acidente com ônibus que caiu em ribanceira e deixou seis mortos na divisa entre MG e SP",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/20/quem-sao-as-vitimas-do-acidente-com-onibus-que-caiu-em-ribanceira-e-deixou-seis-mortos-na-divisa-entre-mg-e-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:28:38+00:00",
-      "summary": "Ônibus de excursão de romeiros caiu em ribanceira e matou 6 pessoas em divisa de MG e SP Seis pessoas morreram no acidente com um ônibus de excursão que caiu em uma ribanceira de aproximadamente 15 metros na manhã deste domingo (20), em Cruzeiro (SP). O veículo transportava 48 passageiros e seguia de Minas Gerais para ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vídeo mostra resgate de sobreviventes em área de mata fechada após queda de helicóptero em SP",
-      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/20/video-mostra-resgate-de-sobreviventes-em-area-de-mata-fechada-apos-queda-de-helicoptero-em-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:28:03+00:00",
-      "summary": "Vídeo mostra resgate de sobreviventes em área de mata após queda de helicóptero em SP Imagens feitas durante o resgate de três pessoas que estavam a bordo de um helicóptero que caiu em uma área de mata em Iaras (SP), na madrugada deste domingo (20), mostram a dificuldade enfrentada pelas equipes para chegar ao local do",
-      "category": "Mundo"
-    },
-    {
-      "title": "Suspeito de ser homem flagrado por câmera de segurança agredindo a ex no meio da rua é preso no RS",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/20/suspeito-de-ser-homem-flagrado-por-camera-de-seguranca-agredindo-a-ex-no-meio-da-rua-e-preso-no-rs.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:26:25+00:00",
-      "summary": "Câmera de segurança registra momento em que mulher é agredida pelo ex no meio da rua no RS Um homem suspeito de agredir a ex-companheira de 50 anos no meio da rua em Triunfo, cidade a cerca de 77 km de Porto Alegre, foi preso preventivamente na manhã deste domingo (20), no interior do município. O crime aconteceu na ma",
-      "category": "Mundo"
-    },
-    {
-      "title": "18h Chanceler Alemão fala de \"desastre\" eleitoral da CDU no nordeste da Alemanha nas eleições regionais",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-chanceler-alemao-fala-de-desastre-eleitoral-da-cdu-no-nordeste-da-alemanha-nas-eleicoes-regionais_a1_1766656",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T18:25:02+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "Aos 65 e 66 anos, aposentada e empresário mantêm rotina intensa de treinos no interior de SP",
-      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/20/aos-65-e-66-anos-aposentada-e-empresario-mantem-rotina-intensa-de-treinos-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:24:51+00:00",
-      "summary": "Aos 65 e 66 anos, aposentada e empresário mantêm rotina intensa de treinos A busca por um envelhecimento com mais qualidade motiva o empresário Carlos Roberto Castagini, de 66 anos, e a aposentada Lenita Capeli, de 65, a manterem uma rotina 'pesada' de exercícios físicos há décadas em Araraquara e São Carlos (SP). Eles",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vídeo mostra confusão em júri: promotor cai e acusa advogado de empurrá-lo, mas defesa alega que ele simulou queda 'à la Neymar'",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/20/video-mostra-confusao-em-juri-promotor-cai-e-acusa-advogado-de-empurra-lo-mas-defesa-alega-que-ele-simulou-queda-a-la-neymar.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:24:21+00:00",
-      "summary": "Júri em SP termina em confusão após discussão Vídeos que circulam nas redes sociais mostram uma confusão entre um promotor de Justiça e advogados durante um julgamento no Tribunal do Júri da Barra Funda, na Zona Oeste de São Paulo, na quinta-feira (17). O g1 teve acesso às imagens neste domingo (20) (veja acima). A aud",
-      "category": "Mundo"
-    },
-    {
-      "title": "Real perde no campo do Atlético no regresso de Mourinho ao dérbis de Madrid",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/real-perde-no-campo-do-atletico-no-regresso-de-mourinho-ao-derbis-de-madrid_d1766655",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T18:22:24+00:00",
-      "summary": "O Real Madrid, reduzido a 10 na segunda parte, acabou hoje derrotado no campo rival Atlético de Madrid (2-1), no regresso de José Mourinho aos dérbis da capital, na sétima jornada da Liga espanhola de futebol.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Vacinação antirrábica começa nesta semana em Araruama; veja locais e datas",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/20/vacinacao-antirrabica-comeca-nesta-semana-em-araruama-veja-locais-e-datas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:21:33+00:00",
-      "summary": "A vacinação antirrábica de cães e gatos começa neste sábado (26) em Araruama. A campanha vai até 10 de dezembro. Marcelo Figueiredo/ Divulgação A vacinação antirrábica de cães e gatos começa neste sábado (26) em Araruama, na Região dos Lagos do Rio. A campanha terá pontos de atendimento em diferentes bairros e, a parti",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Em Minas, Zema fala em excluir “frutas podres” do Supremo",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/em-minas-zema-fala-em-excluir-frutas-podres-do-supremo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:19:12+00:00",
-      "summary": "A duas semanas da eleição, candidato do Novo avalia que os brasileiros estão \"decepcionados, alheios e frustrados\" com a política nacional",
-      "category": "Política"
-    },
-    {
-      "title": "Thaíde discute com Darlin em “A Fazenda”: “Não preciso pegar sua energia”",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/thaide-discute-com-darlin-em-a-fazenda-nao-preciso-pegar-sua-energia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:16:31+00:00",
-      "summary": "Cantor teve um desentendimento com a empresária, mãe da cantora Lexa, e comentou que ela traz estresse, o que prejudica o clima do ambiente",
-      "category": "Cultura"
-    },
-    {
-      "title": "As notícias das 19h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2171/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T18:16:17+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Corinthians x Fluminense: escalações e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-x-fluminense-horario-e-onde-assistir-ao-jogo-do-brasileirao-4/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:15:53+00:00",
-      "summary": "Equipes se enfrentam neste domingo (20) na Neo Química Arena, em São Paulo",
-      "category": "Esportes"
-    },
-    {
-      "title": "Comer maçã depois da refeição: veja por que esse hábito pode ser uma boa ideia",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/comer-maca-depois-da-refeicao-veja-por-que-esse-habito-pode-ser-uma-boa-ideia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:15:46+00:00",
-      "summary": "Além de refrescante e prática, a fruta pode contribuir para a saúde bucal e ajudar na sensação de limpeza dos dentes depois das refeições",
-      "category": "Saúde"
-    },
-    {
-      "title": "Portugal falha título em masculinos no GoldenCat de hóquei em patins",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-falha-titulo-em-masculinos-no-goldencat-de-hoquei-em-patins_d1766654",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T18:14:23+00:00",
-      "summary": "A seleção portuguesa masculina de hóquei em patins falhou hoje a defesa dos títulos conquistados nas últimas três edições do torneio GoldenCat, ao perder com a Catalunha por 2-1.",
-      "category": "Esportes"
-    },
-    {
-      "title": "“A Bola Preta” vence prêmio do público no Festival de Cinema de Toronto",
-      "url": "https://www.cnnbrasil.com.br/pop/cinema/a-bola-preta-vence-premio-do-publico-no-festival-de-cinema-de-toronto/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:13:58+00:00",
-      "summary": "Filme estrelado por Penélope Cruz, Miguel Bernardeau e Glenn Close foi aplaudido de pé por 20 minutos em Cannes; longa é dirigido por Javier Calvo e Javier Ambrossi",
-      "category": "Cultura"
-    },
-    {
-      "title": "Canadá e França reforçam laços em meio a tensões com os EUA",
-      "url": "https://www.cnnbrasil.com.br/internacional/canada-e-franca-reforcam-lacos-em-meio-a-tensoes-com-os-eua/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:11:19+00:00",
-      "summary": "Presidentes Mark Carney e Emmanuel Macron anunciam novos projetos conjuntos em defesa, espaço e energia; Canadá pode se tornar associado da União Europeia, segundo projeto do bloco",
-      "category": "Política"
-    },
-    {
-      "title": "Quem é Jaques Wagner, candidato ao Senado pela Bahia",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-jaques-wagner-candidato-ao-senado-pela-bahia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:10:47+00:00",
-      "summary": "Senador é candidato à releeição e tem longa história na política; político também já foi governador da Bahia por dois mandatos consecutivos",
-      "category": "Política"
-    },
-    {
-      "title": "Saiba as diferenças da análise técnica e fundamentalista",
-      "url": "https://www.cnnbrasil.com.br/economia/investimentos/saiba-as-diferencas-da-analise-tecnica-e-fundamentalista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T18:00:31+00:00",
-      "summary": "Enquanto uma abordagem observa gráficos e tendências de preços, a outra avalia fundamentos e qualidade dos ativos",
-      "category": "Economia"
-    },
-    {
-      "title": "Liderança em jogo no primeiro clássico da temporada",
-      "url": "https://observador.pt/liveblogs/fc-porto-benfica-lideranca-em-jogo-no-primeiro-classico-da-temporada/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T18:00:04+00:00",
-      "summary": "O primeiro clássico da época chega com a liderança em jogo e possibilidade de nova fuga ao Sporting, com a melhor defesa a receber o melhor ataque. Froholdt e Aursnes titulares. Siga aqui em direto.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Após 2 dias desaparecido, menino de 4 anos é encontrado morto em lago em GO",
-      "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/go/apos-2-dias-desaparecido-menino-de-4-anos-e-encontrado-morto-em-lago-em-go/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T17:59:34+00:00",
-      "summary": "Pai da criança foi encontrado morto no sábado (19); os dois estavam em um passeio de barco no Lago das Brisas, em Buriti Alegre, quando caíram na água",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vera Fischer resgata ensaio aos 23 anos: “Nunca tive problemas com a nudez”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/vera-fischer-resgata-ensaio-aos-23-anos-nunca-tive-problemas-com-a-nudez/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T17:56:38+00:00",
-      "summary": "Atriz publicou registros de álbum de fotos antigo por meio das redes sociais e aproveitou para fazer balanço da forma que emprestou o corpo para a arte ao longo dos anos",
-      "category": "Cultura"
-    },
-    {
-      "title": "Chanceler alemão reconhece \"desastre\" eleitoral mas promete avançar com reformas",
-      "url": "https://www.rtp.pt/noticias/mundo/chanceler-alemao-reconhece-desastre-eleitoral-mas-promete-avancar-com-reformas_n1766651",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T17:52:15+00:00",
-      "summary": "Em Mecklemburgo-Pomerânia Ocidental, no nordeste da Alemanha, as primeiras projeções dão a vitória ao partido Alternativa para a Alemanha (AfD).",
-      "category": "Política"
-    },
-    {
-      "title": "Ricardo Melo Gouveia foi 51º no BMW PGA Championship conquistado por J.J. Spaun",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/ricardo-melo-gouveia-foi-51o-no-bmw-pga-championship-conquistado-por-jj-spaun_d1766652",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T17:52:08+00:00",
-      "summary": "O golfista português Ricardo Melo Gouveia terminou hoje na 51.ª posição o BMW PGA Championship, do DP World Tour, que decorreu em Virginia Water, em Inglaterra, e foi conquistado pelo norte-americano J.J. Spaun.",
-      "category": "Esportes"
-    },
-    {
-      "title": "João Ferreira vence Baja Sharish pela quinta vez consecutiva",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/joao-ferreira-vence-baja-sharish-pela-quinta-vez-consecutiva_d1766650",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T17:42:57+00:00",
-      "summary": "O piloto João Ferreira (Toyota Hilux) venceu hoje a Baja TT Sharish Gin, quarta ronda do Campeonato de Portugal de todo-o-terreno, conquistando o quinto triunfo consecutivo na prova alentejana.",
-      "category": "Esportes"
-    },
-    {
-      "title": "A melhor versão que só apareceu na despedida anunciada",
-      "url": "https://observador.pt/2026/09/20/a-melhor-versao-que-so-apareceu-na-despedida-anunciada-portugal-perde-com-bicampea-olimpica-franca-e-cai-nos-oitavos-do-europeu/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T17:29:47+00:00",
-      "summary": "Lourenço Martins voltou a ser um dos melhores de Portugal mas não conseguiu evitar derrota frente à França nos oitavos do Europeu",
-      "category": "Economia"
-    },
-    {
-      "title": "Algo está muito errado quando um empate é um bom resultado",
-      "url": "https://observador.pt/2026/09/20/algo-esta-muito-errado-quando-um-empate-e-um-bom-resultado-united-soma-terceiro-jogo-sem-ganhar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T17:25:11+00:00",
-      "summary": "O avançado brasileiro empatou o jogo já perto do fim",
-      "category": "Esportes"
-    },
-    {
-      "title": "As notícias das 18h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2141/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T17:17:20+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
     },
     {
       "title": "Brasil e EUA: entenda as relações após alerta sobre eleições",
@@ -425,42 +497,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Manchester City assume liderança isolada da Premier League",
-      "url": "https://observador.pt/2026/09/20/manchester-city-assume-lideranca-isolada-da-premier-league/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T16:45:28+00:00",
-      "summary": "Os 'citizens' vão assim para a pausa para seleções com 15 pontos, mais três do que o Arsenal, segundo, e o Brighton, que aparece com surpresa isolado no terceiro lugar, com 10.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mou deu luta, mas acabou traído pelo companheiro de guerra",
-      "url": "https://observador.pt/2026/09/20/mourinho-foi-a-batalha-e-deu-luta-mas-acabou-traido-pelo-companheiro-de-guerra-real-perde-com-o-atletico-no-derbi-de-madrid/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T16:18:25+00:00",
-      "summary": "O ex-Benfica Grimaldo abriu o marcador de grande penalidade",
-      "category": "Mundo"
-    },
-    {
-      "title": "Novas mesas em Lisboa que são um \"abraço de avó\"",
-      "url": "https://observador.pt/especiais/ramen-fregola-tutano-com-brioche-e-aquele-bacalhau-a-bras-novas-mesas-em-lisboa-que-sao-um-abraco-de-avo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T16:17:25+00:00",
-      "summary": "De Campo de Ourique à Sé, passando pela Praça das Flores, serve-se comida de conforto no geral e receituário com raízes nacionais em particular – e muito colagénio pós-pilates.",
-      "category": "Mundo"
-    },
-    {
-      "title": "As notícias das 17h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2289/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T16:16:54+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
       "title": "Roda de Choro celebra flautista Altamiro Carrilho na Rádio MEC",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/roda-de-choro-celebra-flautista-altamiro-carrilho-na-radio-mec",
       "source": "Agência Brasil",
@@ -486,42 +522,6 @@
       "publishedAt": "2026-09-20T15:10:00+00:00",
       "summary": "Ameaças, agressões e descumprimentos de medidas protetivas frequentemente aparecem antes de um feminicídio. No entanto, especialistas avaliam que a fragmentação dos serviços de atendimento a vítimas de violência faz com que oportunidades de intervenção sejam perdidas e que sinais conhecidos pelo Estado acabem, em muito",
       "category": "Mundo"
-    },
-    {
-      "title": "Mega-Sena acumula e pagará R$ 32 milhões na terça; confira dezenas",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-e-pagara-r-32-milhoes-na-terca-confira-dezenas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T14:55:00+00:00",
-      "summary": "Ninguém acertou as seis dezenas da Mega-Sena do Concurso 3060 que foram sorteadas na manhã de hoje (20) no Espaço da Sorte, na capital paulista. Os números foram: 06-15-23-36-37-38. Segundo a Caixa, 54 apostas acertaram cinco dezenas e devem receber um prêmio de R$ 32.111,66. Outras 3.075 apostas acertaram quatro númer",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Ópera Completa, da Rádio MEC, apresenta composição de Carlos Gomes",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/opera-completa-da-radio-mec-apresenta-composicao-de-carlos-gomes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T14:45:00+00:00",
-      "summary": "A Rádio MEC lembra os 130 anos de morte de Antônio Carlos Gomes e apresenta no programa Ópera Completa deste domingo (20) Salvator Rosa , obra em quatro atos do compositor. A gravação de uma das óperas de Carlos Gomes de maior sucesso na Itália, com regência de Maurizio Benini, vai ao ar na emissora pública às 17h. No ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dino cita Master e determina revisão de regras da CVM",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-cita-master-e-determina-revisao-de-regras-da-cvm",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T14:35:00+00:00",
-      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou neste domingo (20) que o governo federal promova a avaliação técnica e reapreciação das regras normativas da Comissão de Valores Mobiliários (CVM), órgão responsável pela fiscalização do mercado de capitais. O prazo para cumprimento da decisão é de 9",
-      "category": "Política"
-    },
-    {
-      "title": "Livraria transforma vida cultural de pequeno município de São Paulo",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/livraria-transforma-vida-cultural-de-pequeno-municipio-de-sao-paulo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T14:26:00+00:00",
-      "summary": "Na pequena cidade de Bom Jesus dos Perdões, a cerca de 65 quilômetros do centro de São Paulo, uma livraria nasceu com a missão de estimular a leitura, a paixão pelos livros e o debate público. Com população estimada em 22 mil habitantes, o município não contava com uma livraria sequer até 2016, quando Guilherme Moura e",
-      "category": "Cultura"
     }
   ],
   "sources": [
