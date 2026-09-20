@@ -1,329 +1,437 @@
 {
-  "updatedAt": "2026-09-20T06:11:57.952976+00:00",
+  "updatedAt": "2026-09-20T11:18:17.667094+00:00",
   "items": [
     {
-      "title": "6h Ed Sheeran quebra o silêncio sobre Gaza",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-ed-sheeran-quebra-o-silencio-sobre-gaza_a1_1766589",
+      "title": "11h Ucrânia ataca Moscovo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-ucrania-ataca-moscovo_a1_1766600",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T06:31:01+00:00",
+      "publishedAt": "2026-09-20T11:43:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Preços mais altos, salários menores: como o clima extremo afeta o bolso das famílias no mundo todo",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/20/como-o-clima-extremo-afeta-o-bolso-das-familias-no-mundo-todo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T06:00:00+00:00",
-      "summary": "Mudanças climáticas: um dos maiores desafios é de onde vai sair o dinheiro para ajudar a proteger florestas e reduzir a poluição Jornal Nacional/ Reprodução Os últimos 11 anos foram os mais quentes já registrados no planeta. Essa mudança climática se manifesta em eventos extremos, como ondas de calor e incêndios flores",
-      "category": "Economia"
-    },
-    {
-      "title": "Como álbum comprado por R$ 20 em feira de Porto Alegre levou fotógrafa a buscar família para devolver fotos do século XX",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/20/como-album-comprado-por-r-20-em-feira-de-porto-alegre-levou-fotografa-a-buscar-familia-para-devolver-fotos-do-seculo-xx.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T06:00:00+00:00",
-      "summary": "Como álbum de feira levou fotógrafa a buscar família para devolver fotos do século XX Fotografias guardam mais do que rostos. Guardam datas, lugares, afetos e fragmentos de vidas inteiras. Além disso, toda fotografia faz uma promessa silenciosa: a de impedir que um instante desapareça por completo. Quando a fotógrafa M",
-      "category": "Mundo"
-    },
-    {
-      "title": "Após 6 meses na Guerra da Ucrânia, brasileiro volta e surpreende esposa em hospital de RO: 'Fiquei em choque'",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/09/20/apos-6-meses-na-guerra-da-ucrania-brasileiro-volta-e-surpreende-esposa-em-hospital-de-ro-fiquei-em-choque.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T06:00:00+00:00",
-      "summary": "Após 6 meses na Guerra da Ucrânia, brasileiro volta e surpreende esposa em RO Um vídeo de um reencontro familiar emocionante ganhou as redes sociais nos últimos dias. O registro mostra o momento em que Manrik Martins retorna ao Brasil e surpreende a esposa após passar seis meses na Ucrânia, onde serviu na guerra (veja ",
+      "title": "Urgências hospitalares. Tempos de espera voltam a aumentar",
+      "url": "https://www.rtp.pt/noticias/pais/urgencias-hospitalares-tempos-de-espera-voltam-a-aumentar_n1766599",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T11:23:51+00:00",
+      "summary": "Pouco antes das 10h00, os utentes da urgência do Hospital Amadora-Sintra enfrentavam uma espera de quase nove horas.",
       "category": "Saúde"
     },
     {
-      "title": "Pagar para pedir demissão? Por que jovens japoneses contratam empresas para evitar o confronto com o chefe",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/20/pagar-para-pedir-demissao-por-que-jovens-japoneses-contratam-empresas-para-evitar-o-confronto-com-o-chefe.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T06:00:00+00:00",
-      "summary": "Computador, digitação, laptop, notebook, trabalho, internet CDC/ Amanda Mills Para Y.M., um japonês de pouco mais de 20 anos, o primeiro emprego após a universidade, numa empresa de vendas do setor imobiliário, se transformou em um teste diário de resistência. Entre os colegas, era ele quem costumava ser alvo de gritos",
-      "category": "Economia"
-    },
-    {
-      "title": "‘Rua da Cerveja’: conheça o novo polo da bebida no Centro do Rio",
-      "url": "https://g1.globo.com/guia/guia-rj/noticia/2026/09/20/rua-da-cerveja-conheca-o-novo-polo-da-bebida-no-centro-do-rio.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T06:00:00+00:00",
-      "summary": "Ao todo, 9 cervejarias participam do projeto, das quais 7 já estão em funcionamento Reprodução A Rua da Carioca, um dos endereços mais tradicionais do Centro do Rio, passou a abrigar oficialmente o primeiro Polo Cervejeiro da cidade. O espaço foi inaugurado nesta quarta-feira (16) e já reúne cervejarias artesanais inst",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "'Mãe, eu te amo': universitária enviou mensagem à família antes de ser encontrada morta em condomínio onde vivia com namorado",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/20/mae-eu-te-amo-universitaria-enviou-mensagem-a-familia-antes-de-ser-encontrada-morta-em-condominio-onde-vivia-com-namorado.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T06:00:00+00:00",
-      "summary": "Estudante de 22 anos é encontrada morta em condomínio onde morava com namorado A mensagem ‘Mãe, eu te amo’ foi o último contato que a universitária Isabelle Caracristi, de 22 anos, fez com a família antes de ser encontrada morta no condomínio onde morava com o namorado, na noite do dia 13 de setembro, no bairro Aldeota",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ataque de drones ucranianos atinge refinaria de petróleo e mata 2 em dia de eleição na Rússia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/20/ataque-de-drones-ucranianos-atinge-refinaria-de-petroleo-e-mata-2-na-capital-da-russia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T05:22:48+00:00",
-      "summary": "Colunas de fumaça sobem de incêndios (ao centro) em uma refinaria de petróleo após o que as autoridades afirmam ter sido um ataque de drones ucranianos, em meio à guerra entre Rússia e Ucrânia Stringer / Reuters Um ataque de drones lançado pela Ucrânia matou duas pessoas e deixou seis feridas em Moscou, na Rússia, dura",
-      "category": "Política"
-    },
-    {
-      "title": "5h Forças Armadas dos EUA atacam embarcação no Caribe",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-forcas-armadas-dos-eua-atacam-embarcacao-no-caribe_a1_1766579",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T05:19:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "6h. FCP e Benfica discutem hoje a liderança da Primeira Liga",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2500/",
+      "title": "As notícias das 12h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2448/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T05:15:21+00:00",
-      "summary": "O campeão nacional tem dois pontos de vantagem sobre as \"águias\". Ainda, o ministro da defesa relacionou os atrasos nas colocações nas escolas, com as políticas de imigração do PS.",
-      "category": "Política"
-    },
-    {
-      "title": "A Inteligência Artificial já inventa a sua própria língua?",
-      "url": "https://observador.pt/programas/portugues-suave/a-inteligencia-artificial-ja-inventa-a-sua-propria-lingua/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T05:05:10+00:00",
-      "summary": "A Inteligência Artificial já inventa expressões próprias? Marco Neves analisa os hábitos da IA, celebra o novo manual de Mirandês e revela o porque é que setembro é o mês dos \"parabéns\".",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Carros vão ficar mais caros em Novembro. Uns mais que outros",
-      "url": "https://observador.pt/programas/operacao-stop/carros-vao-ficar-mais-caros-em-novembro-uns-mais-que-outros/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T05:04:47+00:00",
-      "summary": "A 29 de Novembro entra em vigor a norma Euro 7, que determina o consumo e as emissões dos veículos comercializados na União Europeia. Como o CO2 vai aumentar, em Portugal os preços vão acompanhar.",
-      "category": "Economia"
-    },
-    {
-      "title": "Porque é que José foi vendido pelos irmãos?",
-      "url": "https://observador.pt/programas/as-historias-da-biblia/porque-e-que-jose-foi-vendido-pelos-irmaos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T05:04:17+00:00",
-      "summary": "A história do patriarca José, o bisneto de Abraão de quem os onze irmãos se quiseram livrar e que acabou por levar o povo hebreu para o Egipto, no novo episódio de \"As Histórias da Bíblia\".",
+      "publishedAt": "2026-09-20T11:14:09+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
-      "title": "Há responsáveis pelos resultados do PISA? — Ouvintes",
-      "url": "https://observador.pt/programas/fora-do-baralho/ha-responsaveis-pelos-resultados-do-pisa-ouvintes/",
+      "title": "Francelha. As lendas e histórias do palacete com 300 anos",
+      "url": "https://observador.pt/especiais/o-vinho-de-shakespeare-o-confessor-de-salazar-e-a-poetiza-do-nobel-as-lendas-e-historias-de-tres-seculos-da-quinta-da-francelha/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T05:02:17+00:00",
-      "summary": "No Fora do Baralho especial ouvintes, Luís Aguiar-Conraria responde às perguntas dos ouvintes sobre a educação e os mais recentes resultados do relatório PISA.",
+      "publishedAt": "2026-09-20T11:05:04+00:00",
+      "summary": "Francisco Patrício e a neta, Madalena Patrício",
       "category": "Mundo"
     },
     {
-      "title": "Crise do BRB e internação involuntária: o que os candidatos disseram nas entrevistas ao DF1",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/20/crise-do-brb-e-internacao-involuntaria-o-que-os-candidatos-disseram-nas-entrevistas-ao-df1.ghtml",
+      "title": "Entre trabalho, escola e preparação para o Enem, jovens na Paraíba conciliam rotina em busca de uma vaga no ensino superior",
+      "url": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/09/20/entre-trabalho-escola-e-preparacao-para-o-enem-jovens-na-paraiba-conciliam-rotina-em-busca-de-uma-vaga-no-ensino-superior.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-20T05:00:01+00:00",
-      "summary": "Candidatos ao GDF participam de entrevistas no DF1. TV Globo/Reprodução Nesta semana, a TV Globo entrevistou os quatro candidatos ao Governo do Distrito Federal mais bem colocados na pesquisa de intenção de voto divulgada pelo Datafolha na sexta-feira (11). Entre segunda (14) e quinta-feira (17), Leandro Grass (PT), Ce",
-      "category": "Política"
-    },
-    {
-      "title": "Pacientes enfrentam dificuldades no DF para retirar fórmulas nutricionais na rede pública",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/20/pacientes-enfrentam-dificuldades-no-df-para-retirar-formulas-nutricionais-na-rede-publica.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T05:00:00+00:00",
-      "summary": "Famílias relatam falta de fórmulas nutricionais e insumos na rede pública do DF Bruno Esaki/Agência Saúde Famílias de pacientes que dependem de fórmulas nutricionais e materiais para alimentação por sonda relatam dificuldades para conseguir os produtos na rede pública de saúde do Distrito Federal. Entre os itens citado",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Quem são os veterinários réus apontados pelo MP no caso da venda de sangue de gatos no interior de SP",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/20/quem-sao-os-veterinarios-reus-apontados-pelo-mp-no-caso-da-venda-de-sangue-de-gatos-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T05:00:00+00:00",
-      "summary": "Quem são os veterinários que viraram réus no processo que apura a venda de sangue de gato Dois médicos-veterinários viraram réus na segunda fase da investigação sobre a venda clandestina de sangue de gatos em Monte Alto (SP). Eles respondem por maus-tratos a animais, por seis vezes, e por associação criminosa. São eles",
-      "category": "Saúde"
-    },
-    {
-      "title": "De desempregada a dona de fábrica: empreendedora fatura R$ 1,4 milhão por ano com picolés gourmet",
-      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/20/de-desempregada-a-dona-de-fabrica-empreendedora-fatura-r-14-milhao-por-ano-com-picoles-gourmet.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T05:00:00+00:00",
-      "summary": "O sabor da superação: a empreendedora que transformou picolés em um negócio milionário Em 2017, a vida colocou Thayany dos Santos diante de uma encruzilhada. Grávida da segunda filha e desempregada, ela buscava uma forma de complementar a renda quando recebeu uma sugestão de uma prima: vender picolés. O que parecia uma",
-      "category": "Mundo"
-    },
-    {
-      "title": "3h Sporting e Arouca empatam 2-2",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-sporting-e-arouca-empatam-2-2_a1_1766577",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T04:48:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "2h IPMA alargou previsão de tempo quente para 11 distritos até terça",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ipma-alargou-previsao-de-tempo-quente-para-11-distritos-ate-terca_a1_1766576",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T04:48:02+00:00",
-      "summary": "",
-      "category": "Clima"
-    },
-    {
-      "title": "Boto Cor-de-Rosa abre apresentações do Sairé 2026 com espetáculo sobre cultura tapajônica",
-      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/20/boto-cor-de-rosa-abre-apresentacoes-do-saire-2026-com-espetaculo-sobre-cultura-tapajonica.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T04:46:42+00:00",
-      "summary": "Torcida do Boto Cor de Rosa no Sairé 2026 Kamila Andrade/g1 O Boto Cor-de-Rosa abriu, neste sábado (20), as apresentações da disputa do Sairé 2026, na vila de Alter do Chão, em Santarém, no oeste do Pará. Com o tema “Tapajônica: História Não Contada”, o grupo levou para a arena um espetáculo inspirado na cultura, nos p",
+      "publishedAt": "2026-09-20T11:02:08+00:00",
+      "summary": "Entre trabalho, escola e preparação para o Enem, jovens conciliam rotina em busca de uma vaga no ensino superior Reprodução/Arquivo Pessoal Conciliar trabalho e preparação para o Exame Nacional do Ensino Médio (Enem) faz parte da rotina de jovens que enxergam na prova uma possibilidade de ingresso no ensino superior. E",
       "category": "Cultura"
     },
     {
-      "title": "5h. Urnas abrem hoje em Lisboa para as legislativas russas",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1566/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T04:14:48+00:00",
-      "summary": "A assembleia de voto está aberta entre as 8:00 e as 20:00, exclusivamente na sede da Embaixada da Rússia. Ainda, a NATO saúda o acordo anunciado pelos Estados Unidos sobre a Gronelândia.",
+      "title": "Pastor e dedicado à família: Veja quem era o pai que morreu no Lago das Brisas depois de cair de barco junto com o filho",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/09/20/pastor-e-dedicado-a-familia-veja-quem-era-o-pai-que-morreu-no-lago-das-brisas-depois-de-cair-de-barco-junto-com-o-filho.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T11:02:04+00:00",
+      "summary": "Pai e filho desaparecem após caírem em lago durante passeio de barco O pai que morreu depois de cair junto com o filho no Lago das Brisas, em Buriti Alegre, no sul de Goiás, era pastor de uma igreja evangélica e conhecido pelo amor à família. Fagner Lima, de 32 anos, se afogou após o barco em que ele e o menino de 4 an",
       "category": "Mundo"
     },
     {
-      "title": "4h. NATO saúda acordo sobre a Gronelândia",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2406/",
+      "title": "Ed Sheeran. \"Nunca quis ser um músico ativista\"",
+      "url": "https://observador.pt/2026/09/20/ed-sheeran-fala-sobre-a-polemica-com-macklemore-nunca-quis-ser-um-musico-ativista-mas-estou-no-centro-de-um-conflito-politico-complexo/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T03:14:54+00:00",
-      "summary": "Um porta-voz da NATO afirmou à BBC que a aliança militar acolheu favoravelmente o acordo. Ainda, André Ventura garante que \"está pronto\" para ser primeiro-ministro.",
+      "publishedAt": "2026-09-20T11:01:35+00:00",
+      "summary": "\"Tentei ao longo da minha carreira não ser um comentador político, porque quero que a minha música e espectáculos sejam sobre união, não divisão\", afirmou o cantor britânico.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Unhas quebradiças? Veja 3 dicas para deixá-las mais saudáveis",
+      "url": "https://www.cnnbrasil.com.br/style/beleza/unhas-quebradicas-veja-3-dicas-para-deixa-las-mais-saudaveis/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T11:00:57+00:00",
+      "summary": "Carnes magras, ovos, peixes e leguminosas ajudam a fortalecer a estrutura da unha e podem acelerar seu crescimento",
+      "category": "Mundo"
+    },
+    {
+      "title": "Após Trump, líderes da América Latina endurecem políticas de imigração",
+      "url": "https://www.cnnbrasil.com.br/internacional/apos-trump-lideres-da-america-latina-endurecem-politicas-de-imigracao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T11:00:05+00:00",
+      "summary": "Nos últimos três meses, Argentina, Chile e Colômbia começaram a emplacar medidas anti-imigração similares às americanas em seus governos",
       "category": "Política"
     },
     {
-      "title": "3h. Combate ao fogo em Coimbra entrou em resolução",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2442/",
+      "title": "Baterista prodígio acompanhava ritmos aos 12 meses e impressiona pela precisão: 'Intuição musical evoluída', diz professor",
+      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/20/baterista-prodigio-acompanhava-ritmos-aos-12-meses-e-impressiona-pela-precisao-intuicao-musical-evoluida-diz-professor.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T11:00:01+00:00",
+      "summary": "Com apenas 1 ano, Benício já mostrava afinidade com a bateria e recebeu incentivo dos pais \"Antes de uma criança começar a falar, ela canta. Antes de escrever, ela desenha. No momento em que consegue ficar de pé, ela dança. Arte é fundamental para a expressão humana.\" A frase da atriz e cantora Phylicia Rashad resume b",
+      "category": "Cultura"
+    },
+    {
+      "title": "De Roberto Carlos a trilhas da TV: baterista autista supera limites e faz carreira na música",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/20/de-roberto-carlos-a-trilhas-da-tv-baterista-autista-supera-limites-e-faz-carreira-na-musica.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T11:00:00+00:00",
+      "summary": "Músico com TEA supera dificuldades e conquista carreira com a bateria O compasso que marca o tempo da bateria do músico Daniel Souza dos Santos Piscolaro, de 46 anos, também registra uma carreira de superação e conquistas. Autista, o músico de Sorocaba (SP) não encontrou apenas um instrumento, mas um caminho de vida: a",
+      "category": "Cultura"
+    },
+    {
+      "title": "Estudantes do Acre conquistam bronze na Olimpíada Nacional em História do Brasil: 'Celebração do conhecimento'",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/09/20/estudantes-do-acre-conquistam-bronze-na-olimpiada-nacional-em-historia-do-brasil-celebracao-do-conhecimento.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T11:00:00+00:00",
+      "summary": "Estudantes do Acre conquistam medalha na Olimpíada Nacional de História do Brasil 🥉 Estudantes do 2º ano do ensino médio do Instituto Federal do Acre (Ifac) de Tarauacá, no interior do Acre, conquistaram medalha de bronze na final da 18ª Olimpíada Nacional em História do Brasil (ONHB), promovida pela Universidade Estad",
+      "category": "Mundo"
+    },
+    {
+      "title": "Canhotos adaptam instrumentos e aprendem a tocar viola em projeto no interior de SP",
+      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/20/canhotos-adaptam-instrumentos-e-aprendem-a-tocar-viola-em-projeto-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T11:00:00+00:00",
+      "summary": "Canhotos adaptam instrumentos e aprendem a tocar viola em projeto no interior de SP A paixão pela música ou a vontade de começar um novo hobby podem se tornar um desafio, principalmente quando, para desenvolver a atividade, é preciso utilizar as mãos. No caso de pessoas canhotas, tocar instrumentos de corda pode levar ",
+      "category": "Cultura"
+    },
+    {
+      "title": "Morango cravejado vira febre em confeitarias no noroeste de SP e aumenta procura pela fruta",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/20/morango-cravejado-vira-febre-em-confeitarias-no-noroeste-de-sp-e-aumenta-procura-pela-fruta.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T11:00:00+00:00",
+      "summary": "Morango cravejado vira febre nas confeitarias de Rio Preto Depois do sucesso do morango do amor, em 2025, uma nova versão do doce conquistou as redes sociais e as vitrines das confeitarias de São José do Rio Preto (SP). O morango cravejado chama a atenção pelo visual, que lembra uma joia, e pela combinação de morango f",
+      "category": "Mundo"
+    },
+    {
+      "title": "‘Sentir a vibração’: intérpretes de Libras levam acessibilidade a shows e aproximam artistas do público surdo",
+      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/20/sentir-a-vibracao-interpretes-de-libras-levam-acessibilidade-a-shows-e-aproximam-artistas-do-publico-surdo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T11:00:00+00:00",
+      "summary": "Interpretação em Libras em show de Ana Castela em Bauru emociona público surdo A música pode não ser ouvida, mas pode ser sentida e até vivida. Foi com essa sensação que a pedagoga Graciele de Cayres, que é surda, acompanhou o show da cantora Ana Castela em Bauru (SP), no dia 2 de agosto. O sentimento foi possível pela",
+      "category": "Cultura"
+    },
+    {
+      "title": "Incêndio Coimbra. \"Percebeu-se que teve origem criminosa\"",
+      "url": "https://observador.pt/programas/resposta-pronta/incendio-coimbra-percebeu-se-que-teve-origem-criminosa/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T02:15:58+00:00",
-      "summary": "Mais de 600 operacionais permanecem no local. Ainda, André Ventura garante que está pronto para ser primeiro ministro.",
+      "publishedAt": "2026-09-20T10:58:34+00:00",
+      "summary": "O autarca de Vila Nova de Poiares está preocupado com o risco de reacendimento. E suspeita de mão criminosa na origem do fogo.",
+      "category": "Clima"
+    },
+    {
+      "title": "Leite e glúten inflamam o corpo? Refrigerante zero dá câncer? Água incha? Especialista esclarece “terrores” alimentares",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/leite-e-gluten-inflamam-o-corpo-refrigerante-zero-da-cancer-agua-incha-especialista-esclarece-terrores-alimentares/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:47:35+00:00",
+      "summary": "Pessoas podem apresentar dificuldade de digerir esse tipo de proteína, principalmente se possuírem doença celíaca, alergia ao trigo ou algum tipo de sensibilidade do glúten",
+      "category": "Saúde"
+    },
+    {
+      "title": "Governo dos Açores questionado sobre aeródromo da Graciosa",
+      "url": "https://observador.pt/2026/09/20/conselho-de-ilha-da-graciosa-questiona-executivo-sobre-ampliacao-da-pista-do-aerodromo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T10:42:31+00:00",
+      "summary": "Conselho de Ilha da Graciosa quer saber do Governo Regional o ponto de situação dos projetos de iluminação e alargamento da pista do aeródromo e pede mudança nas aeronaves que servem a ilha.",
       "category": "Política"
     },
     {
-      "title": "01h O incêndio de Arganil está mais calmo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-o-incendio-de-arganil-esta-mais-calmo_a1_1766568",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T01:29:02+00:00",
-      "summary": "",
-      "category": "Clima"
-    },
-    {
-      "title": "2h. Calor. Sobe para 11 os distritos com aviso amarelo",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2416/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T01:15:27+00:00",
-      "summary": "A temperatura máxima deverá atingir valores acima de 30 graus na generalidade do território do continente. Ainda, o Ministério Público arquivou as suspeitas de corrupção contra Manuel Pinho.",
-      "category": "Clima"
-    },
-    {
-      "title": "00h - Uma pessoa morreu num tiroteio no Bairro da Serafina.",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-uma-pessoa-morreu-num-tiroteio-no-bairro-da-serafina_a1_1766567",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T00:18:01+00:00",
-      "summary": "",
+      "title": "Alta de juro no Japão pressiona títulos pelo mundo, dizem analistas",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/alta-de-juro-no-japao-pressiona-titulos-pelo-mundo-dizem-analistas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:41:16+00:00",
+      "summary": "Depreciação do iene e pressão sobre Treasuries agravam cenário já deteriorado para dinâmica dos títulos do Tesouro no Brasil",
       "category": "Mundo"
     },
     {
-      "title": "1h. Quatro bombeiros feridos no combate às chamas em Arganil",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2389/",
-      "source": "Observador",
+      "title": "10h Alertas do ministro das Finanças",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-alertas-do-ministro-das-financas_a1_1766598",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-20T00:15:05+00:00",
-      "summary": "No distrito de Coimbra o fogo já chegou a quatro concelhos. Ainda, o Sporting empatou em casa frente ao Arouca por 2-2.",
+      "publishedAt": "2026-09-20T10:41:01+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Rocambole de limão: aprenda a preparar a receita destaque no Clube Rural",
+      "url": "https://g1.globo.com/pi/piaui/cluberural/noticia/2026/09/20/rocambole-de-limao-receita.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:40:00+00:00",
+      "summary": "Rocambole de limão: aprenda a preparar a receita ensinada no Clube Rural Reprodução/TV Clube O programa Clube Rural deste domingo (20) exibiu uma receita de rocambole de limão, que combina o sabor doce com o azedo da fruta. O preparo é ensinado pelo confeiteiro Carlos Alencar. Com ingredientes simples e fáceis de encon",
       "category": "Mundo"
     },
     {
-      "title": "Isto não é uma legenda. É um epitáfio sobre o Ocidente.",
-      "url": "https://observador.pt/opiniao/isto-nao-e-uma-legenda-e-um-epitafio-sobre-o-ocidente/",
+      "title": "Orion bate recorde de 19 anos e conquista Fita Azul da Regata Recife-Fernando de Noronha",
+      "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/09/20/orion-bate-recorde-de-19-anos-e-conquista-fita-azul-da-regata-recife-fernando-de-noronha.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:38:41+00:00",
+      "summary": "Orion chega primeiro e bate recorde de 19 anos na Refeno O barco pernambucano Orion Racing Brasil foi o primeiro à ilha na disputa da 37ª Regata Recife–Fernando de Noronha (Refeno), neste domingo (20). A embarcação conquistou o troféu Fita Azul e bateu o recorde da prova ao completar as 300 milhas náuticas, cerca de 54",
+      "category": "Mundo"
+    },
+    {
+      "title": "Como é que Passos Coelho incomoda tanta gente? — Debate",
+      "url": "https://observador.pt/programas/contra-corrente/como-e-que-passos-coelho-incomoda-tanta-gente-debate/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-19T23:25:10+00:00",
-      "summary": "Um defensor de Bin Laden, dos atacantes do 7 de Outubro e da poligamia acompanhado por uma mulher que usa niqab, a receber em Londres das mãos da Arcebispa de Cantuária um prémio no dia 11 de Setembro",
+      "publishedAt": "2026-09-20T10:37:26+00:00",
+      "summary": "Passe o tempo que passar e desapareça o tempo que quiser, Pedro Passos Coelho é sempre falado na esfera pública. Tudo o que diz e pensa tem destaque e é valorizado por outros. Mas afinal porquê?",
+      "category": "Cultura"
+    },
+    {
+      "title": "Amalia tem o valor de criar agenda de empreendedorismo",
+      "url": "https://observador.pt/2026/09/20/amalia-tem-o-valor-de-criar-agenda-de-empreendedorismo-em-portugal/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T10:35:37+00:00",
+      "summary": "Presidente executivo da Opensoft diz que o programa de Inteligência Artificial português proporciona um conjunto de ferramentas às empresas e ao público que promovem uma agenda de empreendedorismo.",
+      "category": "Política"
+    },
+    {
+      "title": "Como um casamento real na Alemanha deu origem à maior festa da cerveja do mundo (e como ela chegou à América Latina)",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/20/como-um-casamento-real-na-alemanha-deu-origem-a-maior-festa-da-cerveja-do-mundo-e-como-ela-chegou-a-america-latina.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:32:57+00:00",
+      "summary": "Cerca de 6,5 milhões de visitantes compareceram à Oktoberfest de 2025 ao longo dos 16 dias de duração do evento. Getty Images via BBC Todos os anos, desde 1950, no primeiro sábado depois de 15 de setembro, o prefeito de Munique, a capital da Baviera, na Alemanha, tem um compromisso marcado. ✅ Siga o canal de notícias i",
+      "category": "Política"
+    },
+    {
+      "title": "Concurso de Receitas 2026: aprenda a preparar o brownie pé vermelho paranaense",
+      "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/20/concurso-de-receitas-2026-brownie-pe-vermelho-paranaense.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:32:52+00:00",
+      "summary": "Concurso de Receitas 2026: aprenda a preparar o brownie pé vermelho paranaense A receita de brownie pé vermelho paranaense é uma das oito finalistas do Concurso de Receitas 2026 do Caminhos do Campo. A sobremesa é preparada por Elen Carla Ceolin, representante da RPC Londrina. Ela conta que a inspiração está nos ingred",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quem é Ieri Braga, candidato do PCO ao governo do Ceará",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-ieri-braga-candidato-do-pco-ao-governo-do-ceara/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:30:20+00:00",
+      "summary": "Químico e servidor público da Universidade de Brasília filiado ao PCO (Partido da Causa Operária) disputa o cargo pela primeira vez ao lado do correligionário Laerte Silva",
+      "category": "Política"
+    },
+    {
+      "title": "Cadáver de homem encontrado a flutuar em praia do Funchal",
+      "url": "https://observador.pt/2026/09/20/cadaver-de-homem-encontrado-a-flutuar-em-praia-do-funchal/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T10:29:44+00:00",
+      "summary": "O cadáver de um homem foi encontrado a flutuar na praia do Almirante Reis, na zona leste do Funchal, sendo desconhecidas as causas da morte, anunciou a Autoridade Marítima Nacional.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Afinal o PS também tem o seu Pedro Passos Coelho?",
+      "url": "https://observador.pt/programas/e-o-vencedor-e/afinal-o-ps-tambem-tem-o-seu-pedro-passos-coelho/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T10:28:23+00:00",
+      "summary": "Mário Centeno multiplica-se em livros e artigos para se fazer à liderança do PS. Pelo meio, o primeiro-ministro assusta o país com fantasma da bancarrota e o escândalo do Banco Master chega a Portugal",
+      "category": "Política"
+    },
+    {
+      "title": "11h. Bombeiros que ficaram feridos em Arganil tiveram alta",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1321/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T10:14:16+00:00",
+      "summary": "Fogo em Coimbra está dominado, mas ainda mobiliza quase 500 operacionais. Ministro das Finanças alerta que propostas do PS e Chega podem levar o país ao défice orçamental.",
+      "category": "Política"
+    },
+    {
+      "title": "Quem é Elmano de Freitas, candidato à reeleição no Ceará",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-elmano-de-freitas-candidato-a-reeleicao-no-ceara/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:07:35+00:00",
+      "summary": "Aos 56 anos, governador disputa um segundo mandato pelo PT com apoio do presidente Luiz Inácio Lula da Silva",
+      "category": "Política"
+    },
+    {
+      "title": "Londrina x Fortaleza: horário e onde assistir ao jogo da Série B",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/londrina-x-fortaleza-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:00:52+00:00",
+      "summary": "Equipes se enfrentam neste domingo (20), no Estádio Vitorino Gonçalves Dias, pela 29ª rodada da Série B do Campeonato Brasileiro",
       "category": "Esportes"
     },
     {
-      "title": "A morte da democracia em seu nome",
-      "url": "https://observador.pt/opiniao/a-morte-da-democracia-em-seu-nome/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T23:24:52+00:00",
-      "summary": "a etnicização da política, a sexualização da política, ou a afirmação da vontade religiosa como subordinando a autonomia do Estado constituem a tribalização definitiva da política",
+      "title": "Anitta será coroada rainha de bateria da Grande Rio neste domingo (20)",
+      "url": "https://www.cnnbrasil.com.br/pop/carnaval/anitta-sera-coroada-rainha-de-bateria-da-grande-rio-neste-domingo-20/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:00:47+00:00",
+      "summary": "Evento, com início às 12h, na quadra da agremiação de Caxias, também será marcado pela final de samba-enredo; saiba todos os detalhes",
       "category": "Mundo"
     },
     {
-      "title": "23h Está estabilizado o incêndio que lavra no distrito de Coimbra",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-esta-estabilizado-o-incendio-que-lavra-no-distrito-de-coimbra_a1_1766564",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T23:20:03+00:00",
-      "summary": "",
-      "category": "Clima"
-    },
-    {
-      "title": "FC Porto e Benfica medem forças num clássico com liderança em jogo",
-      "url": "https://www.rtp.pt/noticias/benfica/fc-porto-e-benfica-medem-forcas-num-classico-com-lideranca-em-jogo_d1766526",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T22:40:49+00:00",
-      "summary": "Líder isolado da I Liga, o FC Porto recebe este domingo o Benfica, no Estádio do Dragão, num clássico que pode provocar a primeira grande reviravolta da temporada. Os \"dragões\" defendem um percurso imaculado, enquanto as \"águias\" procuram chegar à liderança pela primeira vez desde abril de 2025.",
+      "title": "Após susto na Libertadores, Flamengo tenta manter liderança do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/apos-susto-na-libertadores-flamengo-tenta-manter-lideranca-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:00:47+00:00",
+      "summary": "Com clima tenso, o Rubro-Negro garantiu classificação para as semifinais da Libertadores e agora defende o topo da tabela no Campeonato Brasileiro",
       "category": "Esportes"
     },
     {
-      "title": "BE acusa Montenegro de estar a ser o \"pai do desespero e da pobreza acentuada\"",
-      "url": "https://www.rtp.pt/noticias/economia/be-acusa-montenegro-de-estar-a-ser-o-pai-do-desespero-e-da-pobreza-acentuada_n1766534",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-19T22:35:30+00:00",
-      "summary": "O coordenador do BE, José Manuel Pureza, acusou hoje o primeiro-ministro, Luís Montenegro, de estar \"a ser o pai do desespero e da pobreza acentuada\" por adotar medidas para combater a crise que diz serem \"migalhas e esmolas\".",
+      "title": "Dr. Kalil e especialistas detalham tratamentos contra infarto no SUS",
+      "url": "https://www.cnnbrasil.com.br/saude/dr-kalil-e-especialistas-detalham-tratamentos-contra-infarto-no-sus/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:00:46+00:00",
+      "summary": "Nova legislação permite uso de medicamentos trombolíticos nas UPAs e no Samu, reduzindo mortalidade por infarto de até 30% para cerca de 6%",
+      "category": "Mundo"
+    },
+    {
+      "title": "Oferta de gado para abate começa a cair com retenção de fêmeas no Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/oferta-de-gado-para-abate-comeca-a-cair-com-retencao-de-femeas-no-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:00:45+00:00",
+      "summary": "Retenção de fêmeas para recompor o rebanho e avanço dos confinamentos devem reduzir a oferta de animais e aumentar a pressão sobre a reposição",
+      "category": "Mundo"
+    },
+    {
+      "title": "Coreanos detidos em fábrica da Hyundai nos EUA processam governo Trump",
+      "url": "https://www.cnnbrasil.com.br/internacional/coreanos-detidos-em-fabrica-da-hyundai-nos-eua-processam-governo-trump/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-20T10:00:07+00:00",
+      "summary": "Conteúdo exclusivo: Mais de 300 trabalhadores sul-coreanos buscam indenização após serem detidos em operação imigratória na Geórgia enquanto trabalhavam",
       "category": "Política"
     },
     {
-      "title": "Alfândega da Fé saiu oficialmente do excesso de endividamento",
-      "url": "https://www.rtp.pt/noticias/economia/alfandega-da-fe-saiu-oficialmente-do-excesso-de-endividamento_n1766553",
+      "title": "Direita brasileira tenta reforçar Congresso e condicionar próximo presidente e juízes do STF",
+      "url": "https://www.rtp.pt/noticias/mundo/direita-brasileira-tenta-reforcar-congresso-e-condicionar-proximo-presidente-e-juizes-do-stf_n1766594",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-19T22:16:00+00:00",
-      "summary": "O município de Alfândega da Fé saiu hoje oficialmente do excesso de endividamento, deixando de integrar o Programa de Ajustamento Municipal, dez anos mais cedo do que o previsto, contando com uma dívida de 10 milhões de euros.",
+      "publishedAt": "2026-09-20T09:58:53+00:00",
+      "summary": "A disputa pelo Congresso brasileiro será uma das batalhas decisivas das eleições de outubro, com a direita a tentar ampliar a representação para condicionar o próximo Presidente e influenciar a futura composição do Supremo Tribunal Federal (STF).",
+      "category": "Política"
+    },
+    {
+      "title": "O que sabemos (e julgamos saber) sobre as regiões polares?",
+      "url": "https://observador.pt/especiais/cinquenta-tons-de-branco-o-que-sabemos-e-julgamos-saber-sobre-as-regioes-polares/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T09:58:35+00:00",
+      "summary": "Em \"Os Confins da Terra\", Neil Shubin examina o Árctico e o Antárctico sob diferentes perspectivas e mostra como poderão determinar o futuro da civilização — ensaio crítico de José Carlos Fernandes.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio Arganil: \"Existe risco de reativações do fogo\"",
+      "url": "https://observador.pt/programas/resposta-pronta/incendio-arganil-existe-risco-de-reativacoes-do-fogo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T09:43:31+00:00",
+      "summary": "Nuno Seixas Pereira, 2º Comandante sub-regional da Proteção Civil de Coimbra, aborda o ponto de situação do incêndio em Arganil. Adianta ainda que bombeiros feridos já tiveram alta hospitalar.",
+      "category": "Saúde"
+    },
+    {
+      "title": "9h Descida do IVA tem impacto orçamental",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/9h-descida-do-iva-tem-impacto-orcamental_a1_1766597",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T09:30:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Uma pessoa morreu em tiroteio no Bairro da Serafina em Lisboa",
+      "url": "https://www.rtp.pt/noticias/pais/uma-pessoa-morreu-em-tiroteio-no-bairro-da-serafina-em-lisboa_n1766565",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T08:09:49+00:00",
+      "summary": "Uma pessoa morreu num tiroteio no Bairro da Serafina, em Lisboa, disse à agência Lusa fonte da Polícia de Segurança Pública.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ataque dos EUA contra embarcação suspeita de tráfico de droga nas Caraíbas faz quatro mortos",
+      "url": "https://www.rtp.pt/noticias/mundo/ataque-dos-eua-contra-embarcacao-suspeita-de-trafico-de-droga-nas-caraibas-faz-quatro-mortos_n1766569",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T08:08:43+00:00",
+      "summary": "As forças armadas dos Estados Unidos atacaram no sábado uma embarcação suspeita de estar a ser utilizada para o tráfico de droga no mar das Caraíbas, matando quatro pessoas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal lidera eliminatória com El Salvador em \"excelente dia\"",
+      "url": "https://www.rtp.pt/noticias/tenis/portugal-lidera-eliminatoria-com-el-salvador-em-excelente-dia_d1766563",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T08:08:08+00:00",
+      "summary": "A seleção portuguesa de ténis encerrou hoje o primeiro dia de Taça Davis com dois pontos de vantagem sobre El Salvador na eliminatória do Grupo Mundial II, após as vitórias de Nuno Borges e Jaime Faria em singulares.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Amnistia Internacional denuncia \"ciclos de impunidade\" contra ativistas nas Honduras",
+      "url": "https://www.rtp.pt/noticias/mundo/amnistia-internacional-denuncia-ciclos-de-impunidade-contra-ativistas-nas-honduras_n1766570",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T08:06:10+00:00",
+      "summary": "A Amnistia Internacional denunciou \"ciclos de impunidade\" nas violações dos direitos humanos de ativistas que defendem a terra e o território nas Honduras, acusando o Estado hondurenho de passividade e negligência.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cuba restabelece rede elétrica após oitavo apagão geral do ano",
+      "url": "https://www.rtp.pt/noticias/mundo/cuba-restabelece-rede-eletrica-apos-oitavo-apagao-geral-do-ano_n1766571",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T08:04:58+00:00",
+      "summary": "Cuba restabeleceu este sábado o fornecimento de eletricidade em todas as províncias do país, cerca de 32 horas depois do oitavo apagão geral na ilha em 2026, informou a empresa estatal União Elétrica (UNE).",
       "category": "Economia"
     },
     {
-      "title": "CDS diz que atrasos nas matrículas resultam de políticas desastrosas do PS na imigração",
-      "url": "https://www.rtp.pt/noticias/politica/cds-diz-que-atrasos-nas-matriculas-resultam-de-politicas-desastrosas-do-ps-na-imigracao_n1766555",
+      "title": "Hamas pede a mediadores fim imediato da escalada de ataques em Gaza",
+      "url": "https://www.rtp.pt/noticias/mundo/hamas-pede-a-mediadores-fim-imediato-da-escalada-de-ataques-em-gaza_n1766572",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-19T22:11:06+00:00",
-      "summary": "O líder do CDS-PP, Nuno Melo, disse hoje que os atrasos nas matriculas são um resultado das políticas desastrosas do PS na imigração e disse que o Chega também tem responsabilidades nesta matéria.",
+      "publishedAt": "2026-09-20T08:04:05+00:00",
+      "summary": "O líder do Hamas, Jalil al Haya, alertou para o agravamento da situação na Faixa de Gaza e apelou ao fim imediato da escalada dos ataques e o cumprimento rigoroso das obrigações acordadas na primeira fase do plano de paz.",
       "category": "Mundo"
     },
     {
-      "title": "Nuno Tavares ajuda Lazio a apanhar Inter e Roma no topo da Serie A",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/nuno-tavares-ajuda-lazio-a-apanhar-inter-e-roma-no-topo-da-serie-a_d1766558",
+      "title": "Banco central da China mantém taxa de juro a 3% pelo 17.º mês consecutivo",
+      "url": "https://www.rtp.pt/noticias/economia/banco-central-da-china-mantem-taxa-de-juro-a-3-pelo-17o-mes-consecutivo_n1766574",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-19T22:06:41+00:00",
-      "summary": "A Lazio juntou-se hoje a Inter Milão e Roma no grupo de líderes da Liga italiana de futebol, após vencer no campo do Veneza, por 2-0, com Nuno Tavares em destaque, na quinta jornada.",
-      "category": "Esportes"
+      "publishedAt": "2026-09-20T08:03:05+00:00",
+      "summary": "O Banco Popular da China (BPC) anunciou hoje que manterá a sua taxa de juro de referência em 3% pelo 17.º mês consecutivo, cumprindo assim as previsões mais generalizadas entre os analistas, que não antecipavam qualquer alteração.",
+      "category": "Mundo"
     },
     {
       "title": "Para associações, normas ainda deixam pontos em aberto sobre cannabis",
@@ -423,10 +531,5 @@
     "Observador",
     "RTP Notícias"
   ],
-  "failures": [
-    {
-      "source": "CNN Brasil",
-      "error": "HTTP Error 403: Forbidden"
-    }
-  ]
+  "failures": []
 }
