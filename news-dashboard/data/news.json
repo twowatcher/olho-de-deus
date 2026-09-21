@@ -1,6 +1,303 @@
 {
-  "updatedAt": "2026-09-21T00:14:03.429557+00:00",
+  "updatedAt": "2026-09-21T04:54:17.799538+00:00",
   "items": [
+    {
+      "title": "5h Tempo quente está para ficar até quarta-feira",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-tempo-quente-esta-para-ficar-ate-quarta-feira_a1_1766722",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T05:20:02+00:00",
+      "summary": "",
+      "category": "Clima"
+    },
+    {
+      "title": "4h Preços dos combustíveis disparam hoje",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-precos-dos-combustiveis-disparam-hoje_a1_1766718",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T04:41:02+00:00",
+      "summary": "",
+      "category": "Economia"
+    },
+    {
+      "title": "3h Porto x Benfica. Clássico marcado por críticas à arbitragem",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-porto-x-benfica-classico-marcado-por-criticas-a-arbitragem_a1_1766717",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T04:39:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h Porto vence Benfica por 3-1",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-porto-vence-benfica-por-3-1_a1_1766716",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T04:38:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias das 5h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1567/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T04:17:53+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
+      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:07:30+00:00",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta segunda-feira (21) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 32ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas n",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Paulo (SP): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:07:12+00:00",
+      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta segunda-feira (21) para São Paulo (SP) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde,",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-e-muitas-nuvens-a-tarde-a-noite-o-ceu-ainda-fica-com-muita-nebulosidade-mas-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:06:55+00:00",
+      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para esta segunda-feira (21) para São Bernardo do Campo (SP) é de sol e muitas nuvens à tarde. À noite o céu ainda fica com muita nebulosidade, mas não chove. As máximas são de 29ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Bra",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:06:39+00:00",
+      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para esta segunda-feira (21) para Santo André (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 29ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Osasco (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-osasco-sp-sol-e-muitas-nuvens-a-tarde-a-noite-o-ceu-ainda-fica-com-muita-nebulosidade-mas-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:06:22+00:00",
+      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para esta segunda-feira (21) para Osasco (SP) é de sol e muitas nuvens à tarde. À noite o céu ainda fica com muita nebulosidade, mas não chove. As máximas são de 28ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-poucas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:06:05+00:00",
+      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para esta segunda-feira (21) para Guarulhos (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com poucas nuvens. As máximas são de 29ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:05:43+00:00",
+      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para esta segunda-feira (21) para São Gonçalo (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 29ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-muitas-nuvens-mas-com-tempo-firme.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:05:26+00:00",
+      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para esta segunda-feira (21) para o Rio de Janeiro (RJ) é de sol com algumas nuvens e chuva passageira. À noite, muitas nuvens mas com tempo firme. As máximas são de 33ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a man",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:05:08+00:00",
+      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para esta segunda-feira (21) para Nova Iguaçu (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 29ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:04:51+00:00",
+      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para esta segunda-feira (21) para Niterói (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 29ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com mui",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:04:34+00:00",
+      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para esta segunda-feira (21) para Duque de Caxias (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 29ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a ma",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Sete Lagoas (MG): dia de sol, com nevoeiro ao amanhecer; muitas nuvens à tarde e à noite",
+      "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-sete-lagoas-mg-dia-de-sol-com-nevoeiro-ao-amanhecer-muitas-nuvens-a-tarde-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T04:04:17+00:00",
+      "summary": "Previsão do tempo hoje em Sete Lagoas g1 A previsão do tempo para esta segunda-feira (21) para Sete Lagoas (MG) é de dia de sol, com nevoeiro ao amanhecer. Muitas nuvens à tarde e à noite. As máximas são de 29ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, nevoeiro. No períod",
+      "category": "Clima"
+    },
+    {
+      "title": "4h. Alemanha. Merz derrotado pela extrema-direita e esquerda",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2407/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T03:18:53+00:00",
+      "summary": "Chanceler alemão assume derrotas, mas recusa demitir-se. Ainda neste jornal, partido de Vladimir Putin vence eleições legislativas na Rússia com maioria dos votos.",
+      "category": "Política"
+    },
+    {
+      "title": "Internacional anuncia demissão do técnico Paulo Pezzolano",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/internacional-anuncia-demissao-do-tecnico-paulo-pezzolano/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T02:24:14+00:00",
+      "summary": "Auxiliar técnico permanente do Colorado, Pablo Fernandez comandará as próximas atividades da equipe gaúcha no CT Parque Gigante, em Porto Alegre",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h. Zelensky e Trump vão reunir em Nova Iorque",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2443/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T02:16:17+00:00",
+      "summary": "Encontro acontece à margem da Assembleia Geral da ONU e, segundo o Presidente ucraniano, “poderá mudar muitas coisas”. Ainda nesta edição, FC Porto vence Benfica por 3-1 e lidera isolado.",
+      "category": "Política"
+    },
+    {
+      "title": "Messi chega a 930 gols na carreira, e Inter Miami empata pela MLS; veja",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-chega-a-930-gols-na-carreira-e-inter-miami-empata-pela-mls-veja/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T02:08:58+00:00",
+      "summary": "Com o 2 a 2 diante do San Diego, franquia da Flórida fica na terceira colocação da Conferência Leste, com os mesmos 46 pontos do New England Revolution e a 11 de distância do Nashville",
+      "category": "Esportes"
+    },
+    {
+      "title": "Por que se diz que as vacas têm 4 estômagos? Saiba o que o ditado significa",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-se-diz-que-as-vacas-tem-4-estomagos-saiba-o-que-o-ditado-significa/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T02:00:58+00:00",
+      "summary": "Entenda como funciona o sistema digestivo das vacas e por que elas precisam de quatro compartimentos no estômago para realizar a digestão",
+      "category": "Mundo"
+    },
+    {
+      "title": "Tênis: Chuva adia finais do SP Open para segunda; saiba mais",
+      "url": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-chuva-adia-finais-do-sp-open-para-segunda-sabia-mais/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T01:54:06+00:00",
+      "summary": "Jogos foram transferidos devido às condições climáticas da capital paulista",
+      "category": "Esportes"
+    },
+    {
+      "title": "Truque da agulha de costura recupera o corte da tesoura em menos de um minuto",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/truque-da-agulha-de-costura-recupera-o-corte-da-tesoura-em-menos-de-um-minuto/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T01:30:41+00:00",
+      "summary": "Aprenda a recuperar o corte da tesoura com agulha de costura em menos de um minuto; descubra quando o truque funciona e quando não adianta",
+      "category": "Mundo"
+    },
+    {
+      "title": "Flamengo atualiza situação física de Plata após vitória sobre o Bragantino",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-atualiza-situacao-fisica-de-plata-apos-vitoria-sobre-o-bragantino/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T01:20:41+00:00",
+      "summary": "Jogador foi substituído nos minutos finais da vitória do Rubro-Negro sobre o Bragantino neste domingo (20)",
+      "category": "Mundo"
+    },
+    {
+      "title": "01h O Porto venceu o Benfica por 3-1",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-o-porto-venceu-o-benfica-por-3-1_a1_1766708",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T01:18:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pedro elogia atuação do Flamengo e é direto sobre gramado do Maracanã",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/pedro-elogia-atuacao-do-flamengo-e-e-direto-sobre-gramado-do-maracana/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T01:17:09+00:00",
+      "summary": "Rubro-Negro venceu o Red Bull Bragantino por 2 a 1 na noite deste domingo, no Rio de Janeiro",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h. IPMA alarga avisos amarelos por causa do calor",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2417/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T01:14:24+00:00",
+      "summary": "Máximas vão continuar elevadas e podem ultrapassar os 30 graus na generalidade do território continental. Ainda, Zelensky vai reunir-se com Trump à margem da Assembleia Geral das Nações Unidas.",
+      "category": "Clima"
+    },
+    {
+      "title": "Botox pode gerar impacto nas relações? Procedimento pode afetar emoções, conexões sociais e até a vida sexual; entenda",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/botox-pode-gerar-impacto-nas-relacoes-procedimento-pode-afetar-emocoes-conexoes-sociais-e-ate-a-vida-sexual-entenda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T00:54:17+00:00",
+      "summary": "Procedimento que congela a face pode dificultar a leitura de expressões e dificultar relações sociais",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasileirão: Athletico-PR vence Bahia em casa em briga direta pelo G-4",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-athletico-pr-vence-bahia-em-casa-em-briga-direta-pelo-g-4/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T00:48:33+00:00",
+      "summary": "Com o resultado, Furacão assume a terceira colocação; Esquadrão é o quinto",
+      "category": "Mundo"
+    },
+    {
+      "title": "Conselho do MPF não deve declarar parcialidade de Gonet",
+      "url": "https://www.cnnbrasil.com.br/politica/conselho-do-mpf-nao-deve-declarar-parcialidade-de-gonet/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T00:47:51+00:00",
+      "summary": "Segundo apuração da âncora da CNN Débora Bergamasco, o órgão deve acatar argumentos da defesa do procurador-geral, que seguirá à frente dos casos envolvendo o Banco Master",
+      "category": "Mundo"
+    },
+    {
+      "title": "Com novo aporte milionário, CEO explica futuro da SAF do Atlético-MG",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/com-novo-aporte-milionario-ceo-explica-futuro-da-saf-do-atletico-mg/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T00:45:51+00:00",
+      "summary": "Ao CNN Esportes S/A deste domingo (20), dirigente revela próximos passos de gestão do Galo, com foco no pagamento de dívidas",
+      "category": "Esportes"
+    },
+    {
+      "title": "“A instituição é maior”: CEO do Galo detalha recusa a contrato para Hulk",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/a-instituicao-e-maior-ceo-do-galo-detalha-recusa-a-contrato-para-hulk/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T00:30:29+00:00",
+      "summary": "Ao CNN Esportes S/A deste domingo (20), dirigente revela proposta de despedida no fim do ano e motivo da ida do ídolo ao Fluminense",
+      "category": "Esportes"
+    },
     {
       "title": "00h Ataque de retaliação da Rússia à Ucrânia esta noite.",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-ataque-de-retaliacao-da-russia-a-ucrania-esta-noite_a1_1766707",
@@ -11,58 +308,67 @@
       "category": "Mundo"
     },
     {
-      "title": "Confeiteira viraliza após fazer apelo nas redes sociais e vende todos os bolos em festival de doces",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/20/confeiteira-viraliza-apos-fazer-apelo-nas-redes-sociais-e-vende-todos-os-bolos-em-festival-de-doces.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:55:45+00:00",
-      "summary": "Confeiteira viraliza após fazer apelo nas redes sociais e vende todos os bolos em festival Uma confeiteira viralizou nas redes sociais após postar um vídeo pedindo que as pessoas comprassem os seus doces. Graziele Fernandes Fagundes, de 24 anos, apareceu chorando na publicação, com várias sobremesas expostas, no fim da",
-      "category": "Cultura"
+      "title": "1h. FC Porto líder isolado após vencer Benfica por 3-1",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2390/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T00:14:59+00:00",
+      "summary": "Dragões levam a melhor no primeiro clássico da época frente aos encarnados. Ainda, hecatombe para Friedrich Merz. CDU perde em Berlim para a esquerda radical e em Mecklemburgo para a extrema-direita.",
+      "category": "Mundo"
     },
     {
-      "title": "Parece xampu, mas é cocaína: operação secreta rastreia carga do Brasil até Berlim",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/09/20/parece-xampu-mas-e-cocaina-operacao-secreta-rastreia-carga-do-brasil-ate-berlim.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:48:42+00:00",
-      "summary": "Parece xampu, mas é cocaína: operação secreta rastreia carga do Brasil até Berlim Uma carga brasileira de produtos de higiene pessoal a caminho da Europa escondia, em frascos de xampu, cocaína. A Polícia Federal realizou uma operação secreta para rastrear o esquema e apreender as drogas no Aeroporto de Guarulhos, em Sã",
-      "category": "Economia"
+      "title": "Tolentino Mendonça: poeta, pensador, construtor de pontes",
+      "url": "https://observador.pt/opiniao/tolentino-mendonca-poeta-pensador-construtor-de-pontes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T23:24:57+00:00",
+      "summary": "A Medalha de Honra que lhe atribuímos foi o nosso agradecimento, o agradecimento de Lisboa. Faço votos de que continue a levar a nossa língua pelo mundo e a construir pontes.",
+      "category": "Mundo"
     },
     {
-      "title": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí neste domingo (20)",
-      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/20/eleicoes-2026-domingo-20.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:24:47+00:00",
-      "summary": "Candidatos ao Governo do Piauí Montagem/g1 Os candidatos ao Governo do Piauí cumpriram agenda de campanha neste domingo (20) em Teresina e no interior do estado. Entre os compromissos, houve carreatas, visitas a mercados, panfletagem e participação em ato político e procissão. ✅ Siga o canal do g1 Piauí no WhatsApp O p",
+      "title": "O cartel do medo",
+      "url": "https://observador.pt/opiniao/o-cartel-do-medo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T23:22:58+00:00",
+      "summary": "Três rivais pediram ao Estado que os obrigue a abrandar. Noutra indústria, chamar-se-ia cartel. Para Portugal, o risco é ficar a ver",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "O socialismo norte-americano (1)",
+      "url": "https://observador.pt/opiniao/o-socialismo-norte-americano-1/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T23:21:23+00:00",
+      "summary": "Foi em resultado da crescente popularidade que Alexandria Ocasio-Cortez e Rashida Tlaib asseguraram, nas eleições intercalares de 2018, os primeiros lugares da DSA na Câmara dos Representantes",
       "category": "Política"
     },
     {
-      "title": "Artur Jorge exalta elenco do Cruzeiro após vitória",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/artur-jorge-exalta-elenco-do-cruzeiro-apos-vitoria/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:23:33+00:00",
-      "summary": "Técnico celeste celebrou o resultado no Barradão, mas pediu apoio e disse que tem sido difícil gerir a parte emocional da equipe após as quedas nas copas",
-      "category": "Cultura"
+      "title": "Defesa Europeia sacrificando o Estado de Bem-Estar?",
+      "url": "https://observador.pt/opiniao/defesa-europeia-sacrificando-o-estado-de-bem-estar-e-a-coesao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T23:20:40+00:00",
+      "summary": "Se os governos nacionais forem obrigados a financiar o aumento da despesa militar através dos seus próprios orçamentos, terão de aumentar impostos, aumentar a dívida pública ou reduzir despesa.",
+      "category": "Política"
     },
     {
-      "title": "Namorado de estudante encontrada morta em prédio ainda não foi encontrado; celular da mãe dele é apreendido",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/20/namorado-estudante-encontrada-morta-nao-encontrado-celular-da-mae-apreendido.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:15:54+00:00",
-      "summary": "Isabelle Diário do Nordeste/Reprodução A Polícia Civil do Ceará apreendeu o celular e um tablet da mãe de João Munhoz Neto, namorado da estudante de Direito Isabelle Caracristi, de 22 anos, encontrada morta no pátio do condomínio onde morava com João, em Fortaleza. O homem não foi encontrado e continua sendo procurado.",
+      "title": "De Malagrida ao markhor: quem não manda, edu",
+      "url": "https://observador.pt/opiniao/de-malagrida-ao-markhor-quem-nao-manda-educa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T23:15:43+00:00",
+      "summary": "Bernard Shaw já tinha arrumado o assunto: quem sabe, faz. Quem não sabe, ensina. Faltou-lhe uma terceira opção: a de quem não sabe fazer nem ensinar e, por isso chama a ONU",
       "category": "Mundo"
     },
     {
-      "title": "“Clube não está organizado”: dispara Gustavo Henrique após derrota",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/clube-nao-esta-organizado-dispara-gustavo-henrique-apos-derrota/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:15:23+00:00",
-      "summary": "Após mais um revés no Brasileirão, zagueiro destacou pendências financeiras e problemas políticos atrapalhando o desempenho da equipe alvinegra",
-      "category": "Mundo"
+      "title": "O Parlamento Europeu é um tigre de papel",
+      "url": "https://observador.pt/opiniao/o-parlamento-europeu-e-um-tigre-de-papel/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-20T23:14:15+00:00",
+      "summary": "Além dos seus méritos próprios, o caso Domingos Simões Pereira no Prémio Sakharov 2026, poderia ser um avanço importante para a CPLP. Assim, perdemos prestígio. Somos dos que deixam cair os nossos",
+      "category": "Economia"
     },
     {
       "title": "FCP-SLB. \"Expulsão do Lenglet é o lance capital do jogo\"",
@@ -74,195 +380,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Motorista de ônibus que caiu em ribanceira em SP é preso por homicídio",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/motorista-de-onibus-que-caiu-em-ribanceira-em-sp-e-preso-por-homicidio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:09:42+00:00",
-      "summary": "Segundo a Polícia Militar, homem estava com a autorização da ANTT (Agência Nacional de Transportes Terrestres) vencida; ao menos seis pessoas morreram",
-      "category": "Mundo"
-    },
-    {
-      "title": "Água perdeu 55 jornadas depois e ficou a 4 jogos do recorde",
-      "url": "https://observador.pt/2026/09/21/benfica-voltou-a-perder-55-jornadas-depois-e-ficou-a-quatro-jogos-do-recorde-aursnes-diz-que-jogo-mudou-com-a-expulsao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T23:09:27+00:00",
-      "summary": "A equipa da Luz saiu do Dragão a cinco pontos da liderança e sem depender de si na luta pelo título",
-      "category": "Esportes"
-    },
-    {
-      "title": "Santos ganha nova Vila Criativa com cursos, oficinas e atividades esportivas no Estuário",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/20/santos-ganha-nova-vila-criativa-com-cursos-oficinas-e-atividades-esportivas-no-estuario.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:08:20+00:00",
-      "summary": "Nova unidade da Vila Criativa é entregue no Estuário Divulgação/Prefeitura de Santos Nova unidade da Vila Criativa é entregue no Estuário Divulgação/Prefeitura de Santos A Prefeitura de Santos, no litoral de São Paulo, entregou neste domingo (20) uma Vila Criativa no bairro Estuário. O equipamento, localizado na Praça ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Tripulação do Orion comemora quebra de recorde de 19 anos na Refeno",
-      "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/09/20/tripulacao-do-orion-comemora-quebra-de-recorde-de-19-anos-na-refeno.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:04:25+00:00",
-      "summary": "Orion quebra recorde de 19 anos na Regata Recife-Noronha; tripulação fala sobre a prova A tripulação do Orion Racing Brasil comemorou a estreia na Regata Recife-Fernando de Noronha (Refeno) com a conquista do troféu Fita Azul (prêmio dado ao primeiro a chegar à ilha) e um novo recorde. O trimarã cruzou a linha de chega",
-      "category": "Mundo"
-    },
-    {
-      "title": "Soltar pum é sinal de saúde? Dispositivo eletrônico na roupa íntima mede flatulência para saber a resposta",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/soltar-pum-e-sinal-de-saude-dispositivo-eletronico-na-roupa-intima-mede-flatulencia-para-saber-a-resposta/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:02:41+00:00",
-      "summary": "Medidor de pum foi criado por cientistas para voluntários de um estudo; inscrições foram pausadas por excesso de demanda",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "“Pior trabalho da carreira”: Diniz desabafa sobre crise do Corinthians",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/pior-trabalho-da-carreira-diniz-desabafa-sobre-crise-do-corinthians/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T23:00:42+00:00",
-      "summary": "Técnico do Timão comenta sobre série negativa da equipe, que acumula seis derrotas seguidas no Brasileirão e está perto da zona de rebaixamento",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Houve uma dualidade tremenda contra nós, foi um exagero\"",
-      "url": "https://observador.pt/2026/09/20/houve-uma-dualidade-tremenda-contra-nos-foi-um-exagero-rui-costa-admite-erros-proprios-mas-critica-arbitragem-do-classico/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T22:59:43+00:00",
-      "summary": "Rui Costa admitiu erros próprios do Benfica no clássico no Dragão mas não deixou de apontar o dedo à dualidade de critérios do árbitro Miguel Nogueira",
-      "category": "Mundo"
-    },
-    {
-      "title": "Froholdt, o trunfo que nunca esteve guardado na manga",
-      "url": "https://observador.pt/2026/09/20/froholdt-o-trunfo-que-nunca-esteve-guardado-na-manga-e-voltou-para-fazer-o-que-faz-sempre/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T22:58:45+00:00",
-      "summary": "O médio dinamarquês marcou o segundo golo dos dragões",
-      "category": "Esportes"
-    },
-    {
-      "title": "Suspeito de assediar e agredir cunhada e menina de 11 anos fica ferido após vítima se defender com foice no PI",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/20/suspeito-agredir.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:52:28+00:00",
-      "summary": "Suspeito de assediar e agredir cunhada e menina de 11 anos fica ferido após vítima se defender com foice no PI Reprodução Um homem identificado como Luiz Amorim, foi detido suspeito de assediar e agredir uma mulher e a filha dela, de 11 anos, na noite de sábado (19), em São João do Piauí. Segundo o 11º Batalhão da Polí",
-      "category": "Mundo"
-    },
-    {
-      "title": "Artur Jorge dedica triunfo à torcida e projeta parada para a Data Fifa",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/artur-jorge-dedica-triunfo-a-torcida-e-projeta-parada-para-a-data-fifa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:45:49+00:00",
-      "summary": "Cruzeiro superou o Vitória por 3 a 1, de virada, no Barradão, em partida válida pela 28ª rodada da Série A do Campeonato Brasileiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "FCP-SLB. “Defesa não está à altura do resto da equipa”",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/porto-x-slb-defesa-nao-esta-a-altura-do-resto-da-equipa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T22:43:17+00:00",
-      "summary": "João Pinto considera que o Benfica esteve bem taticamente, mas diz que a expulsão de Lenglet foi uma \"mini facada\" que deitou tudo a perder e expôs a falta de um \"central patrão\" no setor recuado.",
-      "category": "Mundo"
-    },
-    {
-      "title": "FCP-SLB. “Cinco pontos ainda não é nada\"",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/porto-x-benfica-cinco-pontos-ainda-nao-e-nada/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T22:42:17+00:00",
-      "summary": "Luís Pinto Coelho atribuiu nota alta à exibição portista, mas vê um Benfica mais forte, ao contrário do Sporting. Considera ainda que o treinador portista \"mexeu bem no que tinha de mexer\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Criança de 3 anos morre com suspeita de choque elétrico em MS",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/20/crianca-de-3-anos-morre-com-suspeita-de-choque-eletrico-em-ms.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:41:21+00:00",
-      "summary": "Município de Nioaque, a 165 km de Campo Grande. TV Morena/+ Natureza Uma criança de 3 anos foi encontrada morta na manhã deste domingo (20), em uma propriedade rural localizada a cerca de 48 km de Nioaque (MS). A polícia investiga se o menino morreu após sofrer um choque elétrico. ✅ Clique aqui para seguir o canal do g",
-      "category": "Mundo"
-    },
-    {
-      "title": "Após 8 dias, bombeiros encontram corpo de homem que havia sido arrastado por correnteza em Jandira",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/20/apos-8-dias-bombeiros-encontram-corpo-de-homem-que-havia-sido-arrastado-por-correnteza-em-jandira.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:38:35+00:00",
-      "summary": "O corpo de um homem que estava desaparecido desde 12 de setembro, vítima de uma enchente em Jandira, na Grande São Paulo, foi localizada neste domingo (20). De acordo com nota do Corpo dos Bombeiros, o corpo foi encontrado por volta das 15h na Estrada Velha da Usina, em Santana de Parnaiba na região da Barragem Edgard ",
-      "category": "Clima"
-    },
-    {
-      "title": "Batida entre carro e picape deixa dois mortos na Rodovia do Açúcar em Elias Fausto",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/20/batida-entre-carro-e-picape-deixa-dois-mortos-na-rodovia-do-acucar-em-elias-fausto.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:36:32+00:00",
-      "summary": "Imagem de arquivo da Rodovia do Açúcar (SP-308), na região de Piracicaba. Divulgação/Rodovias do Tietê Duas pessoas morreram após uma batida entre um carro e uma picape na noite de sábado (19), na Rodovia do Açúcar (SP-308), em Elias Fausto (SP). O acidente aconteceu na altura do km 117. Segundo informações da Agência ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dois homens morrem carbonizados após carro bater em poste, no Crato",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/20/dois-homens-morrem-carbonizados-apos-carro-bater-em-poste-no-crato.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:35:19+00:00",
-      "summary": "Dois homens morrem carbonizados após carro bater em poste, no Crato (CE) Dois homens de 31 e 32 anos morreram carbonizados após o carro em que eles estavam bater em um poste e pegar fogo na madrugada deste domingo (20) no distrito de Ponta da Serra, zona rural do Crato, na região do Cariri cearense. Com o impacto, a fi",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Venho de cultura diferente, aqui condicionam-se árbitros\"",
-      "url": "https://observador.pt/2026/09/20/venho-de-uma-cultura-diferente-aqui-condicionam-se-arbitros-e-por-vezes-da-resultado-marco-nao-queria-falar-sobre-arbitragem-mas-falou/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T22:30:45+00:00",
-      "summary": "O treinador encarnado sofreu a segunda derrota desde que chegou à Luz",
-      "category": "Cultura"
-    },
-    {
-      "title": "Semana Nacional de Trânsito 2026 reúne serviços gratuitos de saúde, cidadania e mobilidade em Manaus; veja onde",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/20/semana-nacional-de-transito-reune-servicos-gratuitos-de-saude-cidadania-e-mobilidade-em-manaus-veja-onde.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:30:30+00:00",
-      "summary": "Abertura da Semana Nacional do Trânsito ocorre nesta segunda-feira em Manaus Reprodução/Semcom A abertura da Semana Nacional de Trânsito, nesta segunda-feira (21), em Manaus, vai oferecer serviços gratuitos de saúde, cidadania e mobilidade à população manauara. As atividades começam às 8h, no mirante Lúcia Almeida, na ",
-      "category": "Saúde"
-    },
-    {
-      "title": "\"Não houve coisas estranhas esta noite. Correu tudo bem\"",
-      "url": "https://observador.pt/2026/09/20/nao-houve-coisas-estranhas-esta-noite-correu-tudo-bem-farioli-analisa-a-arbitragem-e-garante-que-caminhada-ainda-vai-ser-longa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T22:29:11+00:00",
-      "summary": "O treinador italiano somou a segunda vitória em clássicos do Campeonato ao serviço do campeão nacional",
-      "category": "Esportes"
-    },
-    {
-      "title": "Inaugurada em 1636, saiba qual é a casa mais antiga de Nova York e que segue em pé até hoje",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/inaugurada-em-1636-saiba-qual-e-a-casa-mais-antiga-de-nova-york-e-que-segue-em-pe-ate-hoje/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:27:39+00:00",
-      "summary": "Residência antiga quase foi demolida no passado, mas foi salva por herdeiros de Pieter Claesen Wyckoff",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lula chega a Nova York para Assembleia Geral da ONU",
-      "url": "https://www.cnnbrasil.com.br/internacional/lula-chega-a-nova-york-para-assembleia-geral-da-onu/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:23:52+00:00",
-      "summary": "Além da cúpula, agenda do presidente também inclui reunião bilateral com o prefeito de Nova York e entrevista à âncora da CNN, Christiane Amanpour",
-      "category": "Política"
-    },
-    {
       "title": "Lille deixa escapar liderança, Paris Saint-Germain vence pela segunda vez",
       "url": "https://www.rtp.pt/noticias/futebol-internacional/lille-deixa-escapar-lideranca-paris-saint-germain-vence-pela-segunda-vez_d1766700",
       "source": "RTP Notícias",
@@ -270,60 +387,6 @@
       "publishedAt": "2026-09-20T22:23:51+00:00",
       "summary": "O Lille foi hoje perder na visita ao Nice, por 2-1, em jogo da quinta jornada da Liga francesa de futebol, desperdiçando a oportunidade de igualar o Mónaco, enquanto o Paris Saint-Germain conquistou, em Marselha, a segunda vitória.",
       "category": "Esportes"
-    },
-    {
-      "title": "Anitta é coroada rainha de bateria da Grande Rio; veja",
-      "url": "https://www.cnnbrasil.com.br/pop/carnaval/anitta-e-coroada-rainha-de-bateria-da-grande-rio-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:21:57+00:00",
-      "summary": "Artista ocupa o posto antes ocupado pela influenciadora Virginia Fonseca; a cantora também assina um dos samba-enredos que competem na grande final deste domingo (20)",
-      "category": "Cultura"
-    },
-    {
-      "title": "Goiás vence Avaí de virada na Série B e mantém sonho de acesso",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/goias-vence-avai-de-virada-na-serie-b-e-mantem-sonho-de-acesso/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:21:31+00:00",
-      "summary": "Time goiano reage após gol de Daniel Penha, garante vitória na Serrinha e sobe à 10ª posição na tabela",
-      "category": "Esportes"
-    },
-    {
-      "title": "Das entradas de Gabri e Alberto à expulsão de Lenglet",
-      "url": "https://observador.pt/2026/09/20/entradas-de-gabri-veiga-e-alberto-costa-mereciam-outra-sancao-lenglet-foi-bem-expulso-os-casos-do-classico-em-video/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T22:21:06+00:00",
-      "summary": "Miguel Nogueira terminou o clássico com vários cartões amarelos, uma expulsão por acumulação e várias críticas sobretudo do lado benfiquista",
-      "category": "Mundo"
-    },
-    {
-      "title": "Zelensky anuncia encontro com Trump em Nova Iorque",
-      "url": "https://observador.pt/2026/09/20/zelensky-anuncia-encontro-com-trump-em-nova-iorque-que-pode-mudar-muita-coisa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T22:18:58+00:00",
-      "summary": "Zelensky garantiu que há \"ideias para desescalar\" o conflito e para \"abordar problemas fundamentais de segurança\" com os Estados Unidos. \"Estamos prontos para dar passos importantes\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Corinthians anuncia permanência de Diniz a pedido dos jogadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-anuncia-permanencia-de-diniz-a-pedido-dos-jogadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:15:49+00:00",
-      "summary": "Treinador é mantido no comando da equipe após mais um resultado negativo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Voo em jatinho e mensagens: o que se sabe sobre o caso Moraes e Vorcaro",
-      "url": "https://www.cnnbrasil.com.br/politica/voo-em-jatinho-e-mensagens-o-que-se-sabe-sobre-o-caso-moraes-e-vorcaro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-20T22:15:14+00:00",
-      "summary": "Relatórios da Polícia Federal mostram mensagens do ex-banqueiro Daniel Vorcaro a telefone atribuído ao ministro; documentos ainda apontam contratos milionários com o escritório da esposa do magistrado",
-      "category": "Política"
     },
     {
       "title": "Aviso amarelo por tempo quente alargado a 16 distritos e metade até quarta-feira",
@@ -335,15 +398,6 @@
       "category": "Clima"
     },
     {
-      "title": "Face ao \"desastre\", Merz promete apenas reformas",
-      "url": "https://observador.pt/especiais/vitorias-dos-extremos-a-esquerda-e-a-direita-refletem-vontade-de-mudanca-mas-face-ao-desastre-merz-promete-apenas-reformas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T22:08:04+00:00",
-      "summary": "Friedrich Merz não detalhou que reformas procura, mas recusou reverter programa de austeridade",
-      "category": "Mundo"
-    },
-    {
       "title": "Presidente do Conselho Europeu e líderes do Brasil, Canadá e Quénia lançam iniciativa para reformar ONU",
       "url": "https://www.rtp.pt/noticias/mundo/presidente-do-conselho-europeu-e-lideres-do-brasil-canada-e-quenia-lancam-iniciativa-para-reformar-onu_n1766690",
       "source": "RTP Notícias",
@@ -351,15 +405,6 @@
       "publishedAt": "2026-09-20T22:03:20+00:00",
       "summary": "O presidente do Conselho Europeu, os Presidentes do Brasil e do Quénia e o primeiro-ministro do Canadá anunciaram uma iniciativa para reformar a Organização das Nações Unidas (ONU) e outras instituições multilaterais, num artigo de opinião conjunto publicado hoje.",
       "category": "Política"
-    },
-    {
-      "title": "35 minutos e Lenglet foi expulso. 35 minutos e tudo mudou",
-      "url": "https://observador.pt/2026/09/20/dois-amarelos-em-10-minutos-um-vermelho-precoce-como-nunca-uma-imprudencia-como-a-expulsao-de-lenglet-mudou-o-classico/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T21:54:48+00:00",
-      "summary": "O central francês foi expulso ainda durante a primeira parte",
-      "category": "Cultura"
     },
     {
       "title": "Manuela Eanes acredita que Seguro vai ser \"um grande Presidente\"",
@@ -405,51 +450,6 @@
       "publishedAt": "2026-09-20T21:02:41+00:00",
       "summary": "Remco Evenepoel tornou-se hoje no primeiro ciclista a conquistar quatro títulos consecutivos de contrarrelógio, encabeçando um pódio de luxo em Montreal ocupado pelo novamente ‘vice’ Filippo Ganna e pelo promissor Paul Seixas.",
       "category": "Mundo"
-    },
-    {
-      "title": "Festa do Livro. Presidente da República ouviu queixas sobre educação",
-      "url": "https://www.rtp.pt/noticias/cultura/festa-do-livro-presidente-da-republica-ouviu-queixas-sobre-educacao_v1766693",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T21:01:47+00:00",
-      "summary": "Centenas de pessoas aproveitaram as últimas horas da Festa do Livro, em Belém.",
-      "category": "Política"
-    },
-    {
-      "title": "Elversberg mantém surpresa na Bundesliga, Leverkusen e Paderborn vencem",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/elversberg-mantem-surpresa-na-bundesliga-leverkusen-e-paderborn-vencem_d1766692",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T20:58:58+00:00",
-      "summary": "O Elversberg, equipa surpresa da Liga alemã de futebol, empatou hoje 0-0 no terreno do Schalke 04, num duelo entre duas equipas recém-promovidas à Bundesliga, numa quarta jornada que fechou com as vitórias de Bayer Leverkusen e Paderborn.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Prémio Jovens Músicos. Cinco solistas disputaram o prémio mais cobiçado",
-      "url": "https://www.rtp.pt/noticias/cultura/premio-jovens-musicos-cinco-solistas-disputaram-o-premio-mais-cobicado_v1766691",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T20:58:47+00:00",
-      "summary": "O Prémio Jovens Músicos é há quase 40 anos o prémio mais desejado pelos estudantes de música de todo o país.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Feirense foi o único da II Liga a cair na segunda ronda da Taça de Portugal",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/feirense-foi-o-unico-da-ii-liga-a-cair-na-segunda-ronda-da-taca-de-portugal_d1766688",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T20:45:06+00:00",
-      "summary": "A estreia das equipas da II Liga na segunda eliminatória da Taça de Portugal de futebol resultou ‘apenas’ em um ‘vítima’, o Feirense, enquanto os restantes emblemas, com mais ou menos dificuldades, confirmaram o apuramento.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Oposição recusa alertas do ministro das Finanças",
-      "url": "https://www.rtp.pt/noticias/politica/oposicao-recusa-alertas-do-ministro-das-financas_v1766686",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-20T20:41:47+00:00",
-      "summary": "O Ministro das Finanças avisa que as medidas do PS e do Chega para descer o IVA dos combustíveis e do cabaz alimentar podem fazer o país entrar em défice já no próximo ano.",
-      "category": "Política"
     },
     {
       "title": "Longa de André Novais vence o Festival de Brasília de Cinema",
