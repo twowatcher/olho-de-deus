@@ -1,365 +1,401 @@
 {
-  "updatedAt": "2026-09-22T14:50:23.253849+00:00",
+  "updatedAt": "2026-09-22T18:51:45.018472+00:00",
   "items": [
     {
-      "title": "Lula da Silva diz que \"este é o momento mais crítico das Nações Unidas\"",
-      "url": "https://www.rtp.pt/noticias/mundo/lula-da-silva-diz-que-este-e-o-momento-mais-critico-das-nacoes-unidas_e1766964",
+      "title": "Dezasseis formandos da GNR em Portalegre assistidos por problemas respiratórios e digestivos",
+      "url": "https://www.rtp.pt/noticias/pais/dezasseis-formandos-da-gnr-em-portalegre-assistidos-por-problemas-respiratorios-e-digestivos_n1767087",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-22T15:42:34+00:00",
-      "summary": "O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. O debate de alto nível termina no dia 28.",
-      "category": "Mundo"
+      "publishedAt": "2026-09-22T19:46:07+00:00",
+      "summary": "Os formandos começaram a dar entrada no hospital no \"período da manhã\", tendo \"alguns já recebido alta\".",
+      "category": "Saúde"
     },
     {
-      "title": "José Luís Carneiro avisa Governo sobre OE: \"Não tome esta disponibilidade do PS como adquirida\"",
-      "url": "https://www.rtp.pt/noticias/politica/jose-luis-carneiro-avisa-governo-sobre-oe-nao-tome-esta-disponibilidade-do-ps-como-adquirida_v1767022",
+      "title": "19h Trump foi às Nações Unidas deixar ultimato ao Irão",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-trump-foi-as-nacoes-unidas-deixar-ultimato-ao-irao_a1_1767085",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-22T15:42:12+00:00",
-      "summary": "Quando o assunto é o Orçamento do Estado para 2027 (OE27), o secretário-geral do Partido Socialista (PS) envia um recado ao primeiro-ministro: \"não tome esta disponibilidade do PS para a estabilidade como um dado adquirido\".",
-      "category": "Política"
-    },
-    {
-      "title": "15h António Guterres avisa superpotências na ONU e critica ações de Israel",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-antonio-guterres-avisa-superpotencias-na-onu-e-critica-acoes-de-israel_a1_1767023",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T15:37:01+00:00",
+      "publishedAt": "2026-09-22T19:17:01+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Jorge Palma. Velório aberto a todos e funeral restrito aos mais próximos",
-      "url": "https://www.rtp.pt/noticias/cultura/jorge-palma-velorio-aberto-a-todos-e-funeral-restrito-aos-mais-proximos_n1767004",
+      "title": "\"Tem sido uma honra ter colocado fim a oito guerras\", afirma Trump perante a ONU",
+      "url": "https://www.rtp.pt/noticias/mundo/tem-sido-uma-honra-ter-colocado-fim-a-oito-guerras-afirma-trump-perante-a-onu_e1766964",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-22T14:49:26+00:00",
-      "summary": "O velório do músico Jorge Palma, que morreu na segunda-feira, está marcado para quarta-feira, na Voz do Operário, em Lisboa, \"para que todos se possam despedir e prestar uma última homenagem\", anunciou hoje a família.",
+      "publishedAt": "2026-09-22T18:55:13+00:00",
+      "summary": "O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. Lula da Silva e Donald Trump também já falaram. O debate de alto nível termina no dia 28.",
       "category": "Mundo"
     },
     {
-      "title": "Câmaras vão poder impedir \"lojas de fachada\"",
-      "url": "https://observador.pt/2026/09/22/camaras-vao-poder-impedir-lojas-de-fachada-em-cerca-de-15-do-municipio-diz-ministro/",
+      "title": "Sérgio Godinho lembra o \"cúmplice\", \"grande músico\" e \"ótimo escritor de canções\"",
+      "url": "https://www.rtp.pt/noticias/cultura/sergio-godinho-lembra-o-cumplice-grande-musico-e-otimo-escritor-de-cancoes_n1767049",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:51:43+00:00",
+      "summary": "O músico Sérgio Godinho recordou hoje o \"cúmplice\" e \"amigo de longa data\" Jorge Palma, que morreu na segunda-feira aos 76 anos, como um \"grande músico\" e um \"ótimo escritor de canções\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Volta. Vereadora alerta para risco no trabalho social",
+      "url": "https://observador.pt/2026/09/22/vereadora-diz-que-sistema-volta-poe-em-causa-trabalho-social-em-lisboa-devido-ao-dinheiro-facil/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-22T14:46:10+00:00",
-      "summary": "A exceção, que constará de um Código do Licenciamento Empresarial que o Governo está a elaborar, pretende proteger lojas com história",
+      "publishedAt": "2026-09-22T18:46:22+00:00",
+      "summary": "Maria Luísa Aldim, do CDS-PP, diz que o \"dinheiro fácil\" das embalagens Volta põe em causa o acompanhamento personalizado feito às pessoas sem-abrigo em Lisboa.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Veículos autónomos em Portugal? Bolt não dá estimativa",
+      "url": "https://observador.pt/2026/09/22/veiculos-autonomos-em-portugal-bolt-nao-se-atravessa-com-data-brisa-quer-iniciar-testes-em-autoestradas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:43:20+00:00",
+      "summary": "\"Não vai ser já amanhã que vai haver centenas de milhares de veículos autónomos nas estradas europeias\", garante Sofia Cartó, diretora de políticas públicas da Bolt Portugal",
+      "category": "Economia"
+    },
+    {
+      "title": "Erdogan condena ataques a navios no Mar Negro e pede reconstrução de Gaza",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/erdogan-condena-ataques-a-navios-no-mar-negro-e-pede-reconstrucao-de-gaza_n1767075",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:42:22+00:00",
+      "summary": "O Presidente turco, Recep Tayyip Erdogan, condenou hoje os ataques contra navios comerciais no Mar Negro e apelou à reconstrução imediata da Faixa de Gaza, no discurso na Assembleia Geral das Nações Unidas.",
       "category": "Política"
     },
     {
-      "title": "Assista ao JAP1 desta terça (22)",
-      "url": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-segunda-21.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:41:12+00:00",
-      "summary": "Assista ao JAP1 desta terça (22) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ceará amplia ecossistema de startups e 300 empresas estarão no Siará Tech Summit 2026",
-      "url": "https://g1.globo.com/ce/ceara/especial-publicitario/sebrae-ceara/inovacao-e-negocios/noticia/2026/09/22/ceara-amplia-ecossistema-de-startups-e-300-empresas-estarao-no-siara-tech-summit-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:40:30+00:00",
-      "summary": "No Siará Tech Summit 2025, as startups foram a atração do evento Sebrae/CE O Ceará vive um momento de expansão do seu ecossistema de inovação. Dados do Sebrae Startups apontam que o Estado chegou a 915 startups ativas e registrou crescimento de 43% no número de empresas em 2025, um dos maiores avanços do país. O movime",
+      "title": "Lucro da Sporting SAD dispara 74% para quase 35 ME em 2025/26",
+      "url": "https://www.rtp.pt/noticias/sporting/lucro-da-sporting-sad-dispara-74-para-quase-35-me-em-202526_d1767079",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:42:16+00:00",
+      "summary": "A Sporting SAD teve um resultado líquido de 34,7 milhões de euros (ME) no exercício de 2025/26, uma subida homóloga de 74% face ao lucro de 20 ME na época anterior, anunciaram ao mercado os leões.",
       "category": "Economia"
     },
     {
-      "title": "Homem encontrado morto foi arrastado ao tentar limpar tubulação durante enxurrada na Serra Gaúcha",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/22/homem-encontrado-morto-foi-arrastado-ao-tentar-limpar-tubulacao-durante-enxurrada-na-serra-gaucha.ghtml",
+      "title": "Coordenação de Saúde Mental promove sarau no Mart, em Cabo Frio",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/22/coordenacao-de-saude-mental-promove-sarau-no-mart-em-cabo-frio.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-22T14:40:19+00:00",
-      "summary": "Temporais atingem 119 cidades no RS O corpo de um homem de 46 anos que foi arrastado pela correnteza ao tentar desobstruir uma tubulação foi encontrado na manhã desta terça-feira (22), no bairro De Zorzi, em Caxias do Sul, na Serra Gaúcha. Segundo o Corpo de Bombeiros Militar, Édson Luís da Silva foi localizado por vol",
-      "category": "Clima"
-    },
-    {
-      "title": "Fisioterapeuta presa suspeita de mutilar pacientes: vídeo mostra quando ela usa guardanapo para limpar corte de paciente, diz PC",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/09/22/fisioterapeuta-presa-suspeita-de-mutilar-pacientes-video-mostra-quando-ela-usa-guardanapo-para-limpar-corte-de-paciente-diz-pc.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:40:06+00:00",
-      "summary": "Vídeo mostra quando fisioterapeuta usa guardanapo para limpar corte de paciente, diz PC Um vídeo mostra a fisioterapeuta Magda Oliveira da Silva, presa suspeita de mutilar pacientes em Goiânia, usando um guardanapo para limpar cortes de uma paciente durante um procedimento nas partes íntimas, segundo o delegado Alex Ro",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Carro cai em buraco coberto pela chuva e motorista fica 'preso' no litoral de SP; VÍDEO",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/22/carro-cai-em-buraco-coberto-pela-chuva-e-motorista-fica-preso-no-litoral-de-sp-video.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:39:44+00:00",
-      "summary": "Carro cai em buraco e motorista fica 'preso' durante a madrugada no litoral de SP Um motorista de aplicativo, de 46 anos, caiu com o carro em um buraco coberto pelas águas das chuvas, na madrugada desta terça-feira (22), em um trecho em obras da Sabesp, em Praia Grande, no litoral de São Paulo. Ao g1, o motorista Alexa",
-      "category": "Clima"
-    },
-    {
-      "title": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:39:39+00:00",
-      "summary": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:39:11+00:00",
-      "summary": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:38:48+00:00",
-      "summary": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:38:22+00:00",
-      "summary": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Certificados de Aforro continuam a bater recordes",
-      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/certificados-de-aforro-continuam-a-bater-recordes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T14:36:16+00:00",
-      "summary": "O montante investido em Certificados de Aforro voltou a subir em Agosto. O juro está no tecto máximo de 2,5%, abaixo da inflação.",
-      "category": "Economia"
-    },
-    {
-      "title": "VÍDEO mostra momento em que portão de galpão é arrastado pela força da chuva e do vento em Taubaté, SP",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/22/video-mostra-momento-em-que-portao-de-galpao-e-arrastado-pela-forca-da-chuva-e-do-vento-em-taubate-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:35:13+00:00",
-      "summary": "VÍDEO mostra momento em que portão de galpão é arrastado pela força da chuva e do vento em Taubaté, SP Fernanda Noguti Um vídeo mostra o momento em que a força da chuva e do vento arranca o portão de um galpão, na manhã desta terça-feira (22), em Taubaté, no interior de São Paulo - veja acima. O incidente aconteceu por",
-      "category": "Clima"
-    },
-    {
-      "title": "AO VIVO: Assista ao GR1",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:34:03+00:00",
-      "summary": "AO VIVO: Assista ao GR1 Acompanhe o GR1 deste terça-feira (22), com apresentação de Vanda Torres.",
-      "category": "Mundo"
-    },
-    {
-      "title": "g1 faz debate com candidatos ao Senado pelo RJ",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/ao-vivo/debate-candidatos-senado-rio-de-janeiro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:33:43+00:00",
-      "summary": "g1 faz debate com candidatos ao Senado pelo RJ Oito candidatos foram confirmados e divididos por sorteio em dois grupos de quatro. Encontros são mediados pelo jornalista Edimilson Ávila, na terça-feira (22), às 9h e às 13h. O g1 realiza na terça-feira (22) 2 debates com candidatos ao Senado pelo Rio de Janeiro. Os enco",
-      "category": "Política"
-    },
-    {
-      "title": "Obras da ponte Ferreirinha. Moradores da zona queixam-se de barulho permanente",
-      "url": "https://www.rtp.pt/noticias/pais/obras-da-ponte-ferreirinha-moradores-da-zona-queixam-se-de-barulho-permanente_v1767003",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T14:30:47+00:00",
-      "summary": "Os moradores do Bairro de Massarelos, no Porto, onde está a ser construída a Ponte Ferreirinha, dizem que as obras tornam insuportável estar em casa.",
-      "category": "Mundo"
-    },
-    {
-      "title": "SAD do Sporting de Braga com resultado positivo de 17,3 ME em 2025/26",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/sad-do-sporting-de-braga-com-resultado-positivo-de-173-me-em-202526_d1767000",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T14:27:58+00:00",
-      "summary": "A sociedade anónima desportiva (SAD) do Sporting de Braga apresentou um resultado líquido de 17,3 milhões de euros (ME) em 2025/26, informou hoje o sexto classificado da I Liga portuguesa de futebol.",
-      "category": "Economia"
-    },
-    {
-      "title": "Capas de super-heróis de crianças que enfrentaram o cancro",
-      "url": "https://www.rtp.pt/noticias/pais/capas-de-super-herois-de-criancas-que-enfrentaram-o-cancro_v1766999",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T14:27:52+00:00",
-      "summary": "Setembro é o Mês Internacional da Sensibilização para o Cancro Pediátrico. O IPO do Porto assinala-o com uma exposição de capas de super-heróis decoradas pelas crianças e famílias que enfrentam a doença.",
+      "publishedAt": "2026-09-22T18:42:11+00:00",
+      "summary": "Evento da programação do Setembro Amarelo reúne apresentações culturais no Mart, em Cabo Frio. Museu de Arte Religiosa e Tradicional (Mart) A Coordenação de Saúde Mental da Secretaria Municipal de Saúde de Cabo Frio promove, nesta quarta-feira (23), a partir das 14h, um sarau no Museu de Arte Religiosa e Tradicional (M",
       "category": "Saúde"
     },
     {
-      "title": "Empresa transforma borras de café em cogumelos",
-      "url": "https://www.rtp.pt/noticias/economia/empresa-transforma-borras-de-cafe-em-cogumelos_v1766998",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T14:27:47+00:00",
-      "summary": "Por mês, quase 8 toneladas de borras de café podem estar a caminho de uma nova vida. Há uma empresa a transformá-las em cogumelos, que acaba de inaugurar uma fábrica em Odivelas.",
-      "category": "Economia"
-    },
-    {
-      "title": "Árbitro lituano no Portugal-País de Gales",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/arbitro-lituano-no-portugal-pais-de-gales_d1766997",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T14:26:55+00:00",
-      "summary": "O lituano Donatas Rumsas foi o árbitro escolhido pela UEFA para apitar na quinta-feira o encontro entre Portugal e País de Gales, do arranque da Liga das Nações, anunciou o organismo.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Corinthians atrasa direitos de imagem de agosto e amplia dívidas com elenco",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-atrasa-direitos-de-imagem-de-agosto-e-amplia-dividas-com-elenco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:16:01+00:00",
-      "summary": "Diretoria do Timão não estabeleu prazo para o pagamento aos atletas",
-      "category": "Esportes"
-    },
-    {
-      "title": "15h. António Guterres condena a violência de Israel",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2462/",
+      "title": "A aprovação do Orçamento do Estado está em risco?",
+      "url": "https://observador.pt/programas/e-o-vencedor-e/a-aprovacao-do-orcamento-do-estado-esta-em-risco/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-22T14:15:03+00:00",
-      "summary": "António Guterres discursou na abertura da Assembleia Geral da ONU com duras críticas às guerras no mundo. E ainda neste jornal, Marcelo Rebelo de Sousa lembra Jorge Palma.",
+      "publishedAt": "2026-09-22T18:41:35+00:00",
+      "summary": "As exigências impostas para negociar o documento financeiro geram incerteza na aprovação, mesmo antes de se conhecer a proposta. O apelo para poupar nas deslocações reabre o debate sobre transportes.",
       "category": "Mundo"
     },
     {
-      "title": "Diretora explica ancestralidade e conceito por trás de coroação de Anitta",
-      "url": "https://www.cnnbrasil.com.br/pop/carnaval/diretora-explica-ancestralidade-e-conceito-por-tras-de-coroacao-de-anitta/",
-      "source": "CNN Brasil",
+      "title": "Incêndio atinge área de mata nas proximidades do Porto do São Raimundo, em Manaus; VÍDEO",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/22/incendio-atinge-area-de-mata-nas-proximidades-do-porto-do-sao-raimundo-em-manaus-video.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-22T14:14:37+00:00",
-      "summary": "Nídia Aranha foi responsável por assinar a direção artística da performance apresenta pela cantora durante a final de samba-enredo no último domingo (20)",
+      "publishedAt": "2026-09-22T18:41:09+00:00",
+      "summary": "Um incêndio atingiu uma área de mata nas proximidades do Porto do São Raimundo, na Zona Oeste de Manaus, na tarde desta terça-feira (22). Imagens registradas no local mostram as chamas e uma coluna de fumaça na região. 📲 Participe do canal do g1 AM no WhatsApp Ainda não há informações sobre as causas do incêndio, a ext",
+      "category": "Clima"
+    },
+    {
+      "title": "Quem é João Munhoz Neto, namorado de Isabelle Caracristi preso em Fortaleza",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/22/quem-e-joao-munhoz-neto-namorado-de-isabelle-caracristi-preso-em-fortaleza.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T18:41:09+00:00",
+      "summary": "Quem é João Munhoz Neto, namorado preso suspeito de envolvimento na morte de Isabelle Caracristi. Redes sociais/Reprodução O bacharel em direito, João Munhoz Neto, foi preso, nesta terça-feira (22), em Fortaleza. Ele tinha um relacionamento com Isabelle Caracristi, jovem encontrada morta em um condomínio no último dia ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Zé Neto e Cristiano lamentam morte de cantor Rick, da dupla com Renner: ‘Descanse em paz, ídolo’",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/22/ze-neto-e-cristiano-lamentam-morte-de-cantor-rick-da-dupla-com-renner-descanse-em-paz-idolo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T18:41:02+00:00",
+      "summary": "Imagens mostram destroços do helicóptero que caiu com o cantor Rick em SC A dupla sertaneja Zé Neto e Cristiano, natural de São José do Rio Preto (SP), lamentou a morte do cantor Rick, dupla com Renner, aos 59 anos após a queda de um helicóptero em Santa Catarina. No perfil oficial nas redes sociais, a dupla rio-preten",
       "category": "Cultura"
     },
     {
-      "title": "Vasco entra com pedido por direito de usar Maracanã contra o Boca Juniors",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-entra-com-pedido-por-direito-de-usar-maracana-contra-o-boca-juniors/",
-      "source": "CNN Brasil",
+      "title": "Mulher pede apuração da conduta de PMs após denúncia de racismo em shopping de São Luís",
+      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/22/mulher-pede-apuracao-da-conduta-de-pms-apos-denuncia-de-racismo-em-shopping-de-sao-luis.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-22T14:13:24+00:00",
-      "summary": "Clube carioca tenta liberação junto ao Consórcio Fla-Flu para partida de outubro, válido pela Sul-Americana",
+      "publishedAt": "2026-09-22T18:40:46+00:00",
+      "summary": "Mulher pede apuração da conduta de PMs após denúncia de racismo em shopping de São Luís A defesa de uma mulher que denunciou ter sofrido racismo junto com a filha em um shopping de São Luís pediu à Corregedoria da Polícia Militar do Maranhão (PM-MA) a apuração da conduta dos policiais que atenderam a ocorrência. Segund",
       "category": "Mundo"
     },
     {
-      "title": "Na ONU, Lula critica assentamentos ilegais de Israel na Cisjordânia",
-      "url": "https://www.cnnbrasil.com.br/internacional/na-onu-lula-critica-assentamentos-ilegais-de-israel-na-cisjordania/",
-      "source": "CNN Brasil",
+      "title": "Obras da Ponte do Futuro serão retomadas em outro trecho após acidente que matou trabalhador",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/22/obras-da-ponte-do-futuro-serao-retomadas-em-outro-trecho-apos-acidente-que-matou-trabalhador.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-22T14:13:17+00:00",
-      "summary": "Presidente é o primeiro líder a discursar na Assembleia Geral em Nova York",
+      "publishedAt": "2026-09-22T18:40:13+00:00",
+      "summary": "Desabamento em obra da Ponte do Futuro, na Paraíba, deixa feridos e desaparecido Após um desabamento que causou a morte de um trabalhador, as obras na Ponte do Futuro serão retomadas nesta quarta-feira (23), mas em outro trecho, diferente do ponto onde o acidente ocorreu. A informação foi confirmada pelo consórcio das ",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEO: câmera corporal de PM registra resgate de criança de 6 anos perdida na mata em SP",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/22/video-camera-corporal-de-pm-registra-resgate-de-crianca-de-6-anos-perdida-na-mata-em-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T18:39:11+00:00",
+      "summary": "Câmera de PM registra resgate de criança de 6 anos perdida na mata em SP A câmera corporal de um policial militar registrou o momento em que uma criança de 6 anos foi encontrada em uma área de mata, na noite de sábado (19), na Zona Leste de São Paulo (vídeo acima). Policiais do 28º Batalhão de Polícia Militar Metropoli",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEO: Após boicote da imprensa, Trump faz discurso inaudível por falta de microfone",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/22/video-apos-boicote-da-imprensa-trump-faz-discurso-inaudivel-por-falta-de-microfone.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T18:39:04+00:00",
+      "summary": "Trump faz discurso sem microfone após boicote da imprensa Após um boicote da imprensa americana por conta do veto a veículos, o presidente dos EUA, Donald Trump, realizou um discurso inaudível ao inaugurar um novo heliponto na Casa Branca. Trump fez um pronunciamento aos presentes na últma segunda-feira (21), sem micro",
       "category": "Política"
     },
     {
-      "title": "Aneel aprova edital de leilão transmissão, com investimento de R$ 8,9 bi",
-      "url": "https://www.cnnbrasil.com.br/infra/aneel-aprova-edital-de-leilao-transmissao-com-investimento-de-r-89-bi/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:11:47+00:00",
-      "summary": "Novo certame é destinado à construção, operação e manutenção de instalações integrantes da Rede Básica do SIN (Sistema Interligado Nacional), com sessão pública do leilão em 30 de outubro de 2026",
+      "title": "Diogo Travassos espera sequência de jogos \"desafiante\" para os sub-21 de Portugal",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/diogo-travassos-espera-sequencia-de-jogos-desafiante-para-os-sub-21-de-portugal_d1767078",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:38:42+00:00",
+      "summary": "O defesa Diogo Travassos, que alinha no Sporting de Braga, afirmou esperar hoje uma sequência de jogos “desafiante” para a seleção portuguesa de sub-21 de futebol, garantindo que o grupo é “largo” e está preparado.",
       "category": "Esportes"
     },
     {
-      "title": "Lula na ONU: “Brasil não é quintal de ninguém”",
-      "url": "https://www.cnnbrasil.com.br/internacional/lula-na-onu-brasil-nao-e-quintal-de-ninguem/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:11:16+00:00",
-      "summary": "Ele disse que a América Latina sofre tentativas de influência da potência hegemônica, em referência aos EUA, e disse que o Brasil não é quintal de ninguém.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Banca \"robusta\" mas não devemos \"tomar isso como garantido\"",
-      "url": "https://observador.pt/2026/09/22/banca-esta-numa-situacao-robusta-e-resiliente-mas-isso-nao-pode-ser-tomado-como-garantido-avisa-alvaro-santos-pereira/",
+      "title": "Lusa. Transparência não avança com queixa contra Frazão",
+      "url": "https://observador.pt/2026/09/22/comissao-de-transparencia-rejeita-inquerito-a-deputado-do-chega-que-ameacou-jornalistas-e-encerramento-da-agencia-lusa/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-22T14:09:14+00:00",
-      "summary": "Álvaro Santos Pereira tomou posse como governador do Banco de Portugal a 6 de outubro de 2025",
+      "publishedAt": "2026-09-22T18:38:17+00:00",
+      "summary": "Num vídeo divulgado nas redes sociais, o deputado e vice-presidente da Direção Nacional do Chega, Pedro Frazão, insultou a integridade dos jornalistas da Lusa na elaboração de textos jornalísticos e ameaçou perseguir os profissionais",
+      "category": "Política"
+    },
+    {
+      "title": "Mara Pavanelly é anunciada como atração no aniversário de 112 anos de Porto Velho",
+      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/09/22/mara-pavanelly-e-anunciada-como-atracao-no-aniversario-de-112-anos-de-porto-velho.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T18:37:33+00:00",
+      "summary": "Prefeitura de Porto Velho anuncia pacote de medidas para aniversário da capital O prefeito de Porto Velho, Léo Moraes (Podemos), anunciou nesta terça-feira (22), nas redes sociais, a cantora Mara Pavanelly como uma das atrações do aniversário de 112 anos da capital. A comemoração será realizada no dia 2 de outubro. Mar",
+      "category": "Política"
+    },
+    {
+      "title": "Governador lamenta morte de Rick e decreta luto de três dias no Tocantins",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/22/governador-lamenta-morte-de-rick-e-decreta-luto-de-tres-dias-no-tocantins.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T18:31:52+00:00",
+      "summary": "Bombeiros confirmam que não há sobreviventes em queda de helicóptero com o cantor Rick O governador do Tocantins, Wanderlei Barbosa, decretou luto oficial de três dias no estado pela morte do tocantinense Rick, da dupla com Renner. Foram encontrados os destroços do helicóptero em que ele estava com outras quatro pessoa",
+      "category": "Cultura"
+    },
+    {
+      "title": "Veja última apresentação de Rick & Renner em São Paulo antes de acidente",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/22/veja-ultima-apresentacao-de-rick-and-renner-em-sao-paulo-antes-de-acidente.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T18:31:25+00:00",
+      "summary": "Veja último show de Rick & Renner em SP antes de acidente O cantor Rick, 59 anos, que fazia dupla com Renner, se apresentou em São Paulo pela última vez no dia 11 de setembro, em uma casa noturna na capital paulista. No vídeo, o cantor aparece de roupa branca, barba e óculos escuros ao lado do seu amigo e da banda que ",
+      "category": "Cultura"
+    },
+    {
+      "title": "18h Trump deixa ultimato ao Irão na ONU",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-trump-deixa-ultimato-ao-irao-na-onu_a1_1767077",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:31:02+00:00",
+      "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Cães-selvagens estabelecem recorde ao percorrer quase 4 mil quilômetros em busca de parceiros",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/caes-selvagens-estabelecem-recorde-ao-percorrer-quase-4-mil-quilometros-em-busca-de-parceiros/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:07:21+00:00",
-      "summary": "Espécie foi monitorada por pesquisadores que analisam o comportamento desses animais em meio a áreas preservadas do continente africano",
-      "category": "Ciência & Tech"
+      "title": "SJ: estatutos da Lusa \"feridos de ilegalidade\"",
+      "url": "https://observador.pt/2026/09/22/sindicato-dos-jornalistas-diz-que-estatutos-da-lusa-estao-feridos-de-ilegalidade/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:30:26+00:00",
+      "summary": "Segundo Luís Filipe Simões, Portugal corre o risco de enfrentar um procedimento de infração pela eventual violação do direito europeu em matéria de liberdade de imprensa",
+      "category": "Economia"
     },
     {
-      "title": "Lula diz que credibilidade da ONU “nunca esteve tão baixa”",
-      "url": "https://www.cnnbrasil.com.br/internacional/lula-diz-que-credibilidade-da-onu-nunca-esteve-tao-baixa/",
-      "source": "CNN Brasil",
+      "title": "PCP usa meme do Pingo Doce para atacar distribuição",
+      "url": "https://observador.pt/2026/09/22/o-que-vai-no-carrinho-do-pingo-doce-paulo-raimundo-acusa-grande-distribuicao-de-recorrer-a-mesma-choradeira-para-nao-aumentar-salarios/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:30:09+00:00",
+      "summary": "Paulo Raimundo intervinha no final de uma audição promovida pelo PCP com trabalhadores do setor do comércio sobre salários, direitos e horários, realizada no Centro de Trabalho Vitória, em Lisboa",
+      "category": "Mundo"
+    },
+    {
+      "title": "Morte de aluno em Leiria: acordo na ação cível",
+      "url": "https://observador.pt/2026/09/22/acordo-poe-fim-ao-processo-civel-da-morte-de-aluno-apos-queda-de-baliza-em-colegio-de-leiria/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:29:24+00:00",
+      "summary": "O aluno, de 15 anos, que frequentava o 9.º ano, morreu a 25 de maio de 2021, na sequência da queda de uma baliza na aula de educação física",
+      "category": "Mundo"
+    },
+    {
+      "title": "Bancários convocam greve para 30 de novembro em protesto por aumentos de 2%",
+      "url": "https://www.rtp.pt/noticias/economia/bancarios-convocam-greve-para-30-de-novembro-em-protesto-por-aumentos-de-2_n1767064",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:29:20+00:00",
+      "summary": "O Sindicato Nacional dos Quadros e Técnicos Bancários (SNQTB) decidiu lançar um pré-aviso de greve para 30 de novembro, em conjunto com outras ações junto das sedes dos bancos, em protesto pela da proposta de aumentos de 2%.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Produtor rural fica ferido após ser atropelado pela própria caminhonete no ES",
+      "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/09/22/produtor-rural-fica-ferido-apos-ser-atropelado-pela-propria-caminhonete-no-es.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-22T14:06:59+00:00",
-      "summary": "Presidente é o primeiro líder da discursar na Assembleia Geral",
+      "publishedAt": "2026-09-22T18:29:19+00:00",
+      "summary": "Produtor rural fica ferido após ser atropelado pela própria caminhonete no ES Um produtor rural de 72 ficou gravemente ferido após ser atropelada pela própria caminhonete em um cafezal, na manhã desta segunda-feira (21). O acidente ocorreu na zona rural de Ibatiba, na Região Sul do Espírito Santo. Segundo a Polícia Mil",
+      "category": "Mundo"
+    },
+    {
+      "title": "Aguiar-Branco mais perto de aprovar inquérito a Neves",
+      "url": "https://observador.pt/especiais/aguiar-branco-mais-perto-de-aprovar-inquerito-a-neves-mas-aspetos-tecnicos-estao-em-analise/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:29:18+00:00",
+      "summary": "Serviços jurídicos estão a analisar últimos aspetos antes de enviarem avaliação a Aguiar-Branco. Alterações prometidas por Ventura têm a ver com casos específicos ocorridos dentro da PJ.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Lusa: elemento político \"desvirtua\" critérios editoriais",
+      "url": "https://observador.pt/2026/09/22/direcao-de-informacao-da-lusa-avisa-que-ter-elemento-politico-desvirtua-logica-dos-criterios-editoriais/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:28:55+00:00",
+      "summary": "A diretora da Lusa falava durante uma audição da Direção de Informação - que integra também Nuno Simas e Maria de Deus Rodrigues - na Comissão de Cultura, Comunicação, Juventude e Desporto",
+      "category": "Cultura"
+    },
+    {
+      "title": "Ébola mata mais de 60% das crianças pequenas na RDCongo",
+      "url": "https://observador.pt/2026/09/22/criancas-com-menos-de-5-anos-na-rdcongo-com-maior-taxa-de-mortalidade-por-ebola/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:28:26+00:00",
+      "summary": "O atual episódio de Ébola na RDCongo é já o mais mortífero da História do país, superando o registado entre 2018 e 2020, segundo os dados da OMS",
+      "category": "Mundo"
+    },
+    {
+      "title": "Figueira da Foz tem novo Julgado de Paz",
+      "url": "https://observador.pt/2026/09/22/governo-cria-julgado-de-paz-da-figueira-da-foz-que-ja-tem-instalacoes-para-funcionar/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:28:04+00:00",
+      "summary": "O processo para a instalação do Julgado de Paz iniciou-se em 2022 e em janeiro de 2024 foi assinado o acordo entre a Câmara e o ministério da Justiça",
       "category": "Política"
     },
     {
-      "title": "Lula volta a defender mudanças no Conselho de Segurança da ONU",
-      "url": "https://www.cnnbrasil.com.br/internacional/lula-volta-a-defender-mudancas-no-conselho-de-seguranca-da-onu/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:06:52+00:00",
-      "summary": "Presidente brasileiro discursou na abertura da Assembleia Geral em Nova York",
-      "category": "Política"
-    },
-    {
-      "title": "Saiba por que Ronaldo Fenômeno comemora “dois aniversários”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/saiba-por-que-ronaldo-fenomeno-comemora-dois-aniversarios/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:05:00+00:00",
-      "summary": "Ídolo da Seleção Brasileira celebra 50 anos em \"uma semana de muita comemoração\"; data de aniversário do ex-jogador causa confusão",
+      "title": "Champions feminina. Juventus - Benfica",
+      "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/champions-feminina-juventus-benfica_d1767073",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T18:27:55+00:00",
+      "summary": "O Benfica visita a Juventus, em partida da primeira jornada da fase de liga da Liga dos Campeões feminina, no Juventus Stadium, e arbitragem da finlandesa Lina Lehtovaara.",
       "category": "Esportes"
     },
     {
-      "title": "Ludfor compra fatia de 6% em projeto hidrelétrico no Rio Grande do Sul",
-      "url": "https://www.cnnbrasil.com.br/infra/ludfor-compra-fatia-de-6-em-projeto-hidreletrico-no-rio-grande-do-sul/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:04:27+00:00",
-      "summary": "Companhia deve aportar entre R$ 25 milhões e R$ 30 milhões no empreendimento que exigirá investimento total de R$ 420 milhões e terá contratos de venda de energia por 20 anos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Presidente dos EUA cria a Trump TV",
-      "url": "https://www.rtp.pt/noticias/mundo/presidente-dos-eua-cria-a-trump-tv_v1766992",
+      "title": "Idanha-a-Nova diz que reformulação do projeto solar Sophia é uma ilusão de cedência",
+      "url": "https://www.rtp.pt/noticias/economia/idanha-a-nova-diz-que-reformulacao-do-projeto-solar-sophia-e-uma-ilusao-de-cedencia_n1767050",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-22T14:03:50+00:00",
-      "summary": "Se as televisões não fazem a cobertura diária da agenda de Donald Trump, o presidente do Estados Unidos cria um novo canal. Chama-se Trump TV.",
+      "publishedAt": "2026-09-22T18:25:28+00:00",
+      "summary": "A Câmara Municipal de Idanha-a-Nova disse hoje que a reformulação do projeto da central solar Sophia é uma ilusão de cedência e reafirmou que o concelho não está à venda.",
       "category": "Política"
     },
     {
-      "title": "Governo garante que Juntas de Freguesia recebem \"em breve\" telefones SIRESP",
-      "url": "https://www.rtp.pt/noticias/pais/governo-garante-que-juntas-de-freguesia-recebem-em-breve-telefones-siresp_v1766991",
+      "title": "Seguro recebido pelo Papa Leão XIV no Vaticano na quinta-feira",
+      "url": "https://www.rtp.pt/noticias/mundo/seguro-recebido-pelo-papa-leao-xiv-no-vaticano-na-quinta-feira_n1767048",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-22T14:02:47+00:00",
-      "summary": "O ministro da Economia garante que todas as Juntas de Freguesia vão receber em breve os telefones Siresp, prometidos depois da tempestade Kristin.",
+      "publishedAt": "2026-09-22T18:24:40+00:00",
+      "summary": "O Presidente da República, António José Seguro, vai viajar na quarta-feira para Roma, para uma visita oficial ao Vaticano, onde será recebido pelo Papa Leão XIV na quinta-feira de manhã.",
       "category": "Política"
     },
     {
-      "title": "Lula discursa na Assembleia Geral da ONU; acompanhe",
-      "url": "https://www.cnnbrasil.com.br/internacional/lula-discurso-assembleia-geral-onu-2026/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T14:02:10+00:00",
-      "summary": "Tradição das Nações Unidas estabelece que presidente brasileiro inicia os discursos no púlpito de mármore, em Nova York; soberania nacional entra em pauta no discurso",
-      "category": "Política"
-    },
-    {
-      "title": "Velório de Jorge Palma aberto a todos e funeral restrito",
-      "url": "https://observador.pt/2026/09/22/velorio-de-jorge-palma-aberto-a-todos-e-funeral-restrito-aos-mais-proximos/",
+      "title": "Sebastião Bugalho está de regresso à CNN Portugal",
+      "url": "https://observador.pt/2026/09/22/sebastiao-bugalho-esta-de-regresso-a-cnn-portugal/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-22T14:02:06+00:00",
-      "summary": "O velório realiza-se na Voz do Operário, em Lisboa, na quarta-feira, entre as 15h e as 22h. Cremação fica reservada à família e amigos próximos.",
+      "publishedAt": "2026-09-22T18:16:40+00:00",
+      "summary": "Porta-voz do PSD será testado semanalmente. Sebastião Bugalho regressa à televisão (de forma fixa) para fazer defesa da honra do Governo e do partido. CNN terá mais novidades em breve.",
+      "category": "Política"
+    },
+    {
+      "title": "Fux vai relatar ação sobre idas da esposa de Moraes ao Senado",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fux-vai-relatar-acao-sobre-idas-da-esposa-de-moraes-ao-senado",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T17:46:00+00:00",
+      "summary": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), foi sorteado nesta terça-feira (22) para relatar a ação que pede acesso a eventuais registros de entrada e saída no Senado da advogada Viviane Barci, mulher do ministro Alexandre de Moraes, e do ex-banqueiro Daniel Vorcaro. O sorteio da relatoria foi determinado p",
+      "category": "Política"
+    },
+    {
+      "title": "Na ONU, Trump ameaça novamente usar força militar na América Latina",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/na-onu-trump-ameaca-novamente-usar-forca-militar-na-america-latina",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T17:31:00+00:00",
+      "summary": "Em discurso de quase 40 minutos na sede das Nações Unidas (ONU), o presidente dos Estados Unidos (EUA) Donald Trump voltou a fazer ameaças de uso da força militar em países da América Latina e Caribe para garantir os interesses da Casa Branca na região. “Nossas ações na Venezuela provam que os EUA não permitirão mais q",
+      "category": "Política"
+    },
+    {
+      "title": "Guia do Enem reúne orientações e métodos de estudo para provas",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/guia-do-enem-traz-orientacoes-e-metodos-de-estudo-para-provas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T16:37:00+00:00",
+      "summary": "A 47 dias para aplicação das provas do primeiro dia do Exame Nacional do Ensino Médio (Enem) 2026, em 8 de novembro, os inscritos podem conferir orientações oficiais sobre as provas, tutoriais de preparação para o exame e cronogramas de todo o processo em um único site - o Guia do Enem - lançado pelo Ministério da Educ",
       "category": "Mundo"
+    },
+    {
+      "title": "Bombeiros encontram helicóptero com corpo do cantor Rick",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bombeiros-encontram-helicoptero-com-corpo-do-cantor-rick",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T16:03:00+00:00",
+      "summary": "Os bombeiros de Santa Catarina encontraram nesta terça-feira (22), por volta das 12h, na Serra Catarinense (SC), os destroços do helicóptero no qual viajava o cantor Rick, da dupla Rick e Renner. Havia cinco pessoas a bordo e não há sobreviventes. Notícias relacionadas: Renner pede orações para que parceiro Rick seja l",
+      "category": "Cultura"
+    },
+    {
+      "title": "\"O Brasil não cabe no quintal de ninguém”, diz Lula em discurso na ONU",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/o-brasil-nao-cabe-no-quintal-de-ninguem-diz-lula-na-onu",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T15:10:00+00:00",
+      "summary": "O presidente Luiz Inácio Lula da Silva voltou a defender a soberania dos países, citando especificamente os cenários da América Latina e do Brasil, onde, segundo o presidente, há tentativas de influência estrangeira sobre processos políticos nacionais. Lula disse que a região da América Latina e do Caribe convive com p",
+      "category": "Política"
+    },
+    {
+      "title": "Sobe para quatro o número de mortos em decorrência dos temporais no RS",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/sobe-para-quatro-o-numero-de-mortos-em-decorrencia-dos-temporais-no-rs",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T14:53:00+00:00",
+      "summary": "O estado do Rio Grande do Sul já registra quatro mortes decorrentes do forte temporal que atingiu o estado nesta segunda-feira (21), sendo três vítimas em Caxias do Sul e uma em Pelotas. As informações são da Defesa Civil estadual . A primeira morte registrada foi de um motociclista, atingido pela queda de fios de alta",
+      "category": "Clima"
+    },
+    {
+      "title": "Arrecadação federal ultrapassa R$ 2 trilhões em oito meses",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/arrecadacao-federal-ultrapassa-r-2-trilhoes-em-oito-meses",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T14:41:00+00:00",
+      "summary": "O governo federal acumula arrecadação de R$ 2,019 trilhões, de janeiro a agosto de 2026, segundo dados divulgados nesta terça-feira (22) pela Receita Federal . Além da inflação medida pelo IPCA , para o período, o valor representa crescimento de 7,12% na comparação com os mesmos oito meses de 2025. Em agosto, a arrecad",
+      "category": "Política"
+    },
+    {
+      "title": "ONU vive momento crítico, diz Lula ao citar indignação com guerras",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-vive-momento-critico-diz-lula-ao-citar-indignacao-com-guerras",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T14:36:00+00:00",
+      "summary": "O presidente Luiz Inácio Lula da Silva disse nesta terça-feira (22) que a Organização das Nações Unidas (ONU) vive, desde 2003, seu momento mais crítico. “A ONU está falhando em uma de suas missões mais elevadas: a de livrar a humanidade do flagelo da guerra. Sua credibilidade nunca esteve tão baixa”. “O sentimento que",
+      "category": "Política"
     },
     {
       "title": "Temporais provocam duas mortes e afetam mais de 527 mil pessoas no RS",
@@ -371,24 +407,6 @@
       "category": "Clima"
     },
     {
-      "title": "Procurador propõe nova diligência para esclarecer vítimas",
-      "url": "https://observador.pt/2026/09/22/violencia-domestica-procurador-propoe-nova-diligencia-obrigatoria-para-esclarecer-vitimas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T14:01:54+00:00",
-      "summary": "\"Acho que há uma prática judiciária genericamente errada na aplicação da suspensão provisória do processo\", disse o Rui Carmo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Zelensky é um dos líderes mundiais que vão participar na Assembleia da ONU",
-      "url": "https://www.rtp.pt/noticias/mundo/zelensky-e-um-dos-lideres-mundiais-que-vao-participar-na-assembleia-da-onu_v1766990",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T13:58:52+00:00",
-      "summary": "O Presidente ucraniano já está em Nova Iorque e nos próximos dias vai desdobrar-se em reuniões. Mal chegou foi ter com Emmanuel Macron e para esta tarde tem agendado um encontro com Donald Trump.",
-      "category": "Política"
-    },
-    {
       "title": "Secretário-geral da ONU alerta para avanço de guerras e riscos da IA",
       "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/secretario-geral-da-onu-alerta-para-avanco-de-guerras-e-riscos-da-ia",
       "source": "Agência Brasil",
@@ -396,132 +414,6 @@
       "publishedAt": "2026-09-22T13:57:00+00:00",
       "summary": "O secretário-geral da Organização das Nações Unidas (ONU), António Guterres, abriu a 81ª assembleia geral da entidade nesta terça-feira (22) alertando para o avanço de conflitos e guerras, para ataques contra civis e trabalhadores humanitários e para o aprofundamento de divisões geopolíticas. “Nosso futuro será moldado",
       "category": "Ciência & Tech"
-    },
-    {
-      "title": "Portugal: 1,6 milhões de estrangeiros; 1/3 são brasileiros",
-      "url": "https://observador.pt/2026/09/22/brasileiros-sao-quase-um-terco-dos-158-milhoes-de-estrangeiros-em-portugal-crescimento-abranda-face-a-anos-anteriores-diz-aima/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T13:56:39+00:00",
-      "summary": "Angolanos ultrapassaram indianos e italianos são mais do que os imigrantes vindos de São Tomé e Príncipe e Paquistão",
-      "category": "Esportes"
-    },
-    {
-      "title": "Jornalista Zuenir Ventura morre aos 95 anos",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/jornalista-zuenir-ventura-morre-aos-95-anos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T13:49:00+00:00",
-      "summary": "O jornalista Zuenir Ventura, de 95 anos, morreu na manhã desta terça-feira (22), em casa, em decorrência de uma pneumonia. A informação foi divulgada pela Academia Brasileira de Letras (ABL). Ventura era acadêmico da ABL desde 2015, como sucessor do escritor Ariano Suassuna. Nascido em 1931, em Além Paraíba (MG), ele e",
-      "category": "Mundo"
-    },
-    {
-      "title": "Escritor e jornalista José Viale Moutinho morre aos 81 anos",
-      "url": "https://observador.pt/2026/09/22/escritor-e-jornalista-jose-viale-moutinho-morre-aos-81-anos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T13:48:06+00:00",
-      "summary": "O velório realiza-se esta terça-feira, a partir das 19h00, no Tanatório de Matosinhos. O funeral terá lugar na quarta-feira, às 15h30, no mesmo local",
-      "category": "Mundo"
-    },
-    {
-      "title": "Inteligência Artificial. Já começou a Lisbon AI Week",
-      "url": "https://observador.pt/2026/09/22/a-ia-vai-tirar-lugar-aos-mais-novos-em-lisboa-discutiu-se-o-problema-e-pos-se-uma-geracao-a-prova/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T13:43:44+00:00",
-      "summary": "A Lisbon AI Week já começou com debates e experiências sobre Inteligência Artificial. Nesta segunda-feira falou-se do futuro dos media e houve jovens desafiados a resolver problemas com IA.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "União Europeia multa Google por uso indevido de dados de localização",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/uniao-europeia-multa-google-em-403-milhoes-de-euros",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T13:43:00+00:00",
-      "summary": "A principal autoridade reguladora de proteção de dados da União Europeia (UE) multou o Google em 403 milhões de euros, após uma investigação sobre o tratamento de dados de localização. A empresa alega que suas políticas já foram atualizadas. Notícias relacionadas: AGU notifica Google para remover perfis que promovem ap",
-      "category": "Economia"
-    },
-    {
-      "title": "Renner pede orações para que parceiro Rick seja localizado",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/renner-pede-oracoes-para-que-parceiro-rick-seja-localizado",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T13:30:00+00:00",
-      "summary": "O cantor Renner usou das redes sociais nesta manhã de terça-feira (21) para pedir orações ao parceiro, Rick. O helicóptero em que Rick embarcou, com outras três pessoas, está desaparecido desde a tarde dessa segunda-feira (21). A aeronave fazia o percurso entre as cidades de Porto Belo (região litorânea) e de São Joaqu",
-      "category": "Cultura"
-    },
-    {
-      "title": "Será o novo selecionador capaz de preparar a seleção a te...",
-      "url": "https://observador.pt/programas/e-o-campeao-e/sera-o-novo-selecionador-capaz-de-preparar-a-selecao-a-tempo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T13:27:39+00:00",
-      "summary": "Após receber um prémio de prestígio, o recém-nomeado treinador tem poucos dias para preparar o próximo jogo. A estratégia passa por conversas e pela experiência de atletas que já conhecem a sua ideia",
-      "category": "Esportes"
-    },
-    {
-      "title": "14h. PS quer explicações sobre apelo para poupar combustível",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2481/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T13:18:04+00:00",
-      "summary": "O PS quer saber se o apelo da ministra do Ambiente para poupar combustível se deve ao ambiente ou ao risco de escassez. E ainda neste jornal, a homenagem a Jorge Palma.",
-      "category": "Economia"
-    },
-    {
-      "title": "Ata do Copom atribui corte da Selic à desaceleração da economia",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ata-do-copom-atribui-corte-da-selic-desaceleracao-da-economia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T13:05:00+00:00",
-      "summary": "A desaceleração da atividade econômica, da inflação e os efeitos dos juros elevados sobre o crédito e a demanda levaram o Comitê de Política Monetária (Copom) do Banco Central a reduzir a taxa Selic em 0,25 ponto percentual, de 14% para 13,75% ao ano . As justificativas constam da ata da reunião divulgada nesta terça-f",
-      "category": "Economia"
-    },
-    {
-      "title": "\"Crise na PJ só beneficia os criminosos”",
-      "url": "https://observador.pt/programas/justica-cega/crise-na-pj-so-beneficia-os-criminosos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T12:50:54+00:00",
-      "summary": "Luís Rosa e Paulo Saragoça da Matta analisam a crise na PJ, com o inquérito a Carlos Cabreiro e a CPI do Chega a Luís Neves em destaque no primeiro episódio da nova temporada do Justiça Cega.",
-      "category": "Clima"
-    },
-    {
-      "title": "Defesa Civil alerta para risco muito alto de inundação do Taquari",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-alerta-para-risco-muito-alto-de-inundacao-do-taquari",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T12:40:00+00:00",
-      "summary": "A Defesa Civil do Rio Grande do Sul anunciou alerta de risco muito alto, com vigência até as 6h40 desta quarta-feira (23), para inundação no Rio Taquari, entre Venâncio Aires e General Câmara. Nesse grau de severidade de alerta, o órgão orienta que a população busque abrigo ou permaneça em locais de segurança até cessa",
-      "category": "Política"
-    },
-    {
-      "title": "Estudante abre fogo do lado de fora de escola na Turquia",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/estudante-abre-fogo-do-lado-de-fora-de-escola-na-turquia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T12:37:00+00:00",
-      "summary": "Um estudante abriu fogo em frente à sua escola de ensino médio na província de Manisa, no oeste da Turquia, na madrugada desta terça-feira (22), ferindo pelo menos 11 alunos, informou o ministro da Justiça, Akin Gurlek. Dois dos feridos estavam em estado crítico, disse Gurlek. O agressor foi capturado e sua mãe, seu pa",
-      "category": "Política"
-    },
-    {
-      "title": "Confira a agenda dos presidenciáveis nesta terça-feira (22)",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-terca-feira-22",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T12:08:00+00:00",
-      "summary": "A agenda dos presidenciáveis nesta terça-feira (22) inclui caminhadas, carreatas e atos de campanha, além de entrevistas e participação em podcasts e sabatina. Também estão previstas visita a igreja, inauguração de comitê, plenária de mobilização e reunião com lideranças políticas. Augusto Cury (Avante) Participa de vi",
-      "category": "Mundo"
-    },
-    {
-      "title": "Maior violonista brasileiro, Dilermando Reis influenciou gerações",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/maior-violonista-brasileiro-dilermando-reis-influenciou-geracoes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T12:02:00+00:00",
-      "summary": "Violonista, compositor e arranjador, Dilermando Reis nasceu na cidade paulista de Guaratinguetá em 22 de setembro de 1916. Filho de violonista, aprendeu tocar ainda criança. Aos 18 anos se mudou para o Rio de Janeiro, onde iniciou a vida profissional como professor em lojas de instrumentos. Em 1935, Dilermando começou ",
-      "category": "Mundo"
     }
   ],
   "sources": [
@@ -531,5 +423,10 @@
     "Observador",
     "RTP Notícias"
   ],
-  "failures": []
+  "failures": [
+    {
+      "source": "CNN Brasil",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
 }
