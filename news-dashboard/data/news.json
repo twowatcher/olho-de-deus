@@ -1,6 +1,492 @@
 {
-  "updatedAt": "2026-09-21T21:02:09.938706+00:00",
+  "updatedAt": "2026-09-22T00:04:27.603178+00:00",
   "items": [
+    {
+      "title": "Morreu o músico Jorge Palma aos 76 anos",
+      "url": "https://www.rtp.pt/noticias/cultura/morreu-o-musico-jorge-palma-aos-76-anos_n1766893",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T00:59:45+00:00",
+      "summary": "Morreu Jorge Palma, um dos maiores nomes da música portuguesa. O cantor e compositor faleceu aos 76 anos, deixando uma obra que atravessou gerações e marcou a história da canção nacional. Uma carreira de mais de cinco décadas, feita de canções que passaram a fazer parte da memória coletiva dos portugueses.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Presidente iraniano vai participar na assembleia-geral da ONU",
+      "url": "https://www.rtp.pt/noticias/mundo/presidente-iraniano-vai-participar-na-assembleia-geral-da-onu_v1766890",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T00:26:47+00:00",
+      "summary": "O presidente do Irão vai participar na Assembleia Geral das Nações Unidas que decorre em Nova Iorque. A informação foi avançada por Teerão, mas os Estados Unidos ainda não confirmaram a entrada de Masoud Pezeshkian no país.",
+      "category": "Política"
+    },
+    {
+      "title": "Centenas de bombeiros combatem incêndio em Arcos de Valdevez",
+      "url": "https://www.rtp.pt/noticias/pais/centenas-de-bombeiros-combatem-incendio-em-arcos-de-valdevez_v1766888",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T00:13:47+00:00",
+      "summary": "Quase 300 bombeiros combatem um incêndio em Arcos de Valdevez, no distrito de Viana do Castelo. O fogo arde em zona de mato.",
+      "category": "Clima"
+    },
+    {
+      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 21 de setembro de 2026",
+      "url": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-21-de-setembro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:57:32+00:00",
+      "summary": "Reveja os vídeos do telejornal.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Eduardo Braide apresenta propostas para juventude e fala em gerar empregos e ampliar tecnologia no MA",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/eduardo-braide-apresenta-propostas-para-juventude-e-fala-em-gerar-empregos-e-ampliar-tecnologia-no-ma.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:57:16+00:00",
+      "summary": "Saiba como foi o dia do candidato Eduardo Braide ao governo do Maranhão O candidato Eduardo Braide (PSD) realizou campanha, nesta segunda-feira (21), em Balsas, no Sul do Maranhão. Ele participou de uma carreata pelas ruas da cidade, cumprimentou moradores e apoiadores e apresentou propostas voltadas para oportunidades",
+      "category": "Política"
+    },
+    {
+      "title": "Polícia investiga denúncia de assédio sexual durante exame em clínica de Sumaré",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/21/policia-investiga-denuncia-de-assedio-sexual-durante-exame-em-clinica-de-sumare.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:56:11+00:00",
+      "summary": "Imagem de arquivo da DDM de Sumaré Évelin Costa/EPTV A Polícia Civil investiga uma denúncia de assédio sexual registrada por uma mulher de 37 anos contra um médico de 50 anos em uma clínica na região central de Sumaré (SP), na manhã desta segunda-feira (21). De acordo com o boletim de ocorrência, a paciente procurou a ",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "23h Presidente da AIMA está de saída vai para a Autoridade para a Concorrência",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-presidente-da-aima-esta-de-saida-vai-para-a-autoridade-para-a-concorrencia_a1_1766887",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:56:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "'Torcendo para que nada tenha acontecido', diz Cury após conselheiro de campanha desaparecer a bordo de helicóptero com cantor Rick",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/augusto-cury-conselheiro-campanha-helicoptero-desaparecido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:53:33+00:00",
+      "summary": "Rick postou encontro com empresário Bruno Avelar em aeroporto Candidato à Presidência pelo Avante, Augusto Cury publicou um vídeo em suas redes sociais demonstrando preocupação com o desaparecimento do helicóptero em que está um de seus conselheiros de campanha, o empresário Bruno Avelar, na tarde desta segunda-feira (",
+      "category": "Cultura"
+    },
+    {
+      "title": "Resultados das Loterias Caixa",
+      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:53:31+00:00",
+      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio em escola estadual mobiliza Corpo de Bombeiros em Jacareí",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/21/incendio-em-escola-estadual-mobiliza-corpo-de-bombeiros-em-jacarei.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:53:28+00:00",
+      "summary": "Um incêndio atingiu uma sala de aula da Escola Estadual Olívia do Amaral Santos Canettieri, no Parque Meia Lua, em Jacareí (SP), na noite desta segunda-feira (21). O Corpo de Bombeiros informou que o fogo ficou concentrado em uma sala de aproximadamente 30 metros quadrados. O foco do incêndio foi um armário que armazen",
+      "category": "Clima"
+    },
+    {
+      "title": "Gravações, reuniões e visita à obra: veja como foi o dia dos candidatos ao governo da Paraíba",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/gravacoes-reunioes-e-visita-a-obra-veja-como-foi-o-dia-dos-candidatos-ao-governo-da-paraiba.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:48:59+00:00",
+      "summary": "Candidatos a governador da Paraíba em 2026 Reprodução/TV Cabo Branco Os candidatos ao governo da Paraíba cumpriram agenda em diferentes cidades, nesta sexta-feira (18), durante mais um dia de campanha. Entre os compromissos dos candidatos, estiveram entrevistas, caminhadas e sabatinas. O primeiro turno de votação será ",
+      "category": "Política"
+    },
+    {
+      "title": "Candidatos ao Governo de MT cumprem agendas nesta segunda-feira (21)",
+      "url": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/21/candidatos-ao-governo-de-mt-cumprem-agendas-nesta-segunda-feira-21.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:47:45+00:00",
+      "summary": "Candidatos ao Governo de Mato Grosso Montagem/g1 Os candidatos ao Governo de Mato Grosso cumpriram, nesta quinta-feira (), agendas de campanha em diferentes locais. Ao todo, o estado tem seis candidatos registrados no Tribunal Superior Eleitoral (TSE) para disputar as eleições de 2026. Candidatos ao Governo de Mato Gro",
+      "category": "Política"
+    },
+    {
+      "title": "Felipe Camarão destaca educação e emprego como prioridades para juventude no Maranhão",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/felipe-camarao-destaca-educacao-e-emprego-como-prioridades-para-juventude-no-maranhao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:47:22+00:00",
+      "summary": "Saiba como foi o dia do candidato Felipe Camarão ao governo do Maranhão O candidato Felipe Camarão (PT) participou, nesta segunda-feira (21), da entrevista do JM1 e respondeu a perguntas feitas por 32 estudantes maranhenses dos ensinos médio e superior. 📲 Clique aqui e se inscreva no canal do g1 Maranhão no WhatsApp Du",
+      "category": "Política"
+    },
+    {
+      "title": "Moraes se declara impedido para atuar em ação que pede informações ao Senado sobre visitas de sua esposa e de Vorcaro",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-para-atuar-em-acao-que-pede-informacoes-ao-senado-sobre-visitas-de-sua-esposa-e-de-vorcaro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:46:30+00:00",
+      "summary": "Ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes Gustavo Moreno/STF O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou impedido para atuar como relator de um mandado de segurança que busca obrigar o Senado a divulgar informações entrada e saída de pessoas, incluindo sua esposa,",
+      "category": "Política"
+    },
+    {
+      "title": "Morreu Jorge Palma. Cantor e compositor tinha 76 anos",
+      "url": "https://observador.pt/2026/09/22/morreu-jorge-palma-um-dos-maiores-nomes-da-musica-portuguesa-cantor-e-compositor-tinha-76-anos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:46:24+00:00",
+      "summary": "A família anunciou a morte do músico, ocorrida na segunda-feira à noite, vítima de paragem cardiorrespiratória. Tinha uma carreira de mais de meio século.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Eleições 2026 na Bahia: confira como foi a agenda de campanha dos candidatos nesta segunda-feira",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/21/agenda-dos-candidatos-ao-governo-da-bahia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:45:42+00:00",
+      "summary": "Confira a agenda dos candidatos a governador da Bahia nesta segunda-feira Os candidatos ao governo da Bahia cumpriram compromissos de campanha nesta segunda-feira (21). Entre as atividades do dia, estão reuniões, gravações, caminhada e panfletagens, na capital baiana. 📲 Clique aqui e entre no grupo do WhatsApp do g1 Ba",
+      "category": "Política"
+    },
+    {
+      "title": "Jovem morre após ser golpeado com tesoura e faca durante festa",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/21/jovem-morre-apos-ser-golpeado-com-tesoura-e-faca-durante-festa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:45:30+00:00",
+      "summary": "Briga termina em morte em Auriflama Um jovem de 19 anos morreu na tarde de segunda-feira (21) após ser atingido por golpes de tesoura e faca durante uma briga em uma festa em Auriflama (SP). Segundo a polícia, a briga generalizada ocorreu na madrugada de domingo (20) na zona rural da cidade. Um vídeo gravado por freque",
+      "category": "Esportes"
+    },
+    {
+      "title": "Helicóptero desaparece com cantor Rick: o que sabemos até agora",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/helicoptero-desaparece-com-cantor-rick-o-que-sabemos-ate-agora/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:39:08+00:00",
+      "summary": "Artista da dupla Rick & Renner e o fundador do 'Poder do Network' Bruno Avelar estavam na aeronave",
+      "category": "Cultura"
+    },
+    {
+      "title": "Índice de aprovação de Trump cai para mínimo histórico",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/indice-de-aprovacao-de-trump-cai-para-minimo-historico_n1766886",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:30:33+00:00",
+      "summary": "É o mais baixo da carreira política de Donald Trump: o índice de aprovação do presidente dos Estados Unidos caiu para os 32 por cento, segundo um estudo da Reuters.",
+      "category": "Política"
+    },
+    {
+      "title": "AGU aciona STF para que Marco Buzzi perca cargo de ministro do STJ",
+      "url": "https://www.cnnbrasil.com.br/politica/agu-aciona-stf-para-que-marco-buzzi-perca-cargo-de-ministro-do-stj/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:29:27+00:00",
+      "summary": "Magistrado é alvo de duas acusações de assédio e importunação sexual",
+      "category": "Política"
+    },
+    {
+      "title": "Quem é Serley Leal, candidato do UP ao governo do Ceará",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-serley-leal-candidato-do-up-ao-governo-do-ceara/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:28:58+00:00",
+      "summary": "Candidato é natural de Iguatu, no interior do estado e está disputando a sua terceira eleição; chapa tem mulher como vice",
+      "category": "Política"
+    },
+    {
+      "title": "IL pressiona Governo a baixar imposto sobre os combustíveis",
+      "url": "https://observador.pt/2026/09/22/il-pressiona-governo-a-cumprir-recomendacao-aprovada-em-maio-pelo-parlamento-para-reduzir-isp/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:28:31+00:00",
+      "summary": "Líder da Iniciativa Liberal, Mariana Leitão",
+      "category": "Política"
+    },
+    {
+      "title": "Oposição questiona ida de ex-vereadora do Chega para escola",
+      "url": "https://observador.pt/2026/09/22/oposicao-questiona-ida-de-ex-vereadora-do-chega-em-coimbra-para-escola-profissional/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:28:10+00:00",
+      "summary": "Maria Lencastre absteve-se na votação que consumou a integração da Eptoliva no ITAP e começou a trabalhar na escola em agosto. A oposição exige explicações.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Passos: o drama de ter razão e não ter votos",
+      "url": "https://observador.pt/opiniao/passos-o-drama-de-ter-razao-e-nao-ter-votos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:22:26+00:00",
+      "summary": "Passos vai ter finalmente um plano para o País. Será uma espécie de moção de censura construtiva que enfrenta um problema: tem ideias, um primeiro-ministro alternativo, mas faltam-lhe os votos.",
+      "category": "Política"
+    },
+    {
+      "title": "A inteligência artificial nas mãos da esperteza saloia",
+      "url": "https://observador.pt/opiniao/a-inteligencia-artificial-nas-maos-da-esperteza-saloia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:20:44+00:00",
+      "summary": "Há uma diferença entre a IA matar-nos ou alguém usá-la como ferramenta para nos matar. Os fabricantes de cutelaria não pedem ao Governo: “Por favor, obriguem-nos a fazer facas menos afiadas!”",
+      "category": "Política"
+    },
+    {
+      "title": "Câncer na família exige fazer mais exames? Saiba quando é indicado e como agir",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/cancer-na-familia-exige-fazer-mais-exames-saiba-quando-e-indicado-e-como-agir/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:20:13+00:00",
+      "summary": "Descubra quando o histórico familiar justifica teste genético, como funciona o rastreamento personalizado e por que antecipar exames sem indicação médica oferece mais riscos",
+      "category": "Saúde"
+    },
+    {
+      "title": "Não vou apoiar Lula nem Flávio no 2º turno, diz Cury",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/nao-vou-apoiar-lula-nem-flavio-no-2o-turno-diz-cury/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:19:38+00:00",
+      "summary": "Candidato do Avante à Presidência voltou a dizer que, caso eleito em outubro, deseja governar \"para os dois lados\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quem é Jeferson Rocha, candidato ao Senado por Santa Catarina",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-jeferson-rocha-candidato-ao-senado-por-santa-catarina/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:16:54+00:00",
+      "summary": "Advogado e produtor rural, candidato do PRD está em sua terceira disputa eleitoral e tem o agronegócio entre suas principais pautas",
+      "category": "Política"
+    },
+    {
+      "title": "As notícias das 00h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2426/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:16:16+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "União Europeia & Associados",
+      "url": "https://observador.pt/opiniao/uniao-europeia-associados/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:15:37+00:00",
+      "summary": "O que vimos na passada quarta-feira foi a UE a tentar formular uma nova visão estratégica para o futuro, mais do que uma resposta circunstancial à pressão americana.",
+      "category": "Economia"
+    },
+    {
+      "title": "Fogo em Arcos de Valdevez com duas frentes ativas",
+      "url": "https://observador.pt/2026/09/22/incendios-fogo-em-arcos-de-valdevez-com-duas-frentes-ativas-e-reforcos-de-meios-terrestres/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:14:24+00:00",
+      "summary": "O fogo situa-se \"numa zona onde existem algumas aldeias por perto, mas que não estão em perigo\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Reflexões sobre a portugalidade",
+      "url": "https://observador.pt/opiniao/reflexoes-sobre-a-portugalidade/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:14:08+00:00",
+      "summary": "Estaremos condenados a ser pastoreados por catequistas da laicidade e das virtudes do individualismo e do materialismo?",
+      "category": "Mundo"
+    },
+    {
+      "title": "Helicóptero desaparecido com cantor Rick: buscas ocorrem em pontos 30km distantes",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/helicoptero-desaparecido-com-cantor-rick-buscas-ocorrem-em-pontos-30km-distantes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:12:54+00:00",
+      "summary": "Operação concentra-se em dois pontos, sendo um o local onde a aeronave supostamente caiu e o outro onde foi registrado o último sinal de celular de um dos tripulantes",
+      "category": "Cultura"
+    },
+    {
+      "title": "O desporto também faz parte da missão das universidades",
+      "url": "https://observador.pt/opiniao/o-desporto-tambem-faz-parte-da-missao-das-universidades-da-ideia-a-acao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:12:50+00:00",
+      "summary": "Uma universidade dispõe de competências que nenhum outro agente desportivo reúne da mesma forma",
+      "category": "Cultura"
+    },
+    {
+      "title": "Cuiabá x Náutico: horário e onde assistir ao jogo da Série B",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/cuiaba-x-nautico-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:12:05+00:00",
+      "summary": "Equipes se enfrentam nesta segunda-feira (21), na Arena Pantanal, pela 29ª rodada da Série B do Campeonato Brasileiro",
+      "category": "Esportes"
+    },
+    {
+      "title": "Quem é Ana Lucia da Silveira Machado, candidata ao Senado por SC",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-ana-lucia-da-silveira-machado-candidata-ao-senado-por-sc/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:11:19+00:00",
+      "summary": "Ex-servidora do IFSC, professora de 71 anos concorre pela primeira vez a um cargo eletivo",
+      "category": "Política"
+    },
+    {
+      "title": "Lindsay Clancy. Advogado pede investigação a jurado",
+      "url": "https://observador.pt/2026/09/22/advogado-pede-investigacao-a-jurado-que-queria-condenar-lindsay-clancy/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:11:09+00:00",
+      "summary": "Michael Desronvil foi o único elemento do júri que quis condenar mãe que matou três filhos e que estaria a sofrer de uma rara psicose pós-parto. Advogado quer acesso aos registos telefónicos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "JBS S.A. sai da CVM e JBS N.V assume estrutura de emissora",
+      "url": "https://www.cnnbrasil.com.br/agro/jbs-s-a-sai-da-cvm-e-jbs-n-v-assume-estrutura-de-emissora/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:10:44+00:00",
+      "summary": "Movimento vale para negociação de debêntures emitidas pela companhia",
+      "category": "Mundo"
+    },
+    {
+      "title": "Produção de tilápia cresce 148% em dez anos e chega a 707,5 mil toneladas",
+      "url": "https://www.cnnbrasil.com.br/agro/producao-de-tilapia-cresce-148-em-dez-anos-e-chega-a-7075-mil-toneladas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:09:06+00:00",
+      "summary": "Avanço da atividade amplia a necessidade de reduzir perdas, melhorar a eficiência e elevar a qualidade da produção brasileira diante da maior competição no mercado",
+      "category": "Economia"
+    },
+    {
+      "title": "Mãe quer justiça por jovem encontrada morta em condomínio no Ceará",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/mae-quer-justica-por-jovem-encontrada-morta-em-condominio-no-ceara",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:09:00+00:00",
+      "summary": "A família da universitária Isabelle Caracristi, de 22 anos, busca respostas e justiça pela morte da jovem. Isabelle foi encontrada morta no pátio do condomínio onde morava com o namorado e familiares dele, em Fortaleza, no Ceará, no dia 13 de setembro. \"Eu não estou chorando apenas a dor da perda, mas porque não tenho ",
+      "category": "Mundo"
+    },
+    {
+      "title": "A sexualização da astrofísica e outras estórias",
+      "url": "https://observador.pt/opiniao/a-sexualizacao-da-astrofisica-e-outras-estorias/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T23:08:33+00:00",
+      "summary": "A sexualização não é uma depreciação da condição feminina, é propaganda à sua participação. Menina nenhuma quer fazer aquilo que as mulheres bonitas não fazem.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Análise: Assembleia da ONU de 2026 será a mais importante em anos",
+      "url": "https://www.cnnbrasil.com.br/internacional/analise-assembleia-da-onu-de-2026-sera-a-mais-importante-em-anos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:06:47+00:00",
+      "summary": "Líderes mundiais se reúnem em Nova York para a 81ª sessão da Assembleia Geral da ONU; de acordo com Américo Martins, para o Hora H, encontro será marcado por discursos e debate sobre o futuro da entidade",
+      "category": "Mundo"
+    },
+    {
+      "title": "FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T23:03:00+00:00",
+      "summary": "A Força Aérea Brasileira (FAB) e o corpo de bombeiros de Santa Catarina realizam buscas por um helicóptero de matrícula PP-MGR, desaparecido na tarde desta segunda-feira (21), próximo à cidade de São Joaquim (SC). Entre os desaparecidos está o cantor sertanejo Rick, da dupla Rick e Renner. Segundo os bombeiros a aerona",
+      "category": "Cultura"
+    },
+    {
+      "title": "22h O preço do \"brent\" para entrega em novembro está em queda, apesar da tensão no Médio Oriente",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-o-preco-do-brent-para-entrega-em-novembro-esta-em-queda-apesar-da-tensao-no-medio-oriente_a1_1766884",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T22:48:03+00:00",
+      "summary": "",
+      "category": "Economia"
+    },
+    {
+      "title": "Israel acusa Hamas de \"violação flagrante\" do acordo de cessar-fogo em Gaza",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-acusa-hamas-de-violacao-flagrante-do-acordo-de-cessar-fogo-em-gaza_n1766881",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T22:33:08+00:00",
+      "summary": "As Forças de Defesa de Israel (FDI) acusaram hoje o Hamas de «violação flagrante» do cessar-fogo em Gaza, e responderam com ataques a instalações do movimento islamita palestiniano, que terão feito 3 feridos, segundo a imprensa no enclave.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Empregados da Caixa rejeitam proposta da empresa e greve continua",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/empregados-da-caixa-rejeitam-proposta-da-empresa-e-greve-continua",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T22:33:00+00:00",
+      "summary": "Empregados da Caixa Econômica Federal decidiram manter a greve nacional iniciada no dia 10 de setembro. A proposta da empresa foi rejeitada em assembleia virtual realizada nesta segunda-feira (21) à tarde. O comando da greve deverá anunciar os próximos passos do movimento em breve. A greve teve início após os empregado",
+      "category": "Economia"
+    },
+    {
+      "title": "21h Ministra do Ambiente: há uma diminuição do uso dos carros por causa do preço dos combustíveis",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-ministra-do-ambiente-ha-uma-diminuicao-do-uso-dos-carros-por-causa-do-preco-dos-combustiveis_a1_1766883",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T22:24:02+00:00",
+      "summary": "",
+      "category": "Economia"
+    },
+    {
+      "title": "Villas-Boas defende que FC Porto venceu Benfica com justiça e \"grande arbitragem\"",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/villas-boas-defende-que-fc-porto-venceu-benfica-com-justica-e-grande-arbitragem_d1766882",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T22:16:52+00:00",
+      "summary": "O presidente do FC Porto, André Villas-Boas, defendeu que os ‘dragões’ venceram o clássico ante o Benfica, da sétima jornada da I Liga de futebol,com justiça e \"uma grande arbitragem\" do juiz Miguel Nogueira.",
+      "category": "Política"
+    },
+    {
+      "title": "Rio confirma caso de raiva em cão que teve contato com morcego",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/rio-confirma-caso-de-raiva-em-cao-que-teve-contato-com-morcego",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T22:12:00+00:00",
+      "summary": "Um cão que vivia em uma área urbana na Zona Oeste do Rio de Janeiro teve diagnóstico confirmado de raiva em agosto e precisou ser sacrificado. De acordo com um alerta da Secretaria de Estado de Saúde fluminense (SES-RJ), divulgado em 18 de setembro, o animal tinha histórico de contato com morcegos. Segundo a Secretaria",
+      "category": "Saúde"
+    },
+    {
+      "title": "Supremo moçambicano rejeita pedido de transmissão em direto do julgamento de Mondlane",
+      "url": "https://www.rtp.pt/noticias/mundo/supremo-mocambicano-rejeita-pedido-de-transmissao-em-direto-do-julgamento-de-mondlane_n1766861",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T22:11:19+00:00",
+      "summary": "O Tribunal Supremo (TS) moçambicano rejeitou hoje o pedido de transmissão em direto, pelos meios de comunicação social, do julgamento do político Venâncio Mondlane, no âmbito das manifestações pós-eleitorais, justificando que quer garantir a \"lisura\" do processo.",
+      "category": "Política"
+    },
+    {
+      "title": "Crise climática é questão de segurança diz MNE britânico",
+      "url": "https://www.rtp.pt/noticias/mundo/crise-climatica-e-questao-de-seguranca-diz-mne-britanico_n1766865",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-21T22:10:07+00:00",
+      "summary": "O ministro britânico dos Negócios Estrangeiros, Ed Miliband, defendeu hoje que a crise climática mundial é uma questão de segurança, que deve ser abordada pelos generais e primeiros-ministros, e não apenas pelos ativistas ambientais.",
+      "category": "Política"
+    },
+    {
+      "title": "Moraes se declara impedido em ação sobre ida de sua esposa ao Senado",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-se-declara-impedido-em-acao-sobre-ida-de-sua-esposa-ao-senado",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T22:06:00+00:00",
+      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou impedido de analisar um mandado de segurança que pede acesso a registros de entrada e saída da advogada Viviane Barci, sua esposa, e do ex-banqueiro Daniel Vorcaro no Senado. Na decisão, o ministro citou a regra do Código de Processo Civil (",
+      "category": "Política"
+    },
+    {
+      "title": "Edital da Finep sobre mobilidade sustentável recebe projetos até sexta",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/edital-da-finep-sobre-mobilidade-sustentavel-recebe-projetos-ate-sexta",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T22:00:00+00:00",
+      "summary": "A Financiadora de Estudos e Projetos (Finep) prorrogou até a próxima sexta-feira (25) o prazo para enviar projetos de inovação para a chamada pública Finep Mais Inovação Brasil – Rodada 2 – Mobilidade Sustentável . As propostas precisam ser de empresas brasileiras e contar com a parceria técnico-científica de, pelo men",
+      "category": "Economia"
+    },
+    {
+      "title": "Temporais provocam morte, desaparecimentos e atingem 119 cidades no RS",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-provocam-morte-desaparecimentos-e-atingem-119-cidades-no-rs",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-21T21:48:00+00:00",
+      "summary": "Uma pessoa morreu em Pelotas (RS) após o forte temporal que atingiu o estado do Rio Grande do Sul nesta segunda-feira (21). Segundo informações da Polícia Civil, a vítima era um motociclista que foi atingido pela queda de fios de alta tensão no momento do temporal na cidade. De acordo com a prefeitura de Pelotas, o eve",
+      "category": "Clima"
+    },
     {
       "title": "Avestruzes sul-africanas depenadas vivas para confeção de peças de alta costura diz ONG",
       "url": "https://www.rtp.pt/noticias/mundo/avestruzes-sul-africanas-depenadas-vivas-para-confecao-de-pecas-de-alta-costura-diz-ong_n1766868",
@@ -11,517 +497,31 @@
       "category": "Mundo"
     },
     {
-      "title": "Infantino propõe consulta às federações-membro para reformar governança da FIFA",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/infantino-propoe-consulta-as-federacoes-membro-para-reformar-governanca-da-fifa_d1766880",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:34:06+00:00",
-      "summary": "O presidente e recandidato à liderança da FIFA propôs uma consulta às 211 federações-membro para reformar a governança do organismo regulador do futebol mundial, numa carta à qual as agências noticiosas AFP e EFE tiveram acesso.",
-      "category": "Política"
-    },
-    {
-      "title": "Frederico Varandas assegura que saída de Rui Borges nunca esteve em causa",
-      "url": "https://www.rtp.pt/noticias/sporting/frederico-varandas-assegura-que-saida-de-rui-borges-nunca-esteve-em-causa_d1766879",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:22:59+00:00",
-      "summary": "O presidente do Sporting, Frederico Varandas, assegurou que a saída do treinador Rui Borges nunca esteve em causa e elogiou o atual plantel, após os seis pontos já perdidos na I Liga de futebol.",
-      "category": "Política"
-    },
-    {
-      "title": "Um tufão está a atingir o Japão",
-      "url": "https://www.rtp.pt/noticias/mundo/um-tufao-esta-a-atingir-o-japao_v1766878",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:18:47+00:00",
-      "summary": "Há fortes chuvas e vento intenso que já provocaram deslizamentos de terra e levaram a ordens de evacuação.",
-      "category": "Clima"
-    },
-    {
-      "title": "Proteção Civil alerta para perigo de incêndio em todo o país",
-      "url": "https://www.rtp.pt/noticias/pais/protecao-civil-alerta-para-perigo-de-incendio-em-todo-o-pais_v1766877",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:15:47+00:00",
-      "summary": "O organismo considerou estranho o que aconteceu este fim-de-semana com vários incendios ao mesmo tempo.",
-      "category": "Clima"
-    },
-    {
-      "title": "Ministra da Saúde promete soluções para as urgências",
-      "url": "https://www.rtp.pt/noticias/politica/ministra-da-saude-promete-solucoes-para-as-urgencias_v1766876",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:14:47+00:00",
-      "summary": "O Governo anunciou que até ao final de novembro divulgará a reorganização das urgências na Região de Lisboa e Vale do Tejo. A ministra da Saúde prometeu soluções para as urgências até final do ano e revelou que as soluções passam também pela lei dos médicos tarefeiros.",
-      "category": "Política"
-    },
-    {
-      "title": "Partido de Vladimir Putin venceu as eleições na Rússia",
-      "url": "https://www.rtp.pt/noticias/mundo/partido-de-vladimir-putin-venceu-as-eleicoes-na-russia_v1766875",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:12:47+00:00",
-      "summary": "O Rússia Unida mantém a maioria constitucional no parlamento, onde não haverá bancadas de oposição.",
-      "category": "Política"
-    },
-    {
-      "title": "Centeno \"ministro\" defendeu reforma da gestão da saúde",
-      "url": "https://www.rtp.pt/noticias/politica/centeno-ministro-defendeu-reforma-da-gestao-da-saude_v1766874",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:11:47+00:00",
-      "summary": "Mário Centeno revelou ter proposto a António Costa reformar a gestão da saúde. A revelação consta de um livro que o antigo ministro das Finanças vai agora lançar.",
-      "category": "Política"
-    },
-    {
-      "title": "Portugal tem por estes dias os combustíveis mais caros de sempre",
-      "url": "https://www.rtp.pt/noticias/economia/portugal-tem-por-estes-dias-os-combustiveis-mais-caros-de-sempre_v1766873",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:07:47+00:00",
-      "summary": "Os preços do gasóleo e da gasolina voltaram a disparar e bateram recordes absolutos. O mais estranho é que, apesar dos preços altos, o consumo aumentou, o que levou a ministra do Ambiente a apelar aos portugueses para que poupem no consumo de energia.",
-      "category": "Economia"
-    },
-    {
-      "title": "Extrema-direita continua a crescer na Alemanha",
-      "url": "https://www.rtp.pt/noticias/mundo/extrema-direita-continua-a-crescer-na-alemanha_v1766872",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:04:47+00:00",
-      "summary": "As eleições regionais na Alemanha confirmaram a tendência de mudança no mapa político do país. Os nacionalistas venceram em Mecklemburgo-Pomerânia Ocidental e os socialistas radicais em Berlim. O partido do chanceler alemão sofreu uma forte derrota nos dois Estados.",
-      "category": "Política"
-    },
-    {
-      "title": "Episódio 2. Deslumbrada por Che Guevara",
-      "url": "https://observador.pt/programas/os-escndalos-de-uma-revolucionria/episodio-2-deslumbrada-por-che-guevara/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:00:01+00:00",
-      "summary": "Dois meses depois, os Silva Pais recebem uma carta. Annie está bem. Recusa dar detalhes mas há cada vez mais evidências de que está em Cuba. Tem de estar a ser protegida por Fidel. Resta saber porquê.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Apura: 100 artistas e entrada gratuita em Coimbra",
-      "url": "https://observador.pt/2026/09/21/festival-apura-arranca-quinta-feira-em-coimbra-com-mais-de-100-artistas-e-47-propostas-em-quatro-palcos-alternativos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:57:08+00:00",
-      "summary": "Sob o lema \"A Aldeia vem à Cidade\", serão apresentadas três iniciativas culturais, adaptadas \"especificamente ao centro urbano da cidade\"",
-      "category": "Cultura"
-    },
-    {
-      "title": "Preços dos combustíveis nas Ilhas. IVA e ISP mais baixos ajudam a controlar preço",
-      "url": "https://www.rtp.pt/noticias/economia/precos-dos-combustiveis-nas-ilhas-iva-e-isp-mais-baixos-ajudam-a-controlar-preco_v1766870",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:56:47+00:00",
-      "summary": "Nas ilhas, os preços são muito diferentes dos do Continente. Nos Açores, os preços só mudam de mês a mês. Nesta altura, o litro da gasolina custa 1,85 euros e o gasóleo 1,89 euros.",
-      "category": "Economia"
-    },
-    {
-      "title": "Haddad defende mudanças em concessões, diz que Faria Lima terá de 'esperar um pouquinho' e critica ausência de Tarcísio em debate",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/21/haddad-defende-mudancas-em-concessoes-diz-que-faria-lima-tera-de-esperar-um-pouquinho-e-critica-ausencia-de-tarcisio-em-debate.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:55:34+00:00",
-      "summary": "Fernando Haddad, candidato a governador de São Paulo, em debate na Record. Antonio Chahestian/Record O candidato do PT ao governo de São Paulo, Fernando Haddad, criticou a ausência do governador e candidato à reeleição Tarcísio de Freitas (Republicanos) ao debate organizado pela Record nesta segunda-feira (21). Sem Tar",
-      "category": "Política"
-    },
-    {
-      "title": "Temporal no RS: Defesa Civil atualiza situação dos municípios",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/ao-vivo/temporal-rs-defesa-civil-atualiza-situacao-municipios.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:53:14+00:00",
-      "summary": "Temporal no RS: Defesa Civil atualiza situação dos municípios Fortes chuvas atingem o RS desde a noite de domingo. Ao menos 64 cidades registraram danos. O Rio Grande do Sul é atingido por fortes chuvas desde a noite de domingo (20).. Ao menos 119 municípios registraram danos.. Duas pessoas morreram e três seguem desap",
-      "category": "Clima"
-    },
-    {
-      "title": "Festival com Seinfeld continua e vai anunciar novos artistas",
-      "url": "https://observador.pt/2026/09/21/commedia-a-la-carte-festival-de-humor-mantem-se-com-jerry-seinfeld-e-vai-anunciar-novos-artistas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:51:01+00:00",
-      "summary": "Apesar dos cancelamentos de vários participantes, críticos das posições do humorista sobre Gaza e Israel, o festival vai mesmo acontecer. Nomes como Herman José e César Mourão participam.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Efraim Filho defende programa de estágio para facilitar entrada de jovens no mercado de trabalho na Paraíba",
-      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/efraim-filho-defende-programa-de-estagio-para-facilitar-entrada-de-jovens-no-mercado-de-trabalho-na-paraiba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:48:26+00:00",
-      "summary": "Efraim Filho cumpre agenda de campanha em João Pessoa e Campina Grande nesta segunda-feira (21). Reprodução TV Cabo Branco. O candidato ao Governo da Paraíba pelo Partido Liberal (PL), Efraim Filho, cumpriu agenda de campanha em João Pessoa e Campina Grande nesta segunda-feira (21). Durante a agenda, o candidato defend",
-      "category": "Política"
-    },
-    {
-      "title": "Filhas suspeitas de matar mãe por interesse financeiro têm julgamento marcado no Tocantins",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/21/filhas-suspeitas-de-matar-mae-por-interesse-financeiro-tem-julgamento-marcado-no-tocantins.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:46:44+00:00",
-      "summary": "Compra de celular e convite para fazer compras: como filhas planejaram feminicídio da mãe e Déborah de Oliveira Ribeiro e Roberta de Oliveira Ribeiro, indiciadas por feminicídio cometido contra a própria mãe, Deise Carmem de Oliveira Ribeiro, em dezembro de 2025, têm uma audiência de instrução marcada para terça-feira ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Estudante do Amapá vence feira nacional com pesquisa sobre tráfico humano em Oiapoque",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/21/estudante-do-amapa-vence-feira-nacional-com-pesquisa-sobre-trafico-humano-em-oiapoque.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:45:34+00:00",
-      "summary": "Aluno da EJA de Oiapoque vence feira nacional de ciência em SC e garante vaga na Argentina. Arquivo Pessoal Matriculado na Educação de Jovens e Adultos (Eja) no extremo Norte do Amapá, o estudante Dhonato Brito, de 18 anos, da Escola Estadual Joaquim Nabuco, em Oiapoque, conquistou o prêmio principal da Feira Brasileir",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "VÍDEO: imagens aéreas mostram estragos causados pela cheia do Rio Itapetininga",
-      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/21/video-imagens-aereas-mostram-estragos-causados-pela-cheia-do-rio-itapetininga.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:45:22+00:00",
-      "summary": "Veja imagens dos estragos causados por cheia de rio em Itapetininga Ao menos 200 famílias de bairros da zona rural de Itapetininga (SP) tiveram as casas afetadas após o rio que corta a cidade subir oito metros acima do normal, entre a noite de sábado (19) e o início da madrugada de domingo (20). Imagens aéreas mostram ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Grupo de 22 países quer manter apertado e em mãos humanas o controlo da IA",
-      "url": "https://www.rtp.pt/noticias/mundo/grupo-de-22-paises-quer-manter-apertado-e-em-maos-humanas-o-controlo-da-ia_n1766863",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:45:20+00:00",
-      "summary": "A criação de um órgão de supervisão global e a necessidade de manter a Inteligência Artificial (IA) \"sob direção, supervisão e controlo humanos\" são duas das diretivas que constam de um documento publicado pelo site Politico esta segunda-feira e que foi para já subscrito por 22 países. Uma das ideias que vêm sendo defe",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Debate com candidatos ao Senado pelo RJ",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/ao-vivo/debate-candidatos-senado-rio-de-janeiro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:40:57+00:00",
-      "summary": "Debate com candidatos ao Senado pelo RJ debate-candidatos-senado-rio-de-janeiro Oito candidatos foram confirmados e divididos por sorteio em dois grupos de quatro. Encontros serão mediados pelo jornalista Edimilson Ávila, na terça-feira (22), às 9h e às 13h. O g1 realiza na terça-feira (22) 2 debates com candidatos ao ",
-      "category": "Política"
-    },
-    {
-      "title": "Criança morre por suspeita de febre maculosa em Três Rios",
-      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/21/crianca-morre-por-suspeita-de-febre-maculosa-em-tres-rios.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:37:04+00:00",
-      "summary": "Criança morre por suspeita de febre maculosa em Três Rios Reprodução/Redes Sociais Um menino, de 2 anos, morreu por suspeita de febre maculosa em Três Rios (RJ). O óbito foi registrado na última quinta-feira (17) mas, só foi divulgado nesta semana. Segundo familiares, os sintomas começaram no dia 11 de setembro de 2026",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jade Picon desfila pela primeira vez em uma semana de moda internacional",
-      "url": "https://www.cnnbrasil.com.br/style/moda/jade-picon-desfila-pela-primeira-vez-em-uma-semana-de-moda-internacional/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:36:51+00:00",
-      "summary": "Atriz e influenciadora brasileira subiu na passarela da grife Di Petsa em Londres, marcando sua primeira passarela fora do Brasil",
-      "category": "Cultura"
-    },
-    {
-      "title": "Adolescente é vítima de falso sequestro e família transfere dinheiro para criminosos em Cachoeiro",
-      "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/09/21/adolescente-e-vitima-de-falso-sequestro-e-familia-transfere-dinheiro-para-criminosos-em-cachoeiro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:36:18+00:00",
-      "summary": "Família é vítima de golpe do falso sequestro e perde R$ 5 mil em Cachoeiro Uma família foi vítima de um golpe do falso sequestro em Cachoeiro de Itapemirim, no Sul do Espírito Santo, na manhã deste domingo (20). Durante a ação dos criminosos, o casal chegou a pagar R$ 5 mil para liberar a filha que, supostamente, estar",
-      "category": "Esportes"
-    },
-    {
-      "title": "Acordo sobre a Gronelândia assinado terça na ONU",
-      "url": "https://observador.pt/2026/09/21/gronelandia-acordo-com-eua-sobre-o-territorio-artico-assinado-na-terca-feira-na-onu/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:35:44+00:00",
-      "summary": "O Governo dinamarquês destacou que o acordo sobre a Gronelândia respeita as \"linhas vermelhas\" de Copenhaga",
-      "category": "Política"
-    },
-    {
-      "title": "Miley Cyrus diz que Dolly Parton a “obrigou” a participar do Grammy 2024",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/miley-cyrus-diz-que-dolly-parton-a-obrigou-a-participar-do-grammy-2024/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:35:01+00:00",
-      "summary": "Estrela da música country e madrinha de cantora de pop faleceu aos 80 anos no final de agosto deste ano",
-      "category": "Cultura"
-    },
-    {
-      "title": "TRE-MG determina suspensão de anúncios eleitorais de Mateus Simões por uso de bens públicos",
-      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/21/tre-mg-suspensao-anuncios-eleitorais-mateus-simoes.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:34:48+00:00",
-      "summary": "Entrevista Mateus Simões (PSD), candidato ao governo de Minas, ao EPTV 1 Reprodução EPTV O Tribunal Regional Eleitoral de Minas Gerais (TRE-MG) determinou a suspensão do impulsionamento e da veiculação de sete anúncios do candidato à reeleição ao governo do estado, Mateus Simões (PSD), no Facebook. A decisão, do juiz M",
-      "category": "Política"
-    },
-    {
-      "title": "Cuide das suas Júlias: o humor também previne",
-      "url": "https://observador.pt/programas/brainstorming/cuide-das-suas-julias-o-humor-tambem-previne/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:34:33+00:00",
-      "summary": "A Liga Portuguesa Contra o Cancro aposta no humor para falar de prevenção. Marta Pojo explica como a campanha “Cuide das suas Júlias” procura levar mais mulheres ao rastreio.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Curso gratuito oferece capacitação para jovens de 18 a 25 anos em Cuiabá",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/21/curso-gratuito-oferece-capacitacao-para-jovens-de-18-a-25-anos-em-cuiaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:33:41+00:00",
-      "summary": "Capacita Jovens oferece curso gratuito para pessoas de 18 a 25 anos, em Cuiabá Assessoria/CDL Cuiabá As inscrições para Capacita Jovens estão abertas para jovens de 18 a 25 anos já podem se inscrever no Capacita Jovens. O curso é gratuito e as aulas devem ocorrer de 6 de outubro a 19 de novembro, às terças e quintas-fe",
-      "category": "Mundo"
-    },
-    {
-      "title": "AGU diz que proposta do Discord é “insuficiente” e pede regras mais duras",
-      "url": "https://www.cnnbrasil.com.br/politica/agu-diz-que-proposta-do-discord-e-insuficiente-e-pede-regras-mais-duras/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:33:38+00:00",
-      "summary": "A AGU (Advocacia-Geral da União) afirmou, nesta segunda-feira (21), que a proposta de melhorias na proteção de dados apresentada pelo Discord é “insuficiente”. O governo pediu ainda, uma decisão liminar de urgência obrigando a plataforma a adotar medidas imediatas e efetivas na proteção de crianças, adolescentes e mulh",
-      "category": "Política"
-    },
-    {
-      "title": "Cícero Lucena propõe comitê de crise para combater crime organizado na Paraíba",
-      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/cicero-lucena-propoe-comite-de-crise-para-combater-crime-organizado-na-paraiba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:33:15+00:00",
-      "summary": "Cícero Lucena propõe comitê de crise para combater crime organizado Reprodução/TV Cabo Branco O candidato ao Governo da Paraíba pelo MDB, Cícero Lucena, cumpriu agenda de campanha nesta segunda-feira (21), em João Pessoa. Durante a gravação do guia eleitoral, ele afirmou, em entrevista à TV Cabo Branco, que pretende co",
-      "category": "Política"
-    },
-    {
-      "title": "À CNN, Lula diz estar “muito preocupado” com Rubio para eleições no Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/a-cnn-lula-diz-estar-muito-preocupado-com-rubio-para-eleicoes-no-brasil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:31:57+00:00",
-      "summary": "Presidente ressaltou que quer interferência dos Estados Unidos na votação de outubro",
-      "category": "Política"
-    },
-    {
-      "title": "Bentley revela trio de Continental GTs inspirados em Copérnico e nos astros",
-      "url": "https://www.cnnbrasil.com.br/auto/bentley-revela-trio-de-continental-gts-inspirados-em-copernico-e-nos-astros/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:31:53+00:00",
-      "summary": "Criada pela divisão ultra exclusiva Mulliner para o mercado polonês, a série exclusiva traz três configurações inspiradas no Sol, na Terra e na Lua",
-      "category": "Economia"
-    },
-    {
-      "title": "TSE forma maioria para manter suspensão de candidatura de Deltan Dallagnol",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-forma-maioria-para-manter-suspensao-de-candidatura-de-deltan-dallagnol/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:31:45+00:00",
-      "summary": "Processo tramita em segredo de Justiça e o julgamento é realizado no plenário virtual do TSE",
-      "category": "Mundo"
-    },
-    {
-      "title": "Primo de Vorcaro pede a Fachin que destrave análise de sua prisão",
-      "url": "https://www.cnnbrasil.com.br/politica/primo-de-vorcaro-pede-a-fachin-que-destrave-analise-de-sua-prisao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:30:11+00:00",
-      "summary": "Defesa diz que caso não envolve ministros do STF e pede a Fachin que devolva processo a André Mendonça para reavaliar a prisão preventiva",
-      "category": "Política"
-    },
-    {
-      "title": "Irmão de Diana detalha atual relação com o Rei Charles e os sobrinhos",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/irmao-de-diana-detalha-atual-relacao-com-o-rei-charles-e-os-sobrinhos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:27:35+00:00",
-      "summary": "Charles Spencer também respondeu se acredita em teorias da conspiração em torno da morte da Princesa, em um acidente de carro, em 1997",
-      "category": "Mundo"
-    },
-    {
-      "title": "Trump se reúne com prefeito de Nova York, Zohran Mamdani, dizem assessores",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-se-reune-com-prefeito-de-nova-york-zohran-mamdani/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:25:05+00:00",
-      "summary": "Encontro acontece na Gracie Mansion, a residência oficial do democrata em Manhattan",
-      "category": "Política"
-    },
-    {
-      "title": "PS quer diagnóstico da crise de habitação até outubro",
-      "url": "https://observador.pt/2026/09/21/luisa-salgueiro-lidera-programa-do-ps-para-saber-de-quantas-casas-o-pais-precisa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:24:45+00:00",
-      "summary": "A direção do PS e o secretário-geral do partido decidirão se querem apresentar já as propostas ou implementa-las quando estiver no Governo",
-      "category": "Política"
-    },
-    {
-      "title": "Iene se desvaloriza com possível intervenção cambial",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/iene-se-desvaloriza-com-possivel-intervencao-cambial/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:23:06+00:00",
-      "summary": "Investidores estavam em alerta para indícios de que Tóquio estivesse intervindo no mercado",
-      "category": "Economia"
-    },
-    {
-      "title": "Trump disse que não vai interferir nas eleições do Brasil, diz Lula à CNN",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/trump-disse-que-nao-vai-interferir-nas-eleicoes-do-brasil-diz-lula-a-cnn/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:22:08+00:00",
-      "summary": "Presidente relatou ter pedido que o mandatário dos Estados Unidos não interfira no pleito de outubro para não acabar com relação \"sofisticada\" entre os dois países",
-      "category": "Política"
-    },
-    {
-      "title": "Teria coragem? Quais são os túneis submersos mais impressionantes do mundo",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/teria-coragem-quais-sao-os-tuneis-submersos-mais-impressionantes-do-mundo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:17:16+00:00",
-      "summary": "Obras da engenharia moderna permitiram que travessia por baixo do oceano fosse possível, diminuindo drasticamente o tempo do percurso",
-      "category": "Clima"
-    },
-    {
-      "title": "As notícias das 21h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1764/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:12:54+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Kremlin avisa que sanções dos EUA prejudicam esforços de paz",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/kremlin-avisa-que-sancoes-dos-eua-prejudicam-esforcos-de-paz/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:10:55+00:00",
-      "summary": "De acordo com o jornal The Moscow Times. O porta-voz do Kremlin, Dmitry Peskov, afirmou que as novas sanções impostas pelos Estados Unidos vão prejudicar o diálogo bilateral",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ucrânia reduz refinação de petróleo russa para quase metade",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/ucrania-reduz-refinacao-de-petroleo-russa-para-quase-metade/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T20:06:54+00:00",
-      "summary": "É o principal destaque de hoje no jornal The Kyiv Independent. As forças armadas da Ucrânia confirmam que a refinação de crude na Rússia caiu cerca de 45% devido aos ataques de longo alcance",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Três jogos com automutilações que não podem acontecer\"",
-      "url": "https://observador.pt/2026/09/21/foram-tres-jogos-com-automutilacoes-que-nao-podem-acontecer-varandas-garante-que-rui-borges-nunca-esteve-em-causa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T19:51:49+00:00",
-      "summary": "Frederico Varandas revelou que pede a Rui Borges para não falar de arbitragem",
-      "category": "Esportes"
-    },
-    {
-      "title": "Será que a \"Cortina de Ferro\" se está a levantar outra vez?",
-      "url": "https://observador.pt/programas/gabinete-de-guerra/sera-que-a-cortina-de-ferro-se-esta-a-levantar-outra-vez/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T19:50:17+00:00",
-      "summary": "Helena Ferro Gouveia considera que o recuo das democracias e o reforço das autocracias alimentam o fosso ideológico e erguem barreiras entre Oriente e Ocidente.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Crise climática é \"questão de segurança\", diz Miliband",
-      "url": "https://observador.pt/2026/09/21/ministro-britanico-afirma-que-crise-climatica-e-uma-questao-de-seguranca/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T19:45:51+00:00",
-      "summary": "\"Não podemos fugir à magnitude da nossa responsabilidade nem ao custo da inação\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Pé-de-Meia começa a pagar sexta parcela a estudantes nesta segunda",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pe-de-meia-comeca-pagar-sexta-parcela-estudantes-nesta-segunda",
+      "title": "Morador de Pelotas mostra nas redes estragos causados por tempestade",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/morador-de-pelotas-mostra-nas-redes-estragos-causados-por-tempestade",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-21T19:38:00+00:00",
-      "summary": "Os beneficiários do programa Pé-de-Meia do ensino médio regular começaram a receber nesta segunda-feira (21) a sexta parcela do incentivo à frequência. O pagamento é feito a quem assistiu a pelo menos 80% das aulas de julho deste ano . Os beneficiários que cursam a educação de jovens e adultos (EJA) também recebem agor",
+      "publishedAt": "2026-09-21T21:24:00+00:00",
+      "summary": "O morador da cidade gaúcha de Pelotas Rafael Cunha foi uma das muitas vítimas da tempestade que atingiu o Rio Grande do Sul nesta madrugada de segunda-feira (21). Cunha postou nas redes sociais imagens da própria casa, no bairro Laranjal, parcialmente destruída. Ver esse post no Instagram Um post compartilhado por Rafa",
       "category": "Mundo"
     },
     {
-      "title": "Inscrição para eleição do Conselho de Política Cultural vai até dia 30",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/inscricao-para-eleicao-do-conselho-de-politica-cultural-vai-ate-dia-30",
+      "title": "Escolas privadas fora de locais de votação terão aulas normais no DF",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/escolas-privadas-fora-de-locais-de-votacao-terao-aula-no-df",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-21T19:34:00+00:00",
-      "summary": "As inscrições para eleição dos representantes da sociedade civil no Conselho Nacional de Política Cultural (CNPC) foram prorrogadas e podem ser feitas até o dia 30 de setembro de 2026. O prazo terminaria nesta terça-feira (22). O novo prazo foi publicado nesta segunda (21), no Diário Oficial da União. De acordo com o M",
+      "publishedAt": "2026-09-21T21:10:00+00:00",
+      "summary": "O governo do Distrito Federal (GDF) alterou o decreto publicado no dia 11 de setembro sobre a suspensão das aulas nas duas sextas-feiras que antecedem o primeiro e o segundo turno das eleições deste ano, dias 2 e 23 de outubro. Com a mudança, as escolas privadas que não forem requisitadas como locais de votação devem p",
       "category": "Política"
     },
     {
-      "title": "Nos EUA, Lula se reúne com prefeito de Nova York e presidente uruguaio",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/nos-eua-lula-se-reune-com-prefeito-de-nova-york-e-presidente-uruguaio",
+      "title": "Maioria do TSE mantém suspensão da campanha de Deltan ao Senado",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/maioria-do-tse-mantem-suspensao-da-campanha-de-deltan-ao-senado",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-21T19:27:00+00:00",
-      "summary": "Antes da 81º Assembleia Geral das Nações Unidas (ONU), que começa nesta terça-feira (22), o presidente Luiz Inácio Lula da Silva se reuniu com os políticos democratas Zohran Mamdani, prefeito de Nova York, e o senador Bernie Sanders, do estado de Vermont. Ambos são opositores do presidente dos Estados Unidos (EUA), Don",
+      "publishedAt": "2026-09-21T20:36:00+00:00",
+      "summary": "O Tribunal Superior Eleitoral (TSE) formou maioria de votos, nesta segunda-feira (21), para manter a suspensão da campanha eleitoral do candidato ao Senado pelo Paraná Deltan Dallagnol (Novo). Os votos foram proferidos durante o julgamento virtual que delibera sobre a manutenção da decisão individual do ministro Floria",
       "category": "Política"
-    },
-    {
-      "title": "EBC tem três finalistas no prêmio de jornalismo Vladimir Herzog",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/ebc-tem-tres-finalistas-do-premio-de-jornalismo-vladimir-herzog",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T19:00:00+00:00",
-      "summary": "Os veículos da Empresa Brasil de Comunicação (EBC) têm três representantes entre os finalistas do Prêmio Jornalístico Vladimir Herzog de Anistia e Direitos Humanos. São duas produções da TV Brasil e uma fotografia da Agência Brasil. A relação dos indicados foi divulgada nesta segunda-feira (21) pelo Instituto Prêmio Vl",
-      "category": "Economia"
-    },
-    {
-      "title": "Stefani é bicampeã de duplas do SP Open, o 1º ao lado de Dabrowski",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/stefani-e-bicampea-de-duplas-do-sp-open-o-1o-ao-lado-de-dabrowski",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T18:47:00+00:00",
-      "summary": "A tenista brasileira Luisa Stefani faturou o bicampeonato consecutivo de duplas do WTA 250 SP Open, o primeiro ao lado da parceira canadense Gabriela Dabrowski. Nesta segunda-feira (21), em partida adiada devido às chuvas na capital paulista no domingo (20), elas superaram na final as norte-americanas Anna Rogers e All",
-      "category": "Esportes"
-    },
-    {
-      "title": "Futebol feminino: TV Brasil exibe Corinthians e Bahia pela semifinal",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-feminino-tv-brasil-exibe-corinthians-e-bahia-pela-semifinal",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T18:44:00+00:00",
-      "summary": "A TV Brasil transmite nesta segunda-feira (21) a partida de volta das semifinais do Campeonato Brasileiro Feminino Série A1 2026 entre Corinthians e Bahia. A exibição do confronto tem início às 21h30, direto da Neo Química Arena, em São Paulo (SP). Na partida de ida disputada na última terça-feira (15), o Corinthians l",
-      "category": "Esportes"
-    },
-    {
-      "title": "TST suspende julgamento de dissídio da greve dos Correios",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tst-suspende-julgamento-de-dissidio-da-greve-dos-correios",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T18:35:00+00:00",
-      "summary": "O Tribunal Superior do Trabalho (TST) suspendeu nesta segunda-feira (21) o julgamento do dissídio coletivo da greve dos Correios. A análise do caso será retomada na próxima quinta-feira (24), às 15h30. Os ministros acataram questão de ordem formulada pelo ministro Vieira de Mello Filho, presidente do TST, para que os s",
-      "category": "Política"
-    },
-    {
-      "title": "AGU reitera ação para obrigar Discord a proteger usuários",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/agu-reitera-acao-para-obrigar-discord-proteger-usuarios",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T18:35:00+00:00",
-      "summary": "A Advocacia-Geral da União (AGU) apresentou nesta segunda-feira (21) novo pedido à Justiça Federal, em Brasília, para que a plataforma Discord seja obrigada a efetivar medidas para proteger mulheres, crianças e adolescentes na internet. Na petição, a AGU diz que a empresa apresentou uma proposta de conciliação genérica",
-      "category": "Economia"
-    },
-    {
-      "title": "Anvisa manda apreender medicamento falsificado para câncer de mama",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-manda-apreender-medicamento-falsificado-para-cancer-de-mama",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T18:27:00+00:00",
-      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou a apreensão de um lote falsificado do medicamento Phesgo, usado no tratamento de câncer de mama, e de três lotes falsificados da toxina botulínica Dysport. As medidas foram publicadas nesta segunda-feira (21) e incluem ainda a suspensão de propagandas irreg",
-      "category": "Saúde"
-    },
-    {
-      "title": "Quatro pessoas estão desaparecidas no RS após temporal",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/quatro-pessoas-estao-desaparecidas-no-rs-apos-temporal",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T18:19:00+00:00",
-      "summary": "O temporal que atingiu o Rio Grande do Sul durante esta madrugada, com fortes chuvas e ventos, deixou ao menos quatro pessoas desaparecidas, quatro desabrigadas e outras 624 desalojadas, informou a Defesa Civil. Os quatro desaparecidos são da cidade de Caxias do Sul, na Serra gaúcha. Três dessas pessoas, informou a Def",
-      "category": "Clima"
     }
   ],
   "sources": [
