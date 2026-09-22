@@ -1,14 +1,329 @@
 {
-  "updatedAt": "2026-09-22T00:04:27.603178+00:00",
+  "updatedAt": "2026-09-22T04:50:16.546442+00:00",
   "items": [
+    {
+      "title": "5h Começa hoje a Assembleia Geral da ONU",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-comeca-hoje-a-assembleia-geral-da-onu_a1_1766914",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T05:32:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "4h G7 faz apelo ao Irão",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-g7-faz-apelo-ao-irao_a1_1766913",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T05:31:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h Lituânia diz ter planos de evacuação em caso de ataque russo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-lituania-diz-ter-planos-de-evacuacao-em-caso-de-ataque-russo_a1_1766912",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T05:30:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h Jorge Palma morreu aos 76 anos",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-jorge-palma-morreu-aos-76-anos_a1_1766911",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T05:29:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
+      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:06:43+00:00",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta terça-feira (22) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 33ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuv",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Paulo (SP): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:06:26+00:00",
+      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta terça-feira (22) para São Paulo (SP) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 23ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, s",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:06:01+00:00",
+      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para esta terça-feira (22) para São Bernardo do Campo (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 23ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muita",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens e pancadas de chuva à tarde; à noite ocorre temporal",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-e-pancadas-de-chuva-a-tarde-a-noite-ocorre-temporal.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:05:46+00:00",
+      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para esta terça-feira (22) para Santo André (SP) é de sol com muitas nuvens e pancadas de chuva à tarde. À noite ocorre temporal. As máximas são de 23ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nu",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:05:29+00:00",
+      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para esta terça-feira (22) para Osasco (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 24ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde,",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:05:13+00:00",
+      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para esta terça-feira (22) para Guarulhos (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 24ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:04:56+00:00",
+      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para esta terça-feira (22) para São Gonçalo (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 31ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:04:39+00:00",
+      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para esta terça-feira (22) para o Rio de Janeiro (RJ) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 32ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; à noite chove forte",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-a-noite-chove-forte.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:04:23+00:00",
+      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para esta terça-feira (22) para Nova Iguaçu (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. À noite chove forte. As máximas são de 31ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com m",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; à noite chove forte",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-a-noite-chove-forte.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:04:07+00:00",
+      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para esta terça-feira (22) para Niterói (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. À noite chove forte. As máximas são de 30ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nu",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; à noite chove forte",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-a-noite-chove-forte.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:03:50+00:00",
+      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para esta terça-feira (22) para Duque de Caxias (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. À noite chove forte. As máximas são de 31ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, s",
+      "category": "Clima"
+    },
+    {
+      "title": "A guerra híbrida chegou à Europa. E vai piorar.",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/a-guerra-hibrida-chegou-a-europa-e-vai-piorar/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T04:03:29+00:00",
+      "summary": "Sabotagem, drones, ciberataques e operações de influência. Um episódio que explica como funciona a guerra híbrida russa, porque se intensificou na Europa e se Portugal também pode ser alvo.",
+      "category": "Economia"
+    },
+    {
+      "title": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/22/previsao-do-tempo-hoje-para-sete-lagoas-mg-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:03:26+00:00",
+      "summary": "Previsão do tempo hoje em Sete Lagoas g1 A previsão do tempo para esta terça-feira (22) para Sete Lagoas (MG) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 33ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol c",
+      "category": "Clima"
+    },
+    {
+      "title": "Veja local onde helicóptero emitiu último sinal antes de desaparecer em SC",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/veja-local-onde-helicoptero-emitiu-ultimo-sinal-antes-de-desaparecer-em-sc/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T04:02:06+00:00",
+      "summary": "Aeronave desapareceu na tarde da última segunda-feira (21), onde equipe de resgate enfrenta alerta vermelho de chuvas e temporais; cantor Rick, da dupla com Renner e o empresário Bruno Avelar estavam no voo",
+      "category": "Cultura"
+    },
+    {
+      "title": "Empresa emprestou helicóptero para Bruno Avelar e cantor Rick",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/empresa-emprestou-helicoptero-para-bruno-avelar-e-cantor-rick/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T03:23:21+00:00",
+      "summary": "Além do cantor e do empresário, o videomaker Paulo Soares e o piloto também estavam na aeronave que sumiu em SC",
+      "category": "Economia"
+    },
+    {
+      "title": "4h. Secretas europeias alertam para teste russo à NATO",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2408/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T03:15:38+00:00",
+      "summary": "As avaliações divergem quanto ao risco de um ataque, mas convergem num ponto: Moscovo prepara-se para intensificar as ações de sabotagem na Europa. Ainda neste jornal, morre Jorge Palma aos 76 anos.",
+      "category": "Economia"
+    },
+    {
+      "title": "Candidatos debatem segurança e social e lembram ausências de Lula e Flávio",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/candidatos-debatem-seguranca-e-social-e-lembram-ausencias-de-lula-e-flavio/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T03:11:24+00:00",
+      "summary": "Ronaldo Caiado, Augusto Cury e Romeu Zema participaram de debate na noite desta segunda-feira (21) em São Paulo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Helicóptero desaparece com cantor Rick: buscas continuam nesta madrugada",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/helicoptero-desaparece-com-cantor-rick-buscas-continuam-nesta-madrugada/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T03:00:34+00:00",
+      "summary": "Aeronave sumiu na tarde de segunda em Santa Catarina e equipes de resgate intensificam a busca",
+      "category": "Cultura"
+    },
+    {
+      "title": "Após cirurgia no ombro, Gabriel Brazão não joga mais pelo Santos em 2026",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/apos-cirurgia-no-ombro-gabriel-brazao-nao-joga-mais-pelo-santos-em-2026/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T03:00:28+00:00",
+      "summary": "Goleiro titular do Peixe foi submetido a procedimento cirúrgico nessa segunda (21) e deve retornar aos gramados somente na próxima temporada",
+      "category": "Esportes"
+    },
+    {
+      "title": "Reinier revela mensagem de Hulk após classificação heroica do Atlético-MG",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/reinier-revela-mensagem-de-hulk-apos-classificacao-heroica-do-atletico-mg/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T02:59:03+00:00",
+      "summary": "Em entrevista exclusiva à Itatiaia, concedida na noite desta segunda-feira (21), atleta do Galo revelou o conteúdo da mensagem enviada pelo experiente jogador",
+      "category": "Esportes"
+    },
+    {
+      "title": "Quem é Well Macedo, candidata do PSTU ao governo do Pará",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-well-macedo-candidata-do-pstu-ao-governo-do-para/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T02:57:26+00:00",
+      "summary": "Candidata do PSTU (Partido Socialista dos Trabalhadores Unificado) já concorreu em três eleições, mas não foi eleita em nenhuma das tentativas anteriores",
+      "category": "Política"
+    },
+    {
+      "title": "Quem é Celso Sabino, candidato ao Senado pelo Pará",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-celso-sabino-candidato-ao-senado-pelo-para/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T02:46:35+00:00",
+      "summary": "Deputado federal do PDT foi ministro do Turismo do governo Lula e compõe chapa do petista no estado",
+      "category": "Política"
+    },
+    {
+      "title": "Renner pede orações após helicóptero em que Rick estava desaparecer",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/renner-pede-oracoes-apos-helicoptero-em-que-rick-estava-desaparecer/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T02:44:56+00:00",
+      "summary": "Aeronave que levava o artista perdeu a comunicação nesta segunda-feira (21)",
+      "category": "Mundo"
+    },
+    {
+      "title": "“Temos muito a construir”, diz esposa de empresário desaparecido em SC",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/temos-muito-a-construir-diz-esposa-de-empresario-desaparecido-em-sc/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T02:39:00+00:00",
+      "summary": "Lívia Avelar ressalta nas redes sociais que dispositivo de emergência da aeronave não foi acionado; Cantor Rick, da dupla com Renner, também estava em helicóptero",
+      "category": "Cultura"
+    },
+    {
+      "title": "Corinthians bate o Bahia de novo e avança à final do Brasileirão feminino",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-bate-o-bahia-de-novo-e-avanca-a-final-do-brasileirao-feminino/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T02:38:39+00:00",
+      "summary": "Time alvinegro conquistou mais um triunfo sobre a equipe baiana nesta segunda-feira (21), dessa vez na Neo Química Arena, em Itaquera",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h. Jorge Palma. Líder do PS recorda \"homem livre\"",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2444/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T02:15:15+00:00",
+      "summary": "Artista morreu aos 76 anos, na sequência de uma paragem cardiorrespiratória. Ainda nesta edição, os alertas dos responsáveis de secretas europeias: Rússia pode testar a NATO nos próximos meses.",
+      "category": "Economia"
+    },
+    {
+      "title": "Quem é Breno Guimarães, candidato ao Senado pelo Pará",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-breno-guimaraes-candidato-ao-senado-pelo-para/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T02:10:59+00:00",
+      "summary": "Postulante tem 45 anos, é formado em direito e construiu carreira no Tribunal de Justiça do Estado do Pará",
+      "category": "Política"
+    },
+    {
+      "title": "1h Morreu Jorge Palma",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-morreu-jorge-palma_a1_1766899",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T01:59:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "0h Sérvia: humorista Zoran Kesic usa o fado para criticar fim de programa",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-servia-humorista-zoran-kesic-usa-o-fado-para-criticar-fim-de-programa_a1_1766898",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T01:53:01+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h. Montenegro reage: \"Jorge Palma parte, mas música fica\"",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2418/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T01:15:15+00:00",
+      "summary": "Cantor e compositor morreu aos 76 anos, vítima de paragem cardiorrespiratória. Ainda nesta edição, na reação, José Luís Carneiro recorda “o homem livre, de criatividade singular e autenticidade rara”.",
+      "category": "Cultura"
+    },
     {
       "title": "Morreu o músico Jorge Palma aos 76 anos",
       "url": "https://www.rtp.pt/noticias/cultura/morreu-o-musico-jorge-palma-aos-76-anos_n1766893",
       "source": "RTP Notícias",
       "region": "Portugal",
       "publishedAt": "2026-09-22T00:59:45+00:00",
-      "summary": "Morreu Jorge Palma, um dos maiores nomes da música portuguesa. O cantor e compositor faleceu aos 76 anos, deixando uma obra que atravessou gerações e marcou a história da canção nacional. Uma carreira de mais de cinco décadas, feita de canções que passaram a fazer parte da memória coletiva dos portugueses.",
+      "summary": "Morreu Jorge Palma, um dos maiores nomes da música portuguesa. O cantor e compositor faleceu aos 76 anos, deixando uma obra que atravessou gerações e marcou a história da canção nacional.",
       "category": "Cultura"
+    },
+    {
+      "title": "\"Ficam a voz e o carisma\". As reações à morte de Jorge Palma",
+      "url": "https://observador.pt/2026/09/22/o-que-ele-ja-nao-vai-viver-nos-vamos-inventar-com-ele-as-reacoes-a-morte-de-jorge-palma/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T00:36:51+00:00",
+      "summary": "Jorge Palma morreu aos 76 anos, anunciou a família. Políticos foram os primeiros a reagir, recordando as canções de Palma.",
+      "category": "Mundo"
     },
     {
       "title": "Presidente iraniano vai participar na assembleia-geral da ONU",
@@ -17,6 +332,24 @@
       "region": "Portugal",
       "publishedAt": "2026-09-22T00:26:47+00:00",
       "summary": "O presidente do Irão vai participar na Assembleia Geral das Nações Unidas que decorre em Nova Iorque. A informação foi avançada por Teerão, mas os Estados Unidos ainda não confirmaram a entrada de Masoud Pezeshkian no país.",
+      "category": "Política"
+    },
+    {
+      "title": "Defesa Civil alerta para ventos fortes na cidade do Rio",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-alerta-para-ventos-fortes-na-cidade-do-rio",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-22T00:16:00+00:00",
+      "summary": "A Defesa Civil do Rio emitiu um alerta para ventos fortes na madrugada desta terça-feira (22). Moradores da capital receberam o aviso via celular. Segundo o Sistema Alerta Rio, áreas de instabilidade associadas à aproximação de uma frente fria continental podem provocar céu nublado a encoberto e pancadas de chuva moder",
+      "category": "Clima"
+    },
+    {
+      "title": "1h. Morre Jorge Palma aos 76 anos",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2391/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-22T00:15:43+00:00",
+      "summary": "Família confirma que Jorge Palma morreu esta segunda-feira à noite, vítima de paragem cardiorrespiratória. Primeiro-ministro já reagiu: “Jorge Palma parte, mas a música fica”, escreve Luís Montenegro.",
       "category": "Política"
     },
     {
@@ -29,31 +362,22 @@
       "category": "Clima"
     },
     {
-      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 21 de setembro de 2026",
-      "url": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-21-de-setembro-de-2026.ghtml",
-      "source": "G1",
+      "title": "AGU pede ao STF perda do cargo de ministro acusado de assédio",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/agu-pede-ao-stf-perda-do-cargo-de-ministro-acusado-de-assedio",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-21T23:57:32+00:00",
-      "summary": "Reveja os vídeos do telejornal.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eduardo Braide apresenta propostas para juventude e fala em gerar empregos e ampliar tecnologia no MA",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/eduardo-braide-apresenta-propostas-para-juventude-e-fala-em-gerar-empregos-e-ampliar-tecnologia-no-ma.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:57:16+00:00",
-      "summary": "Saiba como foi o dia do candidato Eduardo Braide ao governo do Maranhão O candidato Eduardo Braide (PSD) realizou campanha, nesta segunda-feira (21), em Balsas, no Sul do Maranhão. Ele participou de uma carreata pelas ruas da cidade, cumprimentou moradores e apoiadores e apresentou propostas voltadas para oportunidades",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "summary": "A Advocacia-Geral da União (AGU) informou nesta segunda-feira (21) que solicitou ao Supremo Tribunal Federal (STF) a perda definitiva do cargo do ministro Superior Tribunal de Justiça (STJ) Marco Buzzi, acusado de assédio sexual. Em agosto, o STJ decidiu condenar o ministro após julgar o processo disciplinar aberto par",
       "category": "Política"
     },
     {
-      "title": "Polícia investiga denúncia de assédio sexual durante exame em clínica de Sumaré",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/21/policia-investiga-denuncia-de-assedio-sexual-durante-exame-em-clinica-de-sumare.ghtml",
-      "source": "G1",
+      "title": "Veja como foi a segunda-feira (21) dos candidatos a presidente",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-segunda-feira-21-dos-candidatos-presidente",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-21T23:56:11+00:00",
-      "summary": "Imagem de arquivo da DDM de Sumaré Évelin Costa/EPTV A Polícia Civil investiga uma denúncia de assédio sexual registrada por uma mulher de 37 anos contra um médico de 50 anos em uma clínica na região central de Sumaré (SP), na manhã desta segunda-feira (21). De acordo com o boletim de ocorrência, a paciente procurou a ",
-      "category": "Ciência & Tech"
+      "publishedAt": "2026-09-21T23:57:00+00:00",
+      "summary": "A agenda dos candidatos à Presidência nesta segunda-feira (21) incluiu sabatina, atos políticos, encontros com apoiadores e atividades de campanha em diferentes cidades. >> Veja como foi o dia dos presidenciáveis: Augusto Cury (Avante) Em São Paulo, o candidato Augusto Cury participou de um encontro com influenciadores",
+      "category": "Política"
     },
     {
       "title": "23h Presidente da AIMA está de saída vai para a Autoridade para a Concorrência",
@@ -65,103 +389,22 @@
       "category": "Política"
     },
     {
-      "title": "'Torcendo para que nada tenha acontecido', diz Cury após conselheiro de campanha desaparecer a bordo de helicóptero com cantor Rick",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/augusto-cury-conselheiro-campanha-helicoptero-desaparecido.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:53:33+00:00",
-      "summary": "Rick postou encontro com empresário Bruno Avelar em aeroporto Candidato à Presidência pelo Avante, Augusto Cury publicou um vídeo em suas redes sociais demonstrando preocupação com o desaparecimento do helicóptero em que está um de seus conselheiros de campanha, o empresário Bruno Avelar, na tarde desta segunda-feira (",
-      "category": "Cultura"
-    },
-    {
-      "title": "Resultados das Loterias Caixa",
-      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:53:31+00:00",
-      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Incêndio em escola estadual mobiliza Corpo de Bombeiros em Jacareí",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/21/incendio-em-escola-estadual-mobiliza-corpo-de-bombeiros-em-jacarei.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:53:28+00:00",
-      "summary": "Um incêndio atingiu uma sala de aula da Escola Estadual Olívia do Amaral Santos Canettieri, no Parque Meia Lua, em Jacareí (SP), na noite desta segunda-feira (21). O Corpo de Bombeiros informou que o fogo ficou concentrado em uma sala de aproximadamente 30 metros quadrados. O foco do incêndio foi um armário que armazen",
-      "category": "Clima"
-    },
-    {
-      "title": "Gravações, reuniões e visita à obra: veja como foi o dia dos candidatos ao governo da Paraíba",
-      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/gravacoes-reunioes-e-visita-a-obra-veja-como-foi-o-dia-dos-candidatos-ao-governo-da-paraiba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:48:59+00:00",
-      "summary": "Candidatos a governador da Paraíba em 2026 Reprodução/TV Cabo Branco Os candidatos ao governo da Paraíba cumpriram agenda em diferentes cidades, nesta sexta-feira (18), durante mais um dia de campanha. Entre os compromissos dos candidatos, estiveram entrevistas, caminhadas e sabatinas. O primeiro turno de votação será ",
-      "category": "Política"
-    },
-    {
-      "title": "Candidatos ao Governo de MT cumprem agendas nesta segunda-feira (21)",
-      "url": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/21/candidatos-ao-governo-de-mt-cumprem-agendas-nesta-segunda-feira-21.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:47:45+00:00",
-      "summary": "Candidatos ao Governo de Mato Grosso Montagem/g1 Os candidatos ao Governo de Mato Grosso cumpriram, nesta quinta-feira (), agendas de campanha em diferentes locais. Ao todo, o estado tem seis candidatos registrados no Tribunal Superior Eleitoral (TSE) para disputar as eleições de 2026. Candidatos ao Governo de Mato Gro",
-      "category": "Política"
-    },
-    {
-      "title": "Felipe Camarão destaca educação e emprego como prioridades para juventude no Maranhão",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/felipe-camarao-destaca-educacao-e-emprego-como-prioridades-para-juventude-no-maranhao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:47:22+00:00",
-      "summary": "Saiba como foi o dia do candidato Felipe Camarão ao governo do Maranhão O candidato Felipe Camarão (PT) participou, nesta segunda-feira (21), da entrevista do JM1 e respondeu a perguntas feitas por 32 estudantes maranhenses dos ensinos médio e superior. 📲 Clique aqui e se inscreva no canal do g1 Maranhão no WhatsApp Du",
-      "category": "Política"
-    },
-    {
-      "title": "Moraes se declara impedido para atuar em ação que pede informações ao Senado sobre visitas de sua esposa e de Vorcaro",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-para-atuar-em-acao-que-pede-informacoes-ao-senado-sobre-visitas-de-sua-esposa-e-de-vorcaro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:46:30+00:00",
-      "summary": "Ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes Gustavo Moreno/STF O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou impedido para atuar como relator de um mandado de segurança que busca obrigar o Senado a divulgar informações entrada e saída de pessoas, incluindo sua esposa,",
-      "category": "Política"
-    },
-    {
       "title": "Morreu Jorge Palma. Cantor e compositor tinha 76 anos",
       "url": "https://observador.pt/2026/09/22/morreu-jorge-palma-um-dos-maiores-nomes-da-musica-portuguesa-cantor-e-compositor-tinha-76-anos/",
       "source": "Observador",
       "region": "Portugal",
       "publishedAt": "2026-09-21T23:46:24+00:00",
-      "summary": "A família anunciou a morte do músico, ocorrida na segunda-feira à noite, vítima de paragem cardiorrespiratória. Tinha uma carreira de mais de meio século.",
+      "summary": "Vítima de paragem cardiorrespiratória, o músico lisboeta deixa 14 álbuns de originais, prémios de carreira e mais de cinquenta anos de canções gravadas na memória dos portugueses.",
       "category": "Cultura"
     },
     {
-      "title": "Eleições 2026 na Bahia: confira como foi a agenda de campanha dos candidatos nesta segunda-feira",
-      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/21/agenda-dos-candidatos-ao-governo-da-bahia.ghtml",
-      "source": "G1",
+      "title": "Senacon vai investigar 70 postos por aumento abusivo de preços",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/senacon-vai-investigar-70-postos-por-aumento-abusivo-de-precos",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-21T23:45:42+00:00",
-      "summary": "Confira a agenda dos candidatos a governador da Bahia nesta segunda-feira Os candidatos ao governo da Bahia cumpriram compromissos de campanha nesta segunda-feira (21). Entre as atividades do dia, estão reuniões, gravações, caminhada e panfletagens, na capital baiana. 📲 Clique aqui e entre no grupo do WhatsApp do g1 Ba",
-      "category": "Política"
-    },
-    {
-      "title": "Jovem morre após ser golpeado com tesoura e faca durante festa",
-      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/21/jovem-morre-apos-ser-golpeado-com-tesoura-e-faca-durante-festa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:45:30+00:00",
-      "summary": "Briga termina em morte em Auriflama Um jovem de 19 anos morreu na tarde de segunda-feira (21) após ser atingido por golpes de tesoura e faca durante uma briga em uma festa em Auriflama (SP). Segundo a polícia, a briga generalizada ocorreu na madrugada de domingo (20) na zona rural da cidade. Um vídeo gravado por freque",
-      "category": "Esportes"
-    },
-    {
-      "title": "Helicóptero desaparece com cantor Rick: o que sabemos até agora",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/helicoptero-desaparece-com-cantor-rick-o-que-sabemos-ate-agora/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:39:08+00:00",
-      "summary": "Artista da dupla Rick & Renner e o fundador do 'Poder do Network' Bruno Avelar estavam na aeronave",
-      "category": "Cultura"
+      "publishedAt": "2026-09-21T23:32:00+00:00",
+      "summary": "A Secretaria Nacional do Consumidor (Senacon), órgão do Ministério da Justiça e Segurança Pública, instaurou nesta segunda-feira (21), 70 processos administrativos sancionadores contra postos de combustíveis por indícios de aumento abusivo de preços. Os estabelecimentos podem ser multados em até R$ 14 milhões, com base",
+      "category": "Economia"
     },
     {
       "title": "Índice de aprovação de Trump cai para mínimo histórico",
@@ -170,24 +413,6 @@
       "region": "Portugal",
       "publishedAt": "2026-09-21T23:30:33+00:00",
       "summary": "É o mais baixo da carreira política de Donald Trump: o índice de aprovação do presidente dos Estados Unidos caiu para os 32 por cento, segundo um estudo da Reuters.",
-      "category": "Política"
-    },
-    {
-      "title": "AGU aciona STF para que Marco Buzzi perca cargo de ministro do STJ",
-      "url": "https://www.cnnbrasil.com.br/politica/agu-aciona-stf-para-que-marco-buzzi-perca-cargo-de-ministro-do-stj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:29:27+00:00",
-      "summary": "Magistrado é alvo de duas acusações de assédio e importunação sexual",
-      "category": "Política"
-    },
-    {
-      "title": "Quem é Serley Leal, candidato do UP ao governo do Ceará",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-serley-leal-candidato-do-up-ao-governo-do-ceara/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:28:58+00:00",
-      "summary": "Candidato é natural de Iguatu, no interior do estado e está disputando a sua terceira eleição; chapa tem mulher como vice",
       "category": "Política"
     },
     {
@@ -227,33 +452,6 @@
       "category": "Política"
     },
     {
-      "title": "Câncer na família exige fazer mais exames? Saiba quando é indicado e como agir",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/cancer-na-familia-exige-fazer-mais-exames-saiba-quando-e-indicado-e-como-agir/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:20:13+00:00",
-      "summary": "Descubra quando o histórico familiar justifica teste genético, como funciona o rastreamento personalizado e por que antecipar exames sem indicação médica oferece mais riscos",
-      "category": "Saúde"
-    },
-    {
-      "title": "Não vou apoiar Lula nem Flávio no 2º turno, diz Cury",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/nao-vou-apoiar-lula-nem-flavio-no-2o-turno-diz-cury/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:19:38+00:00",
-      "summary": "Candidato do Avante à Presidência voltou a dizer que, caso eleito em outubro, deseja governar \"para os dois lados\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quem é Jeferson Rocha, candidato ao Senado por Santa Catarina",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-jeferson-rocha-candidato-ao-senado-por-santa-catarina/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:16:54+00:00",
-      "summary": "Advogado e produtor rural, candidato do PRD está em sua terceira disputa eleitoral e tem o agronegócio entre suas principais pautas",
-      "category": "Política"
-    },
-    {
       "title": "As notícias das 00h",
       "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2426/",
       "source": "Observador",
@@ -263,120 +461,12 @@
       "category": "Mundo"
     },
     {
-      "title": "União Europeia & Associados",
-      "url": "https://observador.pt/opiniao/uniao-europeia-associados/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T23:15:37+00:00",
-      "summary": "O que vimos na passada quarta-feira foi a UE a tentar formular uma nova visão estratégica para o futuro, mais do que uma resposta circunstancial à pressão americana.",
-      "category": "Economia"
-    },
-    {
-      "title": "Fogo em Arcos de Valdevez com duas frentes ativas",
-      "url": "https://observador.pt/2026/09/22/incendios-fogo-em-arcos-de-valdevez-com-duas-frentes-ativas-e-reforcos-de-meios-terrestres/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T23:14:24+00:00",
-      "summary": "O fogo situa-se \"numa zona onde existem algumas aldeias por perto, mas que não estão em perigo\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Reflexões sobre a portugalidade",
-      "url": "https://observador.pt/opiniao/reflexoes-sobre-a-portugalidade/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T23:14:08+00:00",
-      "summary": "Estaremos condenados a ser pastoreados por catequistas da laicidade e das virtudes do individualismo e do materialismo?",
-      "category": "Mundo"
-    },
-    {
-      "title": "Helicóptero desaparecido com cantor Rick: buscas ocorrem em pontos 30km distantes",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/helicoptero-desaparecido-com-cantor-rick-buscas-ocorrem-em-pontos-30km-distantes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:12:54+00:00",
-      "summary": "Operação concentra-se em dois pontos, sendo um o local onde a aeronave supostamente caiu e o outro onde foi registrado o último sinal de celular de um dos tripulantes",
-      "category": "Cultura"
-    },
-    {
-      "title": "O desporto também faz parte da missão das universidades",
-      "url": "https://observador.pt/opiniao/o-desporto-tambem-faz-parte-da-missao-das-universidades-da-ideia-a-acao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T23:12:50+00:00",
-      "summary": "Uma universidade dispõe de competências que nenhum outro agente desportivo reúne da mesma forma",
-      "category": "Cultura"
-    },
-    {
-      "title": "Cuiabá x Náutico: horário e onde assistir ao jogo da Série B",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/cuiaba-x-nautico-horario-e-onde-assistir-ao-jogo-da-serie-b/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:12:05+00:00",
-      "summary": "Equipes se enfrentam nesta segunda-feira (21), na Arena Pantanal, pela 29ª rodada da Série B do Campeonato Brasileiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Quem é Ana Lucia da Silveira Machado, candidata ao Senado por SC",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-ana-lucia-da-silveira-machado-candidata-ao-senado-por-sc/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:11:19+00:00",
-      "summary": "Ex-servidora do IFSC, professora de 71 anos concorre pela primeira vez a um cargo eletivo",
-      "category": "Política"
-    },
-    {
-      "title": "Lindsay Clancy. Advogado pede investigação a jurado",
-      "url": "https://observador.pt/2026/09/22/advogado-pede-investigacao-a-jurado-que-queria-condenar-lindsay-clancy/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T23:11:09+00:00",
-      "summary": "Michael Desronvil foi o único elemento do júri que quis condenar mãe que matou três filhos e que estaria a sofrer de uma rara psicose pós-parto. Advogado quer acesso aos registos telefónicos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "JBS S.A. sai da CVM e JBS N.V assume estrutura de emissora",
-      "url": "https://www.cnnbrasil.com.br/agro/jbs-s-a-sai-da-cvm-e-jbs-n-v-assume-estrutura-de-emissora/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:10:44+00:00",
-      "summary": "Movimento vale para negociação de debêntures emitidas pela companhia",
-      "category": "Mundo"
-    },
-    {
-      "title": "Produção de tilápia cresce 148% em dez anos e chega a 707,5 mil toneladas",
-      "url": "https://www.cnnbrasil.com.br/agro/producao-de-tilapia-cresce-148-em-dez-anos-e-chega-a-7075-mil-toneladas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:09:06+00:00",
-      "summary": "Avanço da atividade amplia a necessidade de reduzir perdas, melhorar a eficiência e elevar a qualidade da produção brasileira diante da maior competição no mercado",
-      "category": "Economia"
-    },
-    {
-      "title": "Mãe quer justiça por jovem encontrada morta em condomínio no Ceará",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/mae-quer-justica-por-jovem-encontrada-morta-em-condominio-no-ceara",
+      "title": "Mãe pede justiça por jovem encontrada morta em condomínio no Ceará",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/mae-pede-justica-por-jovem-encontrada-morta-em-condominio-no-ceara",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-09-21T23:09:00+00:00",
       "summary": "A família da universitária Isabelle Caracristi, de 22 anos, busca respostas e justiça pela morte da jovem. Isabelle foi encontrada morta no pátio do condomínio onde morava com o namorado e familiares dele, em Fortaleza, no Ceará, no dia 13 de setembro. \"Eu não estou chorando apenas a dor da perda, mas porque não tenho ",
-      "category": "Mundo"
-    },
-    {
-      "title": "A sexualização da astrofísica e outras estórias",
-      "url": "https://observador.pt/opiniao/a-sexualizacao-da-astrofisica-e-outras-estorias/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T23:08:33+00:00",
-      "summary": "A sexualização não é uma depreciação da condição feminina, é propaganda à sua participação. Menina nenhuma quer fazer aquilo que as mulheres bonitas não fazem.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Análise: Assembleia da ONU de 2026 será a mais importante em anos",
-      "url": "https://www.cnnbrasil.com.br/internacional/analise-assembleia-da-onu-de-2026-sera-a-mais-importante-em-anos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T23:06:47+00:00",
-      "summary": "Líderes mundiais se reúnem em Nova York para a 81ª sessão da Assembleia Geral da ONU; de acordo com Américo Martins, para o Hora H, encontro será marcado por discursos e debate sobre o futuro da entidade",
       "category": "Mundo"
     },
     {
@@ -385,7 +475,7 @@
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-09-21T23:03:00+00:00",
-      "summary": "A Força Aérea Brasileira (FAB) e o corpo de bombeiros de Santa Catarina realizam buscas por um helicóptero de matrícula PP-MGR, desaparecido na tarde desta segunda-feira (21), próximo à cidade de São Joaquim (SC). Entre os desaparecidos está o cantor sertanejo Rick, da dupla Rick e Renner. Segundo os bombeiros a aerona",
+      "summary": "A Força Aérea Brasileira (FAB) e o corpo de bombeiros de Santa Catarina realizam buscas por um helicóptero de matrícula PP-MGR, desaparecido na tarde desta segunda-feira (21), próximo à cidade de São Joaquim (SC). Entre os desaparecidos está o cantor sertanejo Rick, da dupla Rick e Renner. Segundo os bombeiros, a aeron",
       "category": "Cultura"
     },
     {
@@ -398,15 +488,6 @@
       "category": "Economia"
     },
     {
-      "title": "Israel acusa Hamas de \"violação flagrante\" do acordo de cessar-fogo em Gaza",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-acusa-hamas-de-violacao-flagrante-do-acordo-de-cessar-fogo-em-gaza_n1766881",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T22:33:08+00:00",
-      "summary": "As Forças de Defesa de Israel (FDI) acusaram hoje o Hamas de «violação flagrante» do cessar-fogo em Gaza, e responderam com ataques a instalações do movimento islamita palestiniano, que terão feito 3 feridos, segundo a imprensa no enclave.",
-      "category": "Mundo"
-    },
-    {
       "title": "Empregados da Caixa rejeitam proposta da empresa e greve continua",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/empregados-da-caixa-rejeitam-proposta-da-empresa-e-greve-continua",
       "source": "Agência Brasil",
@@ -416,24 +497,6 @@
       "category": "Economia"
     },
     {
-      "title": "21h Ministra do Ambiente: há uma diminuição do uso dos carros por causa do preço dos combustíveis",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-ministra-do-ambiente-ha-uma-diminuicao-do-uso-dos-carros-por-causa-do-preco-dos-combustiveis_a1_1766883",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T22:24:02+00:00",
-      "summary": "",
-      "category": "Economia"
-    },
-    {
-      "title": "Villas-Boas defende que FC Porto venceu Benfica com justiça e \"grande arbitragem\"",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/villas-boas-defende-que-fc-porto-venceu-benfica-com-justica-e-grande-arbitragem_d1766882",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T22:16:52+00:00",
-      "summary": "O presidente do FC Porto, André Villas-Boas, defendeu que os ‘dragões’ venceram o clássico ante o Benfica, da sétima jornada da I Liga de futebol,com justiça e \"uma grande arbitragem\" do juiz Miguel Nogueira.",
-      "category": "Política"
-    },
-    {
       "title": "Rio confirma caso de raiva em cão que teve contato com morcego",
       "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/rio-confirma-caso-de-raiva-em-cao-que-teve-contato-com-morcego",
       "source": "Agência Brasil",
@@ -441,24 +504,6 @@
       "publishedAt": "2026-09-21T22:12:00+00:00",
       "summary": "Um cão que vivia em uma área urbana na Zona Oeste do Rio de Janeiro teve diagnóstico confirmado de raiva em agosto e precisou ser sacrificado. De acordo com um alerta da Secretaria de Estado de Saúde fluminense (SES-RJ), divulgado em 18 de setembro, o animal tinha histórico de contato com morcegos. Segundo a Secretaria",
       "category": "Saúde"
-    },
-    {
-      "title": "Supremo moçambicano rejeita pedido de transmissão em direto do julgamento de Mondlane",
-      "url": "https://www.rtp.pt/noticias/mundo/supremo-mocambicano-rejeita-pedido-de-transmissao-em-direto-do-julgamento-de-mondlane_n1766861",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T22:11:19+00:00",
-      "summary": "O Tribunal Supremo (TS) moçambicano rejeitou hoje o pedido de transmissão em direto, pelos meios de comunicação social, do julgamento do político Venâncio Mondlane, no âmbito das manifestações pós-eleitorais, justificando que quer garantir a \"lisura\" do processo.",
-      "category": "Política"
-    },
-    {
-      "title": "Crise climática é questão de segurança diz MNE britânico",
-      "url": "https://www.rtp.pt/noticias/mundo/crise-climatica-e-questao-de-seguranca-diz-mne-britanico_n1766865",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T22:10:07+00:00",
-      "summary": "O ministro britânico dos Negócios Estrangeiros, Ed Miliband, defendeu hoje que a crise climática mundial é uma questão de segurança, que deve ser abordada pelos generais e primeiros-ministros, e não apenas pelos ativistas ambientais.",
-      "category": "Política"
     },
     {
       "title": "Moraes se declara impedido em ação sobre ida de sua esposa ao Senado",
@@ -477,51 +522,6 @@
       "publishedAt": "2026-09-21T22:00:00+00:00",
       "summary": "A Financiadora de Estudos e Projetos (Finep) prorrogou até a próxima sexta-feira (25) o prazo para enviar projetos de inovação para a chamada pública Finep Mais Inovação Brasil – Rodada 2 – Mobilidade Sustentável . As propostas precisam ser de empresas brasileiras e contar com a parceria técnico-científica de, pelo men",
       "category": "Economia"
-    },
-    {
-      "title": "Temporais provocam morte, desaparecimentos e atingem 119 cidades no RS",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-provocam-morte-desaparecimentos-e-atingem-119-cidades-no-rs",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T21:48:00+00:00",
-      "summary": "Uma pessoa morreu em Pelotas (RS) após o forte temporal que atingiu o estado do Rio Grande do Sul nesta segunda-feira (21). Segundo informações da Polícia Civil, a vítima era um motociclista que foi atingido pela queda de fios de alta tensão no momento do temporal na cidade. De acordo com a prefeitura de Pelotas, o eve",
-      "category": "Clima"
-    },
-    {
-      "title": "Avestruzes sul-africanas depenadas vivas para confeção de peças de alta costura diz ONG",
-      "url": "https://www.rtp.pt/noticias/mundo/avestruzes-sul-africanas-depenadas-vivas-para-confecao-de-pecas-de-alta-costura-diz-ong_n1766868",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-21T21:42:55+00:00",
-      "summary": "Explorações de avestruzes na África do Sul estão a utilizar depenadores mecânicos em aves vivas, empregando técnicas cruéis e dolorosas para obter penas para grandes marcas de luxo, denunciou hoje uma organização de defesa dos direitos dos animais.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Morador de Pelotas mostra nas redes estragos causados por tempestade",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/morador-de-pelotas-mostra-nas-redes-estragos-causados-por-tempestade",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T21:24:00+00:00",
-      "summary": "O morador da cidade gaúcha de Pelotas Rafael Cunha foi uma das muitas vítimas da tempestade que atingiu o Rio Grande do Sul nesta madrugada de segunda-feira (21). Cunha postou nas redes sociais imagens da própria casa, no bairro Laranjal, parcialmente destruída. Ver esse post no Instagram Um post compartilhado por Rafa",
-      "category": "Mundo"
-    },
-    {
-      "title": "Escolas privadas fora de locais de votação terão aulas normais no DF",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/escolas-privadas-fora-de-locais-de-votacao-terao-aula-no-df",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T21:10:00+00:00",
-      "summary": "O governo do Distrito Federal (GDF) alterou o decreto publicado no dia 11 de setembro sobre a suspensão das aulas nas duas sextas-feiras que antecedem o primeiro e o segundo turno das eleições deste ano, dias 2 e 23 de outubro. Com a mudança, as escolas privadas que não forem requisitadas como locais de votação devem p",
-      "category": "Política"
-    },
-    {
-      "title": "Maioria do TSE mantém suspensão da campanha de Deltan ao Senado",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/maioria-do-tse-mantem-suspensao-da-campanha-de-deltan-ao-senado",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-21T20:36:00+00:00",
-      "summary": "O Tribunal Superior Eleitoral (TSE) formou maioria de votos, nesta segunda-feira (21), para manter a suspensão da campanha eleitoral do candidato ao Senado pelo Paraná Deltan Dallagnol (Novo). Os votos foram proferidos durante o julgamento virtual que delibera sobre a manutenção da decisão individual do ministro Floria",
-      "category": "Política"
     }
   ],
   "sources": [
