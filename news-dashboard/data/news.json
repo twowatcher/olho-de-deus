@@ -1,527 +1,527 @@
 {
-  "updatedAt": "2026-09-23T16:53:51.658925+00:00",
+  "updatedAt": "2026-09-23T23:39:42.343522+00:00",
   "items": [
     {
-      "title": "17h Irão apresenta novas condições aos EUA",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/17h-irao-apresenta-novas-condicoes-aos-eua_a1_1767295",
+      "title": "0h Líderes da OpenAI e da Anthropic: são necessárias normas comuns para regular a Inteligência Artificial",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-lideres-da-openai-e-da-anthropic-sao-necessarias-normas-comuns-para-regular-a-inteligencia-artificial_a1_1767368",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T17:46:02+00:00",
+      "publishedAt": "2026-09-24T00:36:02+00:00",
+      "summary": "",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "MNE português e timorense reforçaram concertação entre os dois países em encontro",
+      "url": "https://www.rtp.pt/noticias/politica/mne-portugues-e-timorense-reforcaram-concertacao-entre-os-dois-paises-em-encontro_n1767365",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T00:30:41+00:00",
+      "summary": "O ministro dos Negócios Estrangeiros, Paulo Rangel, reuniu-se na quarta-feira com o homólogo de Timor-Leste, Bendito Freitas, à margem da Assembleia Geral da ONU, num encontro onde reforçaram a concertação entre os dois países.",
+      "category": "Política"
+    },
+    {
+      "title": "Juiz questiona o veto a jornalistas de CNN, MS NOW e Politico na Casa Branca",
+      "url": "https://www.rtp.pt/noticias/mundo/juiz-questiona-o-veto-a-jornalistas-de-cnn-ms-now-e-politico-na-casa-branca_n1767366",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T00:30:05+00:00",
+      "summary": "O juiz Timothy Kelly questionou na quarta-feira a retirada por Donald Trump dos passes de imprensa sem estabelecer antes regras nem notificar atempadamente, durante a audiência de abertura sobre o veto a CNN, MS NOW y Politico.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal assina memorando de entendimento para reforçar parceria com países do Golfo",
+      "url": "https://www.rtp.pt/noticias/politica/portugal-assina-memorando-de-entendimento-para-reforcar-parceria-com-paises-do-golfo_n1767361",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T00:29:23+00:00",
+      "summary": "O ministro dos Negócios Estrangeiros português, Paulo Rangel, assinou hoje com o secretário-geral do Conselho de Cooperação do Golfo um Memorando de Entendimento sobre Matérias de Interesse Comum, para reforçar a parceria entre Portugal e os países do Golfo.",
+      "category": "Política"
+    },
+    {
+      "title": "\"Ferido e a sofrer\". Família de imigrante venezuelano com bala do ICE alojada no corpo exige que seja operado",
+      "url": "https://www.rtp.pt/noticias/mundo/ferido-e-a-sofrer-familia-de-imigrante-venezuelano-com-bala-do-ice-alojada-no-corpo-exige-que-seja-operado_n1767364",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T00:23:05+00:00",
+      "summary": "Os documentos judiciais apresentados pelos advogados de Wilber Garcés Pérez indicam que apesar de ferido este foi forçado a dormir no chão de betão de um centro de processamento temporário do ICE.",
+      "category": "Clima"
+    },
+    {
+      "title": "Fabian Figueiredo na Grande Entrevista com a experiência pessoal da violência na família",
+      "url": "https://www.rtp.pt/noticias/pais/fabian-figueiredo-na-grande-entrevista-com-a-experiencia-pessoal-da-violencia-na-familia_n1767360",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T00:03:33+00:00",
+      "summary": "O deputado do Bloco de Esquerda Fabian Figueiredo esteve esta quarta-feira na Grande Entrevista da RTP com o tema da conversa centrado na sua experiência de violência familiar experimentada com os irmãos e a mãe. A entrevista desta noite retoma um artigo escrito há poucas semanas por Fabian Figueiredo - \"A violência da",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal assina memorando com países do Golfo",
+      "url": "https://observador.pt/2026/09/24/portugal-assina-memorando-de-entendimento-para-reforcar-parceria-com-paises-do-golfo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:35:47+00:00",
+      "summary": "Paulo Rangel se reuniu à margem da Assembleia Geral da ONU",
+      "category": "Esportes"
+    },
+    {
+      "title": "Presidente da Venezuela faz discurso ambíguo na ONU, critica interferência externa, elogia acordo com os EUA e fala em transição democrática",
+      "url": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:31:51+00:00",
+      "summary": "Presidente da Venezuela faz discurso ambíguo na ONU, critica interferência externa, elogia acordo com os EUA e fala em transição democrática Mais cedo, discursaram o presidente do Irã, Javier Milei e Zelesnky. Na terça (22), Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar",
+      "category": "Política"
+    },
+    {
+      "title": "Hayley Williams presta homenagem ao ex-marido, Chad Gilbert, após morte",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/hayley-williams-presta-homenagem-ao-ex-marido-chad-gilbert-apos-morte/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:30:44+00:00",
+      "summary": "Guitarrista e cofundador do New Found Glory faleceu aos 45 anos após uma batalha contra o câncer",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio destrói área equivalente a 140 campos de futebol próxima à Casca d’Anta na Serra da Canastra",
+      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/23/incendio-destroi-area-equivalente-a-140-campos-de-futebol-proxima-a-casca-danta-na-serra-da-canastra.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:29:07+00:00",
+      "summary": "Incêndio na Serra da Canastra consumiu área equivalente a 140 campos de futebol Welder Rafael/Divulgação Um incêndio atingiu uma área de 100 hectares do Parque Nacional da Serra da Canastra, em São Roque de Minas, no Centro-Oeste de Minas Gerais. Segundo o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio",
+      "category": "Esportes"
+    },
+    {
+      "title": "Em discurso na ONU, Delcy confirma eleições na Venezuela",
+      "url": "https://www.cnnbrasil.com.br/internacional/em-discurso-na-onu-delcy-confirma-eleicoes-na-venezuela/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:27:43+00:00",
+      "summary": "Presidente interina afirmou que Caracas iniciou o diálogo com a oposição e deve conduzir o processo \"à plena democracia\"",
+      "category": "Política"
+    },
+    {
+      "title": "Delcy Rodríguez faz discurso na ONU com broche que parece mostrar mapa de Venezuela com Essequibo anexada",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/23/delcy-rodriguez-faz-discurso-na-onu-com-broche-que-parece-mostrar-mapa-de-venezuela-com-essequibo-anexada.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:27:34+00:00",
+      "summary": "Delcy Rodríguez discursa como presidente interina da Venezuela na Assembleia Geral da ONU em 23 de setembro de 2026 Reprodução/Reuters A presidente interina da Venezuela, Delcy Rodríguez, subiu ao púlpito da Assembleia Geral da ONU nesta quarta-feira (23) com um broche semelhante a um mapa da Venezuela, com a região de",
+      "category": "Política"
+    },
+    {
+      "title": "Palmas para Jorge no adeus ao mestre da Terra dos Sonhos",
+      "url": "https://observador.pt/programas/reportagem-observador/palmas-para-jorge-no-adeus-ao-mestre-da-terra-dos-sonhos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:27:23+00:00",
+      "summary": "À boleia do \"fim do verão\", Jorge Palma deixa um legado de música, luta e poesia. A despedida fez-se com família, amigos, fãs e nomes da política que não deixam esquecer a importância do artista.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Debate, comício e panfletagem: veja como foi o dia dos candidatos ao governo da Paraíba",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/veja-como-foi-agenda-candidatos-governo-pb-23-setembro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:26:37+00:00",
+      "summary": "Candidatos a governador da Paraíba em 2026 Reprodução/TV Cabo Branco Os candidatos ao governo da Paraíba cumpriram agenda em diferentes cidades, nesta quarta-feira (23), durante mais um dia de campanha. Entre os compromissos dos candidatos, estiveram um debate, comícios e sabatinas. O primeiro turno de votação será em ",
+      "category": "Política"
+    },
+    {
+      "title": "O mefistófeles tropical",
+      "url": "https://observador.pt/opiniao/o-mefistofeles-tropical/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:25:42+00:00",
+      "summary": "O que se passa no Brasil excede qualquer comparação. Pela escala e pela exibição de decadência do Supremo Tribunal Federal, o terceiro poder, que devia ser o garante e o árbitro dos outros dois.",
+      "category": "Política"
+    },
+    {
+      "title": "VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 23 de setembro de 2026",
+      "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-23-de-setembro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:25:03+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Técnicos de reinserção marcam greve para outubro e manifestação junto à cadeia do Porto",
-      "url": "https://www.rtp.pt/noticias/pais/tecnicos-de-reinsercao-marcam-greve-para-outubro-e-manifestacao-junto-a-cadeia-do-porto_n1767289",
+      "title": "23h PM confiante de que Portugal vai atingir a neutralidade carbónica antes do objetivo de 2050",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-pm-confiante-de-que-portugal-vai-atingir-a-neutralidade-carbonica-antes-do-objetivo-de-2050_a1_1767359",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T17:42:23+00:00",
-      "summary": "O Sindicato dos Técnicos da Direção-Geral de Reinserção e Serviços Prisionais (SinDGRSP) marcou hoje uma greve para 06 de outubro e uma manifestação junto à cadeia do Porto, por entender que a portaria sobre carreiras fica aquém do negociado.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cerca de 300 doentes retidos nos hospitais psiquiátricos à espera de respostas",
-      "url": "https://www.rtp.pt/noticias/pais/cerca-de-300-doentes-retidos-nos-hospitais-psiquiatricos-a-espera-de-respostas_n1767286",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T17:39:21+00:00",
-      "summary": "Cerca de 300 doentes permanecem nos hospitais psiquiátricos à espera de respostas que permitam a sua saída, constituindo um desafio à desinstitucionalização prevista na reforma da saúde mental.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Ministro acusa Carneiro de ignorar problemas e PS diz que Governo desvalorizou falta de vagas",
-      "url": "https://www.rtp.pt/noticias/pais/ministro-acusa-carneiro-de-ignorar-problemas-e-ps-diz-que-governo-desvalorizou-falta-de-vagas_n1767278",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T17:34:33+00:00",
-      "summary": "O ministro da Educação acusou hoje o secretário-geral do PS de não perceber ou ignorar a dimensão dos problemas no setor, enquanto os socialistas responderam que, apesar das matrículas fora de prazo serem normais, este ano \"ninguém quis saber\".",
-      "category": "Política"
-    },
-    {
-      "title": "ONU. \"Direito de veto sem restrições dá às grandes potências impunidade\", avisa Ana Gomes",
-      "url": "https://www.rtp.pt/noticias/pais/onu-direito-de-veto-sem-restricoes-da-as-grandes-potencias-impunidade-avisa-ana-gomes_a1767220",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T17:27:53+00:00",
-      "summary": "A antiga eurodeputada Ana Gomes não tem dúvidas de que \"o mundo não sobrevivia sem as Nações Unidas, sobretudo no tempo em que vivemos\".",
-      "category": "Economia"
-    },
-    {
-      "title": "OSCE lamenta ausência de convite para observar intercalares",
-      "url": "https://www.rtp.pt/noticias/mundo/osce-lamenta-ausencia-de-convite-para-observar-intercalares_n1767285",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:57:43+00:00",
-      "summary": "A Organização para a Segurança e Cooperação na Europa (OSCE) lamentou hoje não ter sido convidada pelos Estados Unidos para observar as eleições intercalares de novembro.",
-      "category": "Política"
-    },
-    {
-      "title": "Cerca de seis mil professores apresentaram baixa desde o início do ano escolar disse ministro da Educação",
-      "url": "https://www.rtp.pt/noticias/pais/cerca-de-seis-mil-professores-apresentaram-baixa-desde-o-inicio-do-ano-escolar-disse-ministro-da-educacao_n1767270",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:54:53+00:00",
-      "summary": "Cerca de seis mil professores apresentaram baixa médica desde o início do ano escolar, disse hoje o ministro da Educação, referindo que, na terça-feira, estavam ainda por preencher dois mil horários, a maioria em Lisboa e Setúbal.",
-      "category": "Política"
-    },
-    {
-      "title": "MP pede condenação de três militares da Marinha por violação de segredo de Estado",
-      "url": "https://www.rtp.pt/noticias/pais/mp-pede-condenacao-de-tres-militares-da-marinha-por-violacao-de-segredo-de-estado_n1767267",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:49:39+00:00",
-      "summary": "O Ministério Público (MP) pediu hoje a condenação dos três militares da Marinha acusados do crime de violação de segredo de Estado no caso do Navio da República Portuguesa (NRP) Mondego.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Incêndio em vegetação suspende atendimento em unidade de saúde em Manaus",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/23/incendio-em-vegetacao-suspende-atendimento-em-unidade-de-saude-em-manaus.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:49:05+00:00",
-      "summary": "Incêndio em vegetação suspende atendimento em unidade de saúde em Manaus Foto: Gato Jr./Rede Amazônica O atendimento na Unidade de Saúde da Família Amazonino Mendes, no bairro Lago Azul, zona norte de Manaus, foi suspenso nesta quarta-feira (23). A medida foi tomada pela Secretaria Municipal de Saúde (Semsa) por causa ",
-      "category": "Saúde"
-    },
-    {
-      "title": "Senado no RJ: Carlos Portinho promete investir na construção de Hospital Oncológico em Campos",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/23/senado-no-rj-carlos-portinho-hospital-oncologico-em-campos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:46:55+00:00",
-      "summary": "Carlos Portinho fala de suas propostas para o interior do estado do RJ O candidato à reeleição ao Senado pelo Rio de Janeiro Carlos Portinho (PL) afirmou que pretende investir na construção de um Hospital Oncológico em Campos dos Goytacazes, no Norte Fluminense, caso seja eleito para um novo mandato. A declaração foi d",
-      "category": "Política"
-    },
-    {
-      "title": "Tombamento de caminhão deixa dois feridos na Ayrton Senna, em Guararema, segundo bombeiros",
-      "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/23/tombamento-de-caminhao-deixa-dois-feridos-na-ayrton-senna-em-guararema-segundo-bombeiros.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:46:14+00:00",
-      "summary": "Caminhão que tombou na Rodovia Ayrton Senna, em Guararema, foi destombado Silvio Seki/TV Diário Um caminhão tombou no km 56 da Rodovia Ayrton Senna, no sentido capital, em Guararema, nesta quarta-feira (23). O Corpo de Bombeiros informou que duas pessoas ficaram feridas e seriam atendidas por ambulâncias da concessioná",
-      "category": "Mundo"
-    },
-    {
-      "title": "Recorde no gasóleo e o bónus no IRS que não dá para atestar",
-      "url": "https://observador.pt/newsletters/economia/economia-recorde-no-preco-do-gasoleo-o-bonus-no-irs-que-nao-da-para-encher-o-deposito-e-as-explicacoes-sobre-o-negocio-da-ren/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:45:53+00:00",
-      "summary": "Gasóleo atingiu preço recorde e em França faltaram combustíveis. Governo promete mais rendimento, mas alívio no IRS não dá para encher depósito. Casas sobem menos e mais explicações sobre a REN.",
-      "category": "Política"
-    },
-    {
-      "title": "Jovem que morreu após pegar carona por aplicativo e sofrer acidente no PR voltava de encontro com a família",
-      "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/23/jovem-que-morreu-apos-pegar-carona-voltava-de-encontro-familia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:45:24+00:00",
-      "summary": "Amanda morreu em um acidente de trânsito no Paraná Arquivo pessoal Amanda Marcondes de Oliveira, de 26 anos, voltava para Curitiba depois de passar alguns dias com a família em Cascavel, no oeste do Paraná, quando morreu em um acidente na BR-277. Ela era passageira de uma viagem do aplicativo de caronas Blablacar. Segu",
-      "category": "Mundo"
-    },
-    {
-      "title": "Paraíba registra 123 mil pessoas trabalhando em home office em 2025, segundo IBGE",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/23/paraiba-registra-123-mil-pessoas-trabalhando-em-home-office-em-2025-segundo-ibge.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:45:05+00:00",
-      "summary": "Home office Pexels/RF._.studio A Paraíba registrou 123 mil pessoas trabalhavam em home office em 2025, segundo dados da PNAD Contínua – Características Adicionais do Mercado de Trabalho, divulgados pelo IBGE nesta quarta-feira (23). O número de paraibanos trabalhando em casa corresponde a 9,3% das pessoas acima de 14 a",
-      "category": "Economia"
-    },
-    {
-      "title": "Gestão de risco no agro: como proteger margem e resultado",
-      "url": "https://g1.globo.com/pr/parana/especial-publicitario/agrinvest-alem-da-porteira/noticia/2026/09/23/gestao-de-risco-no-agro-como-proteger-margem-e-resultado.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:44:17+00:00",
-      "summary": "O hedge agrícola deixou de ser um tema restrito às mesas de negociação. Em um mercado marcado por oscilações de preços, dólar, clima e custos, a gestão de risco no agro passou a ser parte da rotina de produtores, gestores e empresas. Entender o mercado futuro da soja, acompanhar milho, avaliar estratégias com opções e ",
-      "category": "Economia"
-    },
-    {
-      "title": "Almada e mais um: Argentina corta jogadores para despedida de Messi",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/almada-e-mais-um-argentina-corta-jogadores-para-despedida-de-messi/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:44:02+00:00",
-      "summary": "Seleção Albiceleste cortou dois atletas por lesão para os confrontos desta Super Data Fifa; [ultimo duelo marca o adeus do camisa 10 da equipe",
-      "category": "Esportes"
-    },
-    {
-      "title": "Título e mil gols: Cristiano Ronaldo revela metas antes da aposentadoria",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/titulo-e-mil-gols-cristiano-ronaldo-revela-metas-antes-da-aposentadoria/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:43:41+00:00",
-      "summary": "Craque de Portugal foi convocado para jogos da seleção na Nations League",
-      "category": "Esportes"
-    },
-    {
-      "title": "Morador de Salmourão morre por leishmaniose; é 2º óbito pela doença em SP em 2026",
-      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/23/morador-de-salmourao-morre-por-leishmaniose-e-2o-obito-pela-doenca-em-sp-em-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:42:51+00:00",
-      "summary": "Salmourão confirma morte de homem de 58 anos por leishmaniose A Secretaria Municipal de Saúde de Salmourão (SP) confirmou a morte de um homem de 58 anos por leishmaniose. O óbito passou a constar nas estatísticas do Governo do Estado de São Paulo e é o segundo registrado pela doença no Estado em 2026. Segundo a prefeit",
-      "category": "Política"
-    },
-    {
-      "title": "Feto morto é encontrado em caçamba de lixo na BR-408, em Jaboatão",
-      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/23/feto-morto-e-encontrado-em-cacamba-de-lixo-na-br-408-em-jaboatao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:42:41+00:00",
-      "summary": "Corpo de bebê é encontrado em caçamba de lixo na BR-408, no Grande Recife Elvys Lopes/Divulgação Um feto morto foi encontrado dentro de um saco em uma caçamba de lixo às margens da BR-408, em Jaboatão dos Guararapes, no Grande Recife, na manhã desta quarta-feira (23). De acordo com a Polícia Militar (PM), o corpo estav",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cientistas mapeiam atividade gênica no córtex pré-frontal do cérebro",
-      "url": "https://g1.globo.com/ciencia/noticia/2026/09/23/cientistas-atividade-genica-cortex-pre-frontal.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:42:34+00:00",
-      "summary": "Assistente de laboratório segura um hemisfério de um cérebro humano saudável no Hospital Universitário Belle Idee, em Chene-Bourg, perto de Genebra. 14 de março de 2011. REUTERS/Denis Balibouse Cientistas criaram um mapa detalhado da atividade gênica em uma parte crucial do cérebro chamada córtex pré-frontal, obtendo n",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Cuidador é preso suspeito de estupro de vulnerável contra duas acolhidas em Porto Velho",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/09/23/cuidador-e-preso-suspeito-de-estupro-de-vulneravel-contra-duas-acolhidas-em-porto-velho.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:41:50+00:00",
-      "summary": "Violência e abuso sexual infantil: veja os sinais e saiba como proteger as crianças A Polícia Civil de Rondônia prendeu, nesta quarta-feira (23), um homem suspeito de cometer estupro de vulnerável contra duas acolhidas em uma instituição de assistência e acolhimento em Porto Velho. O homem, que não teve a identidade di",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fuzis, aparelho de ultrassom e sondas cirúrgicas são apreendidos em operação na Bahia",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/23/fuzis-aparelho-de-ultrassom-e-sondas-cirurgicas-sao-apreendidos-em-operacao-na-bahia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:40:43+00:00",
-      "summary": "Polícia apreende drogas dentro da parede de uma casa em Salvador Dois fuzis, cinco sondas cirúrgicas e um aparelho de ultrassom foram apreendidos durante uma operação policial em Itinga, localidade de Lauro de Freitas, na Região Metropolitana de Salvador, na terça-feira (22). Ninguém foi preso. A Secretaria de Seguranç",
-      "category": "Mundo"
-    },
-    {
-      "title": "A 11 dias da eleição, Justiça Eleitoral começa a preparar as urnas eletrônicas",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/23/a-11-dias-da-eleicao-justica-eleitoral-comeca-a-preparar-as-urnas-eletronicas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:40:08+00:00",
-      "summary": "A 11 dias da eleição, a Justiça Eleitoral começa a preparar as urnas eletrônicas Faltam onze dias para a eleição. E, enquanto o eleitor decide os seis votos que dará no dia 4 de outubro, a Justiça Eleitoral começou, nesta quarta-feira (23), a preparar as urnas que serão usadas em São Paulo. São mais de 114 mil equipame",
-      "category": "Política"
-    },
-    {
-      "title": "Atlas: Lula empata com Flávio, Caiado, Zema e Renan no 2º turno no RS",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-lula-empata-com-flavio-caiado-zema-e-renan-no-2o-turno-no-rs/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:39:31+00:00",
-      "summary": "Foram realizadas 1.819 entrevistas online, realizadas entre os dias 15 e 20 de setembro, e tem margem de erro de 2 pontos percentuais para mais ou para menos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Rubio cobra líderes de Cuba para mudança na situação do país",
-      "url": "https://www.cnnbrasil.com.br/internacional/rubio-cobra-lideres-de-cuba-para-mudanca-na-situacao-do-pais/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:36:00+00:00",
-      "summary": "Donald Trump já havia criticado país caribenho durante discurso na Assembleia Geral da ONU, na terça-feira (22), chamando-o de Estado falido",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sobrecarga emocional pode causar crises de enxaqueca; entenda relação",
-      "url": "https://www.cnnbrasil.com.br/saude/sobrecarga-emocional-pode-causar-crises-de-enxaqueca-entenda-relacao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:35:10+00:00",
-      "summary": "Condição pode ser agravada ou causada pelo estresse em excesso e é considerada uma das maiores causas de incapacidade do mundo",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Ninguém pode obrigar o Irão a render-se\", diz Pezeshkian",
-      "url": "https://observador.pt/2026/09/23/ninguem-pode-obrigar-o-irao-a-render-se-diz-presidente-iraniano-nas-nacoes-unidas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:34:07+00:00",
-      "summary": "O Presidente iraniano afirma que o país não pretende \"baixar a cabeça\" ou \"ajoelhar-se\" perante os opressores",
-      "category": "Política"
-    },
-    {
-      "title": "Reforma da saúde mental vai entrar \"num novo ciclo\"",
-      "url": "https://observador.pt/2026/09/23/oms-avalia-reforma-da-saude-mental-em-portugal-que-vai-entrar-num-novo-ciclo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:31:16+00:00",
-      "summary": "Miguel Xavier defende um modelo que permita uma resposta mais eficaz à depressão e à ansiedade que ainda encontram poucas respostas no SNS",
-      "category": "Saúde"
-    },
-    {
-      "title": "Veja a lista dos candidatos a deputado federal em Pernambuco",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/veja-a-lista-dos-candidatos-a-deputado-federal-em-pernambuco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:31:11+00:00",
-      "summary": "Estado tem 392 candidatos ao cargo registrados no TSE (Tribunal Superior Eleitoral)",
-      "category": "Mundo"
-    },
-    {
-      "title": "16h Combustíveis: Montenegro admite dificuldades das famílias e empresas",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-combustiveis-montenegro-admite-dificuldades-das-familias-e-empresas_a1_1767283",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:29:01+00:00",
+      "publishedAt": "2026-09-23T23:25:03+00:00",
       "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEO: Homem de preto rouba farmácia à luz do dia, foge de bicicleta e é preso em MG",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/23/video-homem-de-preto-rouba-farmacia-a-luz-do-dia-foge-de-bicicleta-e-e-preso-em-mg.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:24:23+00:00",
+      "summary": "Homem de preto rouba farmácia à luz do dia, foge de bicicleta e é preso em MG (Imagens: JP Agora/Reproduçã) Dois irmãos, de 30 e 33 anos, que não tiveram os nomes divulgados, foram presos suspeitos de envolvimento em um roubo cometido à luz do dia em uma farmácia de João Pinheiro, no Noroeste do estado. De acordo com a",
+      "category": "Mundo"
+    },
+    {
+      "title": "A matança dos inocentes",
+      "url": "https://observador.pt/opiniao/a-matanca-dos-inocentes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:24:21+00:00",
+      "summary": "Era uma vez uma pílula vermelha, uma pílula azul e um arco-íris monocromático",
+      "category": "Mundo"
+    },
+    {
+      "title": "Em discurso na ONU, Delcy agradece Trump por retomar relações diplomáticas",
+      "url": "https://www.cnnbrasil.com.br/internacional/em-discurso-na-onu-delcy-agradece-trump-por-retomar-relacoes-diplomaticas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:23:48+00:00",
+      "summary": "Presidente interina afirmou que Caracas \"aspira construir relacionamentos com os EUA e seus vizinhos\"",
+      "category": "Política"
+    },
+    {
+      "title": "22h Aumentaram as queixas à Provedoria de Justiça, em 2025",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-aumentaram-as-queixas-a-provedoria-de-justica-em-2025_a1_1767358",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:23:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "90 casas para 90 lugares",
+      "url": "https://observador.pt/opiniao/90-casas-para-90-lugares/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:21:59+00:00",
+      "summary": "Não é assistência social nem é sequer um prémio: é parte do preço que a cidade paga para conseguir contratar quem precisa.",
       "category": "Economia"
     },
     {
-      "title": "Hakimi perde recurso e será julgado por acusação de estupro na França",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/hakimi-perde-recurso-e-sera-julgado-por-acusacao-de-estupro-na-franca/",
+      "title": "Loteria Federal hoje: resultado do concurso 6103 e números sorteados",
+      "url": "https://g1.globo.com/loterias/loteria-federal/noticia/2026/09/23/loteria-federal-hoje-resultado-do-concurso-6103-e-numeros-sorteados.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:21:02+00:00",
+      "summary": "Resultado da Loteria Federal g1 Veja abaixo os bilhetes sorteados do concurso 6103 da Loteria Federal realizado nesta quarta-feira (23): 1º - Bilhete 040292: R$ 500.000 2º - Bilhete 053081: R$ 35.000 3º - Bilhete 065578: R$ 30.000 4º - Bilhete 042304: R$ 25.000 5º - Bilhete 065837: R$ 20.363 Confira o resultado do sort",
+      "category": "Mundo"
+    },
+    {
+      "title": "Da oscilação do preço do extremista",
+      "url": "https://observador.pt/opiniao/da-oscilacao-do-preco-do-extremista/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:20:57+00:00",
+      "summary": "Em 2026, a “ideologia” é uma patranha. Os supostos extremos não estão preocupados com ideologias, não têm visões de mundo nem modelos de sociedade diferentes para opor.",
+      "category": "Economia"
+    },
+    {
+      "title": "Menina de 6 anos resolveu o problema do cubo mágico em 4,27 segundos e estabeleceu novo recorde mundial; veja o vídeo",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/menina-de-6-anos-resolveu-o-problema-do-cubo-magico-em-427-segundos-e-estabeleceu-novo-recorde-mundial-veja-o-video/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T16:27:44+00:00",
-      "summary": "Juizado rejeitou o recurso apresentado pela defesa do lateral-direito marroquino; atleta do PSG negou as acusações",
+      "publishedAt": "2026-09-23T23:20:05+00:00",
+      "summary": "A chinesa Lian Yunzhi quebrou o recorde mundial feminino duas vezes durante os três dias de competição de cubo mágico, em Wuhan e Guangzhou",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio de grandes proporções atinge área de vegetação na Bahia",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/23/incendio-na-bahia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:19:51+00:00",
+      "summary": "Incêndio de grandes proporções atinge vegetação em Caetité Um incêndio de grandes proporções atingiu uma área de vegetação, na tarde desta quarta-feira (23), na cidade de Caetité, no sudoeste da Bahia. Uma fumaça densa se formou na região. Segundo a Secretaria de Meio Ambiente do município, as chamas começaram por volt",
+      "category": "Clima"
+    },
+    {
+      "title": "00h. Trump recebe Xi Jinping nos Estados Unidos",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2428/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:19:50+00:00",
+      "summary": "O Presidente chinês não vai participar na Assembleia geral das Nações Unidas, em Nova Iorque. Ainda, esta quinta-feira, António José Seguro vai ser recebido pelo Papa no Vaticano.",
+      "category": "Política"
+    },
+    {
+      "title": "Fábrica de munições: acordo assinado na próxima semana",
+      "url": "https://observador.pt/2026/09/24/acordo-para-fabrica-de-municoes-em-portugal-assinado-na-proxima-semana-anuncia-ministro-da-defesa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:19:35+00:00",
+      "summary": "\"Portugal já teve muita força e capacidade na produção de munições, desapareceu, perdemo-la\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal à espera",
+      "url": "https://observador.pt/opiniao/portugal-a-espera/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:19:24+00:00",
+      "summary": "Como vai sendo óbvio para cada vez mais pessoas, apenas uma pessoa teria a capacidade para, em o querendo, vencer a corrida à sucessão de Montenegro e apresentar um caminho ambicioso para Portugal",
+      "category": "Mundo"
+    },
+    {
+      "title": "Receita Federal apreende cerca de 200 mil cigarros eletrônicos ilegais no Porto de Santos",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/23/receita-federal-apreende-cerca-de-200-mil-cigarros-eletronicos-ilegais-no-porto-de-santos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:17:46+00:00",
+      "summary": "Receita Federal apreende cerca de 200 mil cigarros eletrônicos ilegais no Porto de Santos - Imagem (à dir.) ilustrativa Philip Morris e Receita Federal A Receita Federal apreendeu cerca de 200 mil cigarros eletrônicos contrabandeados em um contêiner no Porto de Santos, no litoral de São Paulo. Segundo o órgão, a carga ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Trump planeja grande recepção para Xi em meio à discussão sobre trégua",
+      "url": "https://www.cnnbrasil.com.br/noticias/trump-planeja-grande-recepcao-para-xi-em-meio-a-discussao-sobre-tregua/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:16:14+00:00",
+      "summary": "Presidente dos EUA e a primeira-dama cumprimentaram o líder chinês e sua esposa em um tapeta vermelho de 30 metros de comprimento",
+      "category": "Política"
+    },
+    {
+      "title": "Caminhadas, debate e reuniões: veja como foi a agenda dos candidatos ao governo de RO nesta quarta (23)",
+      "url": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/23/caminhadas-debate-e-reunioes-veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-ro-nesta-quarta-23.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:16:11+00:00",
+      "summary": "Confira a agenda dos candidatos ao governo de Rondônia Nesta quarta-feira (23), todos os seis candidatos ao Governo de Rondônia nas eleições de 2026 cumpriram agenda de campanha em diferentes municípios do estado. Entre os compromissos estiveram entrevistas, gravações de programas eleitorais, reuniões, caminhadas e deb",
+      "category": "Política"
+    },
+    {
+      "title": "Lula se reúne com artistas na Lapa, Rio, na reta final da campanha",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/23/lula-artistas-na-lapa-rio-na-reta-final-da-campanha.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:16:06+00:00",
+      "summary": "Lula abre a bandeira do Brasil em evento com artistas no Rio Raoni Alves/g1 O presidente Luiz Inácio Lula da Silva (PT) participa, na noite desta quarta-feira (23), de um ato com artistas e representantes do setor cultural na Fundição Progresso, na Lapa, no Centro do Rio. O evento, parte da campanha à reeleição, ocorre",
+      "category": "Política"
+    },
+    {
+      "title": "Paixão de Cristo de Nova Jerusalém 2027 anuncia datas do espetáculo; vendas começam em outubro",
+      "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/23/paixao-de-cristo-de-nova-jerusalem-2027-anuncia-datas-do-espetaculo-vendas-comecam-em-outubro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:15:13+00:00",
+      "summary": "Paixão de Cristo de Nova Jerusalém, em Brejo da Madre de Deus Larissa Juliana/g1 Caruaru A Paixão de Cristo de Nova Jerusalém será realizada de 20 a 27 de março de 2027, na cidade-teatro localizada no distrito de Fazenda Nova, em Brejo da Madre de Deus, no Agreste de Pernambuco. Os ingressos para a próxima temporada co",
+      "category": "Clima"
+    },
+    {
+      "title": "IA não é sobre tecnologia, é transformação, diz executivo do Google Cloud",
+      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ia-nao-e-sobre-tecnologia-e-transformacao-diz-executivo-do-google-cloud/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:14:55+00:00",
+      "summary": "Eduardo López discute democratização da inteligência artificial, educação tecnológica e papel do Brasil na transformação digital do mundo",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Vim fazer os meus sessenta e seis anos a Angola",
+      "url": "https://observador.pt/opiniao/vim-fazer-os-meus-sessenta-e-seis-anos-a-angola/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:14:24+00:00",
+      "summary": "Não procuram matar Deus, não procuram mudar o género, não pretendem que quem fala mais alto é quem sabe e nem sequer pretendem que a juventude seja uma maior valia que a experiência",
       "category": "Esportes"
     },
     {
-      "title": "Fogos em Santa Maria: arguida com apresentações semanais",
-      "url": "https://observador.pt/2026/09/23/mulher-que-ateou-dois-incendios-no-hospital-de-santa-maria-sujeita-a-tratamento-psiquiatrico/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:27:28+00:00",
-      "summary": "Ao ser-lhe recusada a medicação que exigia, a mulher terá tido um surto psicótico e incendiou uma maca no interior do hospital",
-      "category": "Saúde"
-    },
-    {
-      "title": "Fogo. Tragédia motiva protocolo para proteger crianças",
-      "url": "https://observador.pt/2026/09/23/protocolo-entre-cabo-verde-e-portugal-reforca-protecao-de-criancas-apos-tragedia-na-ilha-do-fogo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:25:06+00:00",
-      "summary": "\"Podemos aprender uns com os outros e encontrar formas de responder melhor aos desafios que enfrentamos\", disse Manuel Ataíde Coutinho, presidente do IAC",
-      "category": "Política"
-    },
-    {
-      "title": "\"Woyzeck\" no CCB com IA e humanoides",
-      "url": "https://observador.pt/2026/09/23/companhia-de-teatro-aueeeu-leva-peca-woyzeck-ao-centro-cultural-de-belem/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:23:01+00:00",
-      "summary": "A exploração sistemática do protagonista pela sociedade, acabando por empurrá-lo para a loucura e culminando no assassínio da sua companheira, Maria, são o centro da ação do texto",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Quaest: Ciro e Elmano têm empate técnico em cenários de 1º e 2º turno no CE",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-ciro-e-elmano-tem-empate-tecnico-em-cenarios-de-1o-e-2o-turno-no-ce/",
+      "title": "Celulares e cortes de cabelo: as quatro novas regras de Klopp na Alemanha",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/celulares-e-cortes-de-cabelo-as-quatro-novas-regras-de-klopp-na-alemanha/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T16:22:59+00:00",
-      "summary": "Pesquisa ouviu 900 eleitores entre os dias 19 e 22 de setembro; margem de erro é de três pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "ULS de Braga com 26,5 milhões do PRR em 14 projetos",
-      "url": "https://observador.pt/2026/09/23/uls-de-braga-com-investimento-de-265-milhoes-de-euros-em-14-projetos-ao-abrigo-do-prr/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:22:27+00:00",
-      "summary": "Dos 26,5 milhões de euros de investimento, cerca de 23,4 milhões de euros correspondem a financiamento direto do PRR, com o remanescente assegurado pela ULS",
+      "publishedAt": "2026-09-23T23:13:13+00:00",
+      "summary": "Treinador colocou determinações para aumentar a disciplina dos jogadores na seleção europeia",
       "category": "Economia"
     },
     {
-      "title": "Fábrica em Braga pode processar até 7 mil toneladas de lítio",
-      "url": "https://observador.pt/2026/09/23/fabrica-de-reciclagem-de-baterias-de-litio-em-braga-pode-processar-ate-7-mil-toneladas-ano/",
+      "title": "Gasóleo, ovelhas e o precipício",
+      "url": "https://observador.pt/opiniao/gasoleo-ovelhas-e-o-precipicio/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T16:22:06+00:00",
-      "summary": "A primeira fábrica de reciclagem de pilhas e baterias de lítio de Portugal",
+      "publishedAt": "2026-09-23T23:12:27+00:00",
+      "summary": "500 ovelhas morrem em 'salto de suicídio em massa' no leste da Turquia (Hurriyet Daily News, 13/06/2018)",
       "category": "Mundo"
     },
     {
-      "title": "Atlas/Estadão: Lula e Flávio empatam tecnicamente no 2º turno em MG",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-estadao-lula-e-flavio-empatam-tecnicamente-no-2o-turno-em-mg/",
+      "title": "Serviço de Urgência Amadora-Sintra: Paredes e Gestão",
+      "url": "https://observador.pt/opiniao/servico-de-urgencia-amadora-sintra-paredes-e-gestao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:08:00+00:00",
+      "summary": "É fundamental repor a verdade: os concelhos da Amadora e de Sintra são dos municípios com a maior população estrangeira RESIDENTE a nível nacional.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Vittia aprova R$ 13,25 milhões em juros sobre capital próprio",
+      "url": "https://www.cnnbrasil.com.br/agro/vittia-aprova-r-1325-milhoes-em-juros-sobre-capital-proprio/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T16:21:13+00:00",
-      "summary": "Foram ouvidos 1.799 eleitores de Minas Gerais entre os dias 15 e 20 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "category": "Mundo"
+      "publishedAt": "2026-09-23T23:07:46+00:00",
+      "summary": "Provento corresponde a R$ 0,085 por ação e será imputado ao dividendo obrigatório da companhia",
+      "category": "Economia"
     },
     {
-      "title": "Homem encontra moedas de prata romanas, na Alemanha, que eram utilizadas na época do imperador Adriano",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/homem-encontra-moedas-de-prata-romanas-centenarias-na-alemanha-que-eram-utilizadas-na-epoca-do-imperador-adriano/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:19:25+00:00",
-      "summary": "Tesouro está em exibição em museu na cidade de Bonn, e cada moeda vale cerca de R$ 2,000; segundo especialista, o motivo por trás do esconderijo dos objetos é um mistério",
-      "category": "Mundo"
-    },
-    {
-      "title": "Glencore entra em projeto bilionário dos EUA para estocar minerais críticos",
-      "url": "https://www.cnnbrasil.com.br/infra/glencore-entra-em-projeto-bilionario-dos-eua-para-estocar-minerais-criticos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T16:17:58+00:00",
-      "summary": "Gigante da mineração recebeu compromisso de US$ 500 milhões do Exim Bank para ajudar a formar reserva estratégica e reduzir riscos de desabastecimento na indústria americana; projeto soma US$ 10 bilhões no total",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jorge Jesus confirma titularidade do capitão. Ronaldo admite: \"Os portugueses estão a contar comigo\".",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-confirma-titularidade-do-capitao-ronaldo-admite-os-portugueses-estao-a-contar-comigo_d1767276",
+      "title": "Wall Street fecha em baixa com Médio Oriente, dívida e petróleo a imporem-se",
+      "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-em-baixa-com-medio-oriente-divida-e-petroleo-a-imporem-se_n1767355",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T16:14:55+00:00",
-      "summary": "\"Símbolo de Portugal e da Seleção\", de acordo com o selecionador nacional, Cristiano Ronaldo entra diretamente para o onze titular de Jorge Jesus, no seu primeiro desafio internacional. O técnico admite lutar por todos os troféus. O capitão, por sua vez, tem em vista os mil golos e assegura continuar a representar as c",
+      "publishedAt": "2026-09-23T23:07:34+00:00",
+      "summary": "A bolsa nova-iorquina terminou a sessão de hoje em baixa, após uma nova subida dos rendimentos obrigacionistas, em fundo de incertezas ligadas ao Médio Oriente e os riscos de inflação que continuam elevados.",
+      "category": "Economia"
+    },
+    {
+      "title": "Diretor da Polícia Judiciária Militar apela a \"refundação legal\" que ministro diz estar a estudar",
+      "url": "https://www.rtp.pt/noticias/pais/diretor-da-policia-judiciaria-militar-apela-a-refundacao-legal-que-ministro-diz-estar-a-estudar_n1767310",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:06:46+00:00",
+      "summary": "O diretor-geral da Polícia Judiciária Militar (PJM) apelou hoje a uma \"refundação legal\" da instituição, que permita maior previsibilidade, matérias que o ministro da Defesa Nacional disse estar a estudar.",
+      "category": "Política"
+    },
+    {
+      "title": "IA tomou atitudes que seriam crimes se cometidas por humanos diz Painel da ONU",
+      "url": "https://www.rtp.pt/noticias/mundo/ia-tomou-atitudes-que-seriam-crimes-se-cometidas-por-humanos-diz-painel-da-onu_n1767333",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:05:59+00:00",
+      "summary": "Agentes de Inteligência Artificial (IA) desenvolvidos por empresas líderes agiram de \"formas inaceitavelmente perigosas\", contrariando instruções e tomando atitudes que \"seriam crimes se cometidas por humanos», alertou hoje o copresidente de um Painel Internacional Independente da ONU.",
+      "category": "Política"
+    },
+    {
+      "title": "Presidente da República pede alinhamento global perante questão climática",
+      "url": "https://www.rtp.pt/noticias/mundo/presidente-da-republica-pede-alinhamento-global-perante-questao-climatica_n1767321",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T23:05:02+00:00",
+      "summary": "O Presidente da República, António José Seguro, lamentou hoje que, perante problemas tão graves como os decorrentes das alterações climáticas, \"alguns países e líderes políticos\" se deixaram absorver por outras urgências, geopolíticas, económicas e sociais.",
+      "category": "Política"
+    },
+    {
+      "title": "Murilo Huff e Gabriela Versiani celebram noivado em festa luxuosa; veja",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/murilo-huff-e-gabriela-versiani-celebram-noivado-em-festa-luxuosa-veja/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:03:40+00:00",
+      "summary": "Casal marcou o momento na presença de familiares em uma cerimônia conduzida por um padre; pedido de casamento aconteceu em agosto de 2025",
+      "category": "Mundo"
+    },
+    {
+      "title": "EUA e China prorrogam “Acordo de Busan” até janeiro, diz Bessent",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/eua-e-china-prorrogam-acordo-de-busan-ate-janeiro-diz-bessent/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T23:01:44+00:00",
+      "summary": "A declaração do secretário do Tesouro dos Estados Unidos ocorre após encontro com o vice-primeiro-ministro chinês He Lifeng",
+      "category": "Política"
+    },
+    {
+      "title": "Goleiro protesta e se recusa a defender pênalti na Bolívia; assista",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/goleiro-protesta-e-se-recusa-a-defender-penalti-na-bolivia-assista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T22:59:14+00:00",
+      "summary": "Cena inusitada aconteceu na segunda divisão do Campeonato Boliviano, após decisão polêmica no final do segundo tempo; árbitro foi suspenso",
       "category": "Esportes"
     },
     {
-      "title": "Unicamp divulga relação candidato-vaga dos cursos do vestibular 2027",
-      "url": "https://www.cnnbrasil.com.br/educacao/unicamp-divulga-relacao-candidato-vaga-dos-cursos-do-vestibular-2027/",
+      "title": "Serviço Secreto dos EUA fornece segurança do presidente do Irã na ONU",
+      "url": "https://www.cnnbrasil.com.br/internacional/servico-secreto-dos-eua-fornece-seguranca-do-presidente-do-ira-na-onu/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T16:14:04+00:00",
-      "summary": "Comvest registra 58,4 mil estudantes inscritos no vestibular da Universidade Estadual de Campinas",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Isto é um absurdo\". Montenegro pede \"sentido de responsabilidade\" para pôr fim à guerra no Médio Oriente",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/isto-e-um-absurdo-montenegro-pede-sentido-de-responsabilidade-para-por-fim-a-guerra-no-medio-oriente_n1767275",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:09:42+00:00",
-      "summary": "O chefe de Governo criticou os que \"não têm a capacidade de superar este bloqueio ao desenvolvimento global\".",
+      "publishedAt": "2026-09-23T22:56:41+00:00",
+      "summary": "Outras autoridades iranianas estão sob a proteção do Serviço de Segurança Diplomática do Departamento de Estado, segundo oficiais",
       "category": "Política"
     },
     {
-      "title": "Mike Leigh e a compaixão pelo fim da vida",
-      "url": "https://observador.pt/2026/09/23/mike-leigh-nao-veio-a-san-sebastian-mas-enviou-a-sua-compaixao-pelo-fim-da-vida/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:07:35+00:00",
-      "summary": "Kate O'Flynn, Marion Bailey e Alice Bailey Johnson em “Tender Loving Care”",
-      "category": "Mundo"
-    },
-    {
-      "title": "Casei com um marido ou adoptei um filho?",
-      "url": "https://observador.pt/programas/porque-sim-nao-e-resposta/casei-com-um-marido-ou-adoptei-um-filho/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:06:35+00:00",
-      "summary": "Ela lembra-lhe as consultas, escolhe-lhe a roupa. Ele decide por ela, protege-a de tudo, trata-a por “miúda”. Quando um passa a fazer de pai ou de mãe do outro, o que sobra do casal?",
-      "category": "Mundo"
-    },
-    {
-      "title": "Weinstein condenado a 15 anos de prisão por agressão sexual",
-      "url": "https://observador.pt/2026/09/23/produtor-harvey-weinstein-condenado-a-15-anos-de-prisao-por-agressao-sexual/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T16:03:37+00:00",
-      "summary": "Harvey Weinstein caiu em desgraça após as denúncias do movimento #MeToo, em 2017",
-      "category": "Mundo"
-    },
-    {
-      "title": "Em 30 anos, obesidade triplica no país e atinge 1/4 da população",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/em-30-anos-obesidade-triplica-no-pais-e-atinge-14-da-populacao",
+      "title": "Dólar aproxima-se de R$ 5,17, com notícias do exterior e eleições",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-aproxima-se-de-r-517-com-noticias-do-exterior-e-eleicoes",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T16:01:00+00:00",
-      "summary": "Um estudo publicado neste mês no site da revista Lancet mostra que a prevalência de obesidade no país em adultos mais do que triplicou no período de 1990 a 2023. A pesquisa é parte da série de estudos Carga Global de Doenças (GBD, do inglês Global Burden Disease) e mostra que, entre os adultos com 25 anos ou mais de id",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Irão responde a Trump: \"Somos vítimas de terrorismo\", representante dos EUA abandonou a sala",
-      "url": "https://www.rtp.pt/noticias/mundo/irao-responde-a-trump-somos-vitimas-de-terrorismo-representante-dos-eua-abandonou-a-sala_n1767274",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T15:52:40+00:00",
-      "summary": "O presidente do Irão discursou esta quarta-feira perante a Assembleia Geral da ONU. Masoud Pezeskhian respondeu às palavras de Trump, que no dia anterior ameaçou \"aniquilar\" o país. O representante dos Estados Unidos abandonou a sala durante a intervenção do presidente iraniano.",
+      "publishedAt": "2026-09-23T22:37:00+00:00",
+      "summary": "O dólar fechou em forte alta nesta quarta-feira (23), pressionado pela valorização da moeda estadunidense no exterior, pelo cenário eleitoral no Brasil e pela alta do petróleo. A divisa subiu mais de 1%, aproximando-se de R$ 5,17. A bolsa recuou quase 1%, voltando a ficar abaixo dos 186 mil pontos. Em Nova York, os pri",
       "category": "Política"
     },
     {
-      "title": "Flagrante por drogas gera mais prisão preventiva do que outros crimes",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/flagrante-por-drogas-gera-mais-prisao-preventiva-do-que-outros-crimes",
+      "title": "Tsunami meteorológico: entenda o evento raro e rápido que atingiu SC",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/tsunami-meteorologico-entenda-o-evento-raro-e-rapido-que-atingiu-sc",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T15:52:00+00:00",
-      "summary": "As prisões em flagrante por crimes relacionados a drogas resultam em prisões provisórias mais frequentemente do que os flagrantes de outros delitos. É o que aponta uma pesquisa realizada pelo Conselho Nacional de Justiça (CNJ). Seis em cada dez pessoas (60%) flagradas com entorpecentes tiveram a prisão preventiva decre",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Novo viaduto de 2,2 milhões para acesso à Garraia em Évora",
-      "url": "https://observador.pt/2026/09/23/viaduto-de-22-milhoes-sobre-ferrovia-vai-ligar-garraia-a-en18-em-evora-apos-queixa-de-moradores-sobre-erros-grosseiros/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T15:48:32+00:00",
-      "summary": "Um novo viaduto sobre a linha ferroviária vai ser construído pela Infraestruturas de Portugal (IP)",
+      "publishedAt": "2026-09-23T22:25:00+00:00",
+      "summary": "Aumento súbito do nível do mar, com ondas violentas, e ventos fortes formam o chamado tsunami meteorológico. Embora raro, o fenômeno, associado a formações de tempestades, se repetiu no litoral catarinense. A primeira ocorrência se deu em novembro de 2023 e foi registrada na Praia do Cardoso, em Laguna. Na segunda-feir",
       "category": "Mundo"
     },
     {
-      "title": "Petrobras fecha acordo de cooperação na área de petróleo em Moçambique",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-fecha-acordo-para-cooperar-na-area-de-petroleo-em-mocambique",
+      "title": "TCU recomenda análise de alternativas à caducidade da Enel em SP",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tcu-recomenda-analise-de-alternativas-caducidade-da-enel-em-sp",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T14:38:00+00:00",
-      "summary": "A Petrobras anunciou nesta quarta-feira (23) que assinou um memorando de entendimento (MoU, na sigla em inglês) para cooperação estratégica na área de petróleo e gás em Moçambique, país da costa sudeste da África. O acordo foi firmado na terça-feira (22) com a Empresa Nacional de Hidrocarbonetos (ENH), braço comercial ",
-      "category": "Economia"
-    },
-    {
-      "title": "Planos de saúde terão que cobrir DIU hormonal em casos de endometriose",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/planos-de-saude-terao-que-cobrir-diu-hormonal-em-casos-de-endometriose",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T14:17:00+00:00",
-      "summary": "A Agência Nacional de Saúde Suplementar (ANS) aprovou a inclusão, na lista de cobertura obrigatória por operadoras de planos de saúde, do dispositivo intrauterino (DIU) hormonal para pacientes com endometriose. Em nota, a ANS informou que a decisão vale para casos onde há contraindicação ou não adesão a contraceptivos ",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "TSE cria ferramenta de IA para acesso a informações sobre eleições",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-cria-ferramenta-de-ia-para-acesso-informacoes-sobre-eleicoes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T14:13:00+00:00",
-      "summary": "Um assistente virtual, criado pelo Tribunal Superior Eleitoral (TSE), ajudará os eleitores brasileiros a acessarem informações e esclarecerem dúvidas sobre o pleito que elegerá, em 2026, presidente e governadores, além dos representantes da população nos legislativos federal, estadual e distrital. Tudo de forma rápida ",
-      "category": "Política"
-    },
-    {
-      "title": "Anac muda regras em caso de atrasos e cancelamentos de voos",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/anac-muda-regras-em-caso-de-atrasos-e-cancelamentos-de-voos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T14:04:00+00:00",
-      "summary": "A Agência Nacional de Aviação Civil (Anac) aprovou mudanças nas regras do transporte aéreo de passageiros que ampliam as obrigações das companhias aéreas de informar clientes sobre atrasos, cancelamentos e interrupções de voos. As alterações entram em vigor 30 dias após a publicação da resolução no Diário Oficial da Un",
+      "publishedAt": "2026-09-23T21:51:00+00:00",
+      "summary": "O plenário do Tribunal de Contas da União (TCU) recomendou nesta quarta-feira (23) que o Ministério de Minas e Energia (MME) e a Agência Nacional de Energia Elétrica (Aneel) estudem alternativas à caducidade da concessão da Enel São Paulo antes de uma eventual decisão pela extinção do contrato. A recomendação determina",
       "category": "Mundo"
     },
     {
-      "title": "Programa de bolsas vai incentivar formação para a educação básica",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/programa-de-bolsas-vai-incentivar-formacao-para-educacao-basica",
+      "title": "Anvisa alerta para venda irregular de tirzepatida em pó na internet",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-alerta-para-venda-irregular-de-tirzepatida-em-po-na-internet",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T13:48:00+00:00",
-      "summary": "O Programa Institucional de Bolsa de Iniciação à Docência (Pibid) passa a integrar, nesta quarta-Feira (23), as ações de incentivo à educação básica brasileira . O objetivo é fortalecer e valorizar a formação de professores para atuar na etapa inicial do ensino. De acordo com a Lei nº 15.518/2026 , estudantes de cursos",
-      "category": "Economia"
+      "publishedAt": "2026-09-23T21:49:00+00:00",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) divulgou um alerta, nesta quarta-feira (23), sobre a oferta irregular nas redes sociais de tirzepatida em pó. A substância é um medicamento injetável que ativa o receptor de GLP-1, presente nas chamadas canetas emagrecedoras. No Brasil, a tirzepatida regulamentada pel",
+      "category": "Ciência & Tech"
     },
     {
-      "title": "Senacon inicia operação para apurar abusos nos preços de combustíveis",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/senacon-faz-operacao-para-apurar-abusos-nos-precos-de-combustiveis",
+      "title": "Internacional contrata técnico Eduardo Baptista até o fim da temporada",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/internacional-contrata-tecnico-eduardo-baptista-ate-o-fim-da-temporada",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T13:48:00+00:00",
-      "summary": "A Secretaria Nacional do Consumidor (Senacon) iniciou, nesta quarta-feira (23), operação nacional para apurar possíveis aumentos abusivos nas margens de lucro de postos de combustíveis. A medida ocorre após a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) receber cerca de 330 denúncias sobre suspeita",
-      "category": "Economia"
+      "publishedAt": "2026-09-23T21:46:00+00:00",
+      "summary": "O Internacional anunciou a contratação do técnico Eduardo Baptista nesta quarta-feira (23), três dias após a demissão do uruguaio Paulo Pezollano. O novo treinador terá o desafio de tirar o Colorado da zona de rebaixamento (Z4) a 10 rodadas do fim do Campeonato Brasileiro. Com 28 pontos, o Inter amarga o 18ª lugar no B",
+      "category": "Esportes"
     },
     {
-      "title": "Corpos de vítimas de queda de helicóptero em SC são liberados",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/corpos-de-vitimas-de-queda-de-helicoptero-em-sc-sao-liberados",
+      "title": "Guaíba: Defesa Civil de Porto Alegre alerta para risco de inundação",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/guaiba-defesa-civil-de-porto-alegre-alerta-para-risco-de-inundacao",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T13:24:00+00:00",
-      "summary": "Os corpos dos cinco ocupantes do helicóptero que caiu na serra de Santa Catarina foram liberados para as famílias pelo Instituto Médico Legal (IML) de Florianópolis. As vítimas, entre elas o cantor sertanejo Rick Sollo, da dupla Rick & Renner, passaram por processo de reconhecimento por papiloscopia, exame feito por me",
-      "category": "Saúde"
+      "publishedAt": "2026-09-23T21:05:00+00:00",
+      "summary": "A Defesa Civil de Porto Alegre emitiu um alerta de risco alto para a elevação do nível do Rio Guaíba, com potencial de inundação do bairro Arquipélago e áreas ribeirinhas do extremo sul e sul da capital gaúcha. O aviso é válido até a manhã da sexta-feira (25). O aumento do nível do rio é causado pela maior vazão de águ",
+      "category": "Mundo"
     },
     {
-      "title": "Expedição do SUS vai atender indígenas Yanomami em Roraima",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/expedicao-do-sus-vai-atender-indigenas-yanomami-em-roraima",
+      "title": "Estudo prevê até 13,3 mil mortes no Brasil com calor do Super El Niño",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/estudo-preve-ate-133-mil-mortes-no-brasil-com-calor-do-super-el-nino",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T13:10:00+00:00",
-      "summary": "O Ministério da Saúde inicia nesta quarta-feira (23) nova expedição de atenção especializada à saúde indígena no território Yanomami, em Roraima. A ação segue até o próximo dia 30 e será concentrada no Polo Base Surucucu. Em nota, a pasta informou que tem como previsão realizar 750 procedimentos, incluindo consultas na",
-      "category": "Saúde"
+      "publishedAt": "2026-09-23T20:59:00+00:00",
+      "summary": "O calor extremo causado pelo Super El Niño pode provocar 13,3 mil mortes no Brasil, a maioria nas regiões Norte e Nordeste, de acordo com relatório do Laboratório de Impacto Climático da Universidade de Chicago, divulgado nesta quarta-feira (23). O país deve ser o mais afetado na América Latina pelo fenômeno , caracter",
+      "category": "Clima"
+    },
+    {
+      "title": "CNJ cancela R$ 4,7 bilhões em precatórios ligados ao Master",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/cnj-cancela-r-47-bilhoes-em-precatorios-ligados-ao-master",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T20:26:00+00:00",
+      "summary": "O corregedor nacional de Justiça, Benedito Gonçalves, determinou nesta quarta-feira (23) o cancelamento de precatórios de usinas do setor sucroalcooleiro que negociaram os créditos com o Banco Master. Os títulos são avaliados em R$ 4,7 bilhões. A medida foi motivada por uma ação da Advocacia-Geral da União (AGU) para c",
+      "category": "Esportes"
+    },
+    {
+      "title": "Polícia investiga indução ao suicídio na morte de Isabelle no Ceará",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/policia-investiga-inducao-ao-suicidio-na-morte-de-isabelle-no-ceara",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T20:13:00+00:00",
+      "summary": "A Perícia Forense do Ceará (Pefoce) informou nesta quarta-feira (23) que as análises periciais preliminares apontam que Isabelle Caracristi, de 22 anos, se jogou do prédio. As investigações continuam para esclarecer o caso. O namorado João Munhoz Neto está preso sob suspeita de violência psicológica contra a namorada e",
+      "category": "Esportes"
+    },
+    {
+      "title": "Cidade do Rio vive o setembro mais chuvoso em quase 30 anos",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/cidade-do-rio-vive-o-setembro-mais-chuvoso-em-quase-30-anos",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T20:11:00+00:00",
+      "summary": "A cidade do Rio de Janeiro vivencia o mês de setembro mais chuvoso em 29 anos. O Centro de Operações e Resiliência da Prefeitura do Rio (COR-Rio) informou que a marca foi atingida nesta quarta-feira (23) ─ sete dias antes do fim do mês. Com base em dados do Sistema Alerta Rio, serviço de meteorologia da prefeitura, a c",
+      "category": "Clima"
     }
   ],
   "sources": [
