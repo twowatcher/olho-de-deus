@@ -1,392 +1,482 @@
 {
-  "updatedAt": "2026-09-23T05:56:44.702633+00:00",
+  "updatedAt": "2026-09-23T11:30:19.193495+00:00",
   "items": [
     {
-      "title": "6h Montenegro encontra-se hoje com António Guterres",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-montenegro-encontra-se-hoje-com-antonio-guterres_a1_1767151",
+      "title": "12h Portugal regista excedente orçamental de 0.5% no primeiro semestre",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/12h-portugal-regista-excedente-orcamental-de-05-no-primeiro-semestre_a1_1767217",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T06:15:02+00:00",
+      "publishedAt": "2026-09-23T12:30:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Comprar casa usada na Grande Lisboa custa quase 400 mil e...",
-      "url": "https://observador.pt/programas/conferencia-de-imprensa/comprar-casa-usada-na-grande-lisboa-custa-quase-400-mil-euros/",
-      "source": "Observador",
+      "title": "Ministério Público faz buscas na Polícia Judiciária",
+      "url": "https://www.rtp.pt/noticias/pais/ministerio-publico-faz-buscas-na-policia-judiciaria_n1767214",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T05:52:38+00:00",
-      "summary": "No Negócios os dados do INE: o valor médio pago por casas usadas na Grande Lisboa ascendeu a quase 393 mil euros. Já o JN destaca que subiram as notificações para expulsar estrangeiros de Portugal.",
+      "publishedAt": "2026-09-23T12:21:34+00:00",
+      "summary": "O Ministério Público está esta quarta-feira a realizar buscas nas instalações da Unidade de Prevenção e Apoio Tecnológico da Polícia Judiciária, segundo o jornal Expresso. As buscas estarão relacionadas com a denúncia de escutas ilegais no processo Football Leaks.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Bruxelas lança Coligação Europeia para a Literacia após resultados do PISA",
+      "url": "https://www.rtp.pt/noticias/mundo/bruxelas-lanca-coligacao-europeia-para-a-literacia-apos-resultados-do-pisa_n1767211",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:52:52+00:00",
+      "summary": "A Comissão Europeia lançou hoje uma nova Coligação Europeia para a Literacia, numa altura em que os resultados do PISA 2025 indicam que 31,3% dos jovens europeus têm dificuldade em compreender textos básicos.",
       "category": "Economia"
     },
     {
-      "title": "Teerão exige \"fim de atos de agressão\" norte-americanos",
-      "url": "https://observador.pt/liveblogs/eua-confirmam-longas-conversas-com-o-irao-a-margem-da-assembleia-geral-da-onu-teerao-exige-fim-de-atos-de-agressao/",
-      "source": "Observador",
+      "title": "Taxa Euribor a 6 meses ultrapassa 3% pela primeira vez desde outubro de 2024",
+      "url": "https://www.rtp.pt/noticias/economia/taxa-euribor-a-6-meses-ultrapassa-3-pela-primeira-vez-desde-outubro-de-2024_n1767203",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T05:51:55+00:00",
-      "summary": "Benjamin Netanyahu e Masoud Pezeshkian chegaram aos Estados Unidos para discursarem na assembleia das Nações Unidas esta quarta-feira. Delcy Rodriguez destaca \"reunião histórica\" com Trump.",
+      "publishedAt": "2026-09-23T11:51:45+00:00",
+      "summary": "A Euribor a seis meses, a mais utilizada nos créditos com taxa variável em Portugal, ultrapassou hoje os 3% pela primeira vez desde outubro de 2024, num dia em que sobe também a taxa indexante a três meses.",
       "category": "Mundo"
     },
     {
-      "title": "Fábio Silva longe do \"ponto rebuçado\" quer aprender com JJ",
-      "url": "https://observador.pt/programas/vamos-a-bola/fabio-silva-longe-do-ponto-rebucado-quer-aprender-com-jj/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T05:43:35+00:00",
-      "summary": "Avançado de 24 anos é novidade na convocatória de Jorge Jesus e garante que está num bom momento de forma. Ainda, lucros da SAD leonina e a vitória da equipa feminina do Benfica na Liga dos Campeões.",
-      "category": "Esportes"
-    },
-    {
-      "title": "EUA: Justiça defende veto a repórteres na Casa Branca por risco à segurança",
-      "url": "https://www.cnnbrasil.com.br/internacional/eua-justica-defende-veto-a-reporteres-na-casa-branca-por-risco-a-seguranca/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:43:02+00:00",
-      "summary": "Governo Trump cita reportagens sobre guerra no Irã e obra de salão de festas ao justificar restrições impostas a CNN, MS NOW e Politico",
-      "category": "Política"
-    },
-    {
-      "title": "Supremo deve definir regras do jogo antes dos “jogadores”, diz especialista",
-      "url": "https://www.cnnbrasil.com.br/politica/supremo-deve-definir-regras-do-jogo-antes-dos-jogadores-diz-especialista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:37:21+00:00",
-      "summary": "Marcelo Crespo, coordenador do curso de Direito da ESPM, defende que Fachin estabeleça ritos processuais antes de definir quais ministros votarão em casos polêmicos",
-      "category": "Política"
-    },
-    {
-      "title": "5h Presidente do Irão já chegou aos EUA",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-presidente-do-irao-ja-chegou-aos-eua_a1_1767145",
+      "title": "Marroquinos vão às urnas após tentativas de migração em massa e protestos fatais",
+      "url": "https://www.rtp.pt/noticias/mundo/marroquinos-vao-as-urnas-apos-tentativas-de-migracao-em-massa-e-protestos-fatais_n1767207",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T05:27:02+00:00",
+      "publishedAt": "2026-09-23T11:49:04+00:00",
+      "summary": "O próximo Governo de Marrocos vai enfrentar pressão para dar resposta às preocupações da população, operando a par de uma monarquia com poder de decisão em assuntos estratégicos.",
+      "category": "Política"
+    },
+    {
+      "title": "Dois mil litros de combustível apreendidos em Cacilhas",
+      "url": "https://www.rtp.pt/noticias/pais/dois-mil-litros-de-combustivel-apreendidos-em-cacilhas_n1767206",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:40:54+00:00",
+      "summary": "As autoridades admitem que o caso possa estar relacionado com o tráfico de droga. O volume e a forma como o combustível estava acondicionado são característicos de estruturas \"logísticas utilizadas no apoio e abastecimento de Embarcações de Alta Velocidade (EAV), tipologia de meio associada ao tráfico de estupefaciente",
+      "category": "Economia"
+    },
+    {
+      "title": "Governo rejeita causalidade entre apoios aos jovens e subida de preço das casas",
+      "url": "https://www.rtp.pt/noticias/economia/governo-rejeita-causalidade-entre-apoios-aos-jovens-e-subida-de-preco-das-casas_n1767202",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:37:29+00:00",
+      "summary": "O Governo rejeita haver uma causalidade entre os apoios aos jovens para a compra da primeira habitação e o aumento do preço das casas, assunto que discutiu esta semana com o FMI, disse hoje o ministro das Finanças.",
+      "category": "Política"
+    },
+    {
+      "title": "11h ULS Almada/Seixal reencaminha utentes de IVG para a Clínica dos Arcos",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-uls-almadaseixal-reencaminha-utentes-de-ivg-para-a-clinica-dos-arcos_a1_1767204",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:33:02+00:00",
       "summary": "",
-      "category": "Política"
+      "category": "Mundo"
     },
     {
-      "title": "María Corina Machado foi impedida de voltar à Venezuela, diz partido",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/23/maria-corina-machado-foi-impedida-de-voltar-a-venezuela-diz-partido.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:16:23+00:00",
-      "summary": "Foto de arquivo: Maria Corina Machado, líder da oposição na Venezuela, discursa para apoiadores em protesto contra posse de Maduro para um terceiro mandato, em Caracas, em 9 de janeiro de 2025. Reuters/Leonardo Fernandez Viloria/Foto de arquivo A líder da oposição venezuelana, María Corina Machado, fez ao menos três te",
-      "category": "Política"
-    },
-    {
-      "title": "6h. PM convida ao investimento dos EUA em Portugal",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2503/",
+      "title": "Glockenwise: teremos sempre os miúdos de Barcelos",
+      "url": "https://observador.pt/2026/09/23/glockenwise-se-tudo-falhar-teremos-sempre-os-miudos-de-barcelos/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T05:12:52+00:00",
-      "summary": "Luís Montenegro diz que o país vive \"estabilidade política, económica e social\". Ainda, incêndio em Santo Tirso dominado esta madrugada.",
+      "publishedAt": "2026-09-23T11:29:18+00:00",
+      "summary": "\"Vale Tudo para Chegar a Algum Lado\" é, nesse sentido, um álbum de base impressionista, feito da sonoridade inconcreta do rock psicadélico, do pós-punk e do shoegaze, à qual é aplicada um glacé de indie rock em momentos muito precisos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Maria José Costeira eleita Vice-Presidente do Tribunal Geral da União Europeia",
+      "url": "https://www.rtp.pt/noticias/mundo/maria-jose-costeira-eleita-vice-presidente-do-tribunal-geral-da-uniao-europeia_n1767200",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:29:06+00:00",
+      "summary": "A juíza portuguesa Maria José Costeira foi eleita, pelos seus pares, Vice-Presidente do Tribunal Geral para o período compreendido entre 23 de setembro de 2026 e 31 de agosto de 2028.",
+      "category": "Política"
+    },
+    {
+      "title": "Kamala Harris na campanha para eleições intercalares",
+      "url": "https://observador.pt/2026/09/23/kamala-harris-entra-pela-primeira-vez-na-campanha-para-eleicoes-intercalares/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:24:30+00:00",
+      "summary": "Sondagens recentes dão ao democrata Abdul El-Sayed uma vantagem de sete pontos sobre o republicano Mike Rogers",
+      "category": "Política"
+    },
+    {
+      "title": "TRE-RN solicita força federal para Doutor Severiano após assassinato de irmão de prefeita",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/23/tre-rn-solicitacao-forca-federal-doutor-severiano.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:22:33+00:00",
+      "summary": "TRE-RN pede forças federais para Doutor Severiano O Tribunal Regional Eleitoral do Rio Grande do Norte (TRE-RN) solicitou ao Tribunal Superior Eleitoral (TSE) forças federais de segurança para atuar na cidade de Doutor Severiano nas eleições de 2026. A solicitação acontece por conta do assassinato do irmão da prefeita,",
+      "category": "Política"
+    },
+    {
+      "title": "Chefe de facção criminosa em MT é presa na Bolívia após mais de um ano foragida",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/23/chefe-de-faccao-criminosa-em-mt-e-capturada-na-bolivia-apos-mais-de-um-ano-foragida.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:18:11+00:00",
+      "summary": "Angélica Saraiva de Sá, conhecida como “Angeliquinha” Reprodução A foragida Angélica Saraiva de Sá, conhecida como “Angeliquinha”, apontada pela Polícia Civil como uma das lideranças de uma facção criminosa no norte de Mato Grosso, foi presa nesta terça-feira (22), em Santa Cruz de la Sierra, na Bolívia. A captura ocor",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mega-Sena 3061: 14 apostas de AL acertam quatro números; confira",
+      "url": "https://g1.globo.com/al/alagoas/noticia/2026/09/23/mega-sena-3061-14-apostas-de-al-acertam-quatro-numeros-confira.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:17:40+00:00",
+      "summary": "G1 | Loterias - Mega-Sena 3061 Quatorze apostas de Alagoas acertaram quatro números no concurso 3060 da Mega-Sena, que teve o sorteio realizado no domingo (20), em São Paulo. Ninguém acertou os seis números e o prêmio principal acumulou em R$ 38 milhões. 📱Participe do canal do g1 Alagoas Em Alagoas, as apostas ganhador",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mega-Sena: aposta de Ubatuba faz a quina e fatura R$ 42,2 mil; veja os números sorteados",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/23/mega-sena-aposta-de-ubatuba-faz-a-quina-e-fatura-r-422-mil-veja-os-numeros-sorteados.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:16:05+00:00",
+      "summary": "Concurso 3.061 da Mega-Sena: veja números sorteados Uma aposta de Ubatuba, no Litoral Norte de São Paulo, ficou a um número de faturar o prêmio milionário da Mega-Sena nesta terça-feira (22) e ganhou R$ 42.199,06 ao fazer a quina. Segundo a Caixa Econômica Federal, nenhuma aposta faturou o prêmio principal, que acumulo",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias das 12h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2451/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:14:56+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal completa primeiro semestre com excedente orçamental de 0,5%",
+      "url": "https://www.rtp.pt/noticias/economia/portugal-completa-primeiro-semestre-com-excedente-orcamental-de-05_n1767199",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:11:33+00:00",
+      "summary": "No primeiro trimestre do ano, as contas públicas portuguesas haviam registado um défice de 0,7 por cento do PIB. Valor associado à aplicação das medidas de apoio às regiões atingidas pelas depressões Kristin, Leonardo e Marta.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Parque Centenário é reaberto 9 dias após ser interditado por chuvas em Mogi das Cruzes",
+      "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/23/parque-centenario-e-reaberto-9-dias-apos-ser-interditado-por-chuvas-em-mogi-das-cruzes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:10:54+00:00",
+      "summary": "Parque Centenário reabre nesta quarta-feira após fortes chuvas em Mogi das Cruzes O Parque Centenário da Imigração Japonesa, em Mogi das Cruzes, foi reaberto ao público nesta quarta-feira (23), após ficar nove dias interditado. O parque foi fechado no dia 14 de setembro devido às fortes chuvas que atingiram a região. ✅",
       "category": "Clima"
     },
     {
-      "title": "Transformei as minhas obsessões em criatividade",
-      "url": "https://observador.pt/programas/somos-todos-malucos/transformei-as-minhas-obsessoes-em-criatividade/",
+      "title": "Conselho da Paz anuncia hoje plano de reconstrução de Gaza",
+      "url": "https://observador.pt/programas/a-guerra-traduzida/conselho-da-paz-anuncia-hoje-plano-de-reconstrucao-de-gaza/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T05:08:53+00:00",
-      "summary": "Hoje voltamos a um tema que me diz muito, a perturbação Obsessivo-compulsiva, para conhecer uma história, mas sobretudo para entender como podemos usar as “nossas pancadas” a nosso favor.",
+      "publishedAt": "2026-09-23T11:09:57+00:00",
+      "summary": "O portal Axios avança que o Conselho da Paz de Donald Trump deve anunciar hoje o plano para a reconstrução de Gaza. Ainda, Irão está a cancelar voos para o Iraque e o Omã, depois de pressão dos EUA.",
       "category": "Mundo"
     },
     {
-      "title": "Dos dupes aos superfakes: conhece o mercado das imitações?",
-      "url": "https://observador.pt/programas/do-avesso/dos-dupes-aos-superfakes-conhece-o-mercado-das-imitacoes/",
+      "title": "Aviões equipados com GPS que apresentou pane global são fabricados pela Embraer em São José dos Campos, SP",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/23/avioes-equipados-com-gps-que-apresentou-pane-global-sao-fabricados-pela-embraer-em-sao-jose-dos-campos-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:09:20+00:00",
+      "summary": "Instabilidade no GPS cancela voos Aviões fabricados pela Embraer em São José dos Campos, no interior de São Paulo, estão entre as aeronaves afetadas por uma instabilidade global no sistema de GPS. A ocorrência envolve modelos da família E2, incluindo o E195-E2 usado pela Azul. A falha levou a Azul a anunciar ajustes na",
+      "category": "Mundo"
+    },
+    {
+      "title": "Exército britânico vai criar esquadrão espacial para proteger satélites",
+      "url": "https://www.rtp.pt/noticias/mundo/exercito-britanico-vai-criar-esquadrao-espacial-para-proteger-satelites_n1767198",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:05:56+00:00",
+      "summary": "A nova unidade da Força Aérea do Reino Unido (RAF) vai alertar para ataques de mísseis e apoiar operações ofensivas e defensivas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Homem que atropelou dois polícias entregou-se à PSP",
+      "url": "https://observador.pt/2026/09/23/homem-que-atropelou-dois-policias-em-portimao-entregou-se-a-psp/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T05:03:29+00:00",
-      "summary": "Falamos das redes, que se enchem de artigos acessíveis que replicam gamas de luxo, das marcas mais copiadas, e ainda da melhor forma para saber se uma Louis Vuitton é falsa.",
+      "publishedAt": "2026-09-23T11:04:11+00:00",
+      "summary": "Os acontecimentos ocorreram na noite de domingo, junto às instalações da PSP de Portimão",
+      "category": "Mundo"
+    },
+    {
+      "title": "Alaíde Costa canta Claudio Nucci, Ivan Lins, Cartola, Djavan e Dominguinhos em álbum com pianista André Mehmari",
+      "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/23/alaide-costa-canta-claudio-nucci-ivan-lins-cartola-djavan-e-dominguinhos-em-album-com-pianista-andre-mehmari.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:02:36+00:00",
+      "summary": "Alaíde Costa grava no Estúdio Monteverdi, em São Paulo (SP), um álbum em duo com o pianista André Mehmari Marcelo Lima / Divulgação ♫ NOTÍCIA ♬ Aos 90 anos, Alaíde Costa tem frequentado estúdios com intensidade inédita na carreira fonográfica iniciada na década de 1950. A cantora ainda nem lançou o terceiro álbum da tr",
+      "category": "Cultura"
+    },
+    {
+      "title": "Meia revela motivo financeiro de saída do City: “Não quero mais trabalhar”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/meia-revela-motivo-financeiro-de-saida-do-city-nao-quero-mais-trabalhar/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:02:12+00:00",
+      "summary": "Reijnders diz que não gostava da função no time inglês e admite que não recusaria oferta financeira",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEOS: Bom Dia Rio de quarta, 23 de setembro de 2026",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/playlist/videos-bom-dia-rio-de-quarta-23-de-setembro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:02:04+00:00",
+      "summary": "Assista aos vídeos do telejornal com as notícias do Rio de Janeiro.",
+      "category": "Mundo"
+    },
+    {
+      "title": "PM britânico anuncia agência para travar \"maré venenosa\" da desinformação",
+      "url": "https://www.rtp.pt/noticias/mundo/pm-britanico-anuncia-agencia-para-travar-mare-venenosa-da-desinformacao_n1767195",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T11:01:23+00:00",
+      "summary": "O futuro Centro Nacional de Defesa da Informação pretende combater campanhas lançadas por potências estrangeiras, numa missão que reunirá serviços de informações, forças de segurança e empresas de redes sociais no Reino Unido com o objetivo de ajudar as comunidades e impedir a criação de uma narrativa \"distorcida e fal",
       "category": "Economia"
     },
     {
-      "title": "Bacia: o que nasceu primeiro, a parte do corpo ou o objeto?",
-      "url": "https://observador.pt/programas/portugues-suave/bacia-o-que-nasceu-primeiro-a-parte-do-corpo-ou-o-objeto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T05:03:16+00:00",
-      "summary": "O que veio primeiro: a bacia da cozinha, a do corpo humano ou a do rio? Marco Neves explica a origem celta da palavra e desvenda como usar \"anexo\" (ou \"em anexo\") nos e-mails do dia a dia.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Instabilidade em GPS de aviões da Embraer afeta operações da Azul",
-      "url": "https://www.cnnbrasil.com.br/infra/instabilidade-em-gps-de-avioes-da-embraer-afeta-operacoes-da-azul/",
-      "source": "CNN Brasil",
+      "title": "Secretário e vereador ficam feridos em acidente em Goiás",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/09/23/secretario-e-vereador-ficam-feridos-em-acidente-em-goias.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T05:03:13+00:00",
-      "summary": "Problema na recepção de sinais foi identificado em aeronaves equipadas com sistemas da Honeywell; fabricante afirma que não há impacto na segurança dos voos",
+      "publishedAt": "2026-09-23T11:01:01+00:00",
+      "summary": "Secretário de Meio Ambiente e vereador ficam feridos após carro oficial bater em carreta O secretário de Meio Ambiente de Leopoldo de Bulhões, José Júnio Marques, e o vereador do mesmo município Charles Tadeu ficaram feridos em um acidente na GO-010, entre Leopoldo de Bulhões e Bonfinópolis, no sudeste de Goiás. Segund",
       "category": "Mundo"
     },
     {
-      "title": "Ataque a tiros mata 11 pessoas na África do Sul; grávida está entre as vítimas",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/23/ataque-a-tiros-na-africa-do-sul.ghtml",
+      "title": "Do afastamento ao auxílio-aluguel: conheça todas as medidas protetivas",
+      "url": "https://www.cnnbrasil.com.br/nacional/brasil/do-afastamento-ao-auxilio-aluguel-conheca-todas-as-medidas-protetivas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:00:28+00:00",
+      "summary": "Legislação permite combinar diferentes mecanismos para preservar a segurança, a moradia, os filhos e o patrimônio de mulheres em situação de violência",
+      "category": "Mundo"
+    },
+    {
+      "title": "Veja seis motivos para acompanhar a Super Data Fifa",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/veja-seis-motivos-para-acompanhar-a-super-data-fifa/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:00:22+00:00",
+      "summary": "Calendário mundial de futebol inicia novo ciclo reunindo grandes seleções entre amistosos e competições internacionais até o início de outubro",
+      "category": "Esportes"
+    },
+    {
+      "title": "“A Hipótese do Amor”: saiba o que esperar da adaptação",
+      "url": "https://www.cnnbrasil.com.br/pop/streaming/a-hipotese-do-amor-saiba-o-que-esperar-da-adaptacao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T11:00:16+00:00",
+      "summary": "Filme chega ao streaming nesta quarta-feira (23)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Preso suspeito de envolvimento em morte de homem que teve casa invadida por grupro armado no PI",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/23/suspeito-morte-homem-preso.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T05:02:59+00:00",
-      "summary": "Homens armados invadiram uma casa em um bairro periférico de Durban, na África do Sul, e mataram 11 pessoas na noite de terça-feira (22), segundo autoridades locais. De acordo com Thamsanqa Ntuli, chefe do governo da província de KwaZulu-Natal, onde fica Durban, as vítimas estavam reunidas em uma residência pouco antes",
+      "publishedAt": "2026-09-23T10:59:55+00:00",
+      "summary": "Preso suspeito de homicídio: caso aconteceu no município de José de Freitas John Lennon Bacelar de Carvalho foi preso na noite de terça-feira (22), suspeito de envolvimento na morte de Francisco Wanderson do Nascimento Rêgo, de 27 anos, que teve a casa invadida por um grupo armado antes de ser morto a tiros, em José de",
+      "category": "Mundo"
+    },
+    {
+      "title": "PS questiona IP sobre estrada fechada desde a Kristin",
+      "url": "https://observador.pt/2026/09/23/mau-tempo-ps-em-penacova-quer-respostas-da-ip-sobre-estrada-encerrada-desde-a-kristin/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T10:59:23+00:00",
+      "summary": "\"A estrada está completamente abandonada\", alerta vereador",
+      "category": "Mundo"
+    },
+    {
+      "title": "Obras alteram trânsito em João Pessoa até sábado (26); veja trechos e horários",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/23/obras-alteram-transito-em-joao-pessoa-ate-sabado-26-veja-trechos-e-horarios.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:59:17+00:00",
+      "summary": "Obras alteram trânsito em ruas de João Pessoa até sábado (26) Reprodução / TV Cabo Branco a Obras de modernização do sistema de abastecimento de água alteram o trânsito em João Pessoa entre esta quarta-feira (23) até o sábado (26). As intervenções acontecem em diferentes ruas e avenidas, com mudanças nos horários de ci",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dois homens são presos suspeitos de violência contra ex-companheiras em Ponta de Pedras, no Marajó",
+      "url": "https://g1.globo.com/pa/para/noticia/2026/09/23/dois-homens-sao-presos-suspeitos-de-violencia-contra-ex-companheiras-em-ponta-de-pedras-no-marajo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:59:01+00:00",
+      "summary": "Dois homens são presos por violência contra mulher em Ponta de Pedras, no Marajó Dois homens foram presos em Ponta de Pedras, na Ilha do Marajó, por violência contra mulheres e descumprimento de medidas protetivas. Segundo a Polícia Civil, um dos suspeitos foi localizado depois de invadir a casa da ex-companheira, de 2",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pessoas que precisam saber antecipadamente sobre uma tarefa não estão sendo complicadas? Psicologia explica motivadores",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/pessoas-que-precisam-saber-antecipadamente-sobre-uma-tarefa-nao-estao-sendo-complicadas-psicologia-explica-motivadores/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:58:39+00:00",
+      "summary": "Compreenda como funciona o estímulo e motivação para concretizar tarefas e cumprir ordens de acordo com Teoria da Autodeterminação",
+      "category": "Mundo"
+    },
+    {
+      "title": "Helicóptero de Rick: corpos de mortos em queda de aeronave são liberados",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/helicoptero-de-rick-corpos-de-mortos-em-queda-de-aeronave-sao-liberados/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:56:23+00:00",
+      "summary": "Vítimas são o cantor Rick Sollo, da dupla Rick e Renner, o empresário Bruno Avelar, o videomaker Paulo Soares, o piloto e o copiloto que comandavam a aeronave",
+      "category": "Cultura"
+    },
+    {
+      "title": "Pesquisa eleitoral mostra Trump em baixa e vantagem democrata no Congresso",
+      "url": "https://www.cnnbrasil.com.br/internacional/pesquisa-eleitoral-cnn-trump-midterms-setembro/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:55:43+00:00",
+      "summary": "Poll da CNN aponta vantagem de 8 pontos para democratas entre eleitores registrados e queda na avaliação de Trump sobre a economia; resultados aparecem a um mês das eleições americanas de Meio de Mandato",
       "category": "Política"
     },
     {
-      "title": "O Painel de azulejos do Rossio e a Casa da Ribeira em Viseu",
-      "url": "https://observador.pt/programas/a-historia-das-historias/o-painel-de-azulejos-do-rossio-e-a-casa-da-ribeira-em-viseu/",
+      "title": "Associação de Odemira vai apoiar saúde mental dos homens",
+      "url": "https://observador.pt/2026/09/23/nova-associacao-no-concelho-de-odemira-vai-apoiar-saude-mental-dos-homens/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T05:02:48+00:00",
-      "summary": "Data de 1931 o grande painel de azulejos do Rossio de Viseu, desenho do Mestre Joaquim Lopes; fala-se também da Fundação para a Proteção do Artesanato Museu e da Casa da Ribeira",
-      "category": "Cultura"
-    },
-    {
-      "title": "700 obras, 40 artistas. Uma coleção que nasce da proximidade",
-      "url": "https://observador.pt/programas/a-nossa-cultura/700-obras-40-artistas-uma-colecao-que-nasce-da-proximidade/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T05:02:47+00:00",
-      "summary": "Mais do que adquirir obras, Pedro Álvares Ribeiro acompanha de perto os percursos de quem coleciona. Miguel Ruge continua a visita e explica como estas relações ajudam a moldar a coleção Peter Meeker.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Deixou de conseguir abrir um frasco? Não ignore este sinal",
-      "url": "https://observador.pt/programas/tratar-da-saude/deixou-de-conseguir-abrir-um-frasco-nao-ignore-este-sinal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T05:02:18+00:00",
-      "summary": "O que é que abrir um frasco tem a ver com a saúde dos músculos, dos nervos e até com a autonomia? Mais do que imagina. Perceba o que a força da mão pode revelar.",
+      "publishedAt": "2026-09-23T10:54:07+00:00",
+      "summary": "Associação contará com uma rede de profissionais de saúde, de psicólogos a médicos de família e urologistas",
       "category": "Saúde"
     },
     {
-      "title": "Deixar o notebook ligado na tomada o dia todo estraga a bateria?",
-      "url": "https://g1.globo.com/guia/guia-de-compras/tecnologia/saiba-se-deixar-o-notebook-ligado-na-tomada-o-dia-todo-estraga-a-bateria.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:00:00+00:00",
-      "summary": "Deixar o notebook na tomada o dia todo estraga a bateria? TheRegisti/Unsplash De forma geral, deixar o notebook na tomada o dia todo não vai desgastar mais a bateria do que deixá-lo passar pelos ciclos de descarregamento e carregamento. Mas isso não é consenso entre as marcas e pode ter outras consequências, como dimin",
-      "category": "Esportes"
-    },
-    {
-      "title": "Greenpeace monta 'castelo de cartas' em frente ao Congresso para ressaltar importância da eleição para o Senado; entenda",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/greenpeace-monta-castelo-de-cartas-em-frente-ao-congresso-para-ressaltar-importancia-da-eleicao-para-o-senado-entenda.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:00:00+00:00",
-      "summary": "Instalação artística do Greenpeace Brasil em frente ao Congresso Nacional busca conscientizar sobre a importância do voto para o Senado Luis Nova/Greenpeace Brasil O Greenpeace Brasil montou uma instalação artística em frente ao Congresso Nacional, nesta terça-feira (22), para conscientizar eleitores sobre a importânci",
-      "category": "Política"
-    },
-    {
-      "title": "Escudo das Américas: quem são os membros de aliança do governo Trump que anunciou sanções contra facções brasileiras",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/23/escudo-das-americas-quem-sao-os-membros-de-alianca-do-governo-trump-que-anunciou-sancoes-contra-faccoes-brasileiras.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:00:00+00:00",
-      "summary": "Líderes de países do continente se reúnem com Trump na primeira reunião do Escudo das Américas, em 7 de março de 2026 EUTERS/Kevin Lamarque Os membros da coalizão Escudo das Américas assinaram na última terça-feira (22) um acordo para designar formalmente as facções narcotraficantes como \"ameaças compartilhadas\" e torn",
-      "category": "Política"
-    },
-    {
-      "title": "Como uma psicóloga vendeu o carro e investiu R$ 120 mil para trazer um spa para bebês ao Brasil",
-      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/23/como-uma-psicologa-vendeu-o-carro-e-investiu-r-120-mil-para-trazer-um-spa-para-bebes-ao-brasil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:00:00+00:00",
-      "summary": "Psicóloga vendeu o carro e criou um spa para bebês no Rio de Janeiro O que começou como uma viagem para apresentar o filho à família no Paraguai acabou mudando completamente a vida da psicóloga Shirley Martinez. Nascida em Pedro Juan Caballero, na fronteira com o Brasil, ela nunca imaginou seguir o caminho empreendedor",
-      "category": "Mundo"
-    },
-    {
-      "title": "Azeite da Serra da Mantiqueira conquista prêmio internacional: ‘Estou me sentindo ganhando um Oscar’, diz produtor",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/23/azeite-da-serra-da-mantiqueira-conquista-premio-internacional-estou-me-sentindo-ganhando-um-oscar-diz-produtor.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:00:00+00:00",
-      "summary": "‘Oscar’ dos azeites: produto da Serra da Mantiqueira, no interior de SP, vence prêmio mundial com variedade espanhola Reprodução/Ana Beloto Um azeite produzido na Serra da Mantiqueira, no interior de São Paulo, conquistou um dos principais reconhecimentos internacionais do setor. Uma fazenda em Santo Antônio do Pinhal ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Influenciador brasileiro preso ao tentar entrar nos Estados Unidos fez desabafo à família: ‘Isso aqui é o inferno’",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/09/23/influenciador-brasileiro-preso-ao-tentar-entrar-nos-estados-unidos-fez-desabafo-a-familia-isso-aqui-e-o-inferno.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:00:00+00:00",
-      "summary": "Influenciador brasileiro preso ao tentar entrar nos Estados Unidos fez desabafo O influenciador goiano Matheus Fernandes Machado, de 28 anos, que está preso nos Estados Unidos após tentar entrar no país pela fronteira com o México, reclamou do local em que está detido para uma prima. Ludmilla Machado contou que o primo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem é detido com carro roubado e diz que comprou veículo de R$ 114 mil com roupas",
-      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/23/homem-e-detido-com-carro-roubado-e-diz-que-comprou-veiculo-de-r-114-mil-com-roupas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T05:00:00+00:00",
-      "summary": "Homem é flagrado com carro roubado e diz à polícia que pagou veículo com roupas Um homem foi detido após ser flagrado com um carro roubado na BR-232, em Jaboatão dos Guararapes, no Grande Recife. De acordo com a Polícia Rodoviária Federal (PRF), ele disse, durante abordagem, que comprou o veículo por R$ 114 mil na inte",
-      "category": "Mundo"
-    },
-    {
-      "title": "4h A \"lei das burcas\" entra hoje em vigor",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-a-lei-das-burcas-entra-hoje-em-vigor_a1_1767141",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T04:26:01+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "3h Nos EUA, o primeiro-ministro faz apelo a investidores",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-nos-eua-o-primeiro-ministro-faz-apelo-a-investidores_a1_1767140",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T04:22:02+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "2h Montenegro garante que Portugal vai ter excente orçamental",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-montenegro-garante-que-portugal-vai-ter-excente-orcamental_a1_1767139",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T04:21:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Gabriel Bontempo fala sobre primeira convocação: “Deixar uma boa imagem”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/gabriel-bontempo-fala-sobre-primeira-convocacao-deixar-uma-boa-imagem/",
+      "title": "De temporais a geadas: veja previsão desta quarta-feira (23) para o Brasil",
+      "url": "https://www.cnnbrasil.com.br/nacional/brasil/de-temporais-a-geadas-veja-previsao-desta-quarta-feira-23-para-o-brasil/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T04:17:37+00:00",
-      "summary": "Meia-atacante do Santos falou com a imprensa na madrugada desta quarta-feira (23), na Austrália, revelando apreensão durante a divulgação da lista",
+      "publishedAt": "2026-09-23T10:51:38+00:00",
+      "summary": "Instabilidade avança pelo Sudeste e Centro-Oeste, enquanto massa de ar frio favorece geada no Sul; Norte e Nordeste têm áreas de calor e baixa umidade",
       "category": "Clima"
     },
     {
-      "title": "Batalhão da PM em SP terá policial armado com fuzil na garupa de moto",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/batalhao-da-pm-em-sp-tera-policial-armado-com-fuzil-na-garupa-de-moto/",
+      "title": "Defesa Civil do Rio alerta para risco de enchentes e deslizamentos",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-do-rio-alerta-para-risco-de-enchentes-e-deslizamentos",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:51:00+00:00",
+      "summary": "A Defesa Civil Estadual do Rio de Janeiro divulgou, na manhã desta quarta-feira (23), alerta para riscos moderados de enchentes e deslizamentos em diversos pontos do estado, devido à chuva. Nesta manhã há registros de chuva fraca a moderada no Grande Rio e nas regiões sul, norte e serrana fluminenses, com rajadas de ve",
+      "category": "Clima"
+    },
+    {
+      "title": "Atlas: para 36%, gestão Lula foi principal responsável por disseminar bets",
+      "url": "https://www.cnnbrasil.com.br/politica/atlas-para-36-gestao-lula-foi-principal-responsavel-por-disseminar-bets/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T04:11:15+00:00",
-      "summary": "Dados de registros criminais vão direcionar o patrulhamento para locais com maior concentração de ocorrências na capital paulista, segundo a SSP",
+      "publishedAt": "2026-09-23T10:48:03+00:00",
+      "summary": "Foram ouvidos 5.015 eleitores entre os dias 17 e 22 de setembro; margem de erro é de um ponto percentual, para mais ou para menos",
       "category": "Mundo"
     },
     {
-      "title": "Previsão do tempo hoje para Brasília (DF): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/23/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite-1.ghtml",
-      "source": "G1",
+      "title": "Eleição do Corinthians: os nomes que sinalizam candidatura à presidência",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/eleicao-do-corinthians-os-nomes-que-sinalizam-candidatura-a-presidencia/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-23T04:07:29+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quarta-feira (23) para Brasília (DF) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 32ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No ",
+      "publishedAt": "2026-09-23T10:46:46+00:00",
+      "summary": "Pleito definirá o próximo líder do Timão para o triênio 2027-2029, com votação prevista para novembro",
+      "category": "Política"
+    },
+    {
+      "title": "Linha 9-Esmeralda tem lentidão após suspeita de risco de deslizamento em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/linha-9-esmeralda-tem-lentidao-apos-suspeita-de-risco-de-deslizamento-em-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:46:29+00:00",
+      "summary": "Defesa Civil foi acionada e informou que não há perigo para desmoronamento; Departamento de Zeladoria Urbana ainda deve verificar se não há outros danos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Receita abre consulta a lote da malha fina do Imposto de Renda",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/receita-abre-consulta-lote-da-malha-fina-do-imposto-de-renda",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:46:00+00:00",
+      "summary": "Cerca de 412 mil contribuintes que caíram na malha fina e regularizaram as pendências com o Fisco podem saber se receberão restituição. Às 10h desta quarta-feira (23), a Receita Federal libera a consulta ao lote da malha fina de setembro. O lote também contempla restituições residuais de anos anteriores. Ao todo, 412.1",
+      "category": "Mundo"
+    },
+    {
+      "title": "“A Fazenda 18”: Murilo acusa Erthal de “crescer para cima de mulher”",
+      "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-murilo-acusa-erthal-de-crescer-para-cima-de-mulher/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:44:16+00:00",
+      "summary": "O modelo e o ator protagonizaram uma discussão acalorada na noite da última terça-feira (22), após a formação da primeira Roça do reality show",
       "category": "Clima"
     },
     {
-      "title": "Previsão do tempo hoje para Brasília (DF): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/23/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T04:07:27+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quarta-feira (23) para Brasília (DF) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 32ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No ",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Paulo (SP): tempo chuvoso durante o dia e à noite",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/23/previsao-do-tempo-hoje-para-sao-paulo-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T04:06:57+00:00",
-      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta quarta-feira (23) para São Paulo (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 18ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chuvoso. À noit",
-      "category": "Clima"
-    },
-    {
-      "title": "O que anda Mário Centeno a preparar?",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/o-que-anda-mario-centeno-a-preparar/",
+      "title": "Hungria. Comissão Europeia propõe libertar 4,2 mil milhões",
+      "url": "https://observador.pt/2026/09/23/comissao-europeia-propoe-libertacao-de-42-mil-milhoes-de-euros-da-coesao-para-a-hungria/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T04:04:26+00:00",
-      "summary": "Mário Centeno faz comentário político, lançou um livro e tem feito críticas ao Governo (e ao PS). A Rita Tavares explica o que pode estar por detrás deste regresso e como reage a liderança socialista.",
-      "category": "Política"
-    },
-    {
-      "title": "Bruno Guimarães sobre pênalti perdido na Copa: “Bateria mil vezes de novo”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/bruno-guimaraes-sobre-penalti-perdido-na-copa-bateria-mil-vezes-de-novo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T03:58:04+00:00",
-      "summary": "Meio-campista falou com a imprensa na madrugada desta quarta-feira (23), na Austrália, comentando sobre o início de um novo ciclo e o desempenho na última Copa do Mundo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Veja a lista dos candidatos a deputado estadual em Santa Catarina",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/veja-a-lista-dos-candidatos-a-deputado-estadual-em-santa-catarina/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T03:51:42+00:00",
-      "summary": "Estado tem 413 candidatos ao cargo registrados no TSE (Tribunal Superior Eleitoral)",
-      "category": "Mundo"
-    },
-    {
-      "title": "Veja a lista dos candidatos a deputado federal em Santa Catarina",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/veja-a-lista-dos-candidatos-a-deputado-federal-em-santa-catarina/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T03:44:41+00:00",
-      "summary": "Estado tem 231 candidatos ao cargo registrados no TSE (Tribunal Superior Eleitoral)",
-      "category": "Mundo"
-    },
-    {
-      "title": "TRE-RJ libera candidatura de Rueda por unanimidade",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/tre-rj-libera-candidatura-de-rueda-por-unanimidade/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T03:18:02+00:00",
-      "summary": "Corte rejeitou acusação de que presidente do União Brasil teria se beneficiado de estrutura ligada a milícias",
-      "category": "Política"
-    },
-    {
-      "title": "4h. \"Lei das burcas\" entra esta quarta-feira em vigor",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2409/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T03:15:28+00:00",
-      "summary": "Nova lei proíbe ocultação do rosto em espaços públicos e prevê coimas que podem chegar aos três mil euros. Ainda, direção do PS desvaloriza eventual investida de Mário Centeno à liderança do partido.",
-      "category": "Política"
-    },
-    {
-      "title": "Trump se reúne com Delcy Rodríguez pela 1ª vez desde a captura de Maduro",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-se-reune-com-delcy-rodriguez-pela-1a-vez-desde-a-captura-de-maduro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T03:08:37+00:00",
-      "summary": "Líderes fizeram um encontro reservado nesta terça-feira (22); autoridade da Casa Branca confirmou a participação de Marco Rubio e Scott Bessent na reunião",
-      "category": "Mundo"
-    },
-    {
-      "title": "AO VIVO: Veja coletivas de Gabriel Bontempo e Bruno Guimarães na Seleção",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ao-vivo-veja-coletivas-de-gabriel-bontempo-e-bruno-guimaraes-na-selecao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T03:05:31+00:00",
-      "summary": "Time comandado por Carlo Ancelotti irá enfrentar a Austrália na sexta-feira (25), no primeiro compromisso na Super Data Fifa",
-      "category": "Esportes"
-    },
-    {
-      "title": "Equipe de Flávio aciona TSE contra Lula por suposto uso da máquina pública",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/equipe-de-flavio-aciona-tse-contra-lula-por-suposto-uso-da-maquina-publica/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-23T02:29:29+00:00",
-      "summary": "Campanha do candidato do PL à Presidência afirma haver uma repetição do suposto uso eleitoral indevido de dependências, atos, serviços, eventos institucionais ou estruturas da Presidência da República por parte do concorrente petista",
-      "category": "Cultura"
-    },
-    {
-      "title": "1h PM pede investimento dos EUA, de visita à bolsa de Nova Iorque",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-pm-pede-investimento-dos-eua-de-visita-a-bolsa-de-nova-iorque_a1_1767136",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T02:15:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-09-23T10:43:46+00:00",
+      "summary": "\"A Hungria tomou medidas importantes para reforçar o Estado de direito e proteger os interesses financeiros da União\"",
       "category": "Economia"
     },
     {
-      "title": "0h Ministro da Educação volta ao parlamento para responder sobre os problemas no arranque do ano letivo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-ministro-da-educacao-volta-ao-parlamento-para-responder-sobre-os-problemas-no-arranque-do-ano-letivo_a1_1767134",
-      "source": "RTP Notícias",
+      "title": "Casas. Subida de preços exige \"aumentar muito\" a oferta",
+      "url": "https://observador.pt/2026/09/23/subida-de-precos-da-habitacao-e-problema-estrutural-que-exige-aumentar-muito-a-oferta-diz-ministro-das-financas/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-23T00:41:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-09-23T10:38:45+00:00",
+      "summary": "É um problema que demora tempo a resolver até podermos ter crescimentos dos preços da habitação mais próximos daquilo que é a inflação",
+      "category": "Economia"
+    },
+    {
+      "title": "Entre o design e a performance",
+      "url": "https://observador.pt/2026/09/23/entre-o-design-e-a-performance/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T10:36:26+00:00",
+      "summary": "Foram concebidas assim – entre o melhor de dois mundos – as superfícies apresentadas em Eclectic Veins, a primeira coleção de superfícies minerais de ĒCLOS.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Após eleições, Putin prepara-se para uma nova mobilização?",
+      "url": "https://observador.pt/especiais/a-fuga-dos-russos-com-medo-de-serem-recrutados-para-a-guerra-apos-a-vitoria-nas-eleicoes-putin-vai-anunciar-mobilizacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T10:31:08+00:00",
+      "summary": "Kremlin tem negado nova vaga de mobilização, mas milhares de russos receiam acabar na linha da frente. Após as eleições, rumores de que Putin pode enviar mais homens para a Ucrânia intensificam-se.",
       "category": "Política"
+    },
+    {
+      "title": "Dermatite atópica impacta pele, sono e autoestima: saiba como tratar",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/dermatite-atopica-impacta-pele-sono-e-autoestima-saiba-como-tratar",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:30:00+00:00",
+      "summary": "Uma doença de pele que atinge não só a pele. Mas o sono, a saúde mental e até a autoestima dos pacientes. Em manifestações crônicas, a coceira gera feridas que deixam a pele sensível ao menor toque. De tecido a água, tudo dói. Essa é a realidade de muitos pacientes que convivem com a dermatite atópica - uma doença infl",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Líder índígena pede na ONU retirada de invasores de sua Terra",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/lider-indigena-pede-na-onu-retirada-de-invasores-de-sua-terra",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:27:00+00:00",
+      "summary": "As violações enfrentadas pelos povos da Terra Indígena Uru Eu Wau Wau, em Rondônia, que vêm sofrendo com a invasão de seu território por não indígenas, serão denunciadas nesta quarta-feira (23) pelo líder indígena Bitaté. O discurso, previsto para as 16h, será feito no Conselho de Direitos Humanos da Organização das Na",
+      "category": "Mundo"
+    },
+    {
+      "title": "Danças Ocultas dão 11 concertos no Canadá em outubro",
+      "url": "https://observador.pt/2026/09/23/dancas-ocultas-dao-11-concertos-no-canada-em-outubro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-23T10:22:30+00:00",
+      "summary": "Em março, o grupo dá seis concertos na Bélgica, também no âmbito da apresentação de \"Inspirar\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Jazz Livre, da Rádio MEC, destaca centenário de John Coltrane",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/jazz-livre-da-radio-mec-destaca-centenario-de-john-coltrane",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-23T10:13:00+00:00",
+      "summary": "No dia em que o saxofonista e compositor norte-americano John Coltrane (1926 - 1967) completaria 100 anos, o programa Jazz Livre presta homenagem a ele, um dos mais importantes jazzistas de todos os tempos. Com apresentação de Sidney Ferreira, a atração inédita vai ao ar nesta quarta-feira (23), às 21h, na Rádio MEC . ",
+      "category": "Clima"
     },
     {
       "title": "Casos de violência política de gênero crescem 11 vezes em 4 anos",
@@ -416,24 +506,6 @@
       "category": "Clima"
     },
     {
-      "title": "Montenegro destaca \"magnífico momento\" das relações bilaterais com EUA",
-      "url": "https://www.rtp.pt/noticias/economia/montenegro-destaca-magnifico-momento-das-relacoes-bilaterais-com-eua_n1767129",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T00:11:00+00:00",
-      "summary": "Em Nova Iorque, Luís Montenegro destacou o \"magnífico momento\" das relações bilaterais com os Estados Unidos e remeteu essa análise para quarta-feira.",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Absurdo grotesco\". Netanyahu reage a declarações de Macron sobre Gaza",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/absurdo-grotesco-netanyahu-reage-a-declaracoes-de-macron-sobre-gaza_n1767127",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T00:01:24+00:00",
-      "summary": "Benjamin Netanyahu criticou duramente Emmanuel Macron por qualificar Gaza de \"espetáculo vergonhoso\" durante a Assembleia Geral da ONU e defende a atuação israelita.",
-      "category": "Mundo"
-    },
-    {
       "title": "Veja como foi a terça-feira (22) dos candidatos a presidente",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-terca-feira-22-dos-candidatos-presidente",
       "source": "Agência Brasil",
@@ -450,78 +522,6 @@
       "publishedAt": "2026-09-22T23:56:00+00:00",
       "summary": "Vídeos falsos criados por inteligência artificial e a informação de baixa qualidade substituíram as tradicionais fake news e passaram a ser a principal ameaça digital às eleições e à democracia. É o que mostra o Guia Internet, Democracia e Eleições, publicado nesta terça-feira (22) pelo Comitê Gestor da Internet no Bra",
       "category": "Política"
-    },
-    {
-      "title": "23h Já reabriu a Estrada Nacional 105, na zona de Santo Tirso",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ja-reabriu-a-estrada-nacional-105-na-zona-de-santo-tirso_a1_1767128",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T23:48:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Afetados pelo El Niño terão crédito extraordinário de R$ 64 milhões",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/afetados-pelo-el-nino-terao-credito-extraordinario-de-r-64-milhoes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T23:20:00+00:00",
-      "summary": "O presidente da República em exercício, Geraldo Alckmin, assinou nesta terça-feira (22) uma Medida Provisória (MP) que libera crédito extraordinário de R$ 64 milhões para amenizar os efeitos do El Niño no Brasil. As comunidades que dependem da agricultura familiar e tiveram sua produção afetada estão entre as mais assi",
-      "category": "Política"
-    },
-    {
-      "title": "PR pede Estado aliado dos contabilistas com estabilidade na legislação fiscal e celeridade na justiça",
-      "url": "https://www.rtp.pt/noticias/economia/pr-pede-estado-aliado-dos-contabilistas-com-estabilidade-na-legislacao-fiscal-e-celeridade-na-justica_n1767121",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T22:58:12+00:00",
-      "summary": "O Presidente da República, António José Seguro, defendeu hoje que o Estado deve ser um aliado dos contabilistas, garantindo estabilidade na legislação fiscal, celeridade na justiça, menos burocracia e mais modernização de procedimentos.",
-      "category": "Política"
-    },
-    {
-      "title": "PM assegura nos EUA que Portugal vai ter excedente este ano e crescer acima da média europeia",
-      "url": "https://www.rtp.pt/noticias/politica/pm-assegura-nos-eua-que-portugal-vai-ter-excedente-este-ano-e-crescer-acima-da-media-europeia_n1767116",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-22T22:53:52+00:00",
-      "summary": "O primeiro-ministro assegurou hoje, na bolsa de Nova Iorque, que Portugal vai ter um novo excedente orçamental este ano e que o país vai continuar a crescer acima da média europeia, apelando a mais investimento dos Estados Unidos.",
-      "category": "Política"
-    },
-    {
-      "title": "Temporais no RS deixam mais de 700 pessoas desabrigadas",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-no-rs-deixam-mais-de-700-pessoas-desabrigadas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T22:22:00+00:00",
-      "summary": "Os fortes temporais que atingiram o Rio Grande do Sul desde a última sexta-feira (18) deixaram 703 pessoas desabrigadas, segundo balanço divulgado no final da tarde desta terça-feira (22) pela Defesa Civil estadual. Os dados mostram ainda que 3.231 pessoas ficaram desalojadas , ou seja, conseguiram ir para casa de pare",
-      "category": "Clima"
-    },
-    {
-      "title": "Instalação no Sesc Pompeia denuncia marcas do tráfico de escravizados",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/instalacao-no-sesc-pompeia-denuncia-marcas-do-trafico-de-escravizados",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T21:16:00+00:00",
-      "summary": "As marcas do tráfico transatlântico de africanos escravizados, considerado pela Assembleia Geral da Organização das Nações Unidas como o crime mais grave já praticado contra a humanidade , são denunciadas pela obra O Barco , que pode ser visitada a partir desta terça-feira (22) no Sesc Pompeia, em São Paulo. Durante ce",
-      "category": "Mundo"
-    },
-    {
-      "title": "Olimpíada de Astronomia no Vietnã tem cinco estudantes brasileiros",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/olimpiada-de-astronomia-no-vietna-tem-cinco-estudantes-brasileiros",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T21:00:00+00:00",
-      "summary": "No sofá, a cearense Biatriz Silva assistia admirada na TV ao lançamento de foguetes. Os olhos brilhavam mais ainda ao observar, ao lado dela, os olhos do pai, Carlos, vendedor de móveis, também fascinado por filmes como Interestelar. Foi com ele e com a mãe, Leidiana, dona de casa, que a menina aprendeu a olhar as estr",
-      "category": "Mundo"
-    },
-    {
-      "title": "Plano Nacional de Promoção da Igualdade Racial recebe contribuições",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/plano-nacional-de-promocao-da-igualdade-racial-recebe-contribuicoes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-22T20:53:00+00:00",
-      "summary": "A consulta pública para colaborar com os objetivos estratégicos do 2º Plano Nacional de Promoção da Igualdade Racial (Planapir) está aberta até o dia 16 de outubro, por meio da plataforma digital Brasil Participativo . O objetivo do plano é orientar a atuação do Estado brasileiro no enfrentamento do racismo estrutural,",
-      "category": "Ciência & Tech"
     }
   ],
   "sources": [
