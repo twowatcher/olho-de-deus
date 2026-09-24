@@ -1,347 +1,437 @@
 {
-  "updatedAt": "2026-09-24T04:44:37.662768+00:00",
+  "updatedAt": "2026-09-24T09:57:44.004610+00:00",
   "items": [
     {
-      "title": "5h Partidos discutem propostas sobre custo de vida no Parlamento",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-partidos-discutem-propostas-sobre-custo-de-vida-no-parlamento_a1_1767384",
+      "title": "Ordem dos Médicos quer adiamento de novo modelo informático de escolha de vagas do Internato",
+      "url": "https://www.rtp.pt/noticias/pais/ordem-dos-medicos-quer-adiamento-de-novo-modelo-informatico-de-escolha-de-vagas-do-internato_n1767434",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-24T05:26:01+00:00",
-      "summary": "",
-      "category": "Política"
+      "publishedAt": "2026-09-24T10:55:26+00:00",
+      "summary": "A Ordem dos Médicos quer que seja adiada a introdução de uma plataforma informática para a escolha do Internato Médico, argumentando que o sistema ainda não está devidamente testado em condições reais. Defende que antes de avançar, deve ser montado um plano de contingência já que uma falha pode ter implicações no futur",
+      "category": "Saúde"
     },
     {
-      "title": "4h Luís Montenegro discursa hoje na assembleia-geral da ONU",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-luis-montenegro-discursa-hoje-na-assembleia-geral-da-onu_a1_1767382",
+      "title": "Organismos anticorrupção pedem integridade em investimentos avultados na Defesa",
+      "url": "https://www.rtp.pt/noticias/politica/organismos-anticorrupcao-pedem-integridade-em-investimentos-avultados-na-defesa_n1767431",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-24T05:15:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:06:47+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quinta-feira (24) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 32ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, so",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Paulo (SP): céu nublado com possibilidade de garoa de dia e à noite",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-sao-paulo-sp-ceu-nublado-com-possibilidade-de-garoa-de-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:06:29+00:00",
-      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta quinta-feira (24) para São Paulo (SP) é de céu nublado com possibilidade de garoa de dia e à noite. As máximas são de 19ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo nublado. No período da tarde, tem",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): tempo nublado com chuva de manhã; sol e diminuição de nuvens à tarde, noite com muitas nuvens",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-tempo-nublado-com-chuva-de-manha-sol-e-diminuicao-de-nuvens-a-tarde-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:06:11+00:00",
-      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para esta quinta-feira (24) para São Bernardo do Campo (SP) é de tempo nublado com chuva de manhã. Sol e diminuição de nuvens à tarde. Noite com muitas nuvens. As máximas são de 17ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Br",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Santo André (SP): tempo nublado com chuva de manhã; sol e diminuição de nuvens à tarde, noite com muitas nuvens",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-santo-andre-sp-tempo-nublado-com-chuva-de-manha-sol-e-diminuicao-de-nuvens-a-tarde-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:05:54+00:00",
-      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para esta quinta-feira (24) para Santo André (SP) é de tempo nublado com chuva de manhã. Sol e diminuição de nuvens à tarde. Noite com muitas nuvens. As máximas são de 17ºC e as mínimas de 12ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manh",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:05:36+00:00",
-      "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para esta quinta-feira (24) para Osasco (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 19ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Guarulhos (SP): tempo nublado com chuva de manhã; à tarde pode garoar, o tempo abre, devagar, à noite",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-guarulhos-sp-tempo-nublado-com-chuva-de-manha-a-tarde-pode-garoar-o-tempo-abre-devagar-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:05:13+00:00",
-      "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para esta quinta-feira (24) para Guarulhos (SP) é de tempo nublado com chuva de manhã. À tarde pode garoar. O tempo abre, devagar, à noite. As máximas são de 19ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chu",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:04:55+00:00",
-      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para esta quinta-feira (24) para São Gonçalo (RJ) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 21ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No períod",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): tempo chuvoso durante o dia e à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:04:38+00:00",
-      "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para esta quinta-feira (24) para o Rio de Janeiro (RJ) é de tempo chuvoso durante o dia e à noite. As máximas são de 22ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chu",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens passando a chuvoso à tarde; a chuva não para à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-passando-a-chuvoso-a-tarde-a-chuva-nao-para-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:04:21+00:00",
-      "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para esta quinta-feira (24) para Nova Iguaçu (RJ) é de sol com muitas nuvens passando a chuvoso à tarde. A chuva não para à noite. As máximas são de 20ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas n",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens e pancadas de chuva à tarde; à noite o tempo passa a chuvoso",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-e-pancadas-de-chuva-a-tarde-a-noite-o-tempo-passa-a-chuvoso.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:04:04+00:00",
-      "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para esta quinta-feira (24) para Niterói (RJ) é de sol com muitas nuvens e pancadas de chuva à tarde. À noite o tempo passa a chuvoso. As máximas são de 21ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas n",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Duque de Caxias (RJ): tempo chuvoso de manhã e à noite; aberturas de sol à tarde, ainda com pancadas de chuva",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-duque-de-caxias-rj-tempo-chuvoso-de-manha-e-a-noite-aberturas-de-sol-a-tarde-ainda-com-pancadas-de-chuva.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:03:46+00:00",
-      "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para esta quinta-feira (24) para Duque de Caxias (RJ) é de tempo chuvoso de manhã e à noite. Aberturas de sol à tarde, ainda com pancadas de chuva. As máximas são de 21ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a ma",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Sete Lagoas (MG): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/24/previsao-do-tempo-hoje-para-sete-lagoas-mg-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T04:03:29+00:00",
-      "summary": "Previsão do tempo hoje em Sete Lagoas g1 A previsão do tempo para esta quinta-feira (24) para Sete Lagoas (MG) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovo",
-      "category": "Clima"
-    },
-    {
-      "title": "3h Presidente da Venezuela insiste que país vai ter eleições",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-presidente-da-venezuela-insiste-que-pais-vai-ter-eleicoes_a1_1767374",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T03:28:01+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "Enquete “A Fazenda 18”: quem você quer salvar na 1ª Roça?",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/enquete-a-fazenda-18-quem-voce-quer-salvar-na-1a-roca/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T03:19:12+00:00",
-      "summary": "Público deve votar para definir quem será o primeiro a deixar o reality show nesta quinta-feira e perderá a chance de disputar o prêmio",
-      "category": "Mundo"
-    },
-    {
-      "title": "TRE-PR mantém candidatura de Deltan Dallagnol ao Senado",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/tre-pr-mantem-candidatura-de-deltan-dallagnol-ao-senado/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T03:16:37+00:00",
-      "summary": "Corte rejeitou impugnação e manteve multa de R$ 100 mil aplicada ao candidato",
-      "category": "Política"
-    },
-    {
-      "title": "4h. Enviado de Putin deverá viajar para os EUA",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2410/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T03:16:11+00:00",
-      "summary": "Kirill Dmitriev deverá reunir com Steve Witkoff e Jared Kushner à margem da Assembleia Geral da ONU. Ainda, contradições nos documentos da PJ entregues ao MP na queixa contra diretor Carlos Cabreiro.",
-      "category": "Mundo"
-    },
-    {
-      "title": "“A Fazenda 18”: Darlin vence a Prova do Fazendeiro e define 1ª Roça",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-darlin-vence-a-prova-do-fazendeiro-e-define-1a-roca/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T03:13:27+00:00",
-      "summary": "Stephanie Gomes, Serginho e Darlin enfrentaram a prova de quarta-feira em A Fazenda 18 e a mãe da cantora Lexa foi quem levou a melhor",
-      "category": "Cultura"
-    },
-    {
-      "title": "Lula diz que vídeo de Porchat sobre Master “merece Oscar”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-video-de-porchat-sobre-master-merece-oscar/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T03:12:00+00:00",
-      "summary": "Presidente afirmou, em evento com artistas no Rio, que produção sobre caso envolvendo Vorcaro é importante para mostrar o que está acontecendo no país",
-      "category": "Política"
-    },
-    {
-      "title": "Veja como foi o último treino da Seleção antes de pegar a Austrália",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/veja-como-foi-o-ultimo-treino-da-selecao-antes-de-pegar-a-australia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T03:06:22+00:00",
-      "summary": "Equipes se enfrentam em amistoso na próxima sexta-feira (25), às 7 horas (de Brasília), no Estádio Queensland Country Bank, em Townsville",
-      "category": "Esportes"
-    },
-    {
-      "title": "Jovens relatam ataque homofóbico após festa universitária no RJ",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/jovens-relatam-ataque-homofobico-apos-festa-universitaria-no-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T02:50:23+00:00",
-      "summary": "Vítimas registraram o caso na polícia e realizaram exame de corpo de delito após serem espancadas por grupo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dupla do São Paulo passa por cirurgia no joelho; confira detalhes",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/dupla-do-sao-paulo-passa-por-cirurgia-no-joelho-confira-detalhes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T02:43:38+00:00",
-      "summary": "Lateral e zagueiro recém-contratados serão desfalques no Tricolor nos próximos compromissos da temporada após o término da Data Fifa",
-      "category": "Clima"
-    },
-    {
-      "title": "2h EUA e China prolongam trégua nas tarifas até 10 de janeiro",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-eua-e-china-prolongam-tregua-nas-tarifas-ate-10-de-janeiro_a1_1767372",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T02:22:01+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Praia Clube apresenta time feminino de vôlei para a temporada 2026-27",
-      "url": "https://www.cnnbrasil.com.br/esportes/volei/praia-clube-apresenta-time-feminino-de-volei-para-a-temporada-2026-27/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T02:21:52+00:00",
-      "summary": "Atual grande campeão da Superliga 2025-26, clube de Minas Gerais manteve grande parte do elenco vencedor para a próxima temporada de vôlei",
-      "category": "Esportes"
-    },
-    {
-      "title": "RS entra em alerta para colapso de barragem e inundação de rios",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/rs-entra-em-alerta-para-colapso-de-barragem-e-inundacao-de-rios/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T02:18:43+00:00",
-      "summary": "Órgão contabiliza mais de 600 mil pessoas afetadas e estragos em 167 municípios do estado desde o início do monitoramento; até o momento quatro pessoas morreram",
-      "category": "Mundo"
-    },
-    {
-      "title": "3h. Contradições nos documentos da queixa a Carlos Cabreiro",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2446/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T02:16:46+00:00",
-      "summary": "O Observador teve acesso à queixa de Aníbal Pinto e à documentação entregue ao Ministério Público. Ainda, enviado especial de Putin deverá viajar para os EUA para reunir com a administração Trump.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Na ONU, Delcy ignora Maduro, acena a Trump e promete eleições na Venezuela",
-      "url": "https://www.cnnbrasil.com.br/internacional/na-onu-delcy-ignora-maduro-acena-a-trump-e-promete-eleicoes-na-venezuela/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T02:05:34+00:00",
-      "summary": "Sem mencionar o ditador deposto, presidente interina agradeceu Washington por retomar relações e afirmou que iniciará processo eleitoral \"à plena democracia\"",
-      "category": "Política"
-    },
-    {
-      "title": "Diretor desabafa após saída de Baptista: “Covardes abandonam o barco”",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/diretor-desabafa-apos-saida-de-baptista-covardes-abandonam-o-barco/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T02:05:31+00:00",
-      "summary": "Éder Citadin mandou indireta para o treinador que \"abandonou\" os catarinenses rumo ao Internacional",
-      "category": "Mundo"
-    },
-    {
-      "title": "1h Portugal não está atrasado na transição energética, garante o PM na ONU em Nova Iorque",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-portugal-nao-esta-atrasado-na-transicao-energetica-garante-o-pm-na-onu-em-nova-iorque_a1_1767371",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T02:05:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Queremos eleições livres no Brasil, diz porta-voz dos EUA à CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/politica/queremos-eleicoes-livres-no-brasil-diz-porta-voz-dos-eua-a-cnn-brasil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T02:04:13+00:00",
-      "summary": "Porta-voz do Departamento de Estado americano afirma que interferir em eleições não faz parte da estratégia do governo Trump; a apuração é da correspondente internacional da CNN Priscila Yazbek",
-      "category": "Política"
-    },
-    {
-      "title": "2h. Venezuela. Presidente interina promete eleições",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2420/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T01:15:22+00:00",
-      "summary": "Delcy Rodríguez garante que instituições venezuelanas estão prontas para assegurar processo inclusivo e transparente. Ainda neste jornal, Zelensky pede à China ajuda para pôr fim à guerra na Ucrânia.",
-      "category": "Política"
-    },
-    {
-      "title": "Des.Acordo é o novo programa da RTP Notícias. Entre o IVA Zero e a violência doméstica, três deputadas à procura de consenso",
-      "url": "https://www.rtp.pt/noticias/pais/desacordo-e-o-novo-programa-da-rtp-noticias-entre-o-iva-zero-e-a-violencia-domestica-tres-deputadas-a-procura-de-consenso_n1767369",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T00:52:34+00:00",
-      "summary": "PS e Chega aproximam-se nas propostas para aliviar o custo de vida, enquanto o PSD critica medidas que considera pouco justas. Na estreia do Des.Acordo, três deputadas discordaram sobre a resposta ao aumento dos preços, mas acabaram por encontrar um tema em que estão de acordo: o combate à violência doméstica.",
+      "publishedAt": "2026-09-24T10:46:29+00:00",
+      "summary": "O Mecanismo Nacional Anticorrupção (MENAC) e organismos similares de outros quatro países europeus alertaram hoje, numa declaração conjunta promovida pela instituição portuguesa, que o investimento em defesa \"não deve ocorrer à custa da transparência\" e integridade.",
       "category": "Economia"
     },
     {
-      "title": "0h Líderes da OpenAI e da Anthropic: são necessárias normas comuns para regular a Inteligência Artificial",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-lideres-da-openai-e-da-anthropic-sao-necessarias-normas-comuns-para-regular-a-inteligencia-artificial_a1_1767368",
+      "title": "Cotação do petróleo Brent sobe 3% e ultrapassa os 106 dólares por barril",
+      "url": "https://www.rtp.pt/noticias/economia/cotacao-do-petroleo-brent-sobe-3-e-ultrapassa-os-106-dolares-por-barril_n1767433",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-24T00:36:02+00:00",
-      "summary": "",
-      "category": "Ciência & Tech"
+      "publishedAt": "2026-09-24T10:46:13+00:00",
+      "summary": "O barril de Brent para entrega em novembro subiu hoje 3%, situando-se nos 106,24 dólares por barril, após a Assembleia Geral da ONU em Nova Iorque pouco ter abordado as soluções para as tensões no Médio Oriente.",
+      "category": "Economia"
     },
     {
-      "title": "MNE português e timorense reforçaram concertação entre os dois países em encontro",
-      "url": "https://www.rtp.pt/noticias/politica/mne-portugues-e-timorense-reforcaram-concertacao-entre-os-dois-paises-em-encontro_n1767365",
+      "title": "Preto no Branco. Episódio 73",
+      "url": "https://www.rtp.pt/noticias/pais/preto-no-branco-episodio-73_v1765287",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-24T00:30:41+00:00",
-      "summary": "O ministro dos Negócios Estrangeiros, Paulo Rangel, reuniu-se na quarta-feira com o homólogo de Timor-Leste, Bendito Freitas, à margem da Assembleia Geral da ONU, num encontro onde reforçaram a concertação entre os dois países.",
-      "category": "Política"
+      "publishedAt": "2026-09-24T10:44:33+00:00",
+      "summary": "Na década de 60, a esperança de vida dos portugueses situava-se nos 63 anos. A mortalidade infantil era a mais alta da Europa. Menos de metade das casas tinha água canalizada, 40% das casas não tinha ligação à rede de esgotos.",
+      "category": "Economia"
     },
     {
-      "title": "Juiz questiona o veto a jornalistas de CNN, MS NOW e Politico na Casa Branca",
-      "url": "https://www.rtp.pt/noticias/mundo/juiz-questiona-o-veto-a-jornalistas-de-cnn-ms-now-e-politico-na-casa-branca_n1767366",
+      "title": "Preto no Branco. Episódio 72",
+      "url": "https://www.rtp.pt/noticias/pais/preto-no-branco-episodio-72_v1765284",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-24T00:30:05+00:00",
-      "summary": "O juiz Timothy Kelly questionou na quarta-feira a retirada por Donald Trump dos passes de imprensa sem estabelecer antes regras nem notificar atempadamente, durante a audiência de abertura sobre o veto a CNN, MS NOW y Politico.",
+      "publishedAt": "2026-09-24T10:44:14+00:00",
+      "summary": "\"Bem fazer\" e caridade, com forte componente religiosa, era a forma de diminuir a miséria em que muitos portugueses viviam.",
       "category": "Mundo"
     },
     {
-      "title": "Portugal assina memorando de entendimento para reforçar parceria com países do Golfo",
-      "url": "https://www.rtp.pt/noticias/politica/portugal-assina-memorando-de-entendimento-para-reforcar-parceria-com-paises-do-golfo_n1767361",
+      "title": "Preto no Branco. Episódio 71",
+      "url": "https://www.rtp.pt/noticias/pais/preto-no-branco-episodio-71_v1765283",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-24T00:29:23+00:00",
-      "summary": "O ministro dos Negócios Estrangeiros português, Paulo Rangel, assinou hoje com o secretário-geral do Conselho de Cooperação do Golfo um Memorando de Entendimento sobre Matérias de Interesse Comum, para reforçar a parceria entre Portugal e os países do Golfo.",
+      "publishedAt": "2026-09-24T10:43:57+00:00",
+      "summary": "\"Bem fazer\" e caridade, com forte componente religiosa, era a forma de diminuir a miséria em que muitos portugueses viviam.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Preto no Branco. Episódio 70",
+      "url": "https://www.rtp.pt/noticias/pais/preto-no-branco-episodio-70_v1765281",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T10:43:43+00:00",
+      "summary": "\"Bem fazer\" e caridade, com forte componente religiosa, era a forma de diminuir a miséria em que muitos portugueses viviam.<br />",
+      "category": "Mundo"
+    },
+    {
+      "title": "Preto no Branco. Episódio 69",
+      "url": "https://www.rtp.pt/noticias/pais/preto-no-branco-episodio-69_v1765280",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T10:43:26+00:00",
+      "summary": "Em 1957, a Radiotelevisão Portuguesa faz cobertura da feira de Montemor-o-novo em que se vende de tudo, até \"banha da cobra\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Preto no Branco. Episódio 74",
+      "url": "https://www.rtp.pt/noticias/pais/preto-no-branco-episodio-74_v1765288",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T10:43:15+00:00",
+      "summary": "Vindo de Navarra para o Porto, o padre Marinho destaca-se por querer \"ensinar a pescar\", para tirar os portugueses da miséria. No Centro de Caridade Nossa Senhora do Perpétuo Socorro, oferecia-se cursos gratuitos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "10H Os alertas sobre os investimentos na área da defesa",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-os-alertas-sobre-os-investimentos-na-area-da-defesa_a1_1767432",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T10:21:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Agente de Inteligência Artificial violou site do Governo australiano",
+      "url": "https://www.rtp.pt/noticias/mundo/agente-de-inteligencia-artificial-violou-site-do-governo-australiano_n1767410",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T09:55:59+00:00",
+      "summary": "O primeiro-ministro da Austrália revelou que o programa desenvolvido pela empresa OpenAI se \"infiltrou\" num portal de estatísticas que continha dados privados do sistema público de saúde do país. Anthony Albanese acrescentou que \"outros três sistemas podem ter sido afetados\", mas não deu detalhes. A Austrália criou uma",
       "category": "Política"
     },
     {
-      "title": "\"Ferido e a sofrer\". Família de imigrante venezuelano com bala do ICE alojada no corpo exige que seja operado",
-      "url": "https://www.rtp.pt/noticias/mundo/ferido-e-a-sofrer-familia-de-imigrante-venezuelano-com-bala-do-ice-alojada-no-corpo-exige-que-seja-operado_n1767364",
+      "title": "Seguro recebido a sós por Leão XIV no Vaticano durante 40 minutos",
+      "url": "https://www.rtp.pt/noticias/mundo/seguro-recebido-a-sos-por-leao-xiv-no-vaticano-durante-40-minutos_n1767430",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-24T00:23:05+00:00",
-      "summary": "Os documentos judiciais apresentados pelos advogados de Wilber Garcés Pérez indicam que apesar de ferido este foi forçado a dormir no chão de betão de um centro de processamento temporário do ICE.",
-      "category": "Clima"
+      "publishedAt": "2026-09-24T09:45:52+00:00",
+      "summary": "O Presidente da República, António José Seguro, foi hoje de manhã recebido pelo Papa Leão XIV, na sua primeira visita oficial ao Vaticano.",
+      "category": "Política"
+    },
+    {
+      "title": "Seguro felicita eleição de juíza Maria José Costeira",
+      "url": "https://observador.pt/2026/09/24/presidente-da-republica-felicita-juiza-portuguesa-eleita-vice-presidente-do-tribunal-geral-da-ue/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T09:43:39+00:00",
+      "summary": "A juíza Maria José Costeira foi eleita para este cargo, pelos seus pares, na quarta-feira, para um mandato a exercer entre setembro deste ano e agosto de 2028.",
+      "category": "Política"
+    },
+    {
+      "title": "Pai que viajou 800 km para entregar carta a Leonardo diz que filha o desafiou para tentar realizar sonho: ‘Bora fazer uma loucura?’",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/09/24/pai-que-viajou-800-km-para-entregar-carta-a-leonardo-diz-que-filha-o-desafiou-para-tentar-realizar-sonho-bora-fazer-uma-loucura.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:42:02+00:00",
+      "summary": "Pai viaja cerca de 400 km para deixar carta na fazenda de Leonardo e tentar realizar o son O comerciante Wemerson Caitano de Souza, de 43 anos, que viajou 800 quilômetros até a Fazenda Talismã, do cantor Leonardo, para entregar uma carta escrita pela filha, Emilly Vitória Souza da Cruz, de 13 anos, ao sertanejo, disse ",
+      "category": "Cultura"
+    },
+    {
+      "title": "Polícia prende suspeitos de crimes em Maceió, Arapiraca, Rio Largo e Delmiro Gouveia",
+      "url": "https://g1.globo.com/al/alagoas/noticia/2026/09/24/policia-prende-suspeitos-de-crimes-em-maceio-arapiraca-rio-largo-e-delmiro-gouveia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:40:22+00:00",
+      "summary": "Polícia Civil cumpre 20 mandados judiciais em Alagoas durante oitava fase da Operação Cerco Fechado Reprodução/TV Asa Branca Alagoas A Polícia Civil cumpre, nesta quinta-feira (24), 19 mandados de prisão e um de busca e apreensão em Maceió e no interior de Alagoas, contra suspeitos de envolvimento em diversos crimes. 📱",
+      "category": "Mundo"
+    },
+    {
+      "title": "Antes de reunião entre Trump e Xi, China pede 'cautela extrema' aos EUA sobre Taiwan",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/24/china-pede-cautela-extrema-taiwan-antes-de-reuniao-trump-xi.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:38:51+00:00",
+      "summary": "Presidente chinês é recebido por Trump nos EUA antes de reunião oficial nesta quinta A China pediu nesta quinta-feira (24) que os Estados Unidos tenham \"cautela extrema\" sobre a questão de Taiwan e qualquer venda de armas à ilha asiática horas antes de uma cúpula entre os presidentes Donald Trump e Xi Jinping em Washin",
+      "category": "Política"
+    },
+    {
+      "title": "Rússia deseja um acordo de paz com a Ucrânia, não um cessar-fogo temporário, diz Kremlin",
+      "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/09/24/russia-deseja-um-acordo-de-paz-com-a-ucrania-nao-um-cessar-fogo-temporario-diz-kremlin.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:34:53+00:00",
+      "summary": "Zelensky diz que Ucrânia não escolheu entrar em guerra com a Rússia A \"Rússia deseja um acordo de paz com a Ucrânia, não um cessar-fogo temporário\", afirmou o governo russo nesta quinta-feira (24). A declaração foi dada pelo porta-voz do Kremlin, Dmitry Peskov, após jornalistas o questionarem sobre o convite feito pelo",
+      "category": "Política"
+    },
+    {
+      "title": "Imagineland 2026: confira programação por dia e horários",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/24/imagineland-2026-confira-programacao-por-dia-e-horarios.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:34:31+00:00",
+      "summary": "Imagineland 2026: confira programação por dia e horários Foto: Montagem/g1 O Imagineland On The Road 2026 acontece de sexta-feira (25) a domingo (27), no Centro de Convenções de Campina Grande, Agreste da Paraíba. O evento terá mais de 160 horas de programação, distribuídas em diferentes espaços, com atrações nacionais",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "“Falta de professores é um problema grave no país\"",
+      "url": "https://observador.pt/programas/comissao-de-inquerito/isabel-alcada-falta-de-professores-e-um-problema-grave-no-pais/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T09:33:56+00:00",
+      "summary": "Isabel Alçada afirma que no início do ano letivo é preciso estar atento à gestão do sistema. Analisa ainda a quebra nos resultados dos alunos portugueses nos testes PISA.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sustentabilidade da NEYA Hotels reconhecida pela B Corp",
+      "url": "https://observador.pt/2026/09/24/sustentabilidade-da-neya-hotels-reconhecida-pela-b-corp/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T09:27:14+00:00",
+      "summary": "A certificação B Corp, atribuída à NEYA, reconhece o percurso sustentável da marca, reforçando uma visão de hotelaria em que o impacto social e ambiental faz parte da forma de pensar o negócio.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Análise: Trump recebe Xi com pompa, mas acordo histórico parece distante",
+      "url": "https://www.cnnbrasil.com.br/internacional/analise-trump-recebe-xi-com-pompa-mas-acordo-historico-parece-distante/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:25:08+00:00",
+      "summary": "Visita de Estado do líder chinês aos EUA tem grande aparato, mas perspectivas de acordos concretos são modestas; cada lado quer evitar explosões, mas carece de poder de barganha para forçar concessões",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEO: Trump faz 'careta' com voo de avião militar durante recepção a Xi Jinping; presidente chinês não esboça reação",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/24/video-trump-faz-careta-com-voo-de-aviao-militar-durante-recepcao-a-xi-presidente-chines-nao-esboca-reacao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:20:38+00:00",
+      "summary": "Presidente dos Estados Unidos, Donald Trump, faz 'careta' com passagem de avião militar durante recepção ao presidente da China, Xi Jinping, em 23 de setembro de 2026. Divulgação/Casa Branca O presidente dos Estados Unidos, Donald Trump, fez uma careta quando um avião militar sobrevoou ele e o presidente da China, Xi J",
+      "category": "Política"
+    },
+    {
+      "title": "Diretor do Banco Genial e executivo ligado ao Master são alvos de 3ª fase da Operação Carbono Oculto",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/24/diretor-do-banco-genial-e-executivo-ligado-ao-master-sao-alvos-de-3a-fase-da-operacao-carbono-oculto.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:20:18+00:00",
+      "summary": "Diretor do Banco Genial e executivo ligado ao Master são alvos de 3ª fase da Operação Carbono Oculto O Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) do Ministério Público de São Paulo, em parceria com a Receita Federal, deflagraram na manhã desta quinta-feira (24) a terceira fase da Operação Carbono ",
+      "category": "Esportes"
+    },
+    {
+      "title": "VÍDEO: meteoro 'bola de fogo' cruza o céu do RS em alta velocidade na madrugada",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/24/meteoro-bola-de-fogo-cruza-ceu-rio-grande-do-sul.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:17:14+00:00",
+      "summary": "Meteoro 'bola de fogo' cruza o céu do RS em alta velocidade na madrugada Um meteoro de grande brilho, classificado como fireball (bola de fogo), cruzou o céu do Rio Grande do Sul na madrugada desta quinta-feira, (24). O fenômeno foi registrado à 0h08 em Santa Maria, na Região Central, e em Santo Ângelo, no Noroeste do ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Em cerimônia fechada, corpo do cantor Rick será velado e sepultado nesta quinta-feira em Sorocaba, SP",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/em-cerimonia-fechada-corpo-do-cantor-rick-sera-velado-e-sepultado-nesta-quinta-feira-em-sorocaba-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:16:52+00:00",
+      "summary": "Velórios de Rick e Bruno Avelar acontecem hoje em cidades diferentes O corpo do cantor Rick Sollo será velado e sepultado nesta quinta-feira (24), a partir das 8h, em cerimônia fechada a familiares e amigos no Jardim Cemitério Pax, em Sorocaba (SP). O corpo do artista chegou ao interior de SP na noite de quarta-feira (",
+      "category": "Cultura"
+    },
+    {
+      "title": "Operação mira grupo que vendia drogas para clientes de alto poder aquisitivo na Bahia e movimentou R$ 9,6 milhões",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/24/operacao-mira-grupo-que-vendia-drogas-para-clientes-de-alto-poder-aquisitivo-na-bahia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:15:40+00:00",
+      "summary": "Operação mira grupo que vendia drogas para clientes de alto poder aquisitivo na Bahia Polícia Civil Um grupo suspeito de vender drogas para consumidores de alto poder aquisitivo movimentou mais de R$ 9,6 milhões em operações bancárias, segundo a Polícia Civil. A estrutura é alvo da Operação Iceberg, realizada nesta qui",
+      "category": "Mundo"
+    },
+    {
+      "title": "Relatório revela impactos na saúde mental da tripulação do Abraham Lincoln",
+      "url": "https://www.cnnbrasil.com.br/internacional/uss-abraham-lincoln-saude-mental/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:13:32+00:00",
+      "summary": "Carta do secretário interino da Marinha dos EUA revela número inédito durante período de operações de porta-aviões no combate contra o Irã",
+      "category": "Saúde"
+    },
+    {
+      "title": "10h. Seguro recebido pelo Papa Leão XIV",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2476/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T09:11:46+00:00",
+      "summary": "O encontro aconteceu esta manhã e durou 40 minutos. Ainda neste jornal, a análise às buscas na Polícia Judiciária e a possível escala da invasão russa.",
+      "category": "Mundo"
+    },
+    {
+      "title": "TRE-PB oferece Serviço de Atendimento ao Eleitor a partir desta quinta-feira (24)",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/24/tre-pb-oferece-servico-de-atendimento-ao-eleitor-a-partir-desta-quinta-feira-24.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:11:04+00:00",
+      "summary": "Eleitora em local de votação. TRE-RR. A Justiça Eleitoral da Paraíba disponibiliza, a partir desta quinta-feira (24), um canal direto para que eleitores tirem dúvidas sobre o processo de votação. O Serviço de Atendimento ao Eleitor (SAE) funciona das 8h às 19h em dias úteis. ✅ Clique aqui para seguir o canal do g1 PB n",
+      "category": "Mundo"
+    },
+    {
+      "title": "Assista ao Bom Dia ES",
+      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:09:32+00:00",
+      "summary": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Buscas na PJ. O que está em causa?",
+      "url": "https://observador.pt/programas/explicador/buscas-na-pj-o-que-esta-em-causa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T09:05:42+00:00",
+      "summary": "Rogério Alves, advogado, pede celeridade nas conclusões do Ministério Público. Paulo Lona, do sindicato dos Magistrados do MP, afasta suspeitas sobre o timing. Luís Rosa explica contradições.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sismo de magnitude 5,4 sentido no sudeste da Turquia",
+      "url": "https://observador.pt/2026/09/24/sismo-de-magnitude-54-sentido-no-sudeste-da-turquia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T09:03:32+00:00",
+      "summary": "O sismo atingiu a magnitude 5,4 na escala de Richter",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pais não veem palmada como violência, aponta estudo do Unicef",
+      "url": "https://www.cnnbrasil.com.br/comportamento/pais-nao-veem-palmada-como-violencia-aponta-estudo-do-unicef/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:01:42+00:00",
+      "summary": "Pesquisa revela como crenças sobre disciplina e dificuldades no cuidado ajudam a explicar por que o castigo corporal persiste no Brasil",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Troca de treinadores movimenta seleções em novo ciclo; confira as mudanças",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/troca-de-treinadores-movimenta-selecoes-em-novo-ciclo-confira-as-mudancas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:00:47+00:00",
+      "summary": "Na primeira Data Fifa após o encerramento da Copa do Mundo de 2026, grandes seleções anunciaram novos comandantes para o novo ciclo mirando o próximo Mundial em 2030",
+      "category": "Mundo"
+    },
+    {
+      "title": "AVC: o grupo que é \"segunda família\" em Abrantes",
+      "url": "https://observador.pt/2026/09/24/sobreviventes-de-avc-encontram-segunda-familia-em-grupo-de-ajuda-mutua/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T09:00:46+00:00",
+      "summary": "\"Se estamos cá para contar a história, já é uma vitória\", afirmou Anabela Santos fundadora e coordenadora do GAM de Abrantes",
+      "category": "Mundo"
+    },
+    {
+      "title": "Valor de Marca: CNN Money reúne CMOs em novo programa",
+      "url": "https://www.cnnbrasil.com.br/economia/money/valor-de-marca-cnn-money-reune-cmos-em-novo-programa/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:00:33+00:00",
+      "summary": "Apresentado por Muriel Porfiro, programa entrevista líderes de marketing sobre decisões e estratégias por trás da construção de grandes marcas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Áustria x Israel: horário e onde assistir ao jogo da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/austria-x-israel-horario-e-onde-assistir-ao-jogo-da-nations-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T09:00:14+00:00",
+      "summary": "Seleções vão a campo nesta quinta-feira (24), às 15h45, pela 1° rodada da competição",
+      "category": "Esportes"
+    },
+    {
+      "title": "Cinco detidos por roubos em Lisboa, Leiria, Beja e Santarém",
+      "url": "https://observador.pt/2026/09/24/gnr-deteve-cinco-pessoas-por-roubos-a-habitacoes-em-lisboa-leiria-beja-e-santarem/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T08:58:31+00:00",
+      "summary": "No âmbito da investigação, foram realizadas 16 buscas, seis domiciliárias e 10 em veículos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal AVC alerta para falhas na reabilitação",
+      "url": "https://observador.pt/2026/09/24/portugal-avc-alerta-para-falhas-na-reabilitacao-10-anos-apos-criacao-da-associacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T08:57:25+00:00",
+      "summary": "Entre 2017 e 2023, mais de 80% dos 198.927 internamentos por doenças cerebrovasculares corresponderam a AVC agudo.",
+      "category": "Saúde"
+    },
+    {
+      "title": "Ancelotti confirma Matheuzinho e Vitor Reis como titulares contra Austrália",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-confirma-matheuzinho-e-vitor-reis-como-titulares-contra-australia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T08:56:28+00:00",
+      "summary": "Vini Jr., Endrick, Estêvão e Raphinha formam quarteto no ataque no amistoso de sexta-feira (25)",
+      "category": "Cultura"
+    },
+    {
+      "title": "Agente da OpenAI invade banco de dados de saúde do governo da Austrália",
+      "url": "https://www.cnnbrasil.com.br/internacional/agente-da-openai-invade-banco-de-dados-de-saude-do-governo-da-australia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T08:55:35+00:00",
+      "summary": "Primeiro caso conhecido de IA hackeando uma rede governamental foi revelado pelo primeiro-ministro Anthony Albanese na Assembleia Geral da ONU",
+      "category": "Política"
+    },
+    {
+      "title": "Por que jovens estão sendo resgatados em montanhas com mais frequência? Entenda o que pode justificar aumento de casos",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-jovens-estao-sendo-resgatados-em-montanhas-com-mais-frequencia-entenda-o-que-pode-justificar-aumento-de-casos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T08:55:31+00:00",
+      "summary": "Jovens de 18 a 24 anos respondem por 18% dos resgates em montanhas. Descubra por que aplicativos de navegação sozinhos são insuficientes e como se preparar com segurança para trilhas",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Presidente da Venezuela promete eleições no \"momento certo\"",
+      "url": "https://observador.pt/2026/09/24/presidente-da-venezuela-promete-eleicoes-no-momento-certo-na-estreia-na-onu/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T08:45:28+00:00",
+      "summary": "\"Uma eleição deve ser uma solução e não um gerador de conflitos inconciliáveis\", argumentou a líder interina",
+      "category": "Política"
+    },
+    {
+      "title": "Changan CS55 supera 3 mil pedidos em três dias e CAOA fatura R$ 500 mi",
+      "url": "https://www.cnnbrasil.com.br/auto/changan-cs55-supera-3-mil-pedidos-em-tres-dias-e-caoa-fatura-r-500-mi/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T08:30:52+00:00",
+      "summary": "Novo SUV alcança mais de 3.000 pedidos durante evento de lançamento e movimenta mais de R$ 500 milhões; marca estende condições comerciais até 30 de setembro",
+      "category": "Mundo"
+    },
+    {
+      "title": "Primeiro-ministro discursa na Assembleia Geral da ONU",
+      "url": "https://observador.pt/2026/09/24/primeiro-ministro-discursa-perante-assembleia-geral-das-nacoes-unidas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T08:30:47+00:00",
+      "summary": "Luís Montenegro cumpre em Nova Iorque o terceiro e último dia de uma visita oficial aos Estados Unidos da América",
+      "category": "Política"
+    },
+    {
+      "title": "Paquistão diz ter atingido 10 locais no Afeganistão",
+      "url": "https://observador.pt/2026/09/24/paquistao-diz-ter-atingido-10-locais-no-afeganistao-usados-em-ataques-com-drones/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-24T08:25:11+00:00",
+      "summary": "Os ataques foram deliberados, precisos, calibrados e proporcionais, limitando-se estritamente a alvos militares identificados",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mega-Sena: quanto rendem R$ 38 milhões na poupança, Tesouro Direto ou CDB",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-38-milhoes-na-poupanca-tesouro-direto-ou-cdb-5/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T08:05:45+00:00",
+      "summary": "Sorteio desta quinta-feira (24) será realizado às 21h; apostas podem ser feitas até 20h",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mega-Sena 3062: sorteio desta quinta (24) pode pagar R$ 38 milhões",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3062/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-24T08:00:44+00:00",
+      "summary": "Para concorrer, apostadores devem registrar seus jogos até às 20h",
+      "category": "Esportes"
     },
     {
       "title": "Cenipa recupera caixa-preta de helicóptero que levava cantor Rick",
@@ -362,24 +452,6 @@
       "category": "Política"
     },
     {
-      "title": "1h. EUA e China prolongam tréguas comerciais",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2393/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T00:15:20+00:00",
-      "summary": "Anúncio do secretário do Tesouro norte-americano em entrevista à Fox News, pouco depois da chegada de Xi Jinping a território norte-americano. Ainda nesta edição, o último adeus a Jorge Palma.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fabian Figueiredo na Grande Entrevista com a experiência pessoal da violência na família",
-      "url": "https://www.rtp.pt/noticias/pais/fabian-figueiredo-na-grande-entrevista-com-a-experiencia-pessoal-da-violencia-na-familia_n1767360",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T00:03:33+00:00",
-      "summary": "O deputado do Bloco de Esquerda Fabian Figueiredo esteve esta quarta-feira na Grande Entrevista da RTP com o tema da conversa centrado na sua experiência de violência familiar experimentada com os irmãos e a mãe. A entrevista desta noite retoma um artigo escrito há poucas semanas por Fabian Figueiredo - \"A violência da",
-      "category": "Mundo"
-    },
-    {
       "title": "Entidades denunciam agressões às mulheres que disputam cargos",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/entidades-denunciam-agressoes-mulheres-que-disputam-cargos",
       "source": "Agência Brasil",
@@ -389,24 +461,6 @@
       "category": "Política"
     },
     {
-      "title": "PS quer ir \"além do PIB\" para medir progresso",
-      "url": "https://observador.pt/2026/09/24/ha-vida-para-alem-do-pib-ps-rejeita-crescimento-como-indicador-unico-na-preparacao-do-programa-politico/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T23:42:44+00:00",
-      "summary": "A pouco mais de um mês dos Estados Gerais, Carneiro voltou a reunir Conselho Estratégico, desta vez para debater alternativas ao indicador mais batido para medir a prosperidade.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Portugal assina memorando com países do Golfo",
-      "url": "https://observador.pt/2026/09/24/portugal-assina-memorando-de-entendimento-para-reforcar-parceria-com-paises-do-golfo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T23:35:47+00:00",
-      "summary": "Paulo Rangel se reuniu à margem da Assembleia Geral da ONU",
-      "category": "Esportes"
-    },
-    {
       "title": "BC amplia controle sobre criptomoedas e mira carteiras próprias",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-amplia-controle-sobre-criptomoedas-e-mira-carteiras-proprias",
       "source": "Agência Brasil",
@@ -414,60 +468,6 @@
       "publishedAt": "2026-09-23T23:35:00+00:00",
       "summary": "O Banco Central (BC) ampliou as regras de controle sobre operações com ativos virtuais. O órgão determinou que transferências de criptomoedas de valor igual ou superior a US$ 10 mil, feitas de ou para carteiras autocustodiadas, sejam comunicadas ao Conselho de Controle de Atividades Financeiras (Coaf). As novas regras ",
       "category": "Cultura"
-    },
-    {
-      "title": "Palmas para Jorge no adeus ao mestre da Terra dos Sonhos",
-      "url": "https://observador.pt/programas/reportagem-observador/palmas-para-jorge-no-adeus-ao-mestre-da-terra-dos-sonhos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T23:27:23+00:00",
-      "summary": "À boleia do \"fim do verão\", Jorge Palma deixa um legado de música, luta e poesia. A despedida fez-se com família, amigos, fãs e nomes da política que não deixam esquecer a importância do artista.",
-      "category": "Cultura"
-    },
-    {
-      "title": "O mefistófeles tropical",
-      "url": "https://observador.pt/opiniao/o-mefistofeles-tropical/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T23:25:42+00:00",
-      "summary": "O que se passa no Brasil excede qualquer comparação. Pela escala e pela exibição de decadência do Supremo Tribunal Federal, o terceiro poder, que devia ser o garante e o árbitro dos outros dois.",
-      "category": "Política"
-    },
-    {
-      "title": "A matança dos inocentes",
-      "url": "https://observador.pt/opiniao/a-matanca-dos-inocentes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T23:24:21+00:00",
-      "summary": "Era uma vez uma pílula vermelha, uma pílula azul e um arco-íris monocromático",
-      "category": "Mundo"
-    },
-    {
-      "title": "90 casas para 90 lugares",
-      "url": "https://observador.pt/opiniao/90-casas-para-90-lugares/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T23:21:59+00:00",
-      "summary": "Não é assistência social nem é sequer um prémio: é parte do preço que a cidade paga para conseguir contratar quem precisa.",
-      "category": "Economia"
-    },
-    {
-      "title": "Da oscilação do preço do extremista",
-      "url": "https://observador.pt/opiniao/da-oscilacao-do-preco-do-extremista/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T23:20:57+00:00",
-      "summary": "Em 2026, a “ideologia” é uma patranha. Os supostos extremos não estão preocupados com ideologias, não têm visões de mundo nem modelos de sociedade diferentes para opor.",
-      "category": "Economia"
-    },
-    {
-      "title": "00h. Trump recebe Xi Jinping nos Estados Unidos",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2428/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-23T23:19:50+00:00",
-      "summary": "O Presidente chinês não vai participar na Assembleia geral das Nações Unidas, em Nova Iorque. Ainda, esta quinta-feira, António José Seguro vai ser recebido pelo Papa no Vaticano.",
-      "category": "Política"
     },
     {
       "title": "Lei institui atendimento a vítimas de violência física e sexual",
