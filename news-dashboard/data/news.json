@@ -1,284 +1,455 @@
 {
-  "updatedAt": "2026-09-25T01:27:45.934951+00:00",
+  "updatedAt": "2026-09-25T07:44:18.389825+00:00",
   "items": [
     {
-      "title": "2h Cerca de 450 bombeiros combatem Incêndio de Odemira e Silves",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-cerca-de-450-bombeiros-combatem-incendio-de-odemira-e-silves_a1_1767594",
+      "title": "Marcha lenta de camiões contra o preço dos combustíveis",
+      "url": "https://www.rtp.pt/noticias/economia/marcha-lenta-de-camioes-contra-o-preco-dos-combustiveis_e1767607",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-25T02:24:02+00:00",
-      "summary": "",
-      "category": "Clima"
-    },
-    {
-      "title": "1h O incêndio de Odemira já chegou a São Marcos da Serra, no Algarve",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-o-incendio-de-odemira-ja-chegou-a-sao-marcos-da-serra-no-algarve_a1_1767592",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-25T01:44:02+00:00",
-      "summary": "",
-      "category": "Clima"
-    },
-    {
-      "title": "Justiça de SP condena Pablo Marçal a pagar R$ 10 mil por vídeo de 2024 em que soprou farinha no rosto de candidato",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/24/justica-de-sp-condena-pablo-marcal-a-pagar-r-10-mil-por-video-em-que-soprou-farinha-no-rosto-de-candidato.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T01:12:04+00:00",
-      "summary": "Pablo Marçal (PRTB) durante o debate para prefeito de São Paulo, em agosto de 2024. Daniel Teixeira/Estadão Conteúdo A Justiça de São Paulo condenou, em primeira instância, o empresário e influenciador Pablo Marçal (PRTB) a pagar R$ 10 mil de indenização por danos morais a Marco Antonio Mills Martins, candidato a deput",
-      "category": "Política"
-    },
-    {
-      "title": "MNE apela a homólogo do Irão para evitar \"escalada de tensão\"",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/mne-apela-a-homologo-do-irao-para-evitar-escalada-de-tensao_n1767588",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-25T01:08:37+00:00",
-      "summary": "O ministro dos Negócios Estrangeiros, Paulo Rangel, reuniu-se nas Nações Unidas com o homólogo do Irão, apelando a que seja evitada uma «escalada de tensão» no conflito com os Estados Unidos, privilegiando o diálogo.",
-      "category": "Política"
-    },
-    {
-      "title": "Xi avisa Trump para manter \"postura correta contra independência de Taiwan\"",
-      "url": "https://www.rtp.pt/noticias/mundo/xi-avisa-trump-para-manter-postura-correta-contra-independencia-de-taiwan_n1767586",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-25T01:07:59+00:00",
-      "summary": "O Presidente da China, Xi Jinping, avisou esta noite na Casa Branca o homólogo norte-americano, Donald Trump, que espera que Washington \"mantenha a sua postura correta contra a `independência de Taiwan`\", segundo a imprensa oficial de Pequim.",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quinta-feira (24)",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quinta-feira-24.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T01:07:26+00:00",
-      "summary": "Veja como foi a agenda dos candidatos ao governo do Tocantins nesta quinta-feira (24) O candidato ao governo do Tocantins pelo PSD, Laurez Moreira, cumpriu agenda de campanha nesta quinta-feira (24) em Xambioá e em Colinas do Tocantins, na região norte do estado. Já o candidato Siqueira Campos Júnior (Democrata) não te",
-      "category": "Política"
-    },
-    {
-      "title": "Austrália investiga invasão do sistema de saúde pela IA",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/24/australia-investiga-invasao-do-sistema-de-saude-pela-ia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T01:06:36+00:00",
-      "summary": "Inteligência Artificial invade sistema do governo da Austrália A Austrália abriu uma investigação depois que um agente de inteligência artificial - um robô - invadiu um site do governo e teve acesso a informações restritas. A invasão foi em junho de 2026, mas só agora veio a público. O sistema de inteligência artificia",
-      "category": "Política"
-    },
-    {
-      "title": "Homem suspeito de matar pai a facadas retorna para prisão após Justiça aceitar denúncia do MP-BA",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/24/homem-volta-a-ser-preso-na-bahia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T01:02:52+00:00",
-      "summary": "Homem acusado de matar o próprio pai em ilhéus voltou a ser preso O homem suspeito de matar o próprio pai a facadas na cidade de Ilhéus, no sul da Bahia, voltou a ser preso pelo crime, na quarta-feira (23). Conforme apurou a TV Santa Cruz, afiliada da Rede Bahia na região, a medida foi tomada após a Justiça aceitar a d",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lula deve anunciar o fim das bets nesta sexta-feira (25) em SP",
-      "url": "https://www.cnnbrasil.com.br/politica/lula-deve-anunciar-o-fim-das-bets-nesta-sexta-feira-25-em-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T01:00:25+00:00",
-      "summary": "Medida Provisória deve ser assinada na Avenida Paulista e proibirá apostas esportivas e cassinos online no Brasil; apuração é de Jussara Soares",
-      "category": "Mundo"
-    },
-    {
-      "title": "Atrizes vencedoras de Oscar e Emmy são detidas em protesto contra Netanyahu",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/atrizes-vencedoras-de-oscar-e-emmy-sao-detidas-em-protesto-contra-netanyahu/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T01:00:00+00:00",
-      "summary": "Hannah Einbinder e Susan Sarandon foram presas em Nova York nesta quinta-feira (24)",
-      "category": "Mundo"
-    },
-    {
-      "title": "PF apreende R$ 1 milhão e prende homem em flagrante em operação contra crimes eleitorais no Amazonas",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/pf-apreende-r-1-milhao-e-prende-homem-em-flagrante-em-operacao-contra-crimes-eleitorais-no-amazonas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:58:36+00:00",
-      "summary": "Dinheiro apreendido pela Polícia Federal em Manaus Divulgação/PF A Polícia Federal (PF) apreendeu aproximadamente R$ 1 milhão em espécie, nesta quinta-feira (24), durante ação de combate a crimes eleitorais em Manaus. Segundo a corporação, um homem foi preso em flagrante por porte irregular de arma de fogo de uso restr",
-      "category": "Mundo"
-    },
-    {
-      "title": "0h Há mais de mil operacionais no terreno, a combater incêndios em Portugal",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-ha-mais-de-mil-operacionais-no-terreno-a-combater-incendios-em-portugal_a1_1767589",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-25T00:58:01+00:00",
-      "summary": "",
-      "category": "Clima"
-    },
-    {
-      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quinta-feira, 24 de setembro de 2026",
-      "url": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quinta-feira-24-de-setembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:57:45+00:00",
-      "summary": "Confira os destaques desta edição.",
-      "category": "Mundo"
-    },
-    {
-      "title": "CNJ e PF fazem operação contra o desembargador Newton Ramos, citado no Caso Master",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/24/cnj-e-pf-fazem-operacao-contra-o-desembargador-newton-ramos-citado-no-caso-master.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:57:22+00:00",
-      "summary": "CNJ e PF fazem operação contra o desembargador Newton Ramos, citado no Caso Master O CNJ - Conselho Nacional de Justiça e a Polícia Federal fizeram nesta quinta-feira (24) uma operação contra o desembargador Newton Ramos, do Tribunal Regional Federal da 1ª Região. A PF afirma que o escritório de advocacia da mulher do ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ciro Nogueira passa a ser pressionado por apoio a Flávio no 2º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/ciro-nogueira-passa-a-ser-pressionado-por-apoio-a-flavio-no-2o-turno/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:55:48+00:00",
-      "summary": "Diretório de SP lidera movimento para que PP apoie senador; decisão será discutida em 6 de outubro",
-      "category": "Política"
-    },
-    {
-      "title": "Diretor celebra jogo da NFL no Maracanã: “Nos apresentar a novos públicos”",
-      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/diretor-celebra-jogo-da-nfl-no-maracana-nos-apresentar-a-novos-publicos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:55:27+00:00",
-      "summary": "Partida entre Dallas Cowboys e Baltimore Ravens acontecerá no próximo domingo (27), no Rio de Janeiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Itália e Ucrânia avançam para as semifinais da Billie Jean King Cup",
-      "url": "https://www.cnnbrasil.com.br/esportes/tenis/italia-e-ucrania-avancam-para-as-semifinais-da-billie-jean-king-cup/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:53:42+00:00",
-      "summary": "Duelo acontecerá no sábado (26); do outro lado da chave, Espanha e Tchéquia se enfrentam nesta sexta-feira (25); torneio é disputado na China",
-      "category": "Mundo"
-    },
-    {
-      "title": "Não jogue fora meias velhas: saiba como elas podem facilitar 5 tarefas de limpeza",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/nao-jogue-fora-meias-velhas-saiba-como-elas-podem-facilitar-5-tarefas-de-limpeza/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:52:33+00:00",
-      "summary": "Meias que perderam o par ou já não servem para vestir podem ganhar uma nova função dentro de casa; saiba como dar uma segunda vida à peça",
-      "category": "Mundo"
-    },
-    {
-      "title": "Polícia Federal faz averiguação no Parque São Jorge, sede do Corinthians",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/policia-federal-faz-averiguacao-no-parque-sao-jorge-sede-do-corinthians/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:52:26+00:00",
-      "summary": "Agentes estiveram no local nesta quinta-feira (24) com o objetivo de realizarem uma fiscalização no clube",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026 no RS: Cesar Pontes defende revisão do pacto federativo",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-no-rs-cesar-pontes-defende-revisao-do-pacto-federativo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:52:13+00:00",
-      "summary": "Eleições 2026 no RS: Cesar Pontes defende revisão do pacto federativo Candidato ao governo do Rio Grande do Sul pelo PCO, Cesar Pontes cumpriu compromissos de campanha nesta quinta-feira (24). Ele cumpriu agenda em Porto Alegre. O historiador distribuiu materiais de campanha e o jornal editado pelo partido na Esquina D",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: veja como foi o dia dos candidatos ao governo do RS nesta quinta-feira, 24",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-rs-nesta-quinta-feira-24.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:51:58+00:00",
-      "summary": "Os candidatos ao governo do Rio Grande do Sul cumpriram compromissos de campanha nesta quinta-feira (24). Entre as atividades do dia, estiveram panfletagens, caminhadas e um debate de emissora de televisão de Porto Alegre. 📲 Acesse o canal do g1 RS no WhatsApp Até o dia 2 de outubro, os candidatos ao governo do Rio Gra",
-      "category": "Política"
-    },
-    {
-      "title": "Projeto da UFMT para combater tuberculose é premiado e deve ser ampliado para todo o Brasil",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/24/projeto-da-ufmt-para-combater-tuberculose-e-premiado-e-deve-ser-ampliado-para-todo-o-brasil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:51:40+00:00",
-      "summary": "Projeto SMART-TB Mobile recebeu prêmio nacional de excelência científica em tuberculose. Reprodução Um projeto desenvolvido pelo Laboratório de Pesquisa em Epidemiologia e Geoprocessamento do Araguaia, da Universidade Federal de Mato Grosso (UFMT), em Barra do Garças, a 512 km de Cuiabá, para ajudar no combate à tuberc",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta quinta-feira (24)",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/24/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quinta-feira-24.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:48:13+00:00",
-      "summary": "Candidatos ao governo do Acre nas eleições de 2026 Reprodução O g1 informa todos os dias as atividades de campanha dos candidatos ao governo do Acre nas eleições deste ano. Confira abaixo como foi nesta quinta-feira (24). Thor Dantas (PSB) e Eudo Raffael (PCB) não divulgaram as agendas. ✅ Participe do canal do g1 AC no",
-      "category": "Política"
-    },
-    {
-      "title": "Defesa de Flávio diz que PT quer “escolher” relator de investigações",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/defesa-de-flavio-diz-que-pt-quer-escolher-relator-de-investigacoes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:46:29+00:00",
-      "summary": "Segundo equipe do candidato do PL à Presidência, PT e aliados miram deixar assuntos com Flávio Dino no Supremo; campanha de Flávio Bolsonaro quer suspensão de apurações sobre financiamento de filme Dark Horse e possível tentativa de intervenção estrangeira",
-      "category": "Política"
-    },
-    {
-      "title": "Chuva de granizo e vento causam estragos em escola e interrompem aulas no TO; VÍDEO",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/24/chuva-de-granizo-e-vento-causam-estragos-em-escola-e-interrompem-aulas-no-to-video.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:45:05+00:00",
-      "summary": "Temporal com granizo causa estragos em escola no interior do TO ( Uma chuva de granizo foi registrada na tarde desta quinta-feira (24), em Wanderlândia, na região norte do estado. Em imagens às quais o g1 teve acesso, é possível ver granizo espalhado pelas ruas do município. A intensidade da chuva derrubou parte do tet",
-      "category": "Cultura"
-    },
-    {
-      "title": "Quem é o novo camisa 10 da Seleção Brasileira? Confira a numeração completa",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/quem-e-o-novo-camisa-10-da-selecao-brasileira-confira-a-numeracao-completa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:44:35+00:00",
-      "summary": "Com ausência de Neymar, número icônico na equipe brasileira tem novo dono para início de novo ciclo nos amistosos da Super Data Fifa",
-      "category": "Esportes"
-    },
-    {
-      "title": "Quaest: Zucco e Juliana empatam no 1º e 2º turnos ao governo do RS",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-zucco-e-juliana-empatam-no-1o-e-2o-turnos-ao-governo-do-rs/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:43:09+00:00",
-      "summary": "Instituto ouviu 900 eleitores no Rio Grande do Sul entre os dias 20 e 23 de setembro; margem de erro é de 3 pontos percentuais, para mais ou para menos",
-      "category": "Política"
-    },
-    {
-      "title": "CNN Talks Energia: Veja fotos do evento",
-      "url": "https://www.cnnbrasil.com.br/valor-de-marca/cnn-talks-energia-veja-fotos-do-evento/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-25T00:33:45+00:00",
-      "summary": "CNN Talks Energia: O Brasil diante de um novo mercado reúne especialistas e lideranças do setor para discutir as transformações do mercado de energia",
+      "publishedAt": "2026-09-25T08:36:00+00:00",
+      "summary": "Uma marcha lenta organizada por empresários de terraplanagens pode juntar mais de 400 camiões a partir das 07h30, num percurso entre Paredes e Coimbra através da A42, A41 e A1, para exigir \"respostas concretas\" face ao aumento dos combustíveis. Acompanhamos aqui o protesto.",
       "category": "Economia"
     },
     {
-      "title": "O Sol tinha energia suficiente para gerar uma superexplosão em direção à Terra em 1947. Cientistas agora tentam entender porque isso não ocorreu",
-      "url": "https://www.cnnbrasil.com.br/ciencia/o-sol-tinha-energia-suficiente-para-gerar-uma-superexplosao-em-direcao-a-terra-em-1947-cientistas-agora-tentam-entender-porque-isso-nao-ocorreu/",
+      "title": "Empate técnico entre Lula e Bolsonaro a uma semana das eleições presidenciais no Brasil",
+      "url": "https://www.rtp.pt/noticias/mundo/empate-tecnico-entre-lula-e-bolsonaro-a-uma-semana-das-eleicoes-presidenciais-no-brasil_n1767633",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T08:32:22+00:00",
+      "summary": "A pouco mais de uma semana da primeira volta das eleições presidenciais no Brasil, a corrida ao Palácio do Planalto está num empate técnico. Os mais recentes barómetros mostram uma distância milimétrica entre Lula da Silva e Flávio Bolsonaro.",
+      "category": "Política"
+    },
+    {
+      "title": "Utentes fazem buzinão na Ponte 25 de Abril contra preços dos combustíveis",
+      "url": "https://www.rtp.pt/noticias/economia/utentes-fazem-buzinao-na-ponte-25-de-abril-contra-precos-dos-combustiveis_n1767630",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T08:27:47+00:00",
+      "summary": "Utentes da Ponte 25 de Abril estão hoje a realizar um buzinão contra o preço dos combustíveis e exigir a demissão da ministra do Ambiente e o regresso do teletrabalho, disse Aristides Teixeira, da associação que convocou o protesto.",
+      "category": "Economia"
+    },
+    {
+      "title": "8h Incêndio de Silves dominado",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/8h-incendio-de-silves-dominado_a1_1767631",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T08:25:02+00:00",
+      "summary": "",
+      "category": "Clima"
+    },
+    {
+      "title": "Empresários do setor das terraplanagens recebidos pelo Governo na segunda-feira",
+      "url": "https://www.rtp.pt/noticias/economia/empresarios-do-setor-das-terraplanagens-recebidos-pelo-governo-na-segunda-feira_n1767625",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T08:24:25+00:00",
+      "summary": "Os empresários do setor das terraplanagens que hoje iniciaram uma marcha lenta de protesto contra o preço dos combustíveis a partir de Paredes, distrito do Porto, vão reunir-se na segunda-feira com o Governo, anunciou o representante dos manifestantes.",
+      "category": "Política"
+    },
+    {
+      "title": "Operações de combate favoráveis no fogo de Odemira e dado como dominado",
+      "url": "https://www.rtp.pt/noticias/pais/operacoes-de-combate-favoraveis-no-fogo-de-odemira-e-dado-como-dominado_n1767622",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T08:01:20+00:00",
+      "summary": "O incêndio que começou ontem em Odemira, em Saboia, encaminhou-se durante a noite para Silves, Algarve e chegou à localidade de São Marcos da Serra. Esta manhã o fogo continua a apresentar duas frentes ativas, mas os bombeiros falam em condições favoráveis e foi já dado como dominado.",
+      "category": "Clima"
+    },
+    {
+      "title": "Na hora da verdade, Chega e PS acobardam-se. E ainda bem",
+      "url": "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/na-hora-da-verdade-chega-e-ps-acobardam-se-e-ainda-bem/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:36:37+00:00",
+      "summary": "O governo (que está preocupado com o combustível), o Presidente da República (que elogiou Guterres) e o Chega e o PS (que se anularam um ao outro) são o Bom, o Mau e o Vilão.",
+      "category": "Política"
+    },
+    {
+      "title": "Portugal, o tráfico de escravo e os pedidos de indemnizações",
+      "url": "https://observador.pt/programas/contra-corrente/portugal-o-trafico-de-escravo-e-os-pedidos-de-indemnizacoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:29:32+00:00",
+      "summary": "As Nações Unidas abriram a porta com uma resolução aprovada em Março, o Gana lidera o movimento que pede reparações e parece que Portugal até quer dar apoio. A sério? Onde é que isso já se discutiu?",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ronaldo é imortal ou apenas mais rápido que as balas?",
+      "url": "https://observador.pt/programas/momentos-de-glria/ronaldo-e-imortal-ou-apenas-mais-rapido-que-as-balas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:28:04+00:00",
+      "summary": "O capitão diz que tentam \"matá-lo\" há 23 anos, mas é perda de tempo e ainda promete avisar o mundo quando terminar a carreira. E Jorge Jesus motiva a seleção ao dividir os jogadores por estatuto.",
+      "category": "Esportes"
+    },
+    {
+      "title": "7h Incêndio de Odemira já abrange Silves",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/7h-incendio-de-odemira-ja-abrange-silves_a1_1767613",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:23:02+00:00",
+      "summary": "",
+      "category": "Clima"
+    },
+    {
+      "title": "Penálti bizarro na Bolívia pára o jogo: futebol ou novela?",
+      "url": "https://observador.pt/programas/tres-toques/penalti-bizarro-na-bolivia-para-o-jogo-futebol-ou-novela/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:20:31+00:00",
+      "summary": "O guarda redes não gostou da decisão do árbitro e encostou-se ao poste em protesto. E Vasco Vilaça só precisa de um 5.º lugar para ser campeão mundial de triatlo. O título já cá canta, ou não?",
+      "category": "Esportes"
+    },
+    {
+      "title": "Mais de 70 concelhos em perigo máximo de incêndio no Norte, Centro e Algarve",
+      "url": "https://www.rtp.pt/noticias/pais/mais-de-70-concelhos-em-perigo-maximo-de-incendio-no-norte-centro-e-algarve_n1767610",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:17:07+00:00",
+      "summary": "Mais de 70 concelhos do interior das regiões Norte e Centro e do Algarve continuam hoje em perigo máximo de incêndio rural, segundo o Instituto Português do Mar e da Atmosfera (IPMA)",
+      "category": "Clima"
+    },
+    {
+      "title": "Brasil é um dos principais mercados para o Citi no mundo, diz CEO à CNN",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/brasil-e-um-dos-principais-mercados-para-o-citi-no-mundo-diz-ceo-a-cnn/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-25T00:32:56+00:00",
-      "summary": "Pesquisas anteriores apontam que megaerupções em estrelas semelhantes ao Sol podem acontecer, aproximadamente, uma vez por século",
+      "publishedAt": "2026-09-25T07:15:49+00:00",
+      "summary": "Banco transaciona US$ 6 trilhões globalmente, e tem o país como \"um dos principais mercados\" nesse quesito, relatou André Cury",
+      "category": "Economia"
+    },
+    {
+      "title": "8h. Incêndios em Odemira e Resende dominados",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2529/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:12:28+00:00",
+      "summary": "Estão ainda, no entanto, mais de 600 operacionais empenhados no combate às chamas. Ainda, a reportagem em direto a partir da marcha lenta de camiões.",
+      "category": "Clima"
+    },
+    {
+      "title": "Citi vê “muitas oportunidades” e aponta interesse de estrangeiros no Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/citi-ve-muitas-oportunidades-e-aponta-interesse-de-estrangeiros-no-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:10:27+00:00",
+      "summary": "Executivo destacou fatores que passam desde queda de juros até potencial em suprir demanda global por segurança alimentar, matriz energética e insumos para IA",
+      "category": "Economia"
+    },
+    {
+      "title": "Óculos espiões e livros por IA: o fim da privacidade?",
+      "url": "https://observador.pt/programas/no-se-fala-de-outra-coisa/oculos-espioes-e-livros-por-ia-o-fim-da-privacidade/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:10:27+00:00",
+      "summary": "Em França, há quem use os novos óculos inteligentes com câmaras para filmar mulheres na rua. Há também um professor que publicou 200 estudos com IA e acusa os colegas de inveja.",
+      "category": "Política"
+    },
+    {
+      "title": "6h Mais de 400 camiões preparam-se para marcha lenta até Coimbra",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-mais-de-400-camioes-preparam-se-para-marcha-lenta-ate-coimbra_a1_1767612",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:07:01+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "5h Cerca de 650 bombeiros combatem fogos de Odemira e Resende",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-cerca-de-650-bombeiros-combatem-fogos-de-odemira-e-resende_a1_1767611",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:06:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Casa Branca barra emissoras CNN e MS NOW à chegada de Xi para jantar com Trump",
+      "url": "https://www.rtp.pt/noticias/mundo/casa-branca-barra-emissoras-cnn-e-ms-now-a-chegada-de-xi-para-jantar-com-trump_n1767609",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:05:07+00:00",
+      "summary": "A CNN e a MS NOW acusaram a Casa Branca de negar acesso de jornalistas das emissoras norte-americanas à chegada do chefe de Estado chinês, Xi Jinping, para um jantar com o Presidente Donald Trump.",
+      "category": "Política"
+    },
+    {
+      "title": "Eleições não impactam decisões das empresas, diz CEO do Citi no Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/eleicoes-nao-impactam-decisoes-das-empresas-diz-ceo-do-citi-no-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:05:01+00:00",
+      "summary": "André Cury relatou que está cotidianemente em contato com estrangeiros interessados em investir ou iniciar novas operações no Brasil",
+      "category": "Política"
+    },
+    {
+      "title": "Portugal na rota dos drones russos?",
+      "url": "https://observador.pt/newsletters/360/portugal-na-rota-dos-drones-russos-catogra-diz-que-montenegro-nao-e-cavaco-e-o-verao-de-quatro-meses/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T07:03:34+00:00",
+      "summary": "Estará Portugal ameaçado por possíveis lançamentos de drones russos? Especialistas consideram o cenário como plausível. Eduardo Catroga analisa a atuação do primeiro-ministro e deixa avisos.",
+      "category": "Política"
+    },
+    {
+      "title": "‘Até chorei de emoção’: jovem que nasceu sem os braços conquista CNH após aprender a dirigir com os pés em MG",
+      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/25/ate-chorei-de-emocao-jovem-que-nasceu-sem-os-bracos-conquista-cnh-apos-aprender-a-dirigir-com-os-pes-em-mg.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:01:00+00:00",
+      "summary": "Jovem que nasceu sem os braços conquista CNH após aprender a dirigir com os pés em MG Reiner Jesus Martins, de 20 anos, conquistou há pouco mais de um mês a carteira de habilitação depois de encontrar em Pará de Minas (MG) um carro adaptado às necessidades dele. Morador de Lavras (MG), onde cursa agronomia, o jovem nas",
+      "category": "Cultura"
+    },
+    {
+      "title": "Itália x Bélgica: horário e onde assistir ao jogo da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/italia-x-belgica-horario-e-onde-assistir-ao-jogo-da-nations-league-2/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:48+00:00",
+      "summary": "Equipes vão a campo nesta sexta-feira (25), às 15h45, pela primeira rodada da competição",
+      "category": "Esportes"
+    },
+    {
+      "title": "U2 completa 50 anos: entenda a história por trás do nome da banda",
+      "url": "https://www.cnnbrasil.com.br/pop/musica/u2-completa-50-anos-entenda-a-historia-por-tras-do-nome-da-banda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:06+00:00",
+      "summary": "Integrantes, que seguem juntos desde o primeiro dia, serão nomeados como as Personalidades do Ano em 2027",
+      "category": "Mundo"
+    },
+    {
+      "title": "Os carros elétricos mais vendidos no mês de agosto; veja ranking",
+      "url": "https://www.cnnbrasil.com.br/auto/os-carros-eletricos-mais-vendidos-no-mes-de-agosto-veja-ranking/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:06+00:00",
+      "summary": "Na primeira posição, o BYD Dolphin Mini aparece com 8.299 unidades registradas, com um market share de 30% no mês de agosto",
+      "category": "Mundo"
+    },
+    {
+      "title": "O que existe a quase 6 mil metros de profundidade? Fantástico acompanha expedição no mar profundo do Atlântico Sul; VÍDEO",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/09/25/o-que-existe-a-quase-6-mil-metros-de-profundidade-fantastico-acompanha-expedicao-no-mar-profundo-do-atlantico-sul-video.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:01+00:00",
+      "summary": "Fantástico entra no navio que vai acessar região remota do mar profundo do Atlântico Sul O Fantástico embarcou no navio Falcon, que se prepara para acessar pela primeira vez uma região remota do mar profundo no Atlântico Sul. A missão científica reunirá 25 pesquisadores de cinco países em uma expedição de um mês e meio",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Bombeira ferida com gravidade no combate a fogo em Resende",
-      "url": "https://www.rtp.pt/noticias/pais/bombeira-ferida-com-gravidade-no-combate-a-fogo-em-resende_n1767587",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-25T00:18:33+00:00",
-      "summary": "Uma bombeira ficou ferida com gravidade durante o combate a um incêndio que deflagrou esta noite no concelho de Resende, distrito de Viseu, adiantou à Lusa fonte da Proteção Civil.",
+      "title": "Emprego: confira as vagas disponíveis em Petrolina",
+      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/25/emprego-confira-as-vagas-disponiveis-em-petrolina.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:01+00:00",
+      "summary": "Consultora de gente e gestão fala sobre como lidar com erros no mercado de trabalho A Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para o município de Petrolina nesta sexta-feira (25). As oportunidades são atualizadas diariamente pelo g1 Petrolina. Os interessados nas oportunidades po",
+      "category": "Economia"
+    },
+    {
+      "title": "Onda de calor faz 12 cidades do Triângulo registrarem temperaturas acima dos 37 °C",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/25/onda-de-calor-faz-12-cidades-do-triangulo-registrarem-temperaturas-acima-dos-37-c.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:01+00:00",
+      "summary": "Alerta de calor é válido entre sábado (26) e quarta-feira (30). Guilherme Gonçalves/g1 Doze cidades do Triângulo Mineiro estão sob alerta vermelho de grande perigo para uma onda de calor que começa no sábado (26), segundo o Instituto Nacional de Meteorologia (Inmet). Nas áreas atingidas, a temperatura máxima pode ficar",
       "category": "Clima"
     },
     {
-      "title": "1h. Dominado incêndio em Ourique. Fogo em Odemira preocupa",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2394/",
+      "title": "ANTES e DEPOIS: veja as fotos originais e as imagens geradas por IA de apreensões divulgadas com erros pela polícia do ES",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/25/antes-e-depois-veja-as-fotos-originais-e-as-imagens-geradas-por-ia-de-apreensoes-divulgadas-com-erros-pela-policia-do-es.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "summary": "À esquerda, a imagem original disponibilizada pela Sesp. À direita, a imagem modificada por IA e divulgada pelas corporações aos veículos de imprensa. Arte/g1 Imagens de apreensões geradas por ferramentas de inteligência artificial (IA) e divulgadas pelas polícias Civil e Militar do Espírito Santo apresentam diferenças",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "O dramático despejo da idosa de 87 anos que expõe a gravidade da crise de moradia na Espanha",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/25/o-dramatico-despejo-da-idosa-de-87-anos-que-expoe-a-gravidade-da-crise-de-moradia-na-espanha.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "summary": "Maricarmen precisou abandonar o apartamento onde viveu por 70 anos Getty Images via BBC O despejo de uma mulher de 87 anos do apartamento onde ela morava, alugado há sete décadas, demonstrou ao público a gravidade da crise de moradia na Espanha. Maricarmen morava em um apartamento de 92 m² no abastado bairro do Retiro,",
+      "category": "Mundo"
+    },
+    {
+      "title": "Datafolha em MG: 64% estão totalmente decididos sobre voto para governador; 36% ainda podem mudar",
+      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/25/datafolha-em-mg-64percent-estao-totalmente-decididos-sobre-voto-para-governador-36percent-ainda-podem-mudar.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "summary": "Urna eletrônica para votação nas eleições brasileiras Marcelo Camargo/Agência Brasil Pesquisa Datafolha divulgada nesta quinta-feira (24) mostrou que 64% dos eleitores de Minas Gerais estão totalmente decididos em relação ao voto para governador. Outros 36% disseram que o voto ainda pode mudar. A pesquisa também mostro",
+      "category": "Política"
+    },
+    {
+      "title": "O paralelo entre cérebro x smartphone: estudo aponta que órgão é formado por 'peças' de diferentes origens",
+      "url": "https://g1.globo.com/saude/noticia/2026/09/25/cerebro-estudo-aponta-que-orgao-e-formado-por-diferentes-origens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "summary": "Fotografia mostra um embrião de camundongo com 9,5 dias de idade e representa as duas origens distintas do cérebro durante o desenvolvimento. Stanford Medicine Diferentemente do que a ciência acreditou durante séculos, o cérebro humano pode não ter uma única origem durante o seu desenvolvimento. Isso é o que aponta uma",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Luan Santana, Alok e Simone Mendes são atrações no Vale neste fim de semana; veja agenda cultural",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/agenda-cultural/noticia/2026/09/25/luan-santana-alok-e-simone-mendes-sao-atracoes-no-vale-neste-fim-de-semana-veja-agenda-cultural.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "summary": "As cidades do Vale do Paraíba e região recebem diversos eventos entre sexta-feira (25) e domingo (27). Entre os destaques estão os shows de Luan Santana, Alok, Simone Mendes e Maneva, em São José dos Campos, além do stand-up de Thiago Ventura, também em São José dos Campos, do Festival de Literatura Infantil, em Montei",
+      "category": "Cultura"
+    },
+    {
+      "title": "Teatro Vila Velha é reinaugurado com maior acessibilidade após reforma",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/25/teatro-vila-velha-e-reinaugurado-com-maior-acessibilidade-apos-reforma.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "summary": "Teatro Vila Velha, em Salvador Jefferson Peixoto / Secom PMS O Teatro Vila Velha abre suas portas após ampla requalificação nesta sexta-feira (25), em Salvador. O espaço, inaugurado em 1964, volta com programação cultural com mudanças estruturais, mas preservando o conceito da arquitetura original de uma obra em progre",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Datafolha em MG: 70% dos eleitores não sabem o número correto do candidato em que pretendem votar para governador",
+      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/25/datafolha-em-mg-conhecimento-numero-candidato.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "summary": "Patrus Ananias (PT), Cleitinho Azevedo (Republicanos) e Alexandre Kalil (PDT) Douglas Magno/TV Globo Pesquisa Datafolha divulgada nesta quinta-feira (24) mostra que 70% dos eleitores não sabem o número correto do candidato em que pretendem votar para governador de Minas Gerais. O levantamento foi contratado pela Globo ",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Quando é a Black Friday em 2026? Veja data e dicas para não cair em ciladas",
+      "url": "https://g1.globo.com/guia/guia-de-compras/presentes/quando-e-a-black-friday-em-2026-veja-data-e-dicas-para-nao-cair-em-ciladas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "summary": "Black Friday: o que fazer para não cair em falsas promoções A Black Friday 2026 vai acontecer na semana do dia 27 de novembro. Mas todo mundo já sabe que nem todo desconto é real, o que já levou o período a ser apelidado até de \"Black Fraude\". Para não cair em ciladas, a primeira dica é começar a acompanhar o preço dos",
+      "category": "Economia"
+    },
+    {
+      "title": "A solução para a crise afinal está na consciência do país?",
+      "url": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/a-solucao-para-a-crise-afinal-esta-na-consciencia-do-pais/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-25T00:18:09+00:00",
-      "summary": "Chamas obrigaram ao corte de algumas linhas ferroviárias. Proteção Civil dá conta de dificuldades dos meios em chegar ao teatro de operações. Ainda, Portugal vence País de Gales por 1-0.",
+      "publishedAt": "2026-09-25T06:58:23+00:00",
+      "summary": "O Governo pede aos portugueses que consumam menos para baixar os preços dos combustíveis. E ainda, a queixa da Fenprof na Provedora de Justiça pelas promessas não pagas nos exames.",
+      "category": "Política"
+    },
+    {
+      "title": "Novo balanço da passagem do tufão Dujuan pelo Japão aponta para 12 mortos",
+      "url": "https://www.rtp.pt/noticias/mundo/novo-balanco-da-passagem-do-tufao-dujuan-pelo-japao-aponta-para-12-mortos_n1767603",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T06:58:21+00:00",
+      "summary": "As autoridades do Japão anunciaram hoje que o número de vítimas mortais da passagem do tufão Dujuan pelo arquipélago subiu para 12, enquanto prosseguem os trabalhos de busca e resgate de desaparecidos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Segunda Turma começa a analisar hoje envio de caso de usinas ao plenário",
+      "url": "https://www.cnnbrasil.com.br/politica/segunda-turma-comeca-a-analisar-hoje-envio-de-caso-de-usinas-ao-plenario/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T06:50:28+00:00",
+      "summary": "Colegiado decidirá se confirma decisão de Gilmar Mendes; discussão ganhou destaque após mensagens de Vorcaro sobre voto de Kassio Nunes Marques",
+      "category": "Mundo"
+    },
+    {
+      "title": "Papa Leão viaja à França com desculpas por abusos do clero e IA na agenda",
+      "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-viaja-a-franca-com-desculpas-por-abusos-do-clero-e-ia-na-agenda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T06:49:55+00:00",
+      "summary": "Pontífice se reunirá com vítimas e líderes políticos e defenderá regras globais para a inteligência artificial",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Saiba quem é quem no Conselho Superior do MPF que analisa caso sobre Gonet",
+      "url": "https://www.cnnbrasil.com.br/politica/saiba-quem-e-quem-no-conselho-superior-do-mpf-que-analisa-caso-sobre-gonet/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T06:45:03+00:00",
+      "summary": "Além de Gonet, nove integrantes compõem o Conselho; procedimento em análise foi aberto após divulgação de mensagens extraídas pela Polícia Federal do celular de Daniel Vorcaro nas quais o nome do atual PGR aparece em diferentes contextos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Macron nega alerta da CIA para possível ataque russo",
+      "url": "https://observador.pt/2026/09/25/macron-nega-que-cia-tenha-alertado-para-possivel-ataque-russo-com-drones-na-europa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T06:39:25+00:00",
+      "summary": "O jornal espanhol El Mundo noticiou na quinta-feira que os Estados Unidos terão partilhado informações com vários governos europeus sobre eventuais ataques com drones que a Rússia estaria a preparar",
+      "category": "Política"
+    },
+    {
+      "title": "Madeira sob aviso laranja para tempo quente",
+      "url": "https://observador.pt/2026/09/25/madeira-sob-aviso-laranja-para-tempo-quente/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T06:39:09+00:00",
+      "summary": "As temperaturas vão variar entre os 24 e os 30 graus Celsius no Funchal e os 22 e os 28 graus no Porto Santo",
       "category": "Clima"
+    },
+    {
+      "title": "Explosão provoca desabamento parcial de prédio no centro de Atenas",
+      "url": "https://www.cnnbrasil.com.br/internacional/explosao-provoca-desabamento-parcial-de-predio-no-centro-de-atenas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T06:38:23+00:00",
+      "summary": "Vazamento de gás é apontado como possível causa; pedestre sofreu ferimentos leves e duas mulheres foram resgatadas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Saiba como fotografar a Lua cheia usando o celular; fenômeno acontece neste sábado (26)",
+      "url": "https://www.cnnbrasil.com.br/ciencia/saiba-como-o-celular-para-tirar-fotos-melhores-da-lua-cheia-neste-sabado-26/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T06:37:46+00:00",
+      "summary": "Ajustes de exposição e uso de zoom óptico ajudam a garantir imagens de qualidade do satélite natural, mesmo sem o equipamento adequado ou câmeras profissionais",
+      "category": "Mundo"
+    },
+    {
+      "title": "Fogos. Mais de 70 concelhos em perigo máximo",
+      "url": "https://observador.pt/2026/09/25/incendios-mais-de-70-concelhos-em-perigo-maximo-no-norte-centro-e-algarve/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T06:37:15+00:00",
+      "summary": "O IPMA colocou também mais de 90 concelhos em perigo muito elevado de incêndio.",
+      "category": "Clima"
+    },
+    {
+      "title": "O que se sabe sobre a relação entre Paulo Gonet e Daniel Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-relacao-entre-paulo-gonet-e-daniel-vorcaro/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T06:35:06+00:00",
+      "summary": "Mensagens extraídas do celular do ex-banqueiro mostram conversas intermediadas por advogado e encontro em Londres; PGR nega relação de amizade",
+      "category": "Mundo"
+    },
+    {
+      "title": "“The Debut”: o salto de afirmação de Jesse Eisenberg",
+      "url": "https://observador.pt/2026/09/25/the-debut-o-salto-de-afirmacao-de-jesse-eisenberg/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-25T06:27:14+00:00",
+      "summary": "Julianne Moore em “The Debut”, de Jesse Eisenberg: tornou-se a favorita à Concha de Prata de Melhor Interpretação Principal",
+      "category": "Mundo"
+    },
+    {
+      "title": "STF veta revogação unilateral de ICMS aprovado pelo Confaz",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-veta-revogacao-unilateral-de-icms-aprovado-pelo-confaz",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T00:35:00+00:00",
+      "summary": "O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (24) que os estados não podem revogar unilateralmente benefícios fiscais do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) que foram aprovados em convênios do Conselho Nacional de Política Fazendária (Confaz). Pela decisão da Corte, as deliberações ",
+      "category": "Política"
+    },
+    {
+      "title": "Mega-Sena acumula para R$ 45 milhões; confira os números sorteados",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-45-milhoes-confira-os-numeros-sorteados",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-25T00:33:00+00:00",
+      "summary": "Nenhum apostador acertou as seis dezenas do Concurso 3.062 da Mega-Sena, realizado nesta quinta-feira (24). O prêmio acumulou e está estimado em R$ 45 milhões para o próximo sorteio. Os números sorteados são: 05 - 09 - 11- 17 - 18 - 38 86 apostas acertaram cinco dezenas e irão receber R$ 19.736,75 cada 5.065 apostas ac",
+      "category": "Mundo"
     },
     {
       "title": "Veja como foi a quinta-feira (24) dos presidenciáveis",
@@ -290,15 +461,6 @@
       "category": "Ciência & Tech"
     },
     {
-      "title": "Incêndio de Odemira tem duas frentes ativas",
-      "url": "https://www.rtp.pt/noticias/pais/incendio-de-odemira-tem-duas-frentes-ativas_v1767584",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:58:47+00:00",
-      "summary": "Mantém-se ativo, com duas frentes, o incêndio que deflagrou esta tarde em Odemira, no Alentejo. As chamas avançaram, entretanto, para Silves, no Algarve, e já houve pessoas retiradas de casa por prevenção.",
-      "category": "Clima"
-    },
-    {
       "title": "Parlamentares dos EUA criticam ações de Trump nas eleições do Brasil",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/parlamentares-dos-eua-criticam-acoes-de-trump-nas-eleicoes-do-brasil",
       "source": "Agência Brasil",
@@ -306,15 +468,6 @@
       "publishedAt": "2026-09-24T23:56:00+00:00",
       "summary": "Parlamentares dos Estados Unidos enviaram uma carta ao secretário de Estado do país, Marco Rubio, afirmando que o governo de Donald Trump não pode interferir nas eleições do Brasil. A carta foi assinada por 31 parlamentares do partido democrata, de oposição a Trump, e encaminhada a Rubio nesta quinta-feira (24). Os dem",
       "category": "Política"
-    },
-    {
-      "title": "23h Portugal ganhou ao País de Gales por 1-0, na estreia de Jorge Jesus à frente da seleção",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-portugal-ganhou-ao-pais-de-gales-por-1-0-na-estreia-de-jorge-jesus-a-frente-da-selecao_a1_1767583",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:40:02+00:00",
-      "summary": "",
-      "category": "Esportes"
     },
     {
       "title": "Economistas lançam iniciativa por economia focada na vida real",
@@ -326,60 +479,6 @@
       "category": "Economia"
     },
     {
-      "title": "ONU. Susan Sarandon detida em protesto contra Netanyahu",
-      "url": "https://observador.pt/2026/09/25/mais-de-100-detidos-em-protestos-contra-netanyahu-na-onu-incluindo-as-atrizes-susan-sarandon-e-hannah-einbinder/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:31:23+00:00",
-      "summary": "Atriz Susan Sarandon foi detida no protesto",
-      "category": "Mundo"
-    },
-    {
-      "title": "50 propostas no Teatro de Vila Real até ao fim do ano",
-      "url": "https://observador.pt/2026/09/25/festival-douro-jazz-antonio-zambujo-e-a-peca-migrantes-no-teatro-de-vila-real/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:25:57+00:00",
-      "summary": "\"Começamos logo no dia 1 de outubro, Dia Mundial da Música, com um concerto para escolas\"",
-      "category": "Cultura"
-    },
-    {
-      "title": "00h. Mais de 500 bombeiros combatem incêndios em Beja",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2429/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:25:34+00:00",
-      "summary": "As chamas chegaram a obrigar ao corte de linhas de comboio, que já estão a ser reabertas. Ainda, na estreia de Jorge Jesus como selecionador nacional, Portugal venceu o Pais de Gales por 1-0.",
-      "category": "Clima"
-    },
-    {
-      "title": "O preço dos votos está a subir como o das casas?",
-      "url": "https://observador.pt/opiniao/o-preco-dos-votos-esta-a-subir-como-o-das-casas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:25:25+00:00",
-      "summary": "Nunca houve entusiasmo por António Costa, como agora não há por Luís Montenegro. Ilude-se quem pensa que os portugueses se deixaram iludir.",
-      "category": "Economia"
-    },
-    {
-      "title": "A cantiga é uma arma... contra os judeus",
-      "url": "https://observador.pt/opiniao/a-cantiga-e-uma-arma-contra-os-judeus/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:24:42+00:00",
-      "summary": "De resto, o Commedia a La Carte fica muito melhor com Seinfeld, Herman José, César Mourão, Vasco Palmeirim e outros, do que com a medíocre fauna de flotilheiros amigos do Hamas",
-      "category": "Cultura"
-    },
-    {
-      "title": "Os falhados somos nós",
-      "url": "https://observador.pt/opiniao/os-falhados-somos-nos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:22:22+00:00",
-      "summary": "A liberdade, desligada de qualquer ideia de bem, acaba por se tornar incapaz de nos orientar: multiplica caminhos, mas não nos diz quais merecem ser percorridos.",
-      "category": "Esportes"
-    },
-    {
       "title": "Zanin pede manifestação da Anatel sobre acesso à internet nas eleições",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-pede-manifestacao-da-anatel-sobre-acesso-internet-nas-eleicoes",
       "source": "Agência Brasil",
@@ -387,60 +486,6 @@
       "publishedAt": "2026-09-24T23:21:00+00:00",
       "summary": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), deu prazo de 48 horas para a Agência Nacional de Telecomunicações (Anatel) se manifestar sobre um pedido para garantir acesso de todos os brasileiros à internet móvel nas eleições. Pela decisão, a Advocacia-Geral da União (AGU) e a Procuradoria-Geral da Rep",
       "category": "Política"
-    },
-    {
-      "title": "O senhor Abdulai",
-      "url": "https://observador.pt/opiniao/o-senhor-abdulai/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:20:41+00:00",
-      "summary": "Guarda ainda em si o sentido da compaixão para com a família que dorme na praia. Sabe dizer em Português, grandes problemas — problemas maiores do que o seu.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Wall Street fecha sem ânimo com subida custo da dívida e incerteza geopolítica",
-      "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-sem-animo-com-subida-custo-da-divida-e-incerteza-geopolitica_n1767582",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:16:32+00:00",
-      "summary": "A bolsa nova-iorquina encerrou hoje sem ânimo, penalizada por nova subida dos rendimentos obrigacionistas, em contexto de incertezas geopolíticas persistentes no Médio Oriente.",
-      "category": "Economia"
-    },
-    {
-      "title": "As Nações Unidas desmascaradas",
-      "url": "https://observador.pt/opiniao/as-nacoes-unidas-desmascaradas-como-o-enviesamento-contra-israel-se-enraizou-no-sistema/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:15:32+00:00",
-      "summary": "Dentro da infraestrutura permanente da ONU que submete o único Estado judaico do mundo a padrões que não aplica a mais nenhum outro país.",
-      "category": "Mundo"
-    },
-    {
-      "title": "O Discurso",
-      "url": "https://observador.pt/opiniao/o-discurso-2/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:14:25+00:00",
-      "summary": "O discurso de von der Leyen é um prodígio de usurpação de poderes, dirigismo e centralismo acéfalos, dinamitação de legítimas autonomia e diferenças nacionais e, na sua tónica principal… socialista.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Porquê as Fragatas FREMM EVO",
-      "url": "https://observador.pt/opiniao/a-futura-capacidade-oceanica-de-portugal-porque-as-fragatas-fremm-evo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:11:33+00:00",
-      "summary": "Se a pergunta for “qual é o pacote de capacidade mais equilibrado, maduro e sustentável para Portugal?”, a FREMM EVO oferece argumentos muito fortes.",
-      "category": "Mundo"
-    },
-    {
-      "title": "A noite e o riso",
-      "url": "https://observador.pt/opiniao/a-noite-e-o-riso/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T23:08:47+00:00",
-      "summary": "Mamdani tentou, com toda a má-fé, que os festejos se virassem contra Nova Iorque, para anular em simultâneo a autoria dos atentados. Ocasio-Cortez riu-se.",
-      "category": "Mundo"
     },
     {
       "title": "Com pessimismo externo, dólar sobe 0,47% e aproxima-se de R$ 5,20",
@@ -477,51 +522,6 @@
       "publishedAt": "2026-09-24T22:20:00+00:00",
       "summary": "Os Fundos de Investimento em Direitos Creditórios (FIDCs) terão regras mais rígidas para investir em créditos de ações judiciais e de procedimentos arbitrais. O Conselho Monetário Nacional (CMN) alterou nesta quinta-feira (24) normas que estavam em vigor desde 2001. A principal mudança consiste na proibição de que os F",
       "category": "Mundo"
-    },
-    {
-      "title": "Nunes Marques diz que e-Título poderá ser baixado em dia de votação",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/nunes-marques-diz-que-e-titulo-podera-ser-baixado-em-dia-de-votacao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T22:17:00+00:00",
-      "summary": "O presidente do Tribunal Superior Eleitoral (TSE), Kássio Nunes Marques, informou nesta quinta-feira (24) que o aplicativo e-Título poderá ser baixado e ativado no dia da votação, tanto no 1º quanto no 2º turno. O tribunal disse que haverá concentração de esforços para garantir o funcionamento estável do aplicativo. Em",
-      "category": "Política"
-    },
-    {
-      "title": "João Cancelo: \"Temos muitas coisas a melhorar\"",
-      "url": "https://www.rtp.pt/noticias/desporto/joao-cancelo-temos-muitas-coisas-a-melhorar_v1767581",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T22:14:47+00:00",
-      "summary": "O jogador da seleção nacional considerou que esta vitória de Portugal frente ao País de Gales foi \"importantíssima\", mas reconhece que ainda há \"muita coisa a melhorar\".",
-      "category": "Esportes"
-    },
-    {
-      "title": "Jesus sublinha que \"a equipa defensivamente segurou a vitória\"",
-      "url": "https://www.rtp.pt/noticias/desporto/jesus-sublinha-que-a-equipa-defensivamente-segurou-a-vitoria_v1767580",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T22:10:49+00:00",
-      "summary": "O selecionador nacional sai da sua estreia à frente da equipa de Portugal com uma vitória por 1-0 contra a congénere de Gales: Cristiano Ronaldo saiu quando \"faltavam 25 minutos\" porque precisava de um jogador \"fresquinho para pressionar a saída de bola\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ministro da Presidência avisa que margem negocial é muito limitada e critica \"pessimistas alertantes\"",
-      "url": "https://www.rtp.pt/noticias/economia/ministro-da-presidencia-avisa-que-margem-negocial-e-muito-limitada-e-critica-pessimistas-alertantes_n1767540",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-24T22:09:25+00:00",
-      "summary": "O ministro da Presidência advertiu hoje que a margem negocial do Governo no Orçamento do Estado para 2027 é \"muito limitada\", mas também criticou os \"pessimistas alertantes\" negando que exista qualquer crescimento acelerado da despesa.",
-      "category": "Política"
-    },
-    {
-      "title": "MPSP recomenda intervenção na Feira do Brás por causa de dívida",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mpsp-recomenda-intervencao-na-feira-do-bras-por-causa-de-divida",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-24T22:06:00+00:00",
-      "summary": "O Ministério Público de São Paulo (MPSP) recomendou à prefeitura da capital paulista a intervenção na administração da Feira da Madrugada do Brás, concedida à empresa Circuito de Compras. A feira reúne milhares de pequenos comerciantes de produtos populares, roupas e eletrônicos e onde circulam cerca de 15 mil pessoas ",
-      "category": "Economia"
     }
   ],
   "sources": [
