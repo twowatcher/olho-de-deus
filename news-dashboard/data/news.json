@@ -1,392 +1,473 @@
 {
-  "updatedAt": "2026-09-27T18:20:40.565693+00:00",
+  "updatedAt": "2026-09-27T22:07:24.156162+00:00",
   "items": [
     {
-      "title": "19h Vasco Vilaça é campeão do mundo de triatlo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-vasco-vilaca-e-campeao-do-mundo-de-triatlo_a1_1768072",
+      "title": "Jorge Jesus \"satisfeito\" com o triunfo de Portugal",
+      "url": "https://www.rtp.pt/noticias/desporto/jorge-jesus-satisfeito-com-o-triunfo-de-portugal_v1768091",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-27T19:19:04+00:00",
-      "summary": "",
-      "category": "Mundo"
+      "publishedAt": "2026-09-27T22:28:47+00:00",
+      "summary": "O selecionador nacional mostrou-se \"satisfeito\" com a vitória de Portugal, por 2-1 em Oslo, contra uma equipa que, segundo Jorge Jesus \"está no top 5 da Europa\".",
+      "category": "Economia"
     },
     {
-      "title": "Avião regressa de emergência ao aeroporto Sá Carneiro no Porto",
-      "url": "https://www.rtp.pt/noticias/pais/aviao-regressa-de-emergencia-ao-aeroporto-sa-carneiro-no-porto_n1768071",
+      "title": "Gonçalo Ramos considerou \"muito importante\" a vitória de Portugal",
+      "url": "https://www.rtp.pt/noticias/desporto/goncalo-ramos-considerou-muito-importante-a-vitoria-de-portugal_v1768090",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-27T19:09:54+00:00",
-      "summary": "Um avião que seguia rumo a Boston fez uma aterragem de emergência no aeroporto do Porto esta tarde, após ter sido detetado fumo na cabine.",
-      "category": "Mundo"
+      "publishedAt": "2026-09-27T22:22:47+00:00",
+      "summary": "O avançado Gonçalo Ramos considerou \"muito importante contra uma grande seleção\" a vitória de Portugal, acrescentando que \"é sempre bom ganhar aqui\".",
+      "category": "Esportes"
     },
     {
-      "title": "São Tomé e Príncipe vai a eleições",
-      "url": "https://www.rtp.pt/noticias/mundo/sao-tome-e-principe-vai-a-eleicoes_v1768070",
+      "title": "Pedro Neto fala num grande resultado",
+      "url": "https://www.rtp.pt/noticias/desporto/pedro-neto-fala-num-grande-resultado_v1768089",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-27T19:04:47+00:00",
-      "summary": "A Missão de Observação Eleitoral da União Europeia apresentou um primeiro balanço positivo do processo eleitoral.",
-      "category": "Política"
+      "publishedAt": "2026-09-27T22:07:47+00:00",
+      "summary": "O extremo sublinha que foi necessário ajustar a equipa na segunda parte.",
+      "category": "Cultura"
     },
     {
-      "title": "Urnas encerram em São Tomé e Príncipe, CPLP destaca ambiente calmo",
-      "url": "https://www.rtp.pt/noticias/mundo/urnas-encerram-em-sao-tome-e-principe-cplp-destaca-ambiente-calmo_n1768066",
+      "title": "João Félix quer todos a puxar para o mesmo lado",
+      "url": "https://www.rtp.pt/noticias/desporto/joao-felix-quer-todos-a-puxar-para-o-mesmo-lado_v1768088",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-27T19:03:09+00:00",
-      "summary": "As assembleias de voto em São Tomé e Príncipe encerraram hoje pelas 17:00 (18:00 em Lisboa), com a missão de observação eleitoral da CPLP a destacar o ambiente calmo vivido nas eleições legislativas, locais e regional.",
-      "category": "Política"
+      "publishedAt": "2026-09-27T22:05:48+00:00",
+      "summary": "O autor do primeiro golo de Portugal contra a Noruega diz que é importante que todos queiram o mesmo e que assim \"estamos mais perto de ganhar\".",
+      "category": "Esportes"
     },
     {
-      "title": "Vários detidos em protesto pró-Palestina durante congresso trabalhista em Liverpool",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/varios-detidos-em-protesto-pro-palestina-durante-congresso-trabalhista-em-liverpool_n1768062",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T18:45:39+00:00",
-      "summary": "Muitos dos manifestantes empunhavam cartazes com as palavras \"Apoio à Palestine Action\", organização ilegalizada no Reino Unido.",
-      "category": "Política"
-    },
-    {
-      "title": "Triatlo. Vasco Vilaça sagra-se Campeão do Mundo, Ricardo Batista conquistou o bronze",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/triatlo-vasco-vilaca-sagra-se-campeao-do-mundo-ricardo-batista-conquistou-o-bronze_d1768067",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T18:40:38+00:00",
-      "summary": "Vasco Vilaça sagrou-se domingo Campeão do Mundo de triatlo de Elites, tornando-se o primeiro português a consegui-lo no setor masculino, ao terminar na segunda posição, a superfinal disputada em Pontevedra, Espanha.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jesus revela 11 para o encontro com a Noruega. Cristiano Ronaldo não joga de início",
-      "url": "https://www.rtp.pt/noticias/desporto/jesus-revela-11-para-o-encontro-com-a-noruega-cristiano-ronaldo-nao-joga-de-inicio_v1768064",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T18:26:47+00:00",
-      "summary": "Portugal vai defrontar a Noruega com o seguinte onze: Diogo Costa, João Cancelo, Rúben Dias, Renato Veiga, Nuno Mendes, Palhinha, João Neves, Francisco Conceição, Pedro Neto, João Félix e Gonçalo Ramos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "18h Medalhas para Portugal no Mundial de ginástica acrobática",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-medalhas-para-portugal-no-mundial-de-ginastica-acrobatica_a1_1768063",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T18:25:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "As notícias das 19h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2177/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T18:16:16+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Benfica vence GDESSA e conquista Supertaça feminina de basquetebol",
-      "url": "https://www.rtp.pt/noticias/basquetebol/benfica-vence-gdessa-e-conquista-supertaca-feminina-de-basquetebol_d1768061",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T18:13:26+00:00",
-      "summary": "O Benfica, campeão e detentor da Taça de Portugal, conquistou pela quarta vez a Supertaça feminina de basquetebol, ao vencer o GDESSA por 73-31, em Almada.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Incêndio atinge Hospital Mário Gatti, em Campinas, e interrompe atendimentos no PS; ninguém se feriu",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/27/fogo-mario-gatti.ghtml",
-      "source": "G1",
+      "title": "São Paulo instala sexta máquina gratuita de PrEP e PEP no Metrô",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-instala-sexta-maquina-gratuita-de-prep-e-pep-no-metro/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T18:10:38+00:00",
-      "summary": "Um incêndio atingiu parte do Hospital Municipal Dr. Mário Gatti, em Campinas (SP), neste domingo (27). Segundo o Corpo de Bombeiros, as chamas começaram após um curto-circuito em uma fiação ligada ao sistema de energia solar. O fogo atingiu a central do sistema e o material de isopor do telhado. Os bombeiros utilizaram",
+      "publishedAt": "2026-09-27T22:01:52+00:00",
+      "summary": "Equipamento na estação Brigadeiro reforça ações de prevenção ao vírus que reduziram novas infecções na capital",
       "category": "Saúde"
     },
     {
-      "title": "Mulher morta durante culto em Cambuci tinha medida protetiva contra ex-companheiro",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/27/mulher-morta-durante-culto-em-cambuci-tinha-medida-protetiva-contra-ex-companheiro.ghtml",
+      "title": "Câmeras com inteligência artificial vão fiscalizar uso de celular e cinto na Washington Luís em Rio Preto",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/27/cameras-com-inteligencia-artificial-vao-fiscalizar-uso-de-celular-e-cinto-na-washington-luis-em-rio-preto.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T18:10:05+00:00",
-      "summary": "Mulher é morta a tiros dentro de igreja durante culto em distrito de Cambuci Jocilerne Oliveira, de 49 anos, morta com um tiro na cabeça durante um culto em uma igreja de Cambuci, possuía medida protetiva contra o ex-companheiro, apontado pela polícia como autor do crime. O suspeito foi preso horas depois e o caso é in",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quem era o major Anderson Fernandes, morto durante confusão em bar no Amapá",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/27/quem-era-o-major-morto-durante-confusao-em-bar-no-amapa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T18:09:34+00:00",
-      "summary": "Major da PM é morto a tiros após confusão em bar no Amapá O major Anderson Leite Rodrigues Fernandes, de 38 anos, morreu neste domingo (27) após ser baleado durante uma confusão em frente a um bar na Zona Sul de Macapá. O policial estava de folga quando se envolveu no confronto que terminou em sua morte. Natural da cap",
-      "category": "Mundo"
-    },
-    {
-      "title": "Festival Olhar do Norte encerra edição com sessões gratuitas e premiação no Teatro Amazonas",
-      "url": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/09/27/festival-olhar-do-norte-encerra-edicao-com-sessoes-gratuitas-e-premiacao-no-teatro-amazonas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T18:05:27+00:00",
-      "summary": "Festival Olhar do Norte encerra edição com sessões gratuitas, às 18h, será exibida a produção amazonense 'Os Avós'. Foto: Divulgação 'Os Avós' O 8º Festival de Cinema da Amazônia – Olhar do Norte termina neste domingo (27), em Manaus, com duas sessões no Teatro Amazonas e a cerimônia de premiação. A entrada é gratuita.",
-      "category": "Cultura"
-    },
-    {
-      "title": "VÍDEO: homem morre a tiros durante perseguição policial por ruas de Vila Velha",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/27/video-homem-morre-durante-perseguicao-policial-por-ruas-de-vila-velha.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T18:05:20+00:00",
-      "summary": "Homem morre durante perseguição policial por ruas de Vila Velha Um homem de 33 anos, identificado como Caio Fernandes, morreu ao ser perseguido por dois policiais militares por ruas do bairro Ilha das Flores, em Vila Velha, na Grande Vitória, na manhã deste domingo (27). A perseguição foi registrada por uma câmera (ass",
-      "category": "Mundo"
-    },
-    {
-      "title": "O regresso à normalidade através das bolas paradas",
-      "url": "https://observador.pt/2026/09/27/o-regresso-a-normalidade-atraves-das-bolas-paradas-dinamarca-vence-na-rececao-ao-pais-de-gales-e-cola-se-a-noruega-e-portugal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T18:04:41+00:00",
-      "summary": "Os dinamarqueses venceram os últimos quatro jogos frente ao País de Gales",
-      "category": "Esportes"
-    },
-    {
-      "title": "Vasco Vilaça sagra-se campeão mundial de triatlo",
-      "url": "https://observador.pt/2026/09/27/vasco-vilaca-sagra-se-campeao-mundial-de-triatlo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T18:01:58+00:00",
-      "summary": "Vasco Vilaça a competir nos Jogos Olímpicos de Paris, em 2024",
-      "category": "Esportes"
-    },
-    {
-      "title": "Japonês caminha pela floresta e se depara com árvores danificadas por ursos; ele tem uma ideia criativa e transforma as cicatrizes em uma verdadeira mina de ouro",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/japones-caminha-pela-floresta-e-se-depara-com-arvores-danificadas-por-ursos-ele-tem-uma-ideia-criativa-e-transforma-as-cicatrizes-em-uma-verdadeira-mina-de-ouro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T18:00:03+00:00",
-      "summary": "Artista usa resina natural de seiva de árvores para realçar marcas deixadas pelos animais na madeira",
-      "category": "Mundo"
-    },
-    {
-      "title": "Motoboy morre em acidente com carro e motorista é preso, em João Pessoa",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/27/motoboy-morre-em-acidente-com-carro-e-motorista-e-preso-em-joao-pessoa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:59:22+00:00",
-      "summary": "Sirene Polícia Militar Reprodução Google Um motoboy, de 40 anos, morreu após a moto em que pilotava colidir com um carro no cruzamento entre as Avenidas Beira Rio e Clemente Rosas, no bairro da Torre, na madrugada deste domingo (27). O homem foi identificado como sendo Cleiton da Conceição e o motorista do carro foi pr",
-      "category": "Mundo"
-    },
-    {
-      "title": "Toffoli manda retirar Federação PSDB-Cidadania da coligação de Raquel Lyra",
-      "url": "https://www.cnnbrasil.com.br/politica/toffoli-manda-retirar-federacao-psdb-cidadania-da-coligacao-de-raquel-lyra/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:58:48+00:00",
-      "summary": "Decisão determina a readequação de propaganda eleitoral e impacta tempo da govenadora no rádio e na TV",
-      "category": "Esportes"
-    },
-    {
-      "title": "Jovem de MT que aprendeu a costurar com o pai ganha prata em mundial na China",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/27/jovem-de-mt-que-aprendeu-a-costurar-com-o-pai-ganha-prata-em-mundial-na-china.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:58:21+00:00",
-      "summary": "Jovem de MT que aprendeu a costurar com o pai ganha prata em mundial na China A mato-grossense Myllena Nogueira, de 21 anos, conquistou a medalha de prata em Tecnologia da Moda na WorldSkills Shanghai 2026, competição mundial de educação profissional realizada na China. O resultado foi anunciado neste domingo (27), apó",
+      "publishedAt": "2026-09-27T21:58:50+00:00",
+      "summary": "Trecho da rodovia Washington Luís (SP-310), em São José do Rio Preto (SP): via terá monitoramento com inteligência artificial para detectar infrações Ecovias Noroeste/Divulgação A Rodovia Washington Luís (SP-310) terá câmeras com inteligência artificial para identificar motoristas usando celular ao volante ou sem cinto",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Fim das bets não se converteu em apoio a Lula, diz AP Exata",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/fim-das-bets-nao-se-converteu-em-apoio-a-lula-diz-ap-exata/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:58:06+00:00",
-      "summary": "Empresa analisou 180 mil menções nas redes relacionadas à MP que proibiu apostas no Brasil",
-      "category": "Economia"
-    },
-    {
-      "title": "Casal é preso por furtar na Micareta de Serrinha após polícia achar 11 celulares escondidos em colchão e armário de pousada",
-      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/27/casal-e-preso-na-bahia.ghtml",
+      "title": "Vereador cassado Vini Oliveira aciona a PM após carro da equipe ser atingido por disparos em Campinas",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/27/vereador-cassado-vini-oliveira-aciona-a-pm-apos-carro-da-equipe-ser-atingido-por-disparos-em-campinas.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T17:57:37+00:00",
-      "summary": "Casal é preso por furtar na Micareta de Serrinha após polícia achar 11 celulares escondidos em colchão e armário de pousada Divulgação/SSP Um casal foi preso, neste domingo (27), suspeito de praticar furtos na Micareta de Serrinha, a 68 km de Feira de Santana, segunda maior cidade da Bahia. Segundo a Secretaria da Segu",
+      "publishedAt": "2026-09-27T21:58:05+00:00",
+      "summary": "Vini Oliveira aciona PM após carro da equipe ser atingido por disparos em Campinas Arquivo pessoal O vereador cassado Vini Oliveira (Cidadania) acionou a Polícia Militar (PM) após o carro da equipe dele ser atingido por disparos neste domingo (27). O veículo estava vazio e ninguém ficou ferido. Nenhum suspeito foi pres",
       "category": "Mundo"
     },
     {
-      "title": "Rússia ataca maior operadora de telefonia móvel da Ucrânia",
-      "url": "https://www.cnnbrasil.com.br/internacional/russia-ataca-maior-operadora-de-telefonia-movel-da-ucrania/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:57:24+00:00",
-      "summary": "Kyivstar confirmou à agência de notícias Interfax Ucrânia que a sede em Kiev foi atingida, mas não há relatos de vítimas",
-      "category": "Mundo"
+      "title": "Portugal x Noruega. \"Golo bem anulado a Portugal\"",
+      "url": "https://observador.pt/programas/sem-falta/portugal-x-noruega-golo-bem-anulado-a-portugal/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:57:15+00:00",
+      "summary": "Pedro Henriques acredita que a arbitragem teve um \"critério demasiado apertado\", mas dá nota 6 a François Letexier e destaca a boa intervenção do VAR no golo bem anulado a Portugal.",
+      "category": "Esportes"
     },
     {
-      "title": "Brasileiros vão ao desfile da Philipp Plein na Semana de Moda de Milão",
-      "url": "https://www.cnnbrasil.com.br/style/moda/brasileiros-vao-ao-desfile-da-philipp-plein-na-semana-de-moda-de-milao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:57:09+00:00",
-      "summary": "Beatriz Reis, Rayane Figliuzzi e Carlinhos Maias estão entre as celebridades presentes",
-      "category": "Cultura"
-    },
-    {
-      "title": "Toffoli determina retirada da federação PSDB/Cidadania da coligação de Raquel Lyra",
-      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/27/toffoli-determina-retirada-da-federacao-psdbcidadania-da-coligacao-de-raquel-lyra.ghtml",
+      "title": "Quatro pessoas seguem sob avaliação médica após micro-ônibus cair em ribanceira na BR-174",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/27/quatro-pessoas-seguem-sob-avaliacao-medica-apos-micro-onibus-cair-em-ribanceira-na-br-174.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T17:55:12+00:00",
-      "summary": "Dias Toffoli, ministro do Supremo Tribunal Federal (STF) Luiz Silveira/STF O ministro Dias Toffoli, do Supremo Tribunal Federal (STF), determinou a retirada da Federação PSDB/Cidadania da coligação Pernambuco de Coração, que apoia a candidatura à reeleição da governadora Raquel Lyra (PSD). Cabe recurso da decisão, que ",
+      "publishedAt": "2026-09-27T21:56:57+00:00",
+      "summary": "Micro-ônibus cai em ribanceira na BR-174 e deixa 17 pessoas feridas no AM - v2 Quatro pessoas seguem internadas após um um micro-ônibus cair em uma ribanceira na BR-174, em Presidente Figueiredo, interior do Amazonas. Uma delas deve passar por cirurgia. O veículo caiu em uma ribanceira de cerca de 15 metros na manhã de",
       "category": "Política"
     },
     {
-      "title": "Antigo ministro do Trabalho Eusébio Marques de Carvalho morre aos 91 anos",
-      "url": "https://www.rtp.pt/noticias/politica/antigo-ministro-do-trabalho-eusebio-marques-de-carvalho-morre-aos-91-anos_n1768060",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T17:53:36+00:00",
-      "summary": "O advogado e antigo ministro do Trabalho Eusébio Marques de Carvalho morreu na madrugada de sábado, aos 91 anos, disse hoje à Lusa fonte familiar.",
+      "title": "Homem fica ferido após carro capotar em rua do Centro de São José dos Campos",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/27/homem-fica-ferido-apos-carro-capotar-em-rua-do-centro-de-sao-jose-dos-campos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T21:54:03+00:00",
+      "summary": "Carro capotou em rua do Centro de São José dos Campos Igor Guedes Um homem se feriu após um capotamento no Centro de São José dos Campos, na tarde deste domingo (27). Segundo o Corpo de Bombeiros, o motorista era o único ocupante do carro e foi socorrido pelo Serviço de Atendimento Móvel de Urgência (Samu). O acidente ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Extrema direita ganha espaço no Senado da França com recorde de cadeiras da história de sigla de Le Pen e aliados",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/27/extrema-direita-ganha-espaco-no-senado-da-franca.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T21:51:19+00:00",
+      "summary": "Plenário do Senado da França, em Paris Bertrand Guay/AFP O partido de extrema direita francês Reunião Nacional (RN) e seus aliados conquistaram neste domingo (28) um recorde de 14 cadeiras no Senado, e multiplicaram por quatro seu número de representantes nessa câmara, antes das eleições presidenciais do ano que vem. ✅",
       "category": "Política"
     },
     {
-      "title": "SC entra na rota de temporais após fim de semana marcado por 'calorão' de até 33°C",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/sc-entra-na-rota-de-temporais-fim-de-semana-marcado-calorao.ghtml",
+      "title": "Carreata, visita a apoiadores, evento em terreiro e caminhada: o que fizeram candidatos ao governo de PE neste domingo",
+      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/27/carreata-visita-a-apoiadores-evento-em-terreiro-e-caminhada-o-que-fizeram-candidatos-ao-governo-de-pe-neste-domingo.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T17:53:34+00:00",
-      "summary": "SC entra na rota de temporais após fim de semana marcado por calor Após um fim de semana de calor intenso, Santa Catarina terá uma sequência de dias instáveis. A Defesa Civil estadual prevê temporais em todas as regiões do estado entre esta segunda (28) e terça-feira (29). ⛈️O órgão alerta para risco alto de estragos, ",
-      "category": "Clima"
+      "publishedAt": "2026-09-27T21:49:31+00:00",
+      "summary": "Candidatos ao governo de Pernambuco nas eleições 2026 Arte/g1 Seis candidatos ao governo de Pernambuco cumpriram compromissos de campanha neste domingo (27), a uma semana do primeiro turno das eleições, que ocorre no dia 4 de outubro. As agendas reuniram panfletagens, caminhadas, carreatas e atos políticos em cidades d",
+      "category": "Política"
     },
     {
-      "title": "Suspeitos detidos perto de base aérea britânica queriam causar \"grandes danos\" -- Trump",
-      "url": "https://www.rtp.pt/noticias/mundo/suspeitos-detidos-perto-de-base-aerea-britanica-queriam-causar-grandes-danos-trump_n1768054",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T17:52:46+00:00",
-      "summary": "Chicago, EUA, 27 set 2026 (Lusa) - Os cinco detidos hoje pela polícia britânica perto de uma base aérea utilizada pelos militares norte-americanos queriam causar \"grandes danos\", revelou Donald Trump, acrescentando que os suspeitos já estavam no radar dos Estados Unidos \"há muito tempo\".",
-      "category": "Clima"
-    },
-    {
-      "title": "Noruega x Portugal: escalações e onde assistir ao jogo da Nations League",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/noruega-x-portugal-escalacoes-e-onde-assistir-ao-jogo-da-nations-league/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:47:07+00:00",
-      "summary": "Seleções se enfrentam neste domingo (27) pela segunda rodada do Grupo A4",
-      "category": "Esportes"
-    },
-    {
-      "title": "Homem morre após tentar ultrapassar ônibus, cair de moto e ser atropelado no PI",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/27/homem-morre-atropelado.ghtml",
+      "title": "Mensageiro, atendente de cafeteria e serralheiro: confira as oportunidades de emprego na região de Piracicaba",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/27/mensageiro-atendente-de-cafeteria-e-serralheiro-confira-as-oportunidades-de-emprego-na-regiao-de-piracicaba.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T17:46:07+00:00",
-      "summary": "Instituto de Medicina Legal (IML) em Parnaíba MP-PI Um homem identificado como Robson Jaime da Costa Pereira morreu após um acidente envolvendo uma motocicleta e um ônibus na manhã deste domingo (27), em Luís Correia, no litoral do Piauí. Segundo informações repassadas ao g1 pelo 24º Batalhão da Polícia Militar (BPM), ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jesus deixa Ronaldo no banco e faz quatro mudanças",
-      "url": "https://observador.pt/liveblogs/noruega-portugal-selecao-nacional-visita-equipa-sensacao-do-ultimo-mundial-sem-bruno-fernandes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T17:45:29+00:00",
-      "summary": "Depois do triunfo frente ao País de Gales no início da nova era, Portugal tem um teste de fogo em Oslo, frente a uma das oito melhores seleções do mundo. Jesus deixa Ronaldo no banco. Siga em direto.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mulher morre e homem fica ferido em acidente de moto na Grande João Pessoa",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/27/mulher-morre-e-homem-fica-ferido-em-acidente-de-moto-na-grande-joao-pessoa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:44:58+00:00",
-      "summary": "Mulher morre e homem fica ferido em acidente de moto na Grande João Pessoa Flávio Fernandes/TV Cabo Branco Uma mulher, Joelma Freire da Silva, de 51 anos, morreu, e o esposo dela, Lenilson Nascimento, ficou ferido após um acidente de moto, na PB-018, na cidade do Conde, na Grande João Pessoa, durante a madrugada deste ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Rafael Nel espera \"grande apoio\" nos Açores para os sub-21 portugueses",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/rafael-nel-espera-grande-apoio-nos-acores-para-os-sub-21-portugueses_d1768059",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T17:44:09+00:00",
-      "summary": "O jovem avançado Rafael Nel manifestou hoje confiança para o embate de Portugal com Gibraltar, da qualificação para o Europeu de futebol de sub-21, realçando que a comitiva lusa conta com um forte apoio nos Açores.",
+      "publishedAt": "2026-09-27T21:48:31+00:00",
+      "summary": "Carteira de trabalho Jorge Júnior/Rede Amazônica Cinco cidades da região de Piracicaba (SP) reúnem 1.898 vagas de emprego abertas a partir desta segunda-feira (28). As oportunidades são oferecidas pelos serviços municipais de apoio ao trabalhador. ✅ Clique aqui para seguir o canal do g1 Piracicaba no WhatsApp Há empreg",
       "category": "Economia"
     },
     {
-      "title": "Ataques da Rússia matam pelo menos três pessoas na Ucrânia",
-      "url": "https://www.cnnbrasil.com.br/internacional/ataques-da-russia-matam-pelo-menos-pessoas-na-ucrania/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:37:37+00:00",
-      "summary": "Disparos atingiram cidades como Sumy, Kharkiv e a capital Kiev, que são alvos frequentes das forças russas na guerra que já dura mais de quatro anos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Há dérbis que contam pouco e valem muito",
-      "url": "https://observador.pt/2026/09/27/ha-derbis-que-contam-pouco-e-valem-muito-sporting-e-benfica-empatam-em-duelo-com-golos-e-reviravoltas/",
+      "title": "\"Não ganhámos ao Azerbaijão. Ganhámos ao top 5 da Europa\"",
+      "url": "https://observador.pt/2026/09/27/nao-ganhamos-ao-azerbaijao-nem-ao-luxemburgo-ganhamos-ao-top-5-da-europa-jesus-explica-gestao-de-ronaldo-e-o-que-falta-trabalhar/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-27T17:35:52+00:00",
-      "summary": "Os leões saem do dérbi na liderança isolada do Campeonato, com mais cinco pontos e um jogo que o rival",
-      "category": "Esportes"
-    },
-    {
-      "title": "Águas europeias registraram os meses de verão mais quentes desde que os sensores de satélite começaram a fornecer dados; pesca é severamente ameaçada",
-      "url": "https://www.cnnbrasil.com.br/ciencia/aguas-europeias-registraram-os-meses-de-verao-mais-quentes-desde-que-os-sensores-de-satelite-comecaram-a-fornecer-dados-pesca-e-severamente-ameacada/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:30:50+00:00",
-      "summary": "Desaparecimento de florestas marinhas compromete a pesca artesanal e ameaça o sustento de comunidades locais na Espanha",
+      "publishedAt": "2026-09-27T21:46:54+00:00",
+      "summary": "Portugal é líder isolado do grupo A4 da Liga das Nações",
       "category": "Economia"
     },
     {
-      "title": "Casal de pandas da China chega aos EUA em meio a gesto diplomático",
-      "url": "https://www.cnnbrasil.com.br/internacional/casal-de-pandas-da-china-chega-aos-eua-em-meio-a-gesto-diplomatico/",
-      "source": "CNN Brasil",
+      "title": "Concursos e seleções em PE têm mais de 976 vagas e salários de até R$ 15 mil; saiba como se inscrever",
+      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/27/concursos-e-selecoes-em-pe-tem-vagas-em-pernambuco.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T17:30:03+00:00",
-      "summary": "Envio dos animais ocorre após visita de Estado do líder chinês Xi Jinping a Washington para aliviar tensões bilaterais entre os dois países",
-      "category": "Mundo"
+      "publishedAt": "2026-09-27T21:45:15+00:00",
+      "summary": "Foto de preenchimento de prova em imagem de arquivo Freepik Concursos públicos e seleções simplificadas com inscrições abertas em Pernambuco oferecem, ao menos, 976 vagas de emprego. As oportunidades são para candidatos dos níveis fundamental, médio, técnico e superior em cidades do Agreste e do Sertão do estado. Entre",
+      "category": "Economia"
     },
     {
-      "title": "Escola do príncipe George aperta regras sobre iPads",
-      "url": "https://observador.pt/2026/09/27/colegio-de-eton-frequentado-pelo-principe-george-aperta-regras-sobre-o-uso-de-ipads-pais-tinham-pedido-mudancas-em-2024/",
+      "title": "BH tem dia mais quente de 2026 neste domingo; Defesa Civil alerta para possibilidade de chuva",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/27/belo-horizonte-tem-dia-mais-quente-de-2026-neste-domingo-defesa-civil-alerta-para-possibilidade-de-chuva.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T21:44:41+00:00",
+      "summary": "Vista aérea de Belo Horizonte Reprodução/TV Globo Belo Horizonte registrou a maior temperatura de 2026 neste domingo (27). Segundo a Defesa Civil Municipal, os termômetros marcaram 35,6 °C, às 15h25, na estação meteorológica da Região de Venda Nova. A umidade relativa mínima do ar foi de 25%. Com o registro, a capital ",
+      "category": "Clima"
+    },
+    {
+      "title": "Portugal x Noruega. \"Foi muito perigoso\"",
+      "url": "https://observador.pt/programas/relat-rio-de-jogo/portugal-x-noruega-foi-muito-perigoso/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-27T17:25:42+00:00",
-      "summary": "Aparelhos são entregues a cada novo aluno para uso durante as aulas. Pai revelou à imprensa britânica que filho ficou viciado em jogos online.",
+      "publishedAt": "2026-09-27T21:39:04+00:00",
+      "summary": "Apesar da Seleção ter estado \"com a corda na garganta\", Augusto Inácio saúda o triunfo português na Noruega. O jogo \"partiu\" depois do primeiro golo, mas o resultado tranquiliza.",
       "category": "Esportes"
     },
     {
-      "title": "Após 4.300 anos, montanha de 157 metros na Turquia pode revelar paradeiro da Arca de Noé",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/apos-4-300-anos-montanha-de-157-metros-na-turquia-pode-revelar-paradeiro-da-arca-de-noe/",
+      "title": "Sete distritos do continente sob aviso amarelo por trovoada",
+      "url": "https://observador.pt/2026/09/27/sete-distritos-do-continente-sob-aviso-amarelo-por-trovoada-na-segunda-feira/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:36:25+00:00",
+      "summary": "Beja, Bragança, Castelo Branco, Évora, Faro, Guarda e Portalegre são os distritos onde, segundo o IPMA, se prevê também a ocorrência de rajadas de vento entre os 70 e os 90 quilómetros por hora.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Novo pronto atendimento de saúde mental registra quase 5 mil atendimentos em 2 meses em Ribeirão Preto, SP",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/27/novo-pronto-atendimento-de-saude-mental-registra-quase-5-mil-atendimentos-em-2-meses-em-ribeirao-preto-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T21:35:16+00:00",
+      "summary": "Saúde mental: Ponto de atendimento registra 70 pedidos de ajuda por dia em Ribeirão Preto Nicole Santos Neves, de 17 anos, não estava bem e decidiu buscar ajuda para a tristeza e ansiedade que sentia. Encaminhada por uma UPA ao Pronto Atendimento de Saúde Mental (PAM) de Ribeirão Preto (SP), ela foi atendida por um psi",
+      "category": "Saúde"
+    },
+    {
+      "title": "VÍDEO: elefante Sandro entra em lagoa pela primeira vez no Santuário em MT e demonstra musculatura debilitada",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/27/video-elefante-sandro-entra-em-lagoa-pela-primeira-vez-no-santuario-em-mt-e-demonstra-musculatura-debilitada.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T21:35:05+00:00",
+      "summary": "Elefante Sandro entra em lagoa pela 1ª vez no Santuário e demonstra musculatura debilitada O elefante Sandro, de 54 anos, entrou pela primeira vez na lagoa do Santuário de Elefantes Brasil, em Chapada dos Guimarães, a 65 km de Cuiabá, após chegar a Mato Grosso. Em um vídeo publicado neste domingo (27), ele aparece se r",
+      "category": "Mundo"
+    },
+    {
+      "title": "Instituto de Fernandin OIG alega perda de recursos após proibição de bets e anuncia paralisação; empresário já depôs à CPI das Bets",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/27/instituto-atividades-recursos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T21:33:21+00:00",
+      "summary": "Instituto OIG suspende atividades após corte de verbas das bets Agência Senado/Reprodução O Instituto OIG anunciou, por meio de nota divulgada no sábado (26), a paralisação de suas atividades por tempo indeterminado devido à falta de recursos financeiros. Segundo a instituição, a decisão ocorreu após a interrupção dos ",
+      "category": "Política"
+    },
+    {
+      "title": "Morreu antigo ministro Eusébio Marques de Carvalho",
+      "url": "https://observador.pt/2026/09/27/antigo-ministro-do-trabalho-eusebio-marques-de-carvalho-morreu-aos-91-anos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:31:32+00:00",
+      "summary": "Foi ministro do Trabalho entre 1978 e 1981, nos IV e VI Governos Constitucionais da AD. Tinha 91 anos.",
+      "category": "Política"
+    },
+    {
+      "title": "Centenas acamparam em Madrid depois da manifestação pela habitação",
+      "url": "https://www.rtp.pt/noticias/mundo/centenas-acamparam-em-madrid-depois-da-manifestacao-pela-habitacao_v1768086",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:15:47+00:00",
+      "summary": "Os manifestantes ameaçam ficar o tempo que for necessário até que seja aprovado o \"Decreto Maricarmen\", que prevê o fim dos despejos das pessoas vulneráveis e sem alternativas.",
+      "category": "Clima"
+    },
+    {
+      "title": "SPA acusada de falta de pagamentos e transparência",
+      "url": "https://observador.pt/especiais/guionistas-e-realizadores-contra-a-spa-alegam-falta-de-pagamentos-e-de-transparencia-cooperativa-refuta-acusacoes-mas-admite-mudancas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:15:39+00:00",
+      "summary": "Argumentistas e realizadores acusam a Sociedade Portuguesa de Autores de \"monopolizar\" a gestão de direitos e impor condições ilegais. Há ações em tribunal. Cooperativa nega qualquer condicionamento.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dois ataques fazem 27 mortos na África do Sul",
+      "url": "https://www.rtp.pt/noticias/mundo/dois-ataques-fazem-27-mortos-na-africa-do-sul_v1768085",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:13:47+00:00",
+      "summary": "Homens armados dispararam num bar em Joanesburgo. O outro tiroteio aconteceu nos arredores da Cidade do Cabo.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal x Noruega. \"Não é uma exibição exuberante\"",
+      "url": "https://observador.pt/programas/relat-rio-de-jogo/portugal-x-noruega-a-equipa-ainda-se-parte/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:13:24+00:00",
+      "summary": "Luís Pinto Coelho acredita que \"defensivamente ainda há um caminho bastante longo a percorrer\", mas elogia o \"golo de classe pura\" de João Félix no triunfo de Portugal na Noruega por 2-1",
+      "category": "Esportes"
+    },
+    {
+      "title": "Gonçalo Ramos marca o 2-1",
+      "url": "https://www.rtp.pt/noticias/desporto/goncalo-ramos-marca-o-2-1_v1768084",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:09:47+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Haaland marcou para o empate",
+      "url": "https://www.rtp.pt/noticias/desporto/haaland-marcou-para-o-empate_v1768083",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:08:47+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Jovens portugueses distinguidos no Mundial das Profissões",
+      "url": "https://observador.pt/2026/09/27/portugal-faz-pleno-e-consegue-melhor-participacao-de-sempre-no-mundial-das-profissoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:04:28+00:00",
+      "summary": "Dez jovens da seleção nacional foram distinguidos nas sete áreas em que competiram durante a WorldSkills em Xangai, na China.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Flávio decide participar de debate mesmo sem a presença de Lula",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-decide-participar-de-debate-mesmo-sem-a-presenca-de-lula/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T17:19:50+00:00",
-      "summary": "Projeto científico utiliza georradar e análise de solo para investigar formação em formato de barco perto do Monte Ararat; estudo utiliza georradar (GPR), tomografia de resistividade elétrica (ERT), tecnologia LiDAR e análises químicas para mapear o subsolo sem a necessidade de escavações imediatas",
+      "publishedAt": "2026-09-27T21:03:52+00:00",
+      "summary": "Campanha avalia que participação será oportinidade de candidato do PL rebater fake news sobre Nossa Senhora Aparecida e repercutir MP das bets",
+      "category": "Mundo"
+    },
+    {
+      "title": "Parlamento vai votar alterações à lei do arrendamento",
+      "url": "https://www.rtp.pt/noticias/economia/parlamento-vai-votar-alteracoes-a-lei-do-arrendamento_v1768082",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:02:47+00:00",
+      "summary": "O Parlamento vai discutir e votar na generalidade esta semana as alterações à lei do arrendamento propostas pelo Governo. Há novas regras para as rendas antigas e maior flexibilidade nos contratos.",
+      "category": "Política"
+    },
+    {
+      "title": "Grécia surpreende e vence a Alemanha pela primeira vez na Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/grecia-surpreende-e-ganha-pela-primeira-vez-da-alemanha-na-nations-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T21:02:15+00:00",
+      "summary": "Seleção grega ganhou por 1 a 0 e lidera grupo B, com duas vitórias na competição",
+      "category": "Esportes"
+    },
+    {
+      "title": "Casas portuguesas têm sido compradas por residentes no país",
+      "url": "https://www.rtp.pt/noticias/economia/casas-portuguesas-tem-sido-compradas-por-residentes-no-pais_v1768081",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T21:00:47+00:00",
+      "summary": "Mais de 95% dos casas adquiridas em Portugal entre abril e junho foram-no por famílias residentes no país. Comparando com 2025, compraram menos casas, mas gastaram mais dinheiro. Já os estrangeiros representaram agora menos de 5% das transações.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Leão XIV encontrou-se com vítimas de abusos sexuais em França",
+      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-encontrou-se-com-vitimas-de-abusos-sexuais-em-franca_v1768080",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T20:57:47+00:00",
+      "summary": "O papa pediu aos bispos franceses \"máxima vigilância\" ao \"doloroso flagelo dos abusos\". No terceiro dia de visita oficial, apelou ainda à conversão da própria igreja.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Albufeira.GNR apreende cerca de 200 jerricãs com combustível",
+      "url": "https://observador.pt/2026/09/27/gnr-detem-seis-pessoas-e-apreende-cerca-de-200-jerricas-com-combustivel-em-albufeira/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T20:54:32+00:00",
+      "summary": "Nas últimas semanas, registaram-se no Algarve várias apreensões de jerricãs com combustível, pela GNR e pela Polícia Marítima, associadas ao tráfico de droga por via marítima.",
+      "category": "Economia"
+    },
+    {
+      "title": "Preço dos combustíveis vai descer esta segunda-feira",
+      "url": "https://www.rtp.pt/noticias/economia/preco-dos-combustiveis-vai-descer-esta-segunda-feira_v1768078",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T20:53:47+00:00",
+      "summary": "O gasóleo deverá baixar cinco cêntimos por litro e a gasolina dois cêntimos. Os dados são da Anarec e já têm em conta os descontos do Governo sobre o Imposto sobre os Produtos Petrolíferos e Energéticos.",
+      "category": "Política"
+    },
+    {
+      "title": "O mestre chegou para recuperar a liberdade rumo à glória",
+      "url": "https://observador.pt/2026/09/27/o-mestre-que-tem-meio-mundo-na-mao-chegou-a-tempo-de-recuperar-a-liberdade-a-caminho-da-gloria-a-cronica-do-noruega-portugal/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T20:52:23+00:00",
+      "summary": "Esta vitória deixou a Seleção Nacional isolada no topo do grupo A4, com mais três pontos que Noruega e Dinamarca, o próximo adversário",
+      "category": "Esportes"
+    },
+    {
+      "title": "Portugal vence Noruega pela Nations League e Jorge Jesus segue com 100%",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/portugal-vence-noruega-pela-nations-league-e-jorge-jesus-segue-com-100/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T20:47:56+00:00",
+      "summary": "Com resultado conquistado fora de casa, equipe lusa lidera o grupo A4 da competição; Cristiano Ronaldo ficou no banco",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cinco mortos em lar de Estremoz com surto de gripe A",
+      "url": "https://observador.pt/2026/09/27/numero-de-mortos-em-lar-de-estremoz-com-surto-de-gripe-a-sobe-para-cinco/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T20:44:29+00:00",
+      "summary": "Foi confirmada a infeção em duas das vítimas. Foi aberto inquérito ao caso e três pessoas ainda estão internadas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sérvia. Demite-se presidente Aleksandar Vucic",
+      "url": "https://observador.pt/2026/09/27/presidente-servio-aleksandar-vucic-demite-se-para-concorrer-a-primeiro-ministro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T20:38:51+00:00",
+      "summary": "Chefe de Estado vai candidatar-se ao cargo de primeiro-ministro nas eleições legislativas previstas para outubro, marcadas após quase dois anos de manifestações lideradas por estudantes.",
+      "category": "Política"
+    },
+    {
+      "title": "Desfile de protestantes em área católica tem confusão na Irlanda do Norte",
+      "url": "https://www.cnnbrasil.com.br/internacional/desfile-de-protestantes-em-area-catolica-tem-confusao-na-irlanda-do-norte/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T20:30:51+00:00",
+      "summary": "Decisão judicial concedeu autorização inédita para que marcha passasse por projeto até então proibido; Medida reacende divisões internas do país",
+      "category": "Mundo"
+    },
+    {
+      "title": "Virginia resgata tendência fashion e usa corset de tênis em jogo da NFL",
+      "url": "https://www.cnnbrasil.com.br/style/moda/virginia-resgata-tendencia-fashion-e-usa-corset-de-tenis-em-jogo-da-nfl/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T20:14:07+00:00",
+      "summary": "A influenciadora é uma famosas que marcaram presença na primeira disputa da liga profissional de futebol americano dos Estados Unidos em terras cariocas",
+      "category": "Esportes"
+    },
+    {
+      "title": "Vídeo: homem é baleado após reagir a assalto em Franca, no interior de SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-homem-e-baleado-apos-reagir-a-assalto-em-franca-no-interior-de-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T20:10:14+00:00",
+      "summary": "Vítima foi atingida na perna esquerda e recebeu alta médica após ser socorrida pelo Samu; os dois suspeitos ainda não foram localizados",
+      "category": "Saúde"
+    },
+    {
+      "title": "“Amanhã eu começo”: por que tantos planos de mudança de vida surgem antes de dormir?",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/amanha-eu-comeco-por-que-tantos-planos-de-mudanca-de-vida-surgem-antes-de-dormir/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T20:08:45+00:00",
+      "summary": "Menos estímulos no fim do dia e diferenças no relógio biológico podem influenciar a forma como algumas pessoas percebem a noite e planejam o dia seguinte",
+      "category": "Mundo"
+    },
+    {
+      "title": "APS firma acordo para encerrar disputa sobre tarifa de acesso a Santos",
+      "url": "https://www.cnnbrasil.com.br/infra/aps-firma-acordo-para-encerrar-litigio-sobre-tarifa-de-acesso-ao-porto-de-santos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T19:54:01+00:00",
+      "summary": "Armadores e operadores do terminal questionaram judicialmente a cobrança integral da tarifa de acesso sob o argumento de que os investimentos previstos não haviam sido realizados",
+      "category": "Mundo"
+    },
+    {
+      "title": "Homem é baleado na cabeça durante tentativa de assalto no Brooklin, em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-e-baleado-na-cabeca-durante-tentativa-de-assalto-no-brooklin-em-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T19:53:50+00:00",
+      "summary": "Vítima de 39 anos foi abordada por criminosos em motocicletas na zona sul de São Paulo e levada ao Hospital das Clínicas",
+      "category": "Saúde"
+    },
+    {
+      "title": "Jade Picon abre o jogo sobre voltar para o BBB como Veterana: “Medo”",
+      "url": "https://www.cnnbrasil.com.br/pop/realities/jade-picon-abre-o-jogo-sobre-voltar-para-o-bbb-como-veterana-medo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T19:51:33+00:00",
+      "summary": "A influenciadora teme estragar a lembrança especial de sua participação anterior na casa mais vigiada do país",
+      "category": "Esportes"
+    },
+    {
+      "title": "Tamanho das camas vira motivo de reclamações nos Jogos Asiáticos",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/tamanho-das-camas-vira-motivo-de-reclamacoes-nos-jogos-asiaticos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T19:48:57+00:00",
+      "summary": "Reclamações sobre quartos apertados e camas pequenas surgiram nas redes sociais entre atletas hospedados nas unidades modulares",
+      "category": "Esportes"
+    },
+    {
+      "title": "Famílias preservam tradição de Cosme e Damião no Rio de Janeiro",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/familias-preservam-tradicao-de-cosme-e-damiao-no-rio-de-janeiro",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T19:30:00+00:00",
+      "summary": "Devota de São Cosme e São Damião desde criança, a professora Caroline Pinho de Araújo, de 40 anos, conta que começou a se apegar aos santos irmãos conforme foi crescendo. Primeiro, na Igreja Católica, e, depois, na umbanda. \"Eu agradeço a eles meu emprego, minha saúde, a minha família, e, todo ano, além de vir à missa,",
+      "category": "Economia"
+    },
+    {
+      "title": "Dino derruba decisão de Mendonça e libera post sobre Nossa Senhora",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-derruba-decisao-de-mendonca-e-libera-post-sobre-nossa-senhora",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T18:52:00+00:00",
+      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), atendeu a um pedido do humorista Antonio Tabet para restaurar uma postagem no X sobre Nossa Senhora Aparecida, que havia sido removida por decisão do ministro André Mendonça, do Tribunal Superior Eleitoral (TSE). O humorista veiculou uma foto de imagem religios",
+      "category": "Política"
+    },
+    {
+      "title": "Pacientes com alopecia areata contam trajetória para reaver autoestima",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/pacientes-com-alopecia-areata-contam-trajetoria-para-reaver-autoestima",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T18:40:00+00:00",
+      "summary": "Uma doença imprevisível. É assim que a médica dermatologista da Sociedade Brasileira de Dermatologia (SBD), Enilde Borges Costa, define a alopecia areata. No mês dedicado à doença, que acomete cerca de 2% da população mundial, segundo a SBD, a Agência Brasil traz histórias de pacientes que convivem com a queda de cabel",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Mr. Olympia 2026 distribui mais de R$ 10 milhões em prêmios; veja valores",
-      "url": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/mr-olympia-2026-distribui-mais-de-r-10-milhoes-em-premios-veja-valores/",
-      "source": "CNN Brasil",
+      "title": "Brasil conquista bronze nos mundiais paralímpicos de judô e triatlo",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-conquista-bronze-nos-mundiais-paralimpicos-de-judo-e-triatlo",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T17:15:35+00:00",
-      "summary": "Competição de fisiculturismo distribuiu fortunas para 60 atletas em 12 categorias",
-      "category": "Esportes"
-    },
-    {
-      "title": "As notícias das 18h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2147/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T17:14:41+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "publishedAt": "2026-09-27T17:50:00+00:00",
+      "summary": "O Brasil conquistou medalhas de bronze neste domingo (27) no Mundial Paralímpico de judô, em Tbilisi, na Geórgia, e no Mundial Paralímpico de triatlo, em Pontevedra, na Espanha. No judô, as competições foram por equipes, e os judocas brasileiros subiram ao terceiro lugar do pódio em ambos os naipes. Notícias relacionad",
       "category": "Mundo"
-    },
-    {
-      "title": "Shawn Mendes diz que está “construindo uma vida” com Bruna Marquezine",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/shawn-mendes-diz-que-esta-construindo-uma-vida-com-bruna-marquezine/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T17:14:08+00:00",
-      "summary": "Cantor e brasileiro assumiram o relacionamento no final do ano passado",
-      "category": "Cultura"
     },
     {
       "title": "Saiba como as bets adoeceram e endividaram os brasileiros",
@@ -398,42 +479,6 @@
       "category": "Economia"
     },
     {
-      "title": "IA. \"Nesta altura, parece-me uma sorte se chegarmos a 2030\"",
-      "url": "https://observador.pt/especiais/nate-soares-empresas-de-ia-nao-estao-a-conseguir-que-maquinas-se-comportem-parece-me-uma-sorte-se-chegarmos-a-2030/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T16:31:47+00:00",
-      "summary": "Nate Soares é coautor do livro \"Se alguém a criar, morremos todos\", lançado em setembro de 2025",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "17h. Roulote ardeu esta tarde na Estação do Oriente, Lisboa",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2293/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T16:12:16+00:00",
-      "summary": "O alerta foi dado às quatro da tarde e não há feridos a registar, nem ordens de evacuação. E ainda, a ONU considera que Espanha violou obrigações internacionais no despejo uma mulher de 87 anos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Elisabetta Bisaro assume direção de O Espaço do Tempo",
-      "url": "https://observador.pt/2026/09/27/italiana-elisabetta-bisaro-assume-direcao-artistica-de-o-espaco-do-tempo-em-2027/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T16:11:14+00:00",
-      "summary": "A italiana foi escolhida num concurso internacional para suceder a Pedro Barreiro à frente do centro cultural de Montemor-o-Novo, no distrito de Évora.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Fogo consome rulote na Gare do Oriente, em Lisboa",
-      "url": "https://observador.pt/2026/09/27/rulote-de-comida-arde-na-gare-do-oriente-em-lisboa-nao-ha-feridos-a-registar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T16:04:58+00:00",
-      "summary": "Bombeiros Sapadores de Lisboa responderam à ocorrência e extinguiram as chamas.",
-      "category": "Mundo"
-    },
-    {
       "title": "Capital fluminense integra programa global de gestão de resíduos",
       "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/capital-fluminense-integra-programa-global-de-gestao-de-residuos",
       "source": "Agência Brasil",
@@ -441,15 +486,6 @@
       "publishedAt": "2026-09-27T16:01:00+00:00",
       "summary": "A capital fluminense está entre as sete cidades do mundo escolhidas como piloto para o programa global Distritos Lixo Zero, de gestão de resíduos e redução de metano. De acordo com o Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG), do Observatório do Clima, o Rio de Janeiro é a cidade bra",
       "category": "Clima"
-    },
-    {
-      "title": "Papa condena aborto e eutanásia legalizados",
-      "url": "https://observador.pt/2026/09/27/papa-condena-legalizacao-do-aborto-e-eutanasia-sob-o-pretexto-de-falsa-compaixao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T15:52:05+00:00",
-      "summary": "\"É impossível considerar normal o ato de pôr fim a uma vida. O que é legal não é necessariamente moral\", sustentou Papa Leão XIV durante a visita a Lourdes.",
-      "category": "Mundo"
     },
     {
       "title": "Mega-Sena acumula para R$ 52 milhões; veja os números sorteados",
@@ -486,42 +522,6 @@
       "publishedAt": "2026-09-27T11:55:00+00:00",
       "summary": "Em 2023, Arivaldo Sampaio, à época com 69 anos, viu o filho perder a função do único rim que tinha após passar por hemodiálise quase diária. Com o transplante como única opção, toda a família se colocou à disposição como um possível doador – inclusive Arivaldo. O resultado: compatibilidade total entre pai e filho. De a",
       "category": "Mundo"
-    },
-    {
-      "title": "Conheça os candidatos que disputam o governo estadual em São Paulo",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/conheca-os-candidatos-que-disputam-o-governo-estadual-em-sao-paulo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T11:35:00+00:00",
-      "summary": "Seis candidatos concorrem ao governo de São Paulo nas eleições deste ano. Com o maior eleitorado do país, os paulistas somam 34.104.226 eleitores aptos a votar. Desse total, 53% são mulheres e 47% homens. Entre os 15,77% de eleitores que declaram cor/raça, 36,32% são pardos, 52,46% são brancos e 9,97% são pretos.Outros",
-      "category": "Política"
-    },
-    {
-      "title": "Conheça os nove candidatos a governador do Rio de Janeiro",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/conheca-os-nove-candidatos-governador-do-rio-de-janeiro",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T11:25:00+00:00",
-      "summary": "Nove candidatos concorrem ao governo do Rio de Janeiro nas eleições deste ano. No estado, 12,857 milhões de eleitores estão aptos a votar, universo que perde apenas para Minas Gerais e São Paulo. Desse total, 54% são mulheres e 46% homens. Entre os eleitores que declararam cor/raça, 41,54% são pardos, 39,76% são branco",
-      "category": "Política"
-    },
-    {
-      "title": "Minas Gerais tem 11 candidatos a governador; veja quais são",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/minas-gerais-tem-11-candidatos-governador-veja-quais-sao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T11:15:00+00:00",
-      "summary": "Onze candidatos concorrem ao governo de Minas Gerais nas eleições deste ano. Segundo maior colégio eleitoral e estado de maiores dimensões da região sudeste, abriga um total de 16.377.659 eleitores aptos a votar. Desse total, 52% são mulheres e 47% homens. Entre os 22,08% eleitores que declaram cor/raça, 49,64%% são pa",
-      "category": "Política"
-    },
-    {
-      "title": "Saiba quem são os cinco candidatos a governador no Espírito Santo",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/saiba-quem-sao-os-cinco-candidatos-governador-no-espirito-santo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T11:05:00+00:00",
-      "summary": "Cinco candidatos concorrem ao governo do Espírito Santo nas eleições deste ano. Um total de 2.990.490 eleitores estão aptos a votar. Desse total, 53% são mulheres e 47% homens. 24,45% dos eleitores declaram cor/raça, e entre eles 51,88% são pardos, 34,41% são brancos e 13,13% são pretos. Notícias relacionadas: Saiba qu",
-      "category": "Política"
     }
   ],
   "sources": [
