@@ -1,14 +1,428 @@
 {
-  "updatedAt": "2026-09-27T01:24:29.138663+00:00",
+  "updatedAt": "2026-09-27T08:05:22.598172+00:00",
   "items": [
     {
-      "title": "01h Centeno critica medidas anunciadas pelo Governo para combater o custo de vida",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-centeno-critica-medidas-anunciadas-pelo-governo-para-combater-o-custo-de-vida_a1_1767969",
+      "title": "\"Quando o primeiro-ministro nos mete medo, o que é que ele sabe que nós não sabemos?\", questiona Mário Centeno",
+      "url": "https://www.rtp.pt/noticias/economia/quando-o-primeiro-ministro-nos-mete-medo-o-que-e-que-ele-sabe-que-nos-nao-sabemos-questiona-mario-centeno_v1767737",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-27T01:28:02+00:00",
+      "publishedAt": "2026-09-27T08:56:15+00:00",
+      "summary": "\"Governar sob o medo é péssimo\", diz o antigo ministro das Finanças.",
+      "category": "Política"
+    },
+    {
+      "title": "Futebol \"Vadio\". A receita para Portugal frente à Noruega",
+      "url": "https://www.rtp.pt/noticias/mundo/futebol-vadio-a-receita-para-portugal-frente-a-noruega_n1767993",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T08:53:57+00:00",
+      "summary": "Três Chefs portugueses radicados em Oslo fartaram-se, há um ano, do denominado \"fine dinning\" e abriram um espaço próprio, sem amarras da técnica culinária mas com os sabores portugueses sempre presentes.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "África do Sul. Dois tiroteios em Joanesburgo e no Cabo fazem 27 mortes no total",
+      "url": "https://www.rtp.pt/noticias/mundo/africa-do-sul-dois-tiroteios-em-joanesburgo-e-no-cabo-fazem-27-mortes-no-total_n1767990",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T08:37:08+00:00",
+      "summary": "Dois tiroteios separados em Joanesburgo e na Cidade do Cabo, na África do Sul, mataram 27 pessoas na noite de sábado para domingo, segundo balanços das autoridades.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Teerão aguarda \"posição definitiva\" dos EUA sobre plano para reabrir Ormuz",
+      "url": "https://www.rtp.pt/noticias/economia/teerao-aguarda-posicao-definitiva-dos-eua-sobre-plano-para-reabrir-ormuz_n1767971",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T08:32:10+00:00",
+      "summary": "O Irão confirmou estar ciente da postura negativa dos Estados Unidos (EUA) em relação à proposta para reabrir o estreito de Ormuz dentro de sete dias, mas sublinhou que continua \"a aguardar\" uma \"posição definitiva\".",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Justiça da Irlanda do Norte anula proibição de desfile unionista previsto para hoje",
+      "url": "https://www.rtp.pt/noticias/mundo/justica-da-irlanda-do-norte-anula-proibicao-de-desfile-unionista-previsto-para-hoje_n1767980",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T08:23:59+00:00",
+      "summary": "Um grupo unionista obteve autorização judicial para desfilar hoje por uma localidade de maioria católica e nacionalista na Irlanda do Norte, após o Supremo Tribunal ter anulado uma decisão que proibia a marcha.",
+      "category": "Política"
+    },
+    {
+      "title": "China envia dois pandas-gigantes para os Estados Unidos",
+      "url": "https://www.rtp.pt/noticias/mundo/china-envia-dois-pandas-gigantes-para-os-estados-unidos_n1767978",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T08:23:33+00:00",
+      "summary": "Pequim, 27 set 2026 (Lusa) - A China enviou hoje dois pandas-gigantes para os Estados Unidos (EUA), segundo a imprensa oficial chinesa, em mais uma demonstração da chamada \"diplomacia do panda\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Comentadores de TV deviam ter carreiras? — Ouvintes",
+      "url": "https://observador.pt/programas/fora-do-baralho/comentadores-de-tv-deviam-ter-carreiras-ouvintes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T07:46:05+00:00",
+      "summary": "Jorge Fernandes responde às perguntas dos ouvintes sobre comentadores televisivos, desde os políticos que têm programas em nome próprio aos jovens que surgiram a comentar.",
+      "category": "Mundo"
+    },
+    {
+      "title": "7h Dois tiroteios distintos na África do Sul provocam 27 mortes",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/7h-dois-tiroteios-distintos-na-africa-do-sul-provocam-27-mortes_a1_1767987",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T07:37:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "6h Eleições em São Tomé e Príncipe com mais de 140 mil eleitores",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-eleicoes-em-sao-tome-e-principe-com-mais-de-140-mil-eleitores_a1_1767986",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T07:37:02+00:00",
       "summary": "",
       "category": "Política"
+    },
+    {
+      "title": "MP das bets gera insegurança jurídica e impacto fiscal, dizem especialistas",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mp-das-bets-gera-inseguranca-juridica-e-desafio-fiscal-dizem-especialistas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:30:47+00:00",
+      "summary": "Medida provisória pode apresentar problemas de inconstitucionalidade e ampliar a insegurança jurídica no Brasil",
+      "category": "Mundo"
+    },
+    {
+      "title": "Alemanha x Grécia: horário e onde assistir ao jogo da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/alemanha-x-grecia-horario-e-onde-assistir-ao-jogo-da-nations-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:30:37+00:00",
+      "summary": "Seleções se enfrentam neste domingo (27) pela segunda rodada do Grupo A2",
+      "category": "Esportes"
+    },
+    {
+      "title": "Eleições 2026: são 2 votos para o Senado? Conheça os 16 candidatos do RJ e suas propostas",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/27/eleicoes-2026-sao-2-votos-para-o-senado-conheca-os-16-candidatos-do-rj-e-suas-propostas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:30:01+00:00",
+      "summary": "Candidatos ao Senado pelo RJ nas eleições de 2026 Reprodução O eleitor terá dois votos para o Senado nas eleições de 4 de outubro. Isso acontece porque, neste ano, serão renovados dois terços do Senado Federal. No Rio de Janeiro, 16 candidatos disputam as duas vagas, e os dois mais votados serão eleitos para mandatos d",
+      "category": "Política"
+    },
+    {
+      "title": "Brasil está entre países com menor participação de mulheres no Parlamento",
+      "url": "https://www.cnnbrasil.com.br/politica/brasil-esta-entre-paises-com-menor-participacao-de-mulheres-no-parlamento/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:30:01+00:00",
+      "summary": "Mulheres ocupam 88 das 513 cadeiras da Câmara e 15 das 81 vagas do Senado; pesquisadoras apontam barreiras nos partidos e no sistema eleitoral",
+      "category": "Política"
+    },
+    {
+      "title": "As notícias das 8h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2531/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T07:17:54+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brusque x Ferroviária: horário e onde assistir ao jogo da Série C",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/brusque-x-ferroviaria-horario-e-onde-assistir-ao-jogo-da-serie-c/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:15:53+00:00",
+      "summary": "Equipes se enfrentam neste domingo (27), na Arena Simon, pela quarta rodada da Segunda Fase da Série C do Campeonato Brasileiro",
+      "category": "Esportes"
+    },
+    {
+      "title": "Astrologia e tarot c/ Planeta Sérgio",
+      "url": "https://observador.pt/programas/amiga-faz-parte/astrologia-e-tarot-c-planeta-sergio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T07:06:18+00:00",
+      "summary": "Uma conversa sobre astrologia, tarot, ceticismo e intuição com o Planeta Sérgio. E sim, aconteceu leitura de tarot ao vivo.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Congresso tem até 120 dias para analisar MP do fim das bets",
+      "url": "https://www.cnnbrasil.com.br/politica/congresso-tem-ate-120-dias-para-analisar-mp-do-fim-das-bets/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:04:35+00:00",
+      "summary": "Discussão entre parlamentares deve começar depois do segundo turno das eleições; prazo para votar nos plenários da Câmara e do Senado vai até 3 de janeiro",
+      "category": "Política"
+    },
+    {
+      "title": "Primeira fase do vestibular do ITA: 9,5 mil candidatos prestam prova neste domingo (27) em 25 cidades",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/27/primeira-fase-do-vestibular-do-ita-95-mil-candidatos-prestam-prova-neste-domingo-27-em-25-cidades.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:01:00+00:00",
+      "summary": "Instituto Tecnológico de Aeronáutica (ITA), em São José dos Campos Peterson Grecco/TV Vanguarda Mais de 9,5 mil candidatos prestam, neste domingo (27), o vestibular 2027 do Instituto Tecnológico de Aeronáutica (ITA). A prova corresponde à primeira fase. Além de São José dos Campos (SP), que abriga a sede do ITA, a prov",
+      "category": "Mundo"
+    },
+    {
+      "title": "Criciúma x Avaí: horário e onde assistir ao jogo da Série B do Brasileiro",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/criciuma-x-avai-horario-e-onde-assistir-ao-jogo-da-serie-b-do-brasileiro/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:25+00:00",
+      "summary": "Equipes se enfrentam neste domingo (27), no Estádio Heriberto Hülse, pela 30ª rodada da competição de pontos corridos",
+      "category": "Esportes"
+    },
+    {
+      "title": "Bets proibidas: “Sobram razões jurídicas recorrerem”, diz pres. do Flu",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/bets-proibidas-sobram-razoes-juridicas-recorrerem-diz-pres-do-flu/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:21+00:00",
+      "summary": "Mattheus Montenegro afirma que a medida provisória viola a Constituição e que não faltam argumentos jurídicos para os clubes recorrerem na Justiça.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Noruega x Portugal: horário e onde assistir ao jogo da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/noruega-x-portugal-horario-e-onde-assistir-ao-jogo-da-nations-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:02+00:00",
+      "summary": "Seleções se enfrentam neste domingo (27) pela segunda rodada do Grupo A4",
+      "category": "Esportes"
+    },
+    {
+      "title": "Rivais criticam Lula, mas evitam se opor à MP do fim das bets; veja reações",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/rivais-criticam-lula-mas-evitam-se-opor-a-mp-do-fim-das-bets-veja-reacoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:01+00:00",
+      "summary": "Adversários criticam oportunismo eleitoral, mas evitam contrariar medida apoiada por 75% da população, segundo pesquisa. Apuração é de Jussara Soares ao CNN Agora",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Seca em lagoa revela fósseis de animais pré-históricos e pinturas rupestres de 10 mil anos em Caruaru",
+      "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/27/seca-em-lagoa-revela-fosseis-de-animais-pre-historicos-e-pinturas-rupestres-de-10-mil-anos-em-caruaru.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "Ossos de animais pré-históricos são encontrados em lagoa de Caruaru No interior de Pernambuco, a 150 quilômetros do Recife, fósseis de animais pré-históricos podem ser encontrados no sítio Carneirinho, zona rural de Caruaru, no Agreste do estado. Após a seca em um reservatório, já foram encontrados fragmentos de ossos ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Com câncer raro, paciente tem acesso a remédio em teste negado e entra em corrida contra o tempo",
+      "url": "https://g1.globo.com/saude/noticia/2026/09/27/com-cancer-raro-paciente-tem-acesso-a-remedio-em-teste-negado-e-entra-em-corrida-contra-o-tempo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "Ziara tem melanoma uveal, câncer raro no olho, que está em metástase pelo corpo Arquivo pessoal Durante anos, Ziara Abud foi uma advogada bem sucedida com o sonho de se aposentar cedo para viver a vida que sempre quis: viajar, mergulhar com tubarões e saltar de paraquedas, esporte em que competiu pelo país e acumulou r",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Vaca dá à luz bezerros trigêmeos e surpreende produtor no ES: 'Achei era só um bezerro grande'",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/27/vaca-da-a-luz-bezerros-trigemeos-e-surpreende-produtor-no-es-achei-era-so-um-bezerro-grande.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "Vaca dá à luz bezerros trigêmeos e surpreende produtor: 'Achei que ia vir só um bezerrão' Uma vaca de nove anos deu à luz três bezerros de uma só vez em uma propriedade rural de São Mateus, no Norte do Espírito Santo. O nascimento de Pinta, Nina e Cristóvão aconteceu no dia 8 de setembro e surpreendeu o produtor rural ",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Mãe que morreu 10 horas após a filha jejuou e pediu milagre pela recuperação da jovem na luta contra câncer raro",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/27/mae-que-morreu-10-horas-apos-a-filha-jejuou-e-pediu-milagre-pela-recuperacao-da-jovem-na-luta-contra-cancer-raro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "Mãe e filha morrem de câncer em intervalo de 10h: 'Nenhuma queria ver a outra morrer' Meses antes de morrer vítima de câncer, Maria Elisabete Nogueira da Silva, de 56 anos, viveu um dos momentos mais delicados da luta da filha, Cibele Marchis, de 28 anos, contra um tipo raro da doença. Durante uma internação considerad",
+      "category": "Saúde"
+    },
+    {
+      "title": "Confeiteira do Paraná faz bolo gigante de 2 toneladas e despeja 600 litros de calda com ajuda de mangueiras, caixa d'água e guindaste",
+      "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/27/bolo-gigante-matilda-confeiteira-parana.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "Confeitaria faz bolo de mais de 2 toneladas em Ponta Grossa A confeiteira Nicoli Isabelli Afinovicz, de Ponta Grossa, cidade dos Campos Gerais do Paraná, fez um bolo gigante de 2 toneladas que levou 600 litros de calda despejados com a ajuda de um guindaste. Veja na reportagem acima. Inspirado no filme \"Matilda\", dos a",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pacientes recebem certificados de superação após fim de quimioterapia no interior de SP: ‘Vida nova’",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/27/pacientes-recebem-certificados-de-superacao-apos-fim-de-quimioterapia-no-interior-de-sp-vida-nova.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "Pacientes recebem certificados de superação após quimioterapia em Ribeirão Preto, SP Depois de meses entre consultas, exames e sessões de quimioterapia, 25 pacientes de Ribeirão Preto (SP), Sertãozinho (SP), Franca (SP) e Araraquara (SP) receberam nesta sexta-feira (25) um certificado para marcar a conclusão desta etap",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Clientes denunciam suposto golpe em agência de veículos em BH",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/27/clientes-denunciam-suposto-golpe-em-agencia-de-veiculos-em-bh.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "Clientes denunciam golpe em loja de carros Um grupo de consumidores denuncia ter sido vítima de um suposto golpe envolvendo uma agência de veículos na região do Barreiro, em Belo Horizonte. Segundo os clientes, os problemas começaram após a compra dos automóveis e incluem desde a entrega de veículos diferentes dos que ",
+      "category": "Esportes"
+    },
+    {
+      "title": "Criminoso admite usar conta bancária de terceiro para vender material de abuso sexual infantil: 'É de uma menina'",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/27/criminoso-admite-usar-conta-bancaria-de-terceiro-para-vender-material-de-abuso-sexual-infantil-e-de-uma-menina.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "⚠️ Aviso: esta reportagem contém conteúdo sensível sobre abuso sexual infantil. Ao final dela, veja como denunciar casos desse tipo. Criminosos usam TikTok para promover de conteúdo de abuso sexual infantil no Telegram Uma investigação do g1 revelou como agem criminosos que comercializam material de abuso sexual infant",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEO: único veterano da Segunda Guerra Mundial que ainda vive no ES recebe homenagem aos 103 anos",
+      "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/09/27/video-unico-veterano-da-segunda-guerra-mundial-que-ainda-vive-no-es-recebe-homenagem-aos-103-anos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "Último veterano da 2ª Guerra Mundial que mora no ES recebe medalha da ONU aos 103 anos O último veterano da Segunda Guerra Mundial que mora no Espírito Santo recebeu uma medalha da Organização das Nações Unidas (ONU) na última quarta-feira (23). Agostinho Ferreira da Silva, de 103 anos, é ex-combatente da Força Expedic",
+      "category": "Mundo"
+    },
+    {
+      "title": "O que se sabe sobre morte de oficial da Marinha dentro de alojamento militar em SP",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/27/o-que-se-sabe-sobre-morte-de-oficial-da-marinha-dentro-de-alojamento-militar-em-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "summary": "Engenheira da Marinha é enterrada em Mogi das Cruzes O corpo da segundo-tenente da Marinha do Brasil Beatriz Fickert Santoro, de 33 anos, foi enterrado neste sábado (26) no Cemitério da Saudade, em Mogi das Cruzes, na Grande São Paulo. A morte da oficial, encontrada em um alojamento militar na Cidade Universitária, na ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Um sinal de rádio do exoplaneta β Pictoris b foi captado na Terra por cientistas; o que sabemos da frequência vinda de fora do Sistema Solar",
+      "url": "https://www.cnnbrasil.com.br/ciencia/um-sinal-de-radio-do-exoplaneta-%ce%b2-pictoris-b-foi-captado-na-terra-por-cientistas-o-que-sabemos-da-frequencia-vinda-de-fora-do-sistema-solar/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T06:39:44+00:00",
+      "summary": "Descoberta feita pelo radiotelescópio MeerKAT permitiu medir pela primeira vez o campo magnético de um planeta distante do nosso sistema",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "“Estamos a perder a capacidade de ter um olhar tolerante\"",
+      "url": "https://observador.pt/programas/em-40-minutos/barbara-branco-as-pessoas-escrevem-com-um-odio-que-me-perturba-muito-estamos-a-perder-a-capacidade-de-ter-um-olhar-tolerante/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T06:39:37+00:00",
+      "summary": "Bárbara Branco reflete sobre o peso da exposição pública precoce e a toxicidade das redes sociais. E ainda o novo desafio como narradora do novo podcast Plus do Observador e o regresso aos palcos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "‘Ambulância aérea’ faz 50 transportes mensais e atende 6,8 milhões de vidas",
+      "url": "https://www.cnnbrasil.com.br/saude/ambulancia-aerea-faz-50-transportes-mensais-e-atende-68-milhoes-de-vidas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T06:37:38+00:00",
+      "summary": "Transporte com aviões é essencial para a logística do transplante de órgãos, situação em que o tempo é crucial; desde 2014, mais de 54 mil itens foram transportados no Brasil, entre órgãos, tecidos, equipes de captação e transplante",
+      "category": "Clima"
+    },
+    {
+      "title": "Onda de calor sufocante pode fazer temperatura passar dos 40ºC em 8 estados",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/onda-de-calor-sufocante-pode-fazer-temperatura-passar-dos-40oc-em-8-estados/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-27T06:35:45+00:00",
+      "summary": "Fenômeno começou no sábado (26) e vai durar até a próxima quarta-feira (30), segundo previsão do Instituto Nacional de Meteorologia (Inmet)",
+      "category": "Clima"
+    },
+    {
+      "title": "As notícias das 7h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2518/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T06:12:56+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "5h Mário Centeno acusa Governo de \"desbaratar\" folga financeira",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-mario-centeno-acusa-governo-de-desbaratar-folga-financeira_a1_1767979",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T05:21:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "6h. Liga das Nações. Portugal defronta hoje Noruega",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2507/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T05:12:29+00:00",
+      "summary": "O selecionador nacional, Jorge Jesus, reconhece qualidade no ataque norueguês. Ainda, André Ventura espera que Comissão Parlamentar de Inquérito ao MAI possa iniciar trabalhos nos próximos dias.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Porque é que Moisés não chegou a entrar na Terra Prometida?",
+      "url": "https://observador.pt/programas/as-historias-da-biblia/porque-e-que-moises-nao-chegou-a-entrar-na-terra-prometida/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T05:03:53+00:00",
+      "summary": "É uma das personagens centrais do Antigo Testamento. Nascido hebreu no cativeiro do Egipto, salvou o povo do faraó. Mas não pôde entrar na Terra Prometida. O novo episódio de \"As Histórias da Bíblia\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Afinal, que língua falava D. Afonso Henriques?",
+      "url": "https://observador.pt/programas/portugues-suave/afinal-que-lingua-falava-d-afonso-henriques/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T05:02:24+00:00",
+      "summary": "Marco Neves assinala o Dia Europeu das Línguas e descodifica as 24 línguas oficiais da UE. Explica ainda quando é que a palavra \"português\" foi usada pela primeira vez para definir o nosso idioma.",
+      "category": "Economia"
+    },
+    {
+      "title": "4h Dominado incêndio na Chamusca que teve cerca de 270 bombeiros",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-dominado-incendio-na-chamusca-que-teve-cerca-de-270-bombeiros_a1_1767977",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T04:19:01+00:00",
+      "summary": "",
+      "category": "Clima"
+    },
+    {
+      "title": "3h Centeno: \"Governar sob o medo é péssimo\", diz sobre PM",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-centeno-governar-sob-o-medo-e-pessimo-diz-sobre-pm_a1_1767976",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T04:17:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "5h. EUA enviaram emissários para isolar o Irão",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1568/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T04:13:28+00:00",
+      "summary": "A informação foi avançada pelo secretário do Tesouro norte-americano que, na rede social X, diz que esses esforços \"estão a dar frutos\". Ainda, Jorge Jesus diz que não tem medo da Noruega.",
+      "category": "Mundo"
+    },
+    {
+      "title": "4h. Está dominado o incêndio da Chamusca, Santarém",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2413/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T03:16:33+00:00",
+      "summary": "O fogo deflagrou por volta das oito da noite numa zona de mato e eucaliptal na Carregueira. Ainda, Irão confirma que sabe que os EUA não gostaram da proposta para reabrir o estreito de Ormuz.",
+      "category": "Clima"
+    },
+    {
+      "title": "2h Incêndio florestal na Chamusca mobiliza cerca de 270 bombeiros",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-incendio-florestal-na-chamusca-mobiliza-cerca-de-270-bombeiros_a1_1767972",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T02:26:02+00:00",
+      "summary": "",
+      "category": "Clima"
+    },
+    {
+      "title": "3h. Centeno acusa PM de governar sob o discurso do medo",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2449/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-27T02:14:32+00:00",
+      "summary": "Mário Centeno diz ainda que as contas públicas enfrentam um \"défice profundo\". Ainda, André Ventura espera que a Comissão Parlamentar de Inquérito a Luís Neves comece antes da discussão do OE.",
+      "category": "Mundo"
     },
     {
       "title": "2h.Incêndio na Chamusca combatido por mais de 250 bombeiros",
@@ -20,363 +434,12 @@
       "category": "Esportes"
     },
     {
-      "title": "Baleias-jubarte atravessam oceanos, passam pelo Brasil e fazem maior deslocamento já registrado",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/26/baleias-jubarte-atravessam-oceanos-passam-pelo-brasil-e-fazem-maior-deslocamento-ja-registrado.ghtml",
-      "source": "G1",
+      "title": "São Paulo vence o Corinthians, faz história e fica perto do título",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/sao-paulo-vence-o-corinthians-faz-historia-e-fica-perto-do-titulo",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-27T00:47:51+00:00",
-      "summary": "Baleias jubates cruzaram o munod para chegar ao Brasil Duas baleias-jubarte fizeram deslocamentos de até 15,2 mil quilômetros entre o Brasil e a Austrália, no que pesquisadores apontam como o maior percurso já registrado pela ciência para a espécie. Os registros mostram que os animais atravessaram oceanos distintos, al",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Alta dos títulos do Tesouro dos EUA tira atratividade de papéis no Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/alta-dos-titulos-do-tesouro-dos-eua-tira-atratividade-de-papeis-no-brasil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:30:15+00:00",
-      "summary": "Elisa Machado, economista-chefe da KAT Investimentos, aponta para movimento contrário de avanço das taxas lá fora e queda da Selic pelo BC",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quaest: Dr. Daniel tem 41%; Hana soma 32% na disputa ao governo do PA",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-dr-daniel-tem-41-hana-soma-32-na-disputa-ao-governo-do-pa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:27:18+00:00",
-      "summary": "Pesquisa ouviu 804 eleitores entre os dias 22 e 25 de setembro; margem de erro é de três pontos percentuais, com intervalo de confiança de 95%",
-      "category": "Política"
-    },
-    {
-      "title": "Teresópolis lança Feport 2026 sem transparência sobre gastos de shows e estrutura",
-      "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/26/teresopolis-lanca-feport-2026-sem-transparencia-sobre-gastos-de-shows-e-estrutura.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:24:24+00:00",
-      "summary": "Feport 2026 Redes Sociais A Feira do Produtor Rural de Teresópolis, a Feport 2026, começou nesta sexta-feira (25), no Parque de Exposições de Albuquerque, com shows de João Gomes, Léo Foguete e Naiara Azevedo. Até o momento, porém, os portais oficiais do município não disponibilizaram documentos como os termos do proce",
-      "category": "Mundo"
-    },
-    {
-      "title": "00h \"Estado vive em profundo défice\", avisa Mário Centeno",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-estado-vive-em-profundo-defice-avisa-mario-centeno_a1_1767968",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T00:23:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mesmo com voto facultativo, número de eleitores com mais de 70 anos cresce nas eleições",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/26/mesmo-com-voto-facultativo-numero-de-eleitores-com-mais-de-70-anos-cresce-nas-eleicoes.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:22:59+00:00",
-      "summary": "Aumentou o número de eleitores com mais de 70 anos O número de eleitores com mais de 70 anos aumentou nas Eleições 2026. Segundo dados do Tribunal Superior Eleitoral (TSE), o grupo reúne quase 17 milhões de pessoas aptas a votar neste ano e cresceu 15,75% em relação a 2022. Para essa faixa etária, o voto é facultativo.",
-      "category": "Política"
-    },
-    {
-      "title": "Marido de Simone Mendes, Kaká Diniz exibe antes e depois após secar 17,5 kg",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/marido-de-simone-mendes-kaka-diniz-exibe-antes-e-depois-apos-secar-175-kg/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:21:47+00:00",
-      "summary": "Empresário exibiu cliques com corpo definido cinco meses após passar por mudanças na rotina",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fogo destrói lavouras em Goiás e deixa produtores com prejuízos milionários",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/26/fogo-destroi-lavouras-em-goias-e-deixa-produtores-com-prejuizos-milionarios.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:18:43+00:00",
-      "summary": "Queimadas causaram prejuízos no centro-oeste Incêndios destruíram lavouras e deixaram prejuízos milionários para produtores rurais em Goiás. As chamas atingiram propriedades em Mineiros, Pontalina e Montividiu, onde uma área de 250 hectares de milho foi completamente destruída. O produtor estima uma perda de R$ 2,5 mil",
-      "category": "Clima"
-    },
-    {
-      "title": "Homem tenta quebrar porta de loja com paralelepípedo no Centro de Itaperuna; VÍDEO",
-      "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/26/homem-tenta-quebrar-porta-de-loja-com-paralelepipedo-no-centro-de-itaperuna-video.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:18:29+00:00",
-      "summary": "Homem tenta quebrar porta de loja com paralelepípedo no Centro de Itaperuna / blog do Toretto Um homem tentou invadir uma loja de roupas masculinas na madrugada de quinta-feira (24), na Rua Rotary, no Centro de Itaperuna, no Noroeste Fluminense. Imagens das câmeras de segurança registraram o momento em que o suspeito u",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: Isael Munduruku propõe qualificação de jovens e crédito para empreendedores do turismo no AM",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/26/eleicoes-2026-isael-munduruku-propoe-qualificacao-de-jovens-e-credito-para-empreendedores-do-turismo-no-am.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:17:00+00:00",
-      "summary": "Isael Munduruku propõe qualificação de jovens e crédito para empreendedores do turismo no AM. Reprodução/Rede Amazônica O candidato ao governo do Amazonas Isael Munduruku (Rede Sustentabilidade) participou de uma caminhada pelas ruas do bairro Jorge Teixeira, na Zona Leste de Manaus, na manhã deste sábado (26). Ao lado",
-      "category": "Política"
-    },
-    {
-      "title": "Quaest: Helder lidera disputa pelo Senado no PA; 2ª vaga tem empate técnico",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-helder-lidera-disputa-pelo-senado-no-pa-2a-vaga-tem-empate-tecnico/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:16:26+00:00",
-      "summary": "Foram ouvidos 804 eleitores entre os dias 22 e 25 de setembro; margem de erro é 3 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-      "category": "Política"
-    },
-    {
-      "title": "1h. Livre acusa Governo de \"falta de respeito institucional\"",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2396/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-27T00:15:16+00:00",
-      "summary": "A co-porta-voz do Livre, Isabel Mendes Lopes, acusa o Executivo de estar já a condicionar o debate orçamental. Ainda, André Ventura deixa críticas a Donald Trump em relação à guerra contra o Irão.",
-      "category": "Política"
-    },
-    {
-      "title": "Corpo do deputado Amilton Filho é enterrado sob forte comoção em Anápolis",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/09/26/corpo-do-deputado-amilton-filho-e-enterrado-sob-forte-comocao-em-anapolis.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:12:20+00:00",
-      "summary": "Corpo do deputado Amilton Filho é enterrado sob forte comoção em Anápolis O corpo do deputado estadual Amilton Filho (MDB), de 41 anos, morto em um acidente na BR-050, foi sepultado sob forte comoção no cemitério São Miguel, em Anápolis, neste sábado (26). O corpo foi transportado em um caminhão do Corpo de Bombeiros d",
-      "category": "Mundo"
-    },
-    {
-      "title": "Justiça Eleitoral confirma que não houve censura pela TV Liberal contra coligação 'O Pará Tá Junto'",
-      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/justica-eleitoral-confirma-que-nao-houve-censura-pela-tv-liberal-contra-coligacao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:11:08+00:00",
-      "summary": "Justiça Eleitoral confirma que não houve censura da TV Liberal contra coligação A coligação O Pará Tá Junto publicou neste sábado (26) uma nota nas redes sociais alegando que a TV Liberal teria censurado a exibição de um material no horário eleitoral gratuito. De acordo com a Justiça Eleitoral, não houve censura indevi",
-      "category": "Esportes"
-    },
-    {
-      "title": "Leão XIV reúne multidão em Paris e vê sinais de renovação do catolicismo na França",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/26/leao-xiv-reune-multidao-em-paris-e-ve-sinais-de-renovacao-do-catolicismo-na-franca.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:10:51+00:00",
-      "summary": "Leão XIV reza missa para 700 mil em Paris Uma multidão tomou as ruas de Paris neste sábado (26) para acompanhar a visita do papa Leão XIV. Crianças e bebês foram levados até o papamóvel para receber a bênção, enquanto fiéis gritavam “Leão, Leão” durante a passagem do pontífice. 📱Favorite o g1 no Google e acompanhe as p",
-      "category": "Mundo"
-    },
-    {
-      "title": "Inter Invest Summit: Política fiscal é entrave para queda dos juros",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/inter-invest-summit-politica-fiscal-e-entrave-para-queda-dos-juros/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:08:36+00:00",
-      "summary": "O evento debateu, em Belo Horizonte, os impactos do cenário fiscal brasileiro na trajetória da Selic e na saúde financeira das famílias",
-      "category": "Economia"
-    },
-    {
-      "title": "Eleições 2026: Cabo Daciolo promete investir R$ 2 bilhões no agro e gerar 75 mil empregos no Amazonas",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/26/eleicoes-2026-cabo-daciolo-promete-investir-r-2-bilhoes-no-agro-e-gerar-75-mil-empregos-no-amazonas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:05:18+00:00",
-      "summary": "Cabo Daciolo promete investir R$ 2 bilhões no agro e gerar 75 mil empregos no Amazonas. Reprodução/Rede Amazônica O candidato ao governo do Amazonas Cabo Daciolo (Mobiliza) cumpriu agenda neste sábado (26) e falou sobre propostas para ampliar investimentos no agronegócio no estado. Segundo ele, o setor ainda recebe pou",
-      "category": "Política"
-    },
-    {
-      "title": "Tarifas, investimentos e terras raras: Trump e Xi Jinping chegam a acordos após encontro na ONU",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/26/tarifas-investimentos-e-terras-raras-trump-e-xi-jinping-chegam-a-acordos-apos-encontro-na-onu.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-27T00:01:29+00:00",
-      "summary": "EUA e China anunciam acordo de redução de tarifas Um dia depois do encontro entre Donald Trump e Xi Jinping, a Casa Branca divulgou os resultados da reunião. Os dois países chegaram a um consenso sobre um tratamento tarifário mais favorável para US$ 30 bilhões em produtos não estratégicos de cada lado e criaram um cons",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem é assassinado a tiros em região entre João Pessoa e Bayeux",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/26/homem-e-assassinado-a-tiros-em-regiao-entre-joao-pessoa-e-bayeux.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-26T23:58:23+00:00",
-      "summary": "Homem é assassinado a tiros em região entre João Pessoa e Bayeux Divulgação/Flávio Fernandes Um homem de 50 anos de idade foi assassinado a tiros na noite deste sábado (26), na Ilha do Bispo, em João Pessoa, próximo ao limite com Bayeux. De acordo com a Polícia Civil, o corpo da vítima foi encontrado após moradores ouv",
-      "category": "Mundo"
-    },
-    {
-      "title": "Presos estrangeiros tentam fugir de presídio em Bangu e são recapturados",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/presos-estrangeiros-tentam-fugir-de-presidio-em-bangu-e-sao-recapturados/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-26T23:58:06+00:00",
-      "summary": "Internos renderam um agente e pularam muro de unidade prisional antes de serem detidos na Zona Oeste do Rio",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quaest: no Pará, Lula tem 40% e Flávio Bolsonaro, 35% no 1º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-no-para-lula-tem-40-e-flavio-bolsonaro-35-no-1o-turno/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-26T23:53:06+00:00",
-      "summary": "Levantamento entrevistou 804 eleitores no estado, entre os dias 22 e 25 de setembro; margem de erro é de três pontos percentuais, para mais ou para menos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Datafolha: avaliação negativa do Congresso é de 37%; positiva é de 18%",
-      "url": "https://www.cnnbrasil.com.br/politica/datafolha-avaliacao-negativa-do-congresso-e-de-37-positiva-e-de-18/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-26T23:46:37+00:00",
-      "summary": "Foram ouvidas 2.002 pessoas entre os dias 22 e 24 de setembro; margem de erro é 2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-      "category": "Política"
-    },
-    {
-      "title": "Haddad sobre bets: “Não temos vergonha de fazer justiça social”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/haddad-sobre-bets-nao-temos-vergonha-de-fazer-justica-social/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-26T23:43:14+00:00",
-      "summary": "Candidato ao governo paulista discursou durante caminhada com apoiadores na Zona Leste de São Paulo",
-      "category": "Política"
-    },
-    {
-      "title": "Datafolha: 47% avaliam trabalho do STF como negativo",
-      "url": "https://www.cnnbrasil.com.br/politica/datafolha-47-avaliam-trabalho-do-stf-como-negativo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-26T23:39:09+00:00",
-      "summary": "Pesquisa ouviu 2.002 eleitores paulistas entre 22 e 23 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "category": "Política"
-    },
-    {
-      "title": "Jacquin reaparece após emergência no coração: “Depois do susto, voltei”",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/jacquin-reaparece-apos-emergencia-no-coracao-depois-do-susto-voltei/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-26T23:37:40+00:00",
-      "summary": "Chef de 61 anos passou por cirurgia no coração com a colocação de três stents no início da semana",
-      "category": "Mundo"
-    },
-    {
-      "title": "Turista colombiano é vítima do golpe do “Boa noite Cinderela” no Rio",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/turista-colombiano-e-vitima-do-golpe-do-boa-noite-cinderela-no-rio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-26T23:37:12+00:00",
-      "summary": "Agentes da Delegacia Especial de Apoio ao Turismo (DEAT) apreenderam copos de bebida e medicamentos em veículo",
-      "category": "Esportes"
-    },
-    {
-      "title": "23h Centeno desafia PM: \"o que é que ele sabe que nós não sabemos?\"",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-centeno-desafia-pm-o-que-e-que-ele-sabe-que-nos-nao-sabemos_a1_1767967",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:27:04+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Os falsos pretextos de Francisco Assis",
-      "url": "https://observador.pt/opiniao/os-falsos-pretextos-de-francisco-assis/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:25:07+00:00",
-      "summary": "A triste exibição de Costa acabou por confirmar linha a linha a crítica que fiz, e faço, a Francisco Assis, ao sentido do seu voto e ao partido a que ambos pertencem",
-      "category": "Política"
-    },
-    {
-      "title": "As palavras na política: Seinfeld, fascismo e ONU",
-      "url": "https://observador.pt/opiniao/as-palavras-na-politica-seinfeld-fascismo-e-onu/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:23:48+00:00",
-      "summary": "A ONU pode pouco? Realmente pode. Significativamente Xi ainda foi mais imperial a lidar com a ONU do que Trump",
-      "category": "Mundo"
-    },
-    {
-      "title": "Um mundo que desaba sem que outro surja",
-      "url": "https://observador.pt/opiniao/um-mundo-que-desaba-sem-que-outro-surja/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:22:17+00:00",
-      "summary": "Sobre Guterres que nos embaraça, a relevância de Portugal que pode ser procurada em organizações regionais longe da Europa ao invés de no Conselho de Segurança, mais o acordo EUA/Dinamarca de 1941.",
-      "category": "Economia"
-    },
-    {
-      "title": "Queríamos ser ofendidos",
-      "url": "https://observador.pt/opiniao/queriamos-ser-ofendidos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:20:00+00:00",
-      "summary": "Queríamos “religião & punk rock” em modo de intifada global porque o país merecia. Mas havia umas excepções. O Jorge Palma.",
-      "category": "Mundo"
-    },
-    {
-      "title": "As notícias das 00h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2431/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:15:49+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Hoje (quase) todos criam apps. E têm clientes?",
-      "url": "https://observador.pt/opiniao/hoje-quase-todos-criam-apps-e-tem-clientes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:13:14+00:00",
-      "summary": "Num fim-de-semana, podemos criar a aplicação perfeita para gerir restaurantes, organizar equipas, um CRM para pequenas empresas. Mas depois vem a segunda-feira. E alguém tem de comprar.",
-      "category": "Economia"
-    },
-    {
-      "title": "A IA, o marxismo tuga e o capitalismo chinês",
-      "url": "https://observador.pt/opiniao/a-inteligencia-artificial-o-marxismo-tuga-e-o-capitalismo-chines/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:11:08+00:00",
-      "summary": "O capitalismo só é mau e está condenado a desaparecer se for ocidental. Se for chinês é magnífico.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Portugal na segunda divisão da IA",
-      "url": "https://observador.pt/opiniao/portugal-na-segunda-divisao-da-ia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:08:48+00:00",
-      "summary": "A IA entra pela porta da educação. Em Portugal, a escola ainda discute se deve proibir a IA nos trabalhos de casa, em vez de ensinar a usá-la bem.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "O “Dia Internacional da Pessoa Idosa” já é para mim?",
-      "url": "https://observador.pt/opiniao/o-dia-internacional-da-pessoa-idosa-ainda-nao-e-para-mim-ou-sera-que-ja-e/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:07:43+00:00",
-      "summary": "Neste dia 1 de outubro, recorde-se que não há qualquer justificação para associarmos a ideia de “pessoa madura” à condição de adulto e de “pessoa deficitária” à condição de idoso.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Os problemas que o PISA só confirmou",
-      "url": "https://observador.pt/opiniao/os-problemas-que-o-pisa-so-confirmou/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T23:06:13+00:00",
-      "summary": "Não é necessário um relatório PISA para sabermos que há um crescente défice nas valências dos alunos: nas ciências, na matemática, na compreensão da cidadania e na formação cívica.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "\"Jones\"é a nova série da RTP",
-      "url": "https://www.rtp.pt/noticias/cultura/jonese-a-nova-serie-da-rtp_v1767966",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T22:37:47+00:00",
-      "summary": "A RTP1 estreia na próxima segunda-feira a produção \"Jones\". Um enredo policial cheio de mistério e fenómenos sobrenaturais.",
-      "category": "Mundo"
-    },
-    {
-      "title": "22h Centeno desafia PM a explicar a real situação económica",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-centeno-desafia-pm-a-explicar-a-real-situacao-economica_a1_1767964",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T22:23:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Espanha opera reviravolta e bate Inglaterra",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/espanha-opera-reviravolta-e-bate-inglaterra_d1767963",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T22:14:41+00:00",
-      "summary": "A Espanha venceu a Inglaterra por 3-2 em pleno Estádio de Wembley, num jogo repleto de reviravoltas a contar para a Liga das Nações.",
+      "publishedAt": "2026-09-26T22:13:00+00:00",
+      "summary": "Neste sábado (26), o São Paulo se encontrou com a história na Neo Química Arena. As Soberanas viraram sobre o Corinthians por 2 a 1, na partida de ida da final do Campeonato Brasileiro Feminino A1, que teve transmissão ao vivo da TV Brasil. O resultado representou a primeira derrota da equipe feminina do Timão no estád",
       "category": "Esportes"
     },
     {
@@ -387,60 +450,6 @@
       "publishedAt": "2026-09-26T21:56:00+00:00",
       "summary": "A menos de oito dias para o primeiro turno das eleições, o eleitor deve lembrar de conferir o local de votação, uma vez que sua seção pode ter mudado de endereço desde o último pleito, alerta o Tribunal Superior Eleitoral (TSE). No caso dos eleitores de primeira viagem, é preciso descobrir onde fica a zona e a seção el",
       "category": "Política"
-    },
-    {
-      "title": "21h Chega quer CPI a Luís Neves antes da discussão sobre Orçamento do Estado",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-chega-quer-cpi-a-luis-neves-antes-da-discussao-sobre-orcamento-do-estado_a1_1767962",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T21:31:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Funeral da bombeira que morreu no combate a um incêndio decorreu este sábado em Resende",
-      "url": "https://www.rtp.pt/noticias/pais/funeral-da-bombeira-que-morreu-no-combate-a-um-incendio-decorreu-este-sabado-em-resende_v1767961",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T21:11:47+00:00",
-      "summary": "A jovem de 24 anos foi atingida por uma árvore de grande porte e ainda foi socorrida, mas não resistiu aos ferimentos e morreu na madrugada de sexta-feira no hospital de Lamego. Nas cerimónias funebres, centenas de pessoas e a corporação de Resende prestaram a última homenagem a Maria João Carneiro.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Esquerda critica políticas de habitação do Governo Montenegro",
-      "url": "https://www.rtp.pt/noticias/politica/esquerda-critica-politicas-de-habitacao-do-governo-montenegro_v1767960",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T21:09:46+00:00",
-      "summary": "Representantes do Livre e do PCP estiveram esta tarde na Feira da Luz, em Lisboa. Criticaram o Governo e manifestaram preocupação com a falta de medidas para a habitação, antecipando a discussão parlamentar da Lei do Arrendamento.",
-      "category": "Política"
-    },
-    {
-      "title": "Polícia despejou Maricarmen. Madrilenos saíram à rua contra fundos imobiliários",
-      "url": "https://www.rtp.pt/noticias/mundo/policia-despejou-maricarmen-madrilenos-sairam-a-rua-contra-fundos-imobiliarios_v1767959",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T21:08:47+00:00",
-      "summary": "Milhares de pessoas manifestaram-se em Madrid contra os despejos e a falta de habitação. Na base do protesto esteve a história de Maricarmen Abascal, despejada do apartamento onde vivia desde 1956.",
-      "category": "Mundo"
-    },
-    {
-      "title": "PCP sem expectativas acerca da proposta do Governo apela a \"política de ferro e fogo\"",
-      "url": "https://www.rtp.pt/noticias/economia/pcp-sem-expectativas-acerca-da-proposta-do-governo-apela-a-politica-de-ferro-e-fogo_n1767947",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T21:01:51+00:00",
-      "summary": "O secretário-geral do PCP afirmou hoje ter \"expectativa zero\" acerca da proposta de Orçamento do Estado para 2027 do Governo e apelou a uma \"política de ferro e fogo\" contra o aumento do custo de vida.",
-      "category": "Política"
-    },
-    {
-      "title": "Perto de um milhão na missa do papa na Praça da Concórdia",
-      "url": "https://www.rtp.pt/noticias/mundo/perto-de-um-milhao-na-missa-do-papa-na-praca-da-concordia_v1767958",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-26T20:58:47+00:00",
-      "summary": "Leão XIV afirmou que há uma \"sede de sentido, de verdade e de realização que habita o coração de cada um\". O chefe da Igreja Católica chegou ao fim da tarde a Lourdes, um dos maiores santuários do mundo.",
-      "category": "Mundo"
     },
     {
       "title": "Brasil conquista três ouros no Mundial Paralímpico de Judô",
@@ -512,15 +521,6 @@
       "region": "Brasil",
       "publishedAt": "2026-09-26T15:15:00+00:00",
       "summary": "O eleitor poderá escolher até seis candidatos no 1º turno das Eleições 2026 , que serão realizadas no próximo domingo, dia 4 de outubro. Cada cargo é identificado por uma sequência numérica: para votar em deputado federal, é necessário teclar 4 dígitos na urna eletrônica. Para deputado estadual, são 5 números. Para sen",
-      "category": "Política"
-    },
-    {
-      "title": "STF condena Eduardo Bolsonaro por difamar deputada Tábata Amaral",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-condena-eduardo-bolsonaro-por-difamar-deputada-tabata-amaral",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-26T14:35:00+00:00",
-      "summary": "O plenário do Supremo Tribunal Federal (STF) decidiu condenar, por 7 votos a 3, o ex-deputado Eduardo Bolsonaro (PL-SP) a um ano de detenção, mais multa de R$ 80 mil, por ter difamado a deputada Tabata Amaral (PSB-SP). O julgamento foi realizado em plenário virtual, prevalecendo ao final o entendimento do relator, mini",
       "category": "Política"
     }
   ],
