@@ -1,302 +1,455 @@
 {
-  "updatedAt": "2026-09-29T01:54:27.960753+00:00",
+  "updatedAt": "2026-09-29T08:26:02.896191+00:00",
   "items": [
     {
-      "title": "2h PS e Chega dizem que OE27 não inclui apoios às famílias",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ps-e-chega-dizem-que-oe27-nao-inclui-apoios-as-familias_a1_1768330",
+      "title": "Trump critica libertação de suspeitos de planear ataque a base no Reino Unido",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-critica-libertacao-de-suspeitos-de-planear-ataque-a-base-no-reino-unido_n1768379",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-29T02:32:01+00:00",
+      "publishedAt": "2026-09-29T09:25:40+00:00",
+      "summary": "Donald Trump afirmou esta segunda-feira que \"não teria libertado\" os cinco britânicos detidos no domingo perto de uma base militar em Inglaterra utilizada pelo exército norte-americano, e que foram libertados sob fiança.",
+      "category": "Mundo"
+    },
+    {
+      "title": "9h Dia de protestos em França",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/9h-dia-de-protestos-em-franca_a1_1768382",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T09:24:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "01h Governo espera que não haja necessidade de racionamento de combustível",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-governo-espera-que-nao-haja-necessidade-de-racionamento-de-combustivel_a1_1768328",
+      "title": "8h Dia de protestos em França",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/8h-dia-de-protestos-em-franca_a1_1768381",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-29T02:06:02+00:00",
+      "publishedAt": "2026-09-29T09:22:03+00:00",
       "summary": "",
-      "category": "Política"
+      "category": "Mundo"
     },
     {
-      "title": "Sucuri de cinco metros é flagrada com a barriga cheia em córrego e surpreende família em MS; veja vídeo",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/28/sucuri-de-cinco-metros-e-flagrada-com-a-barriga-cheia-em-corrego-e-surpreende-familia-em-ms-veja-video.ghtml",
+      "title": "Portugal vitorioso com Jesus tenta ficar perto do apuramento em Copenhaga",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-vitorioso-com-jesus-tenta-ficar-perto-do-apuramento-em-copenhaga_d1768377",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:53:12+00:00",
+      "summary": "A seleção portuguesa, detentora do título da Liga das Nações de futebol, pode na quinta-feira ficar a um passo do apuramento caso consiga manter o registo 100% vitorioso no Grupo A4, na deslocação à Dinamarca.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Seleção portuguesa treina em Malmo com Conceição em dúvida",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/selecao-portuguesa-treina-em-malmo-com-conceicao-em-duvida_d1768376",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:36:01+00:00",
+      "summary": "A seleção portuguesa continua hoje a preparar o duelo de quinta-feira com a Dinamarca, da Liga das Nações de futebol, com novo treino em Malmo, na Suécia, com o extremo Francisco Conceição em dúvida.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Irão aceita travar programa nuclear em troca de alívio de sanções dos EUA",
+      "url": "https://www.rtp.pt/noticias/mundo/irao-aceita-travar-programa-nuclear-em-troca-de-alivio-de-sancoes-dos-eua_v1768374",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:33:47+00:00",
+      "summary": "O Irão admite suspender o enriquecimento de urânio se os Estados Unidos aliviarem as sanções económicas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ucrânia. Mais de 80 feridos em nova vaga de ataques russos",
+      "url": "https://www.rtp.pt/noticias/mundo/ucrania-mais-de-80-feridos-em-nova-vaga-de-ataques-russos_v1768373",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:29:47+00:00",
+      "summary": "Um ataque russo ao distrito de Shevchenkivskyi, em Kiev, fez pelo menos um morto e sete feridos, atingindo um edifício da Academia Nacional de Ciências e provocando um incêndio de grandes proporções.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Libertação de suspeitos de ataque a base aérea no Reino Unido surpreende Trump",
+      "url": "https://www.rtp.pt/noticias/mundo/libertacao-de-suspeitos-de-ataque-a-base-aerea-no-reino-unido-surpreende-trump_v1768371",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:26:47+00:00",
+      "summary": "Donald Trump reagiu com surpresa à libertação, sob fiança, dos cinco suspeitos de planearem um ataque a uma base aérea britânica.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Menina de 2 anos morre após ataque a marteladas enquanto brincava em casa no litoral de SP",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/29/menina-de-2-anos-morre-apos-ataque-a-marteladas-enquanto-brincava-em-casa-no-litoral-de-sp.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T01:37:10+00:00",
-      "summary": "Moradores encontram sucuri de 5 metros com barriga cheia em córrego de MS Com os termômetros “beirando” os 40 °C, um banho no Córrego Amaralina, em Coxim, era uma boa pedida. Foi exatamente o que fizeram o instalador de piscinas Edilson Aparecido, de 33 anos, e a família. Mas, ao chegarem ao local, no domingo (27), ele",
+      "publishedAt": "2026-09-29T08:20:26+00:00",
+      "summary": "Menina de 2 anos morre após ser agredida com martelo em Praia Grande, SP Uma menina de dois anos morreu após ser atacada com golpes de martelo na casa onde morava em Praia Grande, no litoral de São Paulo. A Polícia Civil investiga o irmão dela, de 21 anos, que tem deficiência intelectual e fugiu antes da chegada das au",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "As notícias das 9h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2485/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:19:45+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
-      "title": "Renan Santos, candidato do Missão à Presidência, faz campanha em Vitória (ES)",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/28/renan-santos-candidato-do-missao-a-presidencia-faz-campanha-em-vitoria-es.ghtml",
+      "title": "Voto eletrónico no Brasil apresenta resultados totais em cerca de 3 horas",
+      "url": "https://www.rtp.pt/noticias/mundo/voto-eletronico-no-brasil-apresenta-resultados-totais-em-cerca-de-3-horas_n1768369",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:19:20+00:00",
+      "summary": "No Brasil, há 30 anos que os boletins de voto deixaram de ser em papel. São usadas urnas eletrónicas. As deste ano já estão prontas a serem usadas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "8h Espanha discute hoje medidas para a habitação",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/8h-espanha-discute-hoje-medidas-para-a-habitacao_a1_1768368",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:19:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Trump prevê acordo comercial com Canadá, mas mantém tom crítico",
+      "url": "https://www.rtp.pt/noticias/economia/trump-preve-acordo-comercial-com-canada-mas-mantem-tom-critico_v1768367",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:14:47+00:00",
+      "summary": "Donald Trump mostra-se otimista quanto à assinatura de um novo acordo comercial com o Canadá, mas não poupa nas críticas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "ACNUR alerta para o risco de colapso na assistência por falta de verbas",
+      "url": "https://www.rtp.pt/noticias/mundo/acnur-alerta-para-o-risco-de-colapso-na-assistencia-por-falta-de-verbas_n1768366",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T08:13:00+00:00",
+      "summary": "A ACNUR alerta esta terça-feira para o risco de colapso da assistência a milhões de refugiados. De acordo com o relatório divulgado esta manhã em Genebra, milhões de pessoas podem perder ainda este ano o acesso à ajuda das Nações Unidas por causa da crise financeira em que a agência está.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Análise: EUA querem que mundo escolha um lado em IA, mas China atrai mais",
+      "url": "https://www.cnnbrasil.com.br/noticias/analise-eua-querem-que-mundo-escolha-um-lado-em-ia-mas-china-atrai-mais/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T08:00:50+00:00",
+      "summary": "Iniciativa chinesa atrai dezenas de nações ao oferecer alternativa aberta frente às desenvolvedoras norte-americanas",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Mega-Sena 3064: sorteio desta terça-feira (29) pode pagar R$ 52 milhões",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3064/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T08:00:47+00:00",
+      "summary": "Para concorrer, apostadores devem registrar seus jogos até às 20h",
+      "category": "Esportes"
+    },
+    {
+      "title": "Lula e Flávio concentram disputa em reta final do 1º turno em SP, MG e RJ",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-e-flavio-concentram-disputa-em-reta-final-do-1o-turno-em-sp-mg-e-rj/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T08:00:37+00:00",
+      "summary": "Maiores colégios eleitorais do país são foco dos candidatos que lideram as pesquisas de intenções de votos em última semana antes de pleito",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "À CNN, Cris Cyborg aponta entretenimento como caminho para o futuro do MMA",
+      "url": "https://www.cnnbrasil.com.br/esportes/lutas/a-cnn-cris-cyborg-aponta-entretenimento-como-caminho-para-o-futuro-do-mma/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T08:00:21+00:00",
+      "summary": "Lutadora histórica do MMA feminino afirma que o entretenimento já provocou mudanças no esporte, como a chegada de um maior “público familiar”",
+      "category": "Esportes"
+    },
+    {
+      "title": "Espanha x Croácia: horário e onde assistir ao jogo da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/espanha-x-croacia-horario-e-onde-assistir-ao-jogo-da-nations-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T08:00:20+00:00",
+      "summary": "Seleções se enfrentam nesta terça-feira (29), às 15h45, pela segunda rodada da competição do Grupo A3",
+      "category": "Esportes"
+    },
+    {
+      "title": "Onça-parda transferida para parque ambiental no AC ganha novo nome e passa por adaptação",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/09/29/onca-parda-transferida-para-parque-ambiental-no-ac-ganha-novo-nome-e-passa-por-adaptacao.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T01:33:54+00:00",
-      "summary": "Renan Santos, Missão, fez campanha em Vitória O candidato Renan Santos, do Missão, fez na noite desta segunda-feira (28) um discurso para eleitores no Centro de Vitória. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Ao sair do hotel, Renan Santos falou com jornalistas. Ele defendeu investimentos em",
+      "publishedAt": "2026-09-29T08:00:01+00:00",
+      "summary": "Onça-parda passa por período de adaptação e até já ganhou um novo nome 🐾☀️ Uma onça-parda macho que chegou ao Parque Ambiental Chico Mendes, em Rio Branco, para integrar o programa de conservação da espécie ganhou um novo nome e já começou a se adaptar ao recinto. Antes chamado de Guapo, o animal agora se chama Apolo, ",
       "category": "Mundo"
     },
     {
-      "title": "Ex-galã de “Malhação”, Ronny Kriwatt mostra filho em viagem",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/ex-gala-de-malhacao-ronny-kriwatt-mostra-filho-em-viagem/",
-      "source": "CNN Brasil",
+      "title": "Água custa mais caro que cerveja na Oktoberfest em Munique, na Alemanha",
+      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/09/29/agua-custa-mais-caro-que-cerveja-na-oktoberfest-em-munique-na-alemanha.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T01:31:38+00:00",
-      "summary": "Ex-ator viajou com a esposa Tatiana para um casamento em Barcelona, na Espanha, onde registrou o pequeno",
-      "category": "Mundo"
-    },
-    {
-      "title": "Análise: Petróleo sobe depois de Trump rejeitar acordo de paz",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/analise-petroleo-sobe-depois-de-trump-rejeitar-acordo-de-paz/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:28:27+00:00",
-      "summary": "Brent fechou acima de US$ 105 e Wall Street recuou e o Ibovespa caiu 0,26% em dia marcado por cautela eleitoral; a analista de Economia da CNN Lucinda Pinto comenta o tema ao CNN Prime Time",
+      "publishedAt": "2026-09-29T08:00:00+00:00",
+      "summary": "Com muita cerveja, Oktoberfest 2025 começa neste sábado na Alemanha Neste ano, em algumas áreas da Oktoberfest, visitantes pagam mais por um litro de água do que pela mesma quantidade de cerveja. A diferença reacende o debate sobre o preço das bebidas na maior festa popular da Alemanha. Quem pretende evitar o álcool du",
       "category": "Economia"
     },
     {
-      "title": "Flávio Bolsonaro, candidato à Presidência pelo PL, faz campanha em São Paulo",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/28/flavio-bolsonaro-candidato-a-presidencia-pelo-pl-faz-campanha-em-sao-paulo.ghtml",
+      "title": "Caso Gustavo: entenda os crimes atribuídos ao pai e a madrasta",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/29/caso-gustavo-entenda-os-crimes-atribuidos-ao-pai-e-a-madrasta.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T01:28:03+00:00",
-      "summary": "Flávio Bolsonaro, PL, fez campanha em São Paulo Flávio Bolsonaro, do PL, fez campanha em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia O primeiro compromisso de Flávio Bolsonaro foi na região do Brás, o maior polo de comércio popular do Brasil. Ele entrou em uma galeria com cerca de 600 ",
+      "publishedAt": "2026-09-29T08:00:00+00:00",
+      "summary": "Polícia Civil conclui investigação sobre a morte de menino de três anos O advogado Igor Veloso de Sousa e a companheira dele, Kathellen Moreira, foram indiciados pela morte de Gustavo Veloso Feitosa, de 3 anos, em Palmas. Segundo a Polícia Civil, os dois vão responder por vicaricídio e fraude processual. Igor, que é pa",
       "category": "Mundo"
     },
     {
-      "title": "Assista ao JAM 2 ao vivo",
-      "url": "https://g1.globo.com/am/amazonas/ao-vivo/assista-ao-jam2-ao-vivo.ghtml",
+      "title": "Caetano Veloso e Maria Bethânia são destaques do 'line-up' da quarta edição carioca do festival 'Clássicos do Brasil'",
+      "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/29/caetano-veloso-e-maria-bethania-sao-destaques-do-line-up-da-quarta-edicao-carioca-do-festival-classicos-do-brasil.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T01:25:00+00:00",
-      "summary": "Assista ao JAM 2 ao vivo g1 AM transmite, de segunda a sábado, o JAM1 e o JAM2 Fique ligado: g1 transmite ao vivo os telejornais JAM 1, às 10h45, e JAM2, às 18h05.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Augusto Cury, candidato à Presidência pelo Avante, faz campanha em São Paulo",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/28/augusto-cury-candidato-a-presidencia-pelo-avante-faz-campanha-em-sao-paulo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:24:29+00:00",
-      "summary": "Augusto Cury, do Avante, cumpriu agenda em São Paulo O candidato do Avante, Augusto Cury, esteve em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Augusto Cury se reuniu com executivos de um banco na Avenida Faria Lima pela manhã. Na saída, cumprimentou eleitores, tirou fotos e falou com ",
-      "category": "Mundo"
-    },
-    {
-      "title": "A menor bombeira do mundo tem 147 centímetros e recorde comprovado pelo Guinness: ‘Subo no que precisar’",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/menor-bombeira-mundo-recorde-guinness/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:22:36+00:00",
-      "summary": "Autumn Kelso, do Corpo de Bombeiros de St. Pete Beach, nos Estados Unidos, diz que sua baixa estatura até rende piadas, mas não a atrapalha no trabalho",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mulher que ficou ferida em acidente com ônibus na BA será transferida para o TO; filha será enterrada em Palmas",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/28/mulher-que-ficou-ferida-em-acidente-com-onibus-na-ba-sera-transferida-para-o-to-filha-sera-enterrada-em-palmas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:20:28+00:00",
-      "summary": "Mãe que perdeu filha em acidente com ônibus na Bahia deve ser transferida para Palmas Graciele de Melo Lima de Moraes, de 23 anos, que sobreviveu a um acidente com um ônibus na Bahia, será transferida para Palmas em uma ambulância com Unidade de Terapia Intensiva (UTI) móvel. Segundo o esposo dela, Jucinei Moraes, o ve",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ronaldo Caiado, candidato do PSD à Presidência, faz campanha em Goiânia",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/28/ronaldo-caiado-candidato-do-psd-a-presidencia-faz-campanha-em-goiania.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:19:52+00:00",
-      "summary": "Ronaldo Caiado, PSD, fez campanha em Goiânia O candidato Ronaldo Caiado, do PSD, ficou em Goiânia. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Pela manhã, Ronaldo Caiado participou de uma caminhada no bairro Jardim Guanabara, conhecido por abrigar o maior parque de indústrias moveleiras da cidade",
-      "category": "Mundo"
-    },
-    {
-      "title": "Criança leva pistola carregada para creche nos EUA; responsável foi preso",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/28/crianca-leva-pistola-carregada-para-creche-nos-eua-responsavel-foi-preso.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:19:24+00:00",
-      "summary": "IMAGEM ILUSTRATIVA: Pistola Pixabay Uma criança pequena levou uma arma carregada para uma creche no estado de Michigan, nos Estados Unidos, nesta segunda-feira (28). Segundo as autoridades, a criança chegou a retirar a pistola de dentro de uma mochila. Um dos pais foi detido. 📱Favorite o g1 no Google e acompanhe as pri",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lula: “Enquanto eu for presidente, ninguém vai avacalhar com Nossa Senhora”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-enquanto-eu-for-presidente-ninguem-vai-avacalhar-com-nossa-senhora/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:19:16+00:00",
-      "summary": "Candidato à reeleição recebeu a imagem de Nossa Senhora de Nazaré no fim do ato de campanha e a ergueu ao público de Belém",
-      "category": "Política"
-    },
-    {
-      "title": "2h. Zelensky diz que Coreia do Norte vai reforçar Rússia",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2425/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T01:15:39+00:00",
-      "summary": "Presidente da Ucrânia considera que a Rússia está incapaz de travar uma guerra sem reforços da Coreia do Norte. Ainda, foram encontrados os corpos dos dois trabalhadores soterrados em Porto Covo.",
-      "category": "Política"
-    },
-    {
-      "title": "Presidente Lula, candidato à reeleição pelo PT, cumpre agenda em Belém",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/28/presidente-lula-candidato-a-reeleicao-pelo-pt-cumpre-agenda-em-belem.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:15:11+00:00",
-      "summary": "O presidente Lula, candidato à reeleição pelo PT, teve agenda em Belém O Jornal Nacional mostrou como foi o dia dos candidatos à Presidência da República nesta segunda-feira (28). O presidente Lula, que concorre à reeleição pelo PT, teve agenda em Belém. 📱Favorite o g1 no Google e acompanhe as principais notícias do di",
-      "category": "Política"
-    },
-    {
-      "title": "Lula diz que 'ninguém vai avacalhar com Nossa Senhora Aparecida' enquanto ele for presidente",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/lula-diz-que-ninguem-vai-avacalhar-com-nossa-senhora-aparecida-enquanto-ele-for-presidente.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:14:51+00:00",
-      "summary": "Presidente Luiz Inácio Lula da Silva (PT) durante ato de campanha em Belém (PA) Foto: Ricardo Stuckert. O presidente Luiz Inácio Lula da Silva (PT) disse nesta segunda-feira (28) que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República. Lula deu a declaração durante um evento de ",
-      "category": "Política"
-    },
-    {
-      "title": "Empresário de 39 anos morre em acidente na RJ-148, entre Nova Friburgo e Sumidouro",
-      "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/28/empresario-de-39-anos-morre-em-acidente-na-rj-148-entre-nova-friburgo-e-sumidouro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:11:40+00:00",
-      "summary": "O empresário Thiago da Silva Rodrigues, de 39 anos, morreu após acidente na RJ-148, entre Nova Friburgo e Sumidouro Reprodução redes sociais Um empresário de 39 anos morreu em um acidente na RJ-148, rodovia que liga Nova Friburgo a Sumidouro, na Região Serrana do Rio. O acidente aconteceu na noite de domingo (27), por ",
-      "category": "Esportes"
-    },
-    {
-      "title": "OpenAI cancela lançamento de novo modelo de IA por preocupações de segurança",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/28/openai-abandona-lancamento-de-novo-modelo-de-ia-por-preocupacoes-de-seguranca.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:08:48+00:00",
-      "summary": "O logotipo da OpenAI é visto em um telefone celular em frente a uma tela de computador que exibe a tela inicial do ChatGPT AP/Michael Dwyer, Arquivo A OpenAI, criadora do ChatGPT, afirmou nesta segunda-feira (28) que cancelou o lançamento do GPT-6.1 Astra, um modelo de inteligência artificial de próxima geração que ser",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Amigas de longa data, Paula Fernandes reencontra Shania Twain: “Referência”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/amigas-de-longa-data-paula-fernandes-reencontra-shania-twain-referencia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T01:06:39+00:00",
-      "summary": "Cantora sertaneja esteve no interior paulista a convite da estrela canadense para relembrar histórias e falar sobre a paixão por cavalos",
+      "publishedAt": "2026-09-29T08:00:00+00:00",
+      "summary": "Montagem com fotos dos 12 artistas que compõem o 'line-up' da quarta edição carioca do festival 'Clássicos do Brasil' Divulgação / Clássicos do Brasil ♫ NOTÍCIA ♬ Maria Bethânia é a atração de abertura da quarta edição carioca do festival “Clássicos do Brasil”, programada para acontecer em dois finais de semana – 28 e ",
       "category": "Cultura"
     },
     {
-      "title": "Waack: Guerra no STF arrasta Tribunal Eleitoral para crise",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/waack-guerra-no-stf-arrasta-tribunal-eleitoral-para-crise/",
-      "source": "CNN Brasil",
+      "title": "Homem mata a ex-mulher para ficar com parte de imóvel, mas Justiça impede transferência do usufruto em MG",
+      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/29/homem-mata-a-ex-mulher-para-ficar-com-parte-de-imovel-mas-justica-impede-transferencia-do-usufruto-em-mg.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T01:02:55+00:00",
-      "summary": "Nesse contexto que a ala de força dentro do Supremo aposta na reeleição do presidente Luiz Inácio Lula da Silva (PT) como fator promordial da própria sobrevivência",
+      "publishedAt": "2026-09-29T08:00:00+00:00",
+      "summary": "A decisão é da 21ª Câmara Cível do Tribunal de Justiça de Minas Gerais (TJMG), em Piumhi Simone Marques/TJMG Um homem condenado por matar a ex-esposa não poderá ficar com a parte dela de um imóvel em Piumhi, no Centro-Oeste de Minas Gerais. Segundo a decisão da Justiça, o réu assassinou a ex-companheira com o intuito d",
       "category": "Política"
     },
     {
-      "title": "Corinthians renova contrato do marroquino Zakaria Labyad; veja detalhes",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-renova-contrato-do-marroquino-zakaria-labyad-veja-detalhes/",
-      "source": "CNN Brasil",
+      "title": "VÍDEO: Criminosos invadem pizzaria e passam 12 minutos tentando quebrar parede para acessar loja vizinha MG",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/29/video-criminosos-invadem-pizzaria-e-passam-12-minutos-tentando-quebrar-parede-para-acessar-loja-vizinha-mg.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T00:58:23+00:00",
-      "summary": "Meia se recupera de grave lesão que sofreu, e só deve voltar a atuar no início da temporada de 2027",
-      "category": "Clima"
+      "publishedAt": "2026-09-29T08:00:00+00:00",
+      "summary": "Criminosos invadem pizzaria e tentam quebrar parede para acessar loja vizinha MG Uma pizzaria foi invadida e furtada na noite de sábado (26), no bairro Presidente Roosevelt, em Uberlândia, no Triângulo Mineiro. Antes de entrar no comércio, os criminosos abriram um buraco na parede do imóvel para acessar o estabelecimen",
+      "category": "Política"
     },
     {
-      "title": "EUA e Irã conversam com mediadores em nova tentativa de pôr fim à guerra",
-      "url": "https://www.cnnbrasil.com.br/internacional/eua-e-ira-conversam-com-mediadores-em-nova-tentativa-de-por-fim-a-guerra/",
-      "source": "CNN Brasil",
+      "title": "Paciente é presa após fala racista contra técnica de enfermagem em hospital de MG",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/29/paciente-e-presa-apos-fala-racista-contra-tecnica-de-enfermagem-em-hospital-de-mg.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T00:58:23+00:00",
-      "summary": "Autoridades dos países confirmaram as conversas com intermediários; expectativa é de que novas negociações se concentrem na versão revisada da propsota de sete dias que Teerã apresentou na semana passada",
-      "category": "Mundo"
-    },
-    {
-      "title": "Arthur Aguiar recebe ordem de despejo de imóvel de alto padrão em SP",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/arthur-aguiar-recebe-ordem-de-despejo-de-imovel-de-alto-padrao-em-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T00:50:14+00:00",
-      "summary": "Empreendimento em São Paulo conseguiu ordem judicial contra o ex-BBB junto ao Tribunal de Justiça de São Paulo; segundo a decisão, o aluguel era de R$ 59,3 mil mensais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Porto Covo. Encontrados os dois corpos dos trabalhadores soterrados",
-      "url": "https://www.rtp.pt/noticias/pais/porto-covo-encontrados-os-dois-corpos-dos-trabalhadores-soterrados_v1768327",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T00:47:47+00:00",
-      "summary": "Dois trabalhadores morreram ao ficarem soterrados durante uma escavação numa obra em Porto Covo.",
-      "category": "Mundo"
-    },
-    {
-      "title": "“Não tenho ninguém”: A luta de crianças migrantes para permanecer nos EUA",
-      "url": "https://www.cnnbrasil.com.br/internacional/nao-tenho-ninguem-a-luta-de-criancas-migrantes-para-permanecer-nos-eua/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T00:46:41+00:00",
-      "summary": "Menores de idade comparecem a tribunais sozinhos, muitas vezes sem acesso a advogados, e sob o risco de deportação; alguns têm apenas dois anos de idade",
-      "category": "Mundo"
-    },
-    {
-      "title": "Em véspera de negociações. Cerca de 200 agentes da PSP e GNR em protesto no Porto",
-      "url": "https://www.rtp.pt/noticias/pais/em-vespera-de-negociacoes-cerca-de-200-agentes-da-psp-e-gnr-em-protesto-no-porto_v1768326",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T00:45:47+00:00",
-      "summary": "Cerca de duas centenas de agentes da PSP e militares da GNR manifestaram-se esta segunda-feira no Porto.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Por que o The Town convidou Marilyn Manson? Saiba o que diz o festival",
-      "url": "https://www.cnnbrasil.com.br/pop/musica/por-que-o-the-town-convidou-marilyn-manson-saiba-o-que-diz-o-festival/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T00:43:02+00:00",
-      "summary": "Cantor se apresenta na Cidade da Música, no Autódromo de Interlagos, em São Paulo, no dia 4 setembro; Slipknot foi anunciado como atração principal da data",
-      "category": "Cultura"
-    },
-    {
-      "title": "São Paulo atinge um idoso para cada jovem com menos de 15 anos",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-atinge-um-idoso-para-cada-jovem-com-menos-de-15-anos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T00:42:57+00:00",
-      "summary": "Pesquisa da Seade revela que o índice de envelhecimento populacional no estado cresceu quase nove vezes desde a década de 1950",
+      "publishedAt": "2026-09-29T08:00:00+00:00",
+      "summary": "Paciente permaneceu na uidade sob acompanhamento policial Google Street View Uma paciente de 59 anos foi presa em flagrante após cometer uma ofensa racista contra uma técnica de enfermagem, de 21 anos, dentro da Santa Casa de Misericórdia de Patos de Minas, no Alto Paranaíba. O caso foi registrado no sábado (26). Em no",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Menos sal e açúcar, facilitar a amamentação. DGS lança orientações para alimentação nas creches",
-      "url": "https://www.rtp.pt/noticias/pais/menos-sal-e-acucar-facilitar-a-amamentacao-dgs-lanca-orientacoes-para-alimentacao-nas-creches_n1768325",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T00:32:22+00:00",
-      "summary": "A Direção-Geral da Saúde publicou, pela primeira vez, orientações nacionais para a alimentação nas creches e respostas sociais dirigidas a crianças até aos 3 anos, recomendando refeições diversificadas, porções e texturas adequadas à idade e menos alimentos ultraprocessados, açúcar e sal.",
+      "title": "'Ela também é uma vítima': quem é Christa Pike, que pode ser a primeira mulher executada no Tennessee em 200 anos",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/29/ela-tambem-e-uma-vitima-quem-e-christa-pike-que-pode-ser-a-primeira-mulher-executada-no-tennessee-em-200-anos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T08:00:00+00:00",
+      "summary": "Quem é Christa Pike Tennesse Department of Corrections/BBC Ashlee Sellars teve notícias de sua amiga Christa Pike pela última vez no início desta semana, quando Pike lhe enviou uma mensagem de texto de sua cela no corredor da morte, enquanto se prepara para ser executada por injeção letal pelo estado americano do Tenne",
+      "category": "Mundo"
+    },
+    {
+      "title": "Excesso de peso ultrapassa pressão alta e vira o principal fator de risco à saúde do brasileiro",
+      "url": "https://g1.globo.com/saude/noticia/2026/09/29/excesso-de-peso-ultrapassa-pressao-alta-e-vira-o-principal-fator-de-risco-a-saude-do-brasileiro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T08:00:00+00:00",
+      "summary": "Martino Galliano, de 57 anos, passou por uma cirurgia no coração em 2013 e sofreu um infarto em 2022 Arquivo Pessoal O coração de Martino Galliano já passou pelo que o Brasil aprendeu a tratar e pelo que o país ainda não consegue conter. Em 2013, uma cirurgia desobstruiu a artéria que estava 98% fechada, e ele chegou a",
       "category": "Saúde"
     },
     {
-      "title": "0h Porto Covo, foi encontrado sem vida o segundo trabalhador soterrado na obra de um hotel",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-porto-covo-foi-encontrado-sem-vida-o-segundo-trabalhador-soterrado-na-obra-de-um-hotel_a1_1768324",
-      "source": "RTP Notícias",
+      "title": "Raio-X de SP: como gás, transporte, estradas, saneamento e energia se distribuem pelo estado",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/raio-x-de-sp-como-gas-transporte-estradas-saneamento-e-energia-se-distribuem-pelo-estado.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T08:00:00+00:00",
+      "summary": "Centro de São Paulo FERNANDO FERNANDES/Estadão Conteúdo São Paulo é um estado de contrastes. O lugar onde uma pessoa vive pode determinar não apenas quanto tempo ela leva para se deslocar, mas também como tem acesso a serviços básicos como água, esgoto, gás e transporte. A Grande São Paulo concentra metrô, trens, rede ",
+      "category": "Clima"
+    },
+    {
+      "title": "Tensão entre STF e TSE cresce a cinco dias das eleições",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tensao-entre-stf-e-tse-cresce-a-5-dias-das-eleicoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T07:51:54+00:00",
+      "summary": "Divergências entre magistrados sobre remoção de conteúdos expõem crise institucional a poucos dias do primeiro turno",
+      "category": "Política"
+    },
+    {
+      "title": "Prisão preventiva para quatro suspeitos de homicídio",
+      "url": "https://observador.pt/2026/09/29/prisao-preventiva-para-quatro-suspeitos-de-homicidio-no-bairro-da-serafina-em-lisboa/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-29T00:27:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-09-29T07:48:28+00:00",
+      "summary": "As quatro pessoas suspeitas, são dois irmãos com 19 e 25 anos, a mãe de 49 anos e o pai com 54",
       "category": "Mundo"
     },
     {
-      "title": "1h. Porto Covo. Trabalhadores soterrados tinham 28 e 26 anos",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2398/",
+      "title": "Ocorrências nas escolas aumentaram para 4.000 no último ano",
+      "url": "https://observador.pt/2026/09/29/ocorrencias-nas-escolas-aumentaram-para-mais-de-4-000-no-ultimo-ano-letivo-e-psp-aumenta-acoes/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-29T00:15:42+00:00",
-      "summary": "Os dois trabalhadores, estrangeiros, morreram depois de um acidente na obra de construção de um hotel em Porto Covo. Ainda, oposição acusa Governo de insensibilidade no Orçamento do Estado de 2027.",
+      "publishedAt": "2026-09-29T07:46:01+00:00",
+      "summary": "No documento, a PSP escreve que, no ano letivo 2024/25 foram registadas 3.897 ocorrências, das quais 2.791 tiveram cariz criminal e 1.106 tiveram cariz não criminal",
+      "category": "Mundo"
+    },
+    {
+      "title": "A \"sede própria\" correu mal, Lacerda volta à \"praça pública\"",
+      "url": "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/a-sede-propria-correu-mal-lacerda-volta-a-praca-publica/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T07:38:28+00:00",
+      "summary": "O governador do Banco de Portugal (que falou do nosso atraso), Marcelo (que falou sobre as gémeas) e Lacerda Sales (que rejeita a acusação da Justiça) são o Bom, o Mau e o Vilão.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Trump não consegue mobilizar a sua própria base, diz especialista",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-nao-consegue-mobilizar-a-sua-propria-base-diz-especialista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T07:32:17+00:00",
+      "summary": "Ao WW, Clifford Young, presidente da Ipsos, afirma que Donald Trump não mobiliza sua base com apenas 37% de aprovação nas pesquisas",
       "category": "Política"
     },
     {
-      "title": "Governo brasileiro processa bets e pede 168,76 milhões de euros em danos morais coletivos",
-      "url": "https://www.rtp.pt/noticias/economia/governo-brasileiro-processa-bets-e-pede-16876-milhoes-de-euros-em-danos-morais-coletivos_n1768320",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T00:08:59+00:00",
-      "summary": "O Governo brasileiro entrou hoje com uma ação civil pública contra 17 empresas de «bets», pedindo, entre outras medidas, pelo menos mil milhão de reais (168,76 milhões de euros) em danos morais coletivos por vícios dos apostadores.",
+      "title": "Aneel determina plano de emergência para garantir energia nas eleições",
+      "url": "https://www.cnnbrasil.com.br/infra/aneel-determina-plano-de-emergencia-para-garantir-energia-nas-eleicoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T07:30:57+00:00",
+      "summary": "Agência orienta empresas a evitar manutenções nos dias de votação e apuração e alerta para dificuldades no abastecimento de termelétricas em localidades isoladas da Amazônia",
       "category": "Política"
+    },
+    {
+      "title": "Renault Kwid Evolution: como é a versão de entrada do hatch",
+      "url": "https://www.cnnbrasil.com.br/auto/renault-kwid-evolution-como-e-a-versao-de-entrada-do-hatch/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T07:30:40+00:00",
+      "summary": "Com preço de tabela de R$ 82.790, a parte visual frontal mudou e o para-choque frontal ficou mais robusto, com detalhes em preto brilhante na parte superior",
+      "category": "Economia"
+    },
+    {
+      "title": "Último contato de jovem desaparecida há 3 semanas foi com amiga; buscas são encerradas e corpo não é encontrado no RS",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/29/ultimo-contato-jovem-desaparecida-buscas-encerradas-corpo-rs.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T07:30:00+00:00",
+      "summary": "Câmera flagra último momento em que jovem desaparecida foi vista com vida no Litoral do RS O último contato conhecido da motorista de aplicativo desaparecida Gabriela Evaldt Cardoso, de 23 anos, ocorreu por volta das 23h de 6 de setembro. Desde então, a família não recebeu mais informações sobre o paradeiro da jovem. E",
+      "category": "Mundo"
+    },
+    {
+      "title": "OE 2027. Que comecem as negociações",
+      "url": "https://observador.pt/programas/contra-corrente/oe-2027-que-comecem-as-negociacoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T07:27:24+00:00",
+      "summary": "O Governo começou ontem a ronda de reuniões com os partidos para Orçamento do Estado para 2027, com PS e Chega. Hoje prosseguem com os restantes partidos. O que está o Governo disponível para aceitar?",
+      "category": "Política"
+    },
+    {
+      "title": "CR7 troca bolas de ouro por um troll norueguês?",
+      "url": "https://observador.pt/programas/tres-toques/cr7-troca-bolas-de-ouro-por-um-troll-noruegues/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T07:24:21+00:00",
+      "summary": "Um presente insólito norueguês arranca gargalhadas a Cristiano Ronaldo. Já Vozinha lamenta o fim da tranquilidade devido ao reconhecimento público.",
+      "category": "Mundo"
+    },
+    {
+      "title": "\"Aqui o papá não manda nada\" e \"o nome do pai\"",
+      "url": "https://observador.pt/newsletters/360/aqui-o-papa-nao-manda-nada-e-o-nome-do-pai-no-caso-das-gemeas-luso-brasileiras/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T07:21:59+00:00",
+      "summary": "O novo episódio de \"Os Escândalos de uma Revolucionária\". O regresso do caso das gémeas luso-brasileiras que foram tratadas com o medicamento Zolgensma em Santa Maria. E Vasco Vilaça.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Amor a Quim Barreiros na pele e Olivier em contrarrelógio",
+      "url": "https://observador.pt/programas/momentos-de-glria/amor-a-quim-barreiros-na-pele-e-olivier-em-contrarrelogio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T07:21:21+00:00",
+      "summary": "João Caçoilas, um jovem de 19 anos que é apaixonado por Quim Barreiros. E ainda a vida corrida do Chef Olivier que nem tempo tem para abrir o PC ou ler um livro.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Fairford. \"Há uma enorme nebulosa sobre este caso\"",
+      "url": "https://observador.pt/programas/gabinete-de-guerra/ucrania-x-russia-os-ucranianos-vao-passar-um-mau-bocado/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T07:17:17+00:00",
+      "summary": "É \"prematuro especular\" sobre incidente, diz Francisco Pereira Coutinho. O especialista em Direito Internacional considera ainda que Putin usa tropas norte-coreanas como \"carne para canhão\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sem sal nem açúcar: o que vai mudar nas creches?",
+      "url": "https://observador.pt/programas/no-se-fala-de-outra-coisa/sem-sal-nem-acucar-o-que-vai-mudar-nas-creches/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T07:16:49+00:00",
+      "summary": "A DGS lança novas orientações para as creches que eliminam o sal até ao 1.º ano e o açúcar até aos 2 anos. E ainda a idosa de 78 anos que se tornou a streamer mais velha de Fortnite.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Oeiras. Fogos em contentores do lixo durante a madrugada",
+      "url": "https://observador.pt/2026/09/29/varios-contentores-do-lixo-arderam-em-oeiras-durante-a-madrugada-e-um-carro-ficou-danificado-e-a-segunda-noite-de-incendios-do-mesmo-tipo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T07:16:32+00:00",
+      "summary": "No local, para acorrer às mais de quatro ocorrências, estiveram três veículos e sete operacionais.",
+      "category": "Mundo"
+    },
+    {
+      "title": "8h. Ofensas corporais e armas nas escolas aumentam",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2533/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T07:12:45+00:00",
+      "summary": "A informação é revelada pela PSP, que diz também ter aumentado o número de ofensas sexuais e o tráfico de droga. Ainda, mau tempo regressa com previsão de chuva.",
+      "category": "Clima"
+    },
+    {
+      "title": "Ministros tomam decisões de olho nas repercussões eleitorais, diz Eurasia",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/ministros-tomam-decisoes-de-olho-nas-repercussoes-eleitorais-diz-eurasia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T07:12:26+00:00",
+      "summary": "Ao WW, Christopher Garman, diretor-executivo da Eurasia Group, analisa conflito interno no STF e afirma que decisões têm motivação eleitoral",
+      "category": "Política"
+    },
+    {
+      "title": "Dólar a R$ 5,20: Câmbio deve sofrer forte volatilidade à espera de eleições",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/dolar-a-r-5-20-cambio-deve-sofrer-forte-volatilidade-a-espera-de-eleicoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T07:10:23+00:00",
+      "summary": "Mercado aguarda luz sobre ajuste fiscal, enquanto exterior também pesa contra real; retrovisor mostra como período pré-eleitoral gera instabilidade nos negócios",
+      "category": "Política"
+    },
+    {
+      "title": "Ramon Dino fatura premiação milionária no Mr. Olympia; confira os valores",
+      "url": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/ramon-dino-fatura-premiacao-milionaria-no-mr-olympia-confira-os-valores/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T07:00:46+00:00",
+      "summary": "Brasileiro alcançou a terceira colocação no tornei disputado em Las Vegas, nos Estados Unidos; competidoras brasileiras foram campeãs em duas categorias",
+      "category": "Mundo"
+    },
+    {
+      "title": "Confira como foi a segunda-feira (28) dos candidatos a presidente",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-segunda-feira-28-dos-candidatos-presidente",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T00:37:00+00:00",
+      "summary": "Na última semana de campanha política, os candidatos à Presidência intensificam as agendas com entrevistas para veículos de imprensa e atos em todo o país. >> Veja como foi o dia dos candidatos Luiz Inácio Lula da Silva (PT) O candidato Luiz Inácio Lula da Silva participou de atos de campanha em Belém e em Manaus. Notí",
+      "category": "Política"
+    },
+    {
+      "title": "Temporais em Santa Catarina e Rio Grande do Sul afetam 4,8 mil casas",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-em-santa-catarina-e-rio-grande-do-sul-afetam-48-mil-casas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T00:27:00+00:00",
+      "summary": "Os estados de Santa Catarina e Rio Grande do Sul enfrentam vendavais e tempestade desde a última sexta-feira (25), afetando 18 municípios catarinenses e 78 gaúchos. No total cerca de 4,8 mil residências foram afetadas. No Rio Grande do Sul, quatro pessoas ficaram feridas. No domingo, foi registrada ocorrência de graniz",
+      "category": "Clima"
     },
     {
       "title": "TSE recebeu mais de 50 mil denúncias de propaganda irregular",
@@ -308,105 +461,6 @@
       "category": "Política"
     },
     {
-      "title": "Segurança leva novo modelo do ChatGPT a ser cancelado",
-      "url": "https://observador.pt/2026/09/29/fazia-tarefas-sem-humanos-pedirem-cancelado-lancamento-de-novo-modelo-do-chatgpt-por-motivos-de-seguranca/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:29:08+00:00",
-      "summary": "Sam Altman, o fundador do ChatGPT",
-      "category": "Mundo"
-    },
-    {
-      "title": "23h PR pede uma estratégia a prazo para uma nova etapa no Turismo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-pr-pede-uma-estrategia-a-prazo-para-uma-nova-etapa-no-turismo_a1_1768321",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:26:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Os autarcas, o Volta e as festas na escola de Cascais",
-      "url": "https://observador.pt/opiniao/os-autarcas-o-volta-e-as-festas-na-escola-de-cascais/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:25:24+00:00",
-      "summary": "O presidente da CM de Cascais gastou dinheiro da UE em festas de inauguração, justificadas com regras de Bruxelas. O presidente da CM de Lisboa atacou um sistema de reciclagem que funciona na UE.",
-      "category": "Política"
-    },
-    {
-      "title": "Dêem direito de voto aos bebés",
-      "url": "https://observador.pt/opiniao/deem-direito-de-voto-aos-bebes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:24:44+00:00",
-      "summary": "Esta é a grande ruptura institucional que o país pode e deve implementar positivamente: atribuir o direito de voto aos bebés.",
-      "category": "Mundo"
-    },
-    {
-      "title": "A insustentável leveza do ser Centeno",
-      "url": "https://observador.pt/opiniao/a-insustentavel-leveza-do-ser-centeno/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:21:34+00:00",
-      "summary": "Sabemos que Mário Centeno é um OVNI político. Convém é que não finja ser um marciano acabado de aterrar num país que ainda não conhece o Académico, o Intelectual e o Político que traz a salvação.",
-      "category": "Mundo"
-    },
-    {
-      "title": "É fazer as contas, Guterres",
-      "url": "https://observador.pt/opiniao/e-fazer-as-contas-guterres/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:20:44+00:00",
-      "summary": "De todos as nacionalidades em guerra, só os israelitas são destacados por Guterres. Tenho um palpite: é por serem judeus. Não é um palpite muito arriscado, admito. Na Bwin não há-de pagar muito.",
-      "category": "Mundo"
-    },
-    {
-      "title": "CIM quer 300 milhões em estradas até 2026",
-      "url": "https://observador.pt/2026/09/29/cim-alto-minho-confiante-que-governo-acolhe-reivindicacao-de-300-milhoes-de-euros-para-rodovia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:19:47+00:00",
-      "summary": "\"O Alto Minho hoje está a caminhar a passos largos para exportações no valor dos três mil milhões de euros. Portanto, estamos a falar de um território que soube fazer o seu caminho\", afirma António Barbosa",
-      "category": "Economia"
-    },
-    {
-      "title": "Etiópia: Onde as guerras se cruzam",
-      "url": "https://observador.pt/opiniao/etiopia-onde-as-guerras-se-cruzam/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:15:27+00:00",
-      "summary": "A geopolítica no Corno de África é complexa (para o dizer de forma diplomática), mas talvez nenhum país o ilustre melhor do que a Etiópia",
-      "category": "Mundo"
-    },
-    {
-      "title": "Série da RTP \"Jones\" apresenta um inspetor de polícia com métodos pouco convencionais",
-      "url": "https://www.rtp.pt/noticias/cultura/serie-da-rtp-jones-apresenta-um-inspetor-de-policia-com-metodos-pouco-convencionais_n1768318",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:15:25+00:00",
-      "summary": "\"Jones\" é a nova série da RTP 1, a autoria e realização é de Bruno Gascon. São seis episódios para descobrir o assassino da filha mais nova da família Salvaterra. Oliver Jones é o inspetor responsável pela investigação e vai usar métodos fora do habitual.",
-      "category": "Mundo"
-    },
-    {
-      "title": "00h.Porto Covo. Encontrado corpo de 2º trabalhador soterrado",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2433/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:15:15+00:00",
-      "summary": "A Proteção Civil confirma que foram encontrados os corpos dos dois trabalhadores de 26 e 28 anos. Ainda, mais de 160 pessoas foram detidas em protestos de estudantes, em Paris.",
-      "category": "Mundo"
-    },
-    {
-      "title": "As salvaguardas da IA",
-      "url": "https://observador.pt/opiniao/as-salvaguardas-da-ia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:14:43+00:00",
-      "summary": "Estamos a construir as condições para que a defesa crítica das nossas organizações, algumas delas soberanas, assente na tecnologia de um bloco rival.",
-      "category": "Ciência & Tech"
-    },
-    {
       "title": "Sociedade civil rebate Anatel sobre internet grátis na eleição",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/sociedade-civil-rebate-anatel-sobre-internet-gratis-na-eleicao",
       "source": "Agência Brasil",
@@ -414,24 +468,6 @@
       "publishedAt": "2026-09-28T23:12:00+00:00",
       "summary": "Um grupo de 12 entidades da sociedade civil pediu ao Supremo Tribunal Federal (STF) para ingressar como amici curiae em processo que pede garantia de acesso à internet móvel para todos os brasileiros, independentemente do limite da franquia de dados, nas 72 horas que antecedem as eleições. Se o pedido for aceito, as en",
       "category": "Política"
-    },
-    {
-      "title": "As décadas da violência contra os professores",
-      "url": "https://observador.pt/opiniao/as-decadas-da-violencia-contra-a-integridade-psiquica-dos-professores/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:11:51+00:00",
-      "summary": "Até quando governos ou universidades do mundo ocidental vão teimar na subversão mental forçada de crianças, adolescentes e jovens, através da violação da integridade psíquica dos seus professores?",
-      "category": "Política"
-    },
-    {
-      "title": "Liga Nações. França vence Bélgica perto do fim, Itália reergue-se na Turquia",
-      "url": "https://www.rtp.pt/noticias/ligadasnacoes/liga-nacoes-franca-vence-belgica-perto-do-fim-italia-reergue-se-na-turquia_d1768317",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T23:03:30+00:00",
-      "summary": "A França isolou-se, esta segunda-feira, na liderança do Grupo A1 da Liga das Nações, ao vencer na Bélgica com um golo perto do fim, numa segunda jornada em que a Itália, do mesmo agrupamento, venceu a Turquia por 4-1.",
-      "category": "Esportes"
     },
     {
       "title": "Zanin libera acesso gratuito a sites da Justiça Eleitoral nas eleições",
@@ -452,15 +488,6 @@
       "category": "Política"
     },
     {
-      "title": "22h Turismo: crescimento atual não é sustentável, alerta a Confederação do Turismo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-turismo-crescimento-atual-nao-e-sustentavel-alerta-a-confederacao-do-turismo_a1_1768315",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T22:42:01+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
       "title": "Após empate frustrante, Brasil reencontra Austrália em novo amistoso",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/apos-empate-frustrante-brasil-reencontra-australia-em-novo-amistoso",
       "source": "Agência Brasil",
@@ -479,15 +506,6 @@
       "category": "Economia"
     },
     {
-      "title": "Matthew Hauser justifica-se a Vilaça: \"É preciso ser cão\" para vencer",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/matthew-hauser-justifica-se-a-vilaca-e-preciso-ser-cao-para-vencer_d1768313",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-28T22:31:06+00:00",
-      "summary": "Apesar do título de campeão mundial de triatlo, Vasco Vilaça não foi além do segundo lugar na última ronda do Campeonato do Mundo, em Pontevedra. O australiano Matthew Hauser cruzou a meta em primeiro lugar, na disputa com o português, e assumiu a atitude anti-fair play de que foi acusado, justificando-o como um mal ne",
-      "category": "Esportes"
-    },
-    {
       "title": "Presidente do TSE reclama de interferência em decisões da Corte",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-tse-reclama-de-interferencia-em-decisoes-da-corte",
       "source": "Agência Brasil",
@@ -504,24 +522,6 @@
       "publishedAt": "2026-09-28T22:06:00+00:00",
       "summary": "Programa voltado a trabalhadores informais com dívidas em dia ou com atraso inferior a 90 dias, o Desenrola Adimplentes foi estendido por mais 30 dias. As renegociações poderão ser feitas até 26 de outubro, data em que também termina a vigência da medida provisória que criou a iniciativa. O prazo inicial era de 90 dias",
       "category": "Mundo"
-    },
-    {
-      "title": "Dívida Pública Federal fica estável em agosto e chega a R$ 9,29 tri",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/divida-publica-federal-fica-estavel-em-agosto-e-chega-r-929-tri",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-28T21:54:00+00:00",
-      "summary": "A Dívida Pública Federal (DPF) ficou estável em agosto e encerrou o mês em R$ 9,293 trilhões, com alta de apenas 0,04%. O número foi divulgado nesta segunda-feira (28) pelo Tesouro Nacional. Em julho, o indicador estava em R$ 9,289 trilhões. O avanço ocorreu mesmo com o Tesouro resgatando R$ 84,43 bilhões em títulos a ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Governo cobra na Justiça gastos do SUS com tratamento de apostadores",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/governo-cobra-na-justica-gastos-do-sus-com-tratamento-de-apostadores",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-28T21:23:00+00:00",
-      "summary": "A Advocacia-Geral da União (AGU) anunciou nesta segunda-feira (28) que entrou na Justiça para cobrar os gastos do Sistema Único de Saúde (SUS) com o tratamento dos danos causados pelos jogos on-line. A ação civil pública foi protocolada na Justiça Federal em Pernambuco contra 17 plataformas de apostas esportivas e pede",
-      "category": "Política"
     }
   ],
   "sources": [
