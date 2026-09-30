@@ -1,338 +1,518 @@
 {
-  "updatedAt": "2026-09-30T19:16:09.682306+00:00",
+  "updatedAt": "2026-09-30T23:01:10.370906+00:00",
   "items": [
     {
-      "title": "Montenegro sublinha \"sinal importante\" dado pelo PS",
-      "url": "https://www.rtp.pt/noticias/politica/montenegro-sublinha-sinal-importante-dado-pelo-ps_n1768724",
-      "source": "RTP Notícias",
+      "title": "Nissan Pixo, o citadino que nasce do Twingo e do novo Spring",
+      "url": "https://observador.pt/2026/09/30/nissan-revela-o-pixo-o-citadino-que-nasce-do-twingo-e-do-novo-spring/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-30T20:02:51+00:00",
-      "summary": "O primeiro-ministro, Luís Montenegro, sublinhou hoje o \"sinal importante\" dado pelo PS em relação à eventual viabilização do Orçamento do Estado para 2027 e elogiou o \"sentido de responsabilidade\" dos socialistas.",
+      "publishedAt": "2026-09-30T22:57:32+00:00",
+      "summary": "O Nissan Pixo vai ter o terceiro dos citadinos eléctricos a ser proposto por menos de 20.000€",
+      "category": "Mundo"
+    },
+    {
+      "title": "Santa Maria da Feira mais do que duplica apoio aos bombeiros",
+      "url": "https://observador.pt/2026/09/30/santa-maria-da-feira-mais-do-que-duplica-apoio-aos-bombeiros-e-garante-mais-de-tres-milhoes-para-as-tres-corporacoes-entre-2026-e-2029/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:56:56+00:00",
+      "summary": "O reforço financeiro agora aprovado tem efeitos retroativos até o final de 2029",
+      "category": "Mundo"
+    },
+    {
+      "title": "Nova associação de vítimas pede à CEP que aceite auditoria",
+      "url": "https://observador.pt/2026/09/30/nova-associacao-de-vitimas-de-abusos-sexuais-vai-pedir-a-igreja-abertura-para-auditoria/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:55:45+00:00",
+      "summary": "\"O balanço é muito positivo. O parlamento demonstra abertura para que a justiça da República se sobreponha à opacidade institucional da Igreja\", pode ler-se no documento",
+      "category": "Mundo"
+    },
+    {
+      "title": "Candidatos a deputado federal pelo Podemos no CE; veja quem são e os números",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/30/candidatos-a-deputado-federal-pelo-podemos-no-ce-veja-quem-sao-e-os-numeros.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:50:02+00:00",
+      "summary": "Ceará (CE) tem 265 candidatos aptos disputando as 22 vagas reservadas ao estado na Câmara dos Deputados, segundo dados do Tribunal Superior Eleitoral (TSE). Veja abaixo a lista com os nomes e os números de urna dos 17 candidatos a deputado federal pelo partido Podemos no CE. O 1º turno da eleição 2026 no Brasil será re",
       "category": "Política"
     },
     {
-      "title": "\"A seu tempo direi a verdade\". Cristiano Ronaldo confirma saída do estágio da seleção",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/a-seu-tempo-direi-a-verdade-cristiano-ronaldo-confirma-saida-do-estagio-da-selecao_d1768722",
-      "source": "RTP Notícias",
+      "title": "Resultados das Loterias Caixa",
+      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:49:38+00:00",
+      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Qual é o número de Dr. Furlan (PSD) para o governo do Amapá?",
+      "url": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-furlan-psd-para-o-governo-do-amapa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:49:35+00:00",
+      "summary": "Dr. Furlan (PSD) Francisco Pinheiro/g1 O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos governadores. Entenda aqui o que faz um governador. Dr. Furlan (PSD) é candidato ao Governo do Amapá. O número dele na urna é 55. Na página Quem São os Candidatos, publicada pelo ",
+      "category": "Política"
+    },
+    {
+      "title": "VÍDEOS: NE2 de quarta-feira, 30 de setembro de 2026",
+      "url": "https://g1.globo.com/pe/pernambuco/videos-ne2/playlist/videos-ne2-de-quarta-feira-30-de-setembro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:49:34+00:00",
+      "summary": "Assista aos vídeos do telejornal com as notícias de Pernambuco.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Candidatos a deputado federal pelo PL no CE; veja quem são e os números",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/30/candidatos-a-deputado-federal-pelo-pl-no-ce-veja-quem-sao-e-os-numeros.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:49:33+00:00",
+      "summary": "Ceará (CE) tem 265 candidatos aptos disputando as 22 vagas reservadas ao estado na Câmara dos Deputados, segundo dados do Tribunal Superior Eleitoral (TSE). Veja abaixo a lista com os nomes e os números de urna dos 22 candidatos a deputado federal pelo Partido Liberal (PL) no CE. O 1º turno da eleição 2026 no Brasil se",
+      "category": "Política"
+    },
+    {
+      "title": "\"Perguntem ao Queiroz\" e o Qatar: as outras polémicas de CR7",
+      "url": "https://observador.pt/2026/09/30/uma-relacao-estragada-com-fernando-santos-o-perguntem-ao-queiroz-o-microfone-e-a-bracadeira-as-outras-polemicas-de-ronaldo/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-30T19:45:46+00:00",
-      "summary": "Cristiano Ronaldo confirmou, nas redes sociais, a decisão de abandonar o estágio liderado por Jorge Jesus, depois da polémica em torno do papel do jogador na seleção portuguesa. \"A seu tempo direi a verdade a todos os portugueses\", escreveu o capitão no Instagram.",
+      "publishedAt": "2026-09-30T22:49:01+00:00",
+      "summary": "O capitão da Seleção Nacional atirou a braçadeira ao chão em 2021, contra a Sérvia",
       "category": "Esportes"
     },
     {
-      "title": "Arrendamento em debate no Parlamento com chumbo no horizonte",
-      "url": "https://www.rtp.pt/noticias/economia/arrendamento-em-debate-no-parlamento-com-chumbo-no-horizonte_e1768638",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T19:26:05+00:00",
-      "summary": "O parlamento discute esta quarta-feira o Novo Regime de Arrendamento Urbano (NRAU), proposto pelo Governo. Acompanhamos aqui os principais momentos do debate.",
+      "title": "Candidatos a deputado federal pelo PDT no CE; veja quem são e os números",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/30/candidatos-a-deputado-federal-pelo-pdt-no-ce-veja-quem-sao-e-os-numeros.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:48:52+00:00",
+      "summary": "Ceará (CE) tem 265 candidatos aptos disputando as 22 vagas reservadas ao estado na Câmara dos Deputados, segundo dados do Tribunal Superior Eleitoral (TSE). Veja abaixo a lista com os nomes e os números de urna dos 20 candidatos a deputado federal pelo Partido Democrático Trabalhista (PDT) no CE. O 1º turno da eleição ",
       "category": "Política"
     },
     {
-      "title": "Suíça deixa de apoiar recandidatura de Gianni Infantino à presidência da FIFA",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/suica-deixa-de-apoiar-recandidatura-de-gianni-infantino-a-presidencia-da-fifa_d1768720",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T19:25:10+00:00",
-      "summary": "A Associação Suíça de Futebol (SFV) deixou de apoiar a recandidatura de Gianni Infantino à presidência da FIFA nas eleições de março de 2027, anunciou o organismo, duvidando da governação e transparência do regulador mundial da modalidade.",
-      "category": "Política"
-    },
-    {
-      "title": "19h Cristiano Ronaldo falha treino e deixa estádio",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-cristiano-ronaldo-falha-treino-e-deixa-estadio_a1_1768719",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T19:24:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Burnham: \"Fortes indícios\" de que Irão teve papel em atentado falhado contra base militar",
-      "url": "https://www.rtp.pt/noticias/mundo/burnham-fortes-indicios-de-que-irao-teve-papel-em-atentado-falhado-contra-base-militar_n1768716",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T19:21:57+00:00",
-      "summary": "Primeiro-ministro britânico afirma que investigação policial em curso é \"complexa e séria\" e que está a ser feita em cooperação com os EUA.",
-      "category": "Política"
-    },
-    {
-      "title": "Central internacional inglês Chris Smalling reforça o FC Porto a custo zero",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/central-internacional-ingles-chris-smalling-reforca-o-fc-porto-a-custo-zero_d1768718",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T19:21:28+00:00",
-      "summary": "O defesa-central inglês Chris Smalling é reforço do FC Porto, chegando ao clube enquanto jogador livre após ter deixado o Al-Fayha, da Arábia Saudita, no final da temporada passada, confirmaram os campeões portugueses de futebol.",
-      "category": "Esportes"
-    },
-    {
-      "title": "18h30 Cristiano Ronaldo abandona treino da selecção",
-      "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-cristiano-ronaldo-abandona-treino-da-seleccao_a1_1768717",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T19:20:01+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Google pede suspensão de ordem da União Europeia para compartilhar dados",
-      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/google-pede-suspensao-de-ordem-da-uniao-europeia-para-compartilhar-dados/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T19:05:18+00:00",
-      "summary": "Big tech alega que exigência da Comissão Europeia traz riscos graves à privacidade e segurança dos usuários",
-      "category": "Economia"
-    },
-    {
-      "title": "À CNN, Pabllo Vittar defende aposta internacional em 7º álbum: “Desafiada”",
-      "url": "https://www.cnnbrasil.com.br/pop/musica/a-cnn-pabllo-vittar-defende-aposta-internacional-em-7o-album-desafiada/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T19:03:35+00:00",
-      "summary": "Drag queen lança \"Lust in Lust\", compilado de 12 faixas em que canta em inglês e espanhol; produção é majoritariamente feita por artistas LGBT+ brasileiros",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ataque a tiros em bar deixa um morto e dois feridos em Cabo Frio",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/30/ataque-a-tiros-em-bar-deixa-um-morto-e-dois-feridos-em-cabo-frio.ghtml",
+      "title": "EPTV 2 Piracicaba ao vivo",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-2-piracicaba-ao-vivo.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-30T19:03:23+00:00",
-      "summary": "Ataque a tiros em bar deixa um morto e dois feridos em Cabo Frio Uma pessoa morreu e outras duas, um adulto e um adolescente, ficaram feridas em um ataque a tiros em um bar na Rua Milton Pessoa, no Jardim Esperança, em Cabo Frio, na Região dos Lagos do Rio, no início da noite desta terça-feira (29). Câmeras de seguranç",
-      "category": "Clima"
-    },
-    {
-      "title": "Golpe de Aparecida: 34 fiéis pagam pacote de turismo para santuário em SP, mas excursão não sai e agência é indiciada",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/30/fieis-pagam-pacote-de-turismo-para-santuario-em-sp-mas-excursao-nao-sai-e-agencia-e-indiciada.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T19:03:18+00:00",
-      "summary": "Fiéis ficam sem viagem para Aparecida e polícia indicia agência de turismo no RS Um grupo de 34 pessoas de Canoas, na Região Metropolitana de Porto Alegre, aguardou em vão por dois ônibus para uma excursão religiosa com destino ao Santuário de Nossa Senhora Aparecida, em São Paulo. A viagem estava marcada para o dia 27",
-      "category": "Esportes"
-    },
-    {
-      "title": "Suspeito de ameaçar a ex e a família dela de morte é preso em Bocaiuva",
-      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/30/suspeito-de-ameacar-a-ex-e-a-familia-dela-de-morte-e-preso-em-bocaiuva.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T19:02:10+00:00",
-      "summary": "Carro viatura Polícia Civil de Minas Gerais PCMG Polícia Civil/Divulgação Um homem suspeito de ameaçar a ex-companheira e os familiares dela de morte foi preso em Bocaiuva. Segundo informações divulgadas pela Polícia Civil de Minas Gerais (PCMG) nesta quarta-feira (30), a mulher e o investigado mantiveram um relacionam",
-      "category": "Mundo"
-    },
-    {
-      "title": "Caminhão carregado de troncos tomba na Rodovia dos Tamoios, no Litoral Norte de SP; veja vídeo",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/30/caminhao-carregado-de-troncos-tomba-na-rodovia-dos-tamoios-no-litoral-norte-de-sp-veja-video.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T19:01:52+00:00",
-      "summary": "Caminhão carregado de troncos tomba na Rodovia dos Tamoios, no Litoral Norte de SP Um caminhão carregado com troncos de madeira tombou na Rodovia dos Tamoios, no trecho de Caraguatatuba (SP), na tarde desta quarta-feira (30). Uma pessoa ficou presa nas ferragens. O Corpo de Bombeiros informou que o acidente aconteceu n",
-      "category": "Mundo"
-    },
-    {
-      "title": "Seguro tradicional x digital: Loovi explica o que muda para o motorista",
-      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/seguro-tradicional-x-digital-loovi-explica-o-que-muda-para-o-motorista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T19:00:41+00:00",
-      "summary": "Modelo de contratação, flexibilidade de coberturas e velocidade no atendimento definem os dois formatos de proteção automotiva do mercado: o seguro tradicional e o seguro digital.",
-      "category": "Economia"
-    },
-    {
-      "title": "Maju Coutinho improvisa treino em casa durante a gravidez do primeiro filho",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/maju-coutinho-improvisa-treino-em-casa-durante-a-gravidez-do-primeiro-filho/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T19:00:37+00:00",
-      "summary": "Apresentadora do \"Fantástico\" mostrou espaço improvisado com pesos e bola de ginástica para fazer exercícios à espera de seu primeiro filho, Malik",
+      "publishedAt": "2026-09-30T22:48:51+00:00",
+      "summary": "EPTV 2 Piracicaba ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Novas regras para doação de sangue entram em vigor nesta quarta; veja o que muda",
-      "url": "https://g1.globo.com/saude/noticia/2026/09/30/novas-regras-para-doacao-de-sangue-entram-em-vigor-nesta-quarta-veja-o-que-muda.ghtml",
+      "title": "Acidente com duas carretas e ônibus deixa seis feridos na BR-251",
+      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/30/acidente-com-duas-carretas-e-onibus-deixa-seis-feridos-na-br-251.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-30T18:59:11+00:00",
-      "summary": "Divulgação Novas regras para a doação de sangue passam a valer no Brasil nesta quarta-feira (30) e reduzem o período de impedimento em situações que antes podiam afastar candidatos dos hemocentros por meses. Entre as principais mudanças estão novos prazos para quem fez tatuagem ou procedimentos estéticos, a possibilida",
+      "publishedAt": "2026-09-30T22:48:39+00:00",
+      "summary": "Veículos envolvidos no acidente Samu Seis pessoas ficaram feridas em um acidente envolvendo duas carretas e um ônibus na BR-251, em Salinas, na manhã desta quarta-feira (30). Segundo o Samu, uma carreta bateu na traseira do ônibus, que foi empurrado e atingiu outra carreta que estava parada em um trecho com sistema de ",
       "category": "Mundo"
     },
     {
-      "title": "Empresário é preso suspeito de aplicar golpes em vendas de material de construção em Teresina",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/30/empresario-suspeito-teresina.ghtml",
+      "title": "Ex-PM é preso após mulher ser baleada dentro de casa na Zona Leste de SP",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/30/ex-pm-e-preso-apos-mulher-ser-baleada-dentro-de-casa-na-zona-leste-de-sp.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-30T18:58:45+00:00",
-      "summary": "Viatura da Polícia Civil do Piauí PC-PI Um empresário, suspeito de aplicar golpes na venda de materiais de construção, foi preso na terça-feira (29), em Teresina. Segundo a Polícia Civil, ele recebeu pagamentos e não entregou produtos para pelo menos 11 clientes. Ao g1, a delegada Amanda Bezerra informou que a primeira",
-      "category": "Esportes"
+      "publishedAt": "2026-09-30T22:48:24+00:00",
+      "summary": "Ex-PM é preso após mulher ser baleada dentro de casa na Zona Leste de SP Uma mulher de 51 anos foi baleada dentro de casa na manhã desta quarta-feira (30), na Vila Ré, Zona Leste de São Paulo. O marido dela, o ex-policial militar Edson Acioli, de 59 anos, foi preso em flagrante por porte ilegal de arma de fogo. A Políc",
+      "category": "Mundo"
     },
     {
-      "title": "Em meio à crise interna, ministros do STF participam de sessão",
-      "url": "https://g1.globo.com/politica/ao-vivo/ministros-do-stf-sessao.ghtml",
+      "title": "Candidatos a deputado federal pelo PCO no CE; veja quem são e os números",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/30/candidatos-a-deputado-federal-pelo-pco-no-ce-veja-quem-sao-e-os-numeros.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-30T18:57:00+00:00",
-      "summary": "Em meio à crise interna, ministros do STF participam de sessão Supremo enfrenta 'guerra de decisões' entre os ministros. Após embate entre Moraes e Mendonça, disputa agora envolve posts sobre Nossa Senhora Aparecida. Os ministros do STF (Supremo Tribunal Federal) se reúnem nesta quarta-feira (30) para analisar uma ação",
+      "publishedAt": "2026-09-30T22:48:21+00:00",
+      "summary": "Ceará (CE) tem 265 candidatos aptos disputando as 22 vagas reservadas ao estado na Câmara dos Deputados, segundo dados do Tribunal Superior Eleitoral (TSE). Veja abaixo a lista com os nomes e os números de urna dos 3 candidatos a deputado federal pelo Partido da Causa Operária (PCO) no CE. O 1º turno da eleição 2026 no",
       "category": "Política"
     },
     {
-      "title": "Air France-KLM e Lufthansa reforçam argumentos após entrega de propostas finais",
-      "url": "https://www.rtp.pt/noticias/economia/air-france-klm-e-lufthansa-reforcam-argumentos-apos-entrega-de-propostas-finais_n1768709",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:56:47+00:00",
-      "summary": "A Air France-KLM e a Lufthansa reiteraram hoje o interesse na TAP após apresentarem propostas finais no processo de privatização, destacando, respetivamente, Lisboa como `hub` exclusivo no sul da Europa e o compromisso de longo prazo com a companhia.",
-      "category": "Economia"
-    },
-    {
-      "title": "Suspeitos de série de assaltos com reféns em João Pessoa são presos em Santa Catarina",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/30/suspeitos-de-serie-de-assaltos-com-refens-em-joao-pessoa-sao-presos-em-santa-catarina.ghtml",
+      "title": "Candidatos a deputado federal pelo PCdoB no CE; veja quem são e os números",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/30/candidatos-a-deputado-federal-pelo-pcdob-no-ce-veja-quem-sao-e-os-numeros.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-09-30T18:56:23+00:00",
-      "summary": "Família tem casa invadida e é feita refém durante assalto no Seixas, em João Pessoa Divulgação/Flávio Fernandes Três homens suspeitos de integrar um grupo criminoso investigado por pelo menos oito roubos em João Pessoa foram presos nesta terça-feira (29), em Santa Catarina. A informação foi confirmada pela Polícia Civi",
+      "publishedAt": "2026-09-30T22:47:49+00:00",
+      "summary": "Ceará (CE) tem 265 candidatos aptos disputando as 22 vagas reservadas ao estado na Câmara dos Deputados, segundo dados do Tribunal Superior Eleitoral (TSE). Veja abaixo a lista com os nomes e os números de urna dos 2 candidatos a deputado federal pelo Partido Comunista do Brasil (PCdoB) no CE. O 1º turno da eleição 202",
+      "category": "Política"
+    },
+    {
+      "title": "VÍDEO: turistas registram dezenas de olhos de jacarés durante passeio noturno no Pantanal de MT",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/30/video-turistas-registram-dezenas-de-olhos-de-jacares-durante-passeio-noturno-no-pantanal-de-mt.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:47:07+00:00",
+      "summary": "Turistas registram dezenas de olhos de jacarés durante passeio noturno no Pantanal de MT Um casal de turistas registrou dezenas de olhos de jacarés brilhando na escuridão durante um passeio noturno pela Transpantaneira, em Poconé, a 104 km de Cuiabá. As imagens foram feitas durante uma viagem de motorhome pelo Pantanal",
       "category": "Mundo"
     },
     {
-      "title": "Tennessee. Pena de morte suspensa horas antes da execução",
-      "url": "https://observador.pt/2026/09/30/tribunal-dos-eua-suspende-execucao-de-mulher-horas-antes-da-sentenca/",
+      "title": "\"Bomba em Portugal\": imprensa internacional sobre Ronaldo",
+      "url": "https://observador.pt/2026/09/30/caso-ronaldo-cai-como-uma-bomba-em-portugal-a-reacao-da-imprensa-internacional-a-saida-de-ronaldo-da-selecao/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-09-30T18:56:17+00:00",
-      "summary": "A execução estava marcada para a manhã de quarta-feira, em Nashville",
-      "category": "Mundo"
-    },
-    {
-      "title": "Contratos futuros do açúcar recuam em Nova York com dúvidas sobre a demanda",
-      "url": "https://www.cnnbrasil.com.br/agro/contratos-futuros-do-acucar-recuam-em-nova-york-com-duvidas-sobre-a-demanda/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:53:54+00:00",
-      "summary": "Vencimento para março encerrou o pregão em baixa pressionado pelas estimativas de entregas físicas acima da média dos últimos anos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: veja em que dias serão o primeiro e o segundo turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-veja-em-que-dias-serao-o-primeiro-e-o-segundo-turno/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:53:49+00:00",
-      "summary": "Eleitores vão às urnas em outubro escolher novos deputados estaduais ou distritais, federais, senadores, governadores e o presidente da República",
-      "category": "Política"
-    },
-    {
-      "title": "Alupar recebe licença ambiental para projeto de transmissão no Peru",
-      "url": "https://www.cnnbrasil.com.br/infra/alupar-recebe-licenca-ambiental-para-projeto-de-transmissao-no-peru/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:53:22+00:00",
-      "summary": "Com autorização, companhia brasileira avança na implantação de uma nova subestação e de uma linha de transmissão na região de Puno, que devem entrar em operação em 2028",
-      "category": "Mundo"
-    },
-    {
-      "title": "Alexandre Pato compra 70% de clube da quarta divisão inglesa",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/alexandre-pato-compra-70-de-clube-da-quarta-divisao-inglesa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:52:51+00:00",
-      "summary": "Ex-atacante da Seleção Brasileira passa a integrar o conselho do Northampton Town após aquisição liderada pela Sports Alpha Capital",
+      "publishedAt": "2026-09-30T22:47:00+00:00",
+      "summary": "Ronaldo anunciou a sua saída da seleção após a conferência de imprensa de Jorge Jesus",
       "category": "Esportes"
     },
     {
-      "title": "Castelo que foi cenário de “Blank Space”, de Taylor Swift, será leiloado",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/castelo-que-foi-cenario-de-blank-space-de-taylor-swift-sera-leiloado/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:51:40+00:00",
-      "summary": "Propriedade de 127 cômodos também foi usada para gravações do filme “Cidadão Kane” e da série “Succession”; é a 2ª maior residência já construída nos EUA",
-      "category": "Mundo"
-    },
-    {
-      "title": "Renan Santos aciona TSE para participar de debate na Globo",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-aciona-tse-para-participar-de-debate-na-globo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:51:02+00:00",
-      "summary": "Candidato do Missão pede decisão urgente para ser incluído no encontro desta quinta-feira (1º), último antes do primeiro turno",
-      "category": "Mundo"
-    },
-    {
-      "title": "Debate na TV Mirante: o que os candidatos ao governo do MA disseram sobre desenvolvimento econômico",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/30/debate-na-tv-mirante-o-que-os-candidatos-ao-governo-do-ma-disseram-sobre-desenvolvimento-economico.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:50:50+00:00",
-      "summary": "Debate entre candidatos ao governo do Maranhão: veja a íntegra O desenvolvimento econômico do Maranhão foi um dos temas debatidos entre os candidatos ao governo do Estado. André Luís (Missão), Eduardo Braide (PSD), Felipe Camarão (PT), Orleans Brandão (MDB), Roberto Rocha (PRTB) e Saulo Arcangeli (PSTU) apresentaram pr",
+      "title": "Oposição questiona câmara sobre queixas de ruído na Estrela",
+      "url": "https://observador.pt/2026/09/30/queixas-de-ruido-no-jardim-da-estrela-questionadas-pela-oposicao-na-camara-de-lisboa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:46:44+00:00",
+      "summary": "O novo quiosque está, desde a sua abertura, envolto em polémica devido a eventuais irregularidades",
       "category": "Política"
     },
     {
-      "title": "Jornalistas terão de manter redes sociais abertas para pedir visto dos EUA",
-      "url": "https://www.cnnbrasil.com.br/internacional/jornalistas-terao-de-manter-redes-sociais-abertas-para-pedir-visto-dos-eua/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:50:14+00:00",
-      "summary": "Medida passa a valer a partir de 1º de outubro para jornalistas e profissionais do USMCA, tratado de comércio entre EUA, Canadá e México, com o objetivo de reforçar a segurança nacional",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jorge Jesus: \"Nenhum grande jogador iria gostar\" de não ser opção",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-nenhum-grande-jogador-iria-gostar-de-nao-ser-opcao_d1768714",
+      "title": "Mais de 60 professores com registo criminal inválido afastados provisoriamente",
+      "url": "https://www.rtp.pt/noticias/pais/mais-de-60-professores-com-registo-criminal-invalido-afastados-provisoriamente_n1768760",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-30T18:48:07+00:00",
-      "summary": "Em entrevista exclusiva à RTP, Jorge Jesus voltou a comentar o caso Cristiano Ronaldo, ainda antes de este se ter ausentado novamente do estádio onde a equipa se preparava para iniciar o treino.",
+      "publishedAt": "2026-09-30T22:40:51+00:00",
+      "summary": "O ministro da Educação já pediu uma análise \"urgente e imediata\" de todas as situações de registo criminal inválido.",
+      "category": "Política"
+    },
+    {
+      "title": "Marcha contra imigração ilegal nas ruas de Durban",
+      "url": "https://observador.pt/2026/09/30/centenas-de-pessoas-marcham-na-africa-do-sul-contra-a-imigracao-ilegal/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:40:14+00:00",
+      "summary": "\"O nosso principal objetivo é dar prioridade à África do Sul e garantir que, neste país, o Estado de direito seja respeitado por todos os meios possíveis\"",
       "category": "Mundo"
     },
     {
-      "title": "Passageiro urina em avião, fica impedido de viajar e é multado em R$ 17 mil",
-      "url": "https://www.cnnbrasil.com.br/nacional/brasil/passageiro-urina-em-aviao-fica-impedido-de-viajar-e-e-multado-em-r-17-mil/",
+      "title": "Jade Picon muda de visual para desfile da Semana de Moda de Paris; veja",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/jade-picon-muda-de-visual-para-desfile-da-semana-de-moda-de-paris-veja/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-30T18:46:20+00:00",
-      "summary": "Episódio ocorreu durante voo doméstico da Azul, na rota Belém-Campinas; Resolução nº 800 da Anac entrou em vigor em 14 de setembro e estabelece medidas para casos de passageiros indisciplinados",
-      "category": "Mundo"
-    },
-    {
-      "title": "Suspeito de vandalizar agência bancária é preso em Petrolina",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/30/suspeito-de-vandalizar-agencia-bancaria-e-preso-em-petrolina.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:42:39+00:00",
-      "summary": "Agência do Banco do Brasil amanhece com portas quebradas em Petrolina A Guarda Civil Municipal de Petrolina (GCM) prendeu, na madrugada desta quarta-feira (30), o homem suspeito de vandalizar uma agência do Banco do Brasil na Avenida da Integração e de tentar destruir a escultura de uma santa no bairro Maria Auxiliador",
+      "publishedAt": "2026-09-30T22:35:58+00:00",
+      "summary": "Atriz surgiu com franjinha e look de alfaiataria verde no desfile da grife Stella McCartney",
       "category": "Cultura"
     },
     {
-      "title": "Champions feminina. Benfica - Bayern",
-      "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/champions-feminina-benfica-bayern_d1768710",
+      "title": "22h Cristiano Ronaldo abandona estágio da seleção promete explicações para mais tarde",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-cristiano-ronaldo-abandona-estagio-da-selecao-promete-explicacoes-para-mais-tarde_a1_1768759",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-30T18:40:42+00:00",
-      "summary": "Depois de ter derrotado as transalpinas da Juventus (2-1), o campeão português vai receber no Estádio da Luz as alemãs do Bayern Munique, em jogo da segunda jornada da fase de liga da Liga dos Campeões feminina.",
+      "publishedAt": "2026-09-30T22:31:02+00:00",
+      "summary": "",
       "category": "Esportes"
     },
     {
-      "title": "Ativistas inauguram na Polônia primeiro armário para retirada de pílulas abortivas",
-      "url": "https://g1.globo.com/saude/noticia/2026/09/30/ativistas-inauguram-na-polonia-primeiro-armario-para-retirada-de-pilulas-abortivas.ghtml",
-      "source": "G1",
+      "title": "Vox Radar: entre perfis sem lado, 57% tratam boato como verdade",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/vox-radar-entre-perfis-sem-lado-57-tratam-boato-como-verdade/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-30T18:40:35+00:00",
-      "summary": "Ativistas inauguram na Polônia primeiro armário para retirada de pílulas abortivas WOJTEK RADWANSKI / AFP Ativistas polonesas inauguraram o primeiro armário para distribuir pílulas abortivas no país, permitindo que mulheres acessem o medicamento de forma rápida e anônima, apesar da legislação rigorosa, observou um fotó",
+      "publishedAt": "2026-09-30T22:30:55+00:00",
+      "summary": "Porcentagem recuou de 72 por cento no domingo para 42 por cento na quarta-feira após desmentidos da CNBB e da imprensa",
       "category": "Mundo"
     },
     {
-      "title": "Primeiro-ministro britânico revela suspeitas de envolvimento do Irão em alegado atentado em base militar",
-      "url": "https://www.rtp.pt/noticias/mundo/primeiro-ministro-britanico-revela-suspeitas-de-envolvimento-do-irao-em-alegado-atentado-em-base-militar_n1768704",
+      "title": "Nio, antiga Oi Fibra, lança serviço de internet móvel",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/nio-antiga-oi-fibra-lanca-servico-de-internet-movel/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:30:23+00:00",
+      "summary": "Nos planos elegíveis, o 5G passa a fazer parte do serviço como benefício incluído, mantendo o compromisso da Nio de preço fixo até janeiro de 2030",
+      "category": "Economia"
+    },
+    {
+      "title": "Parlamento vai discutir regras mais flexíveis para contratar professores no privado",
+      "url": "https://www.rtp.pt/noticias/politica/parlamento-vai-discutir-regras-mais-flexiveis-para-contratar-professores-no-privado_n1768758",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-30T18:40:26+00:00",
-      "summary": "O primeiro-ministro do Reino Unido, Andy Burnham, confirmou hoje que a polícia britânica acredita que o Irão esteve envolvido no incidente perto da base militar RAF Fairford na madrugada do domingo passado.",
+      "publishedAt": "2026-09-30T22:28:24+00:00",
+      "summary": "O parlamento vai discutir, em sede de especialidade, duas iniciativas do CDS-PP e da IL que pretendem flexibilizar as regras para a contratação de professores por parte dos colégios privados e que mereceram críticas das restantes bancadas.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Musk vai co-liderar projeto de IA militar dos EUA",
+      "url": "https://observador.pt/2026/09/30/elon-musk-sera-co-lider-de-projeto-de-ia-do-pentagono-sobre-o-futuro-da-guerra/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:25:55+00:00",
+      "summary": "Projeto será co-liderado por Musk, Palmer Luckey e Newt Gingrich.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Bradesco faz 1° pagamento internacional com tecnologia do Bank of America",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/bradesco-faz-1-pagamento-internacional-com-tecnologia-do-bank-of-america/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:25:44+00:00",
+      "summary": "Projeto do BofA foi anunciado em junho deste ano, com a decisão de lançar uma solução de pagamentos internacionais de alto volume em tempo real que permitirá a empresas enviar e receber fundos instantaneamente",
+      "category": "Economia"
+    },
+    {
+      "title": "Eles parecem bolos que deram errado, mas são feitos assim de propósito: por que os “bolos feios” conquistaram as redes?",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/eles-parecem-bolos-que-deram-errado-mas-sao-feitos-assim-de-proposito-por-que-os-bolos-feios-conquistaram-as-redes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:19:31+00:00",
+      "summary": "Criações com desenhos tortos e personagens caricatos fizeram a procura por encomendas crescer 90% e mudaram a rotina de uma confeiteira",
+      "category": "Mundo"
+    },
+    {
+      "title": "Receita Federal inicia teste de biometria na Ponte da Amizade, no PR",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/receita-federal-inicia-teste-de-biometria-na-ponte-da-amizade-no-pr/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:16:35+00:00",
+      "summary": "Projeto-piloto avalia uso da palma da mão para facilitar trabalho dos agentes na fronteira em Foz do Iguaçu",
+      "category": "Mundo"
+    },
+    {
+      "title": "Análise: Flávio Dino atropela ritos ao determinar inquérito",
+      "url": "https://www.cnnbrasil.com.br/politica/analise-flavio-dino-atropela-ritos-ao-determinar-inquerito/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:16:06+00:00",
+      "summary": "Decisão tomada de ofício pelo ministro do STF, sem provocação da PF ou PGR, é questionada nos bastidores por atropelar ritos usuais; Matheus Teixeira comenta para o Hora H",
       "category": "Política"
     },
     {
-      "title": "Polícia apreende mais de 130 kg de maconha após carro capotar em Bacabeira",
-      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/30/policia-apreende-mais-de-130-kg-de-maconha-apos-carro-capotar-em-bacabeira.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:40:09+00:00",
-      "summary": "Polícia apreende mais de 130 kg de maconha após carro capotar em Bacabeira Divulgação/ Polícia Militar A Polícia Militar apreendeu cerca de 130 quilos de maconha e 1,5 quilo de skank durante uma ação na região de Bacabeira, nesta quarta-feira (30). Segundo o 27º Batalhão de Polícia Militar (27º BPM), esta é a maior apr",
+      "title": "23h. Sub-21 de Portugal apura-se para fase final do Europeu",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2184/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:15:20+00:00",
+      "summary": "Nos Açores, a equipa das Quinas bateu a equipa de Gibraltar por 4-0. Ainda, Cristiano Ronaldo já está a caminho de Madrid, explicações remete para mais tarde.",
+      "category": "Economia"
+    },
+    {
+      "title": "Capacete obrigatório em trotinetes e bicicletas elétricas",
+      "url": "https://observador.pt/2026/09/30/parlamento-aprova-obrigatoriedade-do-capacete-em-trotinetes-e-bicicletas-eletricas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:09:33+00:00",
+      "summary": "Nos últimos 7 anos foram registados mais de 1.900 acidentes, 10 vítimas mortais e dezenas de feridos graves",
       "category": "Mundo"
+    },
+    {
+      "title": "Acordo Paramount-Warner avança na Justiça; ex-Mattel é indicado co-CEO",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/acordo-paramount-warner-avanca-na-justica-ex-mattel-e-indicado-co-ceo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:08:13+00:00",
+      "summary": "Fusão une estúdio cinematográfico da Warner Bros. ao da Paramount, a HBO Max à Paramount+, a MTV à Discovery e a CBS News à CNN",
+      "category": "Cultura"
+    },
+    {
+      "title": "Parlamento homenageia Jorge Palma por unanimidade",
+      "url": "https://observador.pt/2026/09/30/jorge-palma-parlamento-unanime-no-pesar-e-no-elogio-ao-legado-que-inspirara-geracoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:07:52+00:00",
+      "summary": "No voto proposto por José Pedro Aguiar-Branco, refere-se que Jorge Palma \"conheceu a música ainda em criança, e não mais se libertou da sua força\"",
+      "category": "Cultura"
+    },
+    {
+      "title": "Parlamento rejeita cessar a vigência da nova lei orgânica",
+      "url": "https://observador.pt/2026/09/30/parlamento-rejeita-cessar-a-vigencia-da-nova-lei-organica-do-inem/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:06:51+00:00",
+      "summary": "\"Houve auscultação e a lei não nasceu de uma decisão fechada num gabinete\", defendeu a ministra da saúde Ana Paula Martins",
+      "category": "Saúde"
+    },
+    {
+      "title": "Torreense goleia e garante oitavos de final da Taça da Europa feminina",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/torreense-goleia-e-garante-oitavos-de-final-da-taca-da-europa-feminina_d1768757",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T22:06:03+00:00",
+      "summary": "O Torreense garantiu a passagem aos oitavos de final da Taça da Europa feminina de futebol depois de golear as ucranianas do Metalist 1925, por 4-1, na segunda mão da segunda eliminatória.",
+      "category": "Economia"
+    },
+    {
+      "title": "GATE é acionado para sequestro no Terminal João Dias em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/gate-e-acionado-para-sequestro-no-terminal-joao-dias-em-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T22:03:20+00:00",
+      "summary": "Homem armado invadiu farmácia no hipermercado anexo ao terminal; operação foi concluída no final da tarde desta quarta-feira (30), com a liberação da refém e a prisão dos suspeitos",
+      "category": "Economia"
+    },
+    {
+      "title": "Lula cancela agenda em Juiz de Fora por causa da forte chuva",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-cancela-agenda-em-juiz-de-fora-por-causa-da-forte-chuva/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T21:59:44+00:00",
+      "summary": "Presidente chegou ao Aeroporto Regional da Zona da Mata, mas não teria conseguido seguir de helicóptero para a cidade; ato foi encerrado por volta das 18h30.",
+      "category": "Política"
+    },
+    {
+      "title": "Eleições no Brasil. Vitória de Flávio Bolsonaro pode colocar Chega como canal privilegiado com Lisboa",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-vitoria-de-flavio-bolsonaro-pode-colocar-chega-como-canal-privilegiado-com-lisboa_es1768715",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T21:59:30+00:00",
+      "summary": "O confronto entre Lula da Silva e Flávio Bolsonaro para a Presidência do Brasil representa muito mais do que a disputa pelo Palácio do Planalto: coloca frente a frente duas visões antagónicas para a política externa e a soberania nacional, com impactos diretos em Portugal e na ordem regional latino-americana. A análise",
+      "category": "Política"
+    },
+    {
+      "title": "Patrocinador do Manchester City avalia ação judicial contra Premier League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/patrocinador-do-manchester-city-avalia-acao-judicial-contra-premier-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T21:57:40+00:00",
+      "summary": "Companhia aérea Etihad Airways, principal parceira econômica do clube desde 2009, disse \"rejeitar categoricamente qualquer constatação, conclusão ou implicação\" de que estivesse envolvida em acordos comerciais irregulares",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal goleia Gibraltar e assegura Europeu de sub-21",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-goleia-gibraltar-e-assegura-europeu-de-sub-21_d1768755",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T21:57:40+00:00",
+      "summary": "Portugal assegurou a 11.ª presença, a quarta consecutiva, na fase final do Campeonato da Europa de futebol de sub-21, ao golear Gibraltar, por 4-0, e ao assegurar o primeiro lugar no Grupo B.",
+      "category": "Economia"
+    },
+    {
+      "title": "Artur Jorge revela objetivo de renovação com o Cruzeiro e cita rivais",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/artur-jorge-revela-objetivo-de-renovacao-com-o-cruzeiro-e-cita-rivais/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T21:55:45+00:00",
+      "summary": "Treinador português teve o vínculo renovado em menos de um mês à frente do clube celeste e revelou o motivo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Vorcaro depõe à PF e nega existência de grupo criminoso \"A Turma\"",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/vorcaro-depoe-pf-e-nega-existencia-de-grupo-criminoso-turma",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T21:45:00+00:00",
+      "summary": "O ex-banqueiro Daniel Vorcaro, dono do Banco Master, prestou depoimento à Polícia Federal (PF) na tarde desta quarta-feira (30) e negou qualquer participação em atos violentos ou de caráter intimidatório contra desafetos. Ele negou participar, ou até mesmo conhecer, a existência dos grupos denominados como “A Turma” ou",
+      "category": "Mundo"
+    },
+    {
+      "title": "Uso de capacete para quem utiliza trotinete e bicicleta elétrica aprovado na generalidade",
+      "url": "https://www.rtp.pt/noticias/politica/uso-de-capacete-para-quem-utiliza-trotinete-e-bicicleta-eletrica-aprovado-na-generalidade_n1768746",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T21:40:45+00:00",
+      "summary": "O uso obrigatório de capacete para utilizadores de trotinetes e bicicletas elétricas foi hoje aprovado, na generalidade, pela Assembleia da República, seguindo agora para a discussão na especialidade, após um projeto de lei do PSD ter passado por maioria.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Parlamento rejeita cessar a vigência da nova lei orgânica do INEM",
+      "url": "https://www.rtp.pt/noticias/politica/parlamento-rejeita-cessar-a-vigencia-da-nova-lei-organica-do-inem_n1768745",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T21:39:33+00:00",
+      "summary": "O parlamento rejeitou hoje a proposta do PCP para que cessasse a vigência da nova lei orgânica do Instituto Nacional de Emergência Médica (INEM), na sequência da apreciação parlamentar do decreto-lei do Governo aprovado em maio.",
+      "category": "Política"
+    },
+    {
+      "title": "Reportagem da Agência Brasil fica em 3º lugar no Prêmio Radar Saúde",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/reportagem-da-agencia-brasil-fica-em-3o-lugar-no-premio-radar-saude",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T21:39:00+00:00",
+      "summary": "A Agência Brasil conquistou o terceiro lugar no Prêmio Radar Saúde 2026 , promovido pelo Instituto Todos Pela Saúde, com a matéria Brasil deverá ter centro para enfrentamento de emergências em saúde , de autoria da jornalista Elaine Patrícia Cruz. A reportagem mostrou o planejamento governamental na criação de infraest",
+      "category": "Saúde"
+    },
+    {
+      "title": "Rui Paulo Sousa. Parlamento levanta imunidade ao presidente da Comissão da Transparência",
+      "url": "https://www.rtp.pt/noticias/politica/rui-paulo-sousa-parlamento-levanta-imunidade-ao-presidente-da-comissao-da-transparencia_n1768737",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T21:37:52+00:00",
+      "summary": "A Assembleia da República levantou, por unanimidade, a imunidade parlamentar ao presidente da Comissão da Transparência, Rui Paulo Sousa, do Chega, por alegados crimes de discriminação e incitação ao ódio, e de fotografia ilícita.",
+      "category": "Política"
+    },
+    {
+      "title": "Governo anuncia parceria entre idD e italiana Fincantieri para recuperar Alfeite sem despedimentos",
+      "url": "https://www.rtp.pt/noticias/economia/governo-anuncia-parceria-entre-idd-e-italiana-fincantieri-para-recuperar-alfeite-sem-despedimentos_n1768733",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T21:36:25+00:00",
+      "summary": "O Arsenal do Alfeite terá um \"novo modelo gestionário e operacional\" que passará por uma parceria entre a entidade pública idD Portugal Defence e a italiana Fincantieri, anunciou hoje o Ministério da Defesa Nacional, assegurando que não haverá despedimentos.",
+      "category": "Política"
+    },
+    {
+      "title": "21h PSD e CHEGA assinam acordo sobre o Novo Regime do Arrendamento Urbano",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-psd-e-chega-assinam-acordo-sobre-o-novo-regime-do-arrendamento-urbano_a1_1768753",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T21:31:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cristiano Ronaldo arrisca seis meses de suspensão por abandonar seleção portuguesa",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/cristiano-ronaldo-arrisca-seis-meses-de-suspensao-por-abandonar-selecao-portuguesa_d1768752",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T21:30:42+00:00",
+      "summary": "O avançado Cristiano Ronaldo arrisca uma suspensão entre um e seis meses e uma multa, por ter abandonado a seleção portuguesa, segundo o Regulamento Disciplinar (RD) da Federação Portuguesa de Futebol (FPF).",
+      "category": "Esportes"
+    },
+    {
+      "title": "MPSP denuncia dois homens por falsificação de bebida que cegou mulher",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mpsp-denuncia-dois-homens-por-falsificacao-de-bebida-que-cegou-mulher",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T21:20:00+00:00",
+      "summary": "O Ministério Público do Estado de São Paulo (MPSP) denunciou dois homens por terem falsificado bebida alcoólica que cegou uma mulher em Guarulhos (SP), em setembro de 2025. A denúncia foi feita pela 16ª Promotoria de Justiça Criminal de Guarulhos. De acordo com o MPSP, um dos denunciados era proprietário e responsável ",
+      "category": "Mundo"
+    },
+    {
+      "title": "União Europeia sinaliza retomada de compras de frango e mel do Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/uniao-europeia-sinaliza-retomada-de-compras-de-frango-e-mel-do-brasil",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T21:02:00+00:00",
+      "summary": "Suspensas desde 3 de setembro , as exportações de frango e de mel para a União Europeia (UE) podem ser retomadas no curto prazo. A indicação foi dada nesta quarta-feira (30) pelo comissário europeu de Comércio e Segurança Econômica, Maroš Šefčovič, durante reunião com os ministros Mauro Vieira, das Relações Exteriores,",
+      "category": "Política"
+    },
+    {
+      "title": "Candidato do PRTB, Leonardo Avalanche desiste de disputar Presidência",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/candidato-do-prtb-leonardo-avalanche-desiste-de-disputar-presidencia",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T20:59:00+00:00",
+      "summary": "O candidato do PRTB à Presidência da República, Leonardo Avalanche , anunciou nesta quarta-feira (30) que desistiu de disputar o pleito deste ano. Em uma rede social, ele escreveu que tomou a decisão por motivos \"técnicos, jurídicos e pessoais\". Avalanche, que se colocava como candidato da direita, disse ainda que não ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Fotógrafo Tomaz Silva, da Agência Brasil, vence Prêmio Vladimir Herzog",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/fotografo-tomaz-silva-da-agencia-brasil-vence-premio-vladimir-herzog",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T20:58:00+00:00",
+      "summary": "O fotógrafo Tomaz Silva, da Agência Brasil , venceu o Prêmio Jornalístico Vladimir Herzog de Anistia e Direitos Humanos deste ano pelo trabalho Viúva se despede do marido morto na operação policial mais letal do Rio de Janeiro . O anúncio foi feito nesta quarta-feira (30). A fotografia retrata a dor de Fernanda da Silv",
+      "category": "Mundo"
+    },
+    {
+      "title": "Evangélicos são alvo de disputa, mas rejeitam uso eleitoral de igrejas",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/evangelicos-sao-alvo-de-disputa-mas-rejeitam-uso-eleitoral-de-igrejas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T19:53:00+00:00",
+      "summary": "\"O voto deveria ser do cidadão e não da religião\", afirma o pastor Lucas Oliveira, 30 anos, que atua em uma igreja batista de Nova Iguaçu, na Baixada Fluminense. A frase do pregador evangélico, em conversa com a Agência Brasil , sintetiza uma das principais contradições reveladas pela pesquisa nacional Religião e Vida ",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Rodrigo Pacheco toma posse como ministro do TCU",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-toma-posse-como-ministro-do-tcu",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T19:31:00+00:00",
+      "summary": "O ex-presidente do Senado Rodrigo Pacheco tomou posse nesta quarta-feira (30) no cargo de ministro do Tribunal de Contas da União (TCU). A nomeação foi publicada em edição extra do Diário Oficial da União de segunda-feira (28). O ex-senador ocupa a vaga aberta com a saída de Bruno Dantas , que deixou a corte de Contas ",
+      "category": "Política"
+    },
+    {
+      "title": "EUA tiram visto de procurador que investiga ex-assessor de Milei",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/eua-tiram-visto-de-fiscal-que-investiga-ex-assessor-de-milei",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T18:46:00+00:00",
+      "summary": "Os Estados Unidos (EUA) retiraram o visto de 26 autoridades e empresários latino-americanas do Peru, da Colômbia, Equador e Bolívia. Entre eles, o do procurador-geral da Bolívia, Roger Mariaca, responsável pela investigação contra o argentino Fernando Cerimedo, operador digital de presidentes aliados de Donald Trump na",
+      "category": "Política"
     },
     {
       "title": "Brasil e EUA criam grupo específico para negociar tarifaço",
@@ -341,186 +521,6 @@
       "region": "Brasil",
       "publishedAt": "2026-09-30T18:32:00+00:00",
       "summary": "Os governos do Brasil e dos Estados Unidos decidiram criar um grupo de trabalho para discutir as tarifas aplicadas por Washington sobre produtos brasileiros e outros temas da relação comercial entre os dois países. O acordo foi anunciado nesta quarta-feira (30), após reunião dos ministros Mauro Vieira, das Relações Ext",
-      "category": "Política"
-    },
-    {
-      "title": "Casas fechadas e rendas a subir: é só má gestão do Governo?",
-      "url": "https://observador.pt/programas/e-o-vencedor-e/casas-fechadas-e-rendas-a-subir-e-so-ma-gestao-do-governo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:26:49+00:00",
-      "summary": "Com 250 mil casas vazias e rendas a disparar, o governo inventa garantias teóricas que ninguém vai usar. Enquanto a crise aperta, os jovens continuam sem conseguir sair do próprio quarto.",
-      "category": "Política"
-    },
-    {
-      "title": "Gilmar Mendes critica vazamento seletivo de investigações no STF",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/gilmar-mendes-critica-vazamento-seletivo-de-investigacoes-no-stf",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T18:25:00+00:00",
-      "summary": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), voltou a criticar nesta quarta-feira (30) os \"vazamentos seletivos\" de investigações que estão em andamento na Corte. Durante a abertura da sessão desta tarde, Gilmar Mendes proferiu um discurso em homenagem ao primeiro ano do mandato do atual presidente da C",
-      "category": "Política"
-    },
-    {
-      "title": "19h. Ventura critica Carneiro por viabilizar OE",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2180/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:23:48+00:00",
-      "summary": "O secretário-geral do PS anunciou esta tarde em entrevista ao jornal ECO que vai abster-se na votação da proposta orçamental. Ainda, Air France-KLM e Lufthansa reforçam o interesse na TAP.",
-      "category": "Mundo"
-    },
-    {
-      "title": "MI5: China usou organização para espiar universidades",
-      "url": "https://observador.pt/2026/09/30/mi5-acusa-china-de-usar-organizacao-para-espiar-investigacoes-em-universidades-britanicas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:23:42+00:00",
-      "summary": "A agência de espionagem britânica descreve uma \"ameaça\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Londres diz que Irão participou no ataque à base da RAF",
-      "url": "https://observador.pt/2026/09/30/reino-unido-acredita-no-envolvimento-do-irao-na-tentativa-de-ataque-a-base-aerea-de-fairford/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:21:53+00:00",
-      "summary": "A base militar de RAF Fairford situa-se na fronteira entre Gloucestershire e Wiltshire, a cerca de 160 quilómetros a oeste de Londres",
-      "category": "Mundo"
-    },
-    {
-      "title": "Procurador-geral do Porto denuncia falta de magistrados",
-      "url": "https://observador.pt/2026/09/30/procurador-geral-regional-do-porto-denuncia-falta-de-magistrados/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:18:47+00:00",
-      "summary": "Em setembro de 2025 estavam colocados na área da PGRP 530 magistrados do Ministério Público",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mosquito do dengue zika e chikungunya no Alto Minho",
-      "url": "https://observador.pt/2026/09/30/uls-confirma-presenca-do-mosquito-transmissor-do-dengue-zika-e-chikungunya-no-alto-minho/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:15:36+00:00",
-      "summary": "A Unidade Local de Saúde do Alto Minho revela ainda estar \"em curso uma intervenção intersectorial, em estreita articulação com entidades locais, com o objetivo de prevenir e controlar a proliferação\"",
-      "category": "Saúde"
-    },
-    {
-      "title": "Lídia Pereira chefia delegação europeia à COP31",
-      "url": "https://observador.pt/2026/09/30/eurodeputada-portuguesa-lidia-pereira-chefia-delegacao-do-parlamento-europeu-a-cop31/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:13:45+00:00",
-      "summary": "\"A credibilidade da ação climática mede-se cada vez menos pelo que anunciamos em cada COP e cada vez mais pelo que conseguimos executar\"",
-      "category": "Economia"
-    },
-    {
-      "title": "Escândalo: sionistas magoam co-piloto activista",
-      "url": "https://observador.pt/programas/ideias-feitas/escandalo-sionistas-magoam-co-piloto-activista/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:04:08+00:00",
-      "summary": "Alberto Gonçalves comenta o viés dos \"media\" na cobertura das notícias que envolvem Israel.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Leiloada obra de van Gogh pintada dois meses antes da morte",
-      "url": "https://observador.pt/2026/09/30/obra-de-vincent-van-gogh-pintada-dois-meses-antes-da-sua-morte-vai-a-leilao-pela-sothebys/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T18:03:24+00:00",
-      "summary": "Châtaigniers en fleurs (Castanheiros em flor, em português) foi pintada em maio de 1890",
-      "category": "Mundo"
-    },
-    {
-      "title": "PP cria embaraço a Sánchez durante visita de Macron a Madrid",
-      "url": "https://observador.pt/2026/09/30/pp-cria-embaraco-diplomatico-a-sanchez-durante-visita-de-macron-a-madrid/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T17:58:02+00:00",
-      "summary": "Sánchez recebeu Macron, no Palácio da Moncloa, em Madrid, esta quarta-feira",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mudanças na emissão e no controle de receitas médicas entram em vigor",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/mudancas-na-emissao-e-no-controle-de-receitas-medicas-entram-em-vigor",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T17:56:00+00:00",
-      "summary": "A partir desta quarta-feira (30), o Sistema Nacional de Controle de Receituários (SNCR) da Agência Nacional de Vigilância Sanitária (Anvisa) passa a disponibilizar funcionalidades específicas para a emissão e o controle eletrônico de receitas médicas. Em nota, a Anvisa destacou que a mudança não significa o fim das rec",
-      "category": "Saúde"
-    },
-    {
-      "title": "Termina nesta quarta prazo para pedir dinheiro do fundo PIS/Pasep",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/termina-nesta-quarta-prazo-para-pedir-dinheiro-do-fundo-pispasep",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T17:48:00+00:00",
-      "summary": "Empregados com carteira assinada e servidores públicos que trabalharam de 1971 a 1988 que querem sacar as cotas do antigo fundo Programa de Integração Social (PIS) e Programa de Formação do Patrimônio do Servidor Público (Pasep) precisam estar atentos. Acaba nesta quarta-feira (30) o prazo para pedir os recursos a sere",
-      "category": "Cultura"
-    },
-    {
-      "title": "PS de Sintra contra PPP nos hospitais de Sintra",
-      "url": "https://observador.pt/2026/09/30/ps-de-sintra-contra-mocao-de-psd-chega-il-e-pan-para-gestao-de-hospital-em-ppp/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T17:47:08+00:00",
-      "summary": "O PS, na nota, salientou que o Hospital de Sintra foi construído \"com um investimento superior a 60 milhões de euros saídos diretamente dos impostos dos munícipes\"",
-      "category": "Economia"
-    },
-    {
-      "title": "Imersão científica leva alunas e professoras a centros tecnológicos",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/imersao-cientifica-leva-alunas-e-professoras-centros-tecnologicos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T17:40:00+00:00",
-      "summary": "Alunas do ensino médio e professoras de escolas públicas estaduais de todo o Brasil podem se inscrever, até o próximo dia 26 de outubro, para conhecer os maiores laboratórios e espaços de desenvolvimento científico e tecnológico do país. A oportunidade faz parte do Programa Futuras Cientistas, vinculado ao Ministério d",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Museu de Ciências da Terra leva \"dinossauros\" ao Morro da Urca, no Rio",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/museu-de-ciencias-da-terra-leva-dinossauros-ao-morro-da-urca-no-rio",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T16:46:00+00:00",
-      "summary": "O Morro da Urca, na Zona Sul do Rio de Janeiro, vai se tornar um lugar de descobertas sobre fósseis e dinossauros com a exposição de peças do acervo do Museu de Ciências da Terra (MCTer). A exposição A Aventura Pré-Histórica será entre os dias 5 e 18 de outubro, das 10h às 17h . O prédio histórico, que fica no mesmo ba",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Portaria libera doação de sangue de pessoas com mais de 70 anos",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/portaria-libera-doacao-de-sangue-de-pessoas-com-mais-de-70-anos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T16:08:00+00:00",
-      "summary": "Pessoas com 70 anos ou mais que permaneçam saudáveis poderão ser doadoras de sangue, segundo o novo regulamento técnico da hemoterapia no Brasil. A mudança foi estabelecida na Portaria GM/MS 11.685/2026 , do Ministério da Saúde, que foi publicada em julho e passa a valer a partir desta quarta-feira (30). Para doar, a p",
-      "category": "Saúde"
-    },
-    {
-      "title": "Justiça manda Discord aumentar proteção de crianças e adolescentes",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-manda-discord-aumentar-protecao-de-criancas-e-adolescentes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T15:39:00+00:00",
-      "summary": "A Justiça Federal determinou que a plataforma Discord adote, imediatamente, medidas de proteção de crianças, adolescentes e mulheres no ambiente digital sob pena de multa diária de R$ 100 mil. O juiz Anderson Silva, da 14ª Vara Federal Cível de Brasília, atendeu a pedido feito pela Advocacia-Geral da União (AGU) em açã",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Autorregulação da IA de Trump é carta branca a big tech, diz professor",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/autorregulacao-da-ia-de-trump-e-carta-branca-bigtechs-diz-professor",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T15:18:00+00:00",
-      "summary": "O anúncio do governo dos Estados Unidos (EUA) e de big techs da Inteligência Artificial (IA) de criar uma autorregulação voluntária com controles de segurança para o desenvolvimento da tecnologia representa uma “carta branca” para a indústria do setor com riscos para a saúde pública e para a democracia dos países. Essa",
-      "category": "Política"
-    },
-    {
-      "title": "Frente de prefeitos apresenta carta com propostas aos presidenciáveis",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/frente-de-prefeitos-apresenta-carta-com-propostas-aos-presidenciaveis",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T15:06:00+00:00",
-      "summary": "A Frente Nacional de Prefeitas e Prefeitos (FNP) cobrou dos candidatos à Presidência da República a construção de “uma nova relação federativa, com maior participação dos governos locais nas decisões nacionais” , em carta pública . No documento, publicado esta quarta-feira (30), a entidade avalia que os próximos quatro",
       "category": "Política"
     }
   ],
