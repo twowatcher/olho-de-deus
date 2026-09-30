@@ -1,13 +1,463 @@
 {
-  "updatedAt": "2026-09-29T20:44:20.546778+00:00",
+  "updatedAt": "2026-09-30T00:24:38.276218+00:00",
   "items": [
     {
-      "title": "Entrevista completa realizador jones",
-      "url": "https://www.rtp.pt/noticias/pais/entrevista-completa-realizador-jones_a1768534",
+      "title": "ACOMPANHE: TV Liberal faz debate com os candidatos ao governo do PA",
+      "url": "https://g1.globo.com/pa/para/eleicoes/2026/ao-vivo/debate-candidatos-governo-pa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:16:22+00:00",
+      "summary": "ACOMPANHE: TV Liberal faz debate com os candidatos ao governo do PA Participam Araceli Lemos (PSOL), Dr Daniel Santos (Podemos) e Hana Ghassan (MDB). Debate será realizado nesta terça-feira (29), após a novela Quem Ama Cuida, da Globo.. Foram convidados os candidatos cujos partidos tiveram representação de, no mínimo, ",
+      "category": "Política"
+    },
+    {
+      "title": "As notícias da 1h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2399/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-30T00:15:28+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Felipe Camarão propõe geração de renda e retomada do Mais IDH contra a pobreza",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/29/felipe-camarao-propoe-geracao-de-renda-e-retomada-do-mais-idh-contra-a-pobreza.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:14:11+00:00",
+      "summary": "Felipe Camarão (PT) Reprodução/ TV Mirante Felipe Camarão cumpriu agenda, na manhã desta terça-feira (29), no comitê de campanha, no bairro Turu, em São Luís. O candidato se reuniu com coordenadores para discutir estratégias de campanha. Em entrevista, Camarão falou sobre propostas de combate à pobreza e assistência so",
+      "category": "Mundo"
+    },
+    {
+      "title": "Nossa Senhora Aparecida: nova guerra de decisões volta a dividir o Supremo Tribunal Federal",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/29/nossa-senhora-aparecida-nova-guerra-de-decisoes-volta-a-dividir-o-supremo-tribunal-federal.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:13:41+00:00",
+      "summary": "TSE analisa em plenário virtual decisão de Mendonça de retirar publicações envolvendo padroeira do Brasil Ministros do STF - Supremo Tribunal Federal voltaram a protagonizar uma guerra de decisões nos últimos dias. Desta vez, a disputa envolve a padroeira do Brasil. A nova controvérsia entre os ministros começou na últ",
+      "category": "Política"
+    },
+    {
+      "title": "Candidatos ao governo de Santa Catarina participam de debate na NSC TV",
+      "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/debate-candidatos-governo-santa-catarina.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:13:30+00:00",
+      "summary": "Candidatos ao governo de Santa Catarina participam de debate na NSC TV Debate às 22h15 desta terça-feira (29) terá transmissão na TV, após a novela 'Quem Ama Cuida', no g1 e nas rádios CBN Floripa e CBN Joinville. NSC TV realiza nesta terça-feira (29) um debate com candidatos ao governo de Santa Catarina. . Encontro oc",
+      "category": "Política"
+    },
+    {
+      "title": "Rede Amazônica faz debate com candidatos ao governo de Rondônia",
+      "url": "https://g1.globo.com/ro/rondonia/eleicoes/2026/ao-vivo/debate-candidatos-governo-rondonia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:13:18+00:00",
+      "summary": "Rede Amazônica faz debate com candidatos ao governo de Rondônia Rede Amazônica convidou os seis candidatos que concorrem à vaga: Adailton Furia (PSD), Expedito Netto (PT), Hildon Chaves (União), Marcos Rogério (PL), Pedro Abib (MDB), Samuel Costa (PSB). A Rede Amazônica realiza debate com os candidatos ao governo de Ro",
+      "category": "Política"
+    },
+    {
+      "title": "Globo promove debate entre candidatos ao governo do DF nesta terça; g1 transmite",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/globo-promove-debate-entre-candidatos-ao-governo-do-df-nesta-terca-g1-transmite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:12:28+00:00",
+      "summary": "Globo promove debate entre candidatos ao governo do DF nesta terça; g1 transmite Foram convidados Celina Leão (PP), Leandro Grass (PT), Paula Belmonte (PSDB) e Ricardo Cappelli (PSB).",
+      "category": "Política"
+    },
+    {
+      "title": "Candidatos ao governo da Paraíba participam de debate nas TVs Cabo Branco e Paraíba; g1 transmite",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/ao-vivo/debate-candidatos-governo-pb.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:12:08+00:00",
+      "summary": "Candidatos ao governo da Paraíba participam de debate nas TVs Cabo Branco e Paraíba; g1 transmite Participam os candidatos Cícero Lucena (MDB), Efraim Filho (PL) e Lucas Ribeiro (PP). Debate acontece nesta terça-feira (29), a partir das 22h15.. Participam os candidatos Cícero Lucena (MDB), Efraim Filho (PL) e Lucas Rib",
+      "category": "Política"
+    },
+    {
+      "title": "g1 transmite hoje debate entre candidatos ao governo de Pernambuco",
+      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/ao-vivo/debate-candidatos-governo-pernambuco.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:11:23+00:00",
+      "summary": "g1 transmite hoje debate entre candidatos ao governo de Pernambuco TV Globo convidou Ivan Moraes (PSOL), João Campos (PSB) e Raquel Lyra (PSD). TV Globo e g1 transmitem debate com candidatos ao governo nesta terça (29), após a novela 'Quem ama cuida'.. Foram convidados Ivan Moraes (PSOL), João Campos (PSB) e Raquel Lyr",
+      "category": "Política"
+    },
+    {
+      "title": "Candidatos ao governo do Espírito Santo participam de debate da TV Gazeta",
+      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/candidatos-ao-governo-do-espirito-santo-participam-de-debate-da-tv-gazeta.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:09:35+00:00",
+      "summary": "Candidatos ao governo do Espírito Santo participam de debate da TV Gazeta Participam os candidatos Helder Salomão (PT), Lorenzo Pazolini (Republicanos) e Ricardo Ferraço (MDB), a partir das 22h15 desta terça-feira (29).",
+      "category": "Política"
+    },
+    {
+      "title": "TV Clube faz debate com os candidatos ao governo do PI",
+      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/ao-vivo/debate-candidatos-governo-pi.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:09:19+00:00",
+      "summary": "TV Clube faz debate com os candidatos ao governo do PI Participam Rafael Fonteles (PT), Joel Rodrigues (PP), Dra. Lúcia Santos (PSDB), Professor Gisvaldo (PSOL) e Elizeu Aguiar (Novo). Debate será realizado nesta terça-feira (29), após a novela Quem Ama Cuida, da TV Globo.. Foram convidados os candidatos cujos partidos",
+      "category": "Política"
+    },
+    {
+      "title": "Fiat Argo X tem primeiras images reveladas e parece o Grande Panda europeu",
+      "url": "https://www.cnnbrasil.com.br/auto/fiat-argo-x-tem-primeiras-images-reveladas-e-parece-o-grande-panda-europeu/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:06:37+00:00",
+      "summary": "Hatch compacto será produzido em Betim, terá visual baseado no Grande Panda europeu. Atual Fiat Argo será mantido com opção de entrada",
+      "category": "Economia"
+    },
+    {
+      "title": "Felipe Camarão propõe retomar Mais IDH e ampliar assistência social no Maranhão",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/29/felipe-camarao-propoe-retomar-mais-idh-e-ampliar-assistencia-social-no-maranhao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:03:16+00:00",
+      "summary": "Roberto Rocha (PRTB) Reprodução/ TV Mirante Roberto Rocha cumpriu agenda, na tarde desta terça-feira (29), no escritório de campanha, no bairro Calhau, em São Luís. O candidato se reuniu com a equipe para alinhar estratégias e se preparar para o debate da TV Mirante. Durante o compromisso, Rocha apresentou propostas re",
+      "category": "Mundo"
+    },
+    {
+      "title": "Furacão Polo atinge a costa do México pela segunda vez",
+      "url": "https://www.cnnbrasil.com.br/internacional/furacao-polo-atinge-a-costa-do-mexico-pela-segunda-vez/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:02:51+00:00",
+      "summary": "Tempestade chegou ao estado de Sonora com ventos máximos de 120 km/h e provocou a retirada de centenas de moradores em várias cidades",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mega-Sena, concurso 3064: confira os números sorteados",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/29/mega-sena-concurso-3064-confira-os-numeros-sorteados.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:02:46+00:00",
+      "summary": "Como funciona a Mega-Sena? O sorteio do concurso 3.064 da Mega-Sena foi realizado na noite desta terça-feira (29), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 49,5 milhões. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Mega-Sena terá semana especial em outubro, com ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pernilongo na hora de dormir? Veja 7 plantas comestíveis e aromáticas que agem como repelentes naturais",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/pernilongo-na-hora-de-dormir-veja-7-plantas-comestiveis-e-aromaticas-que-agem-como-repelentes-naturais/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-30T00:02:12+00:00",
+      "summary": "Espécies aromáticas como manjericão, hortelã e alecrim não só afastam insetos, mas também embelezam o lar e podem ser usadas em diversas receitas e bebidas",
+      "category": "Mundo"
+    },
+    {
+      "title": "PM pede responsabilidade à oposição para manter estabilidade política",
+      "url": "https://www.rtp.pt/noticias/politica/pm-pede-responsabilidade-a-oposicao-para-manter-estabilidade-politica_n1768546",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-09-29T21:42:42+00:00",
+      "publishedAt": "2026-09-29T23:58:40+00:00",
+      "summary": "O primeiro-ministro apelou hoje à responsabilidade da oposição na apreciação do próximo Orçamento do Estado para continuar a haver estabilidade política em Portugal, avisando que há espaço para melhorar mas não para deturpar o documento.",
+      "category": "Política"
+    },
+    {
+      "title": "PM investiga possível roubo de carga em Carapicuíba, Grande SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/pm-investiga-possivel-roubo-de-carga-em-carapicuiba-grande-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:55:53+00:00",
+      "summary": "Segundo a corporação, os agentes foram acionados após o sistema de monitoramento de um caminhão-baú anunciar que o veículo estava fora da rota prevista e sem contato com o motorista",
+      "category": "Mundo"
+    },
+    {
+      "title": "Despejo em Marvila divide câmara e moradores",
+      "url": "https://observador.pt/2026/09/30/moradores-denunciam-proposta-de-centro-de-refugiados-para-familia-despejada-em-lisboa-mas-santa-casa-nega/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:44:19+00:00",
+      "summary": "\"São 2.800 famílias que estão a precisar de casa e fazer esta exceção implicaria retirar uma casa a uma destas famílias\", disse Vasco Moreira Rato",
+      "category": "Política"
+    },
+    {
+      "title": "Mendonça reconsidera decisão e libera post de deputada sobre Nossa Senhora",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/mendonca-reconsidera-decisao-e-libera-post-de-deputada-sobre-nossa-senhora/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:43:18+00:00",
+      "summary": "Ministro do TSE entendeu que Erika Hilton não apresentou como fato a falsa alegação de que Flávio Bolsonaro quer retirar da santa o título de Padroeira do Brasil; restante da ordem foi mantida",
+      "category": "Política"
+    },
+    {
+      "title": "Falta de dados limita monitoramento de tsunamis meteorológicos",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/falta-de-dados-limita-monitoramento-de-tsunamis-meteorologicos",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:41:00+00:00",
+      "summary": "O tsunami meteorológico que atingiu a costa sul de Santa Catarina em 21 de setembro foi registrado por moradores, câmeras e equipamentos instalados em ruas, veículos e embarcações. As imagens feitas por pessoas que estavam na região ajudaram pesquisadores a identificar o momento do fenômeno e a direcionar a análise dos",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Presidente do TSE diz que 90% das urnas estão prontas para as eleições",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-tse-diz-que-90-das-urnas-estao-prontas-para-eleicoes",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:40:00+00:00",
+      "summary": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, informou nesta terça-feira (29) que 90% das urnas eletrônicas estão prontas para serem utilizadas nas eleições. Durante a sessão de julgamentos desta noite, o presidente disse que a Justiça Eleitoral enfrentou desafios logísticos e climát",
+      "category": "Política"
+    },
+    {
+      "title": "Líderes de IA assinam acordo de autorregulação após encontro na Casa Branca",
+      "url": "https://www.cnnbrasil.com.br/internacional/lideres-de-ia-assinam-acordo-de-autorregulacao-apos-encontro-na-casa-branca/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:38:13+00:00",
+      "summary": "Documento assinado na Casa Branca estabelece quatro diretrizes principais para monitorar falhas e garantir a governança das empresas",
+      "category": "Economia"
+    },
+    {
+      "title": "Tennesse vai executar mulher após 200 anos; último condenado à morte no Brasil foi enforcado durante período imperial",
+      "url": "https://www.cnnbrasil.com.br/nacional/brasil/tennesse-vai-executar-mulher-apos-200-anos-ultimo-condenado-a-morte-no-brasil-foi-enforcado-durante-periodo-imperial/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:36:45+00:00",
+      "summary": "Última pessoa a receber sentença de morte, em território brasileiro, foi um escravizado, conhecido como negro Francisco, em 1876, há 150 anos; nos EUA, Christa Gail Pike teve o pedido de clemência negado e será morta nesta quarta-feira (30)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Nunes Marques diz que mais de 90% das urnas estão preparadas para eleições",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-diz-que-mais-de-90-das-urnas-estao-preparadas-para-eleicoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:33:05+00:00",
+      "summary": "Presidente do Tribunal Superior Eleitoral afirmou que a maioria das urnas já chegou aos locais de votação; TSE começou a testar as urnas eletrônicas em dezembro de 2025",
+      "category": "Política"
+    },
+    {
+      "title": "Homem é preso após tentar abusar sexualmente de uma menina de 10 anos",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/homem-e-preso-apos-tentar-abusar-sexualmente-de-uma-menina-de-10-anos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:32:40+00:00",
+      "summary": "Segundo investigações, a criança estava na casa da avó paterna quando foi abordada pelo autor do crime que era vizinho da família, em Japeri, no RJ",
+      "category": "Mundo"
+    },
+    {
+      "title": "NFL no Rio bate recorde de audiência de um jogo internacional nos EUA",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol-americano/nfl-no-rio-bate-recorde-de-audiencia-de-um-jogo-internacional-nos-eua/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:31:09+00:00",
+      "summary": "Baltimore Ravens derrotou o Dallas Cowboys por 34 a 31 no Estádio do Maracanã, no último domingo (27)",
+      "category": "Esportes"
+    },
+    {
+      "title": "Temporais no RS afetam mais de 54 mil pessoas e danificam 8,1 mil casas",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/temporais-no-rs-afetam-mais-de-54-mil-pessoas-e-danificam-81-mil-casas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:30:17+00:00",
+      "summary": "Defesa Civil estadual registrou ocorrências com predomínio de granizo, vendavais, alagamentos e deslizamentos de terra",
+      "category": "Clima"
+    },
+    {
+      "title": "Inglaterra mantém museus gratuitos para turistas",
+      "url": "https://observador.pt/2026/09/30/inglaterra-vai-manter-entrada-gratuita-nos-museus-a-visitantes-internacionais/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:30:09+00:00",
+      "summary": "Vigente desde 2001, a gratuidade na entrada dos museus a estrangeiros foi sujeita a debate depois da publicação de um relatório independente em dezembro de 2025.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pacto para a Saúde quer consenso em janeiro",
+      "url": "https://observador.pt/2026/09/30/coordenador-do-pacto-estrategico-para-a-saude-pede-avancos-aos-partidos-a-partir-de-janeiro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:29:39+00:00",
+      "summary": "\"As oposições existem não apenas para criticar os governos, mas naturalmente para ajudar os governos a governar melhor\" diz Alberto Campos Fernandes",
+      "category": "Política"
+    },
+    {
+      "title": "Dino não integra TSE e há interferência política do STF, diz especialista",
+      "url": "https://www.cnnbrasil.com.br/politica/dino-nao-integra-tse-e-ha-interferencia-politica-do-stf-diz-especialista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:29:23+00:00",
+      "summary": "Vera Chemin avalia que interferências políticas entre ministros do STF e TSE podem fundamentar pedidos para anular o pleito eleitoral",
+      "category": "Política"
+    },
+    {
+      "title": "O insubstituível lugar do passado",
+      "url": "https://observador.pt/opiniao/o-insubstituivel-lugar-do-passado/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:27:24+00:00",
+      "summary": "Gonzalez não está “ilusionado” com o mundo que intui perigosíssimo. Quase tudo o desgosta, indigna ou revolta, por isso se mantém activo. Possui o instrumento da palavra, usa-a com propósito e mestria",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ed Miliband ou o desastre da política externa britânica",
+      "url": "https://observador.pt/opiniao/ed-miliband-ou-o-desastre-da-politica-externa-britanica/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:24:03+00:00",
+      "summary": "Se a iniciativa das reparações avançar, será discutida a sério no Reino Unido, e a maioria dos britânicos será contra. Talvez a imensa vaidade de Miliband e a total ausência de escrúpulos ajude Farage",
+      "category": "Mundo"
+    },
+    {
+      "title": "Chega, Renconquista e a reconfiguração da direita",
+      "url": "https://observador.pt/opiniao/chega-reconquista-e-a-reconfiguracao-da-direita/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:23:26+00:00",
+      "summary": "Mesmo que com uma representação parlamentar pequena - ou menos unipessoal - o novo partido transformaria o Chega no partido central da direita portuguesa.",
+      "category": "Política"
+    },
+    {
+      "title": "Calor e chuvas levam Defesa Civil a emitir 34 alertas em São Paulo",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/calor-e-chuvas-levam-defesa-civil-emitir-34-alertas-em-sao-paulo",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T23:22:00+00:00",
+      "summary": "A Defesa Civil paulista emitiu 34 alertas pelo sistema Cell Broadcast nesta terça-feira (29). Entre eles, 28 foram ocasionados por calor excessivo e baixa umidade relativa do ar, enquanto seis orientavam cuidados excepcionais em cidades atingidas por tempestades. As condições no estado são típicas da ocorrência do El N",
+      "category": "Clima"
+    },
+    {
+      "title": "A grande surpresa no lar socialista: faltam casas",
+      "url": "https://observador.pt/opiniao/a-grande-surpresa-no-lar-socialista-faltam-casas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:20:47+00:00",
+      "summary": "Quem podia prever que penalizar o investimento com burocracia e impostos, ao mesmo tempo que se escancarava a porta a mais de um milhão de imigrantes em meia dúzia de anos, criaria escassez de casas?",
+      "category": "Clima"
+    },
+    {
+      "title": "Proença viajou mais cedo mas Ronaldo e Jesus já reuniram",
+      "url": "https://observador.pt/2026/09/30/proenca-viajou-mais-cedo-afinal-nao-valia-a-pena-ronaldo-e-jesus-reuniram-falaram-e-superaram-alegado-desentendimento/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:18:57+00:00",
+      "summary": "Ronaldo limitou-se a fazer trabalho de ginásio desde a vitória de Portugal em Oslo frente à Noruega, onde não saiu do banco de suplentes",
+      "category": "Mundo"
+    },
+    {
+      "title": "00h. 440 detidos em protestos estudantis violentos em França",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2434/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:15:27+00:00",
+      "summary": "A maioria dos detidos são menores. Os alunos protestam contra a falta de professores, salas sobrelotadas e horários excessivos. Ainda, mais de nove mil alunos colocados na 2.ª fase.",
+      "category": "Mundo"
+    },
+    {
+      "title": "O mundo bebe menos vinho, e Portugal é a exceção",
+      "url": "https://observador.pt/opiniao/o-mundo-bebe-menos-vinho-e-portugal-e-a-excecao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:15:26+00:00",
+      "summary": "O vinho não perdeu uma geração por antipatia. Perdeu a exclusividade que tinha à mesa, e está a competir num mercado onde o cliente experimenta tudo e não se casa com nada.",
+      "category": "Economia"
+    },
+    {
+      "title": "Um bispo, um presidente e um ministro entram numa escola...",
+      "url": "https://observador.pt/opiniao/um-bispo-um-presidente-e-um-primeiro-ministro-entram-numa-escola/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T23:14:08+00:00",
+      "summary": "Podia sero princípio de uma anedota. Os herdeiros do Mata Frades e de Afonso Costa tornaram-no num escândalo nacional.",
+      "category": "Política"
+    },
+    {
+      "title": "22h PM, política de habitação do governo é para manter",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-pm-politica-de-habitacao-do-governo-e-para-manter_a1_1768544",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T22:58:02+00:00",
       "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "CAN2027. Guiné-Bissau e Moçambique triunfam, Cabo Verde volta a perder",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/can2027-guine-bissau-e-mocambique-triunfam-cabo-verde-volta-a-perder_d1768542",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T22:55:44+00:00",
+      "summary": "A Guiné-Bissau surpreendeu, esta terça-feira, a Nigéria por expressivos 3-0 na segunda jornada de qualificação para a Taça das Nações Africanas (CAN) de 2027, enquanto Cabo Verde voltou a perder. Moçambique alcançou a primeira vitória.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Síria anuncia detenção de membros de uma célula ligada ao Hezbollah",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/siria-anuncia-detencao-de-membros-de-uma-celula-ligada-ao-hezbollah_n1768540",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T22:49:40+00:00",
+      "summary": "As autoridades da Síria anunciaram hoje terem detido, no sul do país perto do planalto do Golan ocupado por Israel, três membros de uma célula ligada ao Hezbollah libanês que, estariam a planear ataques.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Advogado pede absolvição de mulher acusada de matar os três filhos nos EUA",
+      "url": "https://www.rtp.pt/noticias/mundo/advogado-pede-absolvicao-de-mulher-acusada-de-matar-os-tres-filhos-nos-eua_n1768538",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T22:49:18+00:00",
+      "summary": "O advogado de Lindsay Clancy, acusada de matar os três filhos nos Estados Unidos, pediu hoje a um juiz que a declarasse inocente, após um julgamento de grande impacto em que o júri não conseguiu chegar a um veredicto.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Fachin adia discussão sobre postagens de Nossa Senhora no STF",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-adia-discussao-sobre-postagens-de-nossa-senhora-no-stf",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T22:48:00+00:00",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, decidiu não pautar para a sessão desta quarta-feira (30) o julgamento sobre as decisões envolvendo postagens de Nossa Senhora Aparecida durante as eleições. A sessão será dedicada ao julgamento de processos que já estavam previamente agendados , com",
+      "category": "Política"
+    },
+    {
+      "title": "Prazo para empresas optarem por Simples é prorrogado para outubro",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/prazo-para-empresas-optarem-por-simples-e-prorrogado-para-outubro",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T22:32:00+00:00",
+      "summary": "Após diálogo com o Conselho Federal de Contabilidade e o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), os micro e pequenos empresários ganharam mais um mês para se adaptarem à reforma tributária. O Comitê Gestor do Simples Nacional (CGSN) prorrogou o prazo de adesão ao Simples Nacional, regime simp",
+      "category": "Economia"
+    },
+    {
+      "title": "CGTP e CIP lançam críticas ao Orçamento do Estado mas divergem quanto aos salários",
+      "url": "https://www.rtp.pt/noticias/economia/cgtp-e-cip-lancam-criticas-ao-orcamento-do-estado-mas-divergem-quanto-aos-salarios_n1768539",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T22:26:32+00:00",
+      "summary": "Em debate na RTP Notícias esta terça-feira, o secretário-geral da CGTP e o presidente da CIP estiveram de acordo em relação ao Orçamento do Estado, mas discordaram quanto ao salário mínimo nacional.",
+      "category": "Política"
+    },
+    {
+      "title": "Conselho da Europa. Seguro reafirma \"compromisso de Portugal com valores da paz\"",
+      "url": "https://www.rtp.pt/noticias/politica/conselho-da-europa-seguro-reafirma-compromisso-de-portugal-com-valores-da-paz_n1768535",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T22:09:52+00:00",
+      "summary": "\"Quando se dialoga, a capacidade para encontrarmos soluções por meios pacíficos é muito mais eficiente do que recorrermos, como alguns continuam a fazer, a instrumentos bélicos\".",
+      "category": "Economia"
+    },
+    {
+      "title": "Arrendamento em debate. Proposta do Governo à beira do chumbo no Parlamento",
+      "url": "https://www.rtp.pt/noticias/politica/arrendamento-em-debate-proposta-do-governo-a-beira-do-chumbo-no-parlamento_n1768508",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-09-29T22:00:27+00:00",
+      "summary": "A proposta do Governo para o arrendamento é discutida esta quarta-feira no Parlamento. O PS já anunciou que iria votar contra e também o Chega ameaçou nesse sentido.",
+      "category": "Política"
+    },
+    {
+      "title": "Número de transações com Pix caem 10% após proibição de bets",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/numero-de-transacoes-com-pix-caem-10-apos-proibicao-de-bets",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T21:54:00+00:00",
+      "summary": "O número de transações realizadas por Pix caiu 10% nos três dias seguintes à publicação da medida provisória (MP) que proibiu as apostas esportivas online, conhecidas como bets . De sábado (26) a segunda-feira (28), foram registradas 608,6 milhões de operações, volume inferior à média observada nos mesmos dias das quat",
+      "category": "Mundo"
+    },
+    {
+      "title": "MPF apresenta novo recurso contra exploração na Foz do Amazonas",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mpf-apresenta-novo-recurso-contra-exploracao-na-foz-do-amazonas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T21:34:00+00:00",
+      "summary": "O Ministério Público Federal (MPF) voltou a pedir a suspensão da licença ambiental concedida à Petrobras para explorar petróleo na bacia da Foz do Amazonas. A ação, protocolada no Tribunal Regional Federal da 1ª Região (TRF1) na segunda-feira (28), pede a paralisação imediata de qualquer atividade de perfuração ou test",
       "category": "Mundo"
     },
     {
@@ -20,12 +470,21 @@
       "category": "Ciência & Tech"
     },
     {
+      "title": "TST determina reajuste de plano de saúde e fim da greve da Caixa",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tst-determina-reajuste-de-plano-de-saude-e-fim-da-greve-da-caixa",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-09-29T21:25:00+00:00",
+      "summary": "O Tribunal Superior do Trabalho (TST) decidiu nesta terça-feira (29) que a greve dos funcionários da Caixa Econômica Federal não é abusiva. Os ministros julgaram o dissídio coletivo dos trabalhadores, em greve desde 10 de setembro , e decidiram fixar reajuste salarial de 100% do Índice Nacional de Preços ao Consumidor ",
+      "category": "Política"
+    },
+    {
       "title": "Portugal, Espanha e França querem que Regiões Ultraperiféricas sejam consideradas como essenciais no próximo Orçamento da União Europeia",
       "url": "https://www.rtp.pt/noticias/economia/portugal-espanha-e-franca-querem-que-regioes-ultraperifericas-sejam-consideradas-como-essenciais-no-proximo-orcamento-da-uniao-europeia_n1768523",
       "source": "RTP Notícias",
       "region": "Portugal",
       "publishedAt": "2026-09-29T21:16:11+00:00",
-      "summary": "",
+      "summary": "Portugal já tinha definido as Regiões Ultraperiféricas como uma das prioridades para o próximo Orçamento de longo prazo, lado a lado com a competitividade e a Política de Coesão.",
       "category": "Economia"
     },
     {
@@ -47,480 +506,21 @@
       "category": "Mundo"
     },
     {
-      "title": "Presidente da República assinala 50 anos da adesão de Portugal ao Conselho da Europa",
-      "url": "https://www.rtp.pt/noticias/mundo/presidente-da-republica-assinala-50-anos-da-adesao-de-portugal-ao-conselho-da-europa_v1768531",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T21:11:47+00:00",
-      "summary": "O presidente da República vai assinalar esta quarta-feira os 50 anos da adesão de Portugal ao Conselho da Europa. À chegada a Estrasburgo, António José Seguro recebeu os funcionários e a delegação portuguesa da Assembleia e condecorou dois funcionários portugueses.",
-      "category": "Política"
-    },
-    {
-      "title": "Quase metade das interrupções da gravidez em 2025 foram feitas por estrangeiras",
-      "url": "https://www.rtp.pt/noticias/pais/quase-metade-das-interrupcoes-da-gravidez-em-2025-foram-feitas-por-estrangeiras_v1768530",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T21:09:47+00:00",
-      "summary": "Quase metade dos abortos em Portugal no ano passado foram feitos por mulheres estrangeiras. A Direção Geral da Saúde pediu respostas adequadas à diversidade do país.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Eleições no Brasil. Sistema de urnas eletrónicas é usado desde 1996",
-      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-sistema-de-urnas-eletronicas-e-usado-desde-1996_v1768528",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T21:03:47+00:00",
-      "summary": "O Brasil prepara-se para eleições presidenciais com urnas eletrónicas. Um sistema analisado pelos correspondentes da RTP no Rio de Janeiro, Daniel Catalão e André Velloso.",
-      "category": "Política"
-    },
-    {
-      "title": "Champions feminina. Bayern de Munique espera Benfica \"desafiante\"",
-      "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/champions-feminina-bayern-de-munique-espera-benfica-desafiante_d1768526",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T21:03:00+00:00",
-      "summary": "O treinador do Bayern de Munique, Jose Barcala, afirmou, em antevisão, esperar um Benfica \"realmente desafiante e bem organizado\", numa partida \"emocionante\" da fase de liga da Liga dos Campeões feminina de futebol.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Tensão em França. Função Pública e estudantes saíram à rua em protesto",
-      "url": "https://www.rtp.pt/noticias/mundo/tensao-em-franca-funcao-publica-e-estudantes-sairam-a-rua-em-protesto_v1768527",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T21:01:47+00:00",
-      "summary": "A Função Pública fez greve geral em França. A paralisação surge dois dias antes da apresentação do Orçamento de Estado, que prevê o congelamento dos salários apesar do aumento da inflação.",
-      "category": "Economia"
-    },
-    {
-      "title": "Líder da Liga Portuguesa prevê regresso das bebidas alcoólicas aos estádios",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/lider-da-liga-portuguesa-preve-regresso-das-bebidas-alcoolicas-aos-estadios_d1768522",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:55:02+00:00",
-      "summary": "O presidente da Liga Portuguesa de Futebol Profissional (LPFP), Reinaldo Teixeira, admitiu, esta terça-feira, que a venda de bebidas alcoólicas possa regressar \"ainda esta época\" a alguns estádios, após avaliação do teste realizado na Supertaça.",
-      "category": "Política"
-    },
-    {
-      "title": "Trump recebeu à porta fechada executivos de empresas de IA",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-recebeu-a-porta-fechada-executivos-de-empresas-de-ia_v1768525",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:54:47+00:00",
-      "summary": "Donald Trump recebeu na Casa Branca os executivos das principais empresas de Inteligência Artificial. Foi um encontro à porta fechada, depois de os lideres das tecnológicas terem alertado para o risco de um avanço descontrolado.",
-      "category": "Economia"
-    },
-    {
-      "title": "Brodowski suspende aulas em todas as escolas após sintomas de pele de origem desconhecida em crianças e adultos",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/29/brodowski-suspende-aulas-em-todas-as-escolas-apos-sintomas-de-pele-de-origem-desconhecida-em-criancas-e-adultos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:35:04+00:00",
-      "summary": "A Prefeitura de Brodowski (SP) informou nesta terça-feira (29) que todas as unidades escolares do município terão aulas suspensas a partir de quarta-feira (30) depois que crianças e adultos apresentaram sintomas de pele de origem desconhecida. \"Considerando o aumento de manifestações de alterações cutâneas em alunos e ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Funcionário é investigado por suspeita de furtar carro do patrão e capotar em Rio das Flores",
-      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/29/funcionario-e-investigado-por-suspeita-de-furtar-carro-do-patrao-e-capotar-em-rio-das-flores.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:33:53+00:00",
-      "summary": "Funcionário é investigado por suspeita de furtar carro do patrão e capotar em Rio das Flores Divulgação/PMERJ Um homem, de 30 anos, é suspeito de furtar o carro do patrão e capotar com o veículo na madrugada desta terça-feira (29), em Rio das Flores (RJ). O caso aconteceu na Avenida Gilberto Garcia da Fonseca, no bairr",
-      "category": "Mundo"
-    },
-    {
-      "title": "Policiais Militares acusados de envolvimento em organização criminosa e lavagem de dinheiro são julgados",
-      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/29/julgamento-policiais-militares.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:33:46+00:00",
-      "summary": "Pintor morre alvejado por tiros após dupla armada invadir condomínio em Rio Preto Quatro policiais militares e um ex-policial aposentado são julgados na tarde desta terça-feira (29) sob acusação de lavagem de dinheiro e de atuação em uma organização criminosa. O caso teve início em São José do Rio Preto (SP) após a pri",
-      "category": "Mundo"
-    },
-    {
-      "title": "OpenAI responde à Meta com os agentes pessoais Dots",
-      "url": "https://observador.pt/2026/09/29/depois-de-cancelar-modelo-de-ia-por-questoes-de-seguranca-openai-volta-aos-anuncios-responde-a-meta-com-dots-agentes-sempre-a-funcionar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:32:42+00:00",
-      "summary": "Sam Altman, o CEO da OpenAI, subiu ao palco para fazer a apresentação principal do evento DevDay",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem é socorrido após afogamento em lagoa de Governador Valadares e recupera sinais vitais",
-      "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/29/homem-e-socorrido-apos-afogamento-em-lagoa-de-governador-valadares-e-recupera-sinais-vitais.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:32:33+00:00",
-      "summary": "Local onde o afogamento ocorreu Corpo de Bombeiros Um homem de aproximadamente 50 anos recuperou os sinais vitais após se afogar na Lagoa do Pérola, em Governador Valadares, nesta terça-feira (29). Segundo o Corpo de Bombeiros, a corporação foi inicialmente acionada para uma ocorrência de convulsão. No entanto, ao cheg",
-      "category": "Mundo"
-    },
-    {
-      "title": "Umidade relativa do ar pode ficar abaixo de 15% no Sul do Piauí nos próximos dias, alerta Semarh",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/29/umidade-relativa-do-ar.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:32:20+00:00",
-      "summary": "Beber água pode reduzir os efeitos da baixa umidade do ar Imagem ilustrativa A umidade relativa do ar deve variar entre 20% e 30% em grande parte do Piauí nos próximos dois dias, quarta-feira (30) e quinta-feira (1º), segundo a Secretaria de Meio Ambiente e Recursos Hídricos (Semarh). Nas regiões Sudeste e Sudoeste do ",
-      "category": "Cultura"
-    },
-    {
-      "title": "Especialista em economia oceânica da ONU vem ao Brasil em novembro",
-      "url": "https://g1.globo.com/pr/parana/especial-publicitario/icities-the-smart-cities-hub/noticia/2026/09/29/especialista-em-economia-oceanica-da-onu-vem-ao-brasil-em-novembro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:31:24+00:00",
-      "summary": "O oceano é hoje uma das maiores oportunidades econômicas das próximas décadas. É essa a mensagem que Raffaele Mancini, diretor do Centro Colaborativo da Década do Oceano para a Economia Oceânica Sustentável (DCC-SOE), ligado à Organização das Nações Unidas (ONU), pretende levar ao Brasil em novembro. Mancini é um dos n",
-      "category": "Economia"
-    },
-    {
-      "title": "City considerado culpado de todas as 115 acusações",
-      "url": "https://observador.pt/2026/09/29/manchester-city-considerado-culpado-de-todas-as-115-acusacoes-de-violacoes-financeiras-na-premier-league-ao-longo-de-nove-temporadas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:30:42+00:00",
-      "summary": "Comissão independente conclui que o City inflacionou receitas e reduziu custos em mais de mil milhões de euros. O clube diz ter \"provas irrefutáveis\" e vai recorrer até 2 de outubro.",
-      "category": "Economia"
-    },
-    {
-      "title": "Quaest em SP: 56% aprovam e 26% desaprovam governo de Tarcísio",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/quaest-sp-avaliacao-governo-29-setembro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:30:03+00:00",
-      "summary": "Tarcísio de Freitas na Estação de Tratamento de Esgoto (ETE) de Barueri. Reprodução/TV Globo Pesquisa Quaest divulgada nesta terça-feira (29) mostra como está a avaliação do governo de Tarcísio de Freitas (Republicanos) e os índices de aprovação e desaprovação. O levantamento foi encomendado pela Globo. Aprovação do go",
-      "category": "Política"
-    },
-    {
-      "title": "Petrolina: prazo para quitar o IPTU 2026 com desconto termina nesta quarta-feira (30)",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/29/petrolina-prazo-para-quitar-o-iptu-2026-com-desconto-termina-nesta-quarta-feira-30.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:28:34+00:00",
-      "summary": "Prefeitura de Petrolina Ayrton Latapiat / Ascom PMP Termina nesta quarta-feira (30), o prazo para os contribuintes de Petrolina, no Sertão de Pernambuco, quitarem o Imposto Predial e Territorial Urbano (IPTU) de 2026 com desconto. Neste ano, os contribuintes que atendem aos critérios estabelecidos também podem aproveit",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Liberal faz debate com os candidatos ao governo do Pará; veja onde assistir",
-      "url": "https://g1.globo.com/pa/para/eleicoes/2026/ao-vivo/debate-candidatos-governo-pa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:28:11+00:00",
-      "summary": "TV Liberal faz debate com os candidatos ao governo do Pará; veja onde assistir Participam Dr Daniel Santos (Podemos), Hana Ghassan (MDB) e Araceli Lemos (PSOL). Debate será realizado nesta terça-feira (29), após a novela Quem Ama Cuida, da Globo.. Foram convidados os candidatos cujos partidos tiveram representação de, ",
-      "category": "Política"
-    },
-    {
-      "title": "Campinas registra dia mais quente de 2026 com 34,3°C; temporais e frente fria devem mudar o tempo",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/29/campinas-registra-dia-mais-quente-de-2026-com-343c-temporais-e-frente-fria-devem-mudar-o-tempo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:27:40+00:00",
-      "summary": "Dia ensolarado em Campinas, no interior de São Paulo; calor, temperatura, céu, clima, tempo Yasmin Castro/g1 Campinas registrou a temperatura mais alta de 2026 nesta terça-feira (29). Segundo o Cepagri (Centro de Pesquisas Meteorológicas e Climáticas Aplicadas à Agricultura) da Unicamp, os termômetros chegaram a 34,3°C",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Fogos já destruíram 32 contentores e caixotes em Oeiras",
-      "url": "https://observador.pt/especiais/quatro-episodios-em-dois-meses-e-32-caixotes-e-ecopontos-incendiados-em-oeiras-psp-afasta-suspeita-de-atividade-de-grupo-criminoso/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:27:26+00:00",
-      "summary": "O primeiro caso será de agosto, o mais grave foi esta madrugada. Foram queimados 14 ecopontos, 10 contentores e um carro ficou danificado. PSP afasta \"suspeita de atividade de grupo criminoso\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "União Europeia quer reforçar parceria com Damasco",
-      "url": "https://observador.pt/2026/09/29/ue-quer-reforcar-parceria-com-a-siria-e-mobilizar-mais-investimentos-mas-exige-contrapartidas-de-damasco/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:25:59+00:00",
-      "summary": "A promessa exige que da Síria haja garantia de segurança e de igualdade para o povo.",
-      "category": "Economia"
-    },
-    {
-      "title": "Quaest em PE: no 2º turno, João Campos e Raquel Lyra empatam, com 44%",
-      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-em-pe-2-turno-29-setembro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:23:35+00:00",
-      "summary": "João Campos (PSB) e Raquel Lyra (PSD) Reprodução/TV Globo Pesquisa Quaest divulgada nesta terça-feira (29) mostra como está o cenário da eleição estadual, a menos de uma semana do 1º turno -- que acontecerá no domingo (4). Num eventual segundo turno entre a governadora Raquel Lyra (PSD) e o ex-prefeito do Recife (PSB) ",
-      "category": "Política"
-    },
-    {
-      "title": "\"Digger\": calamidade global e catástrofe cinematográfica",
-      "url": "https://observador.pt/2026/09/29/digger-um-filme-sobre-uma-calamidade-global-que-e-uma-catastrofe-cinematografica/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:22:22+00:00",
-      "summary": "Digger Rockwell (Tom Cruise) discursa ao mundo em \"Digger\", de Alejandro González Iñarrítu",
-      "category": "Cultura"
-    },
-    {
-      "title": "TRE mantém indeferimento de registro de candidatura de Anthony Garotinho",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/29/tre-anthony-garotinho.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:20:54+00:00",
-      "summary": "Anthony Garotinho Carlos Moura / Agência Estado O Tribunal Regional Eleitoral (TRE) manteve por unanimidade o indeferimento do registro de candidatura de Anthony Garotinho, do Republicanos, para o governo do estado. Por unanimidade, os desembargadores rejeitaram, nesta terça-feira (29), recurso de Garotinho que pediu p",
-      "category": "Política"
-    },
-    {
-      "title": "Israel ameaça atacar dirigentes do Hamas no estrangeiro",
-      "url": "https://observador.pt/2026/09/29/ministro-da-defesa-de-israel-ameaca-atacar-lideres-do-hamas-no-estrangeiro-nenhum-deveria-morrer-pacificamente-na-sua-cama/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:19:44+00:00",
-      "summary": "Mais de 1.420 palestinianos foram mortos e 4.983 feridos na Faixa de Gaza desde o início da trégua",
-      "category": "Mundo"
-    },
-    {
-      "title": "Deputado do PS questiona Governo sobre atrasos postais",
-      "url": "https://observador.pt/2026/09/29/deputado-do-ps-questiona-governo-sobre-atrasos-postais-no-distrito-de-santarem/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:17:52+00:00",
-      "summary": "O parlamentar pede também esclarecimento sobre as diligências realizadas pelo Governo junto dos CTT e da ANACOM",
-      "category": "Política"
-    },
-    {
-      "title": "21h. Ministra da Justiça pede decisão no caso das gémeas",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1772/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:17:04+00:00",
-      "summary": "Em declarações aos jornalistas, Rita Alarcão Júdice diz que é importante que o caso seja rapidamente esclarecido. Ainda, Parlamento debate amanhã proposta para rever o regime de arrendamento urbano.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Joana Bértholo: “Escrevo muito sem planos, vou descobrind...",
-      "url": "https://observador.pt/programas/convidado-extra/joana-bertholo-escrevo-muito-sem-planos-vou-descobrindo-conforme-avanco/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:13:06+00:00",
-      "summary": "O Festival Utopia Açores foi o pretexto para Joana Bértholo falar do novo livro de contos, “Do Amor e outros Fantasmas”, onde fala de memórias e fantasmas - aqueles que ao partir ficam mais presentes.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Quaest: Eduardo Paes tem 34% no 1º turno no RJ; Douglas Ruas, 25%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-eduardo-paes-tem-34-no-1o-turno-no-rj-douglas-ruas-25/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:11:51+00:00",
-      "summary": "O ex-prefeito da capital fluminense Eduardo Paes (PSD) tem 34% das intenções de voto no primeiro turno na disputa pelo Palácio Guanabara, segundo pesquisa Quaest divulgada nesta terça-feira (29). O presidente da Alerj (Asssembleia Legislativa do Estado do Rio de Janeiro), Douglas Ruas (PL), por sua vez, assinala 25%. E",
-      "category": "Política"
-    },
-    {
-      "title": "Ataque israelita mata membro do Hamas e 5 civis",
-      "url": "https://observador.pt/2026/09/29/ataque-israelita-mata-lider-de-brigada-do-hamas-no-norte-de-gaza-seis-mortos-num-dia-76-mil-desde-o-inicio-da-guerra/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:05:46+00:00",
-      "summary": "O número de palestinianos de Gaza mortos por ataques israelitas na campanha que devastou a região após os ataques terroristas do Hamas a Israel, ultrapassou os 76 mil",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lobista bancou viagem milionária para Lulinha ver aurora boreal, diz jornal",
-      "url": "https://www.cnnbrasil.com.br/politica/lobista-bancou-viagem-milionaria-para-lulinha-ver-aurora-boreal-diz-jornal/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:04:27+00:00",
-      "summary": "Excursão passou pela Suécia, Finlândia e Suíça e contou com mordomo e chef",
-      "category": "Mundo"
-    },
-    {
-      "title": "Plantio de soja do Paraná tem ritmo mais forte em 8 anos, aponta Deral",
-      "url": "https://www.cnnbrasil.com.br/agro/plantio-de-soja-do-2/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:04:24+00:00",
-      "summary": "Produtores aproveitam boas condições de umidade e buscam mitigar riscos climáticos provocados pelo fenômeno El Niño",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lavrov anuncia \"encontro futuro\" com Rubio sobre Ucrânia",
-      "url": "https://observador.pt/2026/09/29/lavrov-anuncia-encontro-futuro-com-rubio-para-relancar-processo-de-paz-na-ucrania-e-melhorar-relacoes-com-os-eua/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:04:12+00:00",
-      "summary": "O ministro dos Negócios Estrangeiros russo sublinhou ainda que existem \"contactos regulares\" e \"diplomacia normal\" com o Governo norte-americano",
-      "category": "Política"
-    },
-    {
-      "title": "Rob Lowe revela com qual atriz teve seu “melhor beijo em cena”; veja vídeo",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/rob-lowe-revela-com-qual-atriz-teve-seu-melhor-beijo-em-cena-veja-video/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:04:06+00:00",
-      "summary": "Ator elogiou e disse ter ficado intimidado ao contracenar com Nastassja Kinski no longa dos anos 1980, \"Um Hotel Muito Louco\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "EUA anunciam captura de líder do cartel Clan del Golfo na Colômbia",
-      "url": "https://www.cnnbrasil.com.br/internacional/eua-anunciam-captura-de-lider-do-cartel-clan-del-golfo-na-colombia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:03:46+00:00",
-      "summary": "Operação foi realizada em cooperação com as Forças Armadas da Colômbia, informou o Comando Sul dos Estados Unidos",
-      "category": "Esportes"
-    },
-    {
-      "title": "Novo filme “Game Of Thrones: Aegon’s Conquest” ganha data de lançamento",
-      "url": "https://www.cnnbrasil.com.br/pop/cinema/novo-filme-game-of-thrones-aegons-conquest-ganha-data-de-lancamento/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:03:18+00:00",
-      "summary": "Longa focado na conquista de Aegon Targaryen tem estreia prevista para 2029",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sete décadas pelas estradas e cidades do Brasil",
-      "url": "https://www.cnnbrasil.com.br/branded-content/auto/sete-decadas-pelas-estradas-e-cidades-do-brasil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T20:02:08+00:00",
-      "summary": "Mercedes-Benz do Brasil completa 70 anos com uma trajetória ligada às transformações do transporte no País",
-      "category": "Esportes"
-    },
-    {
-      "title": "Trump lança plataforma com IA para serviços públicos",
-      "url": "https://observador.pt/2026/09/29/trump-lanca-plataforma-com-ia-para-servicos-do-governo-federal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-29T20:00:41+00:00",
-      "summary": "\"Não é apenas um 'site' (...) estamos a devolver o poder e o controlo às mãos do povo, onde devem estar\", afirmou Trump",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Justiça condena “Penélope”, ex-líder do setor feminino do PCC em São Paulo",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-condena-penelope-ex-lider-do-setor-feminino-do-pcc-em-sao-paulo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T19:55:27+00:00",
-      "summary": "Luma Valeria Rovagnollo foi condenada a quatro anos por exercer a função de liderança no setor conhecido como \"Resumo da Feminina\" da facção criminosa",
-      "category": "Mundo"
-    },
-    {
-      "title": "Presidenta da Capes será primeira brasileira vice-diretora da Unesco",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/presidenta-da-capes-sera-primeira-brasileira-vice-diretora-da-Unesco",
+      "title": "Dino defende investigação sobre precatórios pagos irregularmente",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-defende-investigacao-sobre-precatorios-pagos-irregularmente",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T19:53:00+00:00",
-      "summary": "A cientista Denise Pires de Carvalho assumirá nos próximos dias o cargo de Vice Diretora-Geral de Ciências da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco). É a primeira vez que a cadeira é ocupada pelo Brasil desde a criação da ONU em 1945. Ao fazer a indicação, a Unesco destacou a expe",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Lançamento do agente de IA da Meta derruba ações ligadas a intermediação",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/lancamento-do-agente-de-ia-da-meta-derruba-acoes-ligadas-a-intermediacao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T19:52:43+00:00",
-      "summary": "Investidores reagem ao avanço do Muse, ferramenta que automatiza compras, contratações e outras interações dos usuários",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Por onde anda Mackenzie Foy? Atriz viveu Renesmee Cullen em “Crepúsculo”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/por-onde-anda-mackenzie-foy-atriz-viveu-renesmee-cullen-em-crepusculo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T19:49:17+00:00",
-      "summary": "Atriz tinha apenas 11 anos quando interpretou o papel da filha de Bella e Edward na saga",
-      "category": "Mundo"
-    },
-    {
-      "title": "Maripán terá que depor no Chile por vazamento de fotos de influenciadora",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/maripan-tera-que-depor-no-chile-por-vazamento-de-fotos-de-influenciadora/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T19:47:36+00:00",
-      "summary": "Justiça negou pedido de participação remota, e zagueiro precisará comparecer para audiência nesta quarta-feira (30), em Santiago",
-      "category": "Mundo"
-    },
-    {
-      "title": "UE reduz previsão da safra de milho para o nível mais baixo deste século",
-      "url": "https://www.cnnbrasil.com.br/agro/ue-reduz-previsao-da/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T19:47:14+00:00",
-      "summary": "Seca de verão afeta lavouras e reduz estimativa de produção do bloco para 48,3 milhões de toneladas",
-      "category": "Mundo"
-    },
-    {
-      "title": "Brasil cria 165,8 mil postos de trabalho em agosto, aponta Caged",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-cria-1658-mil-postos-de-trabalho-em-agosto-aponta-caged",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T18:56:00+00:00",
-      "summary": "Os dados divulgados pelo Cadastro Geral de Empregados e Desempregados (Caged), do Ministério do Trabalho e Emprego, apontam que 165.827 postos de trabalho com carteira assinada foram abertos em agosto. O indicador mede a diferença entre contratações e demissões. O saldo é 183,1% maior em relação a julho, quando o país ",
-      "category": "Economia"
-    },
-    {
-      "title": "Nem SP, nem Rio: saiba local que reúne mais eleitores brasileiros",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/universidade-de-lisboa-concentra-maior-numero-de-eleitores-em-2026",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T17:11:00+00:00",
-      "summary": "O maior local de votação das eleições brasileiras deste ano fica do outro lado do Oceano Atlântico. A Universidade de Lisboa, na capital portuguesa, é o polo com maior número de eleitores no próximo domingo (4). Segundo o Tribunal Superior Eleitoral (TSE), 78.833 pessoas estão registradas para votar nas 207 seções inst",
+      "publishedAt": "2026-09-29T21:12:00+00:00",
+      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), enviou nesta terça-feira (29) um ofício ao presidente da Corte, Edson Fachin, para pedir a identificação de todos os precatórios que foram pagos irregularmente nos últimos anos. No documento, o ministro cita que as investigações sobre o Banco Master mostraram i",
       "category": "Política"
     },
     {
-      "title": "Fachin defende segurança e transparência na liberação de precatórios",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-defende-seguranca-e-transparencia-na-liberacao-de-precatorios",
+      "title": "Investimento por aluno no Brasil é de 1/3 da média dos países da OCDE",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/investimento-por-aluno-no-Brasil-e-de1/3-da-media-dos-paises-da-OCDE",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-09-29T15:54:00+00:00",
-      "summary": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachin, defendeu nesta terça-feira (29) mais transparência no mercado secundário de precatórios. “O objetivo é muito simples, direto e importante: segurança, transparência e, ainda mais importante, rastreabilidade a u",
-      "category": "Política"
-    },
-    {
-      "title": "Petrobras fecha acordo para comprar gás dos EUA por mais de 20 anos",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-fecha-acordo-para-comprar-gas-dos-eua-por-mais-de-20-anos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T15:51:00+00:00",
-      "summary": "A Petrobras fechou um contrato de longo prazo para comprar Gás Natural Liquefeito (GNL) dos Estados Unidos por um período de 22 anos. O anúncio foi feito pela petroleira brasileira nesta terça-feira (29) e é o segundo em um período de cerca de um mês. O GNL é o gás que passa pelo processo de resfriamento a ponto de se ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Governo Central registra déficit de R$ 13,6 bilhões em agosto",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/governo-central-registra-deficit-de-r-136-bilhoes-em-agosto",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T15:30:00+00:00",
-      "summary": "O Governo Central registrou déficit primário de R$ 13,6 bilhões em agosto, informou nesta terça-feira (29) o Tesouro Nacional. O resultado foi melhor que o registrado em agosto de 2025, quando o saldo negativo ficou em R$ 15,5 bilhões. O desempenho também superou as projeções do mercado, que esperava déficit de R$ 16 b",
-      "category": "Política"
-    },
-    {
-      "title": "Prêmio Jabuti anuncia semifinalistas da 68ª edição",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/premio-jabuti-anuncia-semifinalistas-da-68a-edicao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T15:13:00+00:00",
-      "summary": "Os semifinalistas da 68ª edição do Prêmio Jabuti foram anunciados nesta terça-feira (29) pela Câmara Brasileira do Livro (CBL). A cerimônia de entrega dos prêmios será em 27 de outubro, na Sala São Paulo, em evento para convidados na capital paulista. Haverá transmissão ao vivo pelo canal da CBL no YouTube . Além do Li",
-      "category": "Política"
-    },
-    {
-      "title": "Nunes Marques cobra TREs por transporte público gratuito nas eleições",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/nunes-marques-cobra-tres-por-transporte-publico-gratuito-nas-eleicoes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T15:10:00+00:00",
-      "summary": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, cobrou dos presidentes dos 27 tribunais regionais eleitorais (TREs) providências para garantir o transporte público gratuito no primeiro turno da eleição presidencial, marcado para o próximo domingo (4). Em ofício, Nunes Marques orientou ",
-      "category": "Política"
-    },
-    {
-      "title": "Gilmar cobra medidas de STF e STJ contra irregularidade em precatórios",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/gilmar-cobra-medidas-de-stf-e-stj-contra-irregularidade-em-precatorios",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T14:35:00+00:00",
-      "summary": "O ministro Gilmar Mendes, decano do Supremo Tribunal Federal (STF), enviou ofício ao presidente do STF, ministro Edson Fachin, e ao presidente do Superior Tribunal de Justiça (STJ), Luís Felipe Salomão, cobrando medidas contra irregularidades na expedição de precatórios. O documento é datado desta segunda-feira (28). P",
-      "category": "Política"
-    },
-    {
-      "title": "Donos de propriedades rurais têm até esta quarta para declarar ITR",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/donos-de-propriedades-rurais-tem-ate-esta-quarta-para-declarar-ITR",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-29T14:30:00+00:00",
-      "summary": "O prazo para entrega da Declaração do Imposto sobre a Propriedade Territorial Rural (DITR) 2026 termina nesta quarta-feira (30). Este ano, o preenchimento e envio do documento online está disponível desde o dia 10 de agosto no site da Receita Federal . A declaração é obrigatória para pessoas físicas e jurídicas que sej",
+      "publishedAt": "2026-09-29T20:44:00+00:00",
+      "summary": "No Brasil, o gasto anual por aluno desde o ensino fundamental até o ensino superior foi de US$ 4.133 em 2023. O valor corresponde a cerca de um terço (30,39%) da média gasta pelos demais países avaliados pela Organização para a Cooperação e Desenvolvimento Econômico (US$ 13.601 por estudante) . Os dados divulgados nest",
       "category": "Mundo"
     }
   ],
