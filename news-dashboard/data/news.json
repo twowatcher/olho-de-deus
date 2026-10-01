@@ -1,266 +1,446 @@
 {
-  "updatedAt": "2026-10-01T02:07:09.954802+00:00",
+  "updatedAt": "2026-10-01T08:51:59.701597+00:00",
   "items": [
     {
-      "title": "2h Parlamento discute mudanças no arrendamento até ao fim do ano",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-parlamento-discute-mudancas-no-arrendamento-ate-ao-fim-do-ano_a1_1768773",
+      "title": "09h A crise entre Ronaldo e Jorge Jesus",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-a-crise-entre-ronaldo-e-jorge-jesus_a1_1768824",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-01T02:32:01+00:00",
+      "publishedAt": "2026-10-01T09:22:03+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "1h Unidades de Saúde Familiar: é possível atribuir médico de família a todos os inscritos no SNS",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-unidades-de-saude-familiar-e-possivel-atribuir-medico-de-familia-a-todos-os-inscritos-no-sns_a1_1768771",
+      "title": "Mulher do Tennessee no corredor da morte levada para o hospital depois de sobreviver a duas injeções letais",
+      "url": "https://www.rtp.pt/noticias/mundo/mulher-do-tennessee-no-corredor-da-morte-levada-para-o-hospital-depois-de-sobreviver-a-duas-injecoes-letais_n1768820",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-01T02:08:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-10-01T09:12:58+00:00",
+      "summary": "Christa Pike, condenada à morte pelo homicídio cometido em 1995, foi ouvida a ressonar 40 minutos após a administração das doses letais, segundo testemunhas.",
       "category": "Saúde"
     },
     {
-      "title": "Maioria dos ministros do TSE vota por tirar das redes publicações com informações falsas sobre Flávio Bolsonaro e a padroeira do Brasil",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/30/maioria-dos-ministros-do-tse-vota-por-tirar-das-redes-publicacoes-com-informacoes-falsas-sobre-flavio-bolsonaro-e-a-padroeira-do-brasil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:57:45+00:00",
-      "summary": "Maioria dos ministros do TSE vota por tirar das redes publicações com informações falsas sobre Flávio Bolsonaro e a padroeira do Brasil A maioria dos ministros do Tribunal Superior Eleitoral votou por retirar das redes sociais publicações que tragam informações falsas sobre o candidato Flávio Bolsonaro e a padroeira do",
-      "category": "Política"
-    },
-    {
-      "title": "Sem Messi, Argentina goleia Bolívia em amistoso, com gol de Flaco López",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sem-messi-argentina-goleia-bolivia-em-amistoso-com-gol-de-flaco-lopez/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:57:36+00:00",
-      "summary": "De biquinho, atacante do Palmeiras fechou o placar poucos minutos depois de entrar em campo; Nico Paz, possível substituto do ídolo argentino, também brilhou com gol e assistência",
-      "category": "Esportes"
-    },
-    {
-      "title": "ASSISTA: último debate entre candidatos ao Senado por SP",
-      "url": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/ao-vivo/debate-candidatos-senado-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:57:08+00:00",
-      "summary": "ASSISTA: último debate entre candidatos ao Senado por SP Participam Geraldo Ruffino (Podemos), Marina Silva (Rede), Simone Tebet (PSB) e Soninha Francine (Cidadania). André do Prado (PL) e Guilherme Derrite (PP) também foram convidados, mas não participarão por causa de compromissos de campanha. Encontro é realizado no",
-      "category": "Política"
-    },
-    {
-      "title": "Qual é o número de Ricardo Marques (PL) para o governo de Sergipe?",
-      "url": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-ricardo-marques-pl-para-o-governo-de-sergipe.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:55:19+00:00",
-      "summary": "Ricardo Marques (PL) concede entrevista ao SE2 Mira Marques/g1 SE O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos governadores. Entenda aqui o que faz um governador. Ricardo Marques (PL) é candidato ao Governo do Sergipe. O número dele na urna é 22. Até a data de pu",
-      "category": "Política"
-    },
-    {
-      "title": "Netanyahu diz que é cedo para saber quem está por trás de ataque em avião",
-      "url": "https://www.cnnbrasil.com.br/internacional/netanyahu-diz-que-e-cedo-para-saber-quem-esta-por-tras-de-ataque-em-aviao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:53:56+00:00",
-      "summary": "Em entrevista à Fox News, premiê israelense afirmou que o responsável está sendo investigado na Arábia Saudita, mas que Israel \"possivelmente\" participaria das investigações",
-      "category": "Mundo"
-    },
-    {
-      "title": "Análise: Juros elevam preocupação com pagamento da dívida",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/analise-juros-elevam-preocupacao-com-pagamento-da-divida/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:48:07+00:00",
-      "summary": "Juros elevam preocupação com trajetória da dívida, que chegou a R$ 11,1 trilhões e retomou patamar da pandemia; a avaliação é da analista e editora de Economia da CNN Lucinda Pinto ao CNN Prime Time",
+      "title": "Primeiro semestre de 2026 com maior volume de apostas de sempre em Portugal",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/primeiro-semestre-de-2026-com-maior-volume-de-apostas-de-sempre-em-portugal_d1768821",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T09:09:10+00:00",
+      "summary": "Os primeiros seis meses de 2026 registaram um volume de apostas desportivas de 1.102,6 milhões de euros (ME) em Portugal, o maior de sempre, segundo o relatório do Serviço de Regulação e Inspeção de Jogos do Turismo de Portugal.",
       "category": "Economia"
     },
     {
-      "title": "Qual é o número de Marcelo Marcelino (PCO) para o Senado no Paraná?",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-marcelo-marcelino-pco-para-o-senado-no-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:46:56+00:00",
-      "summary": "Marcelo Marcelino Globo / Divulgação O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Marcelo Marcelino (PCO) é candidato ao Senado pelo Paraná. O número dele na urna é 290. Na página Quem São os Candidatos, publicada pel",
+      "title": "Raimundo acusa Carneiro de \"dar gás\" ao Governo",
+      "url": "https://www.rtp.pt/noticias/economia/raimundo-acusa-carneiro-de-dar-gas-ao-governo_n1768818",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T09:08:41+00:00",
+      "summary": "O secretário-geral do PCP acusou hoje o líder do PS de \"dar gás\" às políticas do Governo ao abster-se no Orçamento e desafiou a direção dos socialistas a não aceitar o voto proposto por José Luís Carneiro.",
       "category": "Política"
     },
     {
-      "title": "Qual é o número de Karen Guerreiro (Missão) para o Senado no Paraná?",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-karen-guerreiro-missao-para-o-senado-no-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:46:45+00:00",
-      "summary": "Karen Guerreiro Reprodução O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Karen Guerreiro (Missão) é candidata ao Senado pelo Paraná. O número dela na urna é 144. Na página Quem São os Candidatos, publicada pelo g1 e at",
+      "title": "Emirates suspende voos com a Flydubai para Israel após incidente de quarta-feira",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/emirates-suspende-voos-com-a-flydubai-para-israel-apos-incidente-de-quarta-feira_n1768817",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T09:00:46+00:00",
+      "summary": "A Emirates, uma das companhias aéreas dos Emirados Árabes Unidos (EAU), anunciou hoje a suspensão imediata dos seus voos partilhados com a empresa aérea de baixo custo Flydubai de e para Telavive, em Israel.",
+      "category": "Economia"
+    },
+    {
+      "title": "Super XV de râguebi decidido em ‘final four’ e com várias jornadas concentradas",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/super-xv-de-raguebi-decidido-em-final-four-e-com-varias-jornadas-concentradas_d1768819",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:56:16+00:00",
+      "summary": "O Super XV vai ser decidido numa 'final four' e incluir várias jornadas concentradas, adiantou hoje à agência Lusa o presidente da associação de clubes responsável pela organização do campeonato português de râguebi a partir desta época.",
       "category": "Política"
     },
     {
-      "title": "Qual é o número de Deltan Dallagnol (Novo) para o Senado no Paraná?",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-deltan-dallagnol-novo-para-o-senado-no-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:46:22+00:00",
-      "summary": "Deltan Dallagnol TON MOLINA/FOTOARENA/FOTOARENA/ESTADÃO CONTEÚDO O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Deltan Dallagnol (Novo) é candidato ao Senado pelo Paraná. O número dela na urna é 300. Na página Quem São ",
-      "category": "Política"
-    },
-    {
-      "title": "Qual é o número de Filipe Barros (PL) para o Senado no Paraná?",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-filipe-barros-pl-para-o-senado-no-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:45:56+00:00",
-      "summary": "Filipe Barros Antonio Araujo/Câmara dos Deputados O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Filipe Barros (PL) é candidato ao Senado pelo Paraná. O número dele na urna é 222. Na página Quem São os Candidatos, publi",
-      "category": "Política"
-    },
-    {
-      "title": "Qual é o número de Cristina Graeml (PSD) para o Senado no Paraná?",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-cristina-graeml-psd-para-o-senado-no-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:45:35+00:00",
-      "summary": "Cristina Graeml RPC O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Cristina Graeml (PSD) é candidata ao Senado pelo Paraná. O número dela na urna é 555. Na página Quem São os Candidatos, publicada pelo g1 e atualizada c",
-      "category": "Política"
-    },
-    {
-      "title": "Qual é o número de Dr Rosinha (PT) para o Senado no Paraná?",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-rosinha-pt-para-o-senado-no-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:45:14+00:00",
-      "summary": "Doutor Rosinha Giuliano Gomes/PRPress O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Dr Rosinha (PT) é candidato ao Senado pelo Paraná. O número dele na urna é 132. Na página Quem São os Candidatos, publicada pelo g1 e ",
-      "category": "Política"
-    },
-    {
-      "title": "Qual é o número de Gleisi (PT) para o Senado no Paraná?",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-gleisi-pt-para-o-senado-no-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:45:08+00:00",
-      "summary": "Gleisi Zeca Ribeiro/Câmara dos Deputados O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Gleisi Hoffmann (PT) é candidata ao Senado pelo Paraná. O número dela na urna é 131. Na página Quem São os Candidatos, publicada pe",
-      "category": "Política"
-    },
-    {
-      "title": "Qual é o número de Alexandre Curi (Republicanos) para o Senado no Paraná?",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-alexandre-curi-republicanos-para-o-senado-no-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:44:59+00:00",
-      "summary": "Alexandre Curi Orlando Kissner/Alep O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Alexandre Curi (Republicanos) é candidato ao Senado pelo Paraná. O número dele na urna é 100. Na página Quem São os Candidatos, publicad",
-      "category": "Política"
-    },
-    {
-      "title": "Flávio pede que Fachin declare Dino suspeito em casos sobre Lula e eleição",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-pede-que-fachin-declare-dino-suspeito-em-casos-sobre-lula-e-eleicao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:44:57+00:00",
-      "summary": "Defesa do senador alega amizade de décadas entre o ministro e o presidente e questiona como processos de impacto eleitoral chegaram à relatoria de Dino",
-      "category": "Política"
-    },
-    {
-      "title": "Qual é o número de Joaquim do MLB (UP) para o Senado no Paraná?",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-joaquim-do-mlb-up-para-o-senado-no-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:44:53+00:00",
-      "summary": "Joaquim do MLB Globo / Divulgação O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Joaquim do MLB (UP) é candidato ao Senado pelo Paraná. O número dele na urna é 800. Na página Quem São os Candidatos, publicada pelo g1 e ",
-      "category": "Política"
-    },
-    {
-      "title": "Shawn Mendes acompanha Bruna Marquezine em estreia de “Amor da Minha Vida”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/shawn-mendes-acompanha-bruna-marquezine-em-estreia-de-amor-da-minha-vida/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:37:30+00:00",
-      "summary": "Cantor canadense acompanhou a namorada no evento que marca a chegada da 2ª temporada da série do Disney+; brasileira progragoniza a produção ao lado de Sérgio Malheiros",
-      "category": "Cultura"
-    },
-    {
-      "title": "Antes de Cleópatra: novo estudo sugere que mulher poderosa governou o Egito há mais de 3 mil anos",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/antes-de-cleopatra-novo-estudo-sugere-que-mulher-poderosa-governou-o-egito-ha-mais-de-3-mil-anos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:22:53+00:00",
-      "summary": "Arqueólogos do século XX descobriram impressões de selos em tumbas faraônicas que continham um nome associado à realeza com uma terminação feminina",
-      "category": "Política"
-    },
-    {
-      "title": "Taxistas do RJ trocam socos e agressões no Galeão após troca de ponto",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/taxistas-do-rj-trocam-socos-e-agressoes-no-galeao-apos-troca-de-ponto/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:19:48+00:00",
-      "summary": "Situação entre motoristas de cooperativa e do Táxi.Rio começou após uma alteração solicitada pelo aeroporto à prefeitura do Rio de Janeiro para melhorar trânsito",
-      "category": "Mundo"
-    },
-    {
-      "title": "2h. CR7 já está em Madrid, depois de abandonar estágio",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2427/",
+      "title": "Birras e birrinhas. Onde vais, Ronaldo?",
+      "url": "https://observador.pt/programas/e-o-vencedor-e/birras-e-birrinhas-onde-vais-ronaldo/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-01T01:16:32+00:00",
-      "summary": "Declarações de JJ na antevisão à partida contra a Dinamarca não foram do agrado de Cristiano Ronaldo. Ainda, Luís Montenegro considera que o PS deu um sinal importante sobre o Orçamento do Estado.",
+      "publishedAt": "2026-10-01T08:48:42+00:00",
+      "summary": "Ronaldo abandona a seleção e vira costas a Jorge Jesus. Afinal a braçadeira de capitão já não serve ao \"melhor do mundo\"? E ainda, os dramas da habitação que estão a unir extremos no parlamento.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Mosteiro de São Bento da Vitoria no Porto reabre portas com concerto do ciclo \"Musical-mente\"",
+      "url": "https://www.rtp.pt/noticias/cultura/mosteiro-de-sao-bento-da-vitoria-no-porto-reabre-portas-com-concerto-do-ciclo-musical-mente_n1768815",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:36:00+00:00",
+      "summary": "O Mosteiro de São Bento da Vitoria no Porto esteve fechado quase um ano para obras e vai abrir as portas ao público esta quinta-feira.",
       "category": "Mundo"
     },
     {
-      "title": "Marjorie Estiano faz comentário raro sobre início de namoro com médico",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/marjorie-estiano-faz-comentario-raro-sobre-inicio-de-namoro-com-medico/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:13:46+00:00",
-      "summary": "Atriz e o médico Márcio Maranhão se aproximaram durante as gravações da produção e estão juntos desde 2022",
-      "category": "Saúde"
+      "title": "Polícia timorense deteve homem por falsas promessas de emprego na Austrália",
+      "url": "https://www.rtp.pt/noticias/mundo/policia-timorense-deteve-homem-por-falsas-promessas-de-emprego-na-australia_n1768806",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:27:12+00:00",
+      "summary": "A Polícia Nacional de Timor-Leste (PNTL) deteve um homem por estar alegadamente envolvido num esquema de falsa promessa de emprego na Austrália a 30 cidadãos timorenses, anunciou hoje aquela força de segurança.",
+      "category": "Economia"
     },
     {
-      "title": "Caso Gisele: PM ouve testemunha e aguarda depoimento para possível expulsão",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caso-gisele-pm-ouve-testemunha-e-aguarda-depoimento-para-possivel-expulsao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:05:12+00:00",
-      "summary": "Procedimento do Conselho de Justificação da Polícia Militar apura conduta do tenente-coronel Geraldo Leite Rosa Neto no caso da morte da companheira Gisele Alves Santana e pode expulsá-lo da corporação",
-      "category": "Mundo"
-    },
-    {
-      "title": "Trump: Herói do voo Dubai-Israel era encanador e via programas de desastres",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-heroi-do-voo-dubai-israel-era-encanador-e-via-programas-de-desastres/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:03:12+00:00",
-      "summary": "Mesmo sem experiência, passageiro teria ajudado a retomar o controle depois que o copiloto tentou derrubar o avião com destino a Tel Aviv",
-      "category": "Mundo"
-    },
-    {
-      "title": "Waack: TSE tenta reduzir interferência do STF na pauta",
-      "url": "https://www.cnnbrasil.com.br/politica/waack-tse-tenta-reduzir-interferencia-do-stf-na-pauta/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T01:03:07+00:00",
-      "summary": "O ministro Flávio Dino, com coisas que leu publicadas nos últimos meses, decidiu mandar a Polícia Federal investigar casos diversos de ataques contra imagens religiosas que, segundo ele, configurariam uma onda",
+      "title": "Iémen alerta ONU para ameaça dos Huthis aos voos internacionais sobre o mar Vermelho",
+      "url": "https://www.rtp.pt/noticias/mundo/iemen-alerta-onu-para-ameaca-dos-huthis-aos-voos-internacionais-sobre-o-mar-vermelho_n1768805",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:26:58+00:00",
+      "summary": "O Governo iemenita alertou o Conselho de Segurança da ONU de que a utilização, por parte dos Huthis, de armas de origem iraniana representa uma \"grave ameaça\" para a aviação civil internacional sobre o sul do mar Vermelho.",
       "category": "Política"
     },
     {
-      "title": "Pentágono cria comando militar para ampliar capacidades em IA e drones",
-      "url": "https://www.cnnbrasil.com.br/internacional/pentagono-cria-comando-militar-para-ampliar-capacidades-em-ia-e-drones/",
+      "title": "Neymar com novos vizinhos? Mansão de 2 mil m² está à venda no condomínio do craque; saiba o preço",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/01/neymar-com-novos-vizinhos-mansao-de-2-mil-m-esta-a-venda-no-condominio-do-craque-saiba-o-preco.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:25:44+00:00",
+      "summary": "Mansão fica suspensa sobre uma rocha no Morro Santa Terezinha, em Santos (SP) Paula Malta/Divulgação Uma mansão de 2.200 m² está à venda por R$ 12,5 milhões no condomínio onde Neymar Jr. mora em Santos, no litoral de São Paulo. Imagens divulgadas pela corretora de imóveis Paula Malta mostram detalhes da residência de a",
+      "category": "Economia"
+    },
+    {
+      "title": "Sagat, chefe do PCC que exibia fuzis, é morto pela PM em festa no litoral de SP; VÍDEO",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/01/sagat-chefe-do-pcc-que-exibia-fuzis-e-morto-pela-pm-em-festa-no-litoral-de-sp-video.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:25:18+00:00",
+      "summary": "Suspeito de atacar base da PM morre em troca de tiros no litoral de SP Gabriel Ribeiro da Silva dos Santos, de 27 anos, conhecido como Sagat e apontado como chefe do Primeiro Comando da Capital (PCC) em três bairros de Guarujá, morreu em um confronto com policiais militares na cidade, no litoral de São Paulo. Outros do",
+      "category": "Mundo"
+    },
+    {
+      "title": "Professor de educação física é afastado de escola após denúncia de estupro no litoral de SP",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/01/professor-de-educacao-fisica-e-afastado-de-escola-apos-denuncia-de-estupro-no-litoral-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:24:22+00:00",
+      "summary": "Imagem ilustrativa de abuso sexual infantil Divulgação/EBC Um professor de educação física, de 50 anos, foi afastado de uma escola municipal de São Vicente, no litoral de São Paulo, após ser acusado de abusar sexualmente de uma menina que estuda na unidade. Ele é investigado por estupro de vulnerável pela Polícia Civil",
+      "category": "Mundo"
+    },
+    {
+      "title": "Teerão afirma que Burnham está equivocado ao acusar Irão de ataque a base militar",
+      "url": "https://www.rtp.pt/noticias/mundo/teerao-afirma-que-burnham-esta-equivocado-ao-acusar-irao-de-ataque-a-base-militar_n1768804",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:22:27+00:00",
+      "summary": "O ministro dos Negócios Estrangeiros iraniano acusou hoje o primeiro-ministro britânico Andy Burnham de apontar na direção \"errada\", ao afirmar que existem indícios do envolvimento do Teerão no alegado ataque terrorista junto à base de Fairford.",
+      "category": "Política"
+    },
+    {
+      "title": "08h A polémica saída de Cristiano Ronaldo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/08h-a-polemica-saida-de-cristiano-ronaldo_a1_1768812",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:20:04+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "PSP regista mais de 54.000 crimes contra idosos em 3 anos",
+      "url": "https://observador.pt/2026/10/01/psp-regista-mais-de-54-000-crimes-contra-idosos-nos-ultimos-tres-anos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:19:13+00:00",
+      "summary": "\"Merecem uma especial atenção os crimes de violência doméstica. Temos assistido a um aumento das denúncias que são reportadas da violência filioparental\", afirma Hugo Guinote",
+      "category": "Mundo"
+    },
+    {
+      "title": "9h. Amigo de Ronaldo acusa Jorge Jesus de \"traição\"",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2487/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:16:32+00:00",
+      "summary": "Edu Aguirre diz que JJ prometeu pedir desculpa a CR7 na conferência de imprensa de antevisão ao Dinamarca - Portugal. Ainda, arrancam hoje as jornadas parlamentes do PCP.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Tiago Luís Pereira, bronze no triplo nos Mundiais `indoor`, é a mais recente saída do Sporting",
+      "url": "https://www.rtp.pt/noticias/sporting/tiago-luis-pereira-bronze-no-triplo-nos-mundiais-indoor-e-a-mais-recente-saida-do-sporting_d1768811",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:14:15+00:00",
+      "summary": "Tiago Luís Pereira, que conquistou a medalha de bronze no triplo salto nos Mundiais em pista curta Glasgow2024, despediu-se hoje do Sporting, após o fim do contrato, depois de Rui Pinto, Carlos Nascimento e Ana Mafalda Ferreira.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Japão aumenta taxas para os pedidos de residência",
+      "url": "https://observador.pt/2026/10/01/japao-aumenta-ate-vinte-vezes-taxas-para-os-pedidos-de-residencia-de-estrangeiros/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T08:07:16+00:00",
+      "summary": "A partir de abril de 2027, o Governo japonês vai ainda tornar mais rigorosos os critérios para a obtenção da residência permanente, introduzindo maiores exigências económicas e de tempo de residência, bem como um domínio intermédio da língua japonesa",
+      "category": "Política"
+    },
+    {
+      "title": "Mega-Sena: quanto rendem R$ 75 milhões na poupança, Tesouro Direto ou CDB",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-75-milhoes-na-poupanca-tesouro-direto-ou-cdb-4/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-01T01:01:05+00:00",
-      "summary": "Nova frente do departamento de Defesa foi anunciado por Pete Hegseth nesta quarta-feira (30); medida reflete esforço dos EUA para migrar de plataformas de armas convencionais",
+      "publishedAt": "2026-10-01T08:05:25+00:00",
+      "summary": "Sorteio desta quinta-feira (1°) será realizado às 21h; apostas podem ser feitas até 20h",
+      "category": "Mundo"
+    },
+    {
+      "title": "Inteligência Artificial e Relações Internacionais: veja como serão os novos cursos da Unicamp",
+      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/01/inteligencia-artificial-e-relacoes-internacionais-veja-como-serao-os-novos-cursos-da-unicamp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:02:02+00:00",
+      "summary": "Novos cursos e overbooking: Unicamp divulga novidades no Vestibular 2027 A Unicamp estreia dois cursos de graduação no Vestibular 2027: Inteligência Artificial e Ciência de Dados e Relações Internacionais, ambos oferecidos no campus de Limeira (SP). Com propostas interdisciplinares, as novas graduações foram estruturad",
       "category": "Ciência & Tech"
     },
     {
-      "title": "0h Trotinetas e bicicletas elétricas: passa a ser obrigatório o uso de capacete",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-trotinetas-e-bicicletas-eletricas-passa-a-ser-obrigatorio-o-uso-de-capacete_a1_1768770",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T00:58:02+00:00",
-      "summary": "",
+      "title": "Mãe de gêmea com síndrome da velhice precoce que morreu em Roraima faz homenagem: 'ria por tudo'",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/01/mae-de-gemea-com-sindrome-da-velhice-precoce-que-morreu-em-roraima-faz-homenagem-ria-por-tudo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:56+00:00",
+      "summary": "Elis Lima Carneiro Arquivo pessoal \"Ela sempre foi sorridente, extrovertida e, quando não gostava de alguma coisa, reclamava\", disse Eleismar Carneiro, mãe de Elis Lima Carneiro, que morreu nesta quarta-feira (30), em Boa Vista. A menina é uma das gêmeas diagnosticadas com a rara síndrome progéria de Hutchinson-Gilford",
       "category": "Mundo"
     },
     {
-      "title": "23h PM espera que os outros partidos sigam o exemplo do PS e que se abstenham na votação do OE",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-pm-espera-que-os-outros-partidos-sigam-o-exemplo-do-ps-e-que-se-abstenham-na-votacao-do-oe_a1_1768769",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T00:53:01+00:00",
-      "summary": "",
+      "title": "Goiás amplia produção de vinhos e ganha espaço no mapa da vitivinicultura",
+      "url": "https://www.cnnbrasil.com.br/agro/goias-amplia-producao-de-vinhos-e-ganha-espaco-no-mapa-da-vitivinicultura/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:40+00:00",
+      "summary": "O estado registrou alta de 9,1% no número de vinícolas em 2025, quase cinco vezes mais que a média nacional",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Mega-Sena 3065: sorteio desta quinta (1°) pode pagar R$ 75 milhões",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3065/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:33+00:00",
+      "summary": "Para concorrer, apostadores devem registrar seus jogos até às 20h",
+      "category": "Esportes"
+    },
+    {
+      "title": "VÍDEO: caças F-16 da Argentina sobrevoam cidade do interior de São Paulo",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/01/video-cacas-f-16-da-argentina-sobrevoam-cidade-do-interior-de-sao-paulo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:29+00:00",
+      "summary": "Caças F-16 argentinos e aviões americanos sobrevoam cidade do interior de São Paulo Uma frota de seis caças F-16 Fighting Falcon da Argentina sobrevoou o espaço aéreo de Araraquara (SP) e região, na terça-feira (29). Eles estavam acompanhados de aeronaves Boeing KC-135R Stratotanker da Força Aérea dos Estados Unidos pa",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Pode beber? Entregar santinho? Saiba o que é crime no dia da eleição",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/pode-beber-entregar-santinho-saiba-o-que-e-crime-no-dia-da-eleicao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:23+00:00",
+      "summary": "Da lei seca ao uso do celular na cabine: o analista Elijonas Maia explica o que é permitido e o que é proibido no dia do primeiro turno",
       "category": "Política"
+    },
+    {
+      "title": "Cristiano Ronaldo já teve brigas com outros técnicos de Portugal; relembre",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristiano-ronaldo-ja-teve-brigas-com-outros-tecnicos-de-portugal-relembre/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:11+00:00",
+      "summary": "Craque teve relações conturbadas com quatro dos seis treinadores que comandaram a Seleção durante sua carreira",
+      "category": "Esportes"
+    },
+    {
+      "title": "Estreias de outubro: o que chega aos cinemas e streamings este mês",
+      "url": "https://www.cnnbrasil.com.br/pop/streaming/estreias-de-outubro-o-que-chega-aos-cinemas-e-streamings-este-mes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:07+00:00",
+      "summary": "Lançamentos variados, pautados pelo mês do horror, devem empolgar maratonistas de plantão",
+      "category": "Cultura"
+    },
+    {
+      "title": "Tarifaço de Trump já derruba vendas de empresas brasileiras; veja o desafio para substituir os EUA",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/tarifaco-de-trump-ja-derruba-vendas-de-empresas-brasileiras-veja-o-desafio-para-substituir-os-eua.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:01+00:00",
+      "summary": "Presidente dos EUA, Donald Trump, durante discurso em 14 de agosto de 2026 Ken Cedeno/Reuters Empresas brasileiras já sentem no caixa o impacto do tarifaço de Donald Trump. Em alguns casos, as vendas para os Estados Unidos caíram 60%. Em outros, foram zeradas. “O mercado americano representava 40% do faturamento em 202",
+      "category": "Política"
+    },
+    {
+      "title": "Aos 106 anos, eleitora de SP que nasceu antes da Justiça Eleitoral vai votar neste domingo",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/aos-106-anos-eleitora-de-sp-que-nasceu-antes-da-justica-eleitoral-vai-votar-neste-domingo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:00+00:00",
+      "summary": "Carmelina Alves vota em São Paulo Reprodução/TV Globo Quando a Justiça Eleitoral brasileira ainda nem existia, Carmelina Alves Nogueira já estava no mundo havia quase duas décadas. Aos 106 anos, a moradora do Jaguaré, na Zona Oeste de São Paulo, afirma que vai votar nas eleições deste ano. A história de Carmelina repre",
+      "category": "Política"
+    },
+    {
+      "title": "Aos 66 anos, pioneira no pole dance circus ressalta que idade nunca foi limitador: 'Enquanto eu tiver vida, vou estar no picadeiro'",
+      "url": "https://g1.globo.com/ba/bahia/saudenabahia/noticia/2026/10/01/pioneira-no-pole-dance-circus-ressalta-beneficios-da-atividade-fisica.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:00+00:00",
+      "summary": "Odre Consiglio se apresenta com sua barra móvel de pole dance circus em Salvador \"Mens Sana in Corpore Sano\". O ditado popular apresentado pelo romano Juvenal em seu livro de poesias \"Sátira X\" remetia ao principal desejo que os cidadãos deveriam ter ao rezar para os deuses: um bom corpo e uma boa saúde. Essa é a máxim",
+      "category": "Saúde"
+    },
+    {
+      "title": "EUA aprovam remédio para Parkinson que age de jeito inédito no cérebro",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/01/eua-aprovam-remedio-para-parkinson-que-age-de-jeito-inedito-no-cerebro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:00+00:00",
+      "summary": "Juvmo, novo remédio aprovado pelo FDA para controle do Parkinson Reprodução/AbbVie A agência reguladora de medicamentos e alimentos dos Estados Unidos, a Food and Drug Administration (FDA), aprovou nesta segunda-feira (28) o tavapadon, um comprimido para tratar a doença de Parkinson em adultos. Vendido com o nome Juvmo",
+      "category": "Saúde"
+    },
+    {
+      "title": "Eleições 2026: Urnas eletrônicas são levadas de avião, helicóptero e barco para áreas isoladas no Acre",
+      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/eleicoes-2026-urnas-eletronicas-sao-levadas-de-aviao-helicoptero-e-barco-para-areas-isoladas-no-acre.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:00+00:00",
+      "summary": "Urnas eletrônicas são para áreas isoladas no Acre As urnas eletrônicas que serão usadas nas eleições do próximo domingo (4) já estão sendo distribuídas para comunidades de difícil acesso no Acre desde segunda-feira (28). A operação envolve aviões, helicópteros, barcos e veículos terrestres para levar os equipamentos ao",
+      "category": "Política"
+    },
+    {
+      "title": "Da entrada à formatura: veja a trajetória da mulher com a 'pior dor do mundo' na faculdade",
+      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/01/da-entrada-a-formatura-veja-a-trajetoria-da-mulher-com-a-pior-dor-do-mundo-na-faculdade.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T08:00:00+00:00",
+      "summary": "Mulher com a 'pior dor do mundo' se forma Médica Veterinária no dia do aniversário em MG Quando Carolina Arruda, conhecida por conviver com a \"pior dor do mundo\", entrou no curso de Medicina Veterinária do Instituto Federal de Minas Gerais (IFMG), em Bambuí, no Centro-Oeste de Minas Gerais, tinha um objetivo desde a in",
+      "category": "Saúde"
+    },
+    {
+      "title": "É o fim de Ronaldo na seleção? E o mistério do voo FZ 1073",
+      "url": "https://observador.pt/newsletters/360/a-novela-que-pode-ditar-o-fim-de-ronaldo-na-selecao-e-o-que-aconteceu-a-bordo-do-voo-fz-1073-para-israel/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T07:55:40+00:00",
+      "summary": "O caso que anuncia o fim de uma era na seleção portuguesa. O grave incidente no avião da Flydubai: terrorismo ou loucura? E as novidades no arrendamento.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Crédito mais caro abre espaço para operações estruturadas no agro",
+      "url": "https://www.cnnbrasil.com.br/agro/credito-mais-caro-abre-espaco-para-operacoes-estruturadas-no-agro/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T07:50:05+00:00",
+      "summary": "CPRs são usadas em operações maiores, mais customizadas com garantia real, enquanto bancos ampliam a seletividade na concessão de recursos",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "As polémicas e birras do melhor do mundo, Cristiano Ronaldo",
+      "url": "https://observador.pt/programas/tres-toques/as-polemicas-e-birras-do-melhor-do-mundo-cristiano-ronaldo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T07:43:10+00:00",
+      "summary": "A carreira de Ronaldo é inspiradora e deu-lhe o título de \"melhor do mundo\". No entanto, sempre foi marcada por polémicas. A mais recente levou até à sua saída do estágio da seleção nacional.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Pelos vistos, na Saúde o PS é igualzinho ao PCP e ao BE",
+      "url": "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/pelos-vistos-na-saude-o-ps-e-igualzinho-ao-pcp-e-ao-be/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T07:39:41+00:00",
+      "summary": "José Luís Carneiro (que viabiliza o OE sem o ver), a ministra do Ambiente (que foi pedir contas ao Volta) e o PS (que é contra as PPP na Saúde) são o Bom, o Mau e o Vilão.",
+      "category": "Saúde"
+    },
+    {
+      "title": "Combustíveis mais caros e consumo continua a subir. Porquê?",
+      "url": "https://observador.pt/programas/contra-corrente/combustiveis-mais-caros-e-consumo-continua-a-subir-porque/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T07:37:46+00:00",
+      "summary": "Nunca os portugueses deixaram tanto dinheiro na bomba de gasolina, mas não precisamos de olhar para os números do consumo de combustíveis para percebermos que há mais e mais trânsito. Incompreensível?",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dia do Idoso: veja dicas para manter o cérebro ativo e saudável",
+      "url": "https://www.cnnbrasil.com.br/saude/dia-do-idoso-veja-dicas-para-manter-o-cerebro-ativo-e-saudavel/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T07:35:42+00:00",
+      "summary": "Hábito como leitura e atividade física reduzem o estresse e previnem a perda da capacidade funcional na velhice",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ronaldo foi traído na seleção portuguesa?",
+      "url": "https://observador.pt/programas/no-se-fala-de-outra-coisa/ronaldo-foi-traido-na-selecao-portuguesa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T07:32:15+00:00",
+      "summary": "A saída de Cristiano Ronaldo da seleção e o conflito com Jorge Jesus dominam a imprensa mundial, marcada por acusações de traição e promessas não cumpridas.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Outubro terá Vênus e Mercúrio retrógrados; veja o que esperar do mês",
+      "url": "https://www.cnnbrasil.com.br/comportamento/horoscopo/outubro-tera-venus-e-mercurio-retrogrados-veja-o-que-esperar-do-mes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T07:30:24+00:00",
+      "summary": "Período será marcado por revisões, conversas importantes e questões do passado que podem voltar à tona, com atenção especial aos relacionamentos e às escolhas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Grécia x Holanda: horário e onde assistir ao jogo da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/grecia-x-holanda-horario-e-onde-assistir-ao-jogo-da-nations-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T07:30:14+00:00",
+      "summary": "Equipes se enfrentam nesta quinta-feira (1), no Toumba Stadium, pela terceira rodada do Grupo A2 da competição de seleções",
+      "category": "Esportes"
+    },
+    {
+      "title": "Jeep Renegade Sahara MHEV: como é a convivência diária com o SUV híbrido",
+      "url": "https://www.cnnbrasil.com.br/auto/jeep-renegade-sahara-mhev-como-e-a-convivencia-diaria-com-o-suv-hibrido/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T07:30:05+00:00",
+      "summary": "O Jeep Renegade agora tem versões híbridas que ajudam na melhoria do consumo de combustível e também reduzem a emissão de gases poluentes",
+      "category": "Economia"
+    },
+    {
+      "title": "Cristiano Ronaldo vs Jorge Jesus. Qual o maior ego?",
+      "url": "https://observador.pt/programas/momentos-de-glria/cristiano-ronaldo-vs-jorge-jesus-qual-o-maior-ego/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T07:23:33+00:00",
+      "summary": "JJ e Ronaldo entram num braço de ferro, Santana Lopes procura o homem perfeito e ainda a fé de Gustavo Santos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "O Orçamento do Estado está a caminho da normalidade?",
+      "url": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/o-orcamento-do-estado-esta-a-caminho-da-normalidade/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T07:22:05+00:00",
+      "summary": "O PS viabiliza o OE para repor a estabilidade. Já o sistema Volta força o Governo a intervir perante a sujidade na via pública e os problemas sociais associados.",
+      "category": "Política"
+    },
+    {
+      "title": "Flávio treina para responder a polêmicas e se mostrar propositivo em debate",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-treina-para-responder-a-polemicas-e-se-mostrar-propositivo-em-debate/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T07:15:00+00:00",
+      "summary": "Candidato do PL à Presidência se prepara com assessores para o confronto presidencial que acontece nesta quinta-feira (1º) à noite; presidente Lula, candidato à reeleição, já avisou que não comparecerá",
+      "category": "Política"
+    },
+    {
+      "title": "IGAS abre inquérito a mortes de utentes em lar de Estremoz",
+      "url": "https://observador.pt/2026/10/01/surto-de-gripe-a-inspecao-geral-das-atividades-em-saude-abre-inquerito-a-mortes-em-lar-de-estremoz/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T07:14:42+00:00",
+      "summary": "O inquérito pretende averiguar aspetos como o acompanhamento clínico dos utentes do Lar",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cristiano Ronaldo deixa seleção de Portugal após fala de Jorge Jesus",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/cristiano-ronaldo-deixa-selecao-de-portugal-apos-fala-de-jorge-jesus",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T00:53:00+00:00",
+      "summary": "O atacante Cristiano Ronaldo deixou, nesta quarta-feira (30), a concentração da seleção de Portugal em Copenhague (Dinamarca), onde a equipe ibérica terá os anfitriões pela frente nesta quinta-feira (1º), às 15h45 (horário de Brasília), pela terceira rodada do Grupo D da Liga das Nações. A decisão foi tomada após a ent",
+      "category": "Esportes"
     },
     {
       "title": "TSE forma maioria para manter retirada de posts sobre Nossa Senhora",
@@ -272,49 +452,13 @@
       "category": "Política"
     },
     {
-      "title": "Caminhos da Reportagem, da TV Brasil, vence Prêmio Vladimir Herzog",
+      "title": "Caminhos da Reportagem, da TV Brasil, leva Prêmio Vladimir Herzog",
       "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/caminhos-da-reportagem-da-tv-brasil-vence-premio-vladimir-herzog",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-01T00:23:00+00:00",
       "summary": "O episódio Trabalho escravo doméstico: silêncio e servidão , do programa Caminhos da Reportagem, da TV Brasil, venceu a categoria vídeo da 48ª edição do Prêmio Jornalístico Vladimir Herzog de Anistia e Direitos Humanos. O anúncio foi feito nesta quarta-feira (30). A produção jornalística, que foi ao ar em 20 de abril d",
       "category": "Mundo"
-    },
-    {
-      "title": "Saída de Ronaldo. \"Vai haver um problema na marca da Federação\"",
-      "url": "https://www.rtp.pt/noticias/desporto/saida-de-ronaldo-vai-haver-um-problema-na-marca-da-federacao_v1768768",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T00:18:47+00:00",
-      "summary": "Especialistas em marketing e gestão de marcas acreditam que a Federação Portuguesa de Futebol vai perder com a saída de CR7. O impacto comercial deste caso esteve em análise na RTP Notícias.",
-      "category": "Esportes"
-    },
-    {
-      "title": "1h. CGTP. Greve de sexta pode afetar escolas e autarquias",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2400/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T00:14:08+00:00",
-      "summary": "A paralisação abrange 350 mil técnicos que trabalham em vários serviços da administração pública. Ainda neste jornal, Chega viabilizou a proposta do Governo para rever o regime do arrendamento urbano.",
-      "category": "Política"
-    },
-    {
-      "title": "Como o \"caso-não caso\" se tornou o fim de Ronaldo na Seleção",
-      "url": "https://observador.pt/especiais/conversas-em-agosto-mudanca-em-oslo-ameaca-na-vespera-traicao-e-equivocos-como-o-caso-nao-caso-se-tornou-o-fim-de-ronaldo-na-selecao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T00:03:59+00:00",
-      "summary": "Depois de ter aquecido sem entrar frente à Noruega, Ronaldo não mais voltou a trabalhar no relvado com os companheiros e fintou aquilo que Jesus dissera uns minutos antes",
-      "category": "Esportes"
-    },
-    {
-      "title": "OE. PCP quer reforçar direitos de pais e crianças",
-      "url": "https://www.rtp.pt/noticias/politica/oe-pcp-quer-reforcar-direitos-de-pais-e-criancas_n1768762",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T00:00:14+00:00",
-      "summary": "O PCP promete levar os direitos de pais e crianças para as negociações do Orçamento do Estado que terão início nas próximas semanas, defendendo que são um \"aspeto fundamental\" para discutir um \"projeto de futuro\" para o país. São temas que vão estar em debate nos próximos dois dias nas jornadas parlamentares do partido",
-      "category": "Política"
     },
     {
       "title": "Percentual de jovens nem-nem no Brasil cai para 22,4%, mostra estudo",
@@ -326,42 +470,6 @@
       "category": "Mundo"
     },
     {
-      "title": "USF: médico de família para todos até 2029",
-      "url": "https://observador.pt/2026/10/01/medico-de-familia-para-todos-os-utentes-do-sns-ate-2029-e-possivel-diz-associacao-das-usf/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T23:28:55+00:00",
-      "summary": "\"Não basta abrir vagas e publicar o edital e esperar que as coisas aconteçam\", afirma André Biscaia, presidente da USF-AN",
-      "category": "Política"
-    },
-    {
-      "title": "CESA alerta para défice açoriano de 5% do PIB",
-      "url": "https://observador.pt/2026/10/01/conselho-economico-e-social-dos-acores-preocupado-com-evolucao-das-financas-da-regiao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T23:27:43+00:00",
-      "summary": "\"Significa que gastámos mais do que aquilo que tínhamos arrecadado em 305,5 milhões de euros. É óbvio que isso teve como consequência o aumento da dívida da região\" indica a comissão de Economia e Desenvolvimento do CESA",
-      "category": "Economia"
-    },
-    {
-      "title": "Leão XIV e a filha primogénita da Igreja",
-      "url": "https://observador.pt/opiniao/leao-xiv-e-a-filha-primogenita-da-igreja/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T23:25:23+00:00",
-      "summary": "Perante a adesão do povo francês ao Chefe da Igreja Católica, Emmanuel Macron mudou de planos e decidiu, à última hora, assistir à eucaristia. Afinal, um bom banho de multidão valia bem uma missa.",
-      "category": "Mundo"
-    },
-    {
-      "title": "O pato Donald e a pata que o pôs",
-      "url": "https://observador.pt/opiniao/o-pato-donald-e-a-pata-que-o-pos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T23:24:28+00:00",
-      "summary": "Trump tem muito que se lhe diga, incluindo sobre o sentido da vida – e da morte",
-      "category": "Mundo"
-    },
-    {
       "title": "Veja como foi a quarta-feira (30) dos presidenciáveis",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-30-dos-presidenciaveis",
       "source": "Agência Brasil",
@@ -369,51 +477,6 @@
       "publishedAt": "2026-09-30T23:24:00+00:00",
       "summary": "A agenda dos presidenciáveis nesta quarta-feira (30) incluiu caminhadas, carreatas, panfletagens e encontros com apoiadores, além de entrevistas em rádio e podcast. >> Veja como foi o dia dos candidatos a presidente: Romeu Zema (Novo) O candidato não teve agenda pública de campanha. Notícias relacionadas: Candidato do ",
       "category": "Política"
-    },
-    {
-      "title": "Violação. Cornell avança com investigação independente",
-      "url": "https://observador.pt/2026/10/01/universidade-de-cornell-avanca-com-investigacao-independente-ao-modo-como-lidou-com-caso-de-alegada-violacao-em-grupo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T23:22:40+00:00",
-      "summary": "O caso aconteceu em novembro de 2024, na fraternidade masculina Chi Phi, ligada a Cornell",
-      "category": "Esportes"
-    },
-    {
-      "title": "40% dos jovens com sintomas depressivos nas escolas",
-      "url": "https://observador.pt/2026/10/01/40-dos-adolescentes-com-sintomas-depressivos-avaliacao-em-259-escolas-revela-escala-do-problema-no-ano-letivo-2025-2026/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T23:22:36+00:00",
-      "summary": "Programa \"Mais Contigo\" abrangeu 18.651 alunos no último ano letivo. Mais de 2.100 adolescentes foram identificados em risco de comportamento suicidário.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Palácio Foz: o preço da cultura",
-      "url": "https://observador.pt/opiniao/palacio-foz-o-preco-da-cultura/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T23:21:23+00:00",
-      "summary": "A esquerda comporta-se como se tivesse um direito adquirido sobre a definição de políticas legítimas, sobretudo no campo da cultura.",
-      "category": "Economia"
-    },
-    {
-      "title": "O homem que faliu o mundo",
-      "url": "https://observador.pt/opiniao/o-homem-que-faliu-o-mundo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T23:20:20+00:00",
-      "summary": "Tudo obra de um homem que, supostamente, saberia fazer negócios. Um político cujos valores morais ou intelectuais poucos se ofereceriam para defender, mas cuja argúcia económica era uma maravilha.",
-      "category": "Mundo"
-    },
-    {
-      "title": "00h. Montenegro sublinha \"sinal importante\" dado pelo PS",
-      "url": "https://observador.pt/programas/noticiario/00h-montenegro-sublinha-sinal-importante-dado-pelo-ps/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T23:17:40+00:00",
-      "summary": "Montenegro elogia o sinal dado pelo PS em relação à eventual viabilização do OE para 2027. Ainda, Cristiano Ronaldo já está a caminho de Madrid.",
-      "category": "Mundo"
     },
     {
       "title": "WhatsApp lança regras para controle parental no Brasil; saiba como",
@@ -434,33 +497,6 @@
       "category": "Economia"
     },
     {
-      "title": "Mais de 60 professores com registo criminal inválido afastados provisoriamente",
-      "url": "https://www.rtp.pt/noticias/pais/mais-de-60-professores-com-registo-criminal-invalido-afastados-provisoriamente_n1768760",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T22:40:51+00:00",
-      "summary": "O ministro da Educação já pediu uma análise \"urgente e imediata\" de todas as situações de registo criminal inválido.",
-      "category": "Política"
-    },
-    {
-      "title": "22h Cristiano Ronaldo abandona estágio da seleção promete explicações para mais tarde",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-cristiano-ronaldo-abandona-estagio-da-selecao-promete-explicacoes-para-mais-tarde_a1_1768759",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T22:31:02+00:00",
-      "summary": "",
-      "category": "Esportes"
-    },
-    {
-      "title": "Parlamento vai discutir regras mais flexíveis para contratar professores no privado",
-      "url": "https://www.rtp.pt/noticias/politica/parlamento-vai-discutir-regras-mais-flexiveis-para-contratar-professores-no-privado_n1768758",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T22:28:24+00:00",
-      "summary": "O parlamento vai discutir, em sede de especialidade, duas iniciativas do CDS-PP e da IL que pretendem flexibilizar as regras para a contratação de professores por parte dos colégios privados e que mereceram críticas das restantes bancadas.",
-      "category": "Cultura"
-    },
-    {
       "title": "TSE manda Nikolas retirar postagem com desinformação sobre Lula",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-manda-nikolas-retirar-postagem-com-desinformacao-sobre-lula",
       "source": "Agência Brasil",
@@ -468,33 +504,6 @@
       "publishedAt": "2026-09-30T22:22:00+00:00",
       "summary": "A ministra Estela Aranha, do Tribunal Superior Eleitoral (TSE), determinou nesta quarta-feira (30) que o deputado federal Nikolas Ferreira (PL-MG) apague de suas redes sociais, no prazo de 24 horas, uma postagem que retirou de contexto uma fala do presidente Luiz Inácio Lula da Silva, candidato à reeleição. A ministra ",
       "category": "Política"
-    },
-    {
-      "title": "Torreense goleia e garante oitavos de final da Taça da Europa feminina",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/torreense-goleia-e-garante-oitavos-de-final-da-taca-da-europa-feminina_d1768757",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T22:06:03+00:00",
-      "summary": "O Torreense garantiu a passagem aos oitavos de final da Taça da Europa feminina de futebol depois de golear as ucranianas do Metalist 1925, por 4-1, na segunda mão da segunda eliminatória.",
-      "category": "Economia"
-    },
-    {
-      "title": "Eleições no Brasil. Vitória de Flávio Bolsonaro pode colocar Chega como canal privilegiado com Lisboa",
-      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-vitoria-de-flavio-bolsonaro-pode-colocar-chega-como-canal-privilegiado-com-lisboa_es1768715",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T21:59:30+00:00",
-      "summary": "O confronto entre Lula da Silva e Flávio Bolsonaro para a Presidência do Brasil representa muito mais do que a disputa pelo Palácio do Planalto: coloca frente a frente duas visões antagónicas para a política externa e a soberania nacional, com impactos diretos em Portugal e na ordem regional latino-americana. A análise",
-      "category": "Política"
-    },
-    {
-      "title": "Portugal goleia Gibraltar e assegura Europeu de sub-21",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-goleia-gibraltar-e-assegura-europeu-de-sub-21_d1768755",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-09-30T21:57:40+00:00",
-      "summary": "Portugal assegurou a 11.ª presença, a quarta consecutiva, na fase final do Campeonato da Europa de futebol de sub-21, ao golear Gibraltar, por 4-0, e ao assegurar o primeiro lugar no Grupo B.",
-      "category": "Economia"
     },
     {
       "title": "Vorcaro depõe à PF e nega existência de grupo criminoso \"A Turma\"",
@@ -513,15 +522,6 @@
       "publishedAt": "2026-09-30T21:39:00+00:00",
       "summary": "A Agência Brasil conquistou o terceiro lugar no Prêmio Radar Saúde 2026 , promovido pelo Instituto Todos Pela Saúde, com a matéria Brasil deverá ter centro para enfrentamento de emergências em saúde , de autoria da jornalista Elaine Patrícia Cruz. A reportagem mostrou o planejamento governamental na criação de infraest",
       "category": "Saúde"
-    },
-    {
-      "title": "MPSP denuncia dois homens por falsificação de bebida que cegou mulher",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mpsp-denuncia-dois-homens-por-falsificacao-de-bebida-que-cegou-mulher",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-09-30T21:20:00+00:00",
-      "summary": "O Ministério Público do Estado de São Paulo (MPSP) denunciou dois homens por terem falsificado bebida alcoólica que cegou uma mulher em Guarulhos (SP), em setembro de 2025. A denúncia foi feita pela 16ª Promotoria de Justiça Criminal de Guarulhos. De acordo com o MPSP, um dos denunciados era proprietário e responsável ",
-      "category": "Mundo"
     }
   ],
   "sources": [
