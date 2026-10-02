@@ -1,23 +1,491 @@
 {
-  "updatedAt": "2026-10-01T21:47:55.279222+00:00",
+  "updatedAt": "2026-10-02T01:39:54.246539+00:00",
   "items": [
     {
-      "title": "Arranca em Lisboa a 27ª edição da Festa do Cinema Francês",
-      "url": "https://www.rtp.pt/noticias/pais/arranca-em-lisboa-a-27a-edicao-da-festa-do-cinema-frances_n1769020",
+      "title": "2h Eleições Brasil. Cancelado único debate televisivo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-eleicoes-brasil-cancelado-unico-debate-televisivo_a1_1769045",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-01T22:39:49+00:00",
-      "summary": "A 27ª edição da Festa do Cinema Francês ganha a dimensão de festival, com a criação de uma seção competitiva. Outra novidade é celebrar a Francofonia, abre-se ao cinema do espaço francófono.",
+      "publishedAt": "2026-10-02T02:15:01+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "1h Três sindicatos da CGTP convocaram greve e uma manifestação dos trabalhadores da função pública",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-tres-sindicatos-da-cgtp-convocaram-greve-e-uma-manifestacao-dos-trabalhadores-da-funcao-publica_a1_1769044",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-02T02:11:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Araceli Lemos propõe exigir verticalização da produção mineral e criar 'salário pai d'égua' no Pará",
+      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/01/araceli-lemos-propoe-exigir-verticalizacao-da-producao-mineral-e-criar-salario-pai-degua-no-para.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:35:24+00:00",
+      "summary": "Candidata ao governo do Pará, Araceli Lemos faz caminhada no bairro da Terra Firme, Belém A candidata do PSOL ao Governo do Pará, Araceli Lemos, disse nesta quinta-feira (1º) que quer exigir a verticalização da produção mineral no estado, condicionando o licenciamento ambiental ao beneficiamento local das riquezas extr",
+      "category": "Política"
+    },
+    {
+      "title": "Presidente Lula, candidato à reeleição pelo PT, tem agenda em Brasília",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/01/presidente-lula-candidato-a-reeleicao-pelo-pt-tem-agenda-em-brasilia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:33:18+00:00",
+      "summary": "Presidente Lula, candidato à reeleição pelo PT, tem agenda em Brasília O Jornal Nacional mostrou como foi o dia dos candidatos à Presidência da República nesta quinta-feira (1º). O presidente Lula, candidato à reeleição pelo PT, teve agenda em Brasília. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia",
+      "category": "Política"
+    },
+    {
+      "title": "Veja agenda de campanha dos candidatos ao governo de MG nesta quinta-feira",
+      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/01/veja-agenda-de-campanha-dos-candidatos-ao-governo-de-mg-nesta-quinta-feira.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:30:10+00:00",
+      "summary": "Montagem de fotos com os candidatos ao governo de MG Divulgação Candidatos ao governo de Minas Gerais realizaram reuniões com os partidos e participaram de encontros com aliados e apoiadores, nesta quinta-feira (1º), em Belo Horizonte e no interior do estado. ✅ Clique aqui para seguir o canal do g1 Minas no WhatsApp O ",
+      "category": "Política"
+    },
+    {
+      "title": "Lito Sousa, influenciador e especialista em aviação, morre em São Paulo",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/01/lito-sousa-influenciador-e-especialista-em-aviacao-que-sofria-com-doenca-rara-morre-em-sao-paulo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:29:46+00:00",
+      "summary": "Lito Sousa, influenciador e especialista em aviação que sofria com doença rara, morre em São Paulo Jornal Nacional/ Reprodução Morreu nesta quinta-feira (1º), em São Paulo, o especialista em aviação e influenciador digital Lito Sousa. Depois de ter trabalhado por mais de três décadas em grandes companhias aéreas, Josel",
       "category": "Ciência & Tech"
+    },
+    {
+      "title": "“Não deixe o verde dar lugar às cinzas”: FRAM lança campanha contra queimadas na Amazônia",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/01/nao-deixe-o-verde-dar-lugar-as-cinzas-fram-lanca-campanha-contra-queimadas-na-amazonia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:29:21+00:00",
+      "summary": "Campanha da Fundação Rede Amazônica busca a conscientização ambiental contra queimadas. Fundação Rede Amazônica. A Fundação Rede Amazônica (FRAM) lançou a campanha institucional Consciência Limpa Queimadas, que chama a atenção para os riscos das queimadas urbanas e rurais na Amazônia. A iniciativa mostra como atitudes ",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Associações de imprensa manifestam 'profunda indignação' com intervenção judicial em regras do debate da Globo",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/01/associacoes-de-imprensa-manifestam-profunda-indignacao-com-intervencao-judicial-em-regras-do-debate-da-globo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:19:25+00:00",
+      "summary": "Debate presidencial: dinâmica incentiva a apresentação de propostas e a discussão dos principais temas do Brasil Jornal Nacional/ Reprodução A Associação Brasileira de Emissoras de Rádio e Televisão (ABERT), a Associação Nacional de Editores de Revistas (ANER) e a Associação Nacional de Jornais (ANJ) manifestaram, nest",
+      "category": "Mundo"
+    },
+    {
+      "title": "Arrascaeta, do Flamengo, recebe alta hospitalar após cirurgia no pulso",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/arrascaeta-do-flamengo-recebe-alta-hospitalar-apos-cirurgia-no-pulso/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:18:32+00:00",
+      "summary": "Meio-campista uruguaio realizou uma cirurgia de correção de uma fratura no punho esquerdo, sofrida durante amistoso entre Uruguai e Coreia do Sul, na última segunda-feira",
+      "category": "Saúde"
+    },
+    {
+      "title": "Vizinho de casal baleado é 'investigado número um' por crime em haras de Campinas, diz Polícia",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/01/vizinho-casal-baleado-investigado-numero-um-crime-haras-campinas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:18:18+00:00",
+      "summary": "Abdias Nogueira Ramos é o principal suspeito de balear um casal Divulgação A Polícia Civil suspeita que um vizinho foi um dos responsáveis pelos disparos contra um casal nesta quinta-feira (1º), em um haras no limite entre Campinas (SP) e Jaguariúna (SP). Abdias Nogueira Ramos, de 73 anos, é tratado como o \"investigado",
+      "category": "Mundo"
+    },
+    {
+      "title": "“Essa insegurança jurídica tem que terminar”, diz Cury após cancelamento",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/essa-inseguranca-juridica-tem-que-terminar-diz-cury-apos-cancelamento/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:18:14+00:00",
+      "summary": "Debate presidencial que seria realizado nesta quinta-feira (1º) foi cancelado pela Globo após decisões judiciais alterarem regras e participantes do encontro",
+      "category": "Mundo"
+    },
+    {
+      "title": "Planos de saúde são obrigados a fazer mamografias em mulheres com menos de 40 anos que tenham indicação médica",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/01/planos-de-saude-sao-obrigados-a-fazer-mamografias-em-mulheres-com-menos-de-40-anos-que-tenham-indicacao-medica.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:16:35+00:00",
+      "summary": "Planos de saúde são obrigados a fazer mamografias em mulheres com menos de 40 anos que tenham indicação médica Jornal Nacional/ Reprodução A partir desta quinta-feira (1º), os planos de saúde são obrigados a fazer mamografias em mulheres com menos de 40 anos que tenham indicação médica. A fisioterapeuta Raquel Castanha",
+      "category": "Saúde"
+    },
+    {
+      "title": "As notícias das 2h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2428/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-02T01:15:15+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Justiça mantém bloqueio de R$ 1,55 milhão e afastamento parcial de prefeito investigado por irregularidades na saúde em MT",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/01/justica-mantem-bloqueio-de-r-155-milhao-e-afastamento-parcial-de-prefeito-investigado-por-irregularidades-na-saude-em-mt.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:13:28+00:00",
+      "summary": "Nilmar Nunes de Miranda (União) DivulgaCand O Tribunal de Justiça de Mato Grosso (TJMT) manteve, por unanimidade, nesta quinta-feira (1º), o bloqueio de bens do prefeito de Peixoto de Azevedo, a 692 km de Cuiabá, Nilmar Nunes de Miranda (União), até R$ 1,55 milhão, além do afastamento parcial da gestão da saúde. A medi",
+      "category": "Política"
+    },
+    {
+      "title": "Seca deixa 22 municípios do Amazonas em situação de emergência, aponta Defesa Civil",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/01/seca-deixa-22-municipios-do-amazonas-em-situacao-de-emergencia-aponta-defesa-civil.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:10:53+00:00",
+      "summary": "Período da estiagem no Amazonas, em 2025. Divulgação A seca dos rios deixou 22 dos 62 municípios do Amazonas em situação de emergência, segundo boletim divulgado pelo Governo do Estado nesta quinta-feira (1º). O levantamento é da Defesa Civil do Amazonas e integra as ações do Comitê Permanente de Enfrentamento a Evento",
+      "category": "Política"
+    },
+    {
+      "title": "TSE proíbe coligação de Deltan de fazer campanha para o político ao Senado",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-proibe-coligacao-de-deltan-de-fazer-campanha-para-o-politico-ao-senado/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:10:16+00:00",
+      "summary": "Floriano de Azevedo Marques entendeu que permitir a campanha por integrantes da coligação frustraria a suspensão imposta ao candidato, que continuará na urna no domingo (4)",
+      "category": "Política"
+    },
+    {
+      "title": "Eleições 2026: veja como foi o dia dos candidatos ao governo da Bahia nesta quinta",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/01/veja-como-foi-o-dia-dos-candidatos-ao-governo-da-bahia-nesta-quinta.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:08:51+00:00",
+      "summary": "Confira a agenda dos candidatos a governador da Bahia nesta quinta-feira Os candidatos ao governo da Bahia cumpriram compromissos de campanha nesta quinta-feira (1º), em Salvador e no interior do estado. Entre as atividades do dia estão caminhadas, carreatas e comícios (Confira os detalhes abaixo). ACM Neto (União Bras",
+      "category": "Política"
+    },
+    {
+      "title": "TSE decide pela exclusão de publicações que ligavam Flávio Bolsonaro, do PL, à retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/01/tse-decide-pela-exclusao-de-publicacoes-que-ligavam-flavio-bolsonaro-do-pl-a-retirada-de-nossa-senhora-aparecida-do-posto-de-padroeira-do-brasil.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:05:43+00:00",
+      "summary": "Ministros do TSE ainda não divulgaram extensão da decisão sobre informações falsas ligando Flávio Bolsonaro (PL) e a padroeira do Brasil O Tribunal Superior Eleitoral decidiu pela exclusão de publicações com informações falsas que ligavam o candidato à Presidência Flávio Bolsonaro, do PL, à retirada de Nossa Senhora Ap",
+      "category": "Política"
+    },
+    {
+      "title": "Waack: Bagunça judicial afeta a disputa eleitoral",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/waack-bagunca-judicial-afeta-a-disputa-eleitoral/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:03:14+00:00",
+      "summary": "A judicialização das eleições está em pleno curso e aparentemente não há controle ou limites; a bagunça processual, evidente nesta noite (1), é ao mesmo tempo causa e consequência da politização no topo do Judiciário",
+      "category": "Política"
+    },
+    {
+      "title": "PM descarta suspeita de bomba nas proximidades do STF",
+      "url": "https://www.cnnbrasil.com.br/politica/pm-descarta-suspeita-de-bomba-nas-proximidades-do-stf/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:02:30+00:00",
+      "summary": "Homem de 28 anos foi detido após arremessar uma mochila em ponto de ônibus próximo ao STF; esquadrão anti-bomba e cães farejadores atuaram no local",
+      "category": "Política"
+    },
+    {
+      "title": "Neymar lança linha de bolachas personalizadas; veja fotos",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-lanca-linha-de-bolachas-personalizadas-veja-fotos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:02:16+00:00",
+      "summary": "Alimento em parceria com o astro do Santos terá coleção de bonecos do astro e formato da cabeça do Camisa 10 em diferentes fases da carreira no futebol",
+      "category": "Esportes"
+    },
+    {
+      "title": "Trump diz acompanhar de perto eleição brasileira e não declara apoio",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trump-diz-acompanhar-de-perto-eleicao-brasileira-e-nao-declarar-apoio",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T01:00:00+00:00",
+      "summary": "O presidente dos Estados Unidos (EUA), Donald Trump, afirmou nesta quinta-feira (1º) que acompanha \"muito de perto\" as eleições brasileiras, que ocorrerão daqui a três dias, em 1º turno. A declaração foi dada em resposta à pergunta de uma jornalista, na saída da Casa Branca, antes do presidente norte-americano embarcar",
+      "category": "Política"
+    },
+    {
+      "title": "Vice do Fed diz não haver urgência para novos cortes ou altas de juros",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/vice-do-fed-diz-nao-haver-urgencia-para-novos-cortes-ou-altas-de-juros/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T00:53:53+00:00",
+      "summary": "Afirmação foi dada ao ser questionada sobre o futuro da política monetária durante um evento organizado pelo Atlantic Council em Washington",
+      "category": "Economia"
+    },
+    {
+      "title": "Zema critica decisão de Gilmar sobre debate: “Sem pé, nem cabeça”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/zema-critica-decisao-de-gilmar-sobre-debate-sem-pe-nem-cabeca/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T00:52:27+00:00",
+      "summary": "Ministro do STF (Supremo Tribunal Federal) determinou na noite desta quinta (1°) que a TV Globo incluísse o candidato à Presidência Renan Santos (Missão) no debate, antes do cancelamento",
+      "category": "Política"
+    },
+    {
+      "title": "Lula bateu em retirada do debate após ser provacado por Flávio, diz Caiado",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-bateu-em-retirada-do-debate-apos-ser-provacado-por-flavio-diz-caiado/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T00:51:57+00:00",
+      "summary": "TV Globo cancelou debate presidencial desta quinta-feira (1º) apontando insegurança judicial após decisões do TSE e do STF",
+      "category": "Política"
+    },
+    {
+      "title": "Artilheiro da Dinamarca empurra Jorge Jesus após imitar Cristiano Ronaldo",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/artilheiro-da-dinamarca-empurra-jorge-jesus-apos-imitar-cristiano-ronaldo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T00:50:00+00:00",
+      "summary": "Rasmus Hojlund, ex-Manchester United e atualmente no Napoli, aparentemente se estranhou com o treinador de Portugal na derrota dinamarquesa pela Nations League",
+      "category": "Mundo"
+    },
+    {
+      "title": "STJ mantém ação de ex-detento do Carandiru que pede indenização",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/stj-mantem-acao-de-ex-detento-do-carandiru-que-pede-indenizacao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T00:48:47+00:00",
+      "summary": "Ex-detento alega que foi vítima de agressões físicas e tortura após ter sido submetido à prática de “roleta-russa” durante o Massacre do Carandiru, ocorrido em 1992",
+      "category": "Mundo"
+    },
+    {
+      "title": "“Atentado à democracia brasileira”, diz Caiado após cancelamento de debate",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/atentado-a-democracia-brasileira-diz-caiado-apos-cancelamento-de-debate/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T00:47:32+00:00",
+      "summary": "Candidato do PSD à Presidência da República se manifestou após cancelamento de debate da TV Globo na noite desta quinta-feira (1°)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio em prédio no Cais do Sodré dominado",
+      "url": "https://www.rtp.pt/noticias/pais/incendio-em-predio-no-cais-do-sodre-dominado_n1769040",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-02T00:44:37+00:00",
+      "summary": "As chamas deflagraram no número 54 da Rua Nova do Carvalho, junto ao Cais do Sodré.",
+      "category": "Clima"
+    },
+    {
+      "title": "Cientistas descobrem que obesidade pode alterar e prejudicar relaxamento do coração",
+      "url": "https://www.rtp.pt/noticias/mundo/cientistas-descobrem-que-obesidade-pode-alterar-e-prejudicar-relaxamento-do-coracao_n1769038",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-02T00:44:20+00:00",
+      "summary": "Uma equipa de investigadores descobriu como a obesidade pode alterar e prejudicar o necessário relaxamento do coração, o que poderá abrir caminho para tratamentos personalizados de acordo com a causa da lesão cardíaca.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "0h Hoje é dia de greve de trabalhadores das carreiras gerais da função pública, convocada pela CGTP",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-hoje-e-dia-de-greve-de-trabalhadores-das-carreiras-gerais-da-funcao-publica-convocada-pela-cgtp_a1_1769039",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-02T00:41:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mega-Sena acumula para R$ 82 milhões; confira os números sorteados",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-82-milhoes-confira-os-numeros-sorteados",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-02T00:33:00+00:00",
+      "summary": "Nenhum apostador acertou as seis dezenas do Concurso 3.065 da Mega-Sena, realizado nesta quinta-feira (1º). O prêmio acumulou e está estimado em R$ 82 milhões para o próximo sorteio. Os números sorteados são: 08 - 10 - 30 - 38 - 50 - 53 47 apostas acertaram cinco dezenas e irão receber R$ 49.503,22 cada 3.642 apostas a",
+      "category": "Mundo"
+    },
+    {
+      "title": "1h.Influencer. MP impede António Costa de consultar processo",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2401/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-02T00:13:16+00:00",
+      "summary": "Inquérito em que António Costa está a ser investigado por crime de prevaricação já não está sob segredo de justiça. Ainda, Portugal vence Dinamarca por 4-2 e isola-se, ainda mais, no primeiro lugar.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portalegre aprova manutenção das taxas dos impostos em 2027",
+      "url": "https://observador.pt/2026/10/02/assembleia-municipal-de-portalegre-aprova-manutencao-das-taxas-dos-impostos-em-2027/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:45:18+00:00",
+      "summary": "Por parte da bancada da coligação na assembleia municipal, Paulo Andrade considerou que esta \"opção estratégica\" do executivo \"está a produzir os efeitos necessários\"",
+      "category": "Esportes"
+    },
+    {
+      "title": "Rita Estanqueiro vence 16º Prémio de Conto Manuel da Fonseca",
+      "url": "https://observador.pt/2026/10/02/obra-de-rita-estanqueiro-vence-16-a-edicao-do-premio-de-conto-manuel-da-fonseca/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:45:04+00:00",
+      "summary": "A autarquia revelou que, nesta 16.ª edição do Prémio de Conto Manuel da Fonseca, foram também atribuídas, por unanimidade, duas menções honrosas",
+      "category": "Mundo"
+    },
+    {
+      "title": "23h Mais uma vitória para Portugal, vence a Dinamarca, por 4-2",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-mais-uma-vitoria-para-portugal-vence-a-dinamarca-por-4-2_a1_1769035",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:29:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Homem é preso ao tentar invadir a sede do STF em Brasília",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/homem-e-preso-ao-tentar-inavadir-sede-do-stf-em-brasilia",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T23:26:00+00:00",
+      "summary": "Um homem foi preso no início da noite desta quinta-feira (1) ao tentar invadir o edifício-sede do Supremo Tribunal Federal (STF). De acordo com informações das equipes de segurança da Corte, o homem tentou pular a grade de segurança e jogou uma mochila no telhado de uma parada de ônibus. \"Como ele arremessou uma mochil",
+      "category": "Política"
+    },
+    {
+      "title": "A nazificação do passado europeu",
+      "url": "https://observador.pt/opiniao/a-nazificacao-do-passado-europeu/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:25:47+00:00",
+      "summary": "Para a ONU, o infante D. Henrique teria sido um Himmler, Vasco da Gama um Goering, Camões um Goebbels, e o ultramar português um campo de extermínio como Auschwitz.",
+      "category": "Economia"
+    },
+    {
+      "title": "Pântanos, genocídios e 74 chibatadas",
+      "url": "https://observador.pt/opiniao/pantanos-genocidios-e-74-chibatadas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:24:07+00:00",
+      "summary": "Há três anos que assistimos à interpretação tortuosa de supostos especialistas em Direito Internacional Humanitário, provavelmente formados nos intervalos vínicos da Queima das Fitas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Francisco de Assis contra as sociedades grátis",
+      "url": "https://observador.pt/opiniao/francisco-de-assis-contra-as-sociedades-gratis/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:22:28+00:00",
+      "summary": "A pobreza não consiste em fingir que as coisas não têm valor ou custo. Consiste em impedir que o valor das coisas se transforme num poder absoluto sobre os outros",
+      "category": "Mundo"
+    },
+    {
+      "title": "Política sem responsabilização",
+      "url": "https://observador.pt/opiniao/politica-sem-responsabilizacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:21:38+00:00",
+      "summary": "Qualquer que seja o presidente eleito, uma coisa é certa: enquanto esta lógica política continuar a operar, não auguro bom futuro para a democracia brasileira.",
+      "category": "Política"
+    },
+    {
+      "title": "Sonhar para sempre",
+      "url": "https://observador.pt/opiniao/sonhar-para-sempre/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:20:33+00:00",
+      "summary": "Escrevo à solta, sabendo que não sei nem domino o que é um livro, sabendo que um livro é mais parecido com um sonho do que com uma pedra, mais uma piada do que um discurso.",
+      "category": "Cultura"
+    },
+    {
+      "title": "A artimanha de Morgado",
+      "url": "https://observador.pt/opiniao/a-artimanha-de-morgado/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:19:00+00:00",
+      "summary": "Não reconheço ao Miguel Morgado a autoridade para pôr em causa o meu apego à liberdade crítica ou o meu compromisso com a democracia",
+      "category": "Mundo"
+    },
+    {
+      "title": "Costa impedido de novo de aceder a processo Influencer",
+      "url": "https://observador.pt/2026/10/02/ministerio-publico-volta-a-negar-o-acesso-de-antonio-costa-aos-documentos-da-operacao-influencer/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:16:26+00:00",
+      "summary": "Procuradora justificou segredo de justiça de dois anos como tentativa de proteger o atual Presidente do Conselho Europeu de \"exposição mediática\". Costa admite não precisar de proteção contra si próprio.",
+      "category": "Política"
+    },
+    {
+      "title": "TRE-RJ suspende porte de arma e autoriza inquérito contra deputado",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-rj-suspende-porte-de-arma-e-autoriza-inquerito-contra-deputado",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T23:16:00+00:00",
+      "summary": "O Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) suspendeu o porte de arma do deputado estadual e candidato à reeleição Alexandre Knoploch (PL) até 5 de outubro, após o primeiro turno das eleições. A decisão foi tomada após uma discussão envolvendo o parlamentar e integrantes da campanha à reeleição do deputado",
+      "category": "Política"
+    },
+    {
+      "title": "Automóvel e dogmas da mobilidade urbana",
+      "url": "https://observador.pt/opiniao/automovel-e-dogmas-da-mobilidade-urbana/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T23:15:52+00:00",
+      "summary": "Uma política de mobilidade deveria preocupar-se com quantos destinos consegue cada pessoa alcançar, em quanto tempo, a que custo e com que fiabilidade.",
+      "category": "Clima"
+    },
+    {
+      "title": "TSE decide que Globo não poderá exibir cadeira vazia em debate",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-decide-que-globo-nao-podera-exibir-cadeira-vazia-em-debate",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T23:10:00+00:00",
+      "summary": "A ministra Estela Aranha, do Tribunal Superior Eleitoral (TSE), decidiu nesta quinta-feira (1°) que a TV Globo não poderá exibir o púlpito vazio do candidato à reeleição Luiz Inácio Lula da Silva (PT) durante o debate dos candidatos à Presidência da República que será realizado na noite de hoje. A decisão foi motivada ",
+      "category": "Política"
     },
     {
       "title": "Portugal sem Ronaldo bate Dinamarca e Jesus saúda \"grupo que acredita na ideia do treinador\"",
       "url": "https://www.rtp.pt/noticias/desporto/portugal-sem-ronaldo-bate-dinamarca-e-jesus-sauda-grupo-que-acredita-na-ideia-do-treinador_e1768915",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-01T22:31:56+00:00",
-      "summary": "A seleção portuguesa de futebol defronta a Dinamarca, para a Liga das Nações, debaixo de tensão acrescida, após a saída de Cristiano Ronaldo do estágio em Copenhaga. Atualizamos aqui, ao minuto, os desenvolvimentos de um caso com crescente alcance internacional.",
+      "publishedAt": "2026-10-01T23:06:42+00:00",
+      "summary": "A seleção portuguesa de futebol venceu a Dinamarca por 4-2, para a Liga das Nações, debaixo de tensão acrescida, após a saída de Cristiano Ronaldo do estágio em Copenhaga.",
       "category": "Esportes"
+    },
+    {
+      "title": "Fachin defende democracia e livre escolha dos eleitores",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-defende-democracia-e-livre-escolha-dos-eleitores",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T23:06:00+00:00",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, defendeu nesta quinta-feira (1°) o respeito ao voto dos eleitores e a paz nas eleições do próximo domingo (4). Em nota à imprensa, Fachin reafirmou compromisso com a democracia e a liberdade de escolha dos eleitores \"em ambiente de paz\". Notícias relacionada",
+      "category": "Política"
+    },
+    {
+      "title": "Trinta mortes e 1.418 salvamentos em cinco meses de época balnear",
+      "url": "https://www.rtp.pt/noticias/pais/trinta-mortes-e-1418-salvamentos-em-cinco-meses-de-epoca-balnear_n1769031",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T22:57:27+00:00",
+      "summary": "Trinta pessoas morreram em cinco meses da época balnear, divulgou hoje a Autoridade Marítima Nacional (AMN) num balanço que assinala ainda 1.418 salvamentos e 2.609 ações de primeiros-socorros.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Novas regras para simplificar urbanismo nos municípios entraram em vigor",
+      "url": "https://www.rtp.pt/noticias/pais/novas-regras-para-simplificar-urbanismo-nos-municipios-entraram-em-vigor_n1769023",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T22:49:48+00:00",
+      "summary": "Novas regras para simplificar os processos urbanísticos entraram hoje em vigor, numa altura em que as Câmaras ainda estão a adaptar-se aos procedimentos, com a Ordem dos Arquitetos a defender uma comissão de acompanhamento para controlar eventuais problemas.",
+      "category": "Política"
+    },
+    {
+      "title": "Morre o piloto e youtuber Lito Sousa, aos 59 anos",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/morre-o-piloto-e-youtuber-lito-sousa-aos-59-anos",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T22:46:00+00:00",
+      "summary": "Joselito Geraldo de Sousa, conhecido como Lito Sousa, morreu aos 59 anos, nesta quinta-feira (1º), por complicações da doença de Creutzfeldt-Jakob (DCJ), uma rara condição neurológica que compromete o funcionamento do cérebro. Nos últimos anos, Lito se tornou conhecido na internet pela divulgação de informações sobre a",
+      "category": "Economia"
+    },
+    {
+      "title": "Arranca em Lisboa a 27ª edição da Festa do Cinema Francês",
+      "url": "https://www.rtp.pt/noticias/cultura/arranca-em-lisboa-a-27a-edicao-da-festa-do-cinema-frances_n1769020",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-01T22:39:49+00:00",
+      "summary": "A 27ª edição da Festa do Cinema Francês ganha a dimensão de festival, com a criação de uma seção competitiva. Outra novidade é celebrar a Francofonia: abre-se ao cinema do espaço francófono.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Defensoria Pública da União fará plantão nos dias de votação",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/defensoria-publica-da-uniao-fara-plantao-nos-dias-de-votacao",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T22:36:00+00:00",
+      "summary": "A Defensoria Pública da União realizará plantões nos dias 4 e 25 de outubro para garantir os direitos durante as eleições deste ano. O atendimento ocorre nas sedes do órgão, que podem ser consultadas no site do órgão ou, em cidades em que não exista uma, com um e-mail para o Núcleo Estratégico de Interiorização Eleitor",
+      "category": "Política"
     },
     {
       "title": "Terceiro porta-aviões e milhares de soldados dos EUA a caminho do Médio Oriente",
@@ -38,490 +506,22 @@
       "category": "Esportes"
     },
     {
-      "title": "A máquina da democracia: 30 anos da urna eletrónica no Brasil entre blindagem digital e rituais únicos",
-      "url": "https://www.rtp.pt/noticias/mundo/a-maquina-da-democracia-30-anos-da-urna-eletronica-no-brasil-entre-blindagem-digital-e-rituais-unicos_es1768935",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T22:00:43+00:00",
-      "summary": "Trinta anos após a sua estreia e sem qualquer registo comprovado de fraude, a urna eletrónica brasileira volta a ser o instrumento central da democracia num sufrágio que mobiliza mais de 156 milhões de eleitores: um ecossistema blindado sem qualquer ligação à internet, sem cruzes nem boletins de papel, mas com números,",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "UGT reivindica salário mínimo nacional acima de mil euros em janeiro",
-      "url": "https://www.rtp.pt/noticias/economia/ugt-reivindica-salario-minimo-nacional-acima-de-mil-euros-em-janeiro_n1768998",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:55:43+00:00",
-      "summary": "A política reivindicativa da UGT \"coloca a valorização dos salários e do trabalho, o reforço dos direitos laborais e da negociação coletiva no centro das prioridades para 2027\".",
+      "title": "Dólar fecha acima de R$ 5,22 em dia de mal-estar global",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-acima-de-r-522-em-dia-de-mal-estar-global",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-01T22:13:00+00:00",
+      "summary": "O dólar subiu quase 1% em comparação com o real nesta quinta-feira (1º). A moeda dos Estados Unidos ganhou força no exterior em meio à aversão ao risco provocada pelas tensões no Oriente Médio e pela alta do petróleo. Na bolsa, o Ibovespa avançou, apoiado principalmente pelas ações da Petrobras, apesar da cautela de in",
       "category": "Economia"
     },
     {
-      "title": "PCP: rede pública de creches não acaba com as IPSS",
-      "url": "https://observador.pt/2026/10/01/pcp-insiste-em-rede-publica-de-creches-e-rejeita-que-proposta-acabe-com-as-ipss/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:47:27+00:00",
-      "summary": "Para o deputado Alfredo Maia, o problema reside antes na criação, através da ação do poder político, de oportunidades de negócio através da resposta a problemas",
-      "category": "Mundo"
-    },
-    {
-      "title": "Brasil bate recorde de produção de petróleo pelo 3º mês",
-      "url": "https://observador.pt/2026/10/01/brasil-bate-recorde-de-producao-de-petroleo-pelo-terceiro-mes-seguido-46-milhoes-de-barris-por-dia-em-agosto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:47:06+00:00",
-      "summary": "A produção brasileira teve origem em 6.719 poços, dos quais 614 marítimos e 6.105 terrestres",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quase 2.000 detidos nos protestos estudantis franceses",
-      "url": "https://observador.pt/2026/10/01/protestos-estudantis-intensificam-se-em-franca-e-resultam-em-cerca-de-2-000-detidos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:47:05+00:00",
-      "summary": "O acentuado agravamento da mobilização, que começou há uma semana para denunciar a falta de professores e exigir melhores condições nas escolas",
-      "category": "Mundo"
-    },
-    {
-      "title": "João Félix faz o quarto",
-      "url": "https://www.rtp.pt/noticias/desporto/joao-felix-faz-o-quarto_v1769005",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:42:48+00:00",
-      "summary": "Rúben Neves com um passe fantástico para Dalot que serviu João Félix.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Que impacto tem a saída (a mal) de Ronaldo da Seleção",
-      "url": "https://observador.pt/2026/10/01/menos-um-milhao-de-seguidores-os-contratos-ate-2030-e-a-internacionalizacao-que-impacto-tem-a-saida-a-mal-de-ronaldo-da-selecao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:35:54+00:00",
-      "summary": "Ronaldo realizou o último encontro por Portugal em Alvalade frente ao País de Gales",
-      "category": "Esportes"
-    },
-    {
-      "title": "Sargento da PM é preso por suspeita de crime eleitoral em Alagoas",
-      "url": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/01/sargento-da-pm-e-preso-por-suspeita-de-crime-eleitoral-em-alagoas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:31:59+00:00",
-      "summary": "Quartel da Polícia Militar de Alagoas Divulgação/PM-AL Um sargento da Polícia Militar de Alagoas (PM-AL) foi preso na noite de quarta-feira (30), em Pindoba, no interior de Alagoas, por suspeita de transgressões disciplinares relacionadas a crimes eleitorais. A informação foi divulgada pela corporação nesta quinta-feir",
-      "category": "Cultura"
-    },
-    {
-      "title": "Caso Isabelle Caracristi: namorado João Munhoz é solto após decisão judicial",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/01/caso-isabelle-caracristi-namorado-joao-munhoz-e-solto-apos-decisao-judicial.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:31:43+00:00",
-      "summary": "Áudios e mensagens do caso Isabelle Caracristi Namorado de Isabelle Caracristi, João Munhoz Neto foi solto na tarde desta quinta-feira (1º), após decisão judicial. Ele deixou um presídio em Aquiraz, na região metropolitana de Fortaleza, acompanhado da advogada. Isabelle, de 22 anos, foi encontrada morta no pátio do con",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sammliz volta aos palcos após seis anos com show e músicas inéditas em Belém",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/10/01/sammliz-volta-aos-palcos-apos-seis-anos-com-show-e-musicas-ineditas-em-belem.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:31:22+00:00",
-      "summary": "Sammliz volta aos palcos após seis anos com show e músicas inéditas em Belém Tereza Maciel A cantora e compositora paraense Sammliz volta aos palcos após seis anos nesta sexta-feira (2), às 22h, na Casa Apoena, em Belém. O show reúne diferentes momentos da carreira da artista e apresenta ao público músicas do EP “Daqui",
-      "category": "Cultura"
-    },
-    {
-      "title": "Neco e um País que é mesmo uma animação",
-      "url": "https://observador.pt/2026/10/01/neco-e-um-pais-que-e-mesmo-uma-animacao-gales-vence-noruega-e-agita-grupo-de-portugal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:31:05+00:00",
-      "summary": "Neco Williams marcou o segundo golo dos galeses",
-      "category": "Esportes"
-    },
-    {
-      "title": "Caso de brasileiro faz Suprema Corte dos EUA revisar políticas de Trump",
-      "url": "https://www.cnnbrasil.com.br/internacional/caso-de-brasileiro-faz-suprema-corte-dos-eua-revisar-politicas-de-trump/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:29:48+00:00",
-      "summary": "Tribunal revisa medidas de imigração do governo atual que permitem a detenção obrigatória de imigrantes ilegais durante seu processo de deportação devido a caso envolvendo Ricardo Aparecido Barbosa da Cunha",
-      "category": "Política"
-    },
-    {
-      "title": "Saiba quem são os candidatos a deputado federal pelo PV no RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/saiba-quem-sao-os-candidatos-a-deputado-federal-pelo-pv-no-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:29:44+00:00",
-      "summary": "Partido tem cinco candidatos ao cargo registrados no TSE (Tribunal Superior Eleitoral); estado tem 46 cadeiras na Câmara dos Deputados em disputa",
-      "category": "Política"
-    },
-    {
-      "title": "Jalser Renier é preso pela PF por compra de votos pela segunda vez em uma semana em Roraima",
-      "url": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/jalser-renier-e-preso-novamente-pela-pf-em-roraima-1.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:28:58+00:00",
-      "summary": "Jalser Renier é preso pela PF por suspeita de compra de votos em Roraima O candidato a deputado estadual Jalser Renier (PSDB) foi preso preventivamente por compra de votos na manhã desta quinta-feira (1º), em Boa Vista. Ele foi alvo da Polícia Federal durante a Operação Lemming. Esta é a segunda prisão dele por crime e",
-      "category": "Mundo"
-    },
-    {
-      "title": "Greve dos tripulantes da easyJet deverá afetar pelo menos 443 voos",
-      "url": "https://www.rtp.pt/noticias/economia/greve-dos-tripulantes-da-easyjet-devera-afetar-pelo-menos-443-voos_n1768996",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:28:39+00:00",
-      "summary": "A greve dos tripulantes de cabine da easyJet arranca na sexta-feira e prolonga-se até terça-feira, com 443 voos das bases de Lisboa, Porto e Faro já cancelados, segundo o Sindicato Nacional do Pessoal de Voo da Aviação Civil (SNPVAC).",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jiboia é encontrada carbonizada após incêndio em área de vegetação em Palmas",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/01/jiboia-e-encontrada-carbonizada-apos-incendio-em-area-de-vegetacao-em-palmas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:28:21+00:00",
-      "summary": "Queimadas forçam animais a migrarem para bairros residenciais Reprodução/Prefeitura de Palmas Uma jiboia foi encontrada carbonizada pela Defesa Civil de Palmas durante o combate a um incêndio na região norte da capital, nesta quarta-feira (30). Segundo a Prefeitura de Palmas, as chamas atingiram cerca de 48,4 mil metro",
-      "category": "Clima"
-    },
-    {
-      "title": "Explosão em fábrica de produtos químicos a 100 quilómetros de Moscovo faz sete mortos",
-      "url": "https://www.rtp.pt/noticias/mundo/explosao-em-fabrica-de-produtos-quimicos-a-100-quilometros-de-moscovo-faz-sete-mortos_n1768997",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:28:19+00:00",
-      "summary": "Pelo menos sete pessoas morreram na sequência de uma explosão numa fábrica de produtos químicos na cidade de Krasnogorsk, a 100 quilómetros de Moscovo, informaram hoje media independentes e responsáveis russos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Saiba quem são os candidatos a deputado federal pelo PT no RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/saiba-quem-sao-os-candidatos-a-deputado-federal-pelo-pt-no-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:28:04+00:00",
-      "summary": "Partido tem 37 candidatos ao cargo registrados no TSE (Tribunal Superior Eleitoral); estado tem 46 cadeiras na Câmara dos Deputados em disputa",
-      "category": "Política"
-    },
-    {
-      "title": "Saiba quem são os candidatos a deputado estadual pelo PP no RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/saiba-quem-sao-os-candidatos-a-deputado-estadual-pelo-pp-no-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:27:59+00:00",
-      "summary": "Estado tem 38 candidatos do partido ao cargo registrados no TSE (Tribunal Superior Eleitoral); 70 cadeiras estão disponíveis na Assembleia Legislativa",
-      "category": "Política"
-    },
-    {
-      "title": "Embaixada indiana dos EAU garante que piloto da Flydubai está bem",
-      "url": "https://www.rtp.pt/noticias/mundo/embaixada-indiana-dos-eau-garante-que-piloto-da-flydubai-esta-bem_n1768999",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:27:56+00:00",
-      "summary": "A embaixada da Índia nos Emirados Árabes Unidos divulgou hoje que o piloto ferido no voo da Flydubai, transferido da Arábia Saudita para os EAU segundo os media indianos, está \"bem de saúde e a recuperar bem\".",
-      "category": "Saúde"
-    },
-    {
-      "title": "Saiba qual é o número de William Siri, candidato ao governo do RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-william-siri-candidato-ao-governo-do-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:27:41+00:00",
-      "summary": "No próximo domingo (4), eleitor votará para deputado federal, deputado estadual ou distrital, duas vezes para senador, governador e presidente",
-      "category": "Política"
-    },
-    {
-      "title": "Holanda tem dois gols anulados e empata com a Grécia pela Liga das Nações",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/holanda-tem-dois-gols-anulados-em-empate-com-a-grecia-pela-liga-das-nacoes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:27:11+00:00",
-      "summary": "Time holandês sofreu na primeira etapa e, ainda assim, encontrou soluções para chegar à igualdade",
-      "category": "Esportes"
-    },
-    {
-      "title": "Saiba quem são os candidatos a deputado federal pelo PSTU no RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/saiba-quem-sao-os-candidatos-a-deputado-federal-pelo-pstu-no-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:27:06+00:00",
-      "summary": "Partido tem dois candidatos ao cargo registrados no TSE (Tribunal Superior Eleitoral); estado tem 46 cadeiras na Câmara dos Deputados em disputa",
-      "category": "Política"
-    },
-    {
-      "title": "Arábia Saudita interceta drones e mísseis Houthis",
-      "url": "https://www.rtp.pt/noticias/mundo/arabia-saudita-interceta-drones-e-misseis-houthis_n1769000",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:26:50+00:00",
-      "summary": "A Arábia Saudita anunciou hoje ter \"intercetado e destruído\" dois mísseis e quatro drones disparados contra o seu território pelos Houthis do Iémen.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Hojlund empata a partida",
-      "url": "https://www.rtp.pt/noticias/desporto/hojlund-empata-a-partida_v1769002",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:26:47+00:00",
-      "summary": "Grande passe de Damsgaard a isolar o avançado Rasmus Hojlund que, na cara de Diogo Costa, picou a bola e celebrou à Cristiano Ronaldo.",
-      "category": "Mundo"
-    },
-    {
-      "title": "DF volta a registrar dia mais quente do ano nesta quinta; termômetro chegou a 36,4 ºC",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/01/df-volta-a-registrar-dia-mais-quente-do-ano-nesta-quinta-termometro-chegou-a-364-oc.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:26:37+00:00",
-      "summary": "Dia de sol no Lago Paranoá, em Brasília TV Globo/Reprodução O Distrito Federal registrou o dia mais quente do ano nesta quinta-feira (1), de acordo com o Instituto Nacional de Meteorologia (Inmet). Os termômetros marcaram 36,4 ºC na estação do Paranoá, às 15h. No mesmo horário, a estação do Plano Piloto registrou 30,6 ",
-      "category": "Clima"
-    },
-    {
-      "title": "VÍDEO: 'Gangue da marcha à ré' derruba porta de supermercado em Uberlândia",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/01/video-gangue-da-marcha-a-re-derruba-porta-de-supermercado-em-uberlandia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:26:25+00:00",
-      "summary": "Gangue da marcha à ré derruba porta de supermercado em Uberlândia (Reprodução/Redes Sociais) Um homem de 42 anos foi preso em flagrante após um supermercado ser invadido durante um furto na madrugada desta quarta-feira (30), na Avenida Comendador Alexandrino Garcia, no bairro Minas Gerais, em Uberlândia. Segundo o hist",
-      "category": "Economia"
-    },
-    {
-      "title": "Saiba quem são os candidatos a deputado federal pelo PSOL no RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/saiba-quem-sao-os-candidatos-a-deputado-federal-pelo-psol-no-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:25:49+00:00",
-      "summary": "Partido tem 22 candidatos ao cargo registrados no TSE (Tribunal Superior Eleitoral); estado tem 46 cadeiras na Câmara dos Deputados em disputa",
-      "category": "Política"
-    },
-    {
-      "title": "“Índice do medo” da bolsa brasileira bate recorde pela 3ª vez na semana",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/indice-do-medo-da-bolsa-brasileira-bate-recorde-pela-3a-vez-na-semana/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:25:09+00:00",
-      "summary": "VIX Brasil renova máximas históricas com proximidade do primeiro turno das eleições e tensões geopolíticas no radar dos investidores",
-      "category": "Política"
-    },
-    {
-      "title": "TJMT retoma atendimento ao público e prazos administrativos nesta quinta-feira (1°)",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/01/tjmt-retoma-atendimento-ao-publico-e-prazos-administrativos-nesta-quinta-feira-1.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:24:58+00:00",
-      "summary": "TJMT Reprodução O Tribunal de Justiça de Mato Grosso (TJMT) retomou nesta quinta-feira (1º) o atendimento ao público e o expediente para atividades administrativas em todo o Poder Judiciário estadual. Na mesma data, voltam a correr os prazos administrativos que estavam suspensos. A retomada foi definida pela Portaria T",
-      "category": "Mundo"
-    },
-    {
-      "title": "Saiba quem são os candidatos a deputado federal pelo PSDB no RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/saiba-quem-sao-os-candidatos-a-deputado-federal-pelo-psdb-no-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:24:35+00:00",
-      "summary": "Partido tem 44 candidatos ao cargo registrados no TSE (Tribunal Superior Eleitoral); estado tem 46 cadeiras na Câmara dos Deputados em disputa",
-      "category": "Política"
-    },
-    {
-      "title": "Saiba qual é o número de Luan Monteiro, candidato ao governo do RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-luan-monteiro-candidato-ao-governo-do-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:24:26+00:00",
-      "summary": "No próximo domingo (4), eleitor votará para deputado federal, deputado estadual ou distrital, duas vezes para senador, governador e presidente",
-      "category": "Política"
-    },
-    {
-      "title": "Saiba quem são os candidatos a deputado federal pelo PSD no RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/saiba-quem-sao-os-candidatos-a-deputado-federal-pelo-psd-no-rj/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:22:59+00:00",
-      "summary": "Partido tem 47 candidatos ao cargo registrados no TSE (Tribunal Superior Eleitoral); estado tem 46 cadeiras na Câmara dos Deputados em disputa",
-      "category": "Política"
-    },
-    {
-      "title": "Luiz Melodia vira parceiro póstumo de Russo Passapusso em música inédita gravada pela banda BaianaSystem",
-      "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/01/luiz-melodia-vira-parceiro-postumo-de-russo-passapusso-em-musica-inedita-gravada-pela-banda-baianasystem.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:22:55+00:00",
-      "summary": "Luiz Melodia (1951 – 2017) tem a letra de 'Brasil zerado', escrita há cerca de 15 anos, musicada por Russo Passapusso, cantor e compositor da BaianaSystem Daryan Dornelles / Divulgação ♫ NOTÍCIA ♬ O baú de Luiz Melodia (7 de janeiro de 1951 – 4 de agosto de 2017) ainda guarda pérolas negras. Uma delas virá à tona na se",
-      "category": "Cultura"
-    },
-    {
-      "title": "Acidente entre dois carros deixa três pessoas feridas em Guarabira",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/01/acidente-entre-dois-carros-deixa-pessoas-feridas-em-guarabira.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:22:29+00:00",
-      "summary": "Acidente entre dois veículos deixa três feridos em Guarabira Reprodução Corpo de Bombeiros. Um acidente entre dois veículos deixou três pessoas feridas na tarde desta quinta-feira (1º), na rodovia PB-073, em Guarabira, no Agreste da Paraíba. A colisão aconteceu por volta das 13h, segundo o Corpo de Bombeiros. ✅ Clique ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Candidatos a deputado estadual pelo Republicanos no PA; veja quem são e os números",
-      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/01/candidatos-a-deputado-estadual-pelo-republicanos-no-pa-veja-quem-sao-e-os-numeros.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:21:48+00:00",
-      "summary": "Eleições 2026 - Candidatos a Deputado Estadual no Pará Pará (PA) tem 394 candidatos disputando 41 vagas na Assembleia Legislativa do Pará (Alepa), segundo dados do Tribunal Superior Eleitoral (TSE). Veja abaixo a lista com os nomes e os números de urna dos 39 candidatos a deputado estadual pelo Republicanos (Republican",
-      "category": "Política"
-    },
-    {
-      "title": "Dupla é detida com drogas em Volta Redonda",
-      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/01/dupla-e-detida-com-drogas-em-volta-redonda.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T21:20:04+00:00",
-      "summary": "Dupla é presa com drogas em Volta Redonda Divulgação/Polícia Militar Um jovem, de 18 anos, e um adolescente, de 16 anos, foram detidos com drogas nesta quinta-feira (1°) em Volta Redonda (RJ) O caso aconteceu no bairro Siderlândia. Segundo a Polícia Militar, a ocorrência teve início às 13h na Rua Cambuci. Ainda de acor",
-      "category": "Mundo"
-    },
-    {
-      "title": "Putin promete não atacar a Europa, mas admite responder",
-      "url": "https://observador.pt/2026/10/01/putin-diz-que-nao-quer-atacar-a-europa-mas-promete-responder-se-a-russia-for-atacada/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:14:04+00:00",
-      "summary": "“Não pretendemos atacar ninguém em 2029, em 2030 ou 2050, mas se formos atacados, teremos que responder”, afirmou.",
-      "category": "Economia"
-    },
-    {
-      "title": "Dinamarca x Portugal. \"Gonçalo Ramos faz excelente exibição\"",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/dinamarca-x-portugal-goncalo-ramos-faz-excelente-exibicao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T21:10:27+00:00",
-      "summary": "João Pinto considera Gonçalo Ramos o melhor em campo na vitória sobre a Dinamarca. O adepto destaca que a seleção nacional, ao comando de Jorge Jesus, não só ganha como \"joga bonito\".",
-      "category": "Esportes"
-    },
-    {
-      "title": "Greve da easyJet deve afetar pelo menos 443 voos",
-      "url": "https://observador.pt/2026/10/01/greve-dos-tripulantes-da-easyjet-devera-afetar-pelo-menos-443-voos-avisa-sindicato/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T20:53:38+00:00",
-      "summary": "Segundo a companhia, os serviços mínimos definidos pelas autoridades competentes correspondem a cerca de 22% da atividade da easyJet baseada em Portugal",
-      "category": "Mundo"
-    },
-    {
-      "title": "Governo aprova reprogramação financeira da Barragem do Pisão",
-      "url": "https://observador.pt/2026/10/01/governo-aprova-reprogramacao-financeira-da-barragem-do-pisao-e-execucao-ate-2030/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T20:53:04+00:00",
-      "summary": "Este financiamento conta ainda com recurso a verbas do Fundo de Coesão, após aprovação da transferência pela Comissão Europeia",
-      "category": "Política"
-    },
-    {
-      "title": "Ventura quer \"partido preparado para governar\"",
-      "url": "https://observador.pt/2026/10/01/ventura-sera-recandidato-a-lideranca-do-chega-e-quer-partido-preparado-para-governar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T20:52:50+00:00",
-      "summary": "O líder do partido desde 2019 já tinha indicado que avançaria com uma recandidatura quando fosse agendada uma nova convenção do Chega",
-      "category": "Política"
-    },
-    {
-      "title": "Gonçalo e a prova de que as equipas não ficam órfãs",
-      "url": "https://observador.pt/2026/10/01/goncalo-e-a-prova-de-que-as-equipas-nao-ficam-orfas-a-cronica-do-dinamarca-portugal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T20:50:55+00:00",
-      "summary": "O avançado do AC Milan voltou a ser titular",
-      "category": "Mundo"
-    },
-    {
-      "title": "UGT quer salário mínimo acima de mil euros em 2027",
-      "url": "https://observador.pt/2026/10/01/ugt-exige-salario-minimo-acima-de-mil-euros-em-janeiro-de-2027-e-aumento-salarial-de-55-na-negociacao-coletiva/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-01T20:45:46+00:00",
-      "summary": "A estratégia da entidade inclui ainda a promoção da igualdade, conciliação e segurança e saúde no trabalho e a \"garantia de que as transições digital, climática e demográfica são socialmente justas\"",
-      "category": "Economia"
-    },
-    {
-      "title": "Entidades sugerem políticas de proteção a crianças e adolescentes",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/entidades-sugerem-politicas-de-protecao-criancas-e-adolescentes",
+      "title": "Ligue 180 tem 1,5 mil denúncias de violência política contra mulher",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ligue-180-tem-15-mil-denuncias-de-violencia-politica-contra-mulher",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-01T20:39:00+00:00",
-      "summary": "Organizações da sociedade civil entregaram aos candidatos à Presidência da República e aos governos dos estados propostas de políticas públicas e metas para proteção a crianças e adolescentes. O movimento, chamado Agenda 227, é composto por mais de 520 entidades de diferentes áreas. São dois documentos distintos, um vo",
-      "category": "Política"
-    },
-    {
-      "title": "Jovens que sofreram com falta de acesso à água estarão em fórum da ONU",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/jovens-que-vivenciaram-falta-dagua-representam-brasil-em-forum-da-onu",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T20:26:00+00:00",
-      "summary": "Dentro de dois meses, o ativista Erleyvaldo Bispo deixará a cidade de Lagarto, no agreste de Sergipe, para cruzar cerca de 10,5 mil quilômetros até Abu Dhabi, capital dos Emirados Árabes Unidos. O sergipano e a bacharel em direito Laura de Azevedo Viana são os dois brasileiros que fazem parte de um grupo de 100 jovens,",
-      "category": "Cultura"
-    },
-    {
-      "title": "Órgãos públicos no Rio de Janeiro terão sala de apoio à amamentação",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/orgaos-publicos-no-rio-de-janeiro-terao-sala-de-apoio-amamentacao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T20:17:00+00:00",
-      "summary": "O estado do Rio de Janeiro terá salas de apoio à amamentação em órgãos e entidades públicas estaduais. A medida está prevista em decreto publicado nesta quinta-feira (1º) no Diário Oficial. Todos os órgãos e entidades públicas diretas e indiretas que tenham em seus quadros servidoras, empregadas públicas ou trabalhador",
+      "publishedAt": "2026-10-01T22:12:00+00:00",
+      "summary": "As mulheres têm direito à participação política livre de violência e de discriminação. Porém, entre janeiro e agosto de 2026, o número de denúncias de violência política registradas contra elas na Central de Atendimento à Mulher - Ligue 180 alcançou a marca de 1.564 denúncias. Ao todo, estas denúncias correspondem a 1.",
       "category": "Mundo"
-    },
-    {
-      "title": "Após chuvas de setembro, Cantareira passa a operar na faixa de atenção",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/apos-chuvas-de-setembro-cantareira-passa-operar-na-faixa-de-atencao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T19:52:00+00:00",
-      "summary": "Principal e maior reservatório de São Paulo, o Sistema Cantareira encerrou o mês de setembro com 41,1% do seu volume útil armazenado e, com isso, passará a operar na faixa de atenção a partir desta quinta-feira (1). A faixa de atenção é estabelecida quando o nível do reservatório fica entre 40% e 60%. Neste ano, o Cant",
-      "category": "Clima"
-    },
-    {
-      "title": "Eleições: propagandas gratuitas de candidatos terminam nesta quinta",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/eleicoes-propagandas-gratuitas-de-candidatos-terminam-nesta-quinta",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T19:47:00+00:00",
-      "summary": "A propaganda eleitoral gratuita no rádio e na televisão para o 1º turno das Eleições 2026 termina nesta quinta-feira (1º). As inserções começaram a ser veiculadas no dia 28 de agosto em horários reservados nas emissoras e também ao longo da programação. O Tribunal Superior Eleitoral disse que o encerramento da propagan",
-      "category": "Política"
-    },
-    {
-      "title": "TV Brasil estreia segunda temporada do seriado Aprender a Sonhar",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/tv-brasil-estreia-segunda-temporada-do-seriado-aprender-sonhar",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T19:46:00+00:00",
-      "summary": "A segunda temporada da série documental Aprender a Sonhar estreia na programação da TV Brasil nesta quinta (1º), às 23h30. Com cinco episódios de 26 minutos, a produção independente revela histórias de estudantes quilombolas, indígenas e moradores de periferias urbanas que almejam ingressar na universidade. A obra foi ",
-      "category": "Clima"
-    },
-    {
-      "title": "Carne brasileira vai pagar tarifa de 67% para entrar na China",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/carne-brasileira-vai-pagar-tarifa-de-67-para-entrar-na-china",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T19:45:00+00:00",
-      "summary": "A carne bovina brasileira pagará uma tarifa total de 67% para entrar no mercado chinês a partir desta quinta-feira (1º). Uma cobrança adicional de 55% se somará à tarifa regular de 12%, uma vez que o Brasil esgotou a cota anual de exportações estipulada pelo país asiático. A medida preocupa frigoríficos e pecuaristas, ",
-      "category": "Economia"
-    },
-    {
-      "title": "Fachin nega pedido para afastar Dino de ações sobre Flávio Bolsonaro",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-nega-pedido-para-afastar-dino-de-acoes-sobre-flavio-bolsonaro",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T19:34:00+00:00",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, rejeitou pedido para afastar o ministro Flávio Dino do julgamento de processos contra o senador e candidato a presidente Flávio Bolsonaro (PL). Em decisão assinada nesta quinta-feira (1°), Fachin negou seguimento a uma arguição de suspeição protocol",
-      "category": "Política"
-    },
-    {
-      "title": "Aplicativo recebe denúncias de irregularidades eleitorais no Rio",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/aplicativo-recebe-denuncias-de-irregularidades-eleitorais-no-rio",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T19:27:00+00:00",
-      "summary": "Moradores do estado do Rio de Janeiro poderão fazer denúncias de irregularidades eleitorais no estado por meio do aplicativo SISP Cidadão. Entre os casos que podem ser relatados estão compra de votos, boca de urna e propaganda irregular. Os cidadãos podem anexar fotos, vídeos, imagens da galeria do celular ou links na ",
-      "category": "Mundo"
-    },
-    {
-      "title": "AGU aciona PF para apurar suposto repasse de Trump a ações contra STF",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/agu-aciona-pf-para-apurar-suposto-repasse-de-trump-acoes-contra-stf",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-01T19:09:00+00:00",
-      "summary": "A Advocacia-Geral da União (AGU) informou há pouco que acionou a Polícia Federal (PF) e a Procuradoria-Geral da República (PGR) para investigar o suposto financiamento do governo de Donald Trump para interferir nas eleições brasileiras e deslegitimar o Supremo Tribunal Federal (STF). A medida foi anunciada após o jorna",
-      "category": "Política"
     }
   ],
   "sources": [
