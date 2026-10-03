@@ -1,185 +1,473 @@
 {
-  "updatedAt": "2026-10-03T17:14:14.695975+00:00",
+  "updatedAt": "2026-10-03T19:50:00.681084+00:00",
   "items": [
     {
-      "title": "Jesus assume que podia ter ficado \"mais feliz\" após jogo com Dinamarca",
-      "url": "https://www.rtp.pt/noticias/desporto/liga-das-nacoes-conferencia-de-imprensa-com-jorge-jesus-e-bruno-fernandes_e1769376",
+      "title": "Eleições no Brasil. Lula e Flávio Bolsonaro encerram campanha",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-lula-e-flavio-bolsonaro-encerram-campanha_v1769421",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-03T18:05:44+00:00",
+      "publishedAt": "2026-10-03T20:38:47+00:00",
+      "summary": "O Brasil vai a votos este domingo. A campanha encerra num país muito dividido e com o receio de uma elevada abstenção. As sondagens apontam para uma segunda volta. Reportagem do correspondente Daniel Catalão.",
+      "category": "Política"
+    },
+    {
+      "title": "Crise da habitação em Espanha levou centenas de milhares de pessoas às ruas",
+      "url": "https://www.rtp.pt/noticias/mundo/crise-da-habitacao-em-espanha-levou-centenas-de-milhares-de-pessoas-as-ruas_v1769420",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T20:37:48+00:00",
+      "summary": "Em Espanha continuam os protestos nas ruas por causa do chumbo dos decretos sobre a habitação.",
+      "category": "Mundo"
+    },
+    {
+      "title": "20h Jorge Jesus refere-se a Cristiano Ronaldo como símbolo de Portugal",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-jorge-jesus-refere-se-a-cristiano-ronaldo-como-simbolo-de-portugal_a1_1769417",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T20:25:04+00:00",
       "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Jorge Jesus: \"O Cris é um símbolo da seleção e de Portugal\"",
+      "url": "https://www.rtp.pt/noticias/desporto/jorge-jesus-o-cris-e-um-simbolo-da-selecao-e-de-portugal_v1769415",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T20:14:47+00:00",
+      "summary": "Jorge Jesus diz que, na noite da vitória contra a Dinamarca, faltou-lhe algo e que CR7 é um símbolo da seleção e de Portugal.",
       "category": "Esportes"
     },
     {
-      "title": "Ministra da Justiça está a analisar pedidos sobre retirada de proteção especial a Rui Pinto",
-      "url": "https://www.rtp.pt/noticias/pais/ministra-da-justica-esta-a-analisar-pedidos-sobre-retirada-de-protecao-especial-a-rui-pinto_n1769383",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T17:28:24+00:00",
-      "summary": "A ministra da Justiça, Rita Alarcão Júdice, disse este sábado que está a analisar a decisão do encerramento do Programa Especial de Segurança de que Rui Pinto beneficiava, prometendo uma resposta até ao dia 10.",
+      "title": "Mais de 1 tonelada de maconha é apreendida em baú de caminhão e seis são presos no litoral de SC",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/03/mais-1-tonelada-maconha-apreendida-caminhao-presos-barra-velha.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:43:59+00:00",
+      "summary": "Mais de 1 tonelada de maconha é apreendida dentro de caminhão no Litoral Norte de SC Cerca de 1,4 tonelada de maconha foi apreendida dentro do baú de um caminhão em uma operação em Barra Velha, no Litoral Norte de Santa Catarina, na madrugada deste sábado (3). Seis pessoas foram presas, de acordo com a Polícia Civil. ✅",
       "category": "Mundo"
     },
     {
-      "title": "17h No Dragão começou a conferência de imprensa de Jorge Jesus",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/17h-no-dragao-comecou-a-conferencia-de-imprensa-de-jorge-jesus_a1_1769387",
+      "title": "Quem são os candidatos a senador no Tocantins em 2026: veja por nome, número e partido",
+      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-senador-no-tocantins-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:43:15+00:00",
+      "summary": "O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Na página Quem São os Candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE, você pode ver todos os candidatos ao senado no Tocantins e buscar por nome, ",
+      "category": "Política"
+    },
+    {
+      "title": "Quem são os candidatos a deputado estadual no Tocantins em 2026: veja por nome, número e partido",
+      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-no-tocantins-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:43:13+00:00",
+      "summary": "O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos deputados estaduais. Entenda aqui o que faz um deputado estadual. Na página Quem São os Candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE, você pode ver todos os candidatos a deputado estadual no",
+      "category": "Política"
+    },
+    {
+      "title": "Quem são os candidatos a deputado federal no Tocantins em 2026: veja por nome, número e partido",
+      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-federal-no-tocantins-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:43:10+00:00",
+      "summary": "O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos deputados federais. Entenda aqui o que faz um deputado federal. Na página Quem São os Candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE, você pode ver todos os candidatos a deputado federal no To",
+      "category": "Política"
+    },
+    {
+      "title": "Quem são os candidatos a senador em Sergipe em 2026: veja por nome, número e partido",
+      "url": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-senador-em-sergipe-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:43:07+00:00",
+      "summary": "O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Na página Quem São os Candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE, você pode ver todos os candidatos ao senado em Sergipe e buscar por nome, nú",
+      "category": "Política"
+    },
+    {
+      "title": "Quem são os candidatos a deputado estadual em Sergipe em 2026: veja por nome, número e partido",
+      "url": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-em-sergipe-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:43:04+00:00",
+      "summary": "O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos deputados estaduais. Entenda aqui o que faz um deputado estadual. Na página Quem São os Candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE, você pode ver todos os candidatos a deputado estadual em",
+      "category": "Política"
+    },
+    {
+      "title": "Quem são os candidatos a deputado federal em Sergipe em 2026: veja por nome, número e partido",
+      "url": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-federal-em-sergipe-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:43:02+00:00",
+      "summary": "O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos deputados federais. Entenda aqui o que faz um deputado federal. Na página Quem São os Candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE, você pode ver todos os candidatos a deputado federal em Se",
+      "category": "Política"
+    },
+    {
+      "title": "Quem são os candidatos a senador em Santa Catarina em 2026: veja por nome, número e partido",
+      "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-senador-em-santa-catarina-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:42:59+00:00",
+      "summary": "O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos senadores. Entenda aqui o que faz um senador. Na página Quem São os Candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE, você pode ver todos os candidatos ao senado em Santa Catarina e buscar por n",
+      "category": "Política"
+    },
+    {
+      "title": "Quem são os candidatos a deputado estadual em Santa Catarina em 2026: veja por nome, número e partido",
+      "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-em-santa-catarina-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:42:57+00:00",
+      "summary": "O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos deputados estaduais. Entenda aqui o que faz um deputado estadual. Na página Quem São os Candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE, você pode ver todos os candidatos a deputado estadual em",
+      "category": "Política"
+    },
+    {
+      "title": "Multas por avançar sinal vermelho sobem 35% na cidade de SP em 2026",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/03/multas-por-avancar-sinal-vermelho-sobem-35percent-na-cidade-de-sp-em-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:42:55+00:00",
+      "summary": "Multas de sinal vermelho sobem 35% em São Paulo As multas por avanço de sinal vermelho cresceram 34,7% na cidade de São Paulo entre janeiro e maio de 2026 na comparação com o mesmo período do ano passado, segundo os dados mais recentes disponíveis no Observatório Mobilidade Segura, da Prefeitura de São Paulo. Nos cinco",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quem são os candidatos a deputado federal em Santa Catarina em 2026: veja por nome, número e partido",
+      "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-federal-em-santa-catarina-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:42:54+00:00",
+      "summary": "O 1º turno da eleição 2026 no Brasil será realizado em 4 de outubro. Um dos cargos em disputa é o dos deputados federais. Entenda aqui o que faz um deputado federal. Na página Quem São os Candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE, você pode ver todos os candidatos a deputado federal em Sa",
+      "category": "Política"
+    },
+    {
+      "title": "Quaest no Pará votos válidos: Dr Daniel, 57%; Hana Ghassan, 40%",
+      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/03/quaest-no-para-governo-3-outubro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:42:05+00:00",
+      "summary": "Dr Daniel à esq.; e Hana Ghassan, à dir. Reprodução Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo governo do Pará. Votos válidos Dr Daniel (Podemos): 57% Hana Ghassan (MDB): 40% Araceli Lemos (PSOL): 2% Ruth Reis (Democrata): 1% Gal Leite (UP): 0% Well Macedo (PSTU): 0",
+      "category": "Política"
+    },
+    {
+      "title": "Doenças na aorta podem matar sem aviso: quem deve se prevenir",
+      "url": "https://www.cnnbrasil.com.br/saude/doencas-na-aorta-podem-matar-sem-aviso-quem-deve-se-prevenir/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:25:13+00:00",
+      "summary": "Cirurgião vascular Dr. Álvaro Razuk explica por que identificar grupos de risco e reconhecer sinais de alerta pode antecipar diagnósticos e evitar emergências graves",
+      "category": "Saúde"
+    },
+    {
+      "title": "O álbum de Jorge Palma que desapareceu da história",
+      "url": "https://observador.pt/especiais/as-cancoes-perfeitas-a-editora-vendida-e-as-copias-raras-a-historia-do-album-desaparecido-de-jorge-palma/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T19:25:12+00:00",
+      "summary": "Em 1979, o músico regressou a Lisboa para gravar uma obra-prima: “Qualquer Coisa Pá Música”. O disco fracassou e a editora foi vendida. É um dos grandes álbuns esquecidos da música portuguesa.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Troca de acusações interrompe antevisão do Israel-Irlanda",
+      "url": "https://observador.pt/2026/10/03/troca-de-acusacoes-interrompe-conferencia-de-imprensa-de-antevisao-do-jogo-israel-irlanda/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T19:24:21+00:00",
+      "summary": "Jornalistas israelitas questionaram selecionador irlandês sobre ataque no voo da Flydubai e alegados insultos de jogadores de Irlanda aos de Israel. Federação negou e cancelou conferência de imprensa.",
+      "category": "Mundo"
+    },
+    {
+      "title": "19h Jesus está disponível para se reconciliar com Cristiano?",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-jesus-esta-disponivel-para-se-reconciliar-com-cristiano_a1_1769413",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-03T17:19:02+00:00",
+      "publishedAt": "2026-10-03T19:22:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "As notícias das 18h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2153/",
+      "title": "Datafolha: Elmano tem 50% dos votos válidos no 1º turno no CE; Ciro, 47%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-elmano-tem-50-dos-votos-validos-no-ce-ciro-47/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:17:34+00:00",
+      "summary": "Pesquisa ouviu 1.560 eleitores cearenses entre os dias 2 e 3 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "São Paulo anuncia recorde de ingressos vendidos para final feminina",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo-anuncia-recorde-de-ingressos-vendidos-para-final-feminina/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:16:34+00:00",
+      "summary": "Número é o maior da América do Sul para o futebol feminino entre clubes; São Paulo e Corinthians decidem Brasileirão neste sábado (3)",
+      "category": "Esportes"
+    },
+    {
+      "title": "FC Porto vence supertaça feminina de voleibol",
+      "url": "https://observador.pt/2026/10/03/fc-porto-vence-supertaca-feminina-de-voleibol/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-03T17:11:44+00:00",
+      "publishedAt": "2026-10-03T19:16:20+00:00",
+      "summary": "Com parciais de 25-18, 23-25, 25-17 e 25-19, a equipa azul e branca, campeã nacional e detentora da Taça de Portugal, conquistou o troféu.",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias das 20h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2062/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T19:13:38+00:00",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
-      "title": "Setembro tem o maior volume de chuva dos últimos 30 anos em Cabo Frio",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/03/setembro-tem-o-maior-volume-de-chuva-dos-ultimos-30-anos-em-cabo-frio.ghtml",
-      "source": "G1",
+      "title": "Solberg lidera na Sardenha e leva discussão do título para o último dia",
+      "url": "https://www.rtp.pt/noticias/motores/solberg-lidera-na-sardenha-e-leva-discussao-do-titulo-para-o-ultimo-dia_d1769410",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T19:07:06+00:00",
+      "summary": "O sueco Oliver Solberg (Toyota Yaris) terminou hoje na liderança do Rali de Itália, na Sardenha, última prova do Mundial de Ralis (WRC) depois do cancelamento da Arábia Saudita, mantendo em aberto a discussão do título.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Jornalista Márcio Chaer tem infarto e morre após furto em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/jornalista-marcio-chaer-tem-infarto-e-morre-apos-furto-em-sp/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-03T16:56:22+00:00",
-      "summary": "Índices registrados chegaram a ser até seis vezes maiores do que o esperado para o período Yasmim Grijó Cabo Frio, na Região dos Lagos do Rio, registrou em setembro o maior volume de chuva dos últimos 30 anos, segundo a Coordenadoria Geral de Proteção e Defesa Civil do município. Os pluviômetros da Prefeitura registrar",
+      "publishedAt": "2026-10-03T19:06:13+00:00",
+      "summary": "Caso ocorreu na tarde deste sábado (3), nas proximidades da Estação Armênia, na zona Norte de São Paulo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pichardo acusa TAD de parcialidade em processo com Benfica",
+      "url": "https://www.rtp.pt/noticias/benfica/pichardo-acusa-tad-de-parcialidade-em-processo-com-benfica_d1769409",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T19:05:47+00:00",
+      "summary": "O atleta português Pedro Pichardo acusou hoje o Tribunal Arbitral do Desporto (TAD) de ter sido imparcial no seu processo contra o Benfica, numa altura em que ainda não foi anunciada a decisão final.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Golfista Daniel Rodrigues falha o `cut` por uma pancada no Alfred Dunhill",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/golfista-daniel-rodrigues-falha-o-cut-por-uma-pancada-no-alfred-dunhill_d1769408",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T19:03:48+00:00",
+      "summary": "O golfista português Daniel Rodrigues ficou hoje a apenas uma pancada de garantir a presença na derradeira volta do Alfred Dunhill Links Championship, competição do DP World Tour a decorrer na Escócia.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Pedro Almeida vence no Algarve e aproxima-se da liderança",
+      "url": "https://www.rtp.pt/noticias/motores/pedro-almeida-vence-no-algarve-e-aproxima-se-da-lideranca_d1769407",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T19:02:21+00:00",
+      "summary": "Pedro Almeida (Toyota Yaris) venceu hoje o Rali Casinos do Algarve, sexta prova do Campeonato de Portugal de Ralis, somando o segundo triunfo da temporada e reduzindo para seis pontos a distância para o líder, Rúben Rodrigues (Toyota Yaris), que abandonou.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Botafogo-SP x Vila Nova: horário e onde assistir ao jogo da Série B",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-sp-x-vila-nova-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T19:00:16+00:00",
+      "summary": "Equipes se enfrentam neste sábado (3), na Arena Nicnet, em duelo válido pela 31ª rodada da competição de pontos corridos",
+      "category": "Esportes"
+    },
+    {
+      "title": "João Carvalho espera desfecho \"diferente\" e Portugal a vencer a República Checa",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/joao-carvalho-espera-desfecho-diferente-e-portugal-a-vencer-a-republica-checa_d1769405",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T19:00:14+00:00",
+      "summary": "O guarda-redes João Carvalho assumiu hoje a vontade de conseguir um desfecho “diferente” para Portugal frente à República Checa para finalizar com uma vitória a fase de apuramento para o Europeu sub-21 de futebol, ainda que esperando “um jogo difícil”.",
+      "category": "Economia"
+    },
+    {
+      "title": "F1 mantém os GP do Qatar e de Abu Dhabi apesar da situação de conflito latente",
+      "url": "https://www.rtp.pt/noticias/motores/f1-mantem-os-gp-do-qatar-e-de-abu-dhabi-apesar-da-situacao-de-conflito-latente_d1769404",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T18:57:06+00:00",
+      "summary": "O responsável máximo da Fórmula 1, Stefano Domenicali, anunciou hoje, contra todas as expectativas, a manutenção dos dois últimos Grandes Prémios da temporada no Qatar e em Abu Dhabi, apesar das fortes tensões geopolíticas no médio oriente.",
       "category": "Clima"
     },
     {
-      "title": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sábado, 3 de outubro de 2026",
-      "url": "https://g1.globo.com/to/tocantins/edicao/2026/10/03/videos-jornal-anhanguera-1-edicao-to-de-sabado-3-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:55:54+00:00",
-      "summary": "Fique por dentro das principais notícias do telejornal.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Polícia Ambiental resgata pítons de 5 metros e jiboia mantidas em cativeiro no interior de SP",
-      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/03/policia-ambiental-resgata-pitons-de-5-metros-e-jiboia-mantidas-em-cativeiro-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:55:48+00:00",
-      "summary": "Polícia resgata pítons de 5 metros e jiboia mantidas em cativeiro no interior de SP A Polícia Militar Ambiental resgatou, nesta sexta-feira (2), quatro cobras que estavam sendo mantidas em situação de maus-tratos em um cativeiro de Tatuí (SP). Segundo a corporação, os animais foram encontrados a partir de uma denúncia ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Os cães processam a fala de forma mais parecida à dos humanos do que se acreditava",
-      "url": "https://g1.globo.com/ciencia/noticia/2026/10/03/os-caes-processam-a-fala-de-forma-mais-parecida-a-dos-humanos-do-que-se-acreditava.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:55:22+00:00",
-      "summary": "Mulher brincando com cachorro no evento. Daniella Araujo. Assim como os humanos, os cães tendem a se basear mais nas consoantes do que nas vogais para identificar os limites das palavras na fala, segundo sugere um estudo liderado por pesquisadores húngaros e publicado na revista Science. O cérebro dos cães divide a fal",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Justiça concede liberdade provisória a suspeito de jogar gato pela janela de carro no interior de SP",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/03/justica-concede-liberdade-provisoria-suspeito-jogar-gato-janela-carro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:54:17+00:00",
-      "summary": "Gato morre após ser jogado pela janela de carro em Campinas O Tribunal de Justiça do Estado de São Paulo (TJ-SP) concedeu liberdade provisória ao suspeito de jogar um filhote de gato pela janela de um carro, no Jardim Planalto de Viracopos, em Campinas (SP). A decisão ocorreu durante audiência de custódia, realizada lo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: saiba o que pode e o que não pode na véspera e no dia da votação no Amapá",
-      "url": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-saiba-o-que-pode-e-o-que-nao-pode-na-vespera-e-no-dia-da-votacao-no-amapa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:52:04+00:00",
-      "summary": "Veja o que pode e o que não pode na véspera e no dia da eleição no Amapá Isadora Pereira/g1 O Tribunal Regional Eleitoral do Amapá (TRE-AP) reforça que, neste fim de semana, a fiscalização da propaganda eleitoral em todo o estado será intensificada. Em função da grande movimentação popular, a Comissão de Fiscalização d",
-      "category": "Política"
-    },
-    {
-      "title": "Casal morre e filhos ficam feridos em acidente entre dois carros na MGC-251, em Unaí",
-      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/03/casal-morre-e-filhos-ficam-feridos-em-acidente-entre-dois-carros-na-mgc-251-em-unai.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:47:34+00:00",
-      "summary": "Acidente envolveu dois carros na MGC-251 em Unaí Reprodução/Inter TV Um casal morreu e os dois filhos ficaram feridos em um acidente envolvendo dois carros na MGC-251, em Unaí, na noite desta sexta-feira (2). Segundo a Polícia Militar, o motorista de um dos veículos contou que seguia no sentido Dom Bosco/Unaí quando o ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fonoaudióloga tem prejuízo de quase R$ 60 mil após cair no golpe do falso gerente de banco em Rio Preto",
-      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/03/fonoaudiologa-tem-prejuizo-de-quase-r-60-mil-apos-cair-no-golpe-do-falso-gerente-de-banco-em-rio-preto.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:47:13+00:00",
-      "summary": "Fonoaudióloga perde R$ 57 mil após cair no golpe do 'falso gerente' de banco em Rio Preto Reprodução/Google Street View Uma fonoaudióloga de 50 anos teve um prejuízo de R$ 57 mil após ser vítima do golpe do falso gerente de banco, em São José do Rio Preto (SP). O caso foi registrado nesta quinta-feira (1º), pela Políci",
+      "title": "Brasil vence Índia em encontro particular",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/brasil-vence-india-em-encontro-particular_d1769403",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T18:53:50+00:00",
+      "summary": "A seleção brasileira de futebol venceu hoje a Índia, por 4-0, em encontro de preparação disputado em Nova Deli, conseguindo a segunda vitória em três encontros nesta paragem internacional.",
       "category": "Esportes"
     },
     {
-      "title": "Acompanhe a cobertura do 1º turno das eleições no Distrito Federal",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-df.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:47:03+00:00",
-      "summary": "Acompanhe a cobertura do 1º turno das eleições no Distrito Federal Votação é neste domingo (4) em todo o país. Eleitores votam para deputado federal, deputado distrital, senador (dois votos), governador e presidente da República.",
-      "category": "Política"
-    },
-    {
-      "title": "Larissa Manoela revela o que dá “tesão” no casamento: “A dois”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/larissa-manoela-revela-o-que-da-tesao-no-casamento-a-dois/",
+      "title": "Paulinho oficializa a saída do Mirassol e fecha com o Cruzeiro",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/paulinho-oficializa-a-saida-do-mirassol-e-fecha-com-o-cruzeiro/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-03T16:46:50+00:00",
-      "summary": "Ao lado do marido, André Luiz Frambach, atriz comentou sobre momento íntimo do casal",
+      "publishedAt": "2026-10-03T18:52:06+00:00",
+      "summary": "Dirigente saiu oficialmente do clube paulista neste sábado (3), por meio de publicação oficial no site do Mirassol",
       "category": "Mundo"
     },
     {
-      "title": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:46:04+00:00",
-      "summary": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:45:22+00:00",
-      "summary": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Estrutura flutuante é transferida de Manaus para Itacoatiara para garantir transporte de cargas na seca",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/03/estrutura-flutuante-e-transferida-de-manaus-para-itacoatiara-para-garantir-transporte-de-cargas-na-seca.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:45:18+00:00",
-      "summary": "Estrutura será instalada às margens do Rio Amazonas, em uma área de 300 mil metros quadrados. Divulgação/Super Terminais O Super Terminais iniciou a transferência de uma infraestrutura flutuante de cerca de 4 mil toneladas de Manaus para Itacoatiara, no interior do Amazonas. A estrutura será usada para receber navios d",
-      "category": "Mundo"
-    },
-    {
-      "title": "Caiado nega que tenha cogitado desistir e apoiar Flávio no 1º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/caiado-nega-que-tenha-cogitado-desistir-e-apoiar-flavio-no-1o-turno/",
+      "title": "Dakota Johnson elogia Taylor Swift nos bastidores de novo videoclipe",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/dakota-johnson-elogia-taylor-swift-nos-bastidores-de-novo-videoclipe/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-03T16:31:17+00:00",
-      "summary": "Ex-governador de Goiás realizou caminhada com apoiadores na capital goiana neste sábado, véspera do primeiro turno das eleições gerais",
-      "category": "Política"
+      "publishedAt": "2026-10-03T18:46:13+00:00",
+      "summary": "Atriz é a protagonista do videoclipe de \"Patient Zero\", uma das novas canções lançadas na versão expandida do állbum \"The Life of a Showgirl\"",
+      "category": "Mundo"
     },
     {
-      "title": "\"Não posso ignorar, é um símbolo da Seleção e de Portugal\"",
-      "url": "https://observador.pt/2026/10/03/nao-posso-ignorar-o-cris-e-um-simbolo-da-selecao-e-de-portugal-jesus-fintou-o-caso-mas-abriu-caminho-a-reconciliacao/",
+      "title": "Criador de “Queer as Folk” estreia série sobre intolerância contra LGBTs",
+      "url": "https://www.cnnbrasil.com.br/pop/streaming/criador-de-queer-as-folk-estreia-serie-sobre-intolerancia-contra-lgbts/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T18:45:08+00:00",
+      "summary": "Nova obra dramática de Russell T Davies explora os impactos da radicalização online e das divisões geracionais na sociedade contemporânea",
+      "category": "Clima"
+    },
+    {
+      "title": "Portugueses do lado de Jorge Jesus na polémica com Ronaldo",
+      "url": "https://observador.pt/2026/10/03/jesus-tem-tres-vezes-mais-de-apoio-na-polemica-ronaldo/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-03T16:29:46+00:00",
-      "summary": "Jorge Jesus aponta à quarta vitória de Portugal noutros tantos jogos na Liga das Nações para carimbar passagem aos quartos de final",
+      "publishedAt": "2026-10-03T18:40:10+00:00",
+      "summary": "Selecionador nacional tem razão para 42% dos inquiridos, enquanto CR7 é apoiado apenas por 14% dos inquiridos. Adeptos do Sporting CP são quem mais defende a posição do capitão da Seleção.",
       "category": "Esportes"
     },
     {
-      "title": "Veja quando é o próximo jogo da Seleção após a vitória sobre a Índia",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/veja-quando-e-o-proximo-jogo-da-selecao-apos-a-vitoria-sobre-a-india/",
+      "title": "Vicky Montanari: \"Estou num sweet spot muito grande\"",
+      "url": "https://observador.pt/especiais/onde-esta-vicky-montanari-sinto-que-me-encontro-num-sweet-spot-muito-grande-sou-muito-sortuda/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T18:40:03+00:00",
+      "summary": "O que se passa antes e depois de um desfile Dior? Das cinco malas à camomila, dos vestidos de noiva à sanduíche ao almoço, falámos com a portuguese girlie no seu longo périplo pelo mês da Moda.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Atlas: Marcelo tem 32,7% na disputa ao Senado pelo Piauí; Júlio, 28,2%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-marcelo-tem-327-na-disputa-ao-senado-pelo-piaui-julio-282/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-03T16:27:55+00:00",
-      "summary": "Nesta Data Fifa, time comandado por Carlo Ancelotti enfrentou a Austrália duas vezes, além da equipe indiana",
+      "publishedAt": "2026-10-03T18:38:46+00:00",
+      "summary": "Levantamento ouviu 1.230 eleitores entre os dias 27 de setembro e 2 de outubro; margem de erro é de três pontos percentuais, para mais ou para menos",
+      "category": "Política"
+    },
+    {
+      "title": "São Paulo x Corinthians: escalações e onde assistir à final do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-x-corinthians-escalacoes-e-onde-assistir-a-final-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T18:35:10+00:00",
+      "summary": "Tricolor tem vantagem no placar para segundo jogo da decisão do Campeonato Brasileiro Feminino A1 neste sábado (3)",
       "category": "Esportes"
+    },
+    {
+      "title": "Atlas: no PI, Lula tem 67,9% dos votos válidos no 1º turno; Flávio, 27,5%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-no-pi-lula-tem-679-dos-votos-validos-no-1o-turno-flavio-275/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T18:34:19+00:00",
+      "summary": "Levantamento entrevistou 1.230 eleitores entre os dias 27 de setembro e 2 de outubro; margem de erro é de três pontos percentuais, para mais ou para menos, com intervalo de confiança de 95%",
+      "category": "Mundo"
+    },
+    {
+      "title": "B3 amplia negociação de contratos futuros de bitcoin com operações em dólar",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/b3-amplia-negociacao-de-contratos-futuros-de-bitcoin-com-operacoes-em-dolar/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T18:30:32+00:00",
+      "summary": "Nova modalidade permite negociar contratos futuros da criptomoeda diretamente em dólar e aproxima mercado brasileiro da dinâmica internacional de preços",
+      "category": "Economia"
+    },
+    {
+      "title": "Marc Márquez vence sprint e aproxima-se de Jorge Martín",
+      "url": "https://observador.pt/2026/10/03/marc-marquez-vence-sprint-no-japao-e-aproxima-se-de-jorge-martin/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T18:16:54+00:00",
+      "summary": "Marc Márquez reduziu desvantagem para o atual líder do Mundial, Jorge Martín",
+      "category": "Mundo"
+    },
+    {
+      "title": "A novidade Max: Verstappen consegue primeira pole do ano",
+      "url": "https://observador.pt/2026/10/03/max-verstappen-conquista-primeira-pole-position-do-ano-no-grande-premio-do-bahrain/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T18:16:33+00:00",
+      "summary": "Depois do segundo lugar na última corrida, Max Verstappen confirmou bom momento da Red Bull com a pole position no Grande Prémio do Bahrain",
+      "category": "Mundo"
+    },
+    {
+      "title": "19h. André Ventura vai ser o presidente da CPI a Luís Neves",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2183/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T18:15:37+00:00",
+      "summary": "As perguntas vão insidir sobre os mandatos de Luís Neves enquanto Diretor Nacional da Polícia Judiciária, entre 2018 e 2026. André Ventura garante a imparcialidade neste processo.",
+      "category": "Política"
+    },
+    {
+      "title": "Pichardo acusa TAD de parcialidade em processo com Benfica",
+      "url": "https://observador.pt/2026/10/03/pichardo-acusa-tad-de-parcialidade-em-processo-com-benfica/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T18:12:58+00:00",
+      "summary": "Em causa está a ação apresentada por Pichardo para indemnização e reconhecimento de justa causa na rescisão de contrato unilateral com o Benfica. Pichardo avançou com esta ação a 12 de março de 2025.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Solbakken coloca Portugal entre os melhores da Europa",
+      "url": "https://observador.pt/2026/10/03/solbakken-coloca-portugal-entre-os-melhores-da-europa-e-promete-noruega-ambiciosa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T18:10:00+00:00",
+      "summary": "Stale Solbakken lidera uma Noruega que foi um dos principais destaques no último Mundial-2026, onde chegou aos quartos após eliminar o Brasil",
+      "category": "Economia"
+    },
+    {
+      "title": "Patrícia Sampaio com \"estatuto\" em sorteio difícil",
+      "url": "https://observador.pt/2026/10/03/patricia-sampaio-com-estatuto-em-sorteio-dificil-para-alguns-atletas-portugueses-nos-mundiais-de-judo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-03T18:07:11+00:00",
+      "summary": "Patrícia Sampaio tenta repetir ou melhorar medalha de bronze conseguida no último Mundial, em Budapeste",
+      "category": "Mundo"
+    },
+    {
+      "title": "Eleições 2026: boca de urna é crime; saiba o que é proibido",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-boca-de-urna-e-crime-saiba-o-que-e-proibido",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T17:23:00+00:00",
+      "summary": "Com a aproximação do primeiro turno das Eleições de 2026, a população deve lembrar que, no dia da votação, alguns comportamentos como pedir votos, distribuir propaganda ou abordar eleitores para influenciar a escolha são proibidos. Essas práticas podem caracterizar o crime de boca de urna. O que é a boca de urna? A boc",
+      "category": "Política"
+    },
+    {
+      "title": "Monitoramento aponta 13 mil ataques a contas de candidaturas LGBT+",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/monitoramento-aponta-13-mil-ataques-contas-de-candidaturas-lgbt",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T17:16:00+00:00",
+      "summary": "A análise de contas de candidaturas LGBT+ pela plataforma Sentinela indicou a publicação, desde o início do período eleitoral, de 13 mil comentários classificados como ofensivos com alvo definido, o que significa que foram dirigidos a uma pessoa ou candidatura identificável. Para chegar a esse resultado, a Sentinela se",
+      "category": "Mundo"
+    },
+    {
+      "title": "TSE faz teste final de sistemas e emite zerézima",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-faz-teste-final-de-sistemas-e-emite-zer%C3%A9zima",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T16:43:00+00:00",
+      "summary": "O Tribunal Superior Eleitoral (TSE) fez neste sábado (3), véspera do primeiro turno das Eleições 2026 , um teste que confirmou a integridade e autenticidade dos sistemas eleitorais. Durante cerimônia na sede da corte em Brasília, foi também emitida a chamada Zerézima, procedimento que garante a transparência e a segura",
+      "category": "Política"
+    },
+    {
+      "title": "Eleições: propaganda eleitoral nas ruas termina às 22h deste sábado",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-propaganda-eleitoral-nas-ruas-termina-22h-deste-sabado",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-03T16:40:00+00:00",
+      "summary": "A propaganda eleitoral nas ruas terminará às 22h deste sábado (3), no horário de Brasília, véspera do 1º turno das eleições gerais de 2026. De acordo com o calendário eleitoral, este é o último dia de campanha eleitoral para distribuição de material gráfico (como santinhos e adesivos), para realização de passeatas, car",
+      "category": "Política"
     },
     {
       "title": "Em ritmo de treino, Brasil vence a Índia em Calcutá: 4 a 0",
@@ -200,42 +488,6 @@
       "category": "Ciência & Tech"
     },
     {
-      "title": "16h O direito a ter casa leva milhares à rua em Espanha",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-o-direito-a-ter-casa-leva-milhares-a-rua-em-espanha_a1_1769375",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T16:17:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ataque russo atinge ponte sobre o rio Dnipro em Kiev",
-      "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-atinge-ponte-sobre-o-rio-dnipro-em-kiev/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:16:24+00:00",
-      "summary": "Disparos acontecem em meio a escalada nos disparos contra infraestrutura da capital da Ucrânia; não há relatos de vítimas até o momento",
-      "category": "Mundo"
-    },
-    {
-      "title": "Greve na Easyjet com adesão total. Cancelamentos podem atingir os 90%",
-      "url": "https://www.rtp.pt/noticias/economia/greve-na-easyjet-com-adesao-total-cancelamentos-podem-atingir-os-90_n1769374",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T16:15:21+00:00",
-      "summary": "A greve dos tripulantes de cabine da Easyjet voltou a registar este sábado total adesão. O presidente do Sindicato Nacional do Pessoal de Voo da Aviação Civil, Ricardo Penarroias, antecipa que os cancelamentos possam atingir os 90 por cento.",
-      "category": "Política"
-    },
-    {
-      "title": "Jesus concentrado no treino para \"consolidar processos e preparar momentos decisivos\"",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/jesus-concentrado-no-treino-para-consolidar-processos-e-preparar-momentos-decisivos_d1769373",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T16:14:22+00:00",
-      "summary": "Portugal joga amanhã com a Noruega no estádio do Dragão e o selecionador nacional, Jorge Jesus, escreveu nas redes sociais. O selecionar quer distanciar-se das polémicos com Ronaldo e escreveu no instagram que os \"Os treinos que antecedem os jogos são fundamentais para consolidar processos e preparar momentos decisivos",
-      "category": "Esportes"
-    },
-    {
       "title": "Paraguai vai às urnas para eleições municipais neste domingo",
       "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/paraguai-vai-urnas-para-eleicoes-municipais-neste-domingo",
       "source": "Agência Brasil",
@@ -243,24 +495,6 @@
       "publishedAt": "2026-10-03T16:14:00+00:00",
       "summary": "Mais de 5 milhões de eleitores paraguaios vão às urnas neste domingo (4) para a escolha dos representantes municipais, prefeitos e vereadores de 263 municípios. Os candidatos escolhidos serão eleitos para o próximo mandato de cinco anos, de 2026 a 2031. De acordo com o Tribunal Superior de Justiça Eleitoral do Paraguai",
       "category": "Política"
-    },
-    {
-      "title": "Ministra da Justiça está a analisar apelos sobre Rui Pinto",
-      "url": "https://observador.pt/2026/10/03/ministra-da-justica-esta-a-analisar-pedidos-sobre-retirada-de-protecao-especial-a-rui-pinto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T16:09:58+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Associação contesta inscrição da tauromaquia como património",
-      "url": "https://observador.pt/2026/10/03/associacao-animal-contesta-inscricao-da-tauromaquia-como-patrimonio-cultural-imaterial/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T16:06:28+00:00",
-      "summary": "\"É absolutamente incompreensível que continuemos a assistir a sucessivas tentativas de garantir proteção e legitimidade institucional a uma atividade que depende da violência deliberada\", lamenta-se.",
-      "category": "Mundo"
     },
     {
       "title": "Petrobras atinge recorde de valor de mercado após descoberta no Amapá",
@@ -272,42 +506,6 @@
       "category": "Economia"
     },
     {
-      "title": "Em ritmo de treino, Brasil goleia Índia em jogo de mais testes de Ancelotti",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/em-ritmo-de-treino-brasil-goleia-india-em-jogo-de-mais-testes-de-ancelotti/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:01:21+00:00",
-      "summary": "Estêvão foi o destaque da atuação brasileira, que também contou com falhas do goleiro indiano Singh Sandhu para construir o placar",
-      "category": "Esportes"
-    },
-    {
-      "title": "Diversificação: como equilibrar riscos e investimentos na carteira",
-      "url": "https://www.cnnbrasil.com.br/economia/investimentos/diversificacao-como-equilibrar-riscos-e-investimentos-na-carteira/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:00:09+00:00",
-      "summary": "Estratégia reduz concentração em um único ativo, mas excesso de posições pode dificultar gestão e diluir retornos",
-      "category": "Cultura"
-    },
-    {
-      "title": "Presidente alemão condena extremismos políticos",
-      "url": "https://observador.pt/2026/10/03/presidente-alemao-alerta-que-extremismos-politicos-poem-em-causa-a-unidade-do-pais/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T16:00:01+00:00",
-      "summary": "O chefe de Estado alemão lamentou \"a intolerável demagogia política das forças extremistas, que dão rédea solta à sua sede de destruição\". \"Populistas de todos os quadrantes destabilizam democracia.\"",
-      "category": "Política"
-    },
-    {
-      "title": "Presidente alemão alerta que extremismos políticos põem em causa a unidade do país",
-      "url": "https://www.rtp.pt/noticias/mundo/presidente-alemao-alerta-que-extremismos-politicos-poem-em-causa-a-unidade-do-pais_n1769368",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T15:57:45+00:00",
-      "summary": "O Presidente alemão criticou hoje as forças políticas extremistas por colocarem em risco a liberdade e a coesão do país, num discurso proferido na cidade de Bremen por ocasião do Dia da Unidade Alemã.",
-      "category": "Política"
-    },
-    {
       "title": "Na Malásia, Verstappen faz sua primeira pole position da temporada",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/na-malasia-verstappen-faz-sua-primeira-pole-position-da-temporada",
       "source": "Agência Brasil",
@@ -317,210 +515,12 @@
       "category": "Clima"
     },
     {
-      "title": "PF já apreendeu R$ 27 milhões em espécie em combate à compra de voto",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/pf-ja-apreendeu-r-27-milhoes-em-especie-em-combate-a-compra-de-voto/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T15:53:04+00:00",
-      "summary": "Valor já supera o total apreendido nas eleições de 2022 e, segundo Elijonas Maia, segue crescendo com operações em andamento em vários estados",
-      "category": "Política"
-    },
-    {
       "title": "Idosos votam primeiro: conheça outros eleitores com prioridade",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/idosos-votam-primeiro-conheca-outros-eleitores-com-prioridade",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-03T15:53:00+00:00",
       "summary": "Neste domingo (4), os 158,7 mil eleitores que comparecerão às urnas deverão votar em cinco cargos em disputa no primeiro turno - deputado federal, deputado estadual ou distrital, dois senadores, governador e presidente da República. Caso haja fila nas seções de votação, a legislação estabelece públicos prioritários que",
-      "category": "Política"
-    },
-    {
-      "title": "Último ato de Lula antes de 1° turno tem princípio de confusão com a PM",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/ultimo-ato-de-lula-antes-de-1-turno-tem-principio-de-confusao-com-a-pm/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T15:47:27+00:00",
-      "summary": "Obstrução da Avenida Paulista levou a tensão entre militantes e policiais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Concurso da Câmara dos Deputados oferece salários de R$ 32 mil; veja regras",
-      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/concurso-da-camara-dos-deputados-oferece-salarios-de-r-32-mil-veja-regras/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T15:46:33+00:00",
-      "summary": "Edital prevê 66 vagas imediatas e 118 para cadastro de reserva, com oportunidades em áreas como jornalismo, relações públicas, engenharia e registro e redação; inscrições iniciam em 15 de outubro",
-      "category": "Política"
-    },
-    {
-      "title": "Gilmar derruba direito de resposta a Jerônimo e libera vídeos de ACM Neto",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/gilmar-derruba-direito-de-resposta-a-jeronimo-e-libera-videos-de-acm-neto/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T15:45:18+00:00",
-      "summary": "Candidato ao governo da Bahia recorreu ao Supremo Tribunal Federal em ação já em andamento sob relatoria do decano; decisão restabelece dois vídeos publicados por ACM Neto",
-      "category": "Política"
-    },
-    {
-      "title": "Explosão de bueiro deixa três feridos na avenida Paulista",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/explosao-de-bueiro-deixa-tres-feridos-na-avenida-paulista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T15:41:18+00:00",
-      "summary": "Vítimas sofreram queimaduras de primeiro e segundo grau e foram levadas conscientes para a Santa Casa",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Lindsay Lohan recria cena icônica de “Meninas Malvadas”: “É 3 de outubro”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/lindsay-lohan-recria-cena-iconica-de-meninas-malvadas-e-3-de-outubro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T15:40:18+00:00",
-      "summary": "Data é celebrada pelos fãs anualmente; o longa é quase uma máquina de citações atemporais que reforçam a influência da obra na cultura pop",
-      "category": "Cultura"
-    },
-    {
-      "title": "Chamas e fumo numa instalação da petrolífera saudita Aramco perto de Riade",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/chamas-e-fumo-numa-instalacao-da-petrolifera-saudita-aramco-perto-de-riade_n1769367",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T15:38:57+00:00",
-      "summary": "Uma instalação da gigante petrolífera saudita Aramco, a sul da capital, Riade, estava este sábado envolta em chamas e fumo, segundo a AFP.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleição no Rio terá monitoramento conjunto de forças de segurança",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicao-no-rio-tera-monitoramento-conjunto-de-forcas-de-seguranca",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T15:32:00+00:00",
-      "summary": "O governo do estado do Rio de Janeiro montou um quartel-general no Centro Integrado de Comando e Controle (CICC), na Cidade Nova, zona central da cidade, onde serão monitoradas e coordenadas as ações de segurança pública durante o primeiro turno das eleições, neste domingo (4). Desde a manhã deste sábado (3) até a noit",
-      "category": "Política"
-    },
-    {
-      "title": "Maestro Roberto Tibiriçá morre aos 72 anos em São Paulo",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/maestro-roberto-tibirica-morre-aos-72-anos-em-sao-paulo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T15:27:00+00:00",
-      "summary": "O maestro paulista Roberto Tibiriçá morreu na madrugada deste sábado (3), em São Paulo, aos 72 anos. Desde 2022, o artista era o regente titular e o diretor musical da Orquestra Sinfônica do Paraná (OSP) . Tibiriçá estava internado em São Paulo, em decorrência de um câncer. O velório ocorrrerá em São Paulo, em local a ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Solbakken coloca Portugal entre os melhores da Europa e promete Noruega ambiciosa",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/solbakken-coloca-portugal-entre-os-melhores-da-europa-e-promete-noruega-ambiciosa_d1769360",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T15:24:37+00:00",
-      "summary": "O selecionador norueguês de futebol, Stale Solbakken, considerou hoje Portugal uma das três melhores equipas europeias, na antevisão do encontro de domingo entre as duas seleções, da quarta jornada do Grupo A4 da Liga das Nações.",
-      "category": "Economia"
-    },
-    {
-      "title": "Sorriso decide triunfo do Famalicão frente à AD Marco 09",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/sorriso-decide-triunfo-do-famalicao-frente-a-ad-marco-09_d1769365",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T15:22:02+00:00",
-      "summary": "O Famalicão, da I Liga de futebol, venceu a AD Marco 09, da Liga 3, por 1-0, num jogo de preparação disputado na academia do clube famalicense, com um golo de Sorriso.",
-      "category": "Esportes"
-    },
-    {
-      "title": "TRE-RJ alerta eleitores sobre alteração no local de votação",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-rj-alerta-eleitores-sobre-alteracao-no-local-de-votacao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T15:22:00+00:00",
-      "summary": "O Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) não enviará quaisquer avisos pessoais ao eleitorado do estado sobre as mudanças do local de votação. Por isso, recomendou que os eleitores verifiquem, previamente, se o local foi alterado. Conforme o órgão, a consulta deve ser feita no site oficial do TRE-RJ info",
-      "category": "Mundo"
-    },
-    {
-      "title": "Democratas ganham força e podem controlar o Senado",
-      "url": "https://observador.pt/2026/10/03/eua-democratas-ganham-forca-em-estados-republicanos-e-controlo-do-senado-esta-mais-proximo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T15:21:47+00:00",
-      "summary": "Segundo as sondagens, a elevada impopularidade do presidente Donald Trump, a discordância com a guerra contra o Irão e a frustração com os altos preços do combustível e o custo de vida estão a consolidar o avanço dos candidatos democratas",
-      "category": "Política"
-    },
-    {
-      "title": "Nacional vence Camacha em jogo de preparação",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/nacional-vence-camacha-em-jogo-de-preparacao_d1769364",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T15:21:23+00:00",
-      "summary": "O Nacional, da I Liga portuguesa de futebol, venceu hoje a Camacha, por 3-0, num encontro particular disputado no terreno da formação que milita no Campeonato de Portugal, à porta fechada.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Vitória de Guimarães vence Fafe em encontro de preparação",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/vitoria-de-guimaraes-vence-fafe-em-encontro-de-preparacao_d1769363",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T15:20:37+00:00",
-      "summary": "O Vitória de Guimarães, da I Liga portuguesa de futebol, derrotou hoje o Fafe, da Liga 3, por 3-1, num jogo particular disputado na academia do clube vimaranense, à porta fechada.",
-      "category": "Esportes"
-    },
-    {
-      "title": "16h. André Ventura vai ser o Presidente da CPI a Luís Neves",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2377/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T15:11:22+00:00",
-      "summary": "Líder do Chega diz que vai garantir a imparcialidade e promete não colocar obstáculos à intervenção dos restantes partidos. Ainda, Presidente da República defende mais investimento para o interior.",
-      "category": "Política"
-    },
-    {
-      "title": "Nazismo: \"Para o meu pai, a pena de morte foi acertada\"",
-      "url": "https://observador.pt/especiais/niklas-frank-filho-do-governador-da-polonia-nazi-sou-totalmente-contra-a-pena-de-morte-mas-para-o-meu-pai-foi-a-decisao-acertada/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T14:56:59+00:00",
-      "summary": "Em 1987 foi publicado o livro que o antigo jornalista escreveu sobre o pai, nazi que cooperou com o Holocausto. Falámos com o autor de \"O Meu Pai: Uma Vingança\", agora editado em Portugal.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Ventura vai presidir à comissão de inquérito a Luís Neves",
-      "url": "https://observador.pt/2026/10/03/andre-ventura-assume-presidencia-da-comissao-de-inquerito-a-luis-neves/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T14:38:02+00:00",
-      "summary": "O líder do Chega disse quer ver \"rapidamente constituída\" a comissão para que \"na próxima semana se comece já a trabalhar ou, pelo menos, se deem já os primeiros passos\" para ser constituída",
-      "category": "Mundo"
-    },
-    {
-      "title": "Chapo e Trump reforçam cooperação em áreas estratégicas",
-      "url": "https://observador.pt/2026/10/03/chapo-e-trump-reforcam-cooperacao-em-areas-estrategicas-para-mocambique-e-eua/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T14:27:20+00:00",
-      "summary": "Daniel Chapo sublinhou ter abordado com Trump áreas de cooperação que os dois países já exploram, com destaque para as infraestruturas, no âmbito do Segundo Compacto para Moçambique",
-      "category": "Mundo"
-    },
-    {
-      "title": "Peste mata uma mulher na Sibéria, 200 pessoas em isolamento",
-      "url": "https://observador.pt/2026/10/03/mulher-morre-vitima-de-peste-na-siberia-apos-acidente-em-laboratorio-autoridades-russas-colocaram-200-pessoas-em-isolamento/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T14:21:35+00:00",
-      "summary": "Pelo menos 197 pessoas que podem ter tido contato com a técnica de laboratório foram colocadas em isolamento médico, incluindo mais de 100 em enfermarias hospitalares",
-      "category": "Saúde"
-    },
-    {
-      "title": "Votos para o Senado exigem atenção redobrada do eleitor",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/voto-para-senador-exige-atencao-redobrada-do-eleitor",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T14:21:00+00:00",
-      "summary": "Há um voto que precisa de especial atenção dos eleitores: o voto para senador. Diferentemente dos demais cargos, será necessário votar duas vezes. Além disso, não será possível optar pelo voto de legenda, no qual se digita apenas o número do partido. Notícias relacionadas: Eleições 2026: confira 6 dicas para ajudar a e",
-      "category": "Política"
-    },
-    {
-      "title": "Bloco de Esquerda acusa Governo de favorecer capital",
-      "url": "https://observador.pt/2026/10/03/bloco-de-esquerda-acusa-governo-de-favorecer-capital-fazendo-o-contrario-do-que-as-pessoas-precisam/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T14:13:54+00:00",
-      "summary": "\"Estou a falar, por exemplo, do controlo do preço dos combustíveis, a fixação de preços máximos nos combustíveis ou a fixação de tetos máximos às rendas de casa em função da localidade, em função do tipo de casa\", disse o líder do Bloco de Esquerda",
       "category": "Política"
     }
   ],
