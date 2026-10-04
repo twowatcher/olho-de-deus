@@ -1,364 +1,337 @@
 {
-  "updatedAt": "2026-10-04T02:34:54.273182+00:00",
+  "updatedAt": "2026-10-04T09:42:49.151304+00:00",
   "items": [
     {
-      "title": "1h Portugal joga este domingo com a Noruega no estádio do Dragão para os quartos de final da Liga das Nações",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-portugal-joga-este-domingo-com-a-noruega-no-estadio-do-dragao-para-os-quartos-de-final-da-liga-das-nacoes_a1_1769439",
+      "title": "Jorge Jesus e Bruno Fernandes apelam à união",
+      "url": "https://www.rtp.pt/noticias/ligadasnacoes/jorge-jesus-e-bruno-fernandes-apelam-a-uniao_d1769471",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-04T02:57:02+00:00",
+      "publishedAt": "2026-10-04T10:37:52+00:00",
+      "summary": "Em entrevista exclusiva à RTP Antena 1, Jorge Jesus é taxativo e assume \"que não quer ser um fator de desestabilização\". Isto depois de alguns assobios na chegada ao Porto após a vitória na Dinamarca.",
+      "category": "Mundo"
+    },
+    {
+      "title": "10h Eleições no Brasil: 134 mil votam em Portugal",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-eleicoes-no-brasil-134-mil-votam-em-portugal_a1_1769470",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T10:20:02+00:00",
       "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Combustíveis: aumentos ameaçam apoios sociais",
+      "url": "https://observador.pt/2026/10/04/aumento-nos-combustiveis-angustia-instituicoes-sociais-e-ameaca-continuidade-de-apoios/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T09:33:35+00:00",
+      "summary": "\"Podemos vir a ter que prescindir de alguns serviços ou algumas respostas de alguns profissionais que já temos vindo a prescindir\", admitiu Renata Alves, a diretora da Comunidade Vida e Paz",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ventilador apontado para a janela ou porta aberta expulsa o ar quente de dentro do cômodo",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/ventilador-apontado-para-a-janela-ou-porta-aberta-expulsa-o-ar-quente-de-dentro-do-comodo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-04T09:33:33+00:00",
+      "summary": "Técnica cria uma corrente natural de ar que atravessa o espaço, renovando-o continuamente sem a necessidade de sistemas complexos de refrigeração",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "O \"glamour parisiense\" de uma joalharia centenária no Rossio",
+      "url": "https://observador.pt/especiais/relogios-de-150-a-22-mil-euros-no-cenario-de-james-bond-inspirado-no-glamour-parisiense-os-100-anos-da-joalharia-ferreira-marques-no-rossio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T09:30:25+00:00",
+      "summary": "O projeto do arquiteto arquiteto Manuel Joaquim Norte Júnior chama a atenção pelos detalhes em Arte Nova",
+      "category": "Cultura"
+    },
+    {
+      "title": "Ponte em Kiev atingida por drones russos em dia de visita de chanceler alemão",
+      "url": "https://www.rtp.pt/noticias/mundo/ponte-em-kiev-atingida-por-drones-russos-em-dia-de-visita-de-chanceler-alemao_v1769468",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T09:27:47+00:00",
+      "summary": "A ponte norte sobre o rio Dnipro, em Kiev, voltou a ser atingida por drones russos. A informação é avançada pelo autarca da capital ucraniana. O ataque acontece no dia em que o Chanceler alemão está de visita a Kiev.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Petit Le Mans: Albuquerque a menos de um segundo do pódio",
+      "url": "https://observador.pt/2026/10/04/filipe-albuquerque-termina-petit-le-mans-a-menos-de-um-segundo-do-podio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T09:27:31+00:00",
+      "summary": "O português lamentou ter ficado tão perto dos três primeiros, mas valorizou o resultado numa temporada que classificou como complicada",
+      "category": "Clima"
+    },
+    {
+      "title": "09h Eleições no Brasil: já estão abertas as urnas em Portugal",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-eleicoes-no-brasil-ja-estao-abertas-as-urnas-em-portugal_a1_1769467",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T09:27:03+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Vivo Sempre em Stress: Isto Tem Fim?",
+      "url": "https://observador.pt/programas/manual-de-instrues-para-humanos/vivo-sempre-em-stress-isto-tem-fim-2/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T09:25:04+00:00",
+      "summary": "O cortisol tem fama de vilão, mas sem ele morríamos. O problema começa quando nunca desligamos. O psiquiatra Gustavo Jesus explica o que é o stress crónico, os sinais de alerta e o que fazer.",
       "category": "Esportes"
     },
     {
-      "title": "Quaest divulga última pesquisa de intenção de voto para governador de SC; veja números",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/03/quaest-divulga-ultima-pesquisa-de-intencao-de-voto-para-governador-de-sc-veja-numeros.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T02:25:37+00:00",
-      "summary": "Quaest divulga pesquisa para governo de Santa Catarina Em Santa Catarina, a pesquisa Quaest contratada pela NSC TV afirma que Jorginho Mello, do PL, lidera de forma isolada. A margem de erro é de dois pontos para mais ou para menos. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Em agosto, Jorginho ",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: acompanhe a cobertura ao vivo da votação no 1º turno no Vale do Paraíba e região bragantina",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/eleicoes/2026/ao-vivo/eleicoes-2026-acompanhe-a-cobertura-ao-vivo-da-votacao-no-1-turno-no-vale-do-paraiba-e-regiao-bragantina.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T02:24:38+00:00",
-      "summary": "Eleições 2026: acompanhe a cobertura ao vivo da votação no 1º turno no Vale do Paraíba e região bragantina Mais de 2,2 milhões de eleitores vão às urnas nas 46 cidades da região neste domingo (4).",
-      "category": "Política"
-    },
-    {
-      "title": "Datafolha divulga última pesquisa de intenção de voto para governador de PE; veja números",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/03/datafolha-divulga-ultima-pesquisa-de-intencao-de-voto-para-governador-de-pe-veja-numeros.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T02:12:56+00:00",
-      "summary": "Datafolha divulga pesquisa para o governo de Pernambuco Os números do Datafolha para Pernambuco. O levantamento foi contratado pelo jornal \"Folha de S.Paulo\" e pela Globo. Segundo o Datafolha, na véspera da eleição, há a manutenção da situação de empate técnico entre Raquel Lyra, do PSD, e João Campos, do PSB. A margem",
-      "category": "Política"
-    },
-    {
-      "title": "3h. EUA expulsam membros da diplomacia iraniana do país",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2456/",
+      "title": "Chuvas torrenciais fazem dois mortos na Catalunha",
+      "url": "https://observador.pt/2026/10/04/chuvas-torrenciais-fazem-dois-mortos-na-catalunha-niveis-de-precipitacao-atingem-maximos-dos-ultimos-20-anos/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-04T02:12:36+00:00",
-      "summary": "O Departamento de Estado argumenta que os diplomatas ignoraram uma ordem para abandonar o país. Ainda, Netanyahu convidou o piloto que evitou o ataque ao avião da Flydubai a visitar Israel.",
+      "publishedAt": "2026-10-04T09:21:41+00:00",
+      "summary": "População observa nível do caudal do rio Besòs (em Santa Coloma de Gramenet, na área urbana de Barcelona)",
+      "category": "Clima"
+    },
+    {
+      "title": "10h. Presidente do SC Braga critica saída de CR7 da Seleção",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2486/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T09:17:49+00:00",
+      "summary": "António Salvador considera que Ronaldo “não teve a melhor atitude”. Ainda, Presidente do Tribunal de Contas admite recorrer da reforma da instituição para o Tribunal Constitucional.",
+      "category": "Política"
+    },
+    {
+      "title": "Vivo Sempre em Stress: Isto Tem Fim?",
+      "url": "https://observador.pt/programas/manual-de-instrues-para-humanos/vivo-sempre-em-stress-isto-tem-fim/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T09:17:09+00:00",
+      "summary": "O cortisol tem fama de vilão, mas sem ele morríamos. O problema começa quando nunca desligamos. O psiquiatra Gustavo Jesus explica o que é o stress crónico, os sinais de alerta e o que fazer.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Saiba como limpar joias de prata com bicarbonato, sal e papel alumínio",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/saiba-como-limpar-joias-de-prata-com-bicarbonato-sal-e-papel-aluminio/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-04T09:01:14+00:00",
+      "summary": "Método caseiro que remove manchas e devolve o brilho às peças de prata em minutos; entenda o truque certo para a restauração correta",
       "category": "Mundo"
     },
     {
-      "title": "Quaest divulga última pesquisa de intenção de voto para governador de PE; veja números",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/03/quaest-divulga-ultima-pesquisa-de-intencao-de-voto-para-governador-de-pe-veja-numeros.ghtml",
-      "source": "G1",
+      "title": "O que pode acontecer com soldados norte-coreanos enviados à Coreia do Sul?",
+      "url": "https://www.cnnbrasil.com.br/internacional/o-que-pode-acontecer-com-soldados-norte-coreanos-enviados-a-coreia-do-sul/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-04T02:04:04+00:00",
-      "summary": "Quaest divulga pesquisa ao governo de Pernambuco Vamos ver agora como está a corrida para o governo de Pernambuco. A pesquisa Quaest, contratada pela Globo, afirma que, a um dia da eleição, João Campos, do PSB, e Raquel Lyra, do PSD, seguem tecnicamente empatados. A margem de erro é de dois pontos percentuais, para mai",
+      "publishedAt": "2026-10-04T09:00:31+00:00",
+      "summary": "Presidente da Ucrânia, Volodymyr Zelensky, afirmou que Kiev enviou dois militares do país asiático capturados enquanto lutavam pela Rússia a Seul",
       "category": "Política"
     },
     {
-      "title": "Boa Vista terá ônibus gratuito no primeiro turno das Eleições 2026",
-      "url": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/03/boa-vista-tera-onibus-gratuito-no-primeiro-turno-das-eleicoes-2026.ghtml",
-      "source": "G1",
+      "title": "Ex-Masterchefs revelam como vida mudou após participação no reality",
+      "url": "https://www.cnnbrasil.com.br/pop/realities/ex-masterchefs-revelam-como-vida-mudou-apos-participacao-no-reality/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-04T02:00:00+00:00",
-      "summary": "Ônibus vão operar gratuitamente durante as eleições 2026 em Roraima. PMBV/Divulgação Os ônibus do transporte público de Boa Vista vão operar com 100% da frota e de forma gratuita neste domingo (4), durante o primeiro turno das eleições gerais de 2026. Em Roraima, a votação ocorre das 7h às 16h, no horário local. A medi",
-      "category": "Política"
+      "publishedAt": "2026-10-04T09:00:22+00:00",
+      "summary": "Participantes contaram à CNN Brasil sobre fama e mudanças na carreira; temporada com veteranos estreia na terça-feira (6)",
+      "category": "Clima"
     },
     {
-      "title": "Quaest, 1º turno: veja intenção de voto por região, gênero, idade, identificação política e religião",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-1-turno-3-outubro-recortes.ghtml",
-      "source": "G1",
+      "title": "António Salvador critica saída de Ronaldo e apoia Jesus",
+      "url": "https://observador.pt/2026/10/04/antonio-salvador-critica-saida-de-ronaldo-da-selecao-e-apoia-lideranca-de-jorge-jesus/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T08:59:31+00:00",
+      "summary": "\"Acho que, se calhar, nesta altura, provavelmente Cristiano Ronaldo não tomaria essa decisão. Foi uma decisão talvez a quente\", sustentou",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dependência de álcool quase quadruplicou em Portugal",
+      "url": "https://observador.pt/2026/10/04/dependencia-de-alcool-quase-quadruplicou-em-portugal-mas-so-20-estao-em-tratamento/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T08:53:28+00:00",
+      "summary": "Perante o aumento da problemática de consumos de álcool e da procura dos serviços para tratamento das perturbações do uso do álcool comparativamente às outras substâncias, a primeira prioridade do ICAD foi reforçar a capacidade de resposta das unidades de alcoologia",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dependência do jogo: dívida de 3 milhões entre casos graves",
+      "url": "https://observador.pt/2026/10/04/nova-unidade-de-tratamento-da-dependencia-do-jogo-recebeu-50-utentes-em-3-meses-e-caso-com-divida-de-3-milhoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T08:40:52+00:00",
+      "summary": "As dificuldades financeiras podem contribuir para recaídas, através da tentativa de recuperar no jogo o dinheiro perdido, criando um ciclo difícil de interromper",
+      "category": "Esportes"
+    },
+    {
+      "title": "Com disquete de 1,44 MB e teclado de borracha: a história da primeira urna eletrônica com cara de micro-ondas usada em 1996",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/com-disquete-de-144-mb-e-teclado-de-borracha-a-historia-da-primeira-urna-eletronica-com-cara-de-micro-ondas-usada-em-1996/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-04T01:55:55+00:00",
-      "summary": "Quaest, 1º turno - votos válidos: Lula, 46%; Flávio Bolsonaro, 45%; Cury, 3%; Renan, 3%; Caiado, 3% Pesquisa Quaest divulgada neste sábado (3) mostra como está a disputa pela Presidência da República na véspera do 1º turno. Lula (PT) tem 46% dos votos válidos, e Flávio Bolsonaro, 45%. Os números apontam empate técnico,",
+      "publishedAt": "2026-10-04T08:31:49+00:00",
+      "summary": "Implementado em 57 municípios para combater fraudes no voto em papel, o modelo UE96 estreou a votação digital no Brasil operando com processador 386 e armazenamento magnético",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Datafolha divulga última pesquisa de intenção de voto para governador de SP; veja números",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/03/datafolha-divulga-ultima-pesquisa-de-intencao-de-voto-para-governador-de-sp-veja-numeros.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:54:50+00:00",
-      "summary": "Datafolha divulga última pesquisa de intenção de voto para governador de SP; veja números Jornal Nacional/ Reprodução Os números do Datafolha para o governo de São Paulo. Segundo o levantamento contratado pela Globo e pelo jornal \"Folha de S.Paulo\", o governador Tarcísio de Freitas tem ampla distância sobre Fernando Ha",
-      "category": "Política"
-    },
-    {
-      "title": "Quaest divulga última pesquisa de intenção de voto para governador de SP; veja números",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/03/quaest-divulga-ultima-pesquisa-de-intencao-de-voto-para-governador-de-sp-veja-numeros.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:45:04+00:00",
-      "summary": "Quaest divulga última pesquisa de intenção de voto para governador de SP; veja números Jornal Nacional/ Reprodução São Paulo, onde, segundo a Quaest, Tarcísio de Freitas, do Republicanos, chega na véspera da eleição com vantagem sobre Fernando Haddad, do PT. A pesquisa foi contratada pela Globo. A margem de erro é de d",
-      "category": "Política"
-    },
-    {
-      "title": "Datafolha divulga última pesquisa de intenção de voto para governador do RJ; veja números",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/03/datafolha-divulga-ultima-pesquisa-de-intencao-de-voto-para-governador-do-rj-veja-numeros.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:34:56+00:00",
-      "summary": "Datafolha divulga pesquisa para governo do Rio de Janeiro Os números do Datafolha para o governo do Rio. O levantamento foi contratado pelo jornal \"Folha de S. Paulo\" e pela Globo. Segundo o Datafolha, na véspera da eleição, Eduardo Paes, do PSD, lidera, seguido por Douglas Ruas, do PL. A margem de erro é de dois ponto",
-      "category": "Política"
-    },
-    {
-      "title": "Pesquisas da reta final para o Senado mostram avanço da direita",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/pesquisas-da-reta-final-para-o-senado-mostram-avanco-da-direita/",
+      "title": "Holanda x Sérvia: horário e onde assistir ao jogo da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/holanda-x-servia-horario-e-onde-assistir-ao-jogo-da-nations-league/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-04T01:31:51+00:00",
-      "summary": "Levantamento de votos válidos aponta candidatos de PL (Partido Liberal) e PP (Progressistas) no grupo da frente em São Paulo, Minas Gerais e Distrito Federal; esquerda lidera na Bahia, e Pará fica com o Centro",
-      "category": "Política"
+      "publishedAt": "2026-10-04T08:30:14+00:00",
+      "summary": "Seleções vão a campo neste domingo (4), no Philips Stadion, em Eindhoven, pela 4ª rodada da competição",
+      "category": "Esportes"
     },
     {
-      "title": "Por que o cérebro humano não para de tentar prever o futuro, segundo a neurociência",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-o-cerebro-humano-nao-para-de-tentar-prever-o-futuro-segundo-a-neurociencia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:30:24+00:00",
-      "summary": "Da previsão do tempo aos mercados de apostas sobre eleições, passando pelos apps que sugerem a próxima música ou pelo prognóstico de resultado de um jogo, o hábito de tentar adivinhar o que vem a seguir tem explicação na biologia e na psicologia humanas",
-      "category": "Política"
+      "title": "Criminalidade juvenil e delitos no meio digital aumentam",
+      "url": "https://observador.pt/2026/10/04/criminalidade-juvenil-e-delitos-no-meio-digital-aumentam-no-primeiro-semestre/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T08:29:01+00:00",
+      "summary": "A GNR assinala uma transferência crescente dos conflitos entre jovens para o meio digital",
+      "category": "Ciência & Tech"
     },
     {
-      "title": "Quaest divulga última pesquisa de intenção de voto para governador do RJ; veja números",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/03/quaest-divulga-ultima-pesquisa-de-intencao-de-voto-para-governador-do-rj-veja-numeros.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:22:04+00:00",
-      "summary": "Quaest divulga pesquisa para governo do Rio A Globo e emissoras afiliadas contrataram pesquisas de véspera com a intenção de voto em todo o país. São números da Quaest e do Datafolha para os governos estaduais e para a Presidência da República. O Jornal Nacional vai começar com os números sobre o Rio de Janeiro da pesq",
-      "category": "Política"
+      "title": "Chanceler alemão faz visita surpresa à Ucrânia",
+      "url": "https://observador.pt/liveblogs/chanceler-alemao-faz-visita-surpresa-a-ucrania-irao-diz-que-nao-ha-solucao-militar-para-conflito-com-os-eua-e-ameaca-com-resposta-mais-forte/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T08:28:39+00:00",
+      "summary": "Friedrich Merz na chegada a Kiev, este domingo",
+      "category": "Mundo"
     },
     {
-      "title": "0h O Brasil vai a votos, as sondagens apontam diferença mínima entre Lula da Silva e Flávio Bolsonaro",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-o-brasil-vai-a-votos-as-sondagens-apontam-diferenca-minima-entre-lula-da-silva-e-flavio-bolsonaro_a1_1769438",
+      "title": "Japão protesta junto de EUA após detenção de militar por homicídio em Okinawa",
+      "url": "https://www.rtp.pt/noticias/mundo/japao-protesta-junto-de-eua-apos-detencao-de-militar-por-homicidio-em-okinawa_n1769454",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-04T01:21:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-10-04T08:27:49+00:00",
+      "summary": "As autoridades japonesas protestaram hoje junto dos Estados Unidos após a detenção de um fuzileiro naval norte-americano suspeito de ter roubado e assassinado uma mulher japonesa em Okinawa, no sul do arquipélago.",
       "category": "Mundo"
     },
     {
-      "title": "Carro com item radiativo é achado após roubo em SP; material contaminado segue desaparecido",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/carro-com-item-radiativo-e-achado-apos-roubo-em-sp-material-contaminado-segue-desaparecido/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:18:06+00:00",
-      "summary": "Veículo com carga de Actínio-225, foi roubado na manhã de quinta-feira (1°), em Guarulhos; Autoridade Nuclear orienta que produto não seja manuseado apesar do baixo índice de radiação",
-      "category": "Mundo"
-    },
-    {
-      "title": "Atlas: Cid tem 30,8% de votos válidos ao Senado no CE; Luizianne, 28,8%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-cid-tem-308-de-votos-validos-ao-senado-no-ce-luizianne-288/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:17:28+00:00",
-      "summary": "Levantamento ouviu 2.227 eleitores entre 27 de setembro e 2 de outubro, com margem de erro de dois pontos percentuais",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Pará no último dia de campanha do 1º turno",
-      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-para-no-ultimo-dia-de-campanha-do-1o-turno.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:12:22+00:00",
-      "summary": "Candidatos ao Governo do Pará nas Eleições 2026 Reprodução Os candidatos ao governo do Pará cumpriram compromissos de campanha neste sábado, 3 de outubro, último dia de campanha das eleições 2026 antes do primeiro turno. Entre as atividades do dia, foram realizadas carreatas, caminhadas, panfletagens e reuniões de plan",
-      "category": "Política"
-    },
-    {
-      "title": "2h. Flydubai. Netanyahu convidou piloto a visitar Israel",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2430/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T01:12:08+00:00",
-      "summary": "O primeiro-ministro israelita convidou o piloto indiano na qualidade de convidado de honra. Ainda, o responsável pela segurança da OpenAI demitiu-se.",
-      "category": "Política"
-    },
-    {
-      "title": "Investigadores do voo da FlyDubai revelam que copiloto usou machado de emergência para atacar comandante",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/03/investigadores-do-voo-da-flydubai-revelam-que-copiloto-usou-machado-de-emergencia-para-atacar-comandante.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:03:01+00:00",
-      "summary": "Copiloto usou machado no ataque no avião da FlyDubai em Israel Investigadores do voo da FlyDubai revelaram neste sábado (3) que o copiloto usou um machado que fazia parte do equipamento de segurança para atacar o comandante. Investigadores tentavam determinar como o agressor conseguiu levar uma arma a bordo sem ser det",
-      "category": "Cultura"
-    },
-    {
-      "title": "Atlas: 52,5% desaprovam o governo Lula; aprovação é de 46,8%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-525-desaprovam-o-governo-lula-aprovacao-e-de-468/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:02:29+00:00",
-      "summary": "Pesquisa ouviu 4.945 pessoas em todo o território nacional entre 27 de setembro e 2 de outubro; margem de erro de um ponto percentual",
-      "category": "Política"
-    },
-    {
-      "title": "Atlas: Lula tem 50,1% dos votos válidos no 2º turno; Flávio, 49,9%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-lula-tem-501-dos-votos-validos-no-2o-turno-flavio-499/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:00:42+00:00",
-      "summary": "Pesquisa ouviu 4.945 pessoas em todo o território nacional entre 27 de setembro e 2 de outubro; margem de erro de um ponto percentual",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Atlas: Lula tem 47% dos votos válidos no 1º turno; Flávio, 44,1%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-lula-tem-47-dos-votos-validos-no-1o-turno-flavio-441/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T01:00:03+00:00",
-      "summary": "Pesquisa ouviu 4.945 pessoas em todo o território nacional entre 27 de setembro e 2 de outubro; margem de erro de um ponto percentual, para mais ou para menos, com nível de confiança de 95%",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Atlas: Ciro tem 50,7% de votos válidos no 2º turno no CE; Elmano, 49,3%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-ciro-tem-507-de-votos-validos-no-2o-turno-no-ce-elmano-493/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T00:53:22+00:00",
-      "summary": "Levantamento ouviu 2.227 eleitores cearenses entre 27 de setembro e 2 de outubro",
-      "category": "Mundo"
-    },
-    {
-      "title": "Influenciadora descobre gravidez de 5 meses durante treino na academia",
-      "url": "https://www.cnnbrasil.com.br/saude/influenciadora-descobre-gravidez-de-5-meses-durante-treino-na-academia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T00:49:32+00:00",
-      "summary": "Fenômeno conhecido como \"gravidez silenciosa\" ocorre quando a mulher só descobre a gestação em uma fase avançada ou até mesmo no parto",
-      "category": "Mundo"
-    },
-    {
-      "title": "Atlas: disputa ao Senado no RS tem empate quádruplo; veja cenário",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-disputa-ao-senado-no-rs-tem-empate-quadruplo-veja-cenario/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T00:44:28+00:00",
-      "summary": "Levantamento da AtlasIntel ouviu 1.812 eleitores no Rio Grande do Sul entre os dias 27 de setembro e 2 de outubro, com margem de erro de dois pontos percentuais",
-      "category": "Política"
-    },
-    {
-      "title": "Projeto quer renomear o aeroporto de Guarulhos em homenagem a Lito Sousa",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/projeto-quer-renomear-o-aeroporto-de-guarulhos-em-homenagem-a-lito-sousa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T00:41:27+00:00",
-      "summary": "Proposta foi feita por parlamentar mineira um dia após a morte do piloto, mecânico aeronáutico e influenciador; Lito morreu aos 59 anos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Atlas: Elmano tem 49,9% de votos válidos no 1º turno no CE; Ciro, 49,6%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-elmano-tem-499-de-votos-validos-no-1o-turno-no-ce-ciro-496/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-04T00:38:06+00:00",
-      "summary": "Pesquisa entrevistou 2.227 eleitores no Ceará entre os dias 27 de setembro e 2 de outubro, com margem de erro de dois pontos percentuais",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "1h. Responsável pela segurança da OpenAI demite-se",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2403/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T00:15:19+00:00",
-      "summary": "David Robinson deixa o alerta que empresa de Inteligência Artificial não é \"nem de perto cuidadosa\". Ainda, André Ventura vai ser o Presidente da Comissão Parlamentar de Inquérito a Luís Neves.",
-      "category": "Política"
-    },
-    {
-      "title": "23h Jato privado de Cristiano Ronaldo tem voo marcado para este domingo à hora de almoço com destino a Riade",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-jato-privado-de-cristiano-ronaldo-tem-voo-marcado-para-este-domingo-a-hora-de-almoco-com-destino-a-riade_a1_1769437",
+      "title": "Jato privado de Cristiano Ronaldo viaja este domingo para Riade",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/jato-privado-de-cristiano-ronaldo-viaja-este-domingo-para-riade_d1769460",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-03T23:42:02+00:00",
-      "summary": "",
-      "category": "Mundo"
+      "publishedAt": "2026-10-04T08:22:07+00:00",
+      "summary": "A viagem do jato privado de Ronaldo para Riade está marcada para a hora de almoço. É uma informação conhecida depois da polémica com o jogador ter marcado, novamente, a conferência de imprensa de antevisão do próximo encontro de Portugal na Liga das Nações, frente à Noruega.",
+      "category": "Esportes"
     },
     {
-      "title": "A Inteligência Artificial matou o autor?",
-      "url": "https://observador.pt/opiniao/a-inteligencia-artificial-matou-o-autor/",
-      "source": "Observador",
+      "title": "Criminalidade juvenil e delitos no meio digital aumentam no 1.º semestre",
+      "url": "https://www.rtp.pt/noticias/pais/criminalidade-juvenil-e-delitos-no-meio-digital-aumentam-no-1o-semestre_n1769456",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-03T23:30:29+00:00",
-      "summary": "E se a morte definitiva do autor tivesse chegado pelas mãos da máquina? E se a Inteligência Artificial tivesse desferido o derradeiro golpe na autoria tornando-se um super-autor?",
+      "publishedAt": "2026-10-04T08:12:41+00:00",
+      "summary": "A criminalidade juvenil subiu 11,6% no primeiro semestre deste ano, em termos homólogos, embora com um recuo de 44% dos delitos violentos, indicou hoje a GNR, que alerta para o aumento dos crimes no espaço digital.",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Mundo volátil: Brasil, Brexit e Kaliningrado",
-      "url": "https://observador.pt/opiniao/mundo-volatil-brasil-brexit-e-kaliningrado/",
-      "source": "Observador",
+      "title": "Colisão entre dois veículos ligeiros em Ponte do Rol causa quatro feridos graves",
+      "url": "https://www.rtp.pt/noticias/pais/colisao-entre-dois-veiculos-ligeiros-em-ponte-do-rol-causa-quatro-feridos-graves_n1769448",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-03T23:26:21+00:00",
-      "summary": "O problema é que a Europa Ocidental se habituou mal. Nas últimas décadas teve muita previsibilidade, segurança e prosperidade – também por cortesia dos EUA. Isso já não pode ser dado como garantido.",
+      "publishedAt": "2026-10-04T08:11:51+00:00",
+      "summary": "Uma colisão entre dois veículos ligeiros em Ponte do Rol, no concelho de Torres Vedras, distrito de Lisboa, causou hoje quatro feridos graves, indicou à Lusa a proteção civil.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Unidade de tratamento do jogo recebeu 50 utentes e caso com dívida de 3 milhões",
+      "url": "https://www.rtp.pt/noticias/pais/unidade-de-tratamento-do-jogo-recebeu-50-utentes-e-caso-com-divida-de-3-milhoes_n1769445",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T08:11:05+00:00",
+      "summary": "Um jogador que acumulou três milhões em dívidas está entre os casos mais graves acompanhados pela Unidade de Intervenção no Jogo de Lisboa, que recebeu meia centena de utentes nos primeiros três meses de funcionamento.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Dados não confirmam perceção do aumento da toxicodependência",
+      "url": "https://www.rtp.pt/noticias/pais/dados-nao-confirmam-percecao-do-aumento-da-toxicodependencia_n1769446",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T08:10:26+00:00",
+      "summary": "O aumento dos consumos problemáticos de droga torna mais visível a toxicodependência e cria a sensação de que há mais pessoas a consumir, mas os últimos dados nacionais não apontam nesse sentido, segundo o instituto das dependências.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dependência de álcool quase quadruplicou em Portugal mas só 20% estão em tratamento",
+      "url": "https://www.rtp.pt/noticias/pais/dependencia-de-alcool-quase-quadruplicou-em-portugal-mas-so-20-estao-em-tratamento_n1769447",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T08:06:56+00:00",
+      "summary": "A dependência de álcool quase quadruplicou em Portugal na última década, mas apenas 20% dos doentes estão em tratamento, alertou hoje o instituto para as dependências, reconhecendo que o país não tem conseguido travar o problema.",
+      "category": "Mundo"
+    },
+    {
+      "title": "12 documentários que estão dando o que falar; confira",
+      "url": "https://www.cnnbrasil.com.br/pop/cinema/12-documentarios-que-estao-dando-o-que-falar-confira/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-04T08:00:52+00:00",
+      "summary": "História de Elizabeth Holmes e títulos de Paul Thomas Anderson e Sofia Coppola estão na lista",
+      "category": "Mundo"
+    },
+    {
+      "title": "Trump apela ao voto em Ohio para travar avanço democrata e manter controlo do Senado",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-apela-ao-voto-em-ohio-para-travar-avanco-democrata-e-manter-controlo-do-senado_n1769441",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-04T08:00:33+00:00",
+      "summary": "O Presidente dos Estados Unidos, Donald Trump, prosseguiu este sábado, em Ohio, a digressão de comícios eleitorais a um mês das intercalares, num esforço para mobilizar a base conservadora para as urnas e travar o avanço democrata.",
+      "category": "Política"
+    },
+    {
+      "title": "Microcrédito: Como recurso pode auxiliar MEIs e gerar inclusão produtiva",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/microcredito-como-recurso-pode-auxiliar-meis-e-gerar-inclusao-produtiva/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-04T08:00:25+00:00",
+      "summary": "Em 5 de outubro, celebra-se o Dia Nacional da Microempresa e da Empresa de Pequeno Porte. Ações que combinam orientação, coragem e determinação podem transformar realidades e ajudar empresas crescerem",
       "category": "Economia"
     },
     {
-      "title": "Incógnitas e impasse",
-      "url": "https://observador.pt/opiniao/incognitas-e-impasse/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T23:24:29+00:00",
-      "summary": "Perante as mudança de identidade a que assistimos pelo mundo fora e a alteração nos partidos portugueses, Portugal confronta-se com incógnitas a que não sabemos dar resposta. Bem-vindos ao impasse.",
+      "title": "Lula e Flávio chegam à eleição com discurso de vitória em 1° turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-e-flavio-chegam-a-eleicao-com-discurso-de-vitoria-em-1-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-04T08:00:24+00:00",
+      "summary": "Presidente e candidato à reeleição, busca diminuir a abstenção de eleitores, enquanto o senador e filho do ex-presidente Jair Bolsonaro apela a pedidos do voto útil",
       "category": "Política"
     },
     {
-      "title": "Não é fácil ser um europeu médio",
-      "url": "https://observador.pt/opiniao/nao-e-facil-ser-um-europeu-medio/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T23:22:26+00:00",
-      "summary": "O macaco que singra na Europa pode até ganhar uma carreira universitária mas essa esforçada conquista vem mais do teatro de variedades do que das avenidas largas da emancipação.",
+      "title": "Data Fifa pode desfalcar Flamengo e Palmeiras no Brasileirão; entenda",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/data-fifa-pode-desfalcar-flamengo-e-palmeiras-no-brasileirao-entenda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-04T08:00:05+00:00",
+      "summary": "Com atletas convocados para as seleções da Argentina e Uruguai, clubes podem ter mais um obstáculo na briga pela liderança do Campeonato Brasileiro",
+      "category": "Esportes"
+    },
+    {
+      "title": "Portugal x Noruega: horário e onde assistir ao jogo da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/portugal-x-noruega-horario-e-onde-assistir-ao-jogo-da-nations-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-04T07:15:26+00:00",
+      "summary": "Seleções vão a campo neste domingo (4), no Estádio do Dragão, no Porto, pela 4ª rodada da competição",
+      "category": "Esportes"
+    },
+    {
+      "title": "Híbridos asiáticos ganham mercado nos EUA com alta dos combustíveis",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/hibridos-asiaticos-ganham-mercado-nos-eua-com-alta-dos-combustiveis/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-04T07:00:58+00:00",
+      "summary": "Com gasolina a US$ 4, Hyundai e Kia registram crescimento expressivo nas vendas de modelos eletrificados enquanto montadoras americanas ficam para trás",
       "category": "Economia"
     },
     {
-      "title": "00h. Mais de 134 mil eleitores votam em Portugal",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2437/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T23:17:23+00:00",
-      "summary": "Lista preparada pelo Tribunal Superior Eleitoral conta com mais de 78 mil eleitores em Lisboa e 48 mil no Porto. Ainda, Ventura vai presidir a CPI a Luís Neves.",
-      "category": "Mundo"
-    },
-    {
-      "title": "A ingenuidade dos moderados norte-americanos",
-      "url": "https://observador.pt/opiniao/a-ingenuidade-dos-moderados-norte-americanos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T23:15:55+00:00",
-      "summary": "Reformas não-reformistas e democracias não-democratas",
-      "category": "Mundo"
-    },
-    {
-      "title": "Antonio Gramsci e o marxismo",
-      "url": "https://observador.pt/opiniao/antonio-gramsci-e-o-marxismo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T23:14:10+00:00",
-      "summary": "Gramsci fez uma ruptura epistemológica no marxismo. Acabou com a sobredeterminação da esfera cultural e moral pela base económica. Foi este o contributo imorredouro de Gramsci.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Ciências ocultas na habitação",
-      "url": "https://observador.pt/opiniao/ciencias-ocultas-na-habitacao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T23:11:28+00:00",
-      "summary": "O senhor director do \"Expresso\", pessoa experiente em ciências ocultas, vem dizer que “Está na altura de tributar o património”.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Um alarme de 2014 para os riscos de 2026",
-      "url": "https://observador.pt/opiniao/um-alarme-de-2014-para-os-riscos-de-2026/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T23:08:33+00:00",
-      "summary": "Portugal tem uma lei para impedir que ativos estratégicos nacionais caiam em mãos erradas, mas foi escrita para um mundo que já não existe. E Bruxelas deu-nos um prazo para nos atualizarmos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "22h Presidente do Tribunal de Contas admite recorrer ao Constitucional por normas que considera contrárias à lei",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-por-normas-que-considera-contrarias-a-lei_a1_1769436",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T22:47:02+00:00",
-      "summary": "",
+      "title": "Presidente do TSE diz que voto é direito fundamental dos brasileiros",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/presidente-do-tse-diz-que-voto-e-direito-fundamental-dos-brasileiros",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-04T00:16:00+00:00",
+      "summary": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, destacou a importância do voto como direito dos brasileiros. \"O voto é direito fundamental e o principal instrumento de participação na vida pública. Por meio dele, cada cidadã e cada cidadão dá a sua contribuição para definir os rumos do",
       "category": "Política"
     },
     {
@@ -389,84 +362,12 @@
       "category": "Política"
     },
     {
-      "title": "Houthis do Iémen atacaram instalação da petrolífera Aramco em Riade",
-      "url": "https://www.rtp.pt/noticias/mundo/houthis-do-iemen-atacaram-instalacao-da-petrolifera-aramco-em-riade_n1769435",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T22:30:31+00:00",
-      "summary": "Os rebeldes houthis, apoiados pelo Irão, afirmaram ter atacado este sábado uma instalação da petrolífera saudita Aramco, em Riade, na sequência de ataques aéreos do exército da Arábia Saudita a Sanaa, capital do Iémen.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Reforma da Lei de Organização e Processo do Tribunal de Contas: Presidente do Tribunal de Contas admite recorrer ao Constitucional",
-      "url": "https://www.rtp.pt/noticias/economia/reforma-da-lei-de-organizacao-e-processo-do-tribunal-de-contas-presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional_v1769120",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T21:59:38+00:00",
-      "summary": "O Tribunal de Contas não pretende \"sair de cena\" e se for necessário vai bater à porta do Tribunal Constitucional para evitar a aplicação de certas normas previstas na reforma da Lei de Organização e Processo do Tribunal de Contas em discussão no Parlamento.",
-      "category": "Política"
-    },
-    {
       "title": "Saiba quais situações permitem acompanhante na cabine de votação",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-quais-situacoes-permitem-acompanhante-na-cabine-de-votacao",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-03T21:58:00+00:00",
       "summary": "Pais acompanhados de crianças devem ficar atentos no dia da votação. A legislação eleitoral permite que os pequenos sejam acompanhantes na hora da votação. No entanto, dentro da cabine, quem deve digitar os números na urna é o eleitor. Além de não poder interferir na votação, a criança também não pode comprometer o sig",
-      "category": "Mundo"
-    },
-    {
-      "title": "Movimento liderado por ex-candidato ao Vitória de Guimarães pede auditoria à SAD",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/movimento-liderado-por-ex-candidato-ao-vitoria-de-guimaraes-pede-auditoria-a-sad_d1769434",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T21:42:09+00:00",
-      "summary": "O movimento ‘Vencer, sentir, crescer’ (VSC) propôs ao presidente da mesa da assembleia geral (MAG) do Vitória de Guimarães que se vote a realização de uma auditoria económico-financeira à SAD na próxima reunião magna, informou hoje, em comunicado.",
-      "category": "Política"
-    },
-    {
-      "title": "Villas-Boas espera boa resolução no caso de Cristiano Ronaldo",
-      "url": "https://www.rtp.pt/noticias/fc-porto/villas-boas-espera-boa-resolucao-no-caso-de-cristiano-ronaldo_d1769433",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T21:41:32+00:00",
-      "summary": "O presidente do FC Porto, André Villas-Boas, disse hoje esperar que possa ser encontrada uma boa resolução para o caso do abandono de Cristiano Ronaldo do estágio da seleção portuguesa de futebol.",
-      "category": "Política"
-    },
-    {
-      "title": "Henrique Rocha apurado para a final do Porto Open sem jogar",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/henrique-rocha-apurado-para-a-final-do-porto-open-sem-jogar_d1769432",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T21:39:02+00:00",
-      "summary": "O tenista português Henrique Rocha qualificou-se hoje para a final do Porto Open, challenger de categoria 125, mesmo sem jogar, graças à desistência do suíço Jerome Kym, antes de entrar em campo no Complexo de Ténis do Monte Aventino.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Benfica vence Sorting no dérbi de basquetebol com reviravolta no final",
-      "url": "https://www.rtp.pt/noticias/sporting/benfica-vence-sorting-no-derbi-de-basquetebol-com-reviravolta-no-final_d1769431",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T21:37:19+00:00",
-      "summary": "O Benfica venceu hoje o Sporting, por 84-71, em jogo da 1ª jornada da fase regular do campeonato nacional de basquetebol, dominado pelos ‘leões’ até final do terceiro tempo, altura em que os ‘encarnados’ fizeram a reviravolta.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Central russo Aleksey Kovalchuk reforça voleibol do Sporting",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/central-russo-aleksey-kovalchuk-reforca-voleibol-do-sporting_d1769430",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T21:34:53+00:00",
-      "summary": "O russo Aleksey Kovalchuk vai reforçar a equipa de voleibol do Sporting, anunciou hoje o clube campeão português, sem revelar a duração do vínculo com o central.",
-      "category": "Mundo"
-    },
-    {
-      "title": "João Ferreira segundo em Marrocos, Ventura e Pinto vencem nas respetivas classes",
-      "url": "https://www.rtp.pt/noticias/motores/joao-ferreira-segundo-em-marrocos-ventura-e-pinto-vencem-nas-respetivas-classes_d1769429",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-03T21:32:33+00:00",
-      "summary": "João Ferreira (Toyota Hilux) terminou hoje em segundo lugar o Rali de Marrocos, quarta prova do Mundial de todo-o-terreno (W2RC), enquanto os portugueses Martim Ventura (Honda) e Alexandre Pinto (Taurus) venceram nas categorias Rally2 e Challenger, respetivamente.",
       "category": "Mundo"
     },
     {
@@ -513,15 +414,6 @@
       "publishedAt": "2026-10-03T17:16:00+00:00",
       "summary": "A análise de contas de candidaturas LGBT+ pela plataforma Sentinela indicou a publicação, desde o início do período eleitoral, de 13 mil comentários classificados como ofensivos com alvo definido, o que significa que foram dirigidos a uma pessoa ou candidatura identificável. Para chegar a esse resultado, a Sentinela se",
       "category": "Mundo"
-    },
-    {
-      "title": "TSE faz teste final de sistemas e emite zerézima",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-faz-teste-final-de-sistemas-e-emite-zer%C3%A9zima",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-03T16:43:00+00:00",
-      "summary": "O Tribunal Superior Eleitoral (TSE) fez neste sábado (3), véspera do primeiro turno das Eleições 2026 , um teste que confirmou a integridade e autenticidade dos sistemas eleitorais. Durante cerimônia na sede da Corte em Brasília, foi emitida a chamada zerézima, procedimento que garante a transparência e a segurança dos",
-      "category": "Política"
     }
   ],
   "sources": [
@@ -531,5 +423,10 @@
     "Observador",
     "RTP Notícias"
   ],
-  "failures": []
+  "failures": [
+    {
+      "source": "G1",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
 }
