@@ -1,176 +1,482 @@
 {
-  "updatedAt": "2026-10-05T01:57:35.538764+00:00",
+  "updatedAt": "2026-10-05T08:58:17.897878+00:00",
   "items": [
     {
-      "title": "1h Foi tudo um mal-entendido dizem Pedro Proença e Jorge Jesus, desvalorizam a crise Cristiano Ronaldo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-foi-tudo-um-mal-entendido-dizem-pedro-proenca-e-jorge-jesus-desvalorizam-a-crise-cristiano-ronaldo_a1_1769606",
+      "title": "09h Eleições antecipadas em Espanha a 29 de Novembro",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-eleicoes-antecipadas-em-espanha-a-29-de-novembro_a1_1769644",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-05T02:45:02+00:00",
+      "publishedAt": "2026-10-05T09:22:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Seis distritos sob aviso amarelo com previsão de trovoada",
+      "url": "https://www.rtp.pt/noticias/pais/seis-distritos-sob-aviso-amarelo-com-previsao-de-trovoada_n1769642",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T09:07:47+00:00",
+      "summary": "Os distritos da Guarda, Castelo Branco, Coimbra, Portalegre, Santarém e Évora vão estar sob aviso amarelo do Instituto Português do Mar e da Atmosfera devido à previsão de trovoadas, a partir das 12h00.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Primeira-ministra do Japão classifica China como um \"vizinho importante\"",
+      "url": "https://www.rtp.pt/noticias/mundo/primeira-ministra-do-japao-classifica-china-como-um-vizinho-importante_n1769633",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T09:04:56+00:00",
+      "summary": "A primeira-ministra do Japão classificou hoje a China como um \"vizinho importante\" e comprometeu-se a estabelecer uma relação estável entre as duas nações, num discurso sobre a política geral proferido no parlamento nipónico.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Exportações moçambicanas de madeira processada aumentaram mais de 300%",
+      "url": "https://www.rtp.pt/noticias/economia/exportacoes-mocambicanas-de-madeira-processada-aumentaram-mais-de-300_n1769635",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T09:04:37+00:00",
+      "summary": "As exportações moçambicanas de madeira processada aumentaram mais de 300% no primeiro semestre, para 24.648 metros cúbicos, tendo como destino, sobretudo, países asiáticos, segundo dados do Governo do país.",
+      "category": "Política"
+    },
+    {
+      "title": "Ataque informático extrai dados de 8,8 milhões de pessoas na Dinamarca",
+      "url": "https://www.rtp.pt/noticias/mundo/ataque-informatico-extrai-dados-de-88-milhoes-de-pessoas-na-dinamarca_n1769636",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T09:03:32+00:00",
+      "summary": "A base de dados das pessoas residentes ou registadas na Dinamarca foi alvo de um ataque informático, que permitiu o acesso aos dados de 8,8 milhões de pessoas, anunciou hoje o Ministério dinamarquês responsável pelas questões digitais.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Euro cai e inicia a semana em mínimos de 2025",
+      "url": "https://www.rtp.pt/noticias/economia/euro-cai-e-inicia-a-semana-em-minimos-de-2025_n1769638",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T09:03:16+00:00",
+      "summary": "O euro caiu hoje e atingiu os 1,1180 dólares, o nível mais baixo desde maio de 2025, a cerca de um mês das eleições intercalares nos EUA.",
+      "category": "Política"
+    },
+    {
+      "title": "\"Há muito tempo que Espanha precisa de eleições antecipadas\"",
+      "url": "https://observador.pt/programas/programa-comentarios/ha-muito-tempo-que-espanha-precisa-de-eleicoes-antecipadas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T08:52:05+00:00",
+      "summary": "Diogo Noivo, politólogo, acusa Pedro Sánchez de usar a crise da habitação para fugir das acusações de corrupção e de tentar mobilizar o eleitorado de esquerda, perante o bloqueio no país.",
+      "category": "Política"
+    },
+    {
+      "title": "Teatro do Bairro estreia a comédia \"O Casamento de Fígaro\"",
+      "url": "https://observador.pt/2026/10/05/teatro-do-bairro-estreia-a-comedia-o-casamento-de-figaro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T08:51:32+00:00",
+      "summary": "Em cena de 09 de outubro a 06 de novembro, a peça tem récitas de quarta a sexta-feira, às 21:00, e, ao domingo, às 17:00",
+      "category": "Mundo"
+    },
+    {
+      "title": "ONU: calor extremo ameaça segurança da gravidez e do parto",
+      "url": "https://observador.pt/2026/10/05/calor-extremo-ameaca-seguranca-da-gravidez-e-do-parto-alerta-a-onu/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T08:43:49+00:00",
+      "summary": "De acordo com as conclusões do inquérito, 81% dos profissionais de saúde estão preocupados com o crescente risco do calor para a saúde materna, fetal e neonatal",
+      "category": "Saúde"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Tanque D'Arca (AL): votação para presidente no Centro de Educação Infantil Dulce Ferreira Gomes, na 48ª zona eleitoral",
+      "url": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-tanque-d-arca-al-votacao-para-presidente-no-centro-de-educacao-infantil-dulce-ferreira-gomes-na-48a-zona-eleitoral-1.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:40:06+00:00",
+      "summary": "Resultado das Eleições 2026 em TANQUE D'ARCA (AL) Lula (PT) foi o candidato a presidente mais votado em Tanque D'Arca (AL), com 3.097 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 982 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade ",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Tanque D'Arca (AL): votação para presidente no Colegio Nossa Senhora Mae do Povo, na 48ª zona eleitoral",
+      "url": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-tanque-d-arca-al-votacao-para-presidente-no-colegio-nossa-senhora-mae-do-povo-na-48a-zona-eleitoral-1.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:40:04+00:00",
+      "summary": "Resultado das Eleições 2026 em TANQUE D'ARCA (AL) Lula (PT) foi o candidato a presidente mais votado em Tanque D'Arca (AL), com 3.097 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 982 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade ",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Tanque D'Arca (AL): votação para presidente no Grupo Rosa da Fonseca, na 48ª zona eleitoral",
+      "url": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-tanque-d-arca-al-votacao-para-presidente-no-grupo-rosa-da-fonseca-na-48a-zona-eleitoral-1.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:40:02+00:00",
+      "summary": "Resultado das Eleições 2026 em TANQUE D'ARCA (AL) Lula (PT) foi o candidato a presidente mais votado em Tanque D'Arca (AL), com 3.097 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 982 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade ",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Coronel João Sá (BA): votação para presidente no Câmara Municipal, na 52ª zona eleitoral",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-coronel-joao-sa-ba-votacao-para-presidente-no-camara-municipal-na-52a-zona-eleitoral.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:39:03+00:00",
+      "summary": "Resultado das Eleições 2026 em CORONEL JOÃO SÁ (BA) Lula (PT) foi o candidato a presidente mais votado em Coronel João Sá (BA), com 8.067 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 3.143 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na c",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Coronel João Sá (BA): votação para presidente na Escola Municipal Santa Bárbara, na 52ª zona eleitoral",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-coronel-joao-sa-ba-votacao-para-presidente-na-escola-municipal-santa-barbara-na-52a-zona-eleitoral.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:38:58+00:00",
+      "summary": "Resultado das Eleições 2026 em CORONEL JOÃO SÁ (BA) Lula (PT) foi o candidato a presidente mais votado em Coronel João Sá (BA), com 8.067 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 3.143 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na c",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Coronel João Sá (BA): votação para presidente na Escola Municipal Barra Larga, na 52ª zona eleitoral",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-coronel-joao-sa-ba-votacao-para-presidente-na-escola-municipal-barra-larga-na-52a-zona-eleitoral.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:38:50+00:00",
+      "summary": "Resultado das Eleições 2026 em CORONEL JOÃO SÁ (BA) Lula (PT) foi o candidato a presidente mais votado em Coronel João Sá (BA), com 8.067 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 3.143 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na c",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Coronel João Sá (BA): votação para presidente na Escola Municipal São Bento, na 52ª zona eleitoral",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-coronel-joao-sa-ba-votacao-para-presidente-na-escola-municipal-sao-bento-na-52a-zona-eleitoral.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:38:36+00:00",
+      "summary": "Resultado das Eleições 2026 em CORONEL JOÃO SÁ (BA) Lula (PT) foi o candidato a presidente mais votado em Coronel João Sá (BA), com 8.067 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 3.143 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na c",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Coronel João Sá (BA): votação para presidente na Escola Municipal Samambaia, na 52ª zona eleitoral",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-coronel-joao-sa-ba-votacao-para-presidente-na-escola-municipal-samambaia-na-52a-zona-eleitoral.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:38:23+00:00",
+      "summary": "Resultado das Eleições 2026 em CORONEL JOÃO SÁ (BA) Lula (PT) foi o candidato a presidente mais votado em Coronel João Sá (BA), com 8.067 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 3.143 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na c",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Coronel João Sá (BA): votação para presidente na Escola Municipal Lagoa dos Currais, na 52ª zona eleitoral",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-coronel-joao-sa-ba-votacao-para-presidente-na-escola-municipal-lagoa-dos-currais-na-52a-zona-eleitoral.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:38:21+00:00",
+      "summary": "Resultado das Eleições 2026 em CORONEL JOÃO SÁ (BA) Lula (PT) foi o candidato a presidente mais votado em Coronel João Sá (BA), com 8.067 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 3.143 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na c",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Coronel João Sá (BA): votação para presidente na Escola Municipal Curral dos Altos, na 52ª zona eleitoral",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-coronel-joao-sa-ba-votacao-para-presidente-na-escola-municipal-curral-dos-altos-na-52a-zona-eleitoral.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:38:19+00:00",
+      "summary": "Resultado das Eleições 2026 em CORONEL JOÃO SÁ (BA) Lula (PT) foi o candidato a presidente mais votado em Coronel João Sá (BA), com 8.067 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 3.143 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na c",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Coronel João Sá (BA): votação para presidente na Escola Municipal Alagoas 1, na 52ª zona eleitoral",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-coronel-joao-sa-ba-votacao-para-presidente-na-escola-municipal-alagoas-1-na-52a-zona-eleitoral.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:38:15+00:00",
+      "summary": "Resultado das Eleições 2026 em CORONEL JOÃO SÁ (BA) Lula (PT) foi o candidato a presidente mais votado em Coronel João Sá (BA), com 8.067 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 3.143 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na c",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado das eleições 2026 em Coronel João Sá (BA): votação para presidente na Escola Municipal Maria da Soledade, na 52ª zona eleitoral",
+      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-coronel-joao-sa-ba-votacao-para-presidente-na-escola-municipal-maria-da-soledade-na-52a-zona-eleitoral.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:38:10+00:00",
+      "summary": "Resultado das Eleições 2026 em CORONEL JOÃO SÁ (BA) Lula (PT) foi o candidato a presidente mais votado em Coronel João Sá (BA), com 8.067 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 3.143 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na c",
+      "category": "Política"
+    },
+    {
+      "title": "Lena Aires. Da primeira ModaLisboa ao upcycling náutico",
+      "url": "https://observador.pt/especiais/lena-aires-da-primeira-modalisboa-ao-upcycling-nautico-com-apoio-do-filho-velejador-este-material-tem-pano-para-mangas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T08:35:19+00:00",
+      "summary": "A criadora que se estreou nas Manobras de Maio, em 1986, uma das pioneiras da ModaLisboa, fechou a icónica loja no Bairro Alto em 2016. Agora regressa com peças únicas feitas de velas usadas.",
+      "category": "Cultura"
+    },
+    {
+      "title": "O regresso de \"Carrie\" e dos Oasis: as estreias da semana",
+      "url": "https://observador.pt/2026/10/05/do-regresso-de-carrie-a-reuniao-dos-oasis-seis-series-tres-filmes-e-um-especial-de-comedia-em-estreia-esta-semana/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T08:23:48+00:00",
+      "summary": "A nova adaptação de \"Carrie\"estreia-se na Prime Video na quarta-feira, dia 7 de outubro",
+      "category": "Mundo"
+    },
+    {
+      "title": "08h Espanha avança para eleições antecipadas",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/08h-espanha-avanca-para-eleicoes-antecipadas_a1_1769637",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T08:22:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "9h. Sánchez apela a reforço de \"maioria progressista\"",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2492/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T08:20:19+00:00",
+      "summary": "Pedro Sánchez reúne esta manhã o executivo num Conselho de Ministros para dissolver o Parlamento. Ainda, Jorge Jesus e Pedro Proença comentam 'caso Ronaldo'.",
+      "category": "Política"
+    },
+    {
+      "title": "Gaiolas para bebês em janelas: porque mães penduravam filhos a dezenas de metros do chão na década de 1930?",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/gaiolas-para-bebes-em-janelas-porque-maes-penduravam-filhos-a-dezenas-de-metros-do-chao-na-decada-de-1930/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:17:40+00:00",
+      "summary": "Invenção criada nos Estados Unidos e popularizada em Londres buscava garantir sol e ar puro para crianças em apartamentos sem quintal",
+      "category": "Mundo"
+    },
+    {
+      "title": "O que já garantiu Bolsonaro com a vitória na 1ª volta?",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/o-que-ja-garantiu-bolsonaro-com-a-vitoria-na-1a-volta/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T08:14:48+00:00",
+      "summary": "O bolsonarismo venceu na 1ª volta das eleições gerais do Brasil. Do Senado aos governadores, há derrota do PT. Na 2ª volta, Lula terá de fazer o que nunca foi feito. Uma conversa com Pedro Benevides.",
+      "category": "Política"
+    },
+    {
+      "title": "Crise política em Espanha. Pedro Sánchez anuncia eleições antecipadas para 29 de novembro",
+      "url": "https://www.rtp.pt/noticias/mundo/crise-politica-em-espanha-pedro-sanchez-anuncia-eleicoes-antecipadas-para-29-de-novembro_n1769632",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T08:09:26+00:00",
+      "summary": "O presidente do Governo espanhol fez uma comunicação ao seu país, ao início da manhã, para reprovar o que descreveu como bloqueios sucessivos por parte da oposição.",
+      "category": "Política"
+    },
+    {
+      "title": "No estado que sempre acerta presidente, Flávio vence Lula em MG no 1º turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/no-estado-que-sempre-acerta-presidente-flavio-vence-lula-em-mg-no-1o-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:08:24+00:00",
+      "summary": "Petista vence em mais cidades, mas candidato do PL leva vantagem nos municípios mais populosos; nunca um presidente foi eleito após perder em Minas",
+      "category": "Política"
+    },
+    {
+      "title": "CEO da OpenAI afirma que benefícios da IA ​​justificam alguns riscos",
+      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ceo-da-openai-afirma-que-beneficios-da-ia-justificam-alguns-riscos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:00:11+00:00",
+      "summary": "Sam Altman critica visão de concentrar controle da tecnologia em um único laboratório em nome da segurança",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Caso Pernambucanas: documentário chega à TV aberta; veja como assistir",
+      "url": "https://www.cnnbrasil.com.br/pop/tv/caso-pernambucanas-documentario-chega-a-tv-aberta-veja-como-assistir/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T08:00:07+00:00",
+      "summary": "Produção \"O Testamento: O Segredo de Anita Harley\" será exibida semanalmente na televisão aberta",
+      "category": "Mundo"
+    },
+    {
+      "title": "5 de Outubro. Seguro estreia-se em discursos presidenciais do Dia da Implantação da República",
+      "url": "https://www.rtp.pt/noticias/politica/5-de-outubro-seguro-estreia-se-em-discursos-presidenciais-do-dia-da-implantacao-da-republica_e1769630",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T07:52:26+00:00",
+      "summary": "Assinala-se esta segunda-feira o Dia da Implantação da República. A Câmara Municipal de Lisboa é o palco da cerimónia que acompanhamos, aqui, ao minuto.",
+      "category": "Política"
+    },
+    {
+      "title": "Lula perdeu em mais de 700 cidades que ganhou em 2022 para Flávio em 2026",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-perdeu-em-mais-de-700-cidades-que-ganhou-em-2022-para-flavio-em-2026/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T07:30:45+00:00",
+      "summary": "Dentre os estados, Minas Gerais e Tocantins, conquistados pelo PT na última eleição, deram maioria dos votos ao PL neste pleito",
+      "category": "Política"
+    },
+    {
+      "title": "França x Bélgica: horário e onde assistir ao jogo da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/franca-x-belgica-horario-e-onde-assistir-ao-jogo-da-nations-league-2/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T07:30:08+00:00",
+      "summary": "Equipes se enfrentam nesta segunda-feira (5), no Stade de France, pela quarta rodada do Grupo A1 da competição de seleções",
+      "category": "Esportes"
+    },
+    {
+      "title": "Seca pode dificultar abastecimento de térmicas em Roraima, diz Âmbar",
+      "url": "https://www.cnnbrasil.com.br/infra/seca-pode-dificultar-abastecimento-de-termicas-em-roraima-diz-ambar/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T07:30:05+00:00",
+      "summary": "Entre as ações para enfrentamento da estiagem severa prevista para 2026 no Estado, a distribuidora prevê reforço de combustível , mas não ter plano formal de manutenção em 21 pequenas usinas",
+      "category": "Economia"
+    },
+    {
+      "title": "Em ano eleitoral, estados chegam a 98 contratos de PPPs e concessões",
+      "url": "https://www.cnnbrasil.com.br/infra/em-ano-eleitoral-estados-chegam-a-98-contratos-de-ppps-e-concessoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T07:30:03+00:00",
+      "summary": "Ao todo foram 288 iniciativas no período de 2023 a 2026, alta de 31% em relação aos quatro anos anteriores",
+      "category": "Mundo"
+    },
+    {
+      "title": "Arnaldo Jardim vê “descritério” no custeio de baterias e quer manter leilão",
+      "url": "https://www.cnnbrasil.com.br/infra/arnaldo-jardim-ve-descriterio-no-custeio-de-baterias-e-quer-manter-leilao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T07:30:02+00:00",
+      "summary": "À CNN, deputado defende manter contratação de dezembro apesar do risco de judicialização; divisão da conta entre geradores e consumidores opõe agentes do setor À CNN, deputado defende manter contratação de dezembro apesar do risco de judicialização; divisão da conta entre geradores e consumidores opõe agentes do setor",
+      "category": "Mundo"
+    },
+    {
+      "title": "07h Brasil avança para segunda volta",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/07h-brasil-avanca-para-segunda-volta_a1_1769629",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T07:24:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Mulher, dois filhos e um irmão do ex-presidente Jair Bolsonaro eleitos",
-      "url": "https://www.rtp.pt/noticias/mundo/mulher-dois-filhos-e-um-irmao-do-ex-presidente-jair-bolsonaro-eleitos_n1769602",
+      "title": "8h. O anúncio de Sanchez. Eleições a 29 de Novembro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2539/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T07:23:57+00:00",
+      "summary": "Pedro Sánchez anuncia eleições antecipadas em Espanha para o dia 29 do próximo mês de novembro. Ainda, Flávio Bolsonaro vence a primeira volta das eleições gerais do Brasil.",
+      "category": "Política"
+    },
+    {
+      "title": "Sánchez convoca eleições antecipadas para 29 de novembro",
+      "url": "https://observador.pt/2026/10/05/espanha-pedro-sanchez-convoca-eleicoes-antecipadas-para-29-de-novembro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T07:23:07+00:00",
+      "summary": "Presidente do Governo espanhol antecipou ato eleitoral depois de um fim de semana em que auscultou membros do executivo e do partido. As próximas eleições legislativas deveriam ocorrer em 2027.",
+      "category": "Política"
+    },
+    {
+      "title": "Startups dos EUA buscam alternativas aos componentes “made in China”",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/startups-dos-eua-buscam-alternativas-aos-componentes-made-in-china/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T07:15:02+00:00",
+      "summary": "Rivalidade entre superpotências pressiona empresas americanas a substituir peças chinesas, mas especialistas alertam para custos e desafios do processo",
+      "category": "Economia"
+    },
+    {
+      "title": "Austrália investiga alegadas ligações ao país do copiloto de voo da Flydubai",
+      "url": "https://www.rtp.pt/noticias/mundo/australia-investiga-alegadas-ligacoes-ao-pais-do-copiloto-de-voo-da-flydubai_n1769628",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-05T02:02:45+00:00",
-      "summary": "Quatro membros da família Bolsonaro, dos seis que disputaram as eleições gerais de domingo no Brasil, foram eleitos hoje para cargos do poder legislativo.",
-      "category": "Política"
+      "publishedAt": "2026-10-05T07:10:20+00:00",
+      "summary": "As autoridades da Austrália confirmaram hoje que estão a investigar alegadas ligações ao país do copiloto de um voo da Flydubai que terá atacado o piloto durante uma viagem para Israel.",
+      "category": "Esportes"
     },
     {
-      "title": "Eleições 2026: Paulo Martins (Novo) é eleito deputado federal pelo Paraná",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-paulo-martins-novo-e-eleito-deputado-federal-pelo-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:54:29+00:00",
-      "summary": "Paulo Martins (Novo) foi eleito deputado federal pelo Paraná nas Eleições 2026, com 44.029 votos, o equivalente a 0,70% dos votos válidos no estado. Ele foi o 30º candidato mais votado do estado para o cargo. O município em que teve mais votos foi Paraná (44.029 votos). Paulo Martins volta à Câmara dos Deputados, onde ",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: Luizão Goulart (PSD) é eleito deputado federal pelo Paraná",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-luizao-goulart-psd-e-eleito-deputado-federal-pelo-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:54:28+00:00",
-      "summary": "Luizão Goulart (PSD) foi eleito deputado federal pelo Paraná nas Eleições 2026, com 63.480 votos, o equivalente a 1,02% dos votos válidos no estado. Ele foi o 26º candidato mais votado do estado para o cargo. O município em que teve mais votos foi Paraná (63.480 votos). Luizão Goulart volta à Câmara dos Deputados, onde",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: Flávio Bolsonaro e Tarcísio lideram votação em todas as cidades da região de Campinas; veja onde disputa foi mais acirrada",
-      "url": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-flavio-bolsonaro-e-tarcisio-lideram-votacao-em-todas-as-cidades-da-regiao-de-campinas-veja-onde-disputa-foi-mais-acirrada.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:54:24+00:00",
-      "summary": "Flávio Bolsonaro e Tarcísio de Freitas foram os candidatos mais votados para presidente e governador na região de Campinas (SP). Reprodução O candidato à presidência Flávio Bolsonaro obteve mais votos que os adversários em todas as 31 cidades da área de cobertura do g1 Campinas no primeiro turno das Eleições 2026. Fláv",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: Henrique Mecabô (Novo) é eleito deputado federal pelo Paraná",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-henrique-mecabo-novo-e-eleito-deputado-federal-pelo-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:54:22+00:00",
-      "summary": "Henrique Mecabô (Novo) foi eleito deputado federal pelo Paraná nas Eleições 2026, com 65.706 votos, o equivalente a 1,05% dos votos válidos no estado. Ele foi o 25º candidato mais votado do estado para o cargo. O município em que teve mais votos foi Cascavel (35.677 votos). Este será o primeiro mandato de Henrique Meca",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: Paranhos (PSD) é eleito deputado federal pelo Paraná",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-paranhos-psd-e-eleito-deputado-federal-pelo-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:54:22+00:00",
-      "summary": "Paranhos (PSD) foi eleito deputado federal pelo Paraná nas Eleições 2026, com 99.070 votos, o equivalente a 1,59% dos votos válidos no estado. Ele foi o 14º candidato mais votado do estado para o cargo. O município em que teve mais votos foi Cascavel (54.058 votos). Este será o primeiro mandato de Paranhos na Câmara do",
-      "category": "Política"
-    },
-    {
-      "title": "Veja os 8 deputados federais eleitos pelo Rio Grande do Norte em 2026",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/veja-os-8-deputados-federais-eleitos-pelo-rio-grande-do-norte-em-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:54:05+00:00",
-      "summary": "RN tem oito representantes na Câmara dos Deputados Agência Brasil Os eleitores do Rio Grande do Norte definiram neste domingo (4) os oito representantes do estado na Câmara dos Deputados a partir de 2027. Destes, cinco deles garantiram a reeleição e os outros três são novos nomes na bancada (confira abaixo o resultado ",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: veja como foi 1º turno nas cidades do Norte, Centro e Noroeste de MG",
-      "url": "https://g1.globo.com/mg/grande-minas/eleicoes/2026/ao-vivo/eleicoes-2026-acompanhe-a-cobertura-do-1-turno-no-norte-centro-e-noroeste-de-minas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:53:14+00:00",
-      "summary": "Eleições 2026: veja como foi 1º turno nas cidades do Norte, Centro e Noroeste de MG Resultados do primeiro turno são atualizados em tempo real. Veja a apuração nas cidades do Norte, Centro e Noroeste de Minas.",
-      "category": "Política"
-    },
-    {
-      "title": "Veja o resultado da votação em cada cidade da região de Presidente Prudente",
-      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/04/veja-o-resultado-da-votacao-em-cada-cidade-da-regiao-de-presidente-prudente.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:52:38+00:00",
-      "summary": "Eleições 2026; urna eletrônica; votação Aline Costa/TV TEM O g1 Presidente Prudente e Região compilou o resultado da votação em cada um dos 55 municípios da região neste segundo turno das eleições de 2026, com a apuração em tempo real, neste domingo (4), conforme os dados do Tribunal Superior Eleitoral (TSE). Como as e",
-      "category": "Política"
-    },
-    {
-      "title": "Nikolas Ferreira recebe quase 30% dos votos válidos para a Câmara em MG e se torna o deputado mais votado da história do país",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/04/nikolas-ferreira-recorde-votacao-deputado.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:52:15+00:00",
-      "summary": "Nikolas Ferreira fala com apoiadores após vitória histórica nas urnas O deputado federal Nikolas Ferreira (PL-MG) se reelegeu para a Câmara dos Deputados com 3.118.784 votos na eleição deste domingo (4) e se consagra como o parlamentar mais votado da história do país, conforme resultado registrado após a apuração de 99",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: quantidade de eleitores com deficiência aumenta mais de 70% em quatro anos no Acre",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-quantidade-de-eleitores-com-deficiencia-aumenta-mais-de-70percent-em-quatro-anos-no-acre.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:52:12+00:00",
-      "summary": "Do total de eleitores PcD em 2026, 5.332 têm voto obrigatório e 3.161 têm voto facultativo Paulo Henrique Marques/g1 ♿O número de eleitores com deficiência cresceu mais de 70% entre 2022 e 2026 no Acre, segundo dados do Tribunal Superior Eleitoral (TSE). Para o pleito de 2026, o estado acreano tem 8.493 eleitores com d",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: Rosangela Moro (PL) é eleita deputada federal pelo Paraná",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-rosangela-moro-pl-e-eleita-deputada-federal-pelo-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:52:12+00:00",
-      "summary": "Rosangela Moro (PL) foi eleita deputada federal pelo Paraná nas Eleições 2026, com 146.417 votos, o equivalente a 2,34% dos votos válidos no estado. Ela foi a 7ª candidata mais votada do estado para o cargo. O município em que teve mais votos foi Curitiba (30.525 votos). Rosangela Moro foi reeleita e cumprirá seu 2º ma",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: Delegado Francischini (PL) é eleito deputado federal pelo Paraná",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-delegado-francischini-pl-e-eleito-deputado-federal-pelo-parana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:52:05+00:00",
-      "summary": "Delegado Francischini (PL) foi eleito deputado federal pelo Paraná nas Eleições 2026, com 53.207 votos, o equivalente a 0,85% dos votos válidos no estado. Ele foi o 28º candidato mais votado do estado para o cargo. O município em que teve mais votos foi Paraná (53.207 votos). Delegado Francischini volta à Câmara dos De",
-      "category": "Política"
-    },
-    {
-      "title": "A onda do PL e os recordes. Os números da noite eleitoral",
-      "url": "https://observador.pt/2026/10/05/a-onda-do-pl-os-lugares-do-apelido-bolsonaro-e-os-recordes-de-michelle-e-nikolas-os-numeros-da-primeira-volta-das-eleicoes/",
-      "source": "Observador",
+      "title": "Oposição timorense quer que presidente repense nomeação do líder do Tribunal de Recurso",
+      "url": "https://www.rtp.pt/noticias/mundo/oposicao-timorense-quer-que-presidente-repense-nomeacao-do-lider-do-tribunal-de-recurso_n1769627",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-05T01:40:07+00:00",
-      "summary": "Michelle Bolsonaro bateu o recorde de número de votos num candidato ao Senado e faz parte da primeira bancada exclusivamente feminina",
+      "publishedAt": "2026-10-05T07:10:09+00:00",
+      "summary": "A Frente Revolucionária do Timor-Leste Independente (Fretilin) pediu hoje ao Presidente timorense José Ramos-Horta para reavaliar as nomeações que fez para a presidência do Tribunal de Recurso e para a liderança da Procuradoria-Geral da República, por alegada falta de profissionalismo.",
       "category": "Política"
     },
     {
-      "title": "Conheça os 55 deputados estaduais eleitos pelo Rio Grande do Sul em 2026",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/conheca-os-55-deputados-estaduais-eleitos-pelo-rio-grande-do-sul-em-2026/",
+      "title": "Eleições: TSE ainda totaliza seções finais após atraso no sistema de dados",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-tse-ainda-totaliza-secoes-finais-apos-atraso-no-sistema-de-dados/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-05T01:24:18+00:00",
-      "summary": "PL elegeu a maior bancada do estado na Assembleia Legislativa, com 12 deputados",
+      "publishedAt": "2026-10-05T07:00:56+00:00",
+      "summary": "Às 23h41 de domingo, 22 das 499.248 seções ainda não haviam sido totalizadas; Corte atribuiu atraso de cerca de uma hora a congestionamento no sistema de divulgação",
+      "category": "Política"
+    },
+    {
+      "title": "Metade dos governadores eleitos apoiaram Flávio no primeiro turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/governadores-eleitos-flavio-lula/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T06:38:53+00:00",
+      "summary": "Candidato do PL tem palanques encaminhados em seis das sete disputas de segundo turno",
       "category": "Mundo"
     },
     {
-      "title": "Kassio diz que TSE vai priorizar transparência e didatismo em pesquisas",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/kassio-diz-que-tse-vai-priorizar-transparencia-e-didatismo-em-pesquisas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:24:03+00:00",
-      "summary": "Presidente da Corte deixa selo de acurácia em segundo plano após críticas e afirma que foco no 2º turno será tornar registros mais claros e acessíveis ao eleitor",
-      "category": "Política"
-    },
-    {
-      "title": "Carlos Viana não é reeleito senador em Minas Gerais",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/carlos-viana-nao-e-reeleito-senador-em-minas-gerais/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:23:09+00:00",
-      "summary": "Com 99,85% das urnas apuradas, parlamentar obteve 17,47% dos votos; Domingos Sávio (PL-MG) e Marília Campos (PT-MG) foram eleitos para as duas vagas disponíveis",
-      "category": "Política"
-    },
-    {
-      "title": "As notícias das 2h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2431/",
+      "title": "7h. Eleições. Brasileiros voltam às urnas no fim do mês",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2526/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-05T01:19:21+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "publishedAt": "2026-10-05T06:17:28+00:00",
+      "summary": "No discurso pós resultados, Flávio Bolsonaro diz que precisa apenas de um mandato à frente do Brasil. Ainda, António Seguro discursa hoje pela primeira vez para assinalar Implantação da República.",
+      "category": "Política"
+    },
+    {
+      "title": "6h. Flávio Bolsonaro vence 1.ª volta e diz que PT acabou",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2515/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T05:16:06+00:00",
+      "summary": "O candidato do Partido Liberal teve 47% dos votos e ultrapassou os números do pai, Jair Bolsonaro em 2018. Ainda, Portugal vence a Noruega por 2-1 e consegue o apuramento para os quartos-de-final.",
+      "category": "Política"
+    },
+    {
+      "title": "Sobre ter gatos e ir de viagem c/ O Gato Fica",
+      "url": "https://observador.pt/programas/terapia-de-casal/sobre-ter-gatos-e-ir-de-viagem-c-o-gato-fica/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-05T05:05:30+00:00",
+      "summary": "Sempre que vamos viajar pedimos ao \"O Gato Fica\" para tratar dos nossos gatos. Nesta conversa com a Joana Soares fazemos as perguntas todas que sempre quisemos fazer a petsitters profissionais.",
       "category": "Mundo"
+    },
+    {
+      "title": "Quando será o segundo turno das eleições? Veja a data",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/quando-sera-o-segundo-turno-das-eleicoes-veja-data",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T02:25:00+00:00",
+      "summary": "Os candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) irão disputar o segundo turno da eleição para presidente da República. Com isso, os eleitores voltam às urnas para o segundo turno no dia 25 de outubro de 2026 (domingo). Flávio terminou a apuração em primeiro lugar, com 47,03% dos votos válidos, o eq",
+      "category": "Política"
+    },
+    {
+      "title": "TSE vai trabalhar para diminuir a abstenção no segundo turno",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-vai-trabalhar-para-diminuir-abstencao-no-segundo-turno",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T02:06:00+00:00",
+      "summary": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, afirmou neste domingo (4) que pretende trabalhar para diminuir a abstenção de eleitores no segundo turno. De acordo com os dados do sistema de totalização de votos do TSE, o primeiro turno registrou abstenção de 21,08%, percentual equivalente a 33",
+      "category": "Política"
+    },
+    {
+      "title": "Kassio diz que não há alerta de interferência nas eleições brasileiras",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-diz-que-nao-ha-alerta-de-interferencia-nas-eleicoes-brasileiras",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T01:57:00+00:00",
+      "summary": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, afirmou neste domingo (4) que não foi constatada nenhuma intercorrência no primeiro turno das eleições que possa ser caracterizada como interferência estrangeira no pleito. Em coletiva de imprensa para apresentar um balanço sobre o trabalho da Jus",
+      "category": "Política"
+    },
+    {
+      "title": "Reeleito em SP, Tarcísio promete mais entregas para o próximo mandato",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/reeleito-em-sp-tarcisio-promete-mais-entregas-para-o-proximo-mandato",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T01:31:00+00:00",
+      "summary": "O governador Tarcísio de Freitas (Republicanos), que foi reeleito neste domingo (4), fez um discurso de agradecimento após a apuração que lhe deu a vitória em primeiro turno contra Fernando Haddad, candidato pelo Partido dos Trabalhadores (PT). “Podem ter certeza que os quatro anos que virão serão ainda melhores do que",
+      "category": "Política"
+    },
+    {
+      "title": "Veja os 20 estados onde o governador foi eleito no 1º turno",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-os-20-estados-onde-o-governador-foi-eleito-no-1o-turno",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-05T01:28:00+00:00",
+      "summary": "A eleição para governador foi encerrada no primeiro turno, neste domingo, em 20 estados. Os vencedores conseguiram alcançar mais da metade (50% mais um) dos votos válidos, sem considerar os brancos e nulos, e foram eleitos. Do total de governadores eleitos neste domingo (4), oito são do Nordeste, quatro do Norte, três ",
+      "category": "Política"
     },
     {
       "title": "Congestionamento no sistema de dados gerou atraso na apuração, diz TSE",
@@ -182,93 +488,12 @@
       "category": "Política"
     },
     {
-      "title": "SP registra 112 ocorrências e 59 detidos durante Operação Eleições 2026",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-registra-112-ocorrencias-e-59-detidos-durante-operacao-eleicoes-2026/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:12:49+00:00",
-      "summary": "Maioria dos casos registrados pela Secretaria da Segurança Pública envolve crimes de boca de urna em todo o estado paulista",
-      "category": "Política"
-    },
-    {
-      "title": "Quem é Eduarda Campopiano, deputada estadual mais votada de São Paulo",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-eduarda-campopiano-deputada-estadual-mais-votada-de-sao-paulo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:11:25+00:00",
-      "summary": "Candidata pelo PL (Partido Liberal), a jovem de 23 anos recebeu mais de 1,9 milhão de votos",
-      "category": "Política"
-    },
-    {
-      "title": "Conheça os 8 deputados federais eleitos por Sergipe em 2026",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/conheca-os-8-deputados-federais-eleitos-por-sergipe-em-2026/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:10:18+00:00",
-      "summary": "União e PSD elegeram as maiores bancadas do estado na Câmara, com 2 deputados cada; 2 dos 8 eleitos são mulheres",
-      "category": "Política"
-    },
-    {
-      "title": "Veja os 24 deputados estaduais eleitos por Sergipe",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/veja-os-24-deputados-estaduais-eleitos-por-sergipe/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:10:18+00:00",
-      "summary": "União elegeu a maior bancada do estado na Assembleia Legislativa, com 6 deputados",
-      "category": "Mundo"
-    },
-    {
-      "title": "TSE vai atuar para diminuir pencentual de abstenção no 2º turno, diz Kassio",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-vai-atuar-para-diminuir-pencentual-de-abstencao-no-2o-turno-diz-kassio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:10:06+00:00",
-      "summary": "Presidente do TSE afirmou que a abstenção ficou dentro do esperado, mas disse que a Justiça Eleitoral pretende reforçar ações para ampliar o comparecimento no segundo turno",
-      "category": "Política"
-    },
-    {
-      "title": "PF apura 4 crimes eleitorais durante votação no Pará",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/pf-apura-4-crimes-eleitorais-durante-votacao-no-para/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:07:33+00:00",
-      "summary": "Casos ocorreram em Belém, Ananindeua e Marituba e envolvem suspeitas de falsidade ideológica eleitoral, boca de urna e violação do sigilo do voto",
-      "category": "Mundo"
-    },
-    {
       "title": "Espírito Santo terá 2º turno entre Lorenzo Pazolini e Ricardo Ferraço",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/espirito-santo-tera-2o-turno-entre-lorenzo-pazolini-e-ricardo-ferraco",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-05T01:06:00+00:00",
       "summary": "Lorenzo Pazolini (Republicanos) e Ricardo Ferraço (MDB) vão disputar o segundo turno da eleição para governador do Espírito Santo. Os dois candidatos foram os mais votados no primeiro turno, realizado neste domingo (4), segundo dados do Tribunal Superior Eleitoral (TSE). Com 100% das urnas apuradas, Pazolini ficou em p",
-      "category": "Política"
-    },
-    {
-      "title": "Waack: Resultado inesperado do 1° turno é bomba eleitoral",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/waack-resultado-inesperado-do-1-turno-e-bomba-eleitoral/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:05:04+00:00",
-      "summary": "O presidente Luiz Inácio Lula da Silva está dentro de uma tendência mundial hoje de desencanto com quem está no poder",
-      "category": "Política"
-    },
-    {
-      "title": "TSE não registrou nenhum alerta de intercorrência estrangeira, diz Kassio",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-nao-registrou-nenhum-alerta-de-intercorrencia-estrangeira-diz-kassio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:04:38+00:00",
-      "summary": "Presidente do TSE afirmou que a Corte não recebeu alertas sobre atuação externa durante a votação e disse que o primeiro turno transcorreu sem ocorrências graves",
-      "category": "Política"
-    },
-    {
-      "title": "Lula diz que fará apelo contra abstenções no 2º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-fara-apelo-contra-abstencoes-no-2o-turno/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T01:03:07+00:00",
-      "summary": "Presidente afirmou que foco no segundo turno será buscar votos de eleitores que se abstiveram",
       "category": "Política"
     },
     {
@@ -290,15 +515,6 @@
       "category": "Política"
     },
     {
-      "title": "0h Eleição presidencial no Brasil, tudo aponta para uma segunda volta",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-eleicao-presidencial-no-brasil-tudo-aponta-para-uma-segunda-volta_a1_1769594",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-05T00:44:01+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
       "title": "Alagoas elege JHC governador no primeiro turno",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alagoas-elege-jhc-governador-no-primeiro-turno",
       "source": "Agência Brasil",
@@ -306,222 +522,6 @@
       "publishedAt": "2026-10-05T00:42:00+00:00",
       "summary": "JHC foi eleito governador de Alagoas neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PSDB obteve 52,09% dos votos válidos, o equivalente a 873.978 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Até as 21h38, 98,28% das urnas haviam sido totalizadas no estado. Com o resultado, ele e",
       "category": "Política"
-    },
-    {
-      "title": "Douglas Ruas e Eduardo Paes disputam o 2º turno para o governo do Rio",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/douglas-ruas-e-eduardo-paes-disputam-o-2o-turno-para-o-governo-do-rio",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T00:42:00+00:00",
-      "summary": "Douglas Ruas (PL) e Eduardo Paes (PSD) vão disputar o segundo turno da eleição para governador do Rio de Janeiro. Os dois candidatos foram os mais votados no primeiro turno, realizado neste domingo (4), segundo dados do Tribunal Superior Eleitoral (TSE). Ruas terminou a apuração em primeiro lugar, com 49,27% dos votos ",
-      "category": "Política"
-    },
-    {
-      "title": "Jerônimo é reeleito governador no primeiro turno na Bahia",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/jeronimo-e-reeleito-governador-no-primeiro-turno-na-bahia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T00:30:00+00:00",
-      "summary": "Jerônimo Rodrigues foi reeleito governador da Bahia neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PT obteve 55,41% dos votos válidos, o equivalente a 4.440.938 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Até as 21h23, 96,73% das urnas haviam sido totalizadas no estado. Com o r",
-      "category": "Política"
-    },
-    {
-      "title": "Sérgio Moro, ex-juiz da Lava Jato, eleito governador no Paraná",
-      "url": "https://www.rtp.pt/noticias/mundo/sergio-moro-ex-juiz-da-lava-jato-eleito-governador-no-parana_n1769593",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-05T00:21:34+00:00",
-      "summary": "O ainda senador e ex-juiz no processo Lava Jato Sergio Moro foi eleito hoje governador do estado do Paraná, no Sul do Brasil, para um mandato de quatro anos.",
-      "category": "Política"
-    },
-    {
-      "title": "Maranhão elege Eduardo Braide governador no primeiro turno",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/maranhao-elege-eduardo-braide-governador-no-primeiro-turno",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T00:21:00+00:00",
-      "summary": "Eduardo Braide foi eleito governador do Maranhão neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PSD obteve 54,10% dos votos válidos, o equivalente a 2.074.520 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Até as 21h17, 98,42% das urnas haviam sido totalizadas no estado. Com o res",
-      "category": "Política"
-    },
-    {
-      "title": "As notícias da 1h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2404/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-05T00:17:55+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ceará reelege Elmano governador no primeiro turno",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ceara-reelege-elmano-governador-no-primeiro-turno",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T00:12:00+00:00",
-      "summary": "Elmano de Freitas foi reeleito governador do Ceará neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PT obteve 52,88% dos votos válidos, o equivalente a 2.770.571 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Até as 21h08, 96,79% das urnas haviam sido totalizadas no estado. Com o re",
-      "category": "Política"
-    },
-    {
-      "title": "Aziz e Maria do Carmo vão disputar o 2° turno para governo do Amazonas",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/aziz-e-maria-do-carmo-vao-disputar-o-2deg-turno-para-governo-do-amazonas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-05T00:11:00+00:00",
-      "summary": "Omar Aziz (PSD) e Professora Maria do Carmo (PL) vão disputar o segundo turno da eleição para governador do Amazonas. Os dois candidatos foram os mais votados no primeiro turno, realizado neste domingo (4), segundo dados do Tribunal Superior Eleitoral (TSE). Aziz terminou a apuração em primeiro lugar, com 40,34% dos vo",
-      "category": "Política"
-    },
-    {
-      "title": "Ex-primeira dama Michelle Bolsonaro eleita senadora no Brasil",
-      "url": "https://www.rtp.pt/noticias/mundo/ex-primeira-dama-michelle-bolsonaro-eleita-senadora-no-brasil_n1769592",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:56:14+00:00",
-      "summary": "A ex-primeira dama Michelle Bolsonaro, de 44 anos, foi eleita este domingo senadora do Distrito Federal (onde se situa a capital, Brasília), pelo Partido Liberal (PL), nas eleições gerais brasileiras, e terá mandato até 2035.",
-      "category": "Política"
-    },
-    {
-      "title": "23h Flávio Bolsonaro lidera a contagem dos votos no Brasil",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-flavio-bolsonaro-lidera-a-contagem-dos-votos-no-brasil_a1_1769591",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:42:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "FPF e JJ dão \"todo o tempo do mundo\" a CR7?",
-      "url": "https://observador.pt/programas/resposta-pronta/fpf-e-jj-dao-todo-o-tempo-do-mundo-a-cr7/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:36:03+00:00",
-      "summary": "Pedro Proença garante que Cristiano Ronaldo fará sempre parte do grupo e deixa a porta aberta. Jorge Jesus rejeita pedir desculpas após o abandono do estágio.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Eleições no Brasil. Lula da Silva e Flávio Bolsonaro vão a segunda volta",
-      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-lula-da-silva-e-flavio-bolsonaro-vao-a-segunda-volta_n1769587",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:27:09+00:00",
-      "summary": "Está confirmado o \"segundo turno\" nas eleições brasileiras, depois de nenhum dos candidatos ter obtido este domingo, na primeira volta, mais de 50 por cento dos votos.",
-      "category": "Política"
-    },
-    {
-      "title": "A lição de Espanha sobre a deriva extremista dos socialistas",
-      "url": "https://observador.pt/opiniao/a-licao-de-espanha-sobre-a-deriva-extremista-dos-socialistas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:25:29+00:00",
-      "summary": "Primeiro os socialistas de Pedro Sánchez acolheram no Governo os extremistas do Podemos. Depois as políticas e o discurso do extremismo tornaram-se na bóia de salvação de um poder cansado e corrupto.",
-      "category": "Política"
-    },
-    {
-      "title": "Resultados no Brasil: três opiniões rápidas",
-      "url": "https://observador.pt/especiais/resultados-no-brasil-tres-opinioes-rapidas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:24:47+00:00",
-      "summary": "Paulo Nogueira, Manuel Castello Branco e Diogo Pasuch analisam a primeira volta das presidenciais brasileiras e explicam o que podemos esperar do duelo que se segue entre Lula e Flávio Bolsonaro.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Aux armes, créanciers",
-      "url": "https://observador.pt/opiniao/aux-armes-creanciers/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:24:08+00:00",
-      "summary": "O dia do acerto de contas em França já tem data no calendário. Portugal devia lê-la.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Anti-boomers",
-      "url": "https://observador.pt/opiniao/anti-boomers/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:23:54+00:00",
-      "summary": "Na última década, a palavra “boomer” perdeu o seu sentido técnico para ganhar o sentido mais genérico de “geração mais velha com dificuldades em adaptar-se aos novos tempos”.",
-      "category": "Clima"
-    },
-    {
-      "title": "O que seria um bom Orçamento do Estado?",
-      "url": "https://observador.pt/opiniao/o-que-seria-um-bom-orcamento-do-estado/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:20:53+00:00",
-      "summary": "O nosso processo orçamental continua a premiar o anúncio e a desvalorizar a avaliação. Discutem-se novas medidas, mas raramente se regressa às antigas para saber se cumpriram o prometido.",
-      "category": "Mundo"
-    },
-    {
-      "title": "00h. Portugal está nos quartos de final da Liga das Nações",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2438/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:16:23+00:00",
-      "summary": "A Seleção Nacional de futebol superou a edição anterior, com quatro vitórias em quatro jogos. Ainda, Lula da Silva venceu dois dos três locais de voto em Portugal.",
-      "category": "Esportes"
-    },
-    {
-      "title": "A República que celebramos está a arder",
-      "url": "https://observador.pt/opiniao/a-republica-que-celebramos-esta-a-arder/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:15:53+00:00",
-      "summary": "Ninguém perguntou aos portugueses se queriam mudar de regime.",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Cristiano Ronaldo faz parte do nosso património e estará cá sempre e se o mister quiser\"",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/cristiano-ronaldo-faz-parte-do-nosso-patrimonio-e-estara-ca-sempre-e-se-o-mister-quiser_d1769586",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:15:28+00:00",
-      "summary": "O presidente da Federação Portuguesa de Futebol, Pedro Proença, mostrou-se satisfeito com o arranque da Seleção Nacional sob o comando de Jorge Jesus e procurou desvalorizar qualquer polémica em torno de Cristiano Ronaldo.",
-      "category": "Política"
-    },
-    {
-      "title": "O farol dos portugueses e o desafio da liderança",
-      "url": "https://observador.pt/opiniao/o-farol-dos-portugueses-e-o-desafio-da-lideranca/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:14:13+00:00",
-      "summary": "Portugal precisa de Cristiano Ronaldo, não como um capitão que exige jogar todos os minutos de todas as partidas a um ritmo que o corpo já não comporta, mas como o farol moral e estratégico da equipa.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Abandono de Ronaldo. \"Nunca foi um caso e até pode ser convocado para o próximo jogo\" - Jorge Jesus",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/abandono-de-ronaldo-nunca-foi-um-caso-e-ate-pode-ser-convocado-para-o-proximo-jogo-jorge-jesus_d1769585",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T23:01:25+00:00",
-      "summary": "Jorge Jesus afirmou na conferência de imprensa após a vitória sobre a Noruega que o importante foi Portugal ganhar a uma das melhores equipas da Europa. Mas antes destas palavras, a primeira pergunta foi sobre a ausência de Ronaldo. O selecionador sorriu e acabou por dizer que esta história toda \"nunca foi um caso\".",
-      "category": "Economia"
-    },
-    {
-      "title": "Cristiano Ronaldo pode voltar quando quiser, afirma Jorge Jesus",
-      "url": "https://www.rtp.pt/noticias/desporto/cristiano-ronaldo-pode-voltar-quando-quiser-afirma-jorge-jesus_v1769582",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T22:13:47+00:00",
-      "summary": "Jorge Jesus diz na flash entreview que toda a polémica que existe em torno da saída de Cristiano Ronaldo \"foi um mal entendido\". O selecionador nacional diz que a bola está nos pés de CR7 ao referir que \"ele é que tem de decidir a vida dele\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dinamarca vence em Cardiff e isola-se no segundo lugar",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/dinamarca-vence-em-cardiff-e-isola-se-no-segundo-lugar_d1769581",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T21:56:28+00:00",
-      "summary": "A Dinamarca isolou-se hoje no segundo lugar do Grupo A4 da Liga das Nações de futebol, atrás do líder Portugal, após vencer o País de Gales, em Cardiff, por 1-0, em duelo da quarta jornada.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Portugal está nos `quartos` da Liga das Nações",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-esta-nos-quartos-da-liga-das-nacoes_d1769580",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-04T21:46:54+00:00",
-      "summary": "A seleção portuguesa de futebol venceu esta noite a Noruega por 2-1 e ficou automaticamente apurado para os quartos da Liga das Nações.",
-      "category": "Esportes"
     }
   ],
   "sources": [
