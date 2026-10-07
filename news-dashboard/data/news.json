@@ -1,365 +1,509 @@
 {
-  "updatedAt": "2026-10-06T23:49:12.110457+00:00",
+  "updatedAt": "2026-10-07T05:53:46.442851+00:00",
   "items": [
     {
-      "title": "0h Na última semana, as escolas receberam perto de 400 pedidos de matrícula",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-na-ultima-semana-as-escolas-receberam-perto-de-400-pedidos-de-matricula_a1_1769991",
+      "title": "Maioria reconhece importância da vacinação mas desconhece vacinas recomendadas",
+      "url": "https://www.rtp.pt/noticias/pais/maioria-reconhece-importancia-da-vacinacao-mas-desconhece-vacinas-recomendadas_n1770008",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-07T00:31:02+00:00",
+      "publishedAt": "2026-10-07T06:42:31+00:00",
+      "summary": "Cerca de 95% dos inquiridos num estudo nacional reconhecem os benefícios da vacinação, mas a maioria desconhece as vacinas de adultos integradas no Programa Nacional de Vacinação e as recomendações para a sua faixa etária ou condição de saúde.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Economista Justina Shiroka Pula eleita Presidente do Kosovo",
+      "url": "https://www.rtp.pt/noticias/mundo/economista-justina-shiroka-pula-eleita-presidente-do-kosovo_n1770006",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T06:36:15+00:00",
+      "summary": "A economista Justina Shiroka Pula, de 72 anos, foi eleita hoje Presidente do Kosovo, pondo assim fim a seis meses de crise institucional que obrigaram à realização de eleições parlamentares antecipadas em junho passado.",
+      "category": "Política"
+    },
+    {
+      "title": "6h Estudo alerta para falta de registo de perturbações mentais em internamento",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-estudo-alerta-para-falta-de-registo-de-perturbacoes-mentais-em-internamento_a1_1770007",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T06:31:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "23h Comunicado de Cristiano Ronaldo, o jogador pede desculpa por ter abandonado a seleção",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-comunicado-de-cristiano-ronaldo-o-jogador-pede-desculpa-por-ter-abandonado-a-selecao_a1_1769990",
+      "title": "Justiça de Taiwan processa 10 pessoas por desvio de chips militares dos EUA para a China",
+      "url": "https://www.rtp.pt/noticias/mundo/justica-de-taiwan-processa-10-pessoas-por-desvio-de-chips-militares-dos-eua-para-a-china_n1770005",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-07T00:24:02+00:00",
+      "publishedAt": "2026-10-07T06:28:57+00:00",
+      "summary": "O Ministério Público de Taiwan acusou formalmente dez pessoas de alegadamente revenderem a Hong Kong chips para uso militar fabricados por duas empresas norte-americanas, que eram posteriormente enviados para a China para a produção de armamento avançado.",
+      "category": "Economia"
+    },
+    {
+      "title": "China diz estar a cooperar com Rússia face a suspeitas de surto de peste pneumónica na Sibéria",
+      "url": "https://www.rtp.pt/noticias/mundo/china-diz-estar-a-cooperar-com-russia-face-a-suspeitas-de-surto-de-peste-pneumonica-na-siberia_n1770003",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T06:20:18+00:00",
+      "summary": "O Governo chinês afirmou na terça-feira estar a manter \"estreitos intercâmbios e cooperação\" com a Rússia sobre o possível surto de peste pneumónica que despoletou na Sibéria.",
+      "category": "Política"
+    },
+    {
+      "title": "China pede a França e Alemanha que não incentivem protecionismo na UE",
+      "url": "https://www.rtp.pt/noticias/economia/china-pede-a-franca-e-alemanha-que-nao-incentivem-protecionismo-na-ue_n1770002",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T06:11:05+00:00",
+      "summary": "A China pediu à França e à Alemanha para não \"politizarem\" as questões económicas e comerciais da União Europeia (UE), dias depois de uma proposta franco-alemã para reforçar a defesa comercial do bloco perante Pequim.",
+      "category": "Economia"
+    },
+    {
+      "title": "Austrália abre inquérito sobre utilização de dados recolhidos por óculos inteligentes",
+      "url": "https://www.rtp.pt/noticias/mundo/australia-abre-inquerito-sobre-utilizacao-de-dados-recolhidos-por-oculos-inteligentes_n1770001",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:58:38+00:00",
+      "summary": "A Austrália abriu uma investigação sobre a recolha e armazenamento de dados pessoais provenientes de óculos inteligentes de baixo custo, informou hoje a autoridade de proteção de dados do país.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Timor-Leste e Rússia querem reforço das relações de cooperação",
+      "url": "https://www.rtp.pt/noticias/economia/timor-leste-e-russia-querem-reforco-das-relacoes-de-cooperacao_n1769997",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:56:00+00:00",
+      "summary": "Os chefes da diplomacia timorense, Bendito Freitas, e russo, Sergey Lavrov, reuniram-se esta terça-feira em Moscovo para impulsionar as relações bilaterais e uma \"cooperação concreta\" e mutuamente benéfica, anunciou hoje o Governo timorense.",
+      "category": "Política"
+    },
+    {
+      "title": "Observatório do Clima mostra que futuro Congresso será mais hostil ao meio ambiente",
+      "url": "https://www.rtp.pt/noticias/mundo/observatorio-do-clima-mostra-que-futuro-congresso-sera-mais-hostil-ao-meio-ambiente_n1769996",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:46:40+00:00",
+      "summary": "O Congresso brasileiro terá uma composição mais hostil às agendas ambiental e climática a partir da próxima legislatura, segundo um levantamento do Observatório do Clima divulgado esta terça-feira.",
+      "category": "Política"
+    },
+    {
+      "title": "A vida de Alberto Sampaio (o de Viseu)",
+      "url": "https://observador.pt/programas/a-historia-das-historias/a-vida-de-alberto-sampaio-o-de-viseu/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:45:55+00:00",
+      "summary": "Não confundir com o historiador de Guimarães que tem museu e tudo, este era tipógrafo, maçon, jornalista, orador, está retratado entre os vultos do concelho nos bustos no tecto da escadaria da Câmara",
+      "category": "Política"
+    },
+    {
+      "title": "5h Cristiano Ronaldo pede desculpa por ter abandonado a seleção",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-cristiano-ronaldo-pede-desculpa-por-ter-abandonado-a-selecao_a1_1770004",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:45:02+00:00",
       "summary": "",
       "category": "Esportes"
     },
     {
-      "title": "IL Porto. Parecer por 40 segundos e conflito de interesses",
-      "url": "https://observador.pt/2026/10/07/burocracia-aquece-luta-na-il-do-porto-pedido-de-parecer-por-40-segundos-conflito-de-interesses-e-queixas-sobre-o-processo/",
+      "title": "O último tango de Messi e as desculpas de Ronaldo",
+      "url": "https://observador.pt/programas/vamos-a-bola/o-ultimo-tango-de-lionel-messi-e-as-desculpas-de-cristiano-ronaldo/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-06T23:39:11+00:00",
-      "summary": "Apesar de pedido de presidente da mesa e candidata sobre lista apresentada depois da hora, Conselho de Jurisdição deu luz verde e recusa \"exclusão assente num formalismo tecnológico de segundos\".",
+      "publishedAt": "2026-10-07T05:41:53+00:00",
+      "summary": "CR7 acusa JJ de faltar às promessas e de atitude de \"quero, posso e mando\". Messi despede-se da Argentina com um golo e duas assistências. Ainda, nomeações do Conselho de Arbitragem para 8.ª jornada.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Flávio Bolsonaro quer usar maioria no Congresso para mudar a Constituição e `redemocratizar` o Brasil",
+      "url": "https://www.rtp.pt/noticias/mundo/flavio-bolsonaro-quer-usar-maioria-no-congresso-para-mudar-a-constituicao-e-redemocratizar-o-brasil_n1769995",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:38:32+00:00",
+      "summary": "Flávio Bolsonaro declarou na terça-feira que pretende \"mudar a Constituição\" para \"redemocratizar\" o Brasil, o que poderá vir a fazer caso vença as presidenciais, uma vez que o seu partido (PL) obteve a maioria no Congresso Nacional.",
       "category": "Política"
     },
     {
-      "title": "Polícia Civil abre inquérito para investigar como criança de 3 anos escapou de creche em Florianópolis",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/06/policia-civil-abre-inquerito-investigar-crianca-3-anos-escapou-creche-florianopolis.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:34:59+00:00",
-      "summary": "A Polícia Civil informou que abriu um inquérito para investigar como uma menina de 3 anos conseguiu sair sozinha de uma creche em Florianópolis, na terça-feira (6). Uma vizinha da família encontrou a criança sozinha na Avenida Mauro Ramos, uma das principais vias do Centro da capital catarinense. ✅Clique e siga o canal",
+      "title": "Cristiano Ronaldo pede perdão mas crucifica Jorge Jesus",
+      "url": "https://observador.pt/programas/conferencia-de-imprensa/cristiano-ronaldo-pede-perdao-mas-crucifica-jorge-jesus/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:36:52+00:00",
+      "summary": "JN: Capitão da seleção acusa Jorge Jesus de ter faltado à palavra dada por duas vezes. DN: FMI alerta que apoios ao choque energético são um perigo para os contribuintes.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Partidos que comandam ministérios no Governo Lula declaram apoio a Flávio Bolsonaro",
+      "url": "https://www.rtp.pt/noticias/mundo/partidos-que-comandam-ministerios-no-governo-lula-declaram-apoio-a-flavio-bolsonaro_n1769993",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:35:45+00:00",
+      "summary": "O União Brasil e o Partido Progressistas (PP), dois movimentos de centro que comandam ministérios no Governo do Presidente, Lula da Silva, anunciaram apoio na terça-feira ao candidato presidencial Flávio Bolsonaro, do PL.",
+      "category": "Política"
+    },
+    {
+      "title": "7 de Outubro: três opiniões",
+      "url": "https://observador.pt/especiais/7-de-outubro-tres-opinioes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:30:50+00:00",
+      "summary": "Quando passam três anos sobre o massacre de 7 de Outubro que reacendeu o conflito israelo-palestiniano, Tiago Moreira de Sá, José António Rodrigues do Carmo e David Botelho escrevem sobre o assunto.",
       "category": "Mundo"
     },
     {
-      "title": "Cooperativa de habitação reclama crédito do Banco de Fomento",
-      "url": "https://observador.pt/2026/10/07/cooperativa-de-habitacao-reclama-linhas-de-credito-do-banco-de-fomento-que-estarao-preparadas/",
+      "title": "6h. Cristiano Ronaldo admite cumprir eventual castigo da FPF",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2517/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-06T23:32:31+00:00",
-      "summary": "Segundo Virgílio Rocha, o projeto que está a ser desenvolvido por esta cooperativa até já tem \"uma capacidade de autofinanciamento de 50%\", mas tal \"não é suficiente\"",
-      "category": "Ciência & Tech"
+      "publishedAt": "2026-10-07T05:15:15+00:00",
+      "summary": "O capitão da Seleção falou ontem pela primeira vez, uma semana depois de abandonar o estágio de Copenhaga, da polémica com Jorge Jesus. Ainda, França prepara regresso à normalidade.",
+      "category": "Esportes"
     },
     {
-      "title": "Criança é filmada segurando objeto semelhante a arma de fogo em comemoração após eleições no RN; polícia identifica responsáveis",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/06/crianca-e-filmada-segurando-objeto-semelhante-a-arma-de-fogo-em-comemoracao-apos-eleicoes-no-rn-policia-identifica-responsaveis.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:32:04+00:00",
-      "summary": "Criança é filmada com objeto semelhante a arma de fogo em comemoração após eleições no RN A Polícia Civil do Rio Grande do Norte identificou os responsáveis pela criança que aparece em um vídeo sobre o teto de um veículo segurando um objeto similar a uma arma de fogo. As imagens foram registradas em Parnamirim, na Gran",
-      "category": "Política"
-    },
-    {
-      "title": "Resultado das eleições 2026 em Fortaleza (CE): como foi a votação nos locais de votação da 118ª Zona Eleitoral",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fortaleza-ce-como-foi-a-votacao-nos-locais-de-votacao-da-118a-zona-eleitoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:31:04+00:00",
-      "summary": "A 118ª zona eleitoral de Fortaleza (CE) tem 38 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no l",
-      "category": "Política"
-    },
-    {
-      "title": "Colégio dos Bombeiros em Fortaleza oferece 120 vagas para novos alunos em 2027",
-      "url": "https://g1.globo.com/ce/ceara/educacao/noticia/2026/10/06/colegio-dos-bombeiros-em-fortaleza-oferece-120-vagas-para-novos-alunos-em-2027.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:30:56+00:00",
-      "summary": "O Colégio dos Bombeiros fica localizado no bairro Jacarecanga, em Fortaleza. Divulgação/ Corpo de Bombeiros Militar do Ceará. O Corpo de Bombeiros Militar do Ceará (CBMCE) anunciou, nesta terça-feira (6), processo seletivo para ingresso no Colégio Militar do Corpo de Bombeiros Escritora Rachel de Queiroz, em Fortaleza,",
-      "category": "Mundo"
-    },
-    {
-      "title": "Resultado das eleições 2026 em Fortaleza (CE): como foi a votação nos locais de votação da 117ª Zona Eleitoral",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fortaleza-ce-como-foi-a-votacao-nos-locais-de-votacao-da-117a-zona-eleitoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:30:55+00:00",
-      "summary": "A 117ª zona eleitoral de Fortaleza (CE) tem 44 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no l",
-      "category": "Política"
-    },
-    {
-      "title": "Resultado das eleições 2026 em Fortaleza (CE): como foi a votação nos locais de votação da 116ª Zona Eleitoral",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fortaleza-ce-como-foi-a-votacao-nos-locais-de-votacao-da-116a-zona-eleitoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:30:45+00:00",
-      "summary": "A 116ª zona eleitoral de Fortaleza (CE) tem 42 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no l",
-      "category": "Política"
-    },
-    {
-      "title": "Resultado das eleições 2026 em Fortaleza (CE): como foi a votação nos locais de votação da 115ª Zona Eleitoral",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fortaleza-ce-como-foi-a-votacao-nos-locais-de-votacao-da-115a-zona-eleitoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:30:33+00:00",
-      "summary": "A 115ª zona eleitoral de Fortaleza (CE) tem 35 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no l",
-      "category": "Política"
-    },
-    {
-      "title": "Resultado das eleições 2026 em Fortaleza (CE): como foi a votação nos locais de votação da 114ª Zona Eleitoral",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fortaleza-ce-como-foi-a-votacao-nos-locais-de-votacao-da-114a-zona-eleitoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:29:56+00:00",
-      "summary": "A 114ª zona eleitoral de Fortaleza (CE) tem 40 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no l",
-      "category": "Política"
-    },
-    {
-      "title": "Resultado das eleições 2026 em Fortaleza (CE): como foi a votação nos locais de votação da 113ª Zona Eleitoral",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fortaleza-ce-como-foi-a-votacao-nos-locais-de-votacao-da-113a-zona-eleitoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:29:49+00:00",
-      "summary": "A 113ª zona eleitoral de Fortaleza (CE) tem 45 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no l",
-      "category": "Política"
-    },
-    {
-      "title": "Resultado das eleições 2026 em Fortaleza (CE): como foi a votação nos locais de votação da 112ª Zona Eleitoral",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fortaleza-ce-como-foi-a-votacao-nos-locais-de-votacao-da-112a-zona-eleitoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:29:43+00:00",
-      "summary": "A 112ª zona eleitoral de Fortaleza (CE) tem 39 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no l",
-      "category": "Política"
-    },
-    {
-      "title": "Resultado das eleições 2026 em Fortaleza (CE): como foi a votação nos locais de votação da 95ª Zona Eleitoral",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fortaleza-ce-como-foi-a-votacao-nos-locais-de-votacao-da-95a-zona-eleitoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:29:35+00:00",
-      "summary": "A 95ª zona eleitoral de Fortaleza (CE) tem 44 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no lo",
-      "category": "Política"
-    },
-    {
-      "title": "Resultado das eleições 2026 em Fortaleza (CE): como foi a votação nos locais de votação da 94ª Zona Eleitoral",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fortaleza-ce-como-foi-a-votacao-nos-locais-de-votacao-da-94a-zona-eleitoral.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:29:28+00:00",
-      "summary": "A 94ª zona eleitoral de Fortaleza (CE) tem 49 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no lo",
-      "category": "Política"
-    },
-    {
-      "title": "Morreu Eva Marie Saint, ícone da era dourada de Hollywood",
-      "url": "https://observador.pt/2026/10/07/morreu-eva-marie-saint-icone-da-era-dourada-de-hollywood-tinha-102-anos/",
+      "title": "Então mas agora tudo é saúde mental?",
+      "url": "https://observador.pt/programas/somos-todos-malucos/entao-mas-agora-tudo-e-saude-mental/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-06T23:24:52+00:00",
-      "summary": "Eva Marie Saint formou-se como atriz na Universidade",
-      "category": "Mundo"
-    },
-    {
-      "title": "Israel, onde o Ocidente começa",
-      "url": "https://observador.pt/opiniao/israel-onde-o-ocidente-comeca/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T23:24:02+00:00",
-      "summary": "Muitos, na Europa, um dia deveriam perceber as consequências da vulgarização dos termos “fascista” ou “genocídio.” É, simultaneamente, a vulgarização do mal e a incapacidade de ver o mal absoluto.",
-      "category": "Economia"
-    },
-    {
-      "title": "É o dinheiro, estúpido",
-      "url": "https://observador.pt/opiniao/e-o-dinheiro-estupido/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T23:23:32+00:00",
-      "summary": "Quando falamos em reparações, nunca nos devemos esquecer do seu preço e do que os reparacionistas acima de tudo querem: dinheiro.",
-      "category": "Economia"
-    },
-    {
-      "title": "O sanchismo, doença infantil do esquerdismo espanhol",
-      "url": "https://observador.pt/opiniao/o-sanchismo-doenca-infantil-do-esquerdismo-espanhol/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T23:22:40+00:00",
-      "summary": "Um governante que, depois de derrotado, se agarra a um alçapão institucional para impor o que as Cortes recusaram está a usurpar o poder.",
+      "publishedAt": "2026-10-07T05:06:10+00:00",
+      "summary": "Cada vez mais se fala de saúde mental e há quem alegue que agora, qualquer questão emocional, é logo relacionada com um possível problema de saúde mental, mas será mesmo assim?",
       "category": "Saúde"
     },
     {
-      "title": "Jesus ou Cristiano? Escolho vem aí o diabo",
-      "url": "https://observador.pt/opiniao/jesus-ou-cristiano-escolho-vem-ai-o-diabo/",
+      "title": "Como se lava roupa suja na Chanel?",
+      "url": "https://observador.pt/programas/do-avesso/como-se-lava-roupa-suja-na-chanel/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-06T23:22:39+00:00",
-      "summary": "Giro, ver tanta da malta que acha condição suficiente para ser português aparecer na AIMA em dia à escolha das 9 às 17, tão empolgada na defesa do que crê ser o superior interesse da Seleção Nacional.",
-      "category": "Ciência & Tech"
+      "publishedAt": "2026-10-07T05:03:07+00:00",
+      "summary": "Virginie Viard ajusta contas com a maison francesa num novo livro, e Matthieu Blazy celebra um ano na Chanel. Mas desta vez foi a Dior que ganhou o duelo de titãs.",
+      "category": "Cultura"
     },
     {
-      "title": "Convento religioso argentino que virou ‘Inferno na Terra’ inspira nova série da HBO Max: chicotes de couro, correntes de arame farpado e mordaças",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/convento-religioso-argentino-que-virou-inferno-na-terra-inspira-nova-serie-da-hbo-max-chicotes-de-couro-correntes-de-arame-farpado-e-mordacas/",
-      "source": "CNN Brasil",
+      "title": "Champô ou \"champom\"? As maiores irritações da nossa língua",
+      "url": "https://observador.pt/programas/portugues-suave/champo-ou-champom-as-maiores-irritacoes-da-nossa-lingua/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:02:40+00:00",
+      "summary": "Do 'champom' ao 'fazer praia', Marco Neves revela algumas das maiores irritações da língua portuguesa, analisa o vício da expressão \"é o que é\" e explica a origem imperial do nome \"César\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sentiu-se melhor e parou a medicação? Pode ser um erro",
+      "url": "https://observador.pt/programas/tratar-da-saude/sentiu-se-melhor-e-parou-a-medicacao-pode-ser-um-erro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T05:02:17+00:00",
+      "summary": "“Já me sinto bem, por isso deixei a medicação.” É uma decisão mais comum do que parece, mas sentir-se melhor pode significar precisamente que o tratamento está a funcionar. Saiba quando parar pode ser perigoso.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Eleições 2026 no DF: como será a governabilidade de Celina ou Grass, que disputam o 2º turno",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/eleicoes-2026-no-df-como-sera-a-governabilidade-de-celina-ou-grass-que-disputam-o-2o-turno.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-06T23:20:36+00:00",
-      "summary": "Monjas carmelitas no Monastério de Nogoya, na Argentina, relataram isolamento, cárcere e violência impostos pela madre superiora: 'Uma esposa de Cristo nunca pode pensar em abandonar a casa de Deus'",
-      "category": "Mundo"
-    },
-    {
-      "title": "Raquel evita nacionalização e diz que falou sobre o povo em campanha em PE",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/raquel-evita-nacionalizacao-e-diz-que-falou-sobre-o-povo-em-campanha-em-pe/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:18:10+00:00",
-      "summary": "Raquel Lyra afirma que manterá foco no desenvolvimento do estado em vez de se alinhar a disputas partidárias",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mulher morre atropelada por camião em Estremoz",
-      "url": "https://observador.pt/2026/10/07/mulher-de-64-anos-morre-atropelada-por-camiao-na-en4-em-estremoz/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T23:16:56+00:00",
-      "summary": "O alerta foi dado às 15h58. A vítima foi transportada em estado grave para o centro de saúde local, onde acabou por não resistir aos ferimentos.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Ronaldo",
-      "url": "https://observador.pt/opiniao/ronaldo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T23:15:38+00:00",
-      "summary": "Às vezes, há coisas para a gente rir. O nosso primeiro correu para o telefone com o louvável propósito de sanar o conflito.",
-      "category": "Mundo"
-    },
-    {
-      "title": "O partido que não existe e ganhou a primeira volta",
-      "url": "https://observador.pt/opiniao/o-partido-que-nao-existe-e-ganhou-a-primeira-volta/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T23:14:22+00:00",
-      "summary": "O PT passou vinte anos a ensinar o Brasil a votar contra alguém. O Brasil aprendeu a lição.",
+      "publishedAt": "2026-10-07T05:00:01+00:00",
+      "summary": "Dezessete dos 24 deputados distritais foram reeleitos O Distrito Federal começará 2027 com um cenário bem definido a partir dos parlamentares que elegeu no domingo (4): uma Câmara Legislativa com maioria de centro-direita, e bancadas na Câmara e no Senado com predomínio de parlamentares da direita. O cenário começa a d",
       "category": "Política"
     },
     {
-      "title": "Peão atropelado na A22 em estado grave",
-      "url": "https://observador.pt/2026/10/07/peao-atropelado-na-a22-esta-terca-feira-a-noite-em-estado-grave/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T23:12:45+00:00",
-      "summary": "De acordo com a mesma fonte, o homem foi transportado para o Hospital de Portimão em estado grave",
-      "category": "Saúde"
+      "title": "Mendonça Filho sofre 6ª derrota e se torna político que mais perdeu eleições majoritárias em Pernambuco",
+      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/07/mendonca-filho-sofre-6a-derrota-e-se-torna-politico-que-mais-perdeu-eleicoes-majoritarias-em-pernambuco.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T05:00:01+00:00",
+      "summary": "Convenção realizada nesta terça-feira (4) anunciou a candidatura de Mendonça Filho ao Senado nas eleições de 2026 Rafael Souza/g1 Após perder a disputa pelo Senado, ficando em terceiro lugar, atrás de Humberto Costa (PT) e Marília Arraes (PDT), o ex-governador e deputado federal Mendonça Filho (PL) atingiu a marca de m",
+      "category": "Política"
     },
     {
-      "title": "Leão rugiu no deserto",
-      "url": "https://observador.pt/opiniao/leao-rugiu-no-deserto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T23:11:31+00:00",
-      "summary": "Num tempo dominado pela polarização ideológica, o Papa não vem propor mais uma ideologia, mas uma presença: Jesus Cristo, presente hoje.",
+      "title": "Vai ter chuva? Confira a previsão do tempo para os próximos dias em Divinópolis",
+      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/07/vai-ter-chuva-confira-a-previsao-do-tempo-para-os-proximos-dias-em-divinopolis.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T05:00:01+00:00",
+      "summary": "clima de chuva em Divinópolis e região Anna Lucia/ g1 centro oeste Divinópolis está em alerta de tempestade e deve registrar tempo nublado, temperaturas elevadas e possibilidade de chuvas isoladas entre quarta-feira (7) e sexta-feira (9), segundo o Instituto Nacional de Meteorologia (Inmet). A umidade relativa do ar po",
       "category": "Clima"
     },
     {
-      "title": "Wall Street fecha em alta com recordes graças a juros estáveis e IA em alta",
-      "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-em-alta-com-recordes-gracas-a-juros-estaveis-e-ia-em-alta_n1769986",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T23:09:55+00:00",
-      "summary": "A bolsa nova-iorquina encerrou hoje em alta, com recordes do índice alargado S&P500 e tecnológico Nasdaq, graças à moderação da subida do custo da dívida e do regresso do entusiasmo pela inteligência artificial (IA).",
+      "title": "Mais votado no DF, Fábio Felix não conseguiu 'puxar' nenhum colega do PSOL para a Câmara; entenda",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/mais-votado-no-df-fabio-felix-nao-conseguiu-puxar-nenhum-colega-do-psol-para-a-camara-entenda.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T05:00:01+00:00",
+      "summary": "Fábio Felix, em sessão na Câmara Legislativa do DF Sara Marques/Agência CLDF No Distrito Federal, o candidato mais votado para a Câmara não conseguiu \"puxar\" nenhum colega de partido para o Legislativo federal. Fábio Felix (PSOL) recebeu 224.224 votos no domingo (4): a terceira maior votação da história do DF para um d",
+      "category": "Política"
+    },
+    {
+      "title": "Réu por incendiar homem em situação de rua ofereceu R$ 2,5 mil para dupla executar o crime, diz MPRJ",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/07/reu-por-incendiar-homem-em-situacao-de-rua-ofereceu-r-25-mil-para-dupla-executar-o-crime-diz-mprj.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T05:00:00+00:00",
+      "summary": "Câmera de segurança registra momento que homem em situação de rua foi incendiado em live Réu por participar de um ataque com coquetéis molotov contra um homem em situação de rua, Gabriel Utrini da Veiga Carvalho Silva ofereceu R$ 2,5 mil para que Miguel Felipe dos Santos Guimarães da Silva e um adolescente cometessem o",
+      "category": "Mundo"
+    },
+    {
+      "title": "Fim da 6x1: quais setores poderão ter escalas diferentes? Veja profissões que podem ficar de fora",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/07/fim-da-6x1-quais-setores-poderao-ter-escalas-diferentes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T05:00:00+00:00",
+      "summary": "Base quer expor voto da oposição sobre fim da 6x1 Dados do Ministério do Trabalho e Emprego (MTE) indicam que 14,8 milhões de trabalhadores que são contratados pelo regime da Consolidação das Leis do Trabalho (CLT) atuam na escala 6x1 no Brasil, modelo em que o trabalhador atua por seis dias consecutivos e tem um dia d",
       "category": "Economia"
     },
     {
-      "title": "Embaixada dos EUA na Rússia emite alerta após suspeita de morte por peste",
-      "url": "https://www.cnnbrasil.com.br/internacional/embaixada-dos-eua-na-russia-emite-alerta-apos-suspeita-de-morte-por-peste/",
-      "source": "CNN Brasil",
+      "title": "Vestida de padroeira, assistente social diz que ouviu Nossa Senhora Aparecida e voltou a ajudar romeiros na Dutra: 'Vai e faz'",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/festa-da-padroeira/noticia/2026/10/07/vestida-de-padroeira-assistente-social-diz-que-ouviu-nossa-senhora-aparecida-e-voltou-a-ajudar-romeiros-na-dutra-vai-e-faz.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-06T23:09:47+00:00",
-      "summary": "Serviço diplomático americano pontuou que acompanha de perto a situação e reforçou alerta em vigor que desaconselha viagens para o território russo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Wall Street sobe com recordes de S&P 500 e Nasdaq",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-sobe-com-recordes-de-sp-500-e-nasdaq/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:07:46+00:00",
-      "summary": "Outro fator relevante foi a queda dos rendimentos dos Treasuries",
-      "category": "Mundo"
-    },
-    {
-      "title": "Flávio nega possibilidade de Bolsonaro disputar eleições em 2030",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-nega-possibilidade-de-bolsonaro-disputar-eleicoes-em-2030/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:07:41+00:00",
-      "summary": "O senador e candidato à Presidência, Flávio Bolsonaro (PL), disse nesta terça-feira (6), que não existe a possibilidade de seu pai, Jair Bolsonaro, disputar as eleições presidenciais em 2030. Em entrevista à CNN nesta terça, o presidente nacional do PL, Valdemar Costa Neto, projetou que Jair será um “forte candidato” a",
+      "publishedAt": "2026-10-07T05:00:00+00:00",
+      "summary": "Vestida de padroeira, assistente social diz que ouviu Nossa Senhora para ajudar romeiros Vestida como Nossa Senhora Aparecida, a assistente social e voluntária Priscila de Cássia de Moura ajuda a acolher romeiros que seguem pela Rodovia Presidente Dutra em direção ao Santuário Nacional, a poucos dias do 12 de outubro, ",
       "category": "Política"
     },
     {
-      "title": "Homens brancos e com superior completo: o perfil do novo Congresso",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/homens-brancos-e-com-superior-completo-o-perfil-do-congresso/",
-      "source": "CNN Brasil",
+      "title": "Eleições 2026: veja os resultados do 1º turno nas 18 cidades da região de Piracicaba",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/noticia/2026/10/07/eleicoes-2026-veja-os-resultados-do-1o-turno-nas-18-cidades-da-regiao-de-piracicaba.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-06T23:06:06+00:00",
-      "summary": "Levantamento da CNN mostra que 82,07% dos eleitos têm diploma de graduação; dados conflitam com Censo 2022; média de idade dos congressistas eleitos será de 49,9 anos",
+      "publishedAt": "2026-10-07T05:00:00+00:00",
+      "summary": "Escola Estadual Mirandolina de Almeida Canto registra filas em Piracicaba Beatriz Bisan/g1 O g1 apresenta o resultado do 1º turno das Eleições 2026 em cada uma das 18 cidades da região de Piracicaba (SP) no último domingo (4). Abaixo, saiba como os eleitores de cada município da área de cobertura do g1 Piracicaba votar",
       "category": "Política"
     },
     {
-      "title": "Flávio reafirma compromisso de não disputar reeleição em caso de vitória",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-reafirma-compromisso-de-nao-disputar-reeleicao-em-caso-de-vitoria/",
-      "source": "CNN Brasil",
+      "title": "Previsão do tempo hoje para Brasília (DF): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/07/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-06T23:05:44+00:00",
-      "summary": "O candidato ao Palácio do Planalto pelo PL, Flávio Bolsonaro, reafirmou nesta terça-feira (6) o seu compromisso de não disputar a reeleição caso seja eleito à Presidência. “Simplesmente, eu acho que o povo acordou e quer ver uma mudança. É o que eu estou propondo sempre: um projeto de prosperidade. Não estou disputando",
-      "category": "Política"
+      "publishedAt": "2026-10-07T04:07:09+00:00",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quarta-feira (7) para Brasília (DF) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 30ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da ta",
+      "category": "Clima"
     },
     {
-      "title": "Jogador do Palmeiras é titular em despedida de Messi na Argentina",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/jogador-do-palmeiras-e-titular-em-despedida-de-messi-na-argentina/",
+      "title": "Previsão do tempo hoje para São Paulo (SP): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/07/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T04:06:51+00:00",
+      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta quarta-feira (7) para São Paulo (SP) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 25ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, s",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/07/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T04:06:36+00:00",
+      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para esta quarta-feira (7) para São Bernardo do Campo (SP) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Santo André (SP): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/07/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T04:06:19+00:00",
+      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para esta quarta-feira (7) para Santo André (SP) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tard",
+      "category": "Clima"
+    },
+    {
+      "title": "Messi se emociona na despedida: “Gostaria de estar aqui a vida inteira”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-se-emociona-na-despedida-gostaria-de-estar-aqui-a-vida-inteira/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-06T23:05:26+00:00",
-      "summary": "Em boa fase, lateral-direito Agustín Giay vai participar da festa no Monumental de Núñez, em Buenos Aires, iniciando a partida amistosa contra Benin, nesta terça-feira (6)",
+      "publishedAt": "2026-10-07T03:25:10+00:00",
+      "summary": "Craque fez o último jogo pela seleção da Argentina nesta terça-feira (6), no triunfo por 3 a 0 sobre Benim, no Estádio Monumental de Núñez, em Buenos Aires",
+      "category": "Esportes"
+    },
+    {
+      "title": "Justiça condena corinthiano por morte de palmeirense na ‘Batalha de Inajar’",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-condena-corinthiano-por-morte-de-palmeirense-na-batalha-de-inajar/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T03:22:47+00:00",
+      "summary": "Torcedor responderá pelo homicídio qualificado de jovem de 19 anos ocorrido em briga de torcidas em São Paulo, em 2012, na Zona Norte da capital paulistana",
       "category": "Mundo"
     },
     {
-      "title": "Rogério Marinho é levado a hospital em Brasília após mal-estar",
-      "url": "https://www.cnnbrasil.com.br/politica/rogerio-marinho-e-levado-a-hospital-em-brasilia-apos-mal-estar/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:03:58+00:00",
-      "summary": "O senador Rogério Marinho (PL-RN), coordenador da campanha de Flávio Bolsonaro (PL), teve um mal-estar nesta terça-feira (6) e foi levado ao hospital DF Star, em Brasília, para avaliação médica. Em atualização.",
-      "category": "Política"
-    },
-    {
-      "title": "Caso Gisele: interrogatório de tenente-coronel durou mais de 8h em SP",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caso-gisele-interrogatorio-de-tenente-coronel-durou-mais-de-8h-em-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:03:34+00:00",
-      "summary": "Em interrogatório no Fórum da Barra Funda, o acusado voltou a negar ter matado a esposa, afirmando que ela se suicidou apesar de relatório do Instituto de Criminalística apontar que não seria viável",
-      "category": "Mundo"
-    },
-    {
-      "title": "Congresso: 64% dos reeleitos aumentaram patrimônio acima da inflação",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/congresso-64-dos-reeleitos-aumentaram-patrimonio-acima-da-inflacao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:01:16+00:00",
-      "summary": "Congressista reeleito que teve maior crescimento nos bens declarados de 2022 a 2026 aumentou patrimônio em R$ 33 milhões; confira lista completa",
-      "category": "Política"
-    },
-    {
-      "title": "Guilherme Boulos lamenta morte do tio atropelado no centro de SP",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/guilherme-boulos-lamenta-morte-do-tio-atropelado-no-centro-de-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T23:00:06+00:00",
-      "summary": "Carlos Boulos sofreu morte encefálica após ser atingido por automóvel durante briga na avenida 23 de Maio na noite do último sábado (3)",
-      "category": "Mundo"
-    },
-    {
-      "title": "Liga Nações: Espanha avança para os quartos com quarta vitória na Croácia",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-espanha-avanca-para-os-quartos-com-quarta-vitoria-na-croacia_d1769984",
-      "source": "RTP Notícias",
+      "title": "4h. Empresa do Minho distribui robôs humanoides chineses",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2423/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-06T22:38:28+00:00",
-      "summary": "A seleção espanhola, campeã europeia e mundial em título, junta-se a Portugal na próxima fase da competição. Mikel Merino assinou um bis em Split.",
+      "publishedAt": "2026-10-07T03:18:23+00:00",
+      "summary": "SDATA AI assina parceria com mercado chinês de inteligência artificial para distribuir robôs humanoides em Portugal. Ainda nesta edição, o emotivo adeus de Leonel Messi da seleção argentina.",
       "category": "Economia"
+    },
+    {
+      "title": "Bloqueios em colégios viram onda de protestos nacionais na França",
+      "url": "https://www.cnnbrasil.com.br/internacional/bloqueios-em-colegios-viram-onda-de-protestos-nacionais-na-franca/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T03:07:47+00:00",
+      "summary": "Manifestação desta terça (6) reuniu milhares de pessoas pelas ruas de diversas cidades francesas, reunindo alunos, pais, professores e representantes sindicais",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio atinge fábrica na Zona Sul de SP e 27 viaturas tentam controlar",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-atinge-fabrica-na-zona-sul-de-sp-e-27-viaturas-tentam-controlar/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T02:42:17+00:00",
+      "summary": "Chamas intensas provocaram o desabamento do teto do imóvel na região do Jabaquara e bombeiros trabalham para controlar o fogo",
+      "category": "Clima"
+    },
+    {
+      "title": "Galvão Bueno crava: “Messi foi o maior jogador na história da Argentina”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/galvao-bueno-crava-messi-foi-o-maior-jogador-na-historia-da-argentina/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T02:35:48+00:00",
+      "summary": "Craque se aposentou da Seleção Argentina em amistoso que terminou com vitória albiceleste por 3 a 0, no Monumental, em Buenos Aires",
+      "category": "Esportes"
+    },
+    {
+      "title": "3h. Lionel Messi despede-se da seleção argentina",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2459/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T02:14:58+00:00",
+      "summary": "Perante cerca de 85 mil pessoas, Messi foi homenageado antes, durante e depois do jogo. Ainda, Governo francês prepara regresso à normalidade nas escolas depois de dias de protestos.",
+      "category": "Política"
+    },
+    {
+      "title": "Lionel Messi se aposenta da Argentina: veja todos os títulos pela seleção",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/lionel-messi-se-aposenta-da-argentina-veja-todos-os-titulos-pela-selecao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T02:07:35+00:00",
+      "summary": "Camisa 10 se despediu de seu país tendo entregado tudo que poderia, incluindo uma Copa do Mundo, depois de quase ter abandonado a equipe após série de decepções",
+      "category": "Esportes"
+    },
+    {
+      "title": "Veja o último gol de Messi pela seleção da Argentina",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/veja-o-ultimo-gol-de-messi-pela-selecao-da-argentina/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T01:46:24+00:00",
+      "summary": "Craque se despediu da equipe nacional nesta terça-feira (6), com vitória por 3 a 0 no duelo amistoso contra Benim, no Estádio Monumental de Núñez",
+      "category": "Esportes"
+    },
+    {
+      "title": "Veja os números e recordes de Messi com a camisa da seleção argentina",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/veja-os-numeros-e-recordes-de-messi-com-a-camisa-da-selecao-argentina/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T01:46:13+00:00",
+      "summary": "Com mais de 200 jogos, 126 gols e 68 assistências, o camisa 10 se consolida como maior da história do combinado",
+      "category": "Esportes"
+    },
+    {
+      "title": "Bia Haddad Maia passa por cirurgia no ombro e promete retorno às quadras",
+      "url": "https://www.cnnbrasil.com.br/esportes/tenis/bia-haddad-maia-passa-por-cirurgia-no-ombro-e-promete-retorno-as-quadras/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T01:28:19+00:00",
+      "summary": "Tenista brasileira ex-top 10 no ranking da WTA anunciou uma pausa na carreira no início do mês de agosto; procedimento aconteceu nesta terça (6)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Messi se despede da seleção argentina com gol, assistências e muita emoção",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-se-despede-da-selecao-argentina-com-gol-assistencias-e-muita-emocao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T01:27:40+00:00",
+      "summary": "Craque geracional encerra ciclo com vitória sobre o Benim, em Buenos Aires, tendo participado diretamente de todos os gols do amistoso",
+      "category": "Esportes"
+    },
+    {
+      "title": "“Homem-Aranha: Um Novo Dia” chega aos streamings; veja onde assistir",
+      "url": "https://www.cnnbrasil.com.br/pop/streaming/homem-aranha-um-novo-dia-chega-aos-streamings-veja-onde-assistir/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T01:26:38+00:00",
+      "summary": "Quarto filme da sequência estrelada por Tom Holland se tornou a maior bilheteria do mundo em 2026",
+      "category": "Mundo"
+    },
+    {
+      "title": "Arqueólogos encontram mosaico de 1.800 anos com 15 cenas, mas um gato e um cachorro chamam atenção por detalhe incomum",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/arqueologos-encontram-mosaico-de-1-800-anos-com-15-cenas-mas-um-gato-e-um-cachorro-chamam-atencao-por-detalhe-incomum/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T01:22:35+00:00",
+      "summary": "Piso descoberto em antiga residência na Turquia preservou imagens de animais identificados como Zmaragdin e Okeanos em meio a figuras sem nome",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h. OMS pede transparência à Rússia perante caso de peste",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2433/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-07T01:17:28+00:00",
+      "summary": "O diretor-geral da OMS pede comunicação “oportuna e transparente”. Ainda neste jornal, Cristiano Ronaldo pede desculpa por ter abandonado a equipa e diz estar disponível como sempre para Portugal.",
+      "category": "Mundo"
+    },
+    {
+      "title": "TSE marca para quinta-feira julgamento que pode definir eleição no Rio",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-marca-para-quinta-feira-julgamento-que-pode-definir-eleicao-no-rio",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T00:43:00+00:00",
+      "summary": "O Tribunal Superior Eleitoral (TSE) marcou para a próxima quinta-feira (8), às 10h, o julgamento que vai decidir se o candidato ao governo do Rio de Janeiro Anthony Garotinho (Republicanos) pode desistir de um recurso apresentado ao tribunal. O resultado do julgamento também pode definir se o candidato Douglas Ruas (PL",
+      "category": "Política"
+    },
+    {
+      "title": "Mega-Sena acumula para R$ 100 milhões; confira os números sorteados",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-100-milhoes-confira-os-numeros-sorteados",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T00:38:00+00:00",
+      "summary": "Nenhum apostador acertou as seis dezenas do Concurso 3.067 da Mega-Sena, realizado nesta terça-feira (6). O prêmio acumulou novamente e está estimado em R$ 100 milhões para o próximo sorteio. Os números sorteados são: 01 - 04 - 17 - 33 - 41 - 52 85 apostas acertaram cinco dezenas e irão receber R$ 33.382,67 cada 7.264 ",
+      "category": "Mundo"
+    },
+    {
+      "title": "OEA elogia eleição no Brasil, mas aponta preocupação com desinformação",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/oea-elogia-eleicao-no-brasil-mas-aponta-preocupacao-com-desinformacao",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-07T00:31:00+00:00",
+      "summary": "A Organização dos Estados Americanos (OEA) descreveu a eleição brasileira como uma jornada cívica e pacífica e elogiou o Tribunal Superior Eleitoral (TSE) e os Tribunais Regionais Eleitorais por demonstrarem “importante capacidade técnica, logística e organizacional. A OEA esteve no Brasil nos últimos dias com 91 obser",
+      "category": "Política"
+    },
+    {
+      "title": "OAB-RJ defende decisão rápida do TSE para eleições no estado",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/oab-rj-defende-decisao-rapida-do-tse-para-eleicoes-no-estado",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-06T23:56:00+00:00",
+      "summary": "A presidente da seção da Ordem dos Advogados do Brasil, (OAB-RJ), Ana Tereza Basilio, defendeu nesta terça-feira (6) que o Tribunal Superior Eleitoral (TSE) decida o quanto antes sobre a eleição para o governo do Estado do Rio de Janeiro , uma vez que já houve a manifestação do Ministério Público Eleitoral (MPE) . A de",
+      "category": "Política"
+    },
+    {
+      "title": "Governo inclui 82 empregadores na lista suja do trabalho escravo",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/governo-inclui-82-empregadores-na-lista-suja-do-trabalho-escravo",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-06T23:51:00+00:00",
+      "summary": "O Ministério do Trabalho e Emprego incluiu 82 empregadores na \"lista suja\" do trabalho escravo, nome pelo qual ficou conhecido o cadastro de empregadores que expõe empresas e pessoas físicas flagradas em fiscalizações de órgãos públicos competentes mantendo trabalhadores nestas condições. Na atualização feita neta terç",
+      "category": "Política"
+    },
+    {
+      "title": "CNJ e BC assinam acordo para disciplinar pagamento de precatórios",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/cnj-e-bc-assinam-acordo-para-disciplinar-pagamento-de-precatorios",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-06T23:48:00+00:00",
+      "summary": "O Conselho Nacional de Justiça (CNJ) e o Banco Central assinaram nesta terça-feira (6) acordo para criação de regras mais rígidas para a concessão de créditos de precatórios, títulos de dívida do governo federal. As novas normas pretendem disciplinar a comercialização paralela de precatórios, que ocorre com operações d",
+      "category": "Política"
+    },
+    {
+      "title": "Flávio busca apoio de Caiado e Lula defende fim da 6x1",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-busca-apoio-de-caiado-e-lula-defende-fim-da-6x1",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-06T23:34:00+00:00",
+      "summary": "O candidato à Presidência pelo PL, Flávio Bolsonaro, esteve em Goiânia nesta terça-feira (6), onde se reuniu com Ronaldo Caiado e acertou o apoio do ex-governador de Goiás no segundo turno. Em Brasília, o candidato à reeleição Luiz Inácio Lula da Silva (PT) passou o dia reunido com a coordenação de campanha e, no iníci",
+      "category": "Política"
+    },
+    {
+      "title": "Previsão de superávit comercial de 2026 cai para US$ 84,4 bilhões",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previsao-de-superavit-comercial-de-2026-cai-para-us-844-bilhoes",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-06T23:06:00+00:00",
+      "summary": "A queda nas projeções do preço do petróleo fez o governo reduzir a previsão para o superávit da balança comercial brasileira em 2026, de US$ 90 bilhões para US$ 84,4 bilhões. Apesar do corte, o resultado projetado pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) ainda representa alta de 24% em ",
+      "category": "Política"
     },
     {
       "title": "Cerca de 13,2 mil sites de bets ilegais são bloqueados",
@@ -378,150 +522,6 @@
       "publishedAt": "2026-10-06T22:28:00+00:00",
       "summary": "A dupla da tenista brasileira Luisa Stefani com a canadense Gabriela Dabrowski se classificou às quartas de final do WTA 1000 de Pequim (China). Nesta terça-feira (6), elas emplacaram a segunda vitória no torneio: derrotaram por 2 sets a 0 (parciais de 6/3 e 6/4) a parceria da norte-americana Quinn Gleason com a norueg",
       "category": "Mundo"
-    },
-    {
-      "title": "22h Já terminou a reunião de emergência do governo francês para decidir como responder aos protestos estudantis",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ja-terminou-a-reuniao-de-emergencia-do-governo-frances-para-decidir-como-responder-aos-protestos-estudantis_a1_1769983",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T22:27:02+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "Mulher condenada à morte no Tennessee recupera consciência após duas injeções letais",
-      "url": "https://www.rtp.pt/noticias/mundo/mulher-condenada-a-morte-no-tennessee-recupera-consciencia-apos-duas-injecoes-letais_n1769982",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T22:22:42+00:00",
-      "summary": "Christa Pike recuperou consciência, quase uma semana depois de ter dado entrada no hospital de Nashville em estado crítico, após duas tentativas falhadas de execução. Condenada em 1996, Christa está a falar, de acordo com a imprensa norte-americana, que cita um comunicado dos seus advogados.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Dólar fecha abaixo de R$ 5 pela primeira vez desde maio",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-pela-primeira-vez-desde-maio",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T22:13:00+00:00",
-      "summary": "O mercado financeiro brasileiro teve um dia de ajuste nesta terça-feira (6), após a euforia na véspera . O dólar caiu para cerca de R$ 4,97, menor nível em quase cinco meses, enquanto o Ibovespa recuou pouco mais de 0,5%, mas permaneceu acima dos 200 mil pontos. No exterior, o dólar também perdeu força, enquanto as bol",
-      "category": "Economia"
-    },
-    {
-      "title": "TSE: dados sobre comparecimento de eleitores estão em processamento",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-dados-sobre-comparecimento-de-eleitores-estao-em-processamento",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T22:12:00+00:00",
-      "summary": "O Tribunal Superior Eleitoral (TSE) informou nesta terça-feira (6) que os dados de comparecimento, ausência e justificativa dos eleitores no primeiro turno estão em processamento e não representam situação definitiva. A manifestação do Tribunal foi divulgada após eleitores que votaram no último domingo (4) encontrarem ",
-      "category": "Mundo"
-    },
-    {
-      "title": "TSE desmente alegação de fraude na apuração dos votos",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-desmente-alegacao-de-fraude-na-apuracao-dos-votos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T22:08:00+00:00",
-      "summary": "O Tribunal Superior Eleitoral explicou nesta terça-feira (6) que a pausa de 50 minutos na divulgação do resultado da votação para presidente e vice-presidente da República não influenciou na contabilidade dos votos.. No domingo, a aba de visualização “Brasil” do painel do TSE parou de funcionar de forma inesperada às 1",
-      "category": "Política"
-    },
-    {
-      "title": "Governo nomeia novos responsáveis para Impostos, empresas e município de Bissau",
-      "url": "https://www.rtp.pt/noticias/pais/governo-nomeia-novos-responsaveis-para-impostos-empresas-e-municipio-de-bissau_n1769981",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T22:04:32+00:00",
-      "summary": "O Governo de transição na Guiné-Bissau nomeou hoje Edalberto Cuino diretor-geral dos Impostos, Lassana Nanco para o centro de formalização de empresas e Juviano Landim presidente da Câmara Municipal de Bissau.",
-      "category": "Política"
-    },
-    {
-      "title": "Guiné-Bissau. Não há condições para eleições a 06 de dezembro diz Simões Pereira",
-      "url": "https://www.rtp.pt/noticias/lusa/guine-bissau-nao-ha-condicoes-para-eleicoes-a-06-de-dezembro-diz-simoes-pereira_n1769973",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T22:03:45+00:00",
-      "summary": "O presidente da Assembleia Nacional Popular da Guiné-Bissau considerou hoje que \"não há condições\" para a realização de eleições a 06 de dezembro, salientando que o prazo para apresentação de candidaturas terminou hoje sem serem apresentados candidatos.",
-      "category": "Política"
-    },
-    {
-      "title": "João Costa pede apoio precoce aos alunos e ação para além da escola",
-      "url": "https://www.rtp.pt/noticias/pais/joao-costa-pede-apoio-precoce-aos-alunos-e-acao-para-alem-da-escola_n1769948",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T22:01:49+00:00",
-      "summary": "O ex-ministro da Educação João Costa defendeu hoje um apoio mais precoce aos alunos com dificuldades e uma intervenção articulada que não esqueça as dificuldades das famílias dos estudantes, como a habitação, a pobreza ou a precariedade laboral.",
-      "category": "Política"
-    },
-    {
-      "title": "Escolas receberam 380 pedidos de matrícula na última semana diz ministro da Educação",
-      "url": "https://www.rtp.pt/noticias/pais/escolas-receberam-380-pedidos-de-matricula-na-ultima-semana-diz-ministro-da-educacao_n1769964",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T21:52:57+00:00",
-      "summary": "As escolas receberam 380 pedidos de matrícula ao longo da última semana, a maioria de alunos de nacionalidade estrangeira, disse hoje o ministro da Educação, assegurando que \"ninguém está a falhar\" e que o problema não é novo.",
-      "category": "Política"
-    },
-    {
-      "title": "Greve dos tripulantes da easyJet originou o cancelamento de 370 voos diz sindicato",
-      "url": "https://www.rtp.pt/noticias/economia/greve-dos-tripulantes-da-easyjet-originou-o-cancelamento-de-370-voos-diz-sindicato_n1769960",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T21:51:41+00:00",
-      "summary": "A greve dos tripulantes de cabine da easyjet levou ao cancelamento, em cinco dias, de 370 voos, adiantou o presidente do Sindicato Nacional do Pessoal de Voo da Aviação Civil (SNPVAC), Ricardo Penarroias.",
-      "category": "Política"
-    },
-    {
-      "title": "21h Cristiano admite voltar à Seleção, Messi despede-se da Argentina",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-cristiano-admite-voltar-a-selecao-messi-despede-se-da-argentina_a1_1769980",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-06T21:36:02+00:00",
-      "summary": "",
-      "category": "Esportes"
-    },
-    {
-      "title": "Embrapa é designada como Centro de Referência para Florestas Plantadas",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/embrapa-e-designada-como-centro-de-referencia-para-florestas-plantadas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T21:34:00+00:00",
-      "summary": "A Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) designou a Embrapa Florestas como Centro de Referência em Florestas Plantadas. O anúncio foi feito na sexta-feira (2) durante a 10ª Semana Mundial das Florestas e a 28ª Sessão do Comitê de Florestas da FAO, realizadas em sua sede em Roma. Este é o",
-      "category": "Cultura"
-    },
-    {
-      "title": "Alison dos Santos concorre ao prêmio Melhor do Ano da World Athetics",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/alison-dos-santos-concorre-ao-premio-melhor-do-ano-da-world-athetics",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T21:31:00+00:00",
-      "summary": "Atual recordista mundial nos 400 metros com barreiras, o brasileiro Alison dos Santos foi indicado nesta terça-feira (6) ao prêmio de Melhor Atleta do Ano da Federação Internacional de Atletismo (World Athetics). Piu fez uma temporada memorável, com direito à quebra de recorde na Diamond League Zurique (Suiça) e a conq",
-      "category": "Esportes"
-    },
-    {
-      "title": "PGR dá parecer favorável à retomada de visitas de Flávio ao pai",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/pgr-da-parecer-favoravel-retomada-de-visitas-de-flavio-ao-pai",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T21:29:00+00:00",
-      "summary": "O procurador-geral da República, Paulo Gonet Branco, enviou nesta terça-feira (6) ao Supremo Tribunal Federal (STF) parecer favorável à liberação das visitas do senador e presidenciável Flávio Bolsonaro (PL) ao pai, o ex-presidente Jair Bolsonaro, na prisão domiciliar. A manifestação foi motivada após o ministro Alexan",
-      "category": "Política"
-    },
-    {
-      "title": "Alcolumbre anuncia sessões para discutir e votar fim da escala 6x1",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-anuncia-sessoes-para-discutir-e-votar-fim-da-escala-6x1",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T20:40:00+00:00",
-      "summary": "O presidente do Senado, Davi Alcolumbre, anunciou nesta terça-feira (6) um calendário de deliberação e votação em plenário da Proposta de Emenda Constitucional (PEC) do fim da escala 6x1 e da redução da jornada máxima de trabalho de 44 para 40 horas semanais. Segundo Alcolumbre, a decisão cumpre acordos políticos que h",
-      "category": "Política"
-    },
-    {
-      "title": "Congresso mais conservador deve mudar agenda, diz professor",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/Congresso-mais-conservador-deve-mudar-agenda-diz-professor",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-06T19:35:00+00:00",
-      "summary": "O o crescimento da participação de partidos mais conservadores no Congresso Nacional e nos governos estaduais deve influenciar a agenda legislativa a partir de 2027, com maior espaço para temas como segurança pública, valores e família. A avaliação é do economista, doutor em ciência política e professor da Universidade",
-      "category": "Política"
     }
   ],
   "sources": [
