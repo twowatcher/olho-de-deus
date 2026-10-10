@@ -1,6 +1,366 @@
 {
-  "updatedAt": "2026-10-10T00:00:56.363657+00:00",
+  "updatedAt": "2026-10-10T05:46:54.180909+00:00",
   "items": [
+    {
+      "title": "6h OE'27: Leitão Amaro pede responsabilidade ao PS e ao Chega",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-oe27-leitao-amaro-pede-responsabilidade-ao-ps-e-ao-chega_a1_1770836",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T06:30:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "5h Marta Temido considera um erro as fusões de organismos do SNS",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-marta-temido-considera-um-erro-as-fusoes-de-organismos-do-sns_a1_1770833",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T05:30:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "4h Seleção Sub-19 enfrenta Espanha na final do Mundial de Hóquei",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-selecao-sub-19-enfrenta-espanha-na-final-do-mundial-de-hoquei_a1_1770832",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T05:27:02+00:00",
+      "summary": "",
+      "category": "Esportes"
+    },
+    {
+      "title": "6h. Arranca a 3.ª fase do Acesso ao Ensino Superior",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2520/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T05:15:27+00:00",
+      "summary": "Já quase 60 mil estudantes foram colocados nas duas primeiras fases, tendo ficado mais de 4 mil vagas por preencher no sistema público. Ainda, furacão Isaías enfraquece para categoria 1.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Tensão política em Espanha e em França deixa UE mais frágil?",
+      "url": "https://observador.pt/programas/5-continentes/tensao-politica-em-espanha-e-em-franca-deixa-ue-mais-fragil/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T05:07:50+00:00",
+      "summary": "Bruno Cardoso Reis analisa a passagem de Rubio por Lisboa, a tensão política com eleições antecipadas em Espanha e os protestos em França. E com Bolsonaro na frente, o Brasil vira mesmo à direita?",
+      "category": "Política"
+    },
+    {
+      "title": "Canções para dizer adeus à seleção nacional",
+      "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-dizer-adeus-a-selecao-nacional/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T05:04:52+00:00",
+      "summary": "Choque, saída de cena e o adeus às quinas. De Roy Orbison e Linda Lyndell aos Gotan Project, passando por Plutónio, Napa e Animal, eis a banda sonora para o fim de uma era.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Mundo da IA pode policiar-se a si mesmo como pediu Trump?",
+      "url": "https://observador.pt/programas/m-quinas-que-pensam/mundo-da-ia-pode-policiar-se-a-si-mesmo-como-pediu-trump/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T05:03:23+00:00",
+      "summary": "Donald Trump juntou empresas de IA para assinar acordo de autoregulação voluntário. Entendimento avança, mas o mundo questiona se as empresas de IA têm as condições para serem polícias de si mesmas.",
+      "category": "Economia"
+    },
+    {
+      "title": "Legado de Niède Guidon marca a Serra da Capivara e a vida de moradores no PI: 'Criou raízes nesta terra'",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/10/legado-de-niede-guidon-serra-da-capivara.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T05:00:01+00:00",
+      "summary": "Legado de Niède Guidon marca a Serra da Capivara e a vida de moradores no PI: 'Criou raízes nesta terra' Reprodução Entre os maiores símbolos do Nordeste, está o Parque Nacional da Serra da Capivara, localizado no Sul do Piauí. Reconhecido pela riqueza arqueológica e pela importância histórica, o local se tornou referê",
+      "category": "Mundo"
+    },
+    {
+      "title": "'Vós sois o lírio mimoso': conheça a história do hino oficial do Círio de Nazaré",
+      "url": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/10/vos-sois-o-lirio-mimoso-conheca-a-historia-do-hino-oficial-do-cirio-de-nazare.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T05:00:01+00:00",
+      "summary": "Conheça a história do hino “Vós Sois o Lírio Mimoso”, tradição do Círio de Nazaré Em época de Círio de Nazaré, as ruas de Belém são preenchidas pela melodia de \"Vós sois o lírio mimoso\". Muitos paraenses conhecem os versos, que viraram símbolo de fé e devoção. Mas o hino, considerado o oficial do Círio, que emociona mi",
+      "category": "Mundo"
+    },
+    {
+      "title": "2º turno no DF: o que há nos planos de governo de Celina e Grass para saúde, educação e segurança",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/10/2o-turno-no-df-o-que-ha-nos-planos-de-governo-de-celina-e-grass-para-saude-educacao-e-seguranca.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T05:00:01+00:00",
+      "summary": "Celina Leão (PP) e Leandro Grass (PT) vão para o segundo turno no Distrito Federal Terminado o primeiro turno das eleições 2026, os candidatos Celina Leão (PP) e Leandro Grass (PT) seguem na disputa pelo governo do Distrito Federal. A votação de segundo turno será em 25 de outubro. Ainda no início da campanha, na fase ",
+      "category": "Política"
+    },
+    {
+      "title": "Rodízio de café? Cafeteria oferece mais de 50 opções e fatura R$ 60 mil por mês em SP",
+      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/10/10/rodizio-de-cafe-cafeteria-oferece-mais-de-50-opcoes-e-fatura-r-60-mil-por-mes-em-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T05:00:00+00:00",
+      "summary": "Empreendedores reinventam o café para conquistar clientes Tomar café sempre fez parte da rotina dos brasileiros. Mas uma cafeteria em São Paulo decidiu transformar esse hábito em uma experiência diferente: um rodízio com mais de 50 opções de cafés especiais, bebidas autorais e petiscos servidos à vontade. A proposta te",
+      "category": "Cultura"
+    },
+    {
+      "title": "Rio Grande do Sul terá primeira vice-governadora da história; saiba quem é Silvana Covatti",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/10/rio-grande-do-sul-tera-primeira-vice-governadora-da-historia-saiba-quem-e-silvana-covatti.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T05:00:00+00:00",
+      "summary": "Silvana Covatti Mateus Bruxel/Grupo RBS No domingo (4), o Rio Grande do Sul elegeu sua primeira vice-governadora da história. Silvana Covatti (PP) compõe a chapa de Luciano Zucco (PL) que saiu vitoriosa das urnas em 1º turno. Integrante da família Covatti, tradicional no Rio Grande do Sul, e do PP, o maior partido muni",
+      "category": "Política"
+    },
+    {
+      "title": "Avó era 'cruel' e negociava estupros de netos adolescentes em motéis no interior de SP, diz polícia",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/10/avo-era-cruel-e-negociava-estupros-de-netos-adolescentes-em-moteis-no-interior-de-sp-diz-policia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T05:00:00+00:00",
+      "summary": "Avó e tio foram presos por suspeita de estupros contra adolescentes em Rio das Pedras Plantão Notícias Piracicaba A mulher de 57 anos que foi presa nesta quarta-feira (7) em Rio das Pedras (SP) por suspeita de participação em estupros contra três netos adolescentes agia de forma cruel com as vítimas, segundo a Polícia ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Desenrolando a Serpentina celebra 20 anos com debates sobre o futuro do Carnaval no Rio",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/10/desenrolando-a-serpentina-celebra-20-anos-com-debates-sobre-o-futuro-do-carnaval-no-rio.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T05:00:00+00:00",
+      "summary": "Desenrolando a Serpentina celebra 20 anos com debates sobre o futuro do Carnaval no Rio Divulgação O evento Desenrolando a Serpentina, organizado pela Sebastiana, completa 20 anos com uma edição especial nos dias 16 e 17 de outubro, no Museu de Arte Moderna do Rio de Janeiro (MAM Rio), no Aterro do Flamengo. A programa",
+      "category": "Cultura"
+    },
+    {
+      "title": "Dia das Crianças: veja onde comemorar a data com a garotada no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/10/10/dia-das-criancas-veja-onde-comemorar-a-data-com-a-garotada-no-df.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T05:00:00+00:00",
+      "summary": "Crianças, em imagem de arquivo gpointstudio/Magnific O Dia das Crianças é comemorado nesta segunda-feira (12). No Distrito Federal, muitos estabelecimentos prepararam programações especiais para celebrar a data, começando já neste fim de semana. O g1 preparou uma lista de sugestões para aproveitar o feriado com a garot",
+      "category": "Mundo"
+    },
+    {
+      "title": "TRE retotaliza votos para cargo de governador no Rio de Janeiro hoje",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tre-retotaliza-votos-para-cargo-de-governador-no-rio-de-janeiro-hoje/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T04:18:42+00:00",
+      "summary": "Medida vem após decisão do TSE (Tribunal Superior Eleitoral) de anular nesta quinta-feira (8) os votos de Anthony Garotinho (Republicanos) e abrir espaço para a eleição de Douglas Ruas (PL) em primeiro turno",
+      "category": "Política"
+    },
+    {
+      "title": "Previsão do tempo hoje para Brasília (DF): dia de sol com aumento de nuvens a partir da tarde; não chove",
+      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/10/previsao-do-tempo-hoje-para-brasilia-df-dia-de-sol-com-aumento-de-nuvens-a-partir-da-tarde-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T04:06:48+00:00",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este sábado (10) para Brasília (DF) é de dia de sol com aumento de nuvens a partir da tarde. Não chove. As máximas são de 34ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol. No período da tarde, sol com algumas",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Paulo (SP): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/10/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T04:06:32+00:00",
+      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para este sábado (10) para São Paulo (SP) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No perí",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/10/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T04:06:09+00:00",
+      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para este sábado (10) para São Bernardo do Campo (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 30ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuv",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Santo André (SP): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite",
+      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/10/previsao-do-tempo-hoje-para-santo-andre-sp-sol-o-dia-todo-muitas-nuvens-e-pancadas-de-chuva-de-manha-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T04:05:52+00:00",
+      "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para este sábado (10) para Santo André (SP) é de sol o dia todo. Muitas nuvens e pancadas de chuva de manhã e à noite. As máximas são de 30ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e tro",
+      "category": "Clima"
+    },
+    {
+      "title": "Barcelona x Getafe: horário e onde assistir ao jogo de La Liga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/barcelona-x-getafe-horario-e-onde-assistir-ao-jogo-de-la-liga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T04:05:17+00:00",
+      "summary": "Equipes vão a campo neste sábado, às 13h30, pela 8ª rodada do Campeonato Espanhol",
+      "category": "Esportes"
+    },
+    {
+      "title": "As novas regras para as licenças das mães e dos pais.",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/as-novas-regras-para-as-licencas-das-maes-e-dos-pais/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T04:03:25+00:00",
+      "summary": "Portugal prepara novas regras para as licenças parentais. Neste episódio explicamos o que muda, quais os novos direitos e como se pretende incentivar maior partilha entre mães e pais.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Chelsea x Bournemouth: horário e onde assistir ao jogo da Premier League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/chelsea-x-bournemouth-horario-e-onde-assistir-ao-jogo-da-premier-league-3/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T04:00:07+00:00",
+      "summary": "Equipes entram em campo neste sábado (10), em partida válida pela sexta rodada do Campeonato Inglês",
+      "category": "Esportes"
+    },
+    {
+      "title": "Alavés x Atlético de Madrid: horário e onde assistir ao jogo de La Liga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/alaves-x-atletico-de-madrid-horario-e-onde-assistir-ao-jogo-de-la-liga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T04:00:04+00:00",
+      "summary": "Equipes vão a campo neste sábado, às 11h15, pela 8ª rodada do Campeonato Espanhol",
+      "category": "Esportes"
+    },
+    {
+      "title": "3h Hóquei em patins. Seleção sub-19 apurada para final do Mundial",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-hoquei-em-patins-selecao-sub-19-apurada-para-final-do-mundial_a1_1770827",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T03:37:02+00:00",
+      "summary": "",
+      "category": "Esportes"
+    },
+    {
+      "title": "4h. Isaías atinge Flórida como furacão de categoria dois",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2426/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T03:14:42+00:00",
+      "summary": "Com ventos destrutivos e uma onda de tempestades, meio milhão de pessoas estão sem energia elétrica. Ainda, regras para lojas de 'souvenirs\" com princípios das políticas para Alojamento Local",
+      "category": "Mundo"
+    },
+    {
+      "title": "Justiça aceita notícia-crime de Flávio contra site que oferecia criptomoeda",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/justica-aceita-noticia-crime-de-flavio-contra-site-que-oferecia-criptomoeda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T03:02:39+00:00",
+      "summary": "Decisão prevê análise da necessidade de investigação formal; plataforma distribuía tokens a usuários que publicassem mensagens favoráveis ao candidato",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h O Governo comprou mais uma parte da REN. 5,3% desta vez",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-o-governo-comprou-mais-uma-parte-da-ren-53-desta-vez_a1_1770825",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T02:32:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "EUA não legitimam TPI para evitar acusações a soldados, diz especialista",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-nao-legitimam-tpi-para-evitar-acusacoes-a-soldados-diz-especialista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T02:31:30+00:00",
+      "summary": "Ao WW, o pesquisador de Harvard e professor da UFF Vitelio Brustolin afirma que postura americana busca impedir que militares sejam julgados por crimes de guerra em jurisdição internacional",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "3h.EUA suspendem sanções a gasóleo russo até abril de 2027",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2462/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T02:15:04+00:00",
+      "summary": "Trump garante que Putin, se comprometeu com 300 mil toneladas de gasóleo \"para o mercado americano e mundial\". Ainda, Proteção Civil do Panamá apela a cidadãos para manterem a calma após sismos.",
+      "category": "Economia"
+    },
+    {
+      "title": "Trump diz que Noruega está “manchada” por não lhe conceder Nobel da Paz",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-noruega-esta-manchada-por-nao-lhe-conceder-nobel-da-paz/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T02:04:53+00:00",
+      "summary": "Presidente americano criticou a organização da premiação, classificando-a como vergonhosa e embaraçosa; em comício, republicano afirmou que ninguém \"nunca ouviu falar\" da vencedora, Navi Pillay",
+      "category": "Política"
+    },
+    {
+      "title": "Augsburg x Bayern de Munique: horário e onde assistir ao jogo da Bundesliga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/augsburg-x-bayern-de-munique-horario-e-onde-assistir-ao-jogo-da-bundesliga-2/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T02:00:34+00:00",
+      "summary": "Equipes vão a campo neste sábado (10), às 10h30, em partida válida pela 5ª rodada do Campeonato Alemão",
+      "category": "Esportes"
+    },
+    {
+      "title": "Furacão Isaias atinge a costa dos EUA com ventos de 169 km/h",
+      "url": "https://www.cnnbrasil.com.br/internacional/furacao-isaias-atinge-a-costa-dos-eua-com-ventos-de-169-km-h/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T01:50:37+00:00",
+      "summary": "Fenômeno está atualmente na categoria dois e passa pela costa de Destin, na Flórida; tempestade é a primeira a atingir a costa do país desde Milton, em outubro 2024",
+      "category": "Mundo"
+    },
+    {
+      "title": "Santuário de Aparecida passa a funcionar 24 horas para acolher peregrinos",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/santuario-de-aparecida-passa-a-funcionar-24-horas-para-acolher-peregrinos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T01:31:27+00:00",
+      "summary": "Medida busca acolher as pessoas que chegam de todo o país para prestar homenagens à padroeira do Brasil; mais de 40 mil romeiros são esperados na Via Dutra e na Rota da Luz",
+      "category": "Mundo"
+    },
+    {
+      "title": "Estudantes entram em terceiro dia de atos pró-Lula em ao menos 8 estados",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/estudantes-entram-em-terceiro-dia-de-atos-pro-lula-em-ao-menos-8-estados/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T01:26:58+00:00",
+      "summary": "Manifestações convocadas pela UNE (União Nacional dos Estudantes) começaram na última quarta-feira (7) e reúnem milhares de estudantes e trabalhadores ao redor do país",
+      "category": "Mundo"
+    },
+    {
+      "title": "1h Homem faz reféns crianças no Brasil e é morto pela polícia",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-homem-faz-refens-criancas-no-brasil-e-e-morto-pela-policia_a1_1770821",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T01:25:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cientistas recriam aroma de 3,5 mil anos e revelam segredos da mumificação no Egito Antigo",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/cientistas-recriam-aroma-de-35-mil-anos-e-revelam-segredos-da-mumificacao-no-egito-antigo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T01:22:33+00:00",
+      "summary": "Fórmulas químicas de vasos canópicos da nobre Senetnay ressuscitam o cheiro da eternidade e comprovam rotas comerciais milenares",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "2h. Registado segundo sismo de magnitude 6,6 no Panamá",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2436/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T01:19:16+00:00",
+      "summary": "O Serviço Nacional de Proteção Civil do país adianta que os danos se concentraram nas províncias centrais de Veraguas, Herrera e Los Santos. Ainda, EUA suspendem sanções ao gasóleo russo.",
+      "category": "Mundo"
+    },
+    {
+      "title": "TSE manda suspender site que oferece criptomoedas por apoio a Flávio",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-manda-suspender-site-que-oferece-criptomoedas-por-apoio-flavio",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T00:36:00+00:00",
+      "summary": "O Tribunal Superior Eleitoral (TSE) determinou nesta sexta-feira (9) a suspensão de um site que oferecia criptomoedas a usuários que publicassem postagens favoráveis ao candidato a presidente Flávio Bolsonaro (PL). A decisão foi tomada pela ministra Estela Aranha. A magistrada entendeu que o site oferece vantagem econô",
+      "category": "Política"
+    },
+    {
+      "title": "Alcolumbre marca votação da PEC pelo fim da 6x1 para quarta-feira",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-pelo-fim-da-6x1-para-quarta-feira",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T00:34:00+00:00",
+      "summary": "O presidente do Senado Federal, Davi Alcolumbre (União-AP), marcou para a próxima quarta-feira (14) a votação, em primeiro turno, da Proposta de Emenda à Constituição (PEC) que acaba com a jornada de seis dias de trabalho por um de descanso (6x1). A PEC 221 , de 2019, prevê descanso remunerado de 2 dias por semana, sem",
+      "category": "Política"
+    },
     {
       "title": "00h PS quer respostas do governo sobre participação no BCP",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-ps-quer-respostas-do-governo-sobre-participacao-no-bcp_a1_1770814",
@@ -11,192 +371,39 @@
       "category": "Política"
     },
     {
-      "title": "Startup de chips Nuvacore capta recursos com valor de US$ 2,5 bi, dizem fon",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/startup-de-chips-nuvacore-capta-recursos-com-valor-de-us-25-bi-dizem-fon/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:58:37+00:00",
-      "summary": "CPUs desempenham funções vitais como controladores de tráfego para os chips de IA da Nvidia e executam softwares autônomos de IA conhecidos como agentes",
-      "category": "Ciência & Tech"
+      "title": "Como A Caça ao Estripador se transformou numa peça de teatro",
+      "url": "https://observador.pt/newsletters/observadores-premium/como-a-caca-ao-estripador-de-lisboa-se-transformou-numa-peca-de-teatro-imersivo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T00:25:57+00:00",
+      "summary": "Se adorou ouvir o podcast plus, não vai querer perder a hipótese de mergulhar n'A Caça ao Estripador de Lisboa: a primeira peça de teatro imersivo que nasce de uma investigação do Observador.",
+      "category": "Mundo"
     },
     {
-      "title": "Fachin aciona PF após relatório apontar ameaças contra Dino nas redes",
-      "url": "https://www.cnnbrasil.com.br/politica/fachin-aciona-pf-apos-relatorio-apontar-ameacas-contra-dino-nas-redes/",
-      "source": "CNN Brasil",
+      "title": "1h. André Ventura anuncia recandidatura à liderança do Chega",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2409/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T00:14:20+00:00",
+      "summary": "No discurso de abertura no Conselho Nacional do Chega, André Ventura também reitera as críticas ao PS pela anúncio da viabilização do OE para 2027. Ainda, homem armado faz crianças reféns no Brasil.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Governo do RJ identifica desvios de R$ 400 milhões na Cedae Saúde",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-do-rj-identifica-desvios-de-r-400-milhoes-na-cedae-saude",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-09T23:51:11+00:00",
-      "summary": "Avaliação de segurança do STF identificou mensagens com referências a fuzilamento, enforcamento e esquartejamentoolh",
+      "publishedAt": "2026-10-09T23:55:00+00:00",
+      "summary": "Uma auditoria realizada pelo governo do estado do Rio de Janeiro identificou indícios de desvios superiores a R$ 400 milhões na Caixa de Assistência dos Empregados da Cedae (Cedae Saúde). O levantamento apontou possíveis irregularidades no pagamento por serviços e suspeita de favorecimento de empresas ligadas à antiga ",
       "category": "Política"
     },
     {
-      "title": "Resultados das Loterias Caixa",
-      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "source": "G1",
+      "title": "Edson Fachin manda PF investigar ameaças contra Flávio Dino",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/edson-fachin-manda-pf-investigar-ameacas-contra-flavio-dino",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-09T23:50:17+00:00",
-      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem que invadiu CMEI e fez crianças reféns em Curitiba sofria de esquizofrenia, diz polícia",
-      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/09/homem-que-invadiu-cmei-e-fez-criancas-refens-em-curitiba-sofria-de-esquizofrenia-diz-policia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:49:40+00:00",
-      "summary": "Homem que invadiu CMEI e fez crianças reféns é morto pela polícia em Curitiba O homem que invadiu um Centro Municipal de Educação Infantil (CMEI) em Curitiba com uma faca, na tarde desta sexta-feira (9) sofria de esquizofrenia, segundo a Polícia Militar do Paraná (PM-PR). Ele fez 13 crianças reféns dentro de uma sala d",
-      "category": "Mundo"
-    },
-    {
-      "title": "ANP: etanol supera gasolina em competitividade em 10 Estados e no DF",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/anp-etanol-supera-gasolina-em-competitividade-em-10-estados-e-no-df/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:49:17+00:00",
-      "summary": "Executivos do setor observam que o etanol pode ser competitivo mesmo com paridade superior a 70%, a depender do veículo em que o biocombustível é utilizado",
-      "category": "Economia"
-    },
-    {
-      "title": "Ex-Corinthians, Pedrinho brilha na Europa e marca em goleada do Shakhtar",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/ex-corinthians-pedrinho-brilha-na-europa-e-marca-em-goleada-do-shakhtar/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:49:13+00:00",
-      "summary": "Meia-atacante, que também vestiu a camisa do Galo, chegou a 11 participações em gol nas últimas nove partidas",
-      "category": "Economia"
-    },
-    {
-      "title": "Datafolha: viagem, saúde, desinteresse e trabalho são os principais motivos do eleitor para não votar no 1º turno",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/09/datafolha-motivo-abstencao-eleitores-1-turno-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:49:01+00:00",
-      "summary": "Demonstração do fluxo de votação das Eleições 2026 e apresentação sobre novidades na fiscalização do derrame de santinhos, nesta quinta feira (24), na sede do TRE-SP, centro da capital, SP. Na foto a urna eletrônica. ROBERTO CASIMIRO/FOTOARENA/ESTADÃO CONTEÚDO Pesquisa Datafolha divulgada nesta sexta-feira (9) mostra q",
-      "category": "Política"
-    },
-    {
-      "title": "TSE suspende site que oferece criptomoeda a quem divulgar conteúdo que defende voto em Flávio Bolsonaro",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-suspende-site-que-oferece-criptomoeda-a-quem-divulgar-conteudo-que-defende-voto-em-flavio-bolsonaro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:48:38+00:00",
-      "summary": "O Tribunal Superior Eleitoral (TSE) determinou a suspensão de um site que vende criptomoedas e está oferecendo tokens (ativos digitais que podem ser transferidos e trocados por dinheiro) a quem participar de uma campanha que divulgue uma \"comunidade\" que defende abertamente o voto em Flávio Bolsonaro (PL) na disputa pe",
-      "category": "Mundo"
-    },
-    {
-      "title": "Justiça suspende liminar que autorizava operação de site de apostas",
-      "url": "https://www.cnnbrasil.com.br/politica/justica-suspende-liminar-que-autorizava-operacao-de-site-de-apostas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:46:19+00:00",
-      "summary": "TRF-3 acatou um pedido da AGU para suspender determinação da 9ª Vara Cível Federal de São Paulo que emitiu uma decisão que autorizava a empresa a operar até 25 de outubro de 2026",
-      "category": "Economia"
-    },
-    {
-      "title": "Exposição com itens pessoais de Marília Mendonça inaugura no MIS SP",
-      "url": "https://www.cnnbrasil.com.br/pop/musica/exposicao-com-itens-pessoais-de-marilia-mendonca-no-mis-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:46:14+00:00",
-      "summary": "Mostra reúne objetos e memórias da cantora que revolucionou a música; ao visitar o espaço pela primeira vez, mãe da Rainha da Sofrência se emocionou",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Plantio de soja em Mato Grosso atinge 33,3% da área estimada",
-      "url": "https://www.cnnbrasil.com.br/agro/plantio-de-soja-no-3/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:46:02+00:00",
-      "summary": "O estado registrou salto de mais de 20 pontos percentuais na semeadura impulsionado pelas precipitações recentes",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem que se passava por policial para cometer roubos é preso em São Paulo",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-que-se-passava-por-policial-para-cometer-roubos-e-preso-em-sao-paulo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:45:45+00:00",
-      "summary": "Suspeito usava farda falsa e simulacro de arma para cometer roubos na região do Bom Retiro no centro da capital paulista",
-      "category": "Mundo"
-    },
-    {
-      "title": "Veja imagens do 2º acidente de avião em MG no mesmo dia; três morreram",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/veja-imagens-do-2o-acidente-de-aviao-em-mg-no-mesmo-dia-tres-morreram/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:44:53+00:00",
-      "summary": "Queda ocorreu na tarde desta sexta-feira (9), próximo a cidade de Ipatinga; vítimas são militares",
-      "category": "Mundo"
-    },
-    {
-      "title": "Preso por ameaças em SP, Gabriel Spalone tem prisão preventiva decretada",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/preso-por-ameacas-em-sp-gabriel-spalone-tem-prisao-preventiva-decretada/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:44:53+00:00",
-      "summary": "Empresário é investigado por ameaçar sócios e alegar ligação com o PCC para exigir pagamentos",
-      "category": "Esportes"
-    },
-    {
-      "title": "Carro parado na rua fica destruído ao ser arrastado por ônibus do transporte público em Ribeirão Preto, SP; vídeo",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/09/carro-parado-na-rua-fica-destruido-apos-ser-atingido-por-onibus-do-transporte-publico-em-ribeirao-preto-sp-video.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:42:16+00:00",
-      "summary": "Ônibus do transporte público se envolvem em 3 acidentes em Ribeirão Preto, SP Câmeras de segurança registraram o momento em que um carro estacionado ficou destruído ao ser atingido por um ônibus do transporte público em Ribeirão Preto (SP). Segundo a dona do veículo, o motorista não parou. A empresa responsável diz que",
-      "category": "Economia"
-    },
-    {
-      "title": "VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 9 de outubro de 2026",
-      "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-9-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:41:44+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vorcaro cita R$ 30 milhões a filme de Lula: o que sabemos até agora",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:41:14+00:00",
-      "summary": "PT chama relato de “farsa com objetivos eleitorais”; PGR, PF e os próprios advogados de Vorcaro negam depoimento oral do ex-banqueiro",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: GR2 de sexta-feira, 9 de outubro",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-sexta-feira-9-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:40:56+00:00",
-      "summary": "Confira os vídeos do telejornal com as notícias do Sertão de Pernambuco.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Incêndio atinge circo no Parque da Cidade em Belém",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/10/09/incendio-atinge-circo-no-parque-da-cidade-em-belem.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:38:40+00:00",
-      "summary": "Incêndio atinge circo em Belém Um incêndio atinge o Circo Americano, no Parque da Cidade, em Belém, na noite desta sexta-feira (9). Equipes do Corpo de Bombeiros foram acionadas e estão a caminho do local. Até o momento, não há informações sobre feridos. ✅ Clique e siga o canal do g1 PA no WhatsApp A fumaça pode ser vi",
-      "category": "Clima"
-    },
-    {
-      "title": "Datafolha: eleitores faltaram ao 1º turno por viagem, doença e desinteresse",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-eleitores-faltaram-ao-1o-turno-por-viagem-doenca-e-desinteresse/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:34:43+00:00",
-      "summary": "Levantamento ouviu 2.520 eleitores de 153 munícipios brasileiros após o 1º turno das eleições; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "category": "Política"
-    },
-    {
-      "title": "Um dia após liberação, nova decisão da Justiça de SP impede funcionamento da plataforma de apostas Stake no Brasil",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/09/um-dia-apos-liberacao-nova-decisao-da-justica-de-sp-impede-funcionamento-da-plataforma-de-apostas-stake-no-brasil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:30:50+00:00",
-      "summary": "Apostas online. Joédson Alves/Agência Brasil A Justiça Federal suspendeu nesta sexta-feira (9) a decisão que permitia à plataforma de apostas Stake continuar operando temporariamente no Brasil até 25 de outubro, apesar da medida provisória do governo federal que prevê a extinção das autorizações das bets. O Tribunal Re",
+      "publishedAt": "2026-10-09T23:35:00+00:00",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, pediu nesta sexta-feira (9) que a Polícia Federal (PF) investigue ameaças contra o ministro do Supremo Flávio Dino . A medida foi tomada após Dino postar em suas redes sociais mensagens nas quais foi ameaçado de morte. As ameaças também foram direcionadas a ",
       "category": "Política"
     },
     {
@@ -218,40 +425,13 @@
       "category": "Mundo"
     },
     {
-      "title": "Vereador é suspenso de Câmara em cidade da Bahia após denúncia de \"rachadinha\"",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/09/vereador-e-suspenso-de-camara-em-cidade-da-bahia-apos-denuncia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:26:25+00:00",
-      "summary": "Vereadores de Vitória da Conquista votaram pela suspensão de Dinho dos Campinhos O vereador Gilvan Nunes Pereira, conhecido como Dinho dos Campinhos e Simão (Republicanos), foi suspenso após uma votação de um processo ético-disciplinar na Câmara de Vereadores de Vitória da Conquista, no sudoeste da Bahia, nesta sexta-f",
-      "category": "Política"
-    },
-    {
-      "title": "Aeroportos de João Pessoa e Campina Grande ofertam mais de 38 mil assentos para feriadão de Nossa Senhora Aparecida e Dia das Crianças",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/09/aeroportos-de-joao-pessoa-e-campina-grande-ofertam-mais-de-38-mil-assentos-para-feriadao-de-nossa-senhora-aparecida-e-dia-das-criancas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:25:53+00:00",
-      "summary": "Homem é preso por descaminho de mercadorias em aeroporto de João Pessoa Aena-PB Os dois aeroportos da Paraíba, localizados em João Pessoa e Campina Grande, têm uma oferta conjunta de 38.644 assentos para o feriado de Nossa Senhora Aparecida e Dia das Crianças, entre esta sexta-feira (9) e terça-feira (13). As informaçõ",
-      "category": "Economia"
-    },
-    {
       "title": "Sim, há uma direita que odeia o Ocidente",
       "url": "https://observador.pt/opiniao/sim-ha-uma-direita-que-odeia-o-ocidente/",
       "source": "Observador",
       "region": "Portugal",
       "publishedAt": "2026-10-09T23:25:22+00:00",
-      "summary": "Há dias, um político conservador inglês vindo diretamente do século XVIII derrotou um dos símbolos da nova direita americana. Ficou provado para lá de qualquer dúvida: a direita não é toda igual.",
+      "summary": "Há dias, um político conservador inglês vindo diretamente “do século XVIII” derrotou um dos símbolos da nova direita americana. Ficou provado para lá de qualquer dúvida: a direita não é toda igual.",
       "category": "Mundo"
-    },
-    {
-      "title": "A Europa já está a arder?",
-      "url": "https://observador.pt/opiniao/a-europa-ja-esta-a-arder/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:24:47+00:00",
-      "summary": "Não se prevê um futuro em que uma civilização gravemente doente se cure pelo voto. Aliás, nem se prevê cura nenhuma mas, dado que a violência puxa violência, múltiplos fragmentos de guerras civis",
-      "category": "Economia"
     },
     {
       "title": "Justiça derruba decisão que liberou operação de plataforma de apostas",
@@ -272,33 +452,6 @@
       "category": "Economia"
     },
     {
-      "title": "Leão XIV versus Francisco? (II)",
-      "url": "https://observador.pt/opiniao/leao-xiv-versus-francisco-ii/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:23:38+00:00",
-      "summary": "Prevost é partidário do Real Madrid, mas o Papa é adepto de todos os clubes",
-      "category": "Mundo"
-    },
-    {
-      "title": "Justiça condena homem por publicações preconceituosas contra religiões de matriz africana no interior de SP",
-      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/09/justica-condena-homem-por-publicacoes-preconceituosas-contra-religioes-de-matriz-africana-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T23:23:34+00:00",
-      "summary": "Tribunal de Justiça do Estado de São Paulo, em Presidente Prudente Stephanie Fonseca/G1 Um homem foi condenado pela Justiça de Presidente Prudente (SP) por postar nas redes sociais mensagens preconceituosas contra religiões de matriz africana. Conforme divulgado pelo Tribunal de Justiça de SP (TJ-SP) nesta sexta-feira ",
-      "category": "Política"
-    },
-    {
-      "title": "OE 2027: o que o dinheiro não resolve",
-      "url": "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:23:05+00:00",
-      "summary": "O governo português reconhece a necessidade de aumentar a oferta de casas, mas não se percebe até onde está disposto a alterar as condições que a limitam.",
-      "category": "Política"
-    },
-    {
       "title": "Pesquisa mostra que 82% são contra crianças de até 3 anos com celular",
       "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pesquisa-mostra-que-82-sao-contra-criancas-de-ate-3-anos-com-celular",
       "source": "Agência Brasil",
@@ -306,51 +459,6 @@
       "publishedAt": "2026-10-09T23:21:00+00:00",
       "summary": "Uma pesquisa do Instituto Locomotiva divulgada nesta sexta-feira (9) mostrou que 82% dos adultos brasileiros são contrários a que crianças de até três anos de idade possam ficar diante de celulares. Por outro lado, 15% são a favor. Para crianças de quatro a sete anos, a oposição dos adultos é de 75%. Quando o assunto é",
       "category": "Ciência & Tech"
-    },
-    {
-      "title": "Fotografias como Fotocópias",
-      "url": "https://observador.pt/opiniao/fotografias-como-fotocopias/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:20:59+00:00",
-      "summary": "Sujeitos a fotografias de dia anterior, sentimos o que os nossos antepassados tinham sentido em relação às fotocópias.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ventura quer que Chega mostre que pode governar",
-      "url": "https://observador.pt/2026/10/10/ventura-pede-unidade-no-conselho-nacional-e-quer-chega-pronto-para-governar-na-convencao-de-novembro/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:19:30+00:00",
-      "summary": "\"Eu sinto-me preparado. Gostava de saber e gostava de sentir que terei, não atrás de mim, mas ao meu lado esquerdo, ao meu lado direito, em todos os lados, um partido com essa força, com essa energia e que sabe uma coisa, [que] a história desta vez não se vai repetir, desta vez nós vamos ganhar\", afirmou Ventura",
-      "category": "Política"
-    },
-    {
-      "title": "Ana Moura e Zambujo na agenda cultural da Guarda",
-      "url": "https://observador.pt/2026/10/10/ana-moura-diogo-zambujo-e-andre-pinheiro-em-destaque-na-agenda-cultural-da-guarda-ate-dezembro/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:17:17+00:00",
-      "summary": "Concertos, teatro, circo, exposições e o regresso do 'Cidade Natal'. A cidade quer afirmar-se como candidata a Capital Portuguesa da Cultura em 2028.",
-      "category": "Cultura"
-    },
-    {
-      "title": "00h. Sporting vence em Braga com reviravolta na 2.ª parte",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2441/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:16:45+00:00",
-      "summary": "O Sporting regressou hoje aos triunfos na I Liga portuguesa de futebol, depois de dois empates, ao vencer por 3-1, com reviravolta. Ainda, foi registado um segundo sismo no Panamá.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Braga renova a \"catedral do andebol\" por 9 milhões",
-      "url": "https://observador.pt/2026/10/10/obras-de-9-milhoes-de-euros-arrancam-no-pavilhao-flavio-sa-leite-a-catedral-do-andebol-portugues-em-braga/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:16:11+00:00",
-      "summary": "A Câmara de Braga classifica o Pavilhão Flávio Sá Leite como \"a catedral do andebol português\"",
-      "category": "Política"
     },
     {
       "title": "Estudantes franceses não deixam a rua",
@@ -362,15 +470,6 @@
       "category": "Política"
     },
     {
-      "title": "Laicidade colaborativa",
-      "url": "https://observador.pt/opiniao/laicidade-colaborativa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:15:26+00:00",
-      "summary": "Um Estado não confessional (ou laico) não é, e não pode ser, um Estado hostil à religião, ou sequer indiferente perante o papel que ela representa na vida das pessoas, na sociedade e na cultura.",
-      "category": "Cultura"
-    },
-    {
       "title": "CBF divulga calendário masculino para 2027 com pausa da Copa Feminina",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/cbf-divulga-calendario-masculino-para-2027-com-pausa-da-copa-feminina",
       "source": "Agência Brasil",
@@ -378,15 +477,6 @@
       "publishedAt": "2026-10-09T23:15:00+00:00",
       "summary": "A Confederação Brasileira de Futebol (CBF) divulgou, nesta sexta-feira (9), o calendário profissional masculino para 2027. As datas consideraram a paralisação para a Copa do Mundo Feminina, que será realizada no Brasil. O Mundial será disputado entre os dias 24 de junho e 25 de julho. A interrupção é uma exigência da F",
       "category": "Esportes"
-    },
-    {
-      "title": "A República imaginária do PS",
-      "url": "https://observador.pt/opiniao/a-republica-imaginaria-do-ps/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:14:45+00:00",
-      "summary": "O voto do PS consegue ainda o prodígio de omitir o Regicídio de 1908, como se o 5 de Outubro tivesse irrompido numa dessas límpidas manhãs em que as revoluções parecem irromper em Portugal",
-      "category": "Mundo"
     },
     {
       "title": "Ativista pede a Seguro para ouvir opositores à mina em Boticas",
@@ -407,15 +497,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Wall Street fecha em alta com vigor das tecnológicas e custo da dívida estável",
-      "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-em-alta-com-vigor-das-tecnologicas-e-custo-da-divida-estavel_n1770790",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T23:12:10+00:00",
-      "summary": "A bolsa nova-iorquina encerrou hoje em alta, ajudada pelo vigor de alguns conglomerados tecnológicos e pela estabilização dos rendimentos obrigacionistas, no final de uma semana movimentada nas duas frentes.",
-      "category": "Economia"
-    },
-    {
       "title": "Estudantes fazem atos pelo país em apoio a Lula",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/estudantes-fazem-atos-pelo-pais-em-apoio-lula",
       "source": "Agência Brasil",
@@ -423,51 +504,6 @@
       "publishedAt": "2026-10-09T23:09:00+00:00",
       "summary": "Estudantes de diversos estados fizeram atos durante a semana em defesa da candidatura de Luiz Inácio Lula da Silva (PT) à Presidência da República. As manifestações foram convocadas pela União Nacional dos Estudantes (UNE). A entidade declarou apoio a Lula no segundo turno das eleições. Notícias relacionadas: Estudante",
       "category": "Política"
-    },
-    {
-      "title": "Portugueses detidos em Israel chegam este sábado a Portugal",
-      "url": "https://www.rtp.pt/noticias/mundo/portugueses-detidos-em-israel-chegam-este-sabado-a-portugal_v1770791",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T22:54:47+00:00",
-      "summary": "Os portugueses detidos na Cisjordânia devem chegar este sábado a Portugal. As autoridades israelitas consideraram-nos suspeitos de apoiar organizações terroristas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Novo sismo de magnitude 6,6 no Panamá",
-      "url": "https://www.rtp.pt/noticias/mundo/novo-sismo-de-magnitude-66-no-panama_n1770785",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T22:45:49+00:00",
-      "summary": "Um sismo de magnitude 6,6 foi hoje registado no Panamá, segundo o Serviço Geológico dos Estados Unidos (USGS), poucas horas após um mais forte, de magnitude 7,7.",
-      "category": "Mundo"
-    },
-    {
-      "title": "População de Boticas trava trabalhos de mineração de lítio",
-      "url": "https://www.rtp.pt/noticias/pais/populacao-de-boticas-trava-trabalhos-de-mineracao-de-litio_v1770789",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T22:43:47+00:00",
-      "summary": "Dezenas de pessoas impediram os trabalhos da empresa britânica de exploração de lítio em Covas do Barroso, no concelho de Boticas. A contestação contra o projeto tem já uma década.",
-      "category": "Economia"
-    },
-    {
-      "title": "ONU alerta que Iémen voltou a viver guerra \"em grande escala\"",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/onu-alerta-que-iemen-voltou-a-viver-guerra-em-grande-escala_n1770781",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T22:43:21+00:00",
-      "summary": "A ONU alertou hoje que o Iémen voltou a viver uma guerra \"em grande escala\", agudizando a crise humanitária e fazendo mais de 200 mil deslocados, e instou as partes a retomarem negociações para \"evitar uma maior desestabilização\" regional.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Violações em Portugal atingem número recorde",
-      "url": "https://www.rtp.pt/noticias/pais/violacoes-em-portugal-atingem-numero-recorde_v1770788",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-09T22:39:47+00:00",
-      "summary": "Um motorista da TVDE, envolvido em três crimes de violação, ficou em liberdade, mas sujeito a apresentações periódicas enquanto aguarda julgamento. A medida da prisão preventiva foi afastada. <br />",
-      "category": "Mundo"
     },
     {
       "title": "Fifa: um em cada cinco ataques virtuais na Copa do Mundo foi racista",
@@ -486,42 +522,6 @@
       "publishedAt": "2026-10-09T22:07:00+00:00",
       "summary": "O dólar fechou em queda nesta sexta-feira (9), abaixo de R$ 5 pela segunda sessão consecutiva, enquanto a Bolsa brasileira renovou recordes históricos . A moeda estadunidense recuou cerca de 0,8% no dia e acumulou baixa de mais de 4% na semana pós-primeiro turno. A bolsa avançou aproximadamente 1,4% no pregão e encerro",
       "category": "Economia"
-    },
-    {
-      "title": "TSE aciona PF após servidores receberem ameaças pelas redes sociais",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-aciona-pf-apos-servidores-receberem-ameacas-pelas-redes-sociais",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T22:02:00+00:00",
-      "summary": "O Tribunal Superior Eleitoral (TSE) acionou a Polícia Federal (PF) após identificar ameaças recebidas por servidores da Justiça Eleitoral nas redes sociais. O tribunal é o órgão responsável pela organização das eleições. Notícias relacionadas: TSE adia julgamento sobre candidatura de Deltan Dallagnol ao Senado. TSE anu",
-      "category": "Política"
-    },
-    {
-      "title": "PF nega existência de depoimento de Vorcaro sobre Lula",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pf-nega-existencia-de-depoimento-de-vorcaro-sobre-lula",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T21:51:00+00:00",
-      "summary": "A Polícia Federal (PF) negou a existência de um depoimento no qual o ex-banqueiro Daniel Vorcaro teria dado dinheiro para financiar um documentário sobre o presidente Luiz Inácio Lula da Silva , candidato à reeleição. A informação do suposto depoimento foi dada pela revista Veja nesta sexta-feira (9). “A Polícia Federa",
-      "category": "Política"
-    },
-    {
-      "title": "Manaus atinge níveis graves de poluição do ar por fumaça de queimadas",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/manaus-atinge-niveis-graves-de-poluicao-do-ar-por-fumaca-de-queimadas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T21:50:00+00:00",
-      "summary": "A qualidade do ar em Manaus chegou a níveis graves para a população e fez a Defesa Civil disparar alertas de risco à saúde nesta sexta-feira (9). Segundo a prefeitura, a fumaça intensa que atinge a capital nos últimos dias tem origem nas queimadas registradas em municípios do interior do Amazonas. No início da manhã, o",
-      "category": "Saúde"
-    },
-    {
-      "title": "Jornalistas sofreram mais de 14 mil ataques no 1º turno das eleições",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/eleicoes-jornalistas-sofreram-mais-de-14-mil-ataques-em-redes-sociais",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-09T21:29:00+00:00",
-      "summary": "No primeiro turno das eleições, entre 16 de agosto e 4 de outubro, jornalistas e veículos de imprensa sofreram 14.182 ataques nas redes sociais, o que equivale a 283 ataques por dia. Todos eles, com foco nas eleições e feitos nas redes X e Instagram. Na reta final, os ataques aumentaram, chegando, na última semana ante",
-      "category": "Política"
     }
   ],
   "sources": [
