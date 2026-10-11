@@ -1,6 +1,384 @@
 {
-  "updatedAt": "2026-10-10T21:38:58.517633+00:00",
+  "updatedAt": "2026-10-11T00:59:09.630849+00:00",
   "items": [
+    {
+      "title": "01h Doze pessoas morreram num ataque ao aeroporto de Riade",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-doze-pessoas-morreram-num-ataque-ao-aeroporto-de-riade_a1_1770957",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T01:16:01+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Círio de Nazaré: Imagem peregrina chega na av. Presidente Vargas na Trasladação; ACOMPANHE",
+      "url": "https://g1.globo.com/pa/para/cirio-de-nazare/ao-vivo/cirio-de-nazare-2026-transmissao-ao-vivo-pelo-g1.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:42:42+00:00",
+      "summary": "Círio de Nazaré: Imagem peregrina chega na av. Presidente Vargas na Trasladação; ACOMPANHE g1 mostra detalhes das procissões da Festa de Nazaré neste sábado e domingo O g1 transmite ao vivo as principais procissões do Círio de Nazaré, desta sexta-feira até domingo. Na sexta (9) foi realizada uma procissão, a maior dela",
+      "category": "Política"
+    },
+    {
+      "title": "Consumo médio de energia elétrica residencial volta ao maior patamar já registrado no Brasil",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/10/consumo-medio-de-energia-nas-casas-brasileiras-atinge-maior-nivel-do-seculo-xxi.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:35:08+00:00",
+      "summary": "Consumo médio de energia elétrica residencial volta ao maior patamar já registrado no Brasil O sol se põe e o Brasil se acende, numa rotina que parece eterna. Mas, por trás de cada janela acesa, estão novos hábitos das famílias. O gasto de energia elétrica reflete mudanças profundas ao longo do tempo. O consumo médio d",
+      "category": "Clima"
+    },
+    {
+      "title": "Zayn Malik usa camisa do Flamengo em show no estádio do Palmeiras; veja",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/zayn-malik-usa-camisa-do-flamengo-em-show-no-estadio-do-palmeiras-veja/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:33:31+00:00",
+      "summary": "Ex-One Direction, cantor cometeu gafe inusitada em sua única apresentação na cidade de São Paulo",
+      "category": "Cultura"
+    },
+    {
+      "title": "Curitiba reforça segurança em creche após crianças serem feitas de reféns",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/curitiba-reforca-seguranca-em-creche-apos-criancas-serem-feitas-de-refens/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:32:57+00:00",
+      "summary": "Além de patrulhamento, administração da cidade também estuda novas medidas para ampliar segurança nas unidades da rede municipal de ensino",
+      "category": "Mundo"
+    },
+    {
+      "title": "Círio Fluvial leva milhares de fiéis às águas de Belém",
+      "url": "https://www.cnnbrasil.com.br/pop/cirio-fluvial-leva-milhares-de-fieis-as-aguas-de-belem/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:29:52+00:00",
+      "summary": "Romaria percorreu mais de 18 quilômetros pela Baía do Guajará e imagem peregrina foi conduzida em barco da Marinha do Brasil",
+      "category": "Mundo"
+    },
+    {
+      "title": "Câmera registra raio que abriu cratera na BR-364 durante temporais em Rondônia",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/10/temporais-seca-rondonia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:28:05+00:00",
+      "summary": "Rondônia vive eventos climáticos extremos com o fenômeno El Niño Rajadas de vento derrubaram árvores sobre a rede elétrica e veículos na BR-364, no sul de Rondônia. Em outro trecho da rodovia, uma cratera se formou após a queda de um raio. Uma câmera de segurança registrou o mome nto da descarga elétrica. Ninguém ficou",
+      "category": "Clima"
+    },
+    {
+      "title": "Com previsão de El Niño muito forte, produtores rurais e setor da construção civil se preparam para impactos",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/10/com-previsao-de-el-nino-muito-forte-produtores-rurais-e-setor-da-construcao-civil-se-preparam-para-impactos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:27:13+00:00",
+      "summary": "Com previsão de El Niño muito forte, produtores rurais e setor da construção civil se preparam para impactos Reprodução/TV Globo Com o El Niño no horizonte, as galinhas funcionam como um termômetro. Tomam banho de areia, botam ovos e ciscam livres só quando o clima está bom. O produtor é quem anda estressado para mante",
+      "category": "Clima"
+    },
+    {
+      "title": "Coalizão saudita promete resposta decisiva ao ataque houthi à capital Riade",
+      "url": "https://www.cnnbrasil.com.br/internacional/coalizao-saudita-promete-resposta-decisiva-ao-ataque-houthi-a-capital-riade/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:25:50+00:00",
+      "summary": "Porta-voz militar afirmou que ofensiva do grupo armado rebelde do Iêmen é um crime de guerra e fere o direito internacional humanitário",
+      "category": "Mundo"
+    },
+    {
+      "title": "Enem 2026: leitura e planejamento ajudam candidatos a enfrentar o desafio da redação",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/10/enem-2026-leitura-e-planejamento-ajudam-candidatos-a-enfrentar-o-desafio-da-redacao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:19:31+00:00",
+      "summary": "Enem 2026: leitura e planejamento ajudam candidatos a enfrentar o desafio da redação Reprodução/TV Globo Caio Braga cursa matemática na Universidade Federal de Pernambuco (UFPE). Ele prestou o Exame Nacional do Ensino Médio (Enem) em 2025, e a redação ajudou muito a conquistar a vaga na universidade pública: tirou a no",
+      "category": "Mundo"
+    },
+    {
+      "title": "00h Barack Obama pede o reconhecimento de uma humanidade comum",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-barack-obama-pede-o-reconhecimento-de-uma-humanidade-comum_a1_1770955",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T00:17:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Piqué explica troca de carreira e não sabe se voltará ao futebol",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/pique-explica-troca-de-carreira-e-nao-sabe-se-voltara-ao-futebol/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:15:19+00:00",
+      "summary": "Em entrevista ao CNN Esportes S/A deste domingo (11), o empresário detalha sobre a mudança de carreira e se pretende retornar aos gramados em outra função",
+      "category": "Esportes"
+    },
+    {
+      "title": "Educação financeira começa ainda na juventude",
+      "url": "https://www.cnnbrasil.com.br/branded-content/nacional/educacao-financeira-comeca-ainda-na-juventude/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:15:09+00:00",
+      "summary": "Conta Jovem BTG aproxima os filhos das primeiras decisões com o próprio dinheiro, sob acompanhamento dos pais",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias da 1h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2410/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T00:13:44+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Nicolas Cage recusa IA e indica fim de parceria com estúdio; entenda",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/nicolas-cage-recusa-ia-e-indica-fim-de-parceria-com-estudio-entenda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:11:40+00:00",
+      "summary": "Ator revelou que não autorizou uso de inteligência artificial em \"Spider Noir\" e expressou interesse em trabalhar com jovens diretores que criam do zero",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO desta sábado, 10 de outubro de 2026",
+      "url": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-desta-sabado-10-de-outubro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:10:50+00:00",
+      "summary": "Veja os destaques desta edição.",
+      "category": "Mundo"
+    },
+    {
+      "title": "ECA Digital: o que mudou na segurança de crianças e adolescentes na internet após um ano da lei",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/10/eca-digital-um-ano-da-lei.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:10:28+00:00",
+      "summary": "Estatuto Digital da Criança e do Adolescente completa 1 ano e já conseguiu avanços para aumentar a segurança na internet O Estatuto Digital da Criança e do Adolescente (ECA Digital) completou um ano e já conseguiu avanços para aumentar a segurança na internet. 📱Favorite o g1 no Google e acompanhe as principais notícias",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Círio de Nazaré: fiéis percorrem ruas e águas de Belém em romarias na véspera da grande procissão",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/10/cirio-de-nazare-fieis-percorrem-ruas-e-aguas-de-belem-em-romarias-na-vespera-da-grande-procissao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:08:20+00:00",
+      "summary": "Milhares de fiéis acompanham o Círio de Nazaré, no Pará O ritual de fé começou ainda de madrugada. Depois de uma missa, a imagem peregrina de Nossa Senhora voltou às ruas da Grande Belém para percorrer 24 quilômetros. Nas calçadas e nos viadutos, fiéis cheios de gratidão. Ana Lígia nasceu prematura, e a mãe fez uma pro",
+      "category": "Mundo"
+    },
+    {
+      "title": "Governo federal reconhece emergência em 36 municípios do Amazonas por causa de incêndios florestais",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/10/governo-federal-reconhece-emergencia-em-36-municipios-do-amazonas-por-causa-de-incendios-florestais.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:07:39+00:00",
+      "summary": "Incêndio às margens da rodovia AM-010, próximo ao bairro Jacarezinho, na entrada de Itacoatiara Liam Cavalcante Rede Amazônica O governo federal reconheceu a situação de emergência decretada pelo governo do Amazonas em 36 municípios do estado por causa dos incêndios florestais. O reconhecimento foi feito pelo Ministéri",
+      "category": "Política"
+    },
+    {
+      "title": "Polícia prende milhares em protestos contra cancelamento de títulos de eleitor na Índia",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/10/policia-prende-milhares-em-protestos-contra-cancelamento-de-titulos-de-eleitor-na-india.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:03:25+00:00",
+      "summary": "Polícia da Índia prende mais de 2 mil pessoas em protestos contra governo O governo indiano tentou impedir os protestos: acionou milhares de agentes de segurança, desativou estações de metrô, montou barricadas e fechou ruas. Impedidos de se agrupar, os manifestantes se espalharam pela capital, Nova Déli. Eles acusam a ",
+      "category": "Política"
+    },
+    {
+      "title": "Flávio Bolsonaro promete aplicativo para serviços públicos e mudanças nas escolas",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/10/flavio-bolsonaro-campanha.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T00:00:54+00:00",
+      "summary": "Flávio Bolsonaro cumpre agenda no Rio de Janeiro O candidato do PL, Flávio Bolsonaro, cumpriu agenda de campanha no estado do Rio de Janeiro. Pela manhã, ele participou de uma motocarreata por várias ruas de São Gonçalo, o segundo município mais populoso do estado. 📱Favorite o g1 no Google e acompanhe as principais not",
+      "category": "Mundo"
+    },
+    {
+      "title": "Lula diz que Nordeste deve ter as mesmas oportunidades que outras regiões",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/10/lula-campanha-rio-grande-do-norte.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T23:59:03+00:00",
+      "summary": "Lula faz campanha no Rio Grande do Norte O presidente Luiz Inácio Lula da Silva chegou ao Rio Grande do Norte acompanhado de aliados políticos. Em conversa com jornalistas, destacou programas sociais e o histórico de investimentos federais no Nordeste. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia ",
+      "category": "Política"
+    },
+    {
+      "title": "Obama em Lisboa: IA, democracia e farpas a Trump",
+      "url": "https://observador.pt/2026/10/11/obama-em-lisboa-as-farpas-a-trump-os-avisos-sobre-ia-e-os-riscos-para-a-democracia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:57:38+00:00",
+      "summary": "Em Lisboa, dez mil pessoas aplaudiram Barack Obama. O ex-presidente dos EUA alertou para o crescimento do autoritarismo e criticou a política de Trump e os riscos da IA.",
+      "category": "Política"
+    },
+    {
+      "title": "TSE manda vice de Flávio apagar vídeo que acusa Lula de propina",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-vice-de-flavio-apagar-video-que-acusa-lula-de-propina/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T23:56:02+00:00",
+      "summary": "Ministro Marco Aurélio Bellizze determinou que Alfredo Gaspar retire o vídeo de seu perfil em 24h, sob pena de aplicação de multa diária",
+      "category": "Política"
+    },
+    {
+      "title": "Palmeiras x Corinthians: veja prováveis escalações para jogo do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-x-corinthians-veja-provaveis-escalacoes-para-jogo-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T23:55:28+00:00",
+      "summary": "Partida acontece neste sábado (11), às 17h30, no Nubank Parque, pela 30ª rodada da liga nacional; Verdão quase completo, Timão com desfalques e técnico interino",
+      "category": "Esportes"
+    },
+    {
+      "title": "Lula faz comício em Natal e Flávio participa de moto-carreata no Rio",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-faz-comicio-em-natal-e-flavio-participa-de-moto-carreata-no-rio",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T23:49:00+00:00",
+      "summary": "Os candidatos à presidência da República Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) tiveram agenda pública neste sábado (10) em Natal e no Rio de Janeiro, respectivamente. Em comício lotado na capital do Rio Grande do Norte, Lula fez comparativos entre investimentos feitos na região Nordeste em governos de ",
+      "category": "Política"
+    },
+    {
+      "title": "Trump diz que EUA “consideram” apoiar ataques sauditas contra Houthis",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-consideram-apoiar-ataques-sauditas-contra-houthis/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T23:45:16+00:00",
+      "summary": "Terceiro ataque houthi desta semana ao aeroporto internacional de Riade deixou pelo menos 12 mortos e mais de 300 feridos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Atacante do Vasco sente dores e preocupa para a reta final da temporada",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/atacante-do-vasco-sente-dores-e-preocupa-para-decisoes-nas-copas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T23:34:52+00:00",
+      "summary": "Facundo Colidio deixou o campo contra o Remo em São Januário; ele já era desfalque na Sul-Americana",
+      "category": "Clima"
+    },
+    {
+      "title": "Menino de 12 anos levou 40 dias para construir um avião no quintal de casa com rodas, asas e até uma cabine",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/menino-de-12-anos-levou-40-dias-para-construir-um-aviao-no-quintal-de-casa-com-rodas-asas-e-ate-uma-cabine/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T23:31:28+00:00",
+      "summary": "Após anos de tentativas, João Gabriel concluiu a construção de um avião artesanal em 40 dias e passou a chamar atenção nas ruas de Goiânia",
+      "category": "Cultura"
+    },
+    {
+      "title": "23h Futebol Clube do Porto ganha 2-1 contra o Marítimo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-futebol-clube-do-porto-ganha-2-1-contra-o-maritimo_a1_1770954",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:31:02+00:00",
+      "summary": "",
+      "category": "Esportes"
+    },
+    {
+      "title": "22h O Ministro das Finanças fala sobre o aumento das propinas",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-o-ministro-das-financas-fala-sobre-o-aumento-das-propinas_a1_1770953",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:30:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Da luta de classes à intifada.",
+      "url": "https://observador.pt/opiniao/da-luta-de-classes-a-intifada/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:25:46+00:00",
+      "summary": "O keffiyeh é o novo Capital. O slogan de Che Guevara de “Criar dois, três... muitos Vietnames” ressurge na versão “Criar duas, três... muitas Gazas\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Gonzalez e a morte da esquerda clássica",
+      "url": "https://observador.pt/opiniao/gonzalez-e-a-morte-da-esquerda-classica/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:24:52+00:00",
+      "summary": "Quando as ruas europeias ardem, anunciam a morte da esquerda democrática que ajudou a construir a Europa do pós-guerra, e que sem honra nem redenção caiu às mãos do apelo a uma nova Idade das Trevas.",
+      "category": "Economia"
+    },
+    {
+      "title": "O Ocidente ainda tem quem o defenda?",
+      "url": "https://observador.pt/opiniao/o-ocidente-ainda-tem-quem-o-defenda/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:22:22+00:00",
+      "summary": "Como podemos acreditar que os EUA são sinceros defensores do Ocidente se Trump continua a dar prioridade às boas relações com déspotas orientais como Xi Jinping e Vladimir Putin?",
+      "category": "Mundo"
+    },
+    {
+      "title": "A desesperança do Santo António",
+      "url": "https://observador.pt/opiniao/a-desesperanca-do-santo-antonio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:22:14+00:00",
+      "summary": "Políticos passados, fossem ateus ou agnósticos, tinham formação cristã ao contrário da maioria dos actuais. A política tornou-se num jogo sem a capacidade de elevação que a coragem política exige.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Só privilegiados preferem pobres",
+      "url": "https://observador.pt/opiniao/so-privilegiados-preferem-pobres/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:20:07+00:00",
+      "summary": "Os pobres, que sempre teremos connosco e que, de certa maneira, também sempre seremos, não querem preferência, querem perder a pobreza.",
+      "category": "Mundo"
+    },
+    {
+      "title": "00h. Trump diz que é hora de a Ucrânia ter novo presidente",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2442/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:16:24+00:00",
+      "summary": "Trump sugere que será mais fácil chegar a acordo para pôr fim à guerra, se houver uma mudança na liderança ucraniana. Ainda, FC Porto bateu hoje o Marítimo por 2-1, no Funchal, na oitava jornada.",
+      "category": "Política"
+    },
+    {
+      "title": "Partidomania e a maioria defunta",
+      "url": "https://observador.pt/opiniao/partidomania-e-a-maioria-defunta/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:15:41+00:00",
+      "summary": "Os portugueses descobriram que se podia fundar novos partidos e que estes partidos podiam, muito plausivelmente, aspirar a cadeiras em São Bento.",
+      "category": "Política"
+    },
+    {
+      "title": "Protestos? Eu chamo-lhe vandalismo",
+      "url": "https://observador.pt/opiniao/protestos-eu-chamo-lhe-vandalismo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:13:45+00:00",
+      "summary": "Há uma diferença entre mobilizar uma rua e receber um mandato para governar. Numa democracia, o voto continua a ser o instrumento decisivo para transformar uma vontade de mudança em poder legítimo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Um país que não enche três sílabas",
+      "url": "https://observador.pt/opiniao/um-pais-que-nao-enche-tres-silabas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:11:28+00:00",
+      "summary": "Transportes públicos gratuitos, um civismo que conquista o mundo, um elevadíssimo nível de exigência política. Há coisas que Portugal tem, e outras que não tem.",
+      "category": "Mundo"
+    },
+    {
+      "title": "A defesa não se compra. Constrói-se",
+      "url": "https://observador.pt/opiniao/a-defesa-nao-se-compra-constroi-se/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-10T23:08:26+00:00",
+      "summary": "Não se trata de comprar português por ser português. Trata-se de garantir que, depois de comprar europeu, Portugal sabe operar, reparar e evoluir aquilo que comprou",
+      "category": "Economia"
+    },
+    {
+      "title": "Seleção feminina faz 3 a 1 na Argentina em primeiro jogo no Beira-Rio",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/selecao-feminina-faz-3-1-na-argentina-em-primeiro-jogo-no-beira-rio",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T22:22:00+00:00",
+      "summary": "O Brasil sobrou diante da Argentina na primeira partida da seleção feminina de futebol no Estádio do Beira-Rio, um dos palcos da Copa do Mundo de 2027. Na tarde deste sábado (10), diante de mais de 28 mil torcedores, a Amarelinha balançou a rede com três golaços na primeira etapa, em um intervalo de 20 minutos. Luany a",
+      "category": "Esportes"
+    },
     {
       "title": "22h O Ministro das Finanças fala sobre o aumento das propinas",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-o-ministro-das-financas-fala-sobre-o-aumento-das-propinas_a1_1770947",
@@ -29,6 +407,15 @@
       "category": "Saúde"
     },
     {
+      "title": "Após ameaças de morte, deputada eleita Ana Elisa receberá proteção",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/apos-ameacas-de-morte-deputada-eleita-ana-elisa-recebera-protecao",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-10T21:58:00+00:00",
+      "summary": "Em meio a ameaças de morte e estupro nas redes sociais contra a deputada federal eleita Ana Elisa, do Partido dos Trabalhadores (PT) , o Ministério dos Direitos Humanos e da Cidadania (MDHC) solicitou providências para garantir a proteção da parlamentar por meio do Programa Estadual de Proteção de Minas Gerais. Logo ap",
+      "category": "Política"
+    },
+    {
       "title": "Obama em Lisboa. Desafio da IA, guerra e \"humanidade comum\"",
       "url": "https://www.rtp.pt/noticias/mundo/obama-em-lisboa-desafio-da-ia-guerra-e-humanidade-comum_n1770946",
       "source": "RTP Notícias",
@@ -36,15 +423,6 @@
       "publishedAt": "2026-10-10T21:55:48+00:00",
       "summary": "O antigo Presidente norte-americano Barack Obama esteve este sábado em Lisboa, onde foi o orador principal na sexta edição do Game Changers Forum.",
       "category": "Política"
-    },
-    {
-      "title": "Sindicato dos chefes da PSP alerta para desmotivação",
-      "url": "https://observador.pt/2026/10/10/sindicato-dos-chefes-da-psp-alerta-para-desmotivacao-se-exigencias-nao-forem-correspondidas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T21:36:19+00:00",
-      "summary": "O caderno reivindicativo passa pela revisão das tabelas salariais, pela reformulação dos conteúdos funcionais e pela atualização das tabelas remuneratórias e dos respetivos suplementos, detalhou.",
-      "category": "Mundo"
     },
     {
       "title": "Seguro recebeu Obama em Belém para troca de impressões sobre atualidade internacional",
@@ -56,24 +434,6 @@
       "category": "Política"
     },
     {
-      "title": "EPTV 2 Piracicaba ao vivo",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-2-piracicaba-ao-vivo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:25:50+00:00",
-      "summary": "EPTV 2 Piracicaba ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "EPTV 2 Campinas ao vivo",
-      "url": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:25:30+00:00",
-      "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-      "category": "Ciência & Tech"
-    },
-    {
       "title": "21h Milhares de pessoas em protesto contra o aumento do custo de vida e da habitação",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-milhares-de-pessoas-em-protesto-contra-o-aumento-do-custo-de-vida-e-da-habitacao_a1_1770942",
       "source": "RTP Notícias",
@@ -81,168 +441,6 @@
       "publishedAt": "2026-10-10T21:22:03+00:00",
       "summary": "",
       "category": "Mundo"
-    },
-    {
-      "title": "Homem é preso ao transportar carga irregular de pescados na BR-101 em Estância",
-      "url": "https://g1.globo.com/se/sergipe/noticia/2026/10/10/homem-e-preso-ao-transportar-carga-irregular-de-pescados-na-br-101-em-estancia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:21:00+00:00",
-      "summary": "PRF e Ibama apreendem carga irregular de pescados em Estância. PRF/SE Um homem foi preso pela Polícia Rodoviária Federal (PRF) neste sábado (10) no km 153 da BR-101, em Estância, ao transportar 29 quilos de pescados sem documentação e sem inspeção sanitária. A abordagem a uma caminhonete ocorreu durante a Operação Apar",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sporting empata na Champions de andebol em Szeged",
-      "url": "https://observador.pt/2026/10/10/sporting-perde-primeiros-pontos-na-champions-de-andebol-ao-empatar-em-szeged/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T21:20:23+00:00",
-      "summary": "O Sporting, que chegou aos quartos de final nas últimas duas épocas, volta a jogar frente ao ao Pick Szeged, na quinta-feira, no Pavilhão João Rocha, em Lisboa.",
-      "category": "Mundo"
-    },
-    {
-      "title": "As notícias das 22h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1882/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T21:17:28+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Família flagra onça-parda em meio à lavoura de soja em MT; veja vídeo",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/10/familia-flagra-onca-parda-em-meio-a-lavoura-de-soja-em-mt-veja-video.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:16:30+00:00",
-      "summary": "Onça-parda é flagrada por família em lavoura de soja em Querência (MT) Uma família flagrou uma onça-parda em meio a uma lavoura de soja durante um passeio por uma fazenda em Querência, a 912 km de Cuiabá. O registro foi feito por volta das 20h de sexta-feira (9), pelo produtor rural Danilo Ivanoff, que estava no carro ",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEO: motociclista fica ferido após colidir contra carro em cruzamento de avenida no interior de SP",
-      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/10/video-motociclista-fica-ferido-apos-colidir-contra-carro-em-cruzamento-de-avenida-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:15:28+00:00",
-      "summary": "Motociclista fica ferido após colidir contra carro em avenida no interior de SP Um motociclista ficou ferido após colidir contra um carro no cruzamento da Avenida Sete de Setembro, em Junqueirópolis (SP), na manhã deste sábado (10). O acidente foi registrado por câmera de segurança de um comércio. Pelas imagens é possí",
-      "category": "Mundo"
-    },
-    {
-      "title": "Comércio de Campos espera aumento de até 5% nas vendas para o Dia das Crianças",
-      "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/10/comercio-de-campos-espera-aumento-de-ate-5percent-nas-vendas-para-o-dia-das-criancas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:13:51+00:00",
-      "summary": "Dia das Crianças deve movimentar os segmentos de brinquedos, eletrônicos e vestuário em Campos. Yasmim Lima O Dia das Crianças, celebrado na próxima segunda-feira (12), deve movimentar o comércio de Campos dos Goytacazes, no Norte Fluminense. A data coincide com o feriado nacional de Nossa Senhora Aparecida, padroeira ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Duas mulheres são presas por manter cão e gatos sob maus-tratos em Bauru",
-      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/10/duas-mulheres-sao-presas-por-manter-cao-e-gatos-sob-maus-tratos-em-bauru.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:13:28+00:00",
-      "summary": "Duas mulheres foram presas em flagrante por maus-tratos a animais, na sexta-feira (9), em Bauru (SP) Gabriel Pelosi/TV TEM Duas mulheres foram presas em flagrant, na sexta-feira (9), suspeitas de manter animais em situação de maus-tratos em Bauru (SP) De acordo com o boletim de ocorrência, elas eram responsáveis por um",
-      "category": "Mundo"
-    },
-    {
-      "title": "Simaria fala sobre saúde mental e retorno à música após 4 anos",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/simaria-fala-sobre-saude-mental-e-retorno-a-musica-apos-4-anos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:09:00+00:00",
-      "summary": "Artista explica pausa para priorizar saúde e filhos e celebra estreia solo com ingressos esgotados; ela anunciou o fim da dupla com Simone em agosto de 2022",
-      "category": "Saúde"
-    },
-    {
-      "title": "PSG vence Le Mans e embala 3ª vitória seguida no Campeonato Francês",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/psg-vence-le-mans-e-embala-3a-vitoria-seguida-no-campeonato-frances/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:07:24+00:00",
-      "summary": "Time de Luis Enrique faz 3 a 1 e garante importante resultado na 6ª rodada da Ligue 1, subindo na tabela",
-      "category": "Esportes"
-    },
-    {
-      "title": "Mulheres agridem funcionários e danificam equipamentos de UPA em Porto Velho, diz PM",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/10/mulheres-agridem-funcionarios-e-danificam-equipamentos-de-upa-em-porto-velho-diz-pm.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:07:15+00:00",
-      "summary": "Mulheres agridem funcionários e danificam equipamentos de UPA em Porto Velho Duas mulheres foram presas neste sábado (10), após agredirem uma funcionária da farmácia, um vigilante e uma paciente, além de danificarem equipamentos da Unidade de Pronto Atendimento (UPA) da Zona Sul de Porto Velho, segundo a Polícia Milita",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "'Descobri uma força': Mulheres em tratamento do câncer de mama falam dos desafios e aprendizados da doença no interior de SP",
-      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/10/descobri-uma-forca-mulheres-em-tratamento-do-cancer-de-mama-falam-dos-desafios-e-aprendizados-da-doenca-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:06:22+00:00",
-      "summary": "Mulheres em tratamento do câncer de mama falam dos desafios e aprendizados da doença 'Descobri uma força em mim'. Foi assim que a psicóloga Thaiane Barbosa descreveu como se sente após o diagnóstico e o tratamento de um câncer de mama. A professora de Educação Infantil de São Carlos (SP), Mariana de Oliveira Faria, tam",
-      "category": "Saúde"
-    },
-    {
-      "title": "Idoso desaparece ao sair para caçar no interior do Amapá e buscas entram no oitavo dia",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/10/idoso-desaparece-ao-sair-para-cacar-no-interior-do-amapa-e-buscas-entram-no-oitavo-dia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:06:03+00:00",
-      "summary": "Rio Água Fria, em Pedra Branca do Amapari Maksuel Martins/Gea As buscas por um idoso de 63 anos que desapareceu após entrar em uma área de mata para caçar em Pedra Branca do Amapari, no interior do Amapá, chegaram ao oitavo dia. Segundo moradores, ele saiu de casa acompanhado por cães na manhã de quinta-feira (1º) e de",
-      "category": "Mundo"
-    },
-    {
-      "title": "Campo de aviação que foi usado pela CIA se torna base da China",
-      "url": "https://www.cnnbrasil.com.br/internacional/campo-de-aviacao-que-foi-usado-pela-cia-se-torna-base-da-china/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:05:43+00:00",
-      "summary": "Oito aeronaves, possivelmente jatos Hongdu JL-8, uma aeronave de treinamento e ataque leve de dois lugares, são visíveis em fotos de satélite do local no Laos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Bunker escondido e um rapto: plano para superar o apocalipse",
-      "url": "https://observador.pt/especiais/toneladas-de-comida-armazenadas-um-bunker-escondido-numa-aldeia-e-o-rapto-da-propria-filha-um-plano-para-sobreviver-ao-apocalipse/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T21:04:17+00:00",
-      "summary": "Um homem montou em Braga um plano para sobreviver ao apocalipse. Escondeu quase 300 bidons de comida, construiu um bunker e raptou a filha para a proteger. MP pede que seja considerado inimputável.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Café: poder de compra de fertilizantes pelo produtor recua no início da abubação da safra; entenda",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/10/cafe-poder-de-compra-de-fertilizantes-pelo-produtor-recua-no-inicio-da-abubacao-da-safra-entenda.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:04:11+00:00",
-      "summary": "Café robusta Globo Rural/Tv Globo Em setembro, as principais regiões produtoras de café no Brasil, como o interior paulista e o Sul de Minas, enfrentaram cenário de menor poder de compra de fertilizantes no período inicial da abudação da safra de 2027/2028. O inverno foi atipicamente chuvoso na maior parte das lavouras",
-      "category": "Cultura"
-    },
-    {
-      "title": "Siga o EPTV 2 Ribeirão e Franca",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:03:44+00:00",
-      "summary": "Siga o EPTV 2 Ribeirão e Franca Acompanhe as notícias deste sábado (10).",
-      "category": "Mundo"
-    },
-    {
-      "title": "Setor de biodiesel no Brasil tem espaço para crescer, diz CEO da Caramuru",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/setor-de-biodiesel-no-brasil-tem-espaco-para-crescer-diz-ceo-da-caramuru/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:03:33+00:00",
-      "summary": "Marcus Thieme, da Caramuru Alimentos, prevê conclusão de testes para avanço da mistura do combustível no próximo ano",
-      "category": "Economia"
-    },
-    {
-      "title": "São Paulo x Vitória: Lucas Moura volta com recuperação recorde",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-x-vitoria-lucas-moura-volta-com-recuperacao-recorde/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T21:02:49+00:00",
-      "summary": "Atleta sofreu ruptura no tendão de Aquiles e quebrou as costelas; volta quase 4 meses antes da média",
-      "category": "Esportes"
     },
     {
       "title": "Contestação ao aumento das propinas? \"Nem vejo razão para isso\", diz ministro das Finanças",
@@ -254,183 +452,12 @@
       "category": "Política"
     },
     {
-      "title": "Mourinho andou a correr pelo campo mas teve tudo menos festa",
-      "url": "https://observador.pt/2026/10/10/mourinho-andou-a-correr-pelo-campo-mas-teve-tudo-menos-festa-real-vence-mas-vinicius-jr-entra-e-e-expulso/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:58:54+00:00",
-      "summary": "Vinícius Jr. entrou na segunda parte, marcou mas acabou por ser expulso após ação do VAR por ter puxado os cabelos de um adversário no início da jogada do 2-0 (que foi anulado)",
-      "category": "Cultura"
-    },
-    {
       "title": "\"Segredo do Algoritmo\". Ronaldo ainda é o campeão das redes sociais?",
       "url": "https://www.rtp.pt/noticias/mundo/segredo-do-algoritmo-ronaldo-ainda-e-o-campeao-das-redes-sociais_v1770940",
       "source": "RTP Notícias",
       "region": "Portugal",
       "publishedAt": "2026-10-10T20:58:47+00:00",
       "summary": "Com toda a polémica à volta da Seleção e de Cristiano Ronaldo, no Segredo do Algoritmo o Alexandre Brito fez as contas para perceber se o CR7 ainda é o campeão das redes sociais.",
-      "category": "Esportes"
-    },
-    {
-      "title": "IPCA de setembro permite cortes lentos da Selic, diz economista",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ipca-de-setembro-permite-cortes-lentos-da-selic-diz-economista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T20:57:43+00:00",
-      "summary": "Inflação subiu 0,82% em setembro, puxada pela alta na cobrança da energia elétrica residencial",
-      "category": "Economia"
-    },
-    {
-      "title": "Ecossistemas marinhos da Madeira analisados numa das maiores expedições científicas em Portugal",
-      "url": "https://www.rtp.pt/noticias/pais/ecossistemas-marinhos-da-madeira-analisados-numa-das-maiores-expedicoes-cientificas-em-portugal_v1770938",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:55:49+00:00",
-      "summary": "200 investigadores de 34 entidades de vários países, vão estudar os ecossistemas marinhos da Madeira durante este mês.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Outono com temperaturas de verão",
-      "url": "https://www.rtp.pt/noticias/pais/outono-com-temperaturas-de-verao_v1770937",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:53:48+00:00",
-      "summary": "Estamos no Outono mas pelas temperaturas, não parece. A partir da próxima semana estão previstos dias com 30 graus.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Miranda Sarmento afasta de novo IVA zero nos bens essenciais",
-      "url": "https://observador.pt/2026/10/10/miranda-sarmento-afasta-de-novo-iva-zero-nos-bens-essenciais-produtores-e-distribuidores-ficariam-com-200-a-300-milhoes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:51:48+00:00",
-      "summary": "O Governo volta a contestar o IVA zero nos bens essenciais, dizendo que a transmissão não chega na totalidade aos consumidores. Mas se a inflação galopar o Governo ajustará a sua ação.",
-      "category": "Política"
-    },
-    {
-      "title": "Argentinos repercutem polêmica de Vasco x Boca no Maracanã: “Escândalo”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/argentinos-repercutem-polemica-de-vasco-x-boca-no-maracana-escandalo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T20:50:48+00:00",
-      "summary": "Portal \"TyC Sports\" falou sobre o imbróglio judicial entre o clube e o Consórcio Fla-Flu, que administra o estádio",
-      "category": "Mundo"
-    },
-    {
-      "title": "China vai reduzir para metade as exportações de veículos híbridos e plug-in para a UE",
-      "url": "https://www.rtp.pt/noticias/economia/china-vai-reduzir-para-metade-as-exportacoes-de-veiculos-hibridos-e-plug-in-para-a-ue_v1770935",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:49:47+00:00",
-      "summary": "A China vai reduzir para metade as exportações de veículos híbridos e plug-in para a União Europeia, ao longo dos próximos anos.",
-      "category": "Economia"
-    },
-    {
-      "title": "El Niño forte deve pressionar inflação até fevereiro, diz economista",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/el-nino-forte-deve-pressionar-inflacao-ate-fevereiro-diz-economista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T20:47:00+00:00",
-      "summary": "IPCA sobe 0,82% em setembro; alimentos e bebidas puxam alta e fenômeno climático preocupa especialistas",
-      "category": "Economia"
-    },
-    {
-      "title": "Em meio a rumores de término, Vini Jr. começa no banco, faz gol e é expulso",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/em-meio-a-rumores-de-termino-vini-jr-comeca-no-banco-faz-gol-e-e-expulso/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T20:46:16+00:00",
-      "summary": "Atacante recebeu cartão vermelho contra o Villarreal enquanto Virginia Fonseca embarcou para Miami sem aliança atacante",
-      "category": "Esportes"
-    },
-    {
-      "title": "Vini Jr. puxa cabelo de rival em meio a boatos de término com Virginia",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/vini-jr-puxa-cabelo-de-rival-em-meio-a-rumores-de-termino-com-virginia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T20:45:01+00:00",
-      "summary": "Brasileiro chegou a balançar as redes após cruzamento de Bellingham, mas lance foi revisado pelo VAR e terminou com cartão vermelho por agressão a Saliba",
-      "category": "Mundo"
-    },
-    {
-      "title": "Meta de inflação de 3% é inatingível, diz CEO da Hedge Investments",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/meta-de-inflacao-de-3-e-inatingivel-diz-ceo-da-hedge-investments/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T20:42:22+00:00",
-      "summary": "Para André Freitas, indexação, memória inflacionária e custos globais tornam meta incompatível com cenário atual",
-      "category": "Economia"
-    },
-    {
-      "title": "Militares resgatam vítimas de caminhonete submersa na Flórida",
-      "url": "https://www.cnnbrasil.com.br/internacional/militares-resgatam-vitimas-de-caminhonete-submersa-na-florida/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T20:40:47+00:00",
-      "summary": "Ciclone pós-tropical Isaias atingiu a costa dos Estados Unidos no início deste sábado, matou ao menos quatro pessoas e deixou centenas de milhares sem luz",
-      "category": "Mundo"
-    },
-    {
-      "title": "Centenas de pessoas manifestaram-se em Lisboa pela Palestina",
-      "url": "https://www.rtp.pt/noticias/mundo/centenas-de-pessoas-manifestaram-se-em-lisboa-pela-palestina_v1770933",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:35:49+00:00",
-      "summary": "Organizações de defesa da causa Palestiniana, a CGTP e representantes de partidos manifestaram-se pelas ruas da capital. Exigiram o fim do genocídio, da ocupação e o respeito pelos direitos do povo palestiniano.",
-      "category": "Política"
-    },
-    {
-      "title": "MAR x FCP. “Pietuszewski em jogo no segundo golo do Porto”",
-      "url": "https://observador.pt/programas/sem-falta/mar-x-fcp-pietuszewski-em-jogo-no-segundo-golo-do-porto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:28:34+00:00",
-      "summary": "Nota 7 para a equipa de arbitragem do Marítimo x Porto. “VAR deu uma ajuda preciosa num momento decisivo”. Num jogo decidido por 1 centímetro, Pedro Henriques fala dos efeitos positivos da tecnologia.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "MAR x FCP. “A entrada de Pietuszewski mexeu com o jogo”",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/mar-x-fcp-a-entrada-de-pietuszewski-mexeu-com-o-jogo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:26:36+00:00",
-      "summary": "Apesar da remontada do Porto, Filipe Coelho diz que o jogo “não foi espetacular”. Diogo Costa não ofereceu a habitual segurança e ficou ligado ao golo do Marítimo. 8 vitórias em 8 jogos para Farioli.",
-      "category": "Esportes"
-    },
-    {
-      "title": "MAR x FCP. “Diogo Costa mostrou excesso de confiança”",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/mar-x-fcp-diogo-costa-mostrou-excesso-de-confianca/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:26:35+00:00",
-      "summary": "“Vitória difícil e sem nota artística” em que valeu aos dragões uma obra-prima de Pietuszewski. Luís Pinto Coelho afirma ainda que Diogo Costa foi o pior do lado do FCP. Nota 17 à exibição da equipa.",
-      "category": "Mundo"
-    },
-    {
-      "title": "21h. Aeroporto de Riade foi evacuado depois de uma explosão",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1783/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T20:15:31+00:00",
-      "summary": "Há registo de dezenas de feridos e pelo menos cinco pessoas em estado grave. Ainda, Paulo Raimundo diz que o Orçamento do Estado para o próximo ano é uma \"desgraça para o país\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Carlos Gil faz da Rua Augusta passerelle para todos",
-      "url": "https://observador.pt/2026/10/10/na-modalisboa-a-augusta-e-a-passerelle-de-carlos-gil-queria-um-desfile-na-rua-para-o-povo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T19:47:42+00:00",
-      "summary": "O desfile realizou-se em frente ao Museu de Design, com o arco como pano de fundo",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Concordo com o campo inclinado mas para o outro lado...\"",
-      "url": "https://observador.pt/2026/10/10/concordo-com-o-campo-inclinado-mas-para-o-outro-lado-farioli-responde-a-farpa-de-van-der-gaag-sobre-arbitragem/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T19:37:27+00:00",
-      "summary": "Francesco Farioli admitiu que FC Porto acusou golo sofrido na primeira parte mas destacou vitória \"justa mas difícil\" nos Barreiros",
       "category": "Esportes"
     },
     {
@@ -461,8 +488,8 @@
       "category": "Ciência & Tech"
     },
     {
-      "title": "Ibama extingue 229 incêndios no Amazonas e segue no combate ao fogo",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/ibama-extingue-229-incendios-no-amazonas-e-segue-no-combate-ao-fogo",
+      "title": "Ibama apaga 229 incêndios no Amazonas e segue no combate ao fogo",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/ibama-apaga-229-incendios-no-amazonas-e-segue-no-combate-ao-fogo",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-10T18:18:00+00:00",
@@ -495,33 +522,6 @@
       "publishedAt": "2026-10-10T14:55:00+00:00",
       "summary": "Cinco pessoas morreram neste sábado (10) em um acidente que ocorreu às 6h30 no km 252 da rodovia BR 393, em Barra do Piraí, no sul fluminense. De acordo com o Corpo de Bombeiros, as vítimas são um menino, um homem e três mulheres. Nove pessoas sofreram ferimentos leves e foram encaminhadas a unidades hospitalares. Uma ",
       "category": "Saúde"
-    },
-    {
-      "title": "Bets: mais de R$ 1 bilhão foram devolvidos a apostadores",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bets-mais-de-r-1-bilhao-foram-devolvidos-apostadores",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T14:47:00+00:00",
-      "summary": "Mais de R$ 1 bilhão em saldos de apostadores de bets foram devolvidos aos usuários dessas plataformas. Com isso, o saldo atual, que ainda precisa ser transferido após a proibição das apostas online, caiu de R$ 1,2 bilhão para R$ 159 milhões, segundo dados enviados pelas empresas ao governo federal. Os recursos deverão ",
-      "category": "Política"
-    },
-    {
-      "title": "José Sarney é internado em UTI após procedimento abdominal",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/jose-sarney-e-internado-em-uti-apos-procedimento-abdominal",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T13:58:00+00:00",
-      "summary": "O ex-presidente José Sarney, de 96 anos, está internado na unidade de terapia intensiva (UTI) do UDI Hospital, em São Luiz, após passar por uma cirurgia no abdômen. O boletim médico emitido pela Rede D’Or, responsável pelo hospital, informa que Sarney foi internado na tarde de sexta-feira (9) com quadro de dor abdomina",
-      "category": "Política"
-    },
-    {
-      "title": "Festival do Rio chega ao último fim de semana",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/festival-do-rio-chega-ao-ultimo-fim-de-semana",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T13:05:00+00:00",
-      "summary": "O Festival do Rio chega ao último fim de semana com a expectativa de superar o público de 140 mil pessoas que participaram da edição passada. O evento trouxe mais de 350 filmes na programação. Realizada entre 1º e 11 de outubro, a 28ª edição reúne produções brasileiras e internacionais, pré-estreias, sessões especiais,",
-      "category": "Cultura"
     }
   ],
   "sources": [
