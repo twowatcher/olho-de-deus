@@ -1,391 +1,454 @@
 {
-  "updatedAt": "2026-10-11T07:09:16.950840+00:00",
+  "updatedAt": "2026-10-11T14:00:19.122447+00:00",
   "items": [
     {
-      "title": "7h Pelo menos 12 mortos num ataque ao aeroporto de Riade",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/7h-pelo-menos-12-mortos-num-ataque-ao-aeroporto-de-riade_a1_1770976",
+      "title": "\"Amor Azul\" de Gilberto Gil junta ópera e música popular brasileira",
+      "url": "https://www.rtp.pt/noticias/cultura/amor-azul-de-gilberto-gil-junta-opera-e-musica-popular-brasileira_v1771021",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T07:29:02+00:00",
+      "publishedAt": "2026-10-11T14:41:47+00:00",
+      "summary": "Gilberto Gil esteve em Lisboa para apresentar uma ópera-canção. \"Amor Azul\" junta música erudita a sons populares brasileiros.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Inteligência Artificial. Aliada ou ameaça para os alunos?",
+      "url": "https://www.rtp.pt/noticias/pais/inteligencia-artificial-aliada-ou-ameaca-para-os-alunos_v1771020",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T14:39:47+00:00",
+      "summary": "A Inteligência Artificial vai entrar, de forma transversal, nos currículos das escolas portuguesas, a partir do próximo ano letivo.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Rosa Sousa eleita presidente da UGT",
+      "url": "https://www.rtp.pt/noticias/economia/rosa-sousa-eleita-presidente-da-ugt_n1771016",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T14:36:51+00:00",
+      "summary": "A social-democrata Rosa Sousa foi hoje eleita presidente da UGT para o próximo quadriénio, com 413 votos a favor, 78 votos contra, 17 votos brancos e quatro nulos, substituindo Lucinda Dâmaso no cargo, que ocupa desde 2013.",
+      "category": "Política"
+    },
+    {
+      "title": "14h Nódulo no pulmão: Papa Leão XIV é operado no início da semana",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-nodulo-no-pulmao-papa-leao-xiv-e-operado-no-inicio-da-semana_a1_1771019",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T14:26:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Saber sair também é amor",
-      "url": "https://observador.pt/programas/amiga-faz-parte/saber-sair-tambem-e-amor/",
-      "source": "Observador",
+      "title": "Manifestantes acampam no Porto contra preços da habitação",
+      "url": "https://www.rtp.pt/noticias/pais/manifestantes-acampam-no-porto-contra-precos-da-habitacao_v1771018",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T07:06:18+00:00",
-      "summary": "Um casamento que acabou ao fim de meio ano. Uma relação de 8 anos que terminou e outra que trouxe um bebé. A Regina e a Marta contam-nos como é recomeçar quando a vida muda.",
+      "publishedAt": "2026-10-11T14:14:21+00:00",
+      "summary": "Dezenas de pessoas permanecem acampadas na Praça D. João I, no Porto. Decidiram dar seguimento ao protesto, realizado ontem, em várias cidades do país, contra o aumento do custo de vida e da habitação. E apelam à criação de um movimento semelhante ao que ocorreu em Madrid.",
+      "category": "Economia"
+    },
+    {
+      "title": "Ceuta. Desmantelado último acampamento de migrantes antes da visita real",
+      "url": "https://www.rtp.pt/noticias/mundo/ceuta-desmantelado-ultimo-acampamento-de-migrantes-antes-da-visita-real_n1771017",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T14:10:10+00:00",
+      "summary": "As autoridades espanholas desmantelaram hoje o último grande acampamento de migrantes em Ceuta, dois dias antes de uma visita do Rei Felipe VI, a primeira em 20 anos de um chefe de Estado de Espanha.",
       "category": "Mundo"
     },
     {
-      "title": "Estudo associa sintomas de Covid longa à queda de dopamina; entenda",
-      "url": "https://www.cnnbrasil.com.br/saude/estudo-associa-sintomas-de-covid-longa-a-queda-de-dopamina-entenda/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T06:45:24+00:00",
-      "summary": "Pesquisa, publicada na revista científica eBioMedicine, identificou redução de até 20% em proteína cerebral de pacientes com sequelas prolongadas da doença",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "“Há muitos egos na cozinha e isso tira-nos altruísmo\"",
-      "url": "https://observador.pt/programas/em-40-minutos/jose-avillez-um-bom-chefe-tem-de-ser-generoso-mas-ha-muitos-egos-na-cozinha-e-isso-tira-nos-altruismo/",
-      "source": "Observador",
+      "title": "Furacão Isaías deixou 45 mil sem energia",
+      "url": "https://www.rtp.pt/noticias/mundo/furacao-isaias-deixou-45-mil-sem-energia_v1771015",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T06:40:06+00:00",
-      "summary": "Acusado de \"destruir a cozinha portuguesa\", José Avillez reconstruiu o seu império entre o ego, o medo da perda e a pandemia de Covid-19. O chef confessa falhas e revela ainda o lado negro da fama.",
+      "publishedAt": "2026-10-11T13:51:35+00:00",
+      "summary": "O furacão Isaías provocou quarto mortes na passagem pelos Estados Unidos. Há estradas e edifícios danificados. Foram afetadas casas, escolas e hospitais.",
       "category": "Mundo"
     },
     {
-      "title": "Obesidade é comum no Brasil e pode levar à morte; veja como prevenir",
-      "url": "https://www.cnnbrasil.com.br/saude/obesidade-e-comum-no-brasil-e-pode-levar-a-morte-veja-como-prevenir/",
+      "title": "Adolescente de 16 anos morre afogado em barragem de Salvador; corpo é encontrado a quase 30 metros de profundidade",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/adolescente-morre-afogado-em-barragem-de-salvador.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:48:58+00:00",
+      "summary": "Corpo de adolescente é encontrado na barragem de Ipitanga O corpo do adolescente Lucas de Souza Gomes Santos, de 16 anos, foi encontrado na manhã de sábado (10), na Barragem de Ipitanga I, na região de Cajazeiras, em Salvador. Ele havia desaparecido na tarde de sexta (9), após entrar no reservatório para tomar banho co",
+      "category": "Mundo"
+    },
+    {
+      "title": "Maldição quebrada, recorde batido: Max vence em Singapura",
+      "url": "https://observador.pt/2026/10/11/quatro-em-linha-outra-maldicao-quebrada-e-dois-recordes-max-verstappen-completa-fim-de-semana-de-sonho-em-singapura/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T13:48:51+00:00",
+      "summary": "Max Verstappen conseguiu vencer sprint e corrida em Singapura. Desde 2021 que Red Bull não vencia na Marina Bay, então com um triunfo de Sergio Pérez",
+      "category": "Mundo"
+    },
+    {
+      "title": "Resultados das Loterias Caixa",
+      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:48:48+00:00",
+      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+      "category": "Mundo"
+    },
+    {
+      "title": "UEA mantém provas do SIS e do Vestibular apesar da fumaça em Manaus e cidades da Região Metropolitana",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/11/uea-mantem-provas-do-sis-e-do-vestibular-apesar-da-fumaca-em-manaus-e-cidades-da-regiao-metropolitana.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:47:22+00:00",
+      "summary": "Provas do SIS e do Vestibular da UEA começam neste domingo (11) Foto: Daniel Brito/UEA A Universidade do Estado do Amazonas (UEA) confirmou neste domingo (11) que as provas do Sistema de Ingresso Seriado (SIS) e do Vestibular 2026, com ingresso em 2027, estão mantidas, apesar da fumaça que cobre Manaus pelo quarto dia ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Duas pessoas morrem em batida entre caminhão e carro na BR-101 na Grande Natal",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/11/morrem-batida-caminhao-carro-br-101-grande-natal.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:45:26+00:00",
+      "summary": "Graves acidentes no RN Duas pessoas morreram na madrugada deste sábado (10) em um acidente entre um caminhão e um carro na BR-101 em Goianinha, na Região Metropolitana de Natal. As vítimas estavam no caminhão e tinham 27 anos (o motorista) e 18 (o passageiro). Eles não tiveram os nomes divulgados. De acordo com a Políc",
+      "category": "Mundo"
+    },
+    {
+      "title": "Jovem é morto com 27 tiros pela PM após confundirem celular com arma em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/jovem-e-morto-com-27-tiros-pela-pm-apos-confundirem-celular-com-arma-em-sp/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-11T06:35:03+00:00",
-      "summary": "Condição crônica é associada à diversos fatores que pode aumentar o risco de diabetes e hipertensão; doença ganha destaque neste domingo (11), Dia de Prevenção da Obesidade",
+      "publishedAt": "2026-10-11T13:44:51+00:00",
+      "summary": "Policiais atiraram contra Gustavo Munis de Santana de 20 anos na madrugada deste sábado (10) na zona sul de SP após ele correr dos agentes; ao todo foram 45 disparos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Círio de Nazaré: Berlinda faz a curva para a av. Nazaré; ACOMPANHE",
+      "url": "https://g1.globo.com/pa/para/cirio-de-nazare/ao-vivo/cirio-de-nazare-2026-transmissao-ao-vivo-pelo-g1.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:42:51+00:00",
+      "summary": "Círio de Nazaré: Berlinda faz a curva para a av. Nazaré; ACOMPANHE g1 volta a mostrar ao vivo os detalhes das procissões da Festa de Nazaré neste domingo, a partir de 5h30 Neste domingo (11) ocorre a grande procissão do Círio de Nazaré, que costuma reunir mais de 2 milhões de pessoas nas ruas da capital. . No sábado (1",
+      "category": "Mundo"
+    },
+    {
+      "title": "O que se sabe sobre a cirurgia do papa Leão para retirar nódulo no pulmão",
+      "url": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-sobre-a-cirurgia-do-papa-leao-para-retirar-nodulo-no-pulmao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:41:20+00:00",
+      "summary": "Pontífice falou sobre questão de saúde diante dos fiéis reunidos na Praça de São Pedro; ele deve ser submetido a cirurgia nos próximos dias no Hospital Gemelli, em Roma",
       "category": "Saúde"
     },
     {
-      "title": "Tartaruga de 194 anos pode ajudar os humanos a viverem mais tempo",
-      "url": "https://www.cnnbrasil.com.br/ciencia/tartaruga-de-194-anos-pode-ajudar-os-humanos-a-viverem-mais-tempo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T06:33:36+00:00",
-      "summary": "Pesquisadores identificaram quase trezentas variantes genéticas no animal terrestre mais velho do mundo para orientar pesquisas de saúde e possíveis estudos",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "PMs que morreram em queda de avião em MG são velados neste domingo (11)",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/pms-que-morreram-em-queda-de-aviao-em-mg-sao-velados-neste-domingo-11/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T06:33:03+00:00",
-      "summary": "Vítimas foram identificadas como tenente-Coronel Luís Fernando Terrestre, tenente Gabriela Emília Soares Lacerda Resende e tenente Alice dos Santos Oliveira Almeida",
-      "category": "Mundo"
-    },
-    {
-      "title": "6h Aumento propinas: Miranda Sarmento não vê razão para protestos",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-aumento-propinas-miranda-sarmento-nao-ve-razao-para-protestos_a1_1770972",
+      "title": "Donald Trump diz que a Ucrânia deveria realizar eleições",
+      "url": "https://www.rtp.pt/noticias/mundo/donald-trump-diz-que-a-ucrania-deveria-realizar-eleicoes_v1771014",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T06:16:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "7h. Portugal condena ataque dos houthis na Arábia Saudita",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2531/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T06:13:21+00:00",
-      "summary": "O ataque fez pelo menos 12 mortos e mais de 300 feridos. Também neste jornal, o discurso de Barack Obama em Lisboa, a manifestação contra a crise na Habitação e a antevisão do Benfica - Vitória.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Flamengo x Fluminense: horário e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-x-fluminense-horario-e-onde-assistir-ao-jogo-do-brasileirao-3/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T06:00:52+00:00",
-      "summary": "Equipes se enfrentam neste domingo (11) na Arena MRV, em Belo Horizonte, pela 30ª rodada da Série A do Campeonato Brasileiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Pfeifer: América do Sul precisa de agenda coesa para ganhar lugar no mundo",
-      "url": "https://www.cnnbrasil.com.br/internacional/pfeifer-america-do-sul-precisa-de-agenda-coesa-para-ganhar-lugar-no-mundo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T06:00:45+00:00",
-      "summary": "Coordenador-geral do grupo de Defesa, Segurança e Inteligência da USP afirma que países do continente tentaram buscar maior integração regional, mas ações tiveram pouco efeito nos últimos anos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Pescadores denunciam aumento da poluição e prejuízos após obra de dragagem do Porto do Recife; MPF apura impactos ambientais",
-      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/11/pescadores-denunciam-aumento-da-poluicao-e-prejuizos-apos-obra-de-dragagem-do-porto-do-recife-mpf-apura-impactos-ambientais.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T06:00:00+00:00",
-      "summary": "Pescadores denunciam queda na pesca após dragagem do Porto do Recife Espelho d'água que separa a Zona Sul do Centro da capital pernambucana, a Bacia do Pina é um estuário onde os rios Tejipió, Jordão, Jiquiá e um braço do Capibaribe se encontram com o Oceano Atlântico. A preservação do local tem preocupado pescadores q",
-      "category": "Mundo"
-    },
-    {
-      "title": "Árvore gigante de até 500 anos cai em SC, e cientistas tentam cloná-la para preservar seu DNA",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/11/arvore-gigante-de-ate-500-anos-cai-em-sc-e-cientistas-tentam-clona-la-para-preservar-seu-dna.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T06:00:00+00:00",
-      "summary": "Gigantes pré-históricas A queda de uma das maiores árvores do país mobilizou equipes de pesquisadores em uma verdadeira operação de resgate científico. Conhecida carinhosamente como Pinheirão, a araucária de mais de 40 metros de altura ficava em uma floresta experimental compartilhada pela Embrapa Florestas e pela Empr",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Você sabia que o solo faz toda a diferença na produção do vinho? Pesquisadores estudam há 15 anos como melhorar produção no RS",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/11/solo-diferenca-vinho.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T06:00:00+00:00",
-      "summary": "Você sabia que o solo faz toda a diferença na produção do vinho? Pesquisadores explicam Quando uma taça de vinho é servida, poucos imaginam que parte importante do sabor da bebida começa muito antes da colheita das uvas. E essa etapa decisiva não está nos cachos nem nas folhas das videiras, mas no solo onde elas são cu",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "IA ameaça aumentar desigualdades de gênero no mercado de trabalho, diz relatório",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/11/ia-ameaca-aumentar-desigualdades-de-genero-no-mercado-de-trabalho-diz-relatorio.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T06:00:00+00:00",
-      "summary": "IA está criando grandes novas oportunidades, mas também pode aumentar a desigualdade, afirma ONU Kirill KUDRYAVTSEV / AFP O boom da inteligência artificial (IA) poderia acentuar as desigualdades de gênero no mercado de trabalho, alertaram dirigentes do Fórum Econômico Mundial (WEF, na sigla em inglês) e do LinkedIn em ",
-      "category": "Economia"
-    },
-    {
-      "title": "6h. Guterres \"profundamente chocado\" com ataque em Riade",
-      "url": "https://observador.pt/programas/noticiario/6h-guterres-profundamente-chocado-com-ataque-em-riade/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T05:37:02+00:00",
-      "summary": "O secretário-geral da ONU afirma que ataques contra civis e infraestruturas civis violam o direito internacional. Ainda, Governo do Panamá declarou estado de emergência após sismos de sexta-feira.",
+      "publishedAt": "2026-10-11T13:37:47+00:00",
+      "summary": "Depois do apelo à substituição de Volodymyr Zelensky, o presidente dos Estados Unidos também criticou os ataques da Ucrânia às infraestruturas petrolíferas da Rússia.",
       "category": "Política"
     },
     {
-      "title": "5h Manifestações. Milhares na rua contra aumento do custo de vida",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-manifestacoes-milhares-na-rua-contra-aumento-do-custo-de-vida_a1_1770967",
+      "title": "Montenegro condena \"insensatez\" da subida do preço do petróleo",
+      "url": "https://www.rtp.pt/noticias/economia/montenegro-condena-insensatez-da-subida-do-preco-do-petroleo_v1771010",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T05:29:02+00:00",
+      "publishedAt": "2026-10-11T13:37:37+00:00",
+      "summary": "O primeiro-ministro apela ao fim da conjuntura que leva à insensatez da escalada do preço do petróleo. Esta manhã, na celebração do centenário de São João da Madeira, o primeiro-ministro destacou a trajetória económica do país e apontou o dedo aos que querem \"importar\" a instabilidade.",
+      "category": "Política"
+    },
+    {
+      "title": "13h Papa Leão XIV vai ser operado a nódulo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-papa-leao-xiv-vai-ser-operado-a-nodulo_a1_1771013",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T13:37:03+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Judite, a mulher que derrotou um exército",
-      "url": "https://observador.pt/programas/as-historias-da-biblia/judite-a-mulher-que-derrotou-um-exercito/",
-      "source": "Observador",
+      "title": "12h A1 reaberta ao trânsito",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/12h-a1-reaberta-ao-transito_a1_1771012",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T05:04:57+00:00",
-      "summary": "Corajosa heroína do romance que leva o seu nome (mas que surge apenas em algumas bíblias), Judite é uma das mais corajosas heroínas do Antigo Testamento. O novo episódio de \"As Histórias da Bíblia\".",
+      "publishedAt": "2026-10-11T13:36:03+00:00",
+      "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "A língua portuguesa está a perder espaço na China?",
-      "url": "https://observador.pt/programas/portugues-suave/a-lingua-portuguesa-esta-a-perder-espaco-na-china/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T05:03:43+00:00",
-      "summary": "Apesar das notícias sobre o encerramento de cursos na China, o português continua em expansão. Marco Neves resolve ainda um diferendo entre ouvintes e desvenda os gentílicos mais curiosos de Portugal.",
-      "category": "Ciência & Tech"
+      "title": "Círio de Nazaré em Macapá reúne multidão de fiéis em caminhada de fé e emoção; FOTOS",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/11/cirio-de-nazare-em-macapa-reune-multidao-de-fieis-em-caminhada-de-fe-e-emocao-fotos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:35:59+00:00",
+      "summary": "Círio de Nazaré 2026 no Amapá. Isadora Pereira/g1 Milhares de fiéis tomaram as ruas de Macapá durante a procissão do Círio de Nazaré para renovar os votos de fé, agradecer por graças alcançadas e cumprir promessas neste domingo (11) Entre o mar de devotos, cenários de emoção marcaram o trajeto, desde o empenho dos prom",
+      "category": "Mundo"
     },
     {
-      "title": "Capitais europeus estão a fugir para EUA? — Ouvintes",
-      "url": "https://observador.pt/programas/fora-do-baralho/capitais-europeus-estao-a-fugir-para-eua-ouvintes/",
-      "source": "Observador",
+      "title": "Mais de 200 apartamentos de renda acessível por construir em Matosinhos",
+      "url": "https://www.rtp.pt/noticias/pais/mais-de-200-apartamentos-de-renda-acessivel-por-construir-em-matosinhos_v1771011",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T05:02:17+00:00",
-      "summary": "No Fora do Baralho ouvintes, Jorge Fernandes responde a questões sobre os investimentos europeus que fogem para os EUA e regressa à questão dos comentadores e das notas atribuídas.",
-      "category": "Economia"
+      "publishedAt": "2026-10-11T13:35:47+00:00",
+      "summary": "204 apartamentos para arrendamento acessível estão por construir, no concelho de Matosinhos, desde 2023. A Autarquia cedeu os terrenos, mas o Instituto da Habitação e Reabilitação Urbana não avançou com o empreendimento.",
+      "category": "Mundo"
     },
     {
-      "title": "Elétrico bateu gasolina e híbridos. Moda veio para ficar?",
-      "url": "https://observador.pt/programas/operacao-stop/eletrico-bateu-gasolina-e-hibridos-moda-veio-para-ficar/",
+      "title": "109 migrantes mortos e 116 desaparecidos em naufrágio",
+      "url": "https://observador.pt/2026/10/11/pelo-menos-109-migrantes-mortos-e-116-desaparecidos-em-naufragio-ao-largo-do-djibuti/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T05:02:17+00:00",
-      "summary": "Setembro permitiu que a venda de veículos elétricos ultrapassasse, pela primeira vez, os modelos equipados com motores a combustão e os híbridos",
+      "publishedAt": "2026-10-11T13:32:19+00:00",
+      "summary": "As equipas desta agência das Nações Unidas estão no terreno juntamente com as autoridades locais para fornecer ajuda de emergência.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Caminhão carregado com cerveja tomba e interdita trecho da Via Dutra, em Barra Mansa",
+      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/11/caminhao-carregado-com-cerveja-tomba-e-interdita-trecho-da-via-dutra-em-barra-mansa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:31:07+00:00",
+      "summary": "Caminhão carregado com cerveja tomba e interdita trecho da Via Dutra, em Barra Mansa Divulgação/Redes Sociais Um caminhão, que estava carregado com cerveja, tombou e interditou parcialmente um trecho da Via Dutra, na manhã deste domingo (11), em Barra Mansa (RJ). O caso aconteceu na altura do km 275, na pista sentido R",
+      "category": "Mundo"
+    },
+    {
+      "title": "Infraestrutura urbana: por que ela deve pesar na escolha de onde morar",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/infraestrutura-urbana-por-que-ela-deve-pesar-na-escolha-de-onde-morar/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:30:38+00:00",
+      "summary": "Saneamento, transporte, escolas, unidades de saúde e áreas de lazer fazem parte da estrutura que sustenta a vida nas cidades",
+      "category": "Saúde"
+    },
+    {
+      "title": "UGT. Rosa Sousa eleita presidente e Mourão secretário-geral",
+      "url": "https://observador.pt/2026/10/11/social-democrata-rosa-sousa-eleita-presidente-da-ugt-mario-mourao-fara-segundo-mandato-como-secretario-geral/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T13:29:14+00:00",
+      "summary": "A UGT realizou eleições neste domingo. A social-democrata Rosa Sousa é a nova presidente. Mário Mourão mantém-se, com mandato renovado, como secretário-geral.",
+      "category": "Política"
+    },
+    {
+      "title": "Flamengo na Kings League? Piqué avalia entrada de clubes brasileiros",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-na-kings-league-pique-avalia-entrada-de-clubes-brasileiros/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:23:57+00:00",
+      "summary": "Ao CNN Esportes S/A deste (11), ex-zagueiro diz que Flamengo e Corinthians na Kings League teriam um “impacto positivo nas novas gerações”",
+      "category": "Esportes"
+    },
+    {
+      "title": "Avó deu banho e trocou roupa de menino morto após facada durante discussão familiar na Bahia",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/avo-deu-banho-e-trocou-roupa-de-menino-morto-apos-facada-durante-discussao-familiar-na-bahia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:23:01+00:00",
+      "summary": "Menino morre após ser atingido por faca durante discussão entre mãe e avó na Bahia Reprodução/Redes Sociais A avó de Alisson da Silva Costa, de 8 anos, deu banho e trocou a roupa do menino antes de levá-lo ao hospital, após a criança ser atingida por uma facada durante uma discussão familiar em Paratinga, no oeste da B",
+      "category": "Saúde"
+    },
+    {
+      "title": "Ataque a tiros deixa homem morto e outros dois feridos em estabelecimento de João Pessoa",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/11/ataque-a-tiros-deixa-homem-morto-e-outros-dois-feridos-em-estabelecimento-de-joao-pessoa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:21:01+00:00",
+      "summary": "Ataque a tiros deixa homem morto e outros dois feridos em estabelecimento de João Pessoa Reprodução/Flávio Fernandes Um homem foi morto a tiros na noite deste sábado (10), no bairro de Jaguaribe, em João Pessoa. Outros dois homens também foram baleados e socorridos para o Hospital de Emergência e Trauma da capital. O c",
+      "category": "Saúde"
+    },
+    {
+      "title": "Desmantelado último acampamento antes de visita real a Ceuta",
+      "url": "https://observador.pt/2026/10/11/desmantelado-ultimo-acampamento-de-migrantes-antes-da-visita-real-a-ceuta/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T13:17:19+00:00",
+      "summary": "Os reis Felipe VI e Letizia são esperados em Ceuta na terça-feira, numa viagem coordenada com o Governo. Antes dessa visita o último acampamento foi desmantelado.",
+      "category": "Política"
+    },
+    {
+      "title": "Do barulho no asfalto às memórias de infância: como o carrinho de rolimã conquistou as ladeiras do Brasil",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/do-barulho-no-asfalto-as-memorias-de-infancia-como-o-carrinho-de-rolima-conquistou-as-ladeiras-do-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:16:22+00:00",
+      "summary": "Muito além de madeira e rodas de aço, a invenção artesanal transformou a infância urbana e virou símbolo de liberdade para gerações",
       "category": "Cultura"
     },
     {
-      "title": "Palmeiras x Corinthians: horário e onde assistir ao clássico do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-x-corinthians-horario-e-onde-assistir-ao-classico-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T05:00:58+00:00",
-      "summary": "Equipes se enfrentam neste domingo (11), no Nubank Parque, em São Paulo, pela 30ª rodada da Série A do Campeonato Brasileiro; rivais estão em situações distintas na tabela",
-      "category": "Esportes"
-    },
-    {
-      "title": "Grêmio x Internacional: horário e onde assistir ao clássico do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-x-internacional-horario-e-onde-assistir-ao-classico-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T05:00:11+00:00",
-      "summary": "Equipes se enfrentam neste domingo (11), na Arena do Grêmio, em Porto Alegre, pela 30ª rodada da Série A do Campeonato Brasileiro; rivais estão no Z4 da competição",
-      "category": "Esportes"
-    },
-    {
-      "title": "Filhos assumem bar do pai, reinventam o negócio e triplicam o faturamento em SP",
-      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/10/11/filhos-assumem-bar-do-pai-reinventam-o-negocio-e-triplicam-o-faturamento-em-sp.ghtml",
+      "title": "Manaus e outros cinco municípios têm qualidade do ar ‘péssima’ neste domingo",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/11/manaus-e-outros-cinco-municipios-tem-qualidade-do-ar-pessima-neste-domingo.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-11T05:00:00+00:00",
-      "summary": "Filhos modernizam bar herdado do pai e triplicam faturamento em cinco anos Em um bar tradicional de Diadema, na Grande São Paulo, a história do negócio se confunde com a da própria família. Fundado pelo patriarca Marcos Alves, o estabelecimento ganhou fama na região e hoje é comandado pelos filhos, João e Eduardo Alves",
-      "category": "Mundo"
-    },
-    {
-      "title": "Bancada 100% 'feminina, e não feminista' vai representar o DF no Senado; veja perfis",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/11/bancada-100percent-feminina-e-nao-feminista-vai-representar-o-df-no-senado-veja-perfis.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T05:00:00+00:00",
-      "summary": "Bancada 100% 'feminina, e não feminista' vai representar o DF no Senado; veja perfis A partir de 2027, o Distrito Federal será a primeira unidade da Federação a ser totalmente representada por mulheres no Senado. Eleitas no último fim de semana, as novas senadoras Michelle Bolsonaro (PL) e Bia Kicis (PL) tomam posse em",
-      "category": "Política"
-    },
-    {
-      "title": "Maquiadora que confundiu gravidez com gases celebra nova rotina com a bebê: 'Tudo vai ficando para trás e ela em primeiro'",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/11/maquiadora-que-confundiu-gravidez-com-gases-celebra-nova-rotina-com-a-bebe-tudo-vai-ficando-para-tras-e-ela-em-primeiro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T05:00:00+00:00",
-      "summary": "Maquiadora que confundiu gravidez com gases celebra nova rotina com a bebê Três meses após descobrir que estava grávida, a maquiadora Tainara Aranda, de Serrana (SP), que viralizou nas redes sociais ao confundir a gestação com gases, vive agora em um mundo cor de rosa. A bebê Clarice, de 4 meses, mudou a rotina da famí",
-      "category": "Mundo"
-    },
-    {
-      "title": "Com investimento de R$ 41 milhões e mais de 400 atrações confirmadas, Gramado se prepara para o Natal Luz; veja programação",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/11/com-investimento-de-r-41-milhoes-e-mais-de-400-atracoes-confirmadas-gramado-se-prepara-para-o-natal-luz-veja-programacao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T05:00:00+00:00",
-      "summary": "Gramado se prepara para o Natal Luz, que começa em outubro Gramado se prepara para mais uma temporada iluminada. A programação da 41ª edição do Natal Luz terá 88 dias de atividades e reunirá mais de 400 atrações artísticas e culturais, com novidades entre os espetáculos e ampliação das opções gratuitas para o público. ",
-      "category": "Cultura"
-    },
-    {
-      "title": "2º turno no DF: o que há nos planos de governo de Celina e Grass sobre BRB, transporte e assistência social",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/11/2o-turno-no-df-o-que-ha-nos-planos-de-governo-de-celina-e-grass-sobre-brb-transporte-e-assistencia-social.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T05:00:00+00:00",
-      "summary": "Eleição para governo do Distrito Federal vai para o segundo turno Celina Leão e Leandro Grass disputam o governo do Distrito Federal no 2° turno das eleições. No registro dos candidatos, no Tribunal Superior Eleitoral (TSE), é possível acessar o plano de governo de cada um e ler as promessas para o cargo. O g1 separou ",
-      "category": "Política"
-    },
-    {
-      "title": "4h Campeões portugueses no Mundial de Patinagem Artística",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-campeoes-portugueses-no-mundial-de-patinagem-artistica_a1_1770965",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T04:25:01+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "5h. Panamá em estado de emergência após sismos",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1573/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T04:14:56+00:00",
-      "summary": "O ministro da Presidência do país, afirma que entre as infraestruturas danificadas estão habitações, escolas, unidades de saúde, estradas e hotéis. Ainda, termina este domingo o congresso da UGT.",
-      "category": "Política"
-    },
-    {
-      "title": "Previsão do tempo hoje para Brasília (DF): dia de sol com névoa fraca ao amanhecer e à noite",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/11/previsao-do-tempo-hoje-para-brasilia-df-dia-de-sol-com-nevoa-fraca-ao-amanhecer-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T04:07:34+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este domingo (11) para Brasília (DF) é de dia de sol com névoa fraca ao amanhecer e à noite. As máximas são de 34ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol. À ",
+      "publishedAt": "2026-10-11T13:16:11+00:00",
+      "summary": "Manaus amanhece com fumaça pelo 4º dia seguido neste domingo (11); qualidade do ar é considerada 'péssima'´Víde Manaus e outros cinco municípios da Região Metropolitana registraram qualidade do ar considerada “péssima” na manhã deste domingo (11). A capital amazonense está coberta por fumaça de incêndios florestais pel",
       "category": "Clima"
     },
     {
-      "title": "Previsão do tempo hoje para São Paulo (SP): sol com aumento de nuvens e pancadas de chuva à tarde; chuva forte à noite, com trovoada",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/11/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-a-tarde-chuva-forte-a-noite-com-trovoada.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T04:07:18+00:00",
-      "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para este domingo (11) para São Paulo (SP) é de sol com aumento de nuvens e pancadas de chuva à tarde. Chuva forte à noite, com trovoada. As máximas são de 26ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com alg",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; à noite chove forte",
-      "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/11/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-a-noite-chove-forte.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T04:06:59+00:00",
-      "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para este domingo (11) para São Bernardo do Campo (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. À noite chove forte. As máximas são de 26ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a ",
-      "category": "Clima"
-    },
-    {
-      "title": "Liverpool x Manchester City: horário e onde assistir à Premier League",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/liverpool-x-manchester-city-horario-e-onde-assistir-a-premier-league/",
+      "title": "Thiago Rodrigues lamenta morte do pai: “sem saber que era a hora”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/thiago-rodrigues-lamenta-morte-do-pai-sem-saber-que-era-a-hora/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-11T04:00:31+00:00",
-      "summary": "Equipes se enfrentam neste domingo, às 12h30 (de Brasília), em jogo válido pela 6ª rodada da Premier League",
-      "category": "Esportes"
+      "publishedAt": "2026-10-11T13:15:55+00:00",
+      "summary": "Ator fez post e homenagem ao patriarca e conta sobre alguns de seus último momentos",
+      "category": "Mundo"
     },
     {
-      "title": "Secretário-geral da ONU condena ataque dos Houthis a aeroporto saudita",
-      "url": "https://www.cnnbrasil.com.br/internacional/secretario-geral-da-onu-condena-ataque-dos-houthis-a-aeroporto-saudita/",
+      "title": "‘Era pouco provável ela sobreviver’: após 28 dias de intubação, mãe leva filha curada ao Círio no AP",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/11/era-pouco-provavel-ela-sobreviver-apos-28-dias-de-intubacao-mae-leva-filha-curada-ao-cirio-no-ap.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:13:34+00:00",
+      "summary": "Alice a filha Maria Flor durante o Círio de Nazaré em Macapá. Isadora Pereira/g1 A professora Alice acompanhou a procissão do Círio de Nazaré, em Macapá, levando ao seu lado a filha Maria Flor, de 3 anos. A menina recebeu alta médica na segunda-feira anterior à festividade, após passar 28 dias intubada na Unidade de Te",
+      "category": "Saúde"
+    },
+    {
+      "title": "14h. Luís Montenegro condena a conjuntura internacional",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2500/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T13:12:55+00:00",
+      "summary": "O PM salienta que o contexto internacional tem penalizado as economias e pessoas. Ainda, o pneumologista Carlos Robalo Cordeiro explica os eventuais motivos que levam o Papa a ser operado.",
+      "category": "Economia"
+    },
+    {
+      "title": "64ª Festa do Boi começa na Grande Natal e espera receber 500 mil pessoas; veja programação",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/11/festa-do-boi-comeca-grande-natal-programacao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:10:37+00:00",
+      "summary": "Festa do boi acontece em Parnamirim, na Grande Natal Reprodução/Inter TV Cabugi A 64ª edição da Festa do Boi começou nesta sexta-feira (9) no Parque Aristófanes Fernandes, em Parnamirim, na Grande Natal, e espera receber um público de 500 mil pessoas ao longo de nove dias de programação. O evento segue até o dia 17 de ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Caso Master completa um mês parado na presidência do STF; entenda",
+      "url": "https://www.cnnbrasil.com.br/politica/caso-master-completa-um-mes-parado-na-presidencia-do-stf-entenda/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-11T03:51:03+00:00",
-      "summary": "António Guterres disse estar em choque profundo e afirmou que “os ataques contra civis e infraestruturas civis são uma violação do direito internacional” e que devem cessar imediatamente.",
-      "category": "Mundo"
-    },
-    {
-      "title": "3h Os alertas e preocupações de Barack Obama num evento em Lisboa",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-os-alertas-e-preocupacoes-de-barack-obama-num-evento-em-lisboa_a1_1770963",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T03:42:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "4h. Benfica recebe o Vitória Sport Clube, este domingo",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2427/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T03:14:30+00:00",
-      "summary": "O jogo marca o regresso de ambas as equipas à Liga Portugal depois da pausa para seleções de cerca de 3 semanas. Ainda, Trump tenciona falar com o príncipe herdeiro saudita sobre o ataque.",
-      "category": "Esportes"
-    },
-    {
-      "title": "2h Ataque aeroporto Riade é \"inaceitável e terrível\", diz Trump",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ataque-aeroporto-riade-e-inaceitavel-e-terrivel-diz-trump_a1_1770961",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T02:51:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "3h.Obama defende líderes que valorizem \"humanidade comum\"",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2463/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T02:12:37+00:00",
-      "summary": "Deixou ainda avisos a Trump como que o chefe de Estado não pode iniciar uma guerra sem aprovação do parlamento. Ainda, Isabel Mendes Lopes do Livre acusa Governo de viver numa realidade paralela.",
+      "publishedAt": "2026-10-11T13:10:13+00:00",
+      "summary": "Pedidos de liberdade e análise de processos aguardam despacho desde que o ministro Edson Fachin centralizou as investigações em seu gabinete, em 12 de setembro",
       "category": "Política"
     },
     {
-      "title": "Calleri decide, São Paulo vence o Vitória e respira no Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/calleri-decide-sao-paulo-vence-o-vitoria-e-respira-no-brasileirao/",
+      "title": "Sequestro Pantaneiro projeta lucro de R$ 160 mil com 200 bezerros",
+      "url": "https://www.cnnbrasil.com.br/agro/sequestro-pantaneiro-projeta-lucro-de-r-160-mil-com-200-bezerros/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-11T02:01:47+00:00",
-      "summary": "Atacante argentino marcou duas vezes e garantiu tranquilidade ao Tricolor Paulista, que se afasta da zona de rebaixamento",
+      "publishedAt": "2026-10-11T13:08:53+00:00",
+      "summary": "Estratégia desenvolvida na Fazenda Aparecida, em Mato Grosso do Sul, aposta na retenção de 200 bezerros por cerca de 100 dias, com nutrição de precisão e estrutura de baixo custo para valorizar os animais e proteger a rentabilidade da propriedade",
       "category": "Mundo"
     },
     {
-      "title": "Gingeróis, fenólicos e aroma picante: a alquimia do café com especiarias",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/gingerois-fenolicos-e-aroma-picante-a-alquimia-do-cafe-com-especiarias/",
+      "title": "Premiê da Itália expressa apoio ao papa após descoberta de nódulo no pulmão",
+      "url": "https://www.cnnbrasil.com.br/internacional/premie-da-italia-expressa-apoio-ao-papa-apos-descoberta-de-nodulo-no-pulmao/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-11T01:17:16+00:00",
-      "summary": "A adição de gengibre e canela modifica o perfil aromático da bebida e introduz compostos bioativos na rotina, mas exige moderação no consumo.",
-      "category": "Mundo"
+      "publishedAt": "2026-10-11T13:04:57+00:00",
+      "summary": "Leão XIV deve ser submetido a cirurgia nos próximos dias Hospital Gemelli; Vaticano afirma que tempo de recuperação deve ser de uma semana",
+      "category": "Saúde"
     },
     {
-      "title": "01h Doze pessoas morreram num ataque ao aeroporto de Riade",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-doze-pessoas-morreram-num-ataque-ao-aeroporto-de-riade_a1_1770957",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T01:16:01+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "2h. Quatro mortos devido ao furacão Isaías na Flórida",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2437/",
+      "title": "Nepal. Deslizamento de terras provoca nova enchente no rio",
+      "url": "https://observador.pt/2026/10/11/nepal-deslizamento-de-terras-faz-nova-enchente-no-rio-budhi-gandaki-e-arrasta-casas-e-pontes-cinco-pessoas-estao-desaparecidas/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T01:15:16+00:00",
-      "summary": "A Reuters avança que, segundo as autoridades locais, duas das mortes resultaram da queda de árvores sobre casas. Ainda, Marco Rubio confirma a morte de um cidadão norte-americano no ataque em Riade.",
+      "publishedAt": "2026-10-11T13:03:17+00:00",
+      "summary": "O exército nepalês resgatou 49 pessoas em meio às cheias",
+      "category": "Clima"
+    },
+    {
+      "title": "Loovi explica o que avaliar antes de escolher uma insurtech",
+      "url": "https://www.cnnbrasil.com.br/economia/loovi-explica-o-que-avaliar-antes-de-escolher-uma-insurtech/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:00:58+00:00",
+      "summary": "Com transparência contratual, precificação pela Tabela FIPE e agilidade mobile, o modelo digital da Loovi estabelece novos parâmetros de excelência e previsibilidade para o seguro automotivo no Brasil.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Roupa secando dentro de casa: como manter a perfumação",
+      "url": "https://www.cnnbrasil.com.br/comportamento/casa-e-decoracao/roupa-secando-dentro-de-casa-como-manter-a-perfumacao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:00:54+00:00",
+      "summary": "Em dias úmidos ou em apartamentos sem área externa, a secagem lenta pode tirar a fragrância das peças; veja o que fazer da lavagem ao varal",
+      "category": "Mundo"
+    },
+    {
+      "title": "Educação financeira: Jovens precisam ser envolvidos nas decisões, diz UBS",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/educacao-financeira-jovens-precisam-ser-envolvidos-nas-decisoes-diz-ubs/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T13:00:49+00:00",
+      "summary": "Yuri Freitas, do UBS Global Wealth Management, aponta caminhos para preparar crianças e adolescentes para uma relação saudável com o dinheiro",
+      "category": "Mundo"
+    },
+    {
+      "title": "Papa Leão XIV fará cirurgia para retirar nódulo no pulmão",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/papa-leao-xiv-fara-cirurgia-para-retirar-nodulo-no-pulmao",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T12:59:00+00:00",
+      "summary": "O Papa Leão XIV vai se submeter a uma cirurgia nos próximos dias para retirar um nódulo no pulmão. O pontífice fez o anúncio aos fiéis que acompanhavam a oração do Angelus deste domingo (11), na Praça São Pedro, no Vaticano. Leão relatou que o nódulo “foi identificado em uma fase muito inicial e está bem localizado”. N",
+      "category": "Mundo"
+    },
+    {
+      "title": "Rosa Sousa eleita presidente da UGT",
+      "url": "https://observador.pt/liveblogs/ugt-tem-430-mil-trabalhadores-filiados-menos-5-000-do-que-em-2022/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T12:49:31+00:00",
+      "summary": "O Congresso eletivo da UGT termina neste domingo na Figueira da Foz. A intersindical tem menos cinco mil filiados do que em 2022.",
+      "category": "Política"
+    },
+    {
+      "title": "UGT tem 430 mil filiados, menos 5.000 do que em 2022",
+      "url": "https://observador.pt/2026/10/11/ugt-tem-430-mil-trabalhadores-filiados-menos-5-000-do-que-em-2022/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T12:26:11+00:00",
+      "summary": "A UGT tem, atualmente, 50 associações sindicais filiadas (em 2022 eram 77), sete Federações e 20 Uniões. E continua a perder trabalhadores filiados.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Máximo Quiles sagra-se campeão mundial de Moto3",
+      "url": "https://observador.pt/2026/10/11/maximo-quiles-vence-na-indonesia-e-sagra-se-campeao-mundial-de-moto3/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T12:20:36+00:00",
+      "summary": "\"É incrível. Estou muito contente. Trabalhei para isto toda a minha vida. É um sonho\", afirmou o novo campeão.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Histórico Eliud Kipchoge volta a ganhar uma maratona",
+      "url": "https://observador.pt/2026/10/11/historico-eliud-kipchoge-volta-a-ganhar-uma-maratona-tres-anos-depois/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T12:17:27+00:00",
+      "summary": "\"Acredito que o meu corpo ainda consegue competir com a próxima geração\", declarou o atleta de 41 anos, citado pela BBC.",
+      "category": "Esportes"
+    },
+    {
+      "title": "13h. Papa Leão XIV vai ser operado na próxima semana",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2472/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T12:16:02+00:00",
+      "summary": "O líder da igreja católica anunciou que tem um nódulo no pulmão. E ainda, o Presidente da Ucrânia exige o fim de ataques russos como condição para deixar de atacar refinarias de petróleo.",
+      "category": "Política"
+    },
+    {
+      "title": "Santana ganhava mais como comentador do que como autarca",
+      "url": "https://observador.pt/especiais/rendimentos-santana-lopes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T12:13:35+00:00",
+      "summary": "Presidente da Figueira da Foz chegou a receber cinco vezes o seu salário de autarca por contribuições na imprensa. Reformou-se aos 49 anos devido a uma lei com que \"moralmente não concordava muito\".",
+      "category": "Política"
+    },
+    {
+      "title": "Santuário de Aparecida terá missas, consagração e procissão no feriado",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/santuario-de-aparecida-tera-missas-consagracao-e-procissao-no-feriado",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T12:01:00+00:00",
+      "summary": "Nesta segunda-feira (12), Dia da Nossa Senhora Aparecida, o Santuário Nacional de Aparecida, no interior de São Paulo, comemora a Festa da Padroeira do Brasil. O santuário preparou missas, consagrações e procissões para o feriado. A expectativa é de superar o público de 2025 , que chegou a cerca de 500 mil fiéis. O gra",
       "category": "Mundo"
     },
     {
@@ -398,39 +461,12 @@
       "category": "Esportes"
     },
     {
-      "title": "00h Barack Obama pede o reconhecimento de uma humanidade comum",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-barack-obama-pede-o-reconhecimento-de-uma-humanidade-comum_a1_1770955",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T00:17:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
       "title": "Lula faz comício em Natal e Flávio participa de moto-carreata no Rio",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-faz-comicio-em-natal-e-flavio-participa-de-moto-carreata-no-rio",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-10T23:49:00+00:00",
       "summary": "Os candidatos à presidência da República Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) tiveram agenda pública neste sábado (10) em Natal e no Rio de Janeiro, respectivamente. Em comício lotado na capital do Rio Grande do Norte, Lula fez comparativos entre investimentos feitos na região Nordeste em governos de ",
-      "category": "Política"
-    },
-    {
-      "title": "23h Futebol Clube do Porto ganha 2-1 contra o Marítimo",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-futebol-clube-do-porto-ganha-2-1-contra-o-maritimo_a1_1770954",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T23:31:02+00:00",
-      "summary": "",
-      "category": "Esportes"
-    },
-    {
-      "title": "22h O Ministro das Finanças fala sobre o aumento das propinas",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-o-ministro-das-financas-fala-sobre-o-aumento-das-propinas_a1_1770953",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T23:30:02+00:00",
-      "summary": "",
       "category": "Política"
     },
     {
@@ -441,24 +477,6 @@
       "publishedAt": "2026-10-10T22:22:00+00:00",
       "summary": "O Brasil sobrou diante da Argentina na primeira partida da seleção feminina de futebol no Estádio do Beira-Rio, um dos palcos da Copa do Mundo de 2027. Na tarde deste sábado (10), diante de mais de 28 mil torcedores, a Amarelinha balançou a rede com três golaços na primeira etapa, em um intervalo de 20 minutos. Luany a",
       "category": "Esportes"
-    },
-    {
-      "title": "22h O Ministro das Finanças fala sobre o aumento das propinas",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-o-ministro-das-financas-fala-sobre-o-aumento-das-propinas_a1_1770947",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T22:17:02+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "William Gomes tem entorse no tornozelo e é baixa no FC Porto",
-      "url": "https://www.rtp.pt/noticias/fc-porto/william-gomes-tem-entorse-no-tornozelo-e-e-baixa-no-fc-porto_d1770944",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-10T22:15:16+00:00",
-      "summary": "Os dragões não divulgaram o tempo esperado de paragem do jogador de 20 anos.",
-      "category": "Clima"
     },
     {
       "title": "Após ameaças de morte, deputada eleita Ana Elisa receberá proteção",
@@ -504,24 +522,6 @@
       "publishedAt": "2026-10-10T18:18:00+00:00",
       "summary": "O avanço das queimadas no Amazonas levou o governo federal a ampliar as ações de prevenção e combate aos incêndios florestais na região. Segundo o Ministério do Meio Ambiente e Mudança do Clima (MMA), 229 incêndios já foram extintos no estado desde o início do atual período crítico. Equipes do Instituto Brasileiro do M",
       "category": "Política"
-    },
-    {
-      "title": "PF desmente Veja; Padilha aciona Justiça sobre fake news contra Lula",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pf-desmente-veja-e-padilha-aciona-justica-sobre-fake-news-contra-lul",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T18:06:00+00:00",
-      "summary": "Representado por membros da Advocacia-Geral da União (AGU), o ministro da Saúde Alexandre Padilha notificou a revista Veja (editora Abril), solicitando a publicação do direito de resposta à matéria publicada nessa sexta-feira (9) sobre um suposto depoimento de Daniel Vorcaro citando o presidente Lula. A ação questiona ",
-      "category": "Política"
-    },
-    {
-      "title": "Calderano derrota favorito Felix Lebrun e avança à semi do China Smash",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/calderano-derrota-favorito-felix-lebrun-e-avanca-semi-do-china-smash",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-10T17:53:00+00:00",
-      "summary": "Número 7 do mundo, o mesatenista brasileiro Hugo Calderano despachou o rival francês Felix Lebrun, vice-líder do ranking, e avançou às semifinais do Smash China (Pequim), torneio com maior pontuação (2.000) no circuito internacional.Calderano venceu de virada por 2 sets a 1 (parciais de parciais de 9/11, 11/9, 12/10, 1",
-      "category": "Mundo"
     }
   ],
   "sources": [
