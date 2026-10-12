@@ -1,104 +1,401 @@
 {
-  "updatedAt": "2026-10-11T22:51:19.465154+00:00",
+  "updatedAt": "2026-10-12T02:21:31.392549+00:00",
   "items": [
     {
-      "title": "Defesa de Bolsonaro comunica Moraes sobre retomada de visitas de Flávio",
-      "url": "https://www.cnnbrasil.com.br/politica/defesa-de-bolsonaro-comunica-moraes-sobre-retomada-das-visitas-de-flavio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:45:01+00:00",
-      "summary": "Advogados apontam que as visitas de Flávio Bolsonaro ao pai serão retomadas \"nos moldes anteriormente fixados, mediante comunicação e agendamento\"",
+      "title": "3h França e Reino Unido apoiam apoiam trégua energética entre Rússia e Ucrânia",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-franca-e-reino-unido-apoiam-apoiam-tregua-energetica-entre-russia-e-ucrania_a1_1771087",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-12T03:12:02+00:00",
+      "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Palmeiras: invencibilidade em clássicos segue após goleada",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-invencibilidade-em-classicos-segue-apos-goleada/",
-      "source": "CNN Brasil",
+      "title": "2h Passos Coelho não exclui voltar à política e elogia percurso de André Ventura",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-passos-coelho-nao-exclui-voltar-a-politica-e-elogia-percurso-de-andre-ventura_a1_1771086",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-12T02:26:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias das 3h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2464/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-12T02:16:16+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Nossa Senhora Aparecida: confira a programação do Dia da Padroeira em Macapá",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/11/nossa-senhora-aparecida-confira-a-programacao-do-dia-da-padroeira-em-macapa.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-11T22:43:26+00:00",
-      "summary": "Verdão alcança 11 partidas sem derrota diante dos maiores rivais, com oito vitórias e três empates na temporada 2026",
+      "publishedAt": "2026-10-12T02:00:10+00:00",
+      "summary": "Comunidade da Área Missionária Nossa Senhora da Conceição Aparecida, em Macapá, celebra o Dia da Padroeira do Brasil. Pascom N. Sra. Aparecida/Divulgação Fiéis da Área Missionária Nossa Senhora da Conceição Aparecida, em Macapá, participam nesta segunda-feira (12) da programação em homenagem à padroeira do Brasil. A ag",
+      "category": "Mundo"
+    },
+    {
+      "title": "Suspeito de participar de assalto que deixou homem ferido morre em confronto com a PM em Macapá",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/11/suspeito-de-participar-de-assalto-que-deixou-homem-ferido-morre-em-confronto-com-a-pm-em-macapa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T01:54:31+00:00",
+      "summary": "Suspeito de assaltos em Macapá, morre em confronto com o Patamo Patamo/Divulgação Um suspeito de 22 anos morreu após trocar tiros com policiais militares na madrugada deste domingo (11), no bairro Brasil Novo, na Zona Norte de Macapá. Segundo a Polícia Militar, ele era investigado por participação em uma tentativa de l",
+      "category": "Mundo"
+    },
+    {
+      "title": "Atleta que perdeu movimento após golpe proibido no jiu-jitsu relata rotina de recuperação: 'É um dia de cada vez'",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/10/11/atleta-que-perdeu-movimento-apos-golpe-proibido-no-jiu-jitsu-relata-rotina-de-recuperacao-e-um-dia-de-cada-vez.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T01:54:09+00:00",
+      "summary": "O lutador Willian \"Kabuto\" Hiroyuki deu uma entrevista exclusiva ao Fantástico sobre sua recuperação desde que foi vítima de um golpe desleal durante uma luta de jiu-jitsu em Londrina, no Norte do Paraná. Depois de passar semanas internado, o lutador voltou para casa, que precisou ser adaptada às novas necessidades. A ",
       "category": "Esportes"
     },
     {
-      "title": "Portugal no Europeu de futsal feminino pela 4.ª vez",
-      "url": "https://observador.pt/2026/10/11/portugal-confirma-presenca-no-quarto-campeoanto-da-europa-feminino-de-futsal/",
+      "title": "Pesquisa inédita encontrou munições compradas pelo Exército em apreensões ligadas ao Comando Vermelho",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/10/11/pesquisa-inedita-encontrou-municoes-compradas-pelo-exercito-em-apreensoes-ligadas-ao-comando-vermelho.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T01:35:10+00:00",
+      "summary": "Pesquisa inédita aponta desvios de munições que acabam nas mãos de criminosos Uma pesquisa inédita do Instituto Sou da Paz identificou munições de fuzil compradas pelo Exército Brasileiro em apreensões ligadas ao Comando Vermelho. O levantamento analisou registros de mais de 31 mil cartuchos intactos, apreendidos em di",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Ceuta: Espanha tira último acampamento de imigrantes antes de visita do rei",
+      "url": "https://www.cnnbrasil.com.br/internacional/ceuta-espanha-tira-ultimo-acampamento-de-imigrantes-antes-de-visita-do-rei/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T01:34:59+00:00",
+      "summary": "Viaturas policiais chegaram por volta das 7h da manhã, horário local, e os agentes orientaram os imigrantes a deixarem suas barracas e se sentarem em grupos",
+      "category": "Mundo"
+    },
+    {
+      "title": "À CNN, Piqué diz qual o segredo do sucesso da Espanha no futebol",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/a-cnn-pique-diz-qual-o-segredo-do-sucesso-da-espanha-no-futebol/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T01:30:24+00:00",
+      "summary": "Em entrevista ao CNN Esportes S/A deste domingo (11), o empresário detalha sobre os fatores que levaram o crescimento da seleção espanhola",
+      "category": "Esportes"
+    },
+    {
+      "title": "As notícias das 2h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2438/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-11T22:39:49+00:00",
-      "summary": "Seleção portuguesa feminina de futsal que competiu no Mundial sagrou-se vice-campeã do Mundo em 2025.",
+      "publishedAt": "2026-10-12T01:14:39+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "01h Parlamento do Reino Unido volta a discutir o Brexit",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-parlamento-do-reino-unido-volta-a-discutir-o-brexit_a1_1771081",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-12T01:14:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Danilo, do Flamengo, é encaminhado ao hospital após choque no Fla-Flu",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/danilo-do-flamengo-e-encaminhado-ao-hospital-apos-choque-no-fla-flu/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T01:13:37+00:00",
+      "summary": "Zagueiro rubro-negro sofreu forte impacto na face durante o clássico contra o Fluminense e fará exames detalhados na mandíbula e crânio",
+      "category": "Saúde"
+    },
+    {
+      "title": "Coreia do Sul e Japão detectam lançamento de mísseis da Coreia do Norte em direção ao mar",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/11/coreia-do-sul-japao-detectam-lancamento-projetil-coreia-do-norte-direcao-mar.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T01:11:03+00:00",
+      "summary": "Os militares da Coreia do Sul afirmaram que a Coreia do Norte lançou mísseis balísticos em direção às águas a leste do país nesta segunda-feira (12), no horário local (noite de domingo, no horário de Brasília). O lançamento dá continuidade a uma sequência recente de demonstrações de armamentos que elevou as tensões em ",
+      "category": "Mundo"
+    },
+    {
+      "title": "O músculo escondido na canela que evita tropeços ao caminhar — e o exercício simples de 1 minuto para fortalecê-lo",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/o-musculo-escondido-na-canela-que-evita-tropecos-ao-caminhar-e-o-exercicio-simples-de-1-minuto-para-fortalece-lo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T01:04:36+00:00",
+      "summary": "Entenda como a redução de força no tibial anterior facilita quedas no dia a dia e saiba como treinar a dorsiflexão em casa",
+      "category": "Mundo"
+    },
+    {
+      "title": "Furacão Simon inunda casas na costa do México",
+      "url": "https://www.cnnbrasil.com.br/internacional/furacao-simon-inunda-casas-na-costa-do-mexico/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:51:43+00:00",
+      "summary": "Na cidade portuária de Manzanillo, no estado de Colima, a Marinha ajudou a retirar a água da chuva de residências que foram atingidas pelas enchentes",
+      "category": "Clima"
+    },
+    {
+      "title": "Minas Gerais registrou 140 acidentes aéreos nos últimos 10 anos, diz Cenipa",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/minas-gerais-registrou-140-acidentes-aereos-nos-ultimos-10-anos-diz-cenipa/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:45:38+00:00",
+      "summary": "Na última semana, duas aeronaves caíram; até o momento, estado contabilizou neste ano nove acidentes, além de dois classificados como fatais, com quatro mortes",
+      "category": "Mundo"
+    },
+    {
+      "title": "“Estrelas do rock” e regras “loucas”: Piqué explica sucesso da Kings League",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/estrelas-do-rock-e-regras-loucas-pique-explica-sucesso-da-kings-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:45:34+00:00",
+      "summary": "Ao CNN Esportes S/A deste domingo (11), ex-zagueiro e criador da Kings League conta os motivos para a inovação ser tão bem-sucedida",
+      "category": "Esportes"
+    },
+    {
+      "title": "México pede que população fique em casa devido ao furacão Simon",
+      "url": "https://www.cnnbrasil.com.br/internacional/mexico-pede-que-populacao-fique-em-casa-devido-ao-furacao-simon/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:44:51+00:00",
+      "summary": "Fenômeno natural ameaça levar ventos destrutivos, marés de tempestade perigosas e inundações potencialmente fatais; população precisou deixar algumas áreas",
+      "category": "Mundo"
+    },
+    {
+      "title": "00h Pedro Passos Coelho considera regressar à política se PSD falhar",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-pedro-passos-coelho-considera-regressar-a-politica-se-psd-falhar_a1_1771079",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-12T00:43:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "23H Pedro Passos Coelho defende acordo entre PSD, IL e Chega",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-pedro-passos-coelho-defende-acordo-entre-psd-il-e-chega_a1_1771078",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-12T00:43:01+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Gabriel Paulista desabafa: “Não vejo a diretoria proteger os atletas”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/gabriel-paulista-desabafa-nao-vejo-a-diretoria-proteger-os-atletas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:41:18+00:00",
+      "summary": "Zagueiro afirmou que \"há pessoas dentro do clube que não sabem o que significa o Corinthians\"",
+      "category": "Esportes"
+    },
+    {
+      "title": "23H Pedro Passos Coelho defende acordo entre PSD, IL e Chega",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-pedro-passos-coelho-defende-acordo-entre-psd-il-e-chega_a1_1771077",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-12T00:41:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Bahia vence o Mirassol na Fonte Nova e se aproxima do G4 do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-vence-o-mirassol-na-fonte-nova-e-se-aproxima-do-g4-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:35:44+00:00",
+      "summary": "Equipe comandada por Rogério Ceni dominou o jogo e poderia ter feito mais; visitantes perdem pênalti no fim e seguem na luta contra o rebaixamento",
+      "category": "Esportes"
+    },
+    {
+      "title": "“Para sempre”: Piqué avalia crescimento e projeta futuro da Kings League",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/para-sempre-pique-avalia-crescimento-e-projeta-futuro-da-kings-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:30:55+00:00",
+      "summary": "Durante entrevista ao CNN Esportes S/A deste domingo (11), ex-jogador e criador da Kings League também afirmou que o projeto nasceu com seu próprio dinheiro",
+      "category": "Esportes"
+    },
+    {
+      "title": "Auxiliar defende Memphis e abre o jogo sobre Seedorf no Corinthians",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/auxiliar-defende-memphis-e-abre-o-jogo-sobre-seedorf-no-corinthians/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:29:16+00:00",
+      "summary": "William Batista elogia novo treinador holandês, o chama de \"baita contratação\" e pede apoio à torcida para as rodadas finais",
+      "category": "Esportes"
+    },
+    {
+      "title": "1h. Seleção feminina de futsal qualificada para Europeu",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2411/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-12T00:17:44+00:00",
+      "summary": "O presidente da Federação Portuguesa de Futebol já parabenizou as atletas e o treinador Luís Conceição. Ainda, Volodymyr Zelensky diz que não reconhece o cessar-fogo energético entre Ucrânia e Rússia.",
+      "category": "Política"
+    },
+    {
+      "title": "Homem de 44 anos morre após ser baleado em Santarém; mulher suspeita é detida",
+      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/11/homem-de-44-anos-morre-apos-ser-baleado-em-santarem-mulher-suspeita-e-detida.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:11:48+00:00",
+      "summary": "Homicídio foi registrado na noite de domingo em Santarém Keila Farias / Portal Encontro das Águas Um homem de 44 anos, identificado como Luiz Kleber Macambira Mota, foi morto com um tiro no tórax na noite deste domingo (11), na rodovia Fernando Guilhon, no bairro Santarenzinho, em Santarém, no oeste do Pará. A dona de ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Piloto vítima de queda de avião em MG é sepultado na BA após velório em igreja evangélica",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/piloto-vitima-de-queda-de-aviao-em-mg-e-sepultado-na-ba.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:10:25+00:00",
+      "summary": "Piloto vítima de queda de avião em MG é sepultado na BA após velório em igreja O piloto Daniel da Silva de Souza Salomão, de 31 anos, vítima de uma queda de avião em Minas Gerais, foi sepultado na Bahia, neste domingo (11), dois dias após o acidente. A aeronave caiu na sexta-feira (9), no pátio de manutenção do metrô d",
+      "category": "Mundo"
+    },
+    {
+      "title": "Influenciadora e advogado são presos suspeitos de comandar esquema de tráfico internacional de drogas ligado à máfia italiana",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/10/11/influenciadora-e-advogado-sao-presos-suspeitos-de-comandar-esquema-de-trafico-internacional-de-drogas-ligado-a-mafia-italiana.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-12T00:04:06+00:00",
+      "summary": "Influenciadora e advogado são presos suspeitos de comandar esquema de tráfico ligado à máfia italiana Uma investigação conjunta das polícias do Brasil e da Itália revelou um esquema milionário de tráfico internacional de drogas ligado à 'Ndrangheta, uma das principais organizações mafiosas italianas. Segundo a Polícia ",
+      "category": "Esportes"
+    },
+    {
+      "title": "Fantástico mostra com exclusividade o depoimento de tenente-coronel acusado de matar esposa",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/10/11/fantastico-mostra-com-exclusividade-o-depoimento-de-tenente-coronel-acusado-de-matar-esposa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T23:58:43+00:00",
+      "summary": "Caso PM Gisele: Fantástico mostra com exclusividade depoimento de tenente-coronel, acusado de ter matado a esposa. O Fantástico deste domingo (11) mostrou imagens exclusivas do depoimento do tenente-coronel Geraldo Neto, acusado de matar a esposa, a soldado Gisele Alves. Nesta semana, ele passou por seu último interrog",
+      "category": "Mundo"
+    },
+    {
+      "title": "Henrique Marques leva ouro, o 2º do Brasil em Grand Prix de taekwond",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/henrique-marques-leva-ouro-o-2o-do-brasil-em-grand-prix-de-taekwond",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T23:58:00+00:00",
+      "summary": "O atleta brasileiro de taekwondo Henrique Marques, de 22 anos, garantiu a segunda medalha de ouro do Brasil na terceira etapa do Grand Prix Series 2026, em Paris (França), com uma emocionante vitória de virada na final contra uzbeque Jasurbek Jaysunov. Além do topo do pódio no último dia de competições, Marques somou 6",
+      "category": "Esportes"
+    },
+    {
+      "title": "Comércio da Baixada Santista espera vender 5% mais no Dia das Crianças",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/11/comercio-da-baixada-santista-espera-vender-5percent-mais-no-dia-das-criancas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T23:45:04+00:00",
+      "summary": "Comércio da Baixada e Vale do Ribeira projeta alta nas vendas para o Dia das Crianças O comércio da Baixada Santista espera crescimento de 5% nas vendas para o Dia das Crianças, celebrado em 12 de outubro, na comparação com o mesmo período de 2025. Ao mesmo tempo, 78% dos consumidores da região pretendem gastar até R$ ",
+      "category": "Clima"
+    },
+    {
+      "title": "Policial de folga atira em filho que atacava pai com faca no interior do Ceará",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/11/policial-de-folga-atira-em-filho-que-atacava-pai-com-faca-no-interior-do-ceara.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T23:40:52+00:00",
+      "summary": "Policial de folga atira em filho que atacava pai com faca no interior do Ceará. Reprodução Um policial militar de folga atirou contra um homem, de 21 anos, que atacou o próprio pai, de 69 anos, com uma faca em Crateús, no interior do Ceará. O caso aconteceu no bairro Ipase, neste domingo (11). Pai e filho foram socorri",
+      "category": "Mundo"
+    },
+    {
+      "title": "Chuva forte causa alagamentos, queda de árvore e danos em supermercado em Cosmópolis",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/11/chuva-forte-causa-alagamentos-queda-de-arvore-e-danos-em-supermercado-em-cosmopolis.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-11T23:34:52+00:00",
+      "summary": "Chuva forte causa alagamentos e queda de árvore em Cosmópolis A forte chuva que atingiu Cosmópolis na tarde deste domingo (11) provocou alagamentos em diferentes regiões da cidade, danos na cobertura de um supermercado, estragos na pavimentação de vias e a queda de uma árvore, de acordo com a Defesa Civil. Moradores re",
       "category": "Economia"
     },
     {
-      "title": "Hugo Souza lamenta goleada sofrida para o Palmeiras: “Pedir perdão”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/hugo-souza-lamenta-goleada-sofrida-para-o-palmeiras-pedir-perdao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:35:48+00:00",
-      "summary": "Goleiro evitou vexame ainda maior ao defender o pênalti batido por Paulinho; Verdão goleou o Corinthians por 4 a 1",
-      "category": "Esportes"
+      "title": "Passos assume-se como protocandidato a primeiro-ministro",
+      "url": "https://observador.pt/especiais/agora-e-oficial-passos-assume-se-como-protocandidato-a-primeiro-ministro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T23:26:37+00:00",
+      "summary": "Antigo primeiro-ministro comparou Montenegro a Costa, lamentou falta de reformas, elogiou Ventura, criticou o \"não é não\" e disse abertamente que pondera voltar se atual Governo não for bem sucedido.",
+      "category": "Política"
     },
     {
-      "title": "Angélica ganha declaração de Luciano Huck ao vivo: “Mulher da minha vida”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/angelica-ganha-declaracao-de-luciano-huck-ao-vivo-mulher-da-minha-vida/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:34:17+00:00",
-      "summary": "A apresentadora participou do programa do marido caracterizada como na atração infantil \"Angel Mix\"",
+      "title": "O mundo dos boomers",
+      "url": "https://observador.pt/opiniao/o-mundo-dos-boomers/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T23:25:25+00:00",
+      "summary": "O problema é que os boomers acreditaram que seria apenas uma questão de boa vontade para tudo continuar a ser como foi no seu tempo – e acabaram, como não podia deixar de ser, a criar gerações tristes",
+      "category": "Clima"
+    },
+    {
+      "title": "Vamos a isso!",
+      "url": "https://observador.pt/opiniao/vamos-a-isso/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T23:24:17+00:00",
+      "summary": "Não tenho qualquer objecção em debater os temas das reparações e da escravatura com João Moreira da Silva ou qualquer outro. Recuso, porém, participar num debate que se estruture como espetáculo",
       "category": "Mundo"
     },
     {
-      "title": "Flamengo vence Fluminense em dia de protestos e segue líder do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-vence-fluminense-em-dia-de-protestos-e-segue-lider-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:31:37+00:00",
-      "summary": "Carrascal marcou o único gol do clássico, disputado no Maracanã; equipes se uniram em protesto contra o fim das bets",
-      "category": "Esportes"
-    },
-    {
-      "title": "Dia das Crianças: confira a programação gratuita na Grande Vitória nesta segunda-feira (12)",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/11/dia-das-criancas-confira-a-programacao-gratuita-na-grande-vitoria-nesta-segunda-feira-12.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:29:30+00:00",
-      "summary": "Dia das Crianças tem programação gratuita na Grande Vitória nesta segunda-feira (12) Divulgação O Dia das Crianças é um bom motivo para sair de casa, gastar energia e transformar a segunda-feira (12) de feriado em um dia de diversão em família. Na Grande Vitória, a programação inclui shows de personagens infantis, espe",
+      "title": "As contas que o Orçamento não faz",
+      "url": "https://observador.pt/opiniao/as-contas-que-o-orcamento-nao-faz/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T23:21:04+00:00",
+      "summary": "Daqui a quinze anos, os alunos que fizeram o PISA em 2025 terão 30 anos. Vão ser eles a fazer as contas que este orçamento não faz",
       "category": "Mundo"
     },
     {
-      "title": "GreNal termina empatado, e rivais seguem na zona de rebaixamento",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/grenal-termina-empatado-e-rivais-seguem-na-zona-de-rebaixamento/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:29:18+00:00",
-      "summary": "Clássico de número 455 foi marcado pela disputa para escapar do Z4. Grêmio e Internacional seguem ameaçados pelo rebaixamento no Campeonato Brasileiro",
+      "title": "00h. Passos Coelho pondera regresso se PSD for mal sucedido",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2443/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T23:17:15+00:00",
+      "summary": "Antigo primeiro-ministro deu primeira entrevista após sair do Governo, na SIC Notícias. Insurge-se contra o Executivo de Montenegro que diz já nada poder fazer pelo SNS e fala em deveres por cumprir.",
+      "category": "Política"
+    },
+    {
+      "title": "Os aristocratas da opinião",
+      "url": "https://observador.pt/opiniao/os-aristocratas-da-opiniao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T23:15:29+00:00",
+      "summary": "Ao contrário das birras dos nossos futebolistas, convertidas em reality show, Carlson e Rees-Mogg tinham tudo a ganhar com o confronto. E ganharam os dois.",
       "category": "Esportes"
     },
     {
-      "title": "Em dia de maior movimento, 24 mil romeiros passam pela Via Dutra a caminho de Aparecida neste domingo, diz PRF",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/11/em-dia-de-maior-movimento-24-mil-romeiros-passam-pela-via-dutra-a-caminho-de-aparecida-neste-domingo-diz-prf.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:28:54+00:00",
-      "summary": "Fé une romeiros no caminho até Aparecida Véspera do Dia da Padroeira, este domingo (11) foi o dia de maior movimento de romeiros em direção a Aparecida pela Via Dutra, segundo a Polícia Rodoviária Federal (PRF). Foram 24.176 pessoas passando pelo principal acesso à cidade onde está o Santuário Nacional até as 18h. Segu",
+      "title": "Cortes à proposta do QFP 2028-2034 são inaceitáveis",
+      "url": "https://observador.pt/opiniao/cortes-a-proposta-do-qfp-2028-2034-anunciados-pela-presidencia-irlandesa-do-conselho-sao-inaceitaveis/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T23:14:54+00:00",
+      "summary": "O orçamento que os europeus esperam e as tarefas que queremos cumprir a nível europeu exigem uma mudança de paradigma, de forma a garantir que, no próximo QFP, ganhamos todos",
+      "category": "Economia"
+    },
+    {
+      "title": "Trans: quando se mente no parlamento",
+      "url": "https://observador.pt/opiniao/trans-quando-se-mente-no-parlamento/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T23:11:32+00:00",
+      "summary": "Há meses que alertamos para o risco de a Lei n.º 15/2024 atingir a psicoterapia exploratória.",
       "category": "Mundo"
     },
     {
-      "title": "Cuca reage ao chute de Gabigol na bandeirinha em Atlético-MG x Santos",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/cuca-reage-ao-chute-de-gabigol-na-bandeirinha-em-atletico-mg-x-santos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:27:20+00:00",
-      "summary": "Treinador do Santos se disse surpreso com a atitude do jogador e prometeu um diálogo sobre o ocorrido",
-      "category": "Esportes"
+      "title": "Universidade de Bragança, a responsabilidade de decidir!",
+      "url": "https://observador.pt/opiniao/universidade-de-braganca-a-responsabilidade-de-decidir/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-11T23:08:41+00:00",
+      "summary": "A política tem destas ironias: por vezes, é mais fácil chegar a tempo da fotografia do que estar presente no momento de decidir. Porque é que o PS não o fez quando governou?",
+      "category": "Política"
     },
     {
-      "title": "Palmeiras dá show, humilha Corinthians e mergulha rival na crise",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-da-show-humilha-corinthians-e-mergulha-rival-na-crise/",
-      "source": "CNN Brasil",
+      "title": "Flávio passa domingo reunido com prefeitos e vereadores de São Paulo",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-passa-domingo-reunido-com-prefeitos-e-vereadores-de-sao-paulo",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-11T22:20:10+00:00",
-      "summary": "Em ritmo de treino, Verdão goleou por 4 a 1 o rival e continua a caça ao líder Flamengo no Brasileirão; Corinthians chegou a oito derrotas consecutivas e ainda está fora da zona do rebaixamento",
-      "category": "Esportes"
+      "publishedAt": "2026-10-11T22:46:00+00:00",
+      "summary": "O senador e candidato à presidência da República pelo PL, Flávio Bolsonaro, cumpriu agenda neste domingo (11) na capital paulista. Flávio reuniu-se com prefeitos e vereadores da região da Grande São Paulo; o encontro ocorreu em um prédio na região do Vale do Anhangabaú, no centro da cidade. O candidato do PL estava aco",
+      "category": "Política"
     },
     {
       "title": "22H Os Houthis reivindicaram hoje os ataques ao aeroporto de Riade",
@@ -110,141 +407,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Cidade de SP entra em estado de atenção para alagamentos neste domingo",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/11/cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos-neste-domingo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:17:52+00:00",
-      "summary": "Toda a cidade de São Paulo entrou em estado de atenção para alagamentos às 18h58 deste domingo (11), CGE Toda a cidade de São Paulo entrou em estado de atenção para alagamentos às 18h58 deste domingo (11), segundo o Centro de Gerenciamento de Emergências Climáticas (CGE), órgão da Prefeitura de São Paulo responsável pe",
-      "category": "Mundo"
-    },
-    {
-      "title": "As notícias das 23h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2192/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T22:15:46+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Arouca bate Estrela na estreia de Vítor Severino",
-      "url": "https://observador.pt/2026/10/11/arouca-vence-em-casa-ao-estrela-da-amadora-na-estreia-de-vitor-severino/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T22:13:57+00:00",
-      "summary": "Novo treinador do Arouca somou três pontos logo na estreia. Ivan Barbero marcou o único golo. Estrela sofre segunda derrota seguida.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Dúvida metódica de René Descartes: como alcançar clareza em períodos de incerteza",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/duvida-metodica-de-rene-descartes-como-alcancar-clareza-em-periodos-de-incerteza/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:11:34+00:00",
-      "summary": "Formulada no século XVII pelo filósofo francês, a abordagem propõe a dúvida sistemática e a simplicidade de regras como meios para organizar pensamentos e fundamentar decisões racionais",
-      "category": "Cultura"
-    },
-    {
-      "title": "Homem é encontrado morto no mar da Praia de Itaparica, em Vila Velha",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/11/homem-e-encontrado-morto-no-mar-da-praia-de-itaparica-em-vila-velha.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:09:28+00:00",
-      "summary": "Homem de 57 anos foi encontrado morto na Praia de Itaparica, em Vila Velha Paulo Ricardo Sobral Um homem de 57 anos foi encontrado morto com o corpo parcialmente submerso na Praia de Itaparica, em Vila Velha, na Grande Vitória, na manhã deste domingo (11). A Guarda Municipal foi chamada por volta das 6h para atender à ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Homem é encontrado morto em calçada de Boa Vista com ferimentos no peito e nas costas",
-      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/11/homem-e-encontrado-morto-em-calcada-de-boa-vista.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:09:17+00:00",
-      "summary": "Corpo foi levado ao Instituto Médico Legal (IML) de Boa Vista. g1 RR/Arquivo Um homem de 61 anos, que não teve a identidade divulgada, foi encontrado morto em uma calçada no bairro Treze de Setembro, zona Oeste Boa Vista, na manhã deste domingo (11). Ele tinha ferimentos graves no peito e nas costas. A Polícia Militar ",
-      "category": "Saúde"
-    },
-    {
-      "title": "Irmão de deputado morre afogado em praia de Fortaleza durante viagem com a família",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/11/irmao-de-deputado-morre-afogado-em-praia-de-fortaleza.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:06:54+00:00",
-      "summary": "Irmão de deputado morre afogado em praia de Fortaleza durante viagem com a família. O empresário e agricultor Valtenir Costa, de 49 anos, morreu afogado, neste domingo (11), na Praia da Sabiaguaba, em Fortaleza. Ele era irmão do deputado estadual Nizo Costa (PT). Valtenir estava a passeio em Fortaleza com a família par",
-      "category": "Mundo"
-    },
-    {
-      "title": "Bahia x Mirassol: escalações e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-x-mirassol-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:04:11+00:00",
-      "summary": "Times entram em campo na Arena Fonte Nova, em Salvador, neste domingo (11), às 19h30 (horário de Brasília)",
-      "category": "Esportes"
-    },
-    {
-      "title": "Vândalos atacam ônibus e moradores assistem perplexos em Petrópolis: 'Vão matar o motorista'",
-      "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/11/vandalos-atacam-onibus-e-moradores-assistem-perplexos-em-petropolis-vao-matar-o-motorista.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:03:31+00:00",
-      "summary": "A empresa e o sindicato lamentaram a violência. A polícia e os bombeiros foram acionados, e os funcionários feridos foram encaminhados ao hospital. Redes sociais/reprodução Imagens que circulam nas redes sociais mostram o ataque a um ônibus da empresa de ônibus Cidade das Hortênsias na tarde deste domingo (11), em Petr",
-      "category": "Economia"
-    },
-    {
-      "title": "Terremoto de magnitude 5,3 atinge a Indonésia, diz agência dos EUA",
-      "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-53-atinge-a-indonesia-diz-agencia-dos-eua/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:02:49+00:00",
-      "summary": "Tremor aconteceu a uma profundidade de 103 km; não houve relatos de danos ou feridos até o momento",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mecânico é preso por estupro de vulnerável de adolescente de 13 anos; mãe também é detida",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/11/mecanico-e-preso-por-estupro-de-vulneravel-de-adolescente-de-13-anos-mae-tambem-e-detida.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T22:00:00+00:00",
-      "summary": "Imagem ilustrativa de estupro de vulnerável Banco de imagens Um mecânico de 33 anos foi preso em flagrante por estupro de vulnerável envolvendo uma adolescente de 13 anos em Sete Barras, no interior de São Paulo. Segundo o boletim de ocorrência (BO), obtido pelo g1 neste domingo (11), a mãe da adolescente também foi pr",
-      "category": "Mundo"
-    },
-    {
-      "title": "CEO da Microsoft defende “freio de emergência” para IA",
-      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ceo-da-microsoft-defende-freio-de-emergencia-para-ia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T21:56:12+00:00",
-      "summary": "Em artigo publicado no X, Satya Nadella pediu reforços de segurança mais robustos para a tecnologia",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Falha na rede de transmissão deixa 95 mil imóveis sem energia em 9 cidades do Sul de Minas",
-      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/11/falta-de-energia-passos-e-regiao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T21:53:10+00:00",
-      "summary": "Lâmpada de rua (Imagem ilustrativa) Carla Schizzi/Pexels Uma ocorrência registrada na rede de transmissão de energia deixou cerca de 95 mil clientes sem luz em Passos (MG) e em outros oito municípios da região na tarde de sábado (10). Segundo a Companhia Energética de Minas Gerais (Cemig), neste domingo (11), o forneci",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jovem de Goiás morre em acidente que matou vereador e mulher no MT",
-      "url": "https://g1.globo.com/go/goias/transito/noticia/2026/10/11/jovem-de-goias-morre-em-acidente-que-matou-vereador-e-mulher-no-mt.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T21:52:24+00:00",
-      "summary": "Jovem de Goiás morre em acidente que matou vereador e mulher no MT Reprodução g1/Arquivo pessoal Luana Gabrielle Santana Alves Natural de Anápolis, no região central de Goiás, a jovem Ana Vitória Santana Alves, de 19 anos, morreu em um grave acidente registrado em Mato Grosso. O caso também deixou outras duas vítimas f",
-      "category": "Mundo"
-    },
-    {
-      "title": "Familiares, amigos e colegas se despedem de militares vítimas de acidente aéreo",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/11/familiares-amigos-e-colegas-se-despedem-de-militares-vitimas-de-acidente-aereo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T21:50:35+00:00",
-      "summary": "Familiares, amigos e colegas se despedem de militares vítimas de acidente aéreo Os corpos das tenentes Alice dos Santos Almeida e Gabriela Emília Soares Resende foram enterrados na tarde deste domingo (11). As militares são vítimas do acidente aéreo ocorrido em Ipatinga, no Vale do Aço, na última sexta-feira. Luis Fern",
-      "category": "Mundo"
-    },
-    {
       "title": "Corinthians anuncia Seedorf como novo técnico até dezembro de 2027",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/corinthians-anuncia-seedorf-como-novo-tecnico-ate-dezembro-de-2027",
       "source": "Agência Brasil",
@@ -252,15 +414,6 @@
       "publishedAt": "2026-10-11T21:48:00+00:00",
       "summary": "O Corinthians anunciou neste domingo (11) a contratação do holandês Clarence Seedord, de 50 anos, como novo técnico do time masculino, até o fim da temporada de 2027. O treinador, que atuou como meio-campista do Botafogo entre 2012 e 2013, substituirá Fernando Diniz, demitido pelo clube na última quarta-feira (7), após",
       "category": "Clima"
-    },
-    {
-      "title": "Homem é encontrado morto sentado em frente da própria casa em MT",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/11/homem-e-encontrado-morto-sentado-em-frente-da-propria-casa-em-mt.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T21:45:57+00:00",
-      "summary": "Viatura da PM MT Polícia Militar Genivaldo Anacleto do Nascimento, de 41 anos, foi encontrado morto com duas perfurações no rosto, aparentemente causadas por tiros, enquanto estava sentado em um banco em frente à própria casa, em Juscimeira, a 164 km de Cuiabá, na noite de sábado (10). Segundo a Polícia Militar, uma eq",
-      "category": "Mundo"
     },
     {
       "title": "21h Jornalista português detido em Israel já está em Portugal",
@@ -288,15 +441,6 @@
       "publishedAt": "2026-10-11T21:23:00+00:00",
       "summary": "A decisão de derrubar o canal Exército do Lula no WhatsApp com 3,3 milhões de pessoas, que acabou revertida horas depois, limita a mobilização de eleitores no segundo turno e extrapola o combate à desinformação, avaliam especialistas em direito no ambiente digital. A gerente de políticas públicas da organização de dire",
       "category": "Ciência & Tech"
-    },
-    {
-      "title": "22h. Liga Portugal. SL Benfica vence Vitória SC por 2-0",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1883/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T21:15:51+00:00",
-      "summary": "Com a vitória, o Benfica soma 19 pontos e ocupa o segundo lugar da tabela, e continua na perseguição do FC Porto, que lidera o campeonato, com 24 pontos. Ainda, MURPI exige explicações sobre pensões.",
-      "category": "Esportes"
     },
     {
       "title": "Gilberto Gil esteve em Lisboa a apresentar uma ópera-canção",
@@ -335,123 +479,6 @@
       "category": "Política"
     },
     {
-      "title": "Canadá condena acordo de Trump com Putin sobre gasóleo",
-      "url": "https://observador.pt/2026/10/11/canada-condena-acordo-de-trump-com-putin-sobre-gasoleo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T21:00:19+00:00",
-      "summary": "Mark Carney alertou Zelensky que o acordo, que prevê o fornecimento de 300 mil toneladas de gasóleo russo aos EUA, dará a Moscovo receitas para financiar a guerra.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cinco desaparecidos nas inundações no Nepal",
-      "url": "https://observador.pt/2026/10/11/cinco-pessoas-desaparecidas-em-inundacoes-no-nepal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:59:43+00:00",
-      "summary": "O rio Budhi Gandaki transbordou e destruiu casas e pontes. Quatro helicópteros e mais de 400 efetivos foram mobilizados para as operações de resgate.",
-      "category": "Mundo"
-    },
-    {
-      "title": "SLB x VSC. “A asa esquerda do Benfica está a funcionar”",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/slb-x-vsc-a-asa-esquerda-do-benfica-esta-a-funcionar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:56:40+00:00",
-      "summary": "Águias vencem o Vitória e Augusto Inácio fala de um Benfica \"vivo e solto\" que podia ter selado o jogo na primeira parte. Apesar da derrota, destaque para uma \"segunda parte briosa\" do Vitória.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Startup portuguesa vence em S. Francisco com candeeiro que deteta crises de epilepsia",
-      "url": "https://www.rtp.pt/noticias/economia/startup-portuguesa-vence-em-s-francisco-com-candeeiro-que-deteta-crises-de-epilepsia_v1771065",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:54:47+00:00",
-      "summary": "Um candeeiro que deteta crises de epilepsia com a ajuda da inteligência artificial, é o projeto que deu a vitória a uma startup portuguesa em S.Francisco.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Algarve está na rota dos traficantes de droga",
-      "url": "https://www.rtp.pt/noticias/pais/algarve-esta-na-rota-dos-traficantes-de-droga_v1771064",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:52:47+00:00",
-      "summary": "É um ponto de abastecimento das lanchas rápidas mas também porta de entrada para a droga na Europa. Há redes que arrendam casas na costa algarvia para vigiarem os movimentos das polícias.",
-      "category": "Economia"
-    },
-    {
-      "title": "SLB x VSC. “Penálti por assinalar a favor do Benfica”",
-      "url": "https://observador.pt/programas/sem-falta/slb-x-vsc-penalti-por-assinalar-a-favor-do-benfica/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:51:40+00:00",
-      "summary": "Irregularidades disciplinares e um penálti por assinalar a favor do Benfica valem nota 5, “positiva baixinha”, a Luís Godinho no jogo do Benfica frente ao Vitória. \"Erro sem influência no resultado\".",
-      "category": "Esportes"
-    },
-    {
-      "title": "Centeno não rejeita o regresso à política",
-      "url": "https://www.rtp.pt/noticias/politica/centeno-nao-rejeita-o-regresso-a-politica_v1771061",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:42:47+00:00",
-      "summary": "O ministro das Finanças diz que seria \"inexplicável\" o regresso ao défice orçamental, caso Chega e PS aprovem medidas no orçamento e responde às contas de Mário Centeno que fala em \"incompetência\" na gestão das contas públicas.",
-      "category": "Política"
-    },
-    {
-      "title": "UGT quer a dignidade de salários e pensões",
-      "url": "https://www.rtp.pt/noticias/economia/ugt-quer-a-dignidade-de-salarios-e-pensoes_v1771059",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:41:47+00:00",
-      "summary": "As criticas à proposta do Orçamento do Estado foram ouvidas este fim de semana no congresso onde tomaram posse os órgãos sociais.",
-      "category": "Política"
-    },
-    {
-      "title": "Papa Leão XIV vai ser operado \"nos próximos dias\" a nódulo no pulmão",
-      "url": "https://www.rtp.pt/noticias/pais/papa-leao-xiv-vai-ser-operado-nos-proximos-dias-a-nodulo-no-pulmao_n1771049",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:27:59+00:00",
-      "summary": "O papa Leão XIV anunciou este domingo, durante a oração Angelus, que vai ser operado \"nos próximos dias\" para remover um nódulo \"circunscrito ao pulmão\", detetado \"numa fase muito inicial\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Papa Leão XIV. Multiplicam-se as reações ao anúncio do Papa",
-      "url": "https://www.rtp.pt/noticias/mundo/papa-leao-xiv-multiplicam-se-as-reacoes-ao-anuncio-do-papa_v1771056",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:25:47+00:00",
-      "summary": "O anúncio do Papa Leão , que tem um tumor, está a suscitar reações.<br />Américo Aguiar elogia a simplicidade do Papa e dezenas de fiéis já desejam rápidas melhoras ao Santo Padre.",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Todos precisam de golos e o Sudakov andava à procura\"",
-      "url": "https://observador.pt/2026/10/11/todos-precisam-de-golos-e-o-sudakov-andava-a-procura-marco-silva-destaca-importancia-de-ucraniano-marcar-dez-meses-depois/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:18:04+00:00",
-      "summary": "Marco Silva destacou meia hora \"muito boa\", admitiu que faltou depois alguma paciência na gestão do jogo mas falou de uma vitória justa \"sem conceder oportunidades\" carimbada com um golo de Sudakov.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Começar como tinha acabado: Sporting vence Taça Ibérica",
-      "url": "https://observador.pt/2026/10/11/acabaram-em-festa-comecaram-a-festejar-sporting-vence-guaguas-e-conquista-taca-iberica-de-voleibol/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T20:04:24+00:00",
-      "summary": "Depois do triunfo na \"negra\" frente ao Melilla, Sporting voltou a ceder set inicial mas mostrou-se mais forte do que o campeão espanhol, reconquistando a Taça Ibérica após o interregno no último ano.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Coleção de Elie Saab com H&M tem sapatos portugueses",
-      "url": "https://observador.pt/2026/10/11/colecao-de-elie-saab-com-hm-tem-sapatos-portugueses-de-luis-onofre-de-jacquemus-a-chavarria-fazemos-quase-o-impossivel/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T19:51:50+00:00",
-      "summary": "Luís Onofre apresentou a nova coleção no último dia de ModaLisboa",
-      "category": "Cultura"
-    },
-    {
       "title": "Ato pela reeleição de Lula leva milhares à Avenida Paulista",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-pela-reeleicao-de-lula-leva-milhares-a-avenida-paulista",
       "source": "Agência Brasil",
@@ -459,15 +486,6 @@
       "publishedAt": "2026-10-11T19:49:00+00:00",
       "summary": "Uma manifestação pela reeleição do presidente Luiz Inácio Lula da Silva (PT) ocupou neste domingo (11) a maior parte da Avenida Paulista, em São Paulo, e contou com a participação do candidato. O ato, chamado de Marcha Pela Democracia, foi organizado independentemente por movimentos sociais e por f andoms , comunidades",
       "category": "Política"
-    },
-    {
-      "title": "ModaLisboa no Tesouro Real: raio X, tour e Luís Carvalho",
-      "url": "https://observador.pt/2026/10/11/modalisboa-no-tesouro-real-famosas-no-raio-x-tour-guiada-e-os-fatos-fluidos-de-luis-carvalho/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-11T19:48:39+00:00",
-      "summary": "Luís Carvalho trouxe o público para o Museu do Tesouro Real, no Palácio da Ajuda",
-      "category": "Cultura"
     },
     {
       "title": "Corregedor derruba decisão que suspendeu canal Exército do Lula",
@@ -504,24 +522,6 @@
       "publishedAt": "2026-10-11T18:38:00+00:00",
       "summary": "No mês de outubro, a programação do Círio de Nazará mobiliza fiéis, turistas e inúmeras pessoas atraídas pelo sentimento de fé, união, esperança e amor ao próximo. Muito mais do que uma comemoração religiosa, a celebração nazarena é considerada patrimônio cultural da humanidade pela Organização das Nações Unidas para a",
       "category": "Cultura"
-    },
-    {
-      "title": "Lula afirma que PT entrará na Justiça contra suspensão de canal",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/lula-afirma-que-pt-entrara-na-justica-contra-suspensao-de-canal",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T17:06:00+00:00",
-      "summary": "O candidato à reeleição Luiz Inácio Lula da Silva (PT) disse neste domingo (11) que seu partido vai acionar a Justiça contra a suspensão do canal “Exército do Lula”, determinada por decisão do presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques . “Vamos hoje entrar na Justiça com um pedido do nosso pa",
-      "category": "Política"
-    },
-    {
-      "title": "Governo ajudou assim que Amazonas decretou emergência, diz ministro",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/governo-ajudou-assim-que-amazonas-decretou-emergencia-diz-ministro",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-11T16:37:00+00:00",
-      "summary": "A decretação do estado de emergência em 36 municípios pelo governo do Amazonas foi essencial para permitir a ajuda federal ao estado, que enfrenta uma onda de queimadas ligada ao fenômeno climático El Niño . A avaliação é do ministro da Integração e do Desenvolvimento Regional, Waldez Góes, que concedeu entrevista cole",
-      "category": "Política"
     }
   ],
   "sources": [
