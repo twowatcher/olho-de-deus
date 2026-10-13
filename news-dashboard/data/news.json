@@ -1,283 +1,436 @@
 {
-  "updatedAt": "2026-10-13T02:01:32.665303+00:00",
+  "updatedAt": "2026-10-13T09:21:57.305193+00:00",
   "items": [
     {
-      "title": "Cranston reage ao título de “Breaking Bad” como a melhor série do século",
-      "url": "https://www.cnnbrasil.com.br/pop/tv/cranston-reage-ao-titulo-de-breaking-bad-como-a-melhor-serie-do-seculo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:30:16+00:00",
-      "summary": "Série foi eleita pelo The New York Times em seleção de 100 outros títulos, e Bryan Cranston comemorou título",
-      "category": "Esportes"
-    },
-    {
-      "title": "Artur Jorge se envolve em confusão em Red Bull Bragantino x Cruzeiro",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/artur-jorge-se-envolve-em-confusao-em-red-bull-bragantino-x-cruzeiro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:29:04+00:00",
-      "summary": "Comissões técnicas dos dois times se estranharam após o fim do primeiro tempo no jogo desta segunda-feira (12), em Bragança Paulista, pela Série A do Campeonato Brasileiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Eu quero acreditar: o que explica a obsessão dos humanos por vida extraterrestre",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-somos-obcecados-por-ovnis-e-vida-extraterrestre/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:22:51+00:00",
-      "summary": "Do caso Roswell a Mayk Leão, o interesse por alienígenas é objeto de estudo da psicologia e pode ter raízes na religiosidade, escapismo e até na solidão",
-      "category": "Mundo"
-    },
-    {
-      "title": "2h. Montenegro reage a retorno de Passos Coelho",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2439/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-13T01:19:48+00:00",
-      "summary": "Um conselho direcionado a quem espera pelo insucesso político do governo. Ainda, André Ventura rejeita também um entendimento com o PSD.",
-      "category": "Política"
-    },
-    {
-      "title": "Coligação de Lula vai à Justiça contra rede de Musk por bloqueio de posts",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/coligacao-de-lula-vai-a-justica-contra-rede-de-musk-por-bloqueio-de-posts/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:13:56+00:00",
-      "summary": "Documento diz que X restringiu posts e hashtags de ato na Paulista e sugeriu expressão depreciativa ao nome do presidente; campanha pede suspensão e explicações dos bloqueios",
-      "category": "Política"
-    },
-    {
-      "title": "Veja os vestidos de casamento de Giulia Be com Conor Kennedy",
-      "url": "https://www.cnnbrasil.com.br/style/moda/veja-os-vestidos-de-casamento-de-giulia-be-com-conor-kennedy/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:12:16+00:00",
-      "summary": "A cantora usou cinco vestidos diferentes durante sequência de eventos de seu casamento no Rio de Janeiro, com duração de três dias",
-      "category": "Cultura"
-    },
-    {
-      "title": "Arábia Saudita diz ter interceptado novo míssil lançado do Iêmen",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/arabia-saudita-diz-ter-interceptado-novo-missil-lancado-do-iemen.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:09:30+00:00",
-      "summary": "Arábia Saudita intercepta míssil lançado do Iêmen O governo da Arábia Saudita disse ter interceptado mais um míssil lançado do Iêmen contra a capital, Riad. Imagens divulgadas nesta segunda-feira (12) mostraram o impacto do bombardeio ao aeroporto de Riad no sábado (10). Três ataques no fim de semana mataram quatorze p",
-      "category": "Política"
-    },
-    {
-      "title": "Jovem morta a tiros em SP é sepultada em Taboão da Serra, nesta terça (13)",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/jovem-morta-a-tiros-em-sp-e-sepultada-em-taboao-da-serra-nesta-terca-13/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:07:44+00:00",
-      "summary": "Cerimônia de Ana Clara ocorre no Cemitério da Saudade, na Grande São Paulo, enquanto a Polícia Civil procura pelo principal suspeito, ex-companheiro dela",
-      "category": "Mundo"
-    },
-    {
-      "title": "Montenegro: \"País não ganha nada acorrentado\" ao Chega",
-      "url": "https://observador.pt/programas/reportagem-observador/montenegro-pais-nao-ganha-nada-acorrentado-ao-chega/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-13T01:07:43+00:00",
-      "summary": "Primeiro, Pedro Passos Coelho. Depois, Luís Montenegro. O jogo de parada e resposta voltou a ter novo 'set', com nova intervenção de Pedro Duarte e criticas ao Chega.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Erro de processamento tirou áudio de propaganda de Flávio, dizem emissoras",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/erro-de-processamento-tirou-audio-de-propaganda-de-flavio-dizem-emissoras/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:06:17+00:00",
-      "summary": "Associações afirmam que o arquivo enviado pelo partido estava em perfeitas condições; TSE também atribuiu problema a falha técnica",
-      "category": "Política"
-    },
-    {
-      "title": "1h Carrilho defende-se após comunicado do MAI: \"saneamento\"",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-carrilho-defende-se-apos-comunicado-do-mai-saneamento_a1_1771307",
+      "title": "10h Presidente da Comissão Europeia condena ataques no Mar Negro",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-presidente-da-comissao-europeia-condena-ataques-no-mar-negro_a1_1771368",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-13T01:05:02+00:00",
+      "publishedAt": "2026-10-13T10:17:03+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Aguiar-Branco rejeita conflito de interesses de Ventura a presidir ao inquérito sobre Luís Neves",
+      "url": "https://www.rtp.pt/noticias/politica/aguiar-branco-rejeita-conflito-de-interesses-de-ventura-a-presidir-ao-inquerito-sobre-luis-neves_n1771365",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T10:11:18+00:00",
+      "summary": "O presidente da Assembleia da República considera que os elementos invocados pelo Livre não demonstram conflito de interesses que obste ao líder do Chega, André Ventura, presidir à comissão de inquérito sobre o ministro Luís Neves.",
+      "category": "Política"
+    },
+    {
+      "title": "Três mortos em ataque russo numa zona residencial de Kharkiv",
+      "url": "https://www.rtp.pt/noticias/mundo/tres-mortos-em-ataque-russo-numa-zona-residencial-de-kharkiv_n1771357",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T09:34:23+00:00",
+      "summary": "Três pessoas morreram na noite passada na cidade de Kharkiv, no nordeste da Ucrânia, durante um ataque russo que atingiu o edifício residencial onde se encontravam, disse o presidente da Câmara da cidade, Igor Terekhov.",
+      "category": "Política"
+    },
+    {
+      "title": "Um morto em despiste de camião no IC5 perto de Vila Flor",
+      "url": "https://www.rtp.pt/noticias/pais/um-morto-em-despiste-de-camiao-no-ic5-perto-de-vila-flor_n1771354",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T09:34:11+00:00",
+      "summary": "O despiste de um camião, hoje de manhã, provocou um morto e três feridos no Itinerário Complementar 5 (IC5), perto de Vila Flor, levando ao corte da estrada, adiantou, fonte da proteção civil.",
+      "category": "Mundo"
+    },
+    {
+      "title": "9h Reis de Espanha visitam hoje Ceuta e Melilha",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/9h-reis-de-espanha-visitam-hoje-ceuta-e-melilha_a1_1771358",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T09:19:03+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Agentes federais dos EUA fazem buscas na casa de deputada democrata nascida na Somália",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/agentes-federais-dos-eua-fazem-buscas-na-casa-de-deputada-democrata-nascida-na-somalia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:04:23+00:00",
-      "summary": "Agentes federais fazem operação de busca na casa de deputada rival de Trump Agentes federais dos Estados Unidos fizeram buscas na casa de uma deputada do Partido Democrata, nascida na Somália. Os investigadores alegam que estão apurando uma suposta fraude na documentação preenchida pelo pai dela, quando a atual deputad",
-      "category": "Política"
-    },
-    {
-      "title": "Marinha investiga acidente com chalana no Rio Grande em Minas Gerais",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/marinha-investiga-acidente-com-chalana-no-rio-grande-em-minas-gerais/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T01:03:51+00:00",
-      "summary": "Embarcação transportava cerca de 25 pessoas próximo a Sacramento e todos os ocupantes foram resgatados sem ferimentos por civis",
-      "category": "Mundo"
-    },
-    {
-      "title": "Porto. Moradores contestam em tribunal centro de pernoita",
-      "url": "https://observador.pt/programas/reportagem-observador/porto-moradores-contestam-em-tribunal-novo-centro-de-pernoita/",
+      "title": "As notícias das 10h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2493/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-13T01:00:16+00:00",
-      "summary": "Era para ser um centro de saúde, mas passou a ser centro de pernoita para sem-abrigo. “Ninguém sabia” da mudança.",
-      "category": "Saúde"
-    },
-    {
-      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 12 de outubro de 2026",
-      "url": "https://g1.globo.com/go/goias/edicao/2026/10/12/videos-jornal-anhanguera-2-edicao-de-segunda-feira-12-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:55:39+00:00",
-      "summary": "Assista agora os vídeos do Jornal Anhanguera 2ª Edição",
+      "publishedAt": "2026-10-13T09:17:15+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
-      "title": "Temporais provocam alagamentos e destruição em cidades da região de Campinas",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/temporais-provocam-alagamentos-e-destruicao-em-cidades-da-regiao-de-campinas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:48:35+00:00",
-      "summary": "Temporais provocaram destruição em cidades da região de Campinas (SP) Temporais provocaram destruição em cidades da região de Campinas, no interior de São Paulo. Famílias que moram nas ruas que dão acesso à parte baixa de Cosmópolis passaram o dia limpando a lama. A enxurrada derrubou muros e invadiu quatro casas. \"O q",
-      "category": "Cultura"
-    },
-    {
-      "title": "VÍDEO: motorista é detido após bater carro em outro durante tentativa de fuga na Bahia",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/batida-em-tentativa-de-fuga.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:46:15+00:00",
-      "summary": "Perseguição termina em acidente em Ilhéus Um homem perdeu o controle do carro que dirigia ao tentar fugir de uma abordagem policial e atingiu um veículo estacionado, no domingo (11), em Ilhéus, no sul da Bahia. Segundo a Polícia Militar (PM), o suspeito realizava manobras perigosas na Avenida de Ubaitaba, no bairro Mal",
-      "category": "Mundo"
-    },
-    {
-      "title": "Saúde Papa Leão XIV. Peregrinos de Fátima convidados à oração",
-      "url": "https://www.rtp.pt/noticias/pais/saude-papa-leao-xiv-peregrinos-de-fatima-convidados-a-oracao_v1771304",
+      "title": "Sporting defronta Lens na Champions",
+      "url": "https://www.rtp.pt/noticias/sporting/sporting-defronta-lens-na-champions_d1771356",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-13T00:43:47+00:00",
-      "summary": "Os peregrinos de Fátima rezaram esta noite pela saúde do Papa. O Arcebispo de Braga, que preside à Peregrinação de Outubro apelou a uma oração mais intensa e profunda por Leão XIV.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Piloto diz que chalana estava em dia e que agiu rápido antes de naufrágio no Rio Grande: 'Colete em todo mundo'",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/12/piloto-diz-que-chalana-estava-em-dia-e-que-agiu-rapido-antes-de-naufragio-no-rio-grande-colete-em-todo-mundo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:42:24+00:00",
-      "summary": "Piloto de chalana diz que agiu rápido antes de naufrágio no Rio Grande Piloto da chalana que naufragou no Rio Grande, entre Rifaina (SP) e Sacramento (MG), José Eduardo Goulart de Andrade afirma que a embarcação estava com a documentação em dia e que agiu rápido para garantir a segurança dos passageiros. O comerciante,",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fiéis lotam Santuário de Aparecida no Dia da Padroeira do Brasil",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/fieis-lotam-santuario-de-aparecida-no-dia-da-padroeira-do-brasil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:39:22+00:00",
-      "summary": "Fiéis lotam Santuário Nacional de Aparecida, no Vale do Paraíba (SP) Neste dia da Padroeira do Brasil (segunda-feira, 12), fiéis lotaram o Santuário Nacional de Aparecida, no Vale do Paraíba, São Paulo. É a fé que faz todas essas pessoas caminharem por dezenas de quilômetros. O Eduardo é de Guarulhos e fez a romaria pe",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: veja como foi o dia dos candidatos ao governo do TO no 2º turno",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/12/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-to-no-2o-turno.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:39:16+00:00",
-      "summary": "Veja como foi a agenda dos candidatos ao governo do Tocantins nesta segunda-feira (12) Confira como foi a agenda de campanha dos candidatos ao governo do Tocantins nesta segunda-feira (12), no segundo turno das eleições. A professora Dorinha (União Brasil) e Vicentinho Júnior (PSDB) cumpriram compromissos em Palmas. 📱 ",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições no AM: em entrevistas, Omar Aziz e Maria do Carmo falam sobre redução da fila do SisReg",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/12/eleicoes-no-am-em-entrevistas-omar-aziz-e-maria-do-carmo-falam-sobre-reducao-da-fila-do-sisreg.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:37:31+00:00",
-      "summary": "Eleições no AM: em entrevistas, Omar Aziz e Maria do Carmo falam sobre redução da fila do SisReg Foto: Reprodução/Rede Amazônica Os candidatos ao governo do Amazonas, Omar Aziz (PSD) e Maria do Carmo (PL), cumpriram agendas de campanha nesta segunda-feira (12), em Manaus, na disputa pelo segundo turno das eleições esta",
-      "category": "Política"
-    },
-    {
-      "title": "João Gomes arrecada mais de R$ 1 milhão em show beneficente para Hospital Dom Tomás em Petrolina",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/12/abrace-um-denguinho-joao-gomes-arrecada-mais-de-r-1-milhao-em-show-beneficente-em-petrolina.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:37:09+00:00",
-      "summary": "Bora Brincar leva diversão ao Dia das Crianças em Petrolina O cantor João Gomes reuniu milhares de pessoas na segunda edição do show beneficente \"Abrace um Denguinho\", nesta segunda-feira (12), Dia das Crianças, no Parque Municipal Josepha Coelho, em Petrolina, Sertão de Pernambuco. O evento gratuito arrecadou mais de ",
-      "category": "Saúde"
-    },
-    {
-      "title": "Como gibis e brincadeiras ajudam crianças a compreender o câncer e enfrentar o tratamento",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/criancas-cancer-tratamento.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:37:06+00:00",
-      "summary": "Criança Esperança: os 21 anos do Projeto Dodói Enfrentar o câncer na infância é um desafio enorme. Mas, com acolhimento, informação e brincadeiras, crianças e famílias conseguem compreender melhor a doença e manter a esperança durante o tratamento. É essa a proposta do Projeto Dodói, apoiado pelo Criança Esperança. 📱Fa",
-      "category": "Saúde"
-    },
-    {
-      "title": "Gabriel Sara projeta jogo contra o Barcelona na Champions League",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/gabriel-sara-projeta-jogo-contra-o-barcelona-na-champions-league/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:34:11+00:00",
-      "summary": "Ex-São Paulo, meia soma quatro participações em gols na temporada pelo Galatasaray",
+      "publishedAt": "2026-10-13T09:10:12+00:00",
+      "summary": "O Sporting visita o Lens, num confronto entre os vice-campeões de Portugal e França, a contar para a segunda jornada da fase de liga da Liga dos Campeões.",
       "category": "Esportes"
     },
     {
-      "title": "Entenda a teoria que levou os vencedores do Nobel de Economia a mudar a política monetária",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/entenda-a-teoria-que-levou-os-vencedores-do-nobel-de-economia-a-mudar-a-politica-monetaria.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-13T00:32:58+00:00",
-      "summary": "Americanos ganham Nobel de Economia O Prêmio Nobel de Economia deste ano foi concedido aos americanos Robert Hall e Michael Woodford. Os dois desenvolveram modelos que ajudam governos e bancos centrais a combater a recessão e a inflação. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Assim como no t",
+      "title": "\"Não é suficiente\". Primeiro-ministro britânico quer mais da relação com a UE",
+      "url": "https://www.rtp.pt/noticias/mundo/nao-e-suficiente-primeiro-ministro-britanico-quer-mais-da-relacao-com-a-ue_n1771347",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T09:08:23+00:00",
+      "summary": "Andy Burnham defende que a relação do Reino Unido com Bruxelas tem de mudar. Numa intervenção no Parlamento, antes da cimeira Reino Unido-União Europeia de novembro, o primeiro-ministro britânico afirmou que seria uma \"negligência grave\" não procurar relações mais estreitas com o bloco comunitário.",
       "category": "Política"
     },
     {
-      "title": "Athletico amassa a Chapecoense e retoma a terceira posição do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-amassa-a-chapecoense-e-retoma-a-terceira-posicao-do-brasileirao/",
-      "source": "CNN Brasil",
+      "title": "Mundial de Hóquei. Portugal vence Suíça por 10-0 e defronta Espanha esta noite",
+      "url": "https://www.rtp.pt/noticias/desporto/mundial-de-hoquei-portugal-vence-suica-por-10-0-e-defronta-espanha-esta-noite_v1771355",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T09:02:47+00:00",
+      "summary": "Entrada triunfal da seleção nacional no Mundial de Hóquei em patins. Portugal goleou a Suíça por 10-0 na estreia e volta ao rinque já esta noite para um grande clássico contra a Espanha, às 21h45, com transmissão em direto na RTP1.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Assista ao Bom Dia ES",
+      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-13T00:26:09+00:00",
-      "summary": "Furacão não tomou conhecimento do lanterna da competição, fez o dever de casa e segue na caça aos líderes",
+      "publishedAt": "2026-10-13T09:00:43+00:00",
+      "summary": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
       "category": "Mundo"
     },
     {
-      "title": "Quer um cachorro que vive mais? Novo estudo sugere que cadelas de porte pequeno envelhecem mais lentamente e são menos afetadas por doenças da idade",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/quer-um-cachorro-que-vive-mais-novo-estudo-sugere-que-cadelas-de-porte-pequeno-envelhecem-mais-lentamente-e-sao-menos-afetadas-por-doencas-da-idade/",
+      "title": "Ex-integrante do Opus Dei revela castigos físicos e psicológicos no grupo",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/ex-integrante-do-opus-dei-revela-castigos-fisicos-e-psicologicos-no-grupo/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-13T00:21:23+00:00",
-      "summary": "Estudo analisou o genoma de 864 cachorros e descobriu diferença que pode explicar o envelhecimento rápido dos cães de porte grande",
+      "publishedAt": "2026-10-13T09:00:38+00:00",
+      "summary": "À CNN Brasil, o coach Enrique Mackenzie contou que viveu experiências traumáticas enquanto estava na organização da Igreja Católica",
+      "category": "Mundo"
+    },
+    {
+      "title": "Após o RFW, o que esperar do SPFW? Edição começa nesta terça (13)",
+      "url": "https://www.cnnbrasil.com.br/style/moda/apos-o-rfw-o-que-esperar-do-spfw-edicao-comeca-nesta-terca-13/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T09:00:37+00:00",
+      "summary": "Encerrando as celebrações de 30 anos, a temporada de moda reúne mais de 30 desfiles no Parque Ibirapuera e em outros locais da capital paulista",
+      "category": "Cultura"
+    },
+    {
+      "title": "À CNN, lenda do skate elogia esporte nas Olimpíadas: “Cresceu muito”",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/a-cnn-lenda-do-skate-elogia-esporte-nas-olimpiadas-cresceu-muito/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T09:00:21+00:00",
+      "summary": "Bob Burnquist, maior medalhista do X Games, conta que a presença do skate nos Jogos Olímpicos fez subir o nível do esporte",
+      "category": "Esportes"
+    },
+    {
+      "title": "Zona Azul em Uberlândia registra 36 mil autuações e recebe queixas de motoristas: ‘Já viu velho saber mexer em aplicativo?’",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/13/zona-azul-em-uberlandia-registra-36-mil-autuacoes-e-recebe-queixas-de-motoristas-ja-viu-velho-saber-mexer-em-aplicativo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T09:00:00+00:00",
+      "summary": "Zona Azul registra mais de 36 mil autuações em um ano em Uberlândia O estacionamento rotativo pago em Uberlândia já registrou 36.647 autuações, segundo dados da Secretaria Municipal de Trânsito e Transportes (Settran). A cobrança e fiscalização são de responsabilidade da Prefeitura de Uberlândia. Os números são referen",
+      "category": "Mundo"
+    },
+    {
+      "title": "Reduzir filas e melhorar hospitais: veja o que Mailza e Alan propõem para a saúde do Acre",
+      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/reduzir-filas-e-melhorar-hospitais-veja-o-que-mailza-e-alan-propoem-para-a-saude-do-acre.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T09:00:00+00:00",
+      "summary": "Mailza Assis (PP) e Alan Rick (Republicanos) Reprodução Mailza Assis (PP) e Alan Rick (Republicanos) disputam o 2º turno das eleições para o governo do Acre, marcado para 25 de outubro. Com a definição, as propostas apresentadas nos planos de governo apontam quais medidas pretendem adotar na saúde pública do estado, ca",
+      "category": "Política"
+    },
+    {
+      "title": "Roraima registra mais de 2 mil focos de calor até outubro de 2026 e supera total de 2025",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/13/roraima-registra-mais-de-2-mil-focos-de-calor-ate-outubro-de-2026-e-supera-total-de-2025.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T09:00:00+00:00",
+      "summary": "Área de vegetação atingida por incêndio na zona rural de Boa Vista (RR). Raquel Maia/Rede Amazônica/Arquivo Roraima registrou 2.107 focos de calor de janeiro até o último domingo (11), segundo dados do Programa Queimadas do Instituto Nacional de Pesquisas Espaciais (Inpe). O número é 36,9% maior que o total registrado ",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Assista ao Jornal da Manhã",
+      "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:55:39+00:00",
+      "summary": "Assista ao Jornal da Manhã",
+      "category": "Mundo"
+    },
+    {
+      "title": "Rússia abateu 604 drones ucranianos no seu território",
+      "url": "https://observador.pt/2026/10/13/russia-abateu-604-drones-ucranianos-no-seu-territorio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:55:02+00:00",
+      "summary": "\"A maior parte destes foi neutralizada pelas defesas antiaéreas em zonas distantes da cidade. Foram destruídos 65 drones nas proximidades de Moscovo\", apontou Dmitri Sobianin presidente da Câmara de Moscovo",
+      "category": "Política"
+    },
+    {
+      "title": "Pensões. Fenprof quer esclarecimentos sobre erro no cálculo",
+      "url": "https://observador.pt/2026/10/13/fenprof-exige-esclarecimentos-rigorosos-sobre-erro-no-calculo-das-pensoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:54:29+00:00",
+      "summary": "A Fenprof apelarou a todos os professores que ainda não contactaram a sua organização sindical para o fazerem de modo a receberem o apoio e o acompanhamento necessários",
+      "category": "Mundo"
+    },
+    {
+      "title": "Um morto em despiste de camião no IC5 perto de Vila Flor",
+      "url": "https://observador.pt/2026/10/13/um-morto-em-despiste-de-camiao-no-ic5-perto-de-vila-flor/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:51:29+00:00",
+      "summary": "O óbito foi declarado no local. O acidente provocou ainda três feridos, sem gravidade, que terão sido transportados para o hospital de Mirandela, distrito de Bragança",
       "category": "Saúde"
     },
     {
-      "title": "Trump garante que Putin quer chegar a acordo com Kiev",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-garante-que-putin-quer-chegar-a-acordo-com-kiev_v1771302",
+      "title": "FMI prevê crescimento global de 3,1% em 2026 e 3,4% em 2027",
+      "url": "https://observador.pt/2026/10/13/fmi-preve-crescimento-global-de-31-em-2026-e-34-em-2027/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:51:05+00:00",
+      "summary": "De acordo com as projeções, o crescimento nas economias avançadas deve aumentar ligeiramente, passando de 2% em 2025 para 2,1% em 2026, antes de desacelerar para 1,8% em 2027",
+      "category": "Economia"
+    },
+    {
+      "title": "Desnutrição associada à doença atinge de 115 mil doentes",
+      "url": "https://observador.pt/2026/10/13/desnutricao-associada-a-doenca-atinge-cerca-de-115-mil-doentes-diz-associacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:49:17+00:00",
+      "summary": "Os doentes que precisam de suporte alimentar com recurso a nutrição clínica dispõem, desde o início deste ano, de uma comparticipação do Estado de 69% para a nutrição entérica, que passará para os 90% no próximo ano",
+      "category": "Saúde"
+    },
+    {
+      "title": "Rússia abateu 604 drones ucranianos no seu território",
+      "url": "https://www.rtp.pt/noticias/mundo/russia-abateu-604-drones-ucranianos-no-seu-territorio_n1771351",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-13T00:20:47+00:00",
-      "summary": "Donald Trump diz que o Vladimir Putin \"quer mais chegar a acordo\" para terminar a guerra do que Volodymyr Zelensky. A caminho de um comício, o presidente dos Estados Unidos disse que os dois lados estão a violar o cessar-fogo energético, que o próprio impôs.",
+      "publishedAt": "2026-10-13T08:49:11+00:00",
+      "summary": "As forças russas abateram 604 drones ucranianos durante a noite passada, sendo que a maioria tinha como alvo a região de Moscovo, indicaram hoje o Ministério da Defesa e o presidente da Câmara da capital russa.",
       "category": "Política"
     },
     {
-      "title": "1h. SIRESP. MAI revela razões pelas quais afastou Carrilho",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2412/",
+      "title": "\"Leiam a história do partido [PSD] e convivam com a crítica\"",
+      "url": "https://observador.pt/programas/explicador/leiam-a-historia-do-partido-psd-e-convivam-com-a-critica/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-13T00:20:20+00:00",
-      "summary": "Em causa esteve a necessidade de encontrar um perfil adequado e comprometido com os objetivos políticos e estratégicos do Ministério. Ainda, Luís Montenegro rejeita um entendimento com o Chega.",
+      "publishedAt": "2026-10-13T08:49:03+00:00",
+      "summary": "O ex-presidente do PSD e atual autarca de Vila Nova de Gaia lamenta as vozes críticas da entrevista de Pedro Passos Coelho à SIC. Luís Filipe Menezes fala ainda do TGV, que vai ligar Lisboa a Porto.",
+      "category": "Política"
+    },
+    {
+      "title": "Casa da Música dá palco à Estação Jazz",
+      "url": "https://www.rtp.pt/noticias/cultura/casa-da-musica-da-palco-a-estacao-jazz_n1771353",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:48:18+00:00",
+      "summary": "Começa esta terça-feira na Casa da Música, no Porto, o Festival Estação Jazz, que ao longo da semana vai apresentar concertos e músicos de várias geografias e influências à cidade.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Associação alerta sobre alterações do preço dos genéricos",
+      "url": "https://observador.pt/2026/10/13/alteracao-do-preco-dos-genericos-deve-ser-acompanhada-do-reforco-da-oferta-diz-associacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:46:18+00:00",
+      "summary": "Equalmed alegou que a sustentabilidade do setor exige uma intervenção do Governo, num contexto marcado pelo aumento dos custos energéticos e logísticos, pela inflação e pelas dificuldades nas cadeias de produção e abastecimento",
+      "category": "Política"
+    },
+    {
+      "title": "Sem sorteio hoje? Mega-Sena é adiada por conta de feriado",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/sem-sorteio-hoje-mega-sena-e-adiada-por-conta-de-feriado/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:42:13+00:00",
+      "summary": "Concurso com prêmio estimado em R$ 150 milhões será realizado na quarta-feira (14), às 21h; confira todas loterias que acontecem no dia",
       "category": "Mundo"
     },
     {
-      "title": "Joalheria é furtada na Oscar Freire; câmeras de segurança registram crime",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/joalheria-e-furtada-na-oscar-freire-cameras-de-seguranca-registram-crime/",
+      "title": "Visa prepara entrada no mercado chinês de cartões bancários",
+      "url": "https://observador.pt/2026/10/13/china-aprova-preparativos-da-visa-para-entrar-no-mercado-de-cartoes-bancarios/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:42:11+00:00",
+      "summary": "Ao contrário da American Express e da Mastercard, que recorreram a empresas conjuntas com parceiros chineses, a Visa obteve a autorização preparatória através de uma sociedade constituída no país pela própria multinacional",
+      "category": "Economia"
+    },
+    {
+      "title": "Portugal gere vantagem confortável com segundo play-off para Mundial feminino na mira",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-gere-vantagem-confortavel-com-segundo-play-off-para-mundial-feminino-na-mira_d1771350",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:38:46+00:00",
+      "summary": "A seleção portuguesa feminina de futebol recebe hoje a Irlanda do Norte em Portimão, gerindo uma vantagem de 4-0 na segunda mão do Caminho 1 do primeiro play-off de qualificação para o Mundial2027.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Drones atingem navios no Mar Negro e afundam embarcação perto da Bulgária",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/13/drones-atingem-navios-no-mar-negro-e-afundam-embarcacao-perto-da-bulgaria.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:35:12+00:00",
+      "summary": "Veículos policiais em uma área enquanto tripulantes resgatados de um navio danificado em um ataque de drone são levados em ambulâncias em Varna. Bulphoto Agency Drones atingiram dois navios no Mar Negro, próximo à costa da Bulgária, nesta terça-feira (13), afundando uma das embarcações e desencadeando operações de resg",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal dá dez à Suíça no Campeonato do Mundo de Hóquei Patins",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-da-dez-a-suica-no-campeonato-do-mundo-de-hoquei-patins_d1771349",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:33:07+00:00",
+      "summary": "Portugal entrou a vencer no Mundial de hóquei em patins, no Paraguai. A seleção nacional encheu a Suíça de golos (10-0), na estreia da fase de grupos.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Jetour G700 é usado em expedição na Amazônia e chega em breve ao Brasil",
+      "url": "https://www.cnnbrasil.com.br/auto/breve-no-brasil-jetour-g700-e-usado-em-expedicao-na-amazonia/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-13T00:06:21+00:00",
-      "summary": "Assaltantes usaram terreno vizinho em reformas para acessar a loja, desativaram os sistemas de segurança e cobriram câmeras internas com alumínio",
+      "publishedAt": "2026-10-13T08:30:16+00:00",
+      "summary": "SUV de 905 cv e com construção sobre chassi, Jetour G700 já foi exibido no Festival Interlagos e será lançado no país ainda em 2026",
+      "category": "Cultura"
+    },
+    {
+      "title": "Athletic x Londrina: horário e onde assistir ao jogo da Série B",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletic-x-londrina-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:30:15+00:00",
+      "summary": "Equipes se enfrentam nesta terça-feira (13), na Arena Sicredi, em duelo válido pela 33ª rodada da Série B do Campeonato Brasileiro",
+      "category": "Esportes"
+    },
+    {
+      "title": "Obesidade. Cirurgia bariátrica reduz impacto de doenças",
+      "url": "https://observador.pt/2026/10/13/cirurgia-bariatrica-ou-metabolica-reduz-impacto-de-doencas-associadas-a-obesidade/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:30:03+00:00",
+      "summary": "Estudo foi realizado pela Faculdade de Medicina da Universidade do Porto (FMUP), sendo Paula Feitas a coordenadora da investigação",
+      "category": "Saúde"
+    },
+    {
+      "title": "Montenegro esteve bem ao mandar Passos esperar sentado?",
+      "url": "https://observador.pt/programas/e-o-vencedor-e/montenegro-esteve-bem-ao-mandar-passos-esperar-sentado/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:28:56+00:00",
+      "summary": "O primeiro-ministro mostrou dentes e firmeza a Passos Coelho para travar a oposição interna. Já Ferro Rodrigues voltou sem réstia de autocrítica e desmarcou-se da responsabilidade no subir do Chega.",
+      "category": "Política"
+    },
+    {
+      "title": "Loures. PSP atropelado enquanto sinalizava acidente de carro",
+      "url": "https://observador.pt/2026/10/13/agente-da-psp-atropelado-enquanto-sinalizava-limpeza-de-via-em-loures/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-13T08:26:41+00:00",
+      "summary": "Polícia sofreu rotura de ligamentos após ser atingido por espelho de carro e foi transportado para o Hospital Santa Maria. Estava a sinalizar acidente de carro, em Santa Iria de Azóia.",
+      "category": "Saúde"
+    },
+    {
+      "title": "Espanha de 2010 ou de 2026? Campeão do mundo aponta qual o melhor time",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/espanha-de-2010-ou-de-2026-campeao-do-mundo-aponta-qual-o-melhor-time/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:00:50+00:00",
+      "summary": "Durante entrevista ao CNN Esportes S/A no último domingo (11), o ex-zagueiro e ídolo Gerard Piqué comparou as duas gerações da Espanha campeãs do mundo",
+      "category": "Esportes"
+    },
+    {
+      "title": "Quase 65% das cidades do Brasil têm baixa vacinação contra sarampo",
+      "url": "https://www.cnnbrasil.com.br/saude/quase-65-das-cidades-do-brasil-tem-baixa-vacinacao-contra-sarampo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:00:22+00:00",
+      "summary": "CNN teve acesso a dados de 5.570 municípios brasileiros referentes à vacina tríplice viral; Curitiba é a capital que mais aplicou doses na média de 2026",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Cantor sertanejo leva quase quatro anos e gasta R$ 80 mil na fabricação de carro para divulgar carreira: 'Me chamavam de doido'",
+      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/13/cantor-sertanejo-leva-quase-quatro-anos-e-gasta-r-80-mil-na-fabricacao-de-carro-para-divulgar-carreira-me-chamavam-de-doido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:00:21+00:00",
+      "summary": "Carro construído por Paulo roda e tem placa regular Vender o próprio carro, abrir mão de comprar roupas e viver com o básico por três anos. Esses foram alguns dos sacrifícios feitos por um cantor sertanejo para tirar do papel um projeto inusitado: construir um carro e atrair a atenção para a carreira musical. Paulo Vic",
+      "category": "Cultura"
+    },
+    {
+      "title": "Ayrton Senna inspira coleção conectando moda e universo das corridas; veja",
+      "url": "https://www.cnnbrasil.com.br/style/moda/ayrton-senna-inspira-colecao-conectando-moda-e-universo-das-corridas-veja/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:00:02+00:00",
+      "summary": "Lançamento está disponível desde a última segunda-feira (12) em lojas físicas e no catálogo virtual da Zara",
+      "category": "Cultura"
+    },
+    {
+      "title": "Influenciador do interior de SP viraliza ao ‘desmascarar’ regras absurdas em convites de casamento e festas",
+      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/13/influenciador-do-interior-de-sp-viraliza-ao-desmascarar-regras-absurdas-em-convites-de-casamento-e-festas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:00:00+00:00",
+      "summary": "Influenciador de SP viraliza ao 'desmascarar' regras absurdas em convites de festas Uma festa de casamento em que o convidado precisava pagar um valor proporcional ao próprio peso, aniversário com obrigação de envio de Pix de R$ 250 para comprar um celular e outros convites com regras \"duvidosas\" viralizaram nas redes ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Associação cria 'cidade acessível' com imagens de IA para apontar desafios enfrentados por deficientes visuais em Sorocaba",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/13/associacao-cria-cidade-acessivel-com-imagens-de-ia-para-apontar-desafios-enfrentados-por-deficientes-visuais-em-sorocaba.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:00:00+00:00",
+      "summary": "Associação cria 'cidade acessível' com imagens de IA para apontar desafios de mobilidade 👩‍🦯Calçadas niveladas, pisos táteis contínuos, semáforos com sinalização sonora e terminais de ônibus acessíveis o cenário ideal para uma grande cidade, mas são apenas imagens criadas pela Associação Sorocabana de Atividades para D",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Raça Tabapuã: gado que pode custar até R$ 2 milhões no Brasil recebe nome de cidade no interior de SP",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/13/raca-tabapua-gado-que-pode-custar-ate-r-2-milhoes-no-brasil-recebe-nome-de-cidade-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:00:00+00:00",
+      "summary": "Uma das raças mais importantes do mercado brasileiro leva o nome de uma cidade de aproximadamente 35 mil habitantes, que está localizada no interior de São Paulo. Os exemplares receberam o nome de Tabapuã após serem criados em uma propriedade rural, popularmente conhecida como Fazenda Milagrosa, situada no perímetro ur",
+      "category": "Economia"
+    },
+    {
+      "title": "Fim da escala 6x1: o que acontece se o Senado aprovar a PEC nesta quarta",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/13/fim-da-escala-6x1-votacao-senado.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:00:00+00:00",
+      "summary": "Plenário do Senado Federal discute a PEC do fim da escala 6x1 Jonas Pereira/Agência Senado A proposta que prevê o fim da escala 6x1 enfrenta nesta quarta-feira (14) seu primeiro grande teste no plenário do Senado. Os senadores devem votar, em primeiro turno, a PEC 221/2019, que reduz a jornada máxima de trabalho de 44 ",
+      "category": "Política"
+    },
+    {
+      "title": "Quem eram os jovens que morreram em acidente entre três veículos na TO-040",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/13/quem-eram-os-jovens-que-morreram-em-acidente-entre-tres-veiculos-na-to-040.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T08:00:00+00:00",
+      "summary": "Quatro homens morrem em acidente envolvendo carro, moto e caminhonete na TO-040 Os quatro jovens que morreram em um acidente envolvendo uma caminhonete, um carro e uma motocicleta foram identificados. A batida foi registrada no último domingo (11), na rodovia TO-040, entre Almas e Porto Alegre do Tocantins, no sudeste ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Copel defende relicitação de hidrelétricas e critica renovação por “Excel”",
+      "url": "https://www.cnnbrasil.com.br/infra/copel-defende-relicitacao-de-hidreletricas-e-critica-renovacao-por-excel/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T07:30:55+00:00",
+      "summary": "Diogo Mac Cord afirma que competição revela o valor de mercado das concessões e diz que companhia participaria de eventuais novos certames",
+      "category": "Economia"
+    },
+    {
+      "title": "O que sabemos sobre a propaganda de Flávio que foi exibida sem áudio",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/o-que-sabemos-sobre-a-propaganda-de-flavio-que-foi-exibida-sem-audio/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T07:30:12+00:00",
+      "summary": "TSE e entidades do setor atribuíram o problema a uma falha técnica na preparação das mídias; material de Lula foi exibido com som após a correção",
+      "category": "Mundo"
+    },
+    {
+      "title": "GM tenta modificar regras para vender Cadillac Escalade no Brasil",
+      "url": "https://www.cnnbrasil.com.br/auto/gm-tenta-modificar-regras-para-vender-cadillac-escalade-no-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-13T07:30:12+00:00",
+      "summary": "Montadora alega diferenças nas regras de segurança para não oferecer Escalade, Tahoe e Suburban, mesmo quando os modelos já circulam por Brasil",
       "category": "Mundo"
     },
     {
@@ -288,159 +441,6 @@
       "publishedAt": "2026-10-12T23:36:00+00:00",
       "summary": "O Red Bull Bragantino conquistou uma vitória importante fora de casa pela Copa do Brasil Feminina. Na noite desta segunda-feira (12), o Massa Bruta venceu a Ferroviária por 2 a 0 na Arena da Fonte Luminosa, em Araraquara (SP), no jogo de ida do confronto que abriu as quartas de final da competição. A partida de volta s",
       "category": "Esportes"
-    },
-    {
-      "title": "\"Saneamento.\" A \"total surpresa\" de Ricardo Carrilho com MAI",
-      "url": "https://observador.pt/2026/10/13/ricardo-carrilho-demonstra-total-surpresa-com-comunicado-do-mai-e-fala-em-saneamento-de-luis-neves/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:32:38+00:00",
-      "summary": "Ex-secretário-geral do MAI aponta que havia duas atitudes de Luís Neves: “Ou havia falta de resposta, ou responsabilidade era exclusivamente da secretaria”. Objetivo podia ser a sua saída do cargo.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sindicato do MP pede apoio a Seguro para curso extraordinário para procuradores",
-      "url": "https://www.rtp.pt/noticias/pais/sindicato-do-mp-pede-apoio-a-seguro-para-curso-extraordinario-para-procuradores_n1771249",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:32:01+00:00",
-      "summary": "O Sindicato dos Magistrados do Ministério Público (SMMP) pediu hoje o apoio do Presidente da República para a criação de um curso especial de formação de procuradores para fazer face a um défice de mais de 200 magistrados.",
-      "category": "Política"
-    },
-    {
-      "title": "Um polícia ferido e dois detidos no dia mais tenso em 17 de acampamento na Puerta del Sol",
-      "url": "https://www.rtp.pt/noticias/mundo/um-policia-ferido-e-dois-detidos-no-dia-mais-tenso-em-17-de-acampamento-na-puerta-del-sol_n1771281",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:29:43+00:00",
-      "summary": "Um polícia ferido e pelo menos duas pessoas detidas são o balanço do dia mais tenso em 17 do acampamento na Puerta del Sol, após vários grupos radicais tentarem tumultuar a manifestação contra a crise na habitação.",
-      "category": "Mundo"
-    },
-    {
-      "title": "P. Diddy: urgência hospitalar e saída adiada",
-      "url": "https://observador.pt/2026/10/13/sean-diddy-combs-esteve-hospitalizado-devido-a-lesao-na-cabeca-liberdade-do-rapper-adiada-depois-de-violar-regras-na-prisao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:26:25+00:00",
-      "summary": "Sean Combs saiu da prisão FCI Fort Dix para o hospital na madrugada de sábado. Nas semanas anteriores, perdera 41 dias de redução de pena por contrabando e outros abusos.",
-      "category": "Saúde"
-    },
-    {
-      "title": "EDP anuncia finalistas da 16.ª edição Prémio Novos Artistas",
-      "url": "https://observador.pt/2026/10/13/fundacao-edp-anuncia-sete-finalistas-na-16-a-edicao-premio-novos-artistas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:26:16+00:00",
-      "summary": "Os sete finalistas foram escolhidos por um júri constituído por João Pinharanda (diretor do MAAT), Catarina Rosendo e Eva Mendes",
-      "category": "Mundo"
-    },
-    {
-      "title": "Passos Coelho e o que fazer com uma “maioria de direita”",
-      "url": "https://observador.pt/opiniao/passos-coelho-e-o-que-fazer-com-uma-maioria-de-direita/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:25:32+00:00",
-      "summary": "Importa perceber se os mais de 60% de deputados que se sentam à direita do PS correspondem mesmo a uma “maioria de direita”. E se um Chega liberto da “peçonha” pode ser parceiro numa agenda reformista",
-      "category": "Mundo"
-    },
-    {
-      "title": "Estabilidade política não é política económica",
-      "url": "https://observador.pt/opiniao/estabilidade-politica-nao-e-politica-economica/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:24:39+00:00",
-      "summary": "O Orçamento do Estado para 2027 deverá ser aprovado sem grandes dramas e confirma o consenso em torno do equilíbrio das contas públicas. Mas é preciso ir mais longe.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Wall Street fecha sem rumo à espera de resultados e números da inflação",
-      "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-sem-rumo-a-espera-de-resultados-e-numeros-da-inflacao_n1771295",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:24:16+00:00",
-      "summary": "A bolsa nova-iorquina encerrou hoje em ordem dispersa, com os investidores a resguardarem-se quando se aproximam informação sobre a inflação e mais uma época de divulgação de resultados.",
-      "category": "Economia"
-    },
-    {
-      "title": "Bloco central, choque frontal",
-      "url": "https://observador.pt/opiniao/bloco-central-choque-frontal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:23:46+00:00",
-      "summary": "O Bloco Central, sendo um desastre real, será necessário para que, falhando em toda a linha, possa vir a ser o primeiro passo para a recuperação da normalidade do sistema.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lisboa vence World Cruise Awards pela terceira vez",
-      "url": "https://observador.pt/2026/10/13/lisboa-eleita-melhor-destino-de-cruzeiros-da-europa-pela-terceira-vez/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:23:13+00:00",
-      "summary": "Os World Cruise Awards foram criados em 2021 e pretendem distinguir a excelência e a inovação na indústria internacional de cruzeiros",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fátima. Acreditar recebe primeiras receitas de peregrinos",
-      "url": "https://observador.pt/2026/10/13/acreditar-recebe-primeiras-receitas-da-credencial-de-peregrinos-a-pe-para-fatima/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:22:21+00:00",
-      "summary": "A credencial está disponível a partir de terça-feira, quando se assinala o Dia Nacional do Peregrino",
-      "category": "Mundo"
-    },
-    {
-      "title": "23h MAI responde a ex-SG: postura só prova motivos para demissão",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-mai-responde-a-ex-sg-postura-so-prova-motivos-para-demissao_a1_1771298",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:21:01+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Demissão no MAI. Gabinete de Luís Neves rejeita acusações de \"purga política\"",
-      "url": "https://www.rtp.pt/noticias/politica/demissao-no-mai-gabinete-de-luis-neves-rejeita-acusacoes-de-purga-politica_n1771297",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:17:00+00:00",
-      "summary": "O gabinete de Luís neves reitera que o afastamento de Ricardo Carrilho, ex-secretário-geral do MAI, foi determinado pela necessidade de encontrar um perfil adequado e comprometido com os objetivos políticos e estratégicos do Ministério enquadrados no Programa do Governo.",
-      "category": "Política"
-    },
-    {
-      "title": "Guarda Revolucionária do Irão reivindica ataque a navio no estreito de Ormuz",
-      "url": "https://www.rtp.pt/noticias/economia/guarda-revolucionaria-do-irao-reivindica-ataque-a-navio-no-estreito-de-ormuz_n1771294",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T23:16:07+00:00",
-      "summary": "A Guarda Revolucionária do Irão (GRI) reivindicou um novo ataque hoje contra um petroleiro que tentava atravessar o Estreito de Ormuz, palco central da guerra entre o Irão e os Estados Unidos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Portugal e outros 31 países condenam ataques e atividades híbridas do Irão",
-      "url": "https://www.rtp.pt/noticias/mundo/portugal-e-outros-31-paises-condenam-ataques-e-atividades-hibridas-do-irao_n1771263",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T22:54:40+00:00",
-      "summary": "Trinta e dois países, incluindo Portugal, condenaram hoje \"nos termos mais fortes\" o recurso do Irão a ataques e outras atividades híbridas contra os seus países e parceiros.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Montenegro responde a Passos: \"PSD não deve viver acorrentado\" ao Chega",
-      "url": "https://www.rtp.pt/noticias/politica/montenegro-responde-a-passos-psd-nao-deve-viver-acorrentado-ao-chega_n1771293",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T22:46:54+00:00",
-      "summary": "Luís Montenegro respondeu ao antigo primeiro-ministro, Pedro Passos Coelho, e defendeu que o PSD não deve viver acorrentado ao Chega. O Governo, sublinhou, negoceia com todos sem birras partidárias.",
-      "category": "Política"
-    },
-    {
-      "title": "\"Mare Nostrum\". Um morto e dois detidos em operação internacional ao largo de Faro",
-      "url": "https://www.rtp.pt/noticias/pais/mare-nostrum-um-morto-e-dois-detidos-em-operacao-internacional-ao-largo-de-faro_n1771291",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-12T22:45:49+00:00",
-      "summary": "Um suspeito morreu na operação \"Mare Nostrum\", depois de ficar gravemente ferido \"no momento da abordagem\" da Polícia Judiciária, e dois outros foram detidos. A investigação que levava seis meses contou com parceiros internacionais.",
-      "category": "Mundo"
     },
     {
       "title": "Milhares ocupam Copacabana em ato pela democracia e em apoio a Lula",
