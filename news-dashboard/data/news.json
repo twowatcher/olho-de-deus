@@ -1,311 +1,446 @@
 {
-  "updatedAt": "2026-10-16T04:26:03.654645+00:00",
+  "updatedAt": "2026-10-16T09:44:55.903553+00:00",
   "items": [
     {
-      "title": "5h Desmobilizado protesto pela habitação no Porto por risco de distúrbios",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-desmobilizado-protesto-pela-habitacao-no-porto-por-risco-de-disturbios_a1_1772000",
+      "title": "\"Soluções comuns\". Seguro defende mais integração na Europa em áreas como habitação e energia",
+      "url": "https://www.rtp.pt/noticias/mundo/pr-defende-mais-integracao-politica-na-europa-em-areas-como-habitacao-e-energia_n1772053",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-16T05:18:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "4h Combustíveis. Governo espera regularizar apoios às empresas de autocarros",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-combustiveis-governo-espera-regularizar-apoios-as-empresas-de-autocarros_a1_1771998",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T04:19:02+00:00",
-      "summary": "",
+      "publishedAt": "2026-10-16T10:34:11+00:00",
+      "summary": "\"É nosso dever fazer uma nova Europa, uma Europa mais forte para as novas gerações\", sustentou o presidente da República na Eslovénia.",
       "category": "Política"
     },
     {
-      "title": "Previsão do tempo hoje para Campo Grande (MS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:15:53+00:00",
-      "summary": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta sexta-feira (16) para Campo Grande (MS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da ta",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Belo Horizonte (MG): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-belo-horizonte-mg-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:15:19+00:00",
-      "summary": "Previsão do tempo hoje em Belo Horizonte g1 A previsão do tempo para esta sexta-feira (16) para Belo Horizonte (MG) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período d",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:15:03+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta sexta-feira (16) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:14:46+00:00",
-      "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para esta sexta-feira (16) para São Gonçalo (RJ) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tard",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Vitória (ES): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/es/espirito-santo/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-vitoria-es-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:14:29+00:00",
-      "summary": "Previsão do tempo hoje em Vitória g1 A previsão do tempo para esta sexta-feira (16) para Vitória (ES) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 29ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No per",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-ribeirao-das-neves-mg-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:14:14+00:00",
-      "summary": "Previsão do tempo hoje em Ribeirão das Neves g1 A previsão do tempo para esta sexta-feira (16) para Ribeirão das Neves (MG) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No p",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:13:33+00:00",
-      "summary": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta sexta-feira (16) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Cuiabá (MT): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:13:16+00:00",
-      "summary": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta sexta-feira (16) para Cuiabá (MT) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No pe",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Caxias do Sul (RS): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:12:42+00:00",
-      "summary": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta sexta-feira (16) para Caxias do Sul (RS) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 17ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com mui",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Florianópolis (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:12:08+00:00",
-      "summary": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta sexta-feira (16) para Florianópolis (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 20ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e tr",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Maringá (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-maringa-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:11:50+00:00",
-      "summary": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta sexta-feira (16) para Maringá (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 25ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tard",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Curitiba (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/10/16/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:11:17+00:00",
-      "summary": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para esta sexta-feira (16) para Curitiba (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 23ºC e as mínimas de 15ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. N",
-      "category": "Clima"
-    },
-    {
-      "title": "As duas versões da madrugada violenta no Porto",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/as-duas-versoes-da-madrugada-violenta-no-porto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T04:02:58+00:00",
-      "summary": "Uma carga policial no centro do Porto deixou vários feridos. Manifestantes e PSP contam versões diferentes. Neste episódio, traçamos a fita do tempo e explicamos o que ainda falta esclarecer.",
-      "category": "Clima"
-    },
-    {
-      "title": "“A Fazenda 18”: Igor Monteiro é eliminado com 10,07% dos votos",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-igor-monteiro-e-eliminado-com-1007-dos-votos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T04:01:58+00:00",
-      "summary": "Participante foi o menos votado na quarta Roça, disputada com Eduarda Braum e Renata Del Bianco",
-      "category": "Mundo"
-    },
-    {
-      "title": "Léo Pereira analisa empate: “Decepção para quem quer futebol bonito”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/leo-pereira-analisa-empate-decepcao-para-quem-quer-futebol-bonito/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T03:50:23+00:00",
-      "summary": "Zagueiro rubro-negro lamentou a atuação do Flamengo na Argentina, mas destacou o sistema defensivo e mais um jogo sem sofrer gol na temporada",
-      "category": "Esportes"
-    },
-    {
-      "title": "3h PSD, Chega e CDS querem não residentes a pagar no SNS. Esquerda rejeita",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-psd-chega-e-cds-querem-nao-residentes-a-pagar-no-sns-esquerda-rejeita_a1_1771995",
+      "title": "10h Europa garante continuidade do apoio à Ucrânia",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-europa-garante-continuidade-do-apoio-a-ucrania_a1_1772058",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-16T03:32:01+00:00",
+      "publishedAt": "2026-10-16T10:18:03+00:00",
       "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Estudiantes 0 x 0 Flamengo: veja os melhores momentos pela Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/estudiantes-0-x-0-flamengo-veja-os-melhores-momentos-pela-libertadores/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T03:21:20+00:00",
-      "summary": "Em La Plata, na Argentina, time carioca resistiu à pressão dos donos da casa e levou um importante empate para decidir a vaga na final no Maracanã",
-      "category": "Mundo"
-    },
-    {
-      "title": "Paquetá aprova empate do Flamengo com o Estudiantes: “Jogo inteligente”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/paqueta-aprova-empate-do-flamengo-com-o-estudiantes-jogo-inteligente/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T03:15:35+00:00",
-      "summary": "Equipes ficaram no 0 a 0 nesta quinta-feira (15) na Argentina e voltam a se enfrentar na próxima semana, no Estádio do Maracanã, pela semifinal da Copa Libertadores",
-      "category": "Esportes"
-    },
-    {
-      "title": "4h. Tiroteio em escola primária nos EUA mata 3 crianças",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2432/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T03:15:09+00:00",
-      "summary": "Também o atirador, de dezasseis anos, foi abatido no local. Ainda, o Benfica venceu o Celtic por quatro bolas a uma num jogo a contar para a Liga Europa.",
       "category": "Economia"
     },
     {
-      "title": "Flávio acusa sindicatos de favorecer Lula em posts; TSE nega barrar perfis",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-acusa-sindicatos-de-favorecer-lula-em-posts-tse-nega-barrar-perfis/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T03:10:41+00:00",
-      "summary": "Ação cita oito centrais sindicais, além de confederações, federações e movimentos estudantis; ministro Ricardo Villas Bôas Cueva considerou genéricas parte das medidas solicitadas e invocou liberdade de expressão",
-      "category": "Política"
-    },
-    {
-      "title": "Flávio ironiza PT por maioridade; Lula defende redução aos 16 em hediondos",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-ironiza-pt-por-maioridade-lula-defende-reducao-aos-16-em-hediondos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T02:58:08+00:00",
-      "summary": "Após proposta do Partido dos Trabalhadores prever a responsabilização penal de adolescentes em crimes hediondos, o candidato do PL ironizou a mudança de posição da legenda",
-      "category": "Política"
-    },
-    {
-      "title": "2h Habitação. Organizadores de protesto no Porto ordenam desmobilização",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-habitacao-organizadores-de-protesto-no-porto-ordenam-desmobilizacao_a1_1771993",
+      "title": "FMI insiste na dívida excessiva de \"demasiados países\" e apela à estabilidade dos preços",
+      "url": "https://www.rtp.pt/noticias/economia/fmi-insiste-na-divida-excessiva-de-demasiados-paises-e-apela-a-estabilidade-dos-precos_n1772056",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-16T02:58:02+00:00",
+      "publishedAt": "2026-10-16T10:16:33+00:00",
+      "summary": "A diretora do Fundo Monetário Internacional (FMI), Kristalina Georgieva, insistiu hoje que \"demasiados países têm uma dívida excessiva\" e instou os bancos centrais a darem prioridade à estabilidade dos preços.",
+      "category": "Economia"
+    },
+    {
+      "title": "Paquistão ordena inspeções em escolas depois da derrocada que matou 35 pessoas",
+      "url": "https://www.rtp.pt/noticias/mundo/paquistao-ordena-inspecoes-em-escolas-depois-da-derrocada-que-matou-35-pessoas_n1772038",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T10:06:19+00:00",
+      "summary": "As autoridades paquistanesas ordenaram inspeções a todas as escolas privadas da província de Khyber Pakhtunkhwa, após o colapso do telhado de uma escola que matou 34 crianças e um professor, divulgou hoje a imprensa internacional.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Documentário celebra a vida do músico João Aguardela",
+      "url": "https://www.rtp.pt/noticias/cultura/documentario-celebra-a-vida-do-musico-joao-aguardela_n1772048",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T10:05:48+00:00",
+      "summary": "O documentário \"Esta vida de marinheiro\", com o qual o realizador Paulo Miguel Antunes quis celebrar a vida do músico João Aguardela, estreia-se no sábado, em Lisboa, no âmbito do festival Doclisboa.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Francisco Cabral na final de pares do Masters 1.000 de Xangai",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/francisco-cabral-na-final-de-pares-do-masters-1000-de-xangai_d1772054",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T10:04:23+00:00",
+      "summary": "O tenista português Francisco Cabral, ao lado do norte-americano JJ Tracy, tornou-se hoje o segundo português a apurar-se para a final de pares de um Masters 1.000, depois de vencer os franceses Theo Arribage e Albano Olivetti em Xangai.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Inspetor da PJ e de Adriano Quintanilha julgados hoje no caso W52-FC Porto",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/inspetor-da-pj-e-de-adriano-quintanilha-julgados-hoje-no-caso-w52-fc-porto_d1772052",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T10:01:32+00:00",
+      "summary": "O Tribunal Local de Felgueiras começa hoje a julgar um inspetor da Polícia Judiciária (PJ) e Adriano Quintanilha, acusados de gizarem um plano para que o empresário não fosse incriminado no esquema de doping da W52-FC Porto.",
+      "category": "Mundo"
+    },
+    {
+      "title": "De lixo queimado ao volante, houve 382 razões para a PSP passar multas",
+      "url": "https://www.rtp.pt/noticias/pais/de-lixo-queimado-ao-volante-houve-382-razoes-para-a-psp-passar-multas_n1772047",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T10:00:56+00:00",
+      "summary": "Excesso de estacionamento, falta de inspeção automóvel e condução sem habilitação legal estão entre as infrações mais frequentes. Na área ambiental, foram identificadas 74 infrações, incluindo queima de resíduos a céu aberto.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Futre, Machado e Mamona distinguidos nos Prémios Empresariais do Desporto",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/futre-machado-e-mamona-distinguidos-nos-premios-empresariais-do-desporto_d1772051",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T10:00:43+00:00",
+      "summary": "O antigo futebolista Paulo Futre e as atletas Mariana Machado, de meia distância, e Patrícia Mamona, do triplo salto, foram galardoados na quinta-feira, na sétima edição dos Prémios Empresariais do Desporto, realizada em Montes Claros, em Lisboa.",
+      "category": "Economia"
+    },
+    {
+      "title": "Operação \"Corrupio\". PJ desmantela grupo suspeito de tráfico de estupefacientes e burlas informáticas",
+      "url": "https://www.rtp.pt/noticias/pais/operacao-corrupio-pj-desmantela-grupo-suspeito-de-trafico-de-estupefacientes-e-burlas-informaticas_n1772049",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:51:02+00:00",
+      "summary": "Os quatro detidos são suspeitos de integrar uma organização criminosa. Nas buscas foram apreendidos diversos tipos de estupefacientes e também materiais informáticos.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "A construção pode ser mais sustentável?",
+      "url": "https://observador.pt/programas/empresas-em-transformacao/a-construcao-pode-ser-mais-sustentavel-2/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:34:02+00:00",
+      "summary": "João Crispim, Artur Varum e Ana Oliveira debatem como reduzir o impacto ambiental na construção e o papel do financiamento verde no setor imobiliário.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Donald Trump volta a virar-se para Putin",
+      "url": "https://observador.pt/programas/o-dominio-da-guerra/donald-trump-volta-a-virar-se-para-putin/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:26:28+00:00",
+      "summary": "O Major-General Arnaut Moreira critica a postura de Trump na compra de combustível à Rússia. Afirma também que os negócios não podem esperar pela paz na Ucrânia.",
+      "category": "Economia"
+    },
+    {
+      "title": "Assista ao Bom Dia ES",
+      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T09:23:26+00:00",
+      "summary": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Polícia francesa acusada de ferir alunos como se fosse uma guerra",
+      "url": "https://www.rtp.pt/noticias/mundo/policia-francesa-acusada-de-ferir-alunos-como-se-fosse-uma-guerra_n1772026",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:21:41+00:00",
+      "summary": "Entre os casos, há relatos de quatro jovens que terão sido \"mutilados\" por engenhos explosivos e seis que sofreram \"ferimentos graves\". Para além de outras queixas que envolvem agressões físicas, insultos ou alegados abusos sexuais.",
+      "category": "Mundo"
+    },
+    {
+      "title": "09h Os alertas dos professores de educação especial",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-os-alertas-dos-professores-de-educacao-especial_a1_1772046",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:21:03+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "“Força-Tarefa da Superinteligência” da Casa Branca realiza primeira reunião",
-      "url": "https://www.cnnbrasil.com.br/internacional/forca-tarefa-de-superinteligencia-da-casa-branca-realiza-primeira-reuniao/",
-      "source": "CNN Brasil",
+      "title": "AO VIVO: assista à programação da NSC TV",
+      "url": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-16T02:52:41+00:00",
-      "summary": "Segundo resumo obtido pela CNN, grupo discutiu os riscos da tecnologia da inteligência artificial e as maneiras pelas quais o governo pdoe melhorar sua resposta a possíveis problemas",
+      "publishedAt": "2026-10-16T09:15:00+00:00",
+      "summary": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
+      "category": "Mundo"
+    },
+    {
+      "title": "10h. Metro de Lisboa. Greve convocada a 28 e 30 de outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2496/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:14:54+00:00",
+      "summary": "Em comunicado divulgado hoje a empresa anuncia greve entre as 5h e as 10h. Ainda, António Costa defende mais apoio à Ucrânia e maior pressão sobre a Rússia, à entrada da reunião dos 27.",
+      "category": "Economia"
+    },
+    {
+      "title": "A construção pode ser mais sustentável?",
+      "url": "https://observador.pt/programas/empresas-em-transformacao/a-construcao-pode-ser-mais-sustentavel/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:13:34+00:00",
+      "summary": "João Crispim, Artur Varum e Ana Oliveira debatem como reduzir o impacto ambiental na construção e o papel do financiamento verde no setor imobiliário.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Manifestações no Porto. Afinal, de quem é a culpa?",
+      "url": "https://observador.pt/programas/explicador/manifestacoes-no-porto-afinal-de-quem-e-a-culpa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:12:56+00:00",
+      "summary": "André Coelho Lima (PSD), Rui Gomes da Silva (Chega) e Eduardo Cabrita (PS) debatem sobre a segurança interna a propósito das manifestações no Porto pelo direito à habitação.",
+      "category": "Mundo"
+    },
+    {
+      "title": "A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/16/a-crise-global-que-flavio-bolsonaro-ou-lula-terao-de-enfrentar-se-eleitos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T09:10:18+00:00",
+      "summary": "Relação com os EUA de Trump será uma das chaves da geopolítica do próximo presidente. Aaron Schwartz/Getty Images via BBC \"A conjuntura global que o próximo presidente do Brasil vai encontrar, daqui alguns meses, será muito mais complexa do que a de hoje.\" A análise é do economista Otaviano Canuto, que leciona na Ellio",
       "category": "Política"
     },
     {
-      "title": "El Niño acende alerta e SP reforça medicamentos e vacinas para emergência",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/el-nino-acende-alerta-e-sp-reforca-medicamentos-e-vacinas-para-emergencia/",
-      "source": "CNN Brasil",
+      "title": "Lá Vem o Enem: resolva questões de física sobre energia e potência",
+      "url": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/10/16/la-vem-o-enem-resolva-questoes-de-fisica-sobre-energia-e-potencia.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-16T02:48:42+00:00",
-      "summary": "Medida da Secretaria da Saúde inclui soros para municípios paulistas que poderão ser atingidos por enchentes e deslizamentos com efeitos do fenômeno climático",
-      "category": "Ciência & Tech"
+      "publishedAt": "2026-10-16T09:09:19+00:00",
+      "summary": "A eletricidade flui em um sistema único integrado Getty Images via BBC Eletricidade e energia são temas importantes para quem está se preparando para o Enem. Na videoaula do Lá Vem o Enem, o professor de Física Helves Cezar explica conceitos como potência elétrica, circuitos e a relação entre corrente elétrica e tensão",
+      "category": "Mundo"
     },
     {
-      "title": "Votos de legenda somam 4,73% dos válidos em 2026, menor da série desde 1998",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/votos-de-legenda-somam-473-dos-validos-em-2026-menor-da-serie-desde-1998/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-16T02:48:29+00:00",
-      "summary": "Escolha direta pelos partidos somaram 10.702.467 votos válidos para deputados; especialistas divergem sobre o que o recuo pode revelar",
-      "category": "Política"
+      "title": "António Guterres: apoio às energias fósseis é suicídio",
+      "url": "https://observador.pt/2026/10/16/antonio-guterres-alertou-que-o-apoio-as-energias-fosseis-e-suicidio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:07:15+00:00",
+      "summary": "A declaração de Guterres ocorreu numa reunião de preparação da cimeira da COP17 sobre biodiversidade",
+      "category": "Mundo"
     },
     {
-      "title": "O que o Flamengo precisa fazer para avançar à final da Libertadores 2026",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/o-que-o-flamengo-precisa-fazer-para-avancar-a-final-da-libertadores-2026/",
+      "title": "O que se sabe de tiroteio em escola no EUA com 4 vítimas; atirador morreu",
+      "url": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-de-tiroteio-em-escola-no-eua-com-4-vitimas-atirador-morreu/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-16T02:33:36+00:00",
-      "summary": "Rubro-negro voltou da Argentina com um empate sem gols com o Estudiantes nesta quinta-feira (15) e sonha com mais uma decisão continental, a segunda seguida",
+      "publishedAt": "2026-10-16T09:07:06+00:00",
+      "summary": "Três crianças e um professor foram mortos por um adolescente de 16 anos que invadiu o prédio e acabou morto por um morador local; identidade do criminoso não foi revelada",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mirassol e Inter fazem duelo de “seis pontos” contra Z4 do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-e-inter-fazem-duelo-de-seis-pontos-contra-z4-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T09:05:23+00:00",
+      "summary": "Leão Caipira e Colorado jogam nesta sexta (16), às 20h (de Brasília), no interior de São Paulo, em confronto direto contra a queda na Série A",
+      "category": "Mundo"
+    },
+    {
+      "title": "PS Gaia exige compensações durante construção de estação",
+      "url": "https://observador.pt/2026/10/16/ps-gaia-tambem-exige-compensacoes-durante-construcao-da-estacao-de-alta-velocidade/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T09:03:40+00:00",
+      "summary": "Quanto às infraestruturas e transportes, o PS Gaia quer a \"garantia do terminal intermodal\" na zona da estação e \"ligação direta entre a estação D. João II do Metro e a estação de alta velocidade\"",
       "category": "Esportes"
     },
     {
-      "title": "Uso de IA em colonoscopia para síndrome de Lynch pode aumentar diagnóstico",
-      "url": "https://www.cnnbrasil.com.br/saude/uso-de-ia-em-colonoscopia-para-sindrome-de-lynch-pode-aumentar-diagnostico/",
+      "title": "Dar “bom dia” no elevador não é só educação: a psicologia revela o efeito dos laços fracos na sua felicidade",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/dar-bom-dia-no-elevador-nao-e-so-educacao-a-psicologia-revela-o-efeito-dos-lacos-fracos-na-sua-felicidade/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-16T02:25:12+00:00",
-      "summary": "Coloproctologista Danilo Munhóz destaca que o sucesso da colonoscopia depende do preparo do paciente e do treinamento da equipe médica",
+      "publishedAt": "2026-10-16T09:02:04+00:00",
+      "summary": "Pesquisa identificou uma relação entre contatos com conhecidos, felicidade e sensação de pertencimento, mesmo sem vínculos de amizade",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Flamengo segura pressão do Estudiantes na ida da semifinal da Libertadores",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-segura-pressao-do-estudiantes-na-ida-da-semifinal-da-libertadores/",
-      "source": "CNN Brasil",
+      "title": "Vestibular Unicamp: 3,7 mil candidatos estão inscritos em prova em cidades do Vale do Paraíba e região; veja locais",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/16/vestibular-unicamp-37-mil-candidatos-estao-inscritos-em-prova-em-cidades-do-vale-do-paraiba-e-regiao-veja-locais.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-16T02:24:27+00:00",
-      "summary": "Time carioca joga mal, vê os argentinos dominarem as finalizações, mas leva um importante empate para decidir a vaga na final no Maracanã",
+      "publishedAt": "2026-10-16T09:01:01+00:00",
+      "summary": "Unicamp abre neste domingo maratona de vestibulares desse ano O Vestibular Unicamp 2027 será realizado neste domingo (18). No Vale do Paraíba e região, 3.773 candidatos estão inscritos para a primeira fase, que será aplicada em três cidades: São José dos Campos, Lorena e Bragança Paulista. Veja os locais de prova em ca",
       "category": "Mundo"
     },
     {
-      "title": "3h. Passos Coelho não quer desafiar Luís Montenegro no PSD",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2468/",
+      "title": "Morte de Liam Payne completa 2 anos: o que se sabe e o que falta esclarecer",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/morte-de-liam-payne-completa-2-anos-o-que-se-sabe-e-o-que-falta-esclarecer/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T09:00:07+00:00",
+      "summary": "Ex-integrante do One Direction morreu após cair de sacada de hotel na Argentina; investigação chegou a ter cinco acusados, mas apenas dois seguem respondendo à justiça",
+      "category": "Mundo"
+    },
+    {
+      "title": "Adolescente que planejou assassinato do próprio pai era de facção rival e forjou estupro para encobrir crime em MS, diz polícia",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/16/adolescente-que-planejou-assassinato-do-proprio-pai-era-de-faccao-rival-e-forjou-estupro-para-encobrir-crime-em-ms-diz-policia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T09:00:00+00:00",
+      "summary": "Adolescente morreu em confronto nesta quinta-feira (15) Reprodução A adolescente Ana Vitória Nascimento Santos, de 17 anos, que morreu nesta quinta-feira (15) em confronto com policiais civis em Nova Andradina (MS), era suspeita de planejar o assassinato do próprio pai, Gilson Santana dos Santos. Segundo as investigaçõ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Centro Universitário oferece atendimento psicológico e jurídico gratuito em Juiz de Fora",
+      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/16/centro-universitario-oferece-atendimento-psicologico-e-juridico-gratuito-em-juiz-de-fora.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T09:00:00+00:00",
+      "summary": "Atendimentos psicológicos gratuitos na Univértix, em Juiz de Fora Divulgação/Univértix O Centro Universitário Univértix de Juiz de Fora está com vagas abertas para atendimento psicológico e jurídico gratuito destinado a pessoas em situação de vulnerabilidade social. A iniciativa une a possibilidade de atuação prática d",
+      "category": "Mundo"
+    },
+    {
+      "title": "Paulinho Moska, Venosa e festival Rock Aid: confira os destaques do fim de semana em Uberlândia e Uberaba",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/16/paulinho-moska-venosa-e-festival-rock-aid-confira-os-destaques-do-fim-de-semana-em-uberlandia-e-uberaba.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T09:00:00+00:00",
+      "summary": "Paulinho Moska se apresenta em Uberaba; Venosa e Matusa fazem shows em Uberlândia Divulgação A agenda cultural do fim de semana reúne programação em Uberlândia e Uberaba para todas as idades. Há festivais e shows de música, espetáculos de dança e teatro, sessões gratuitas de cinema, feiras, bazares, oficinas e festas. ",
+      "category": "Cultura"
+    },
+    {
+      "title": "Ferryboat fica à deriva após falha mecânica e causa pânico em passageiros no PA",
+      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/16/ferryboat-fica-a-deriva-apos-falha-mecanica-e-causa-panico-em-passageiros-no-pa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T08:57:32+00:00",
+      "summary": "Registro mostra desespero de passageiros no ferryboat Princesa de Juruti após falha mecânica no Pará. Reprodução/redes sociais Passageiros de um ferryboat viveram momentos de pânico na tarde desta quinta-feira (15) após a embarcação apresentar uma falha mecânica e ficar à deriva no oeste do Pará. A embarcaçã \"Princesa ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Família Aguiar: PM suspeito do desaparecimento há 9 meses em Cachoeirinha passará por avaliação psicológica",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/16/pm-suspeito-desaparecimento-familia-aguiar-avaliacao-saude.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T08:55:20+00:00",
+      "summary": "MP denuncia PM e mais dois pelo desaparecimento e assassinato da família Aguiar no RS O policial militar Cristiano Domingues Francisco, principal suspeito de envolvimento no desaparecimento da família Aguiar, de Cachoeirinha (RS), deve passar por uma avaliação da Junta Policial-Militar de Saúde. 🔎Silvana de Aguiar, 48 ",
+      "category": "Saúde"
+    },
+    {
+      "title": "Assista ao Jornal da Manhã",
+      "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T08:51:01+00:00",
+      "summary": "Assista ao Jornal da Manhã",
+      "category": "Mundo"
+    },
+    {
+      "title": "Polícia argentina reprime manifestação contra Governo",
+      "url": "https://observador.pt/2026/10/16/policia-argentina-reprime-manifestacao-contra-o-governo-de-javier-milei/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-16T02:17:19+00:00",
-      "summary": "O Observador sabe que o antigo primeiro-ministro não pretende assumir funções governativas sem passar diretamente pelos eleitores. Ainda, a noite de protestos no Porto terminou de forma abrupta.",
+      "publishedAt": "2026-10-16T08:39:05+00:00",
+      "summary": "Gases afetaram estudantes, docentes e funcionários universitários que se mobilizaram de forma pacífica para reclamar ao governo",
       "category": "Política"
     },
     {
-      "title": "1h Manifestantes vão pernoitar na Praça D. João I mas agora sem tendas",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-manifestantes-vao-pernoitar-na-praca-d-joao-i-mas-agora-sem-tendas_a1_1771989",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T01:30:01+00:00",
-      "summary": "",
-      "category": "Mundo"
+      "title": "Polícia investiga morte de bebê após parto em hospital de SP: 'Mãos vazias', diz pai",
+      "url": "https://g1.globo.com/sp/santos-regiao/mais-saude/noticia/2026/10/16/policia-investiga-morte-de-bebe-apos-parto-em-hospital-de-sp-maos-vazias-diz-pai.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T08:32:22+00:00",
+      "summary": "Polícia investiga morte de bebê em hospital de Registro, SP A Polícia Civil investiga a morte de um bebê logo após o parto em um hospital de Registro, no interior de São Paulo. De acordo com o boletim de ocorrência, obtido pelo g1 nesta quinta-feira (15), os pais de Anthony alegam negligência médica após a demora no at",
+      "category": "Saúde"
     },
     {
-      "title": "2h. Pernoita na Praça D. João I cancelada",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2442/",
+      "title": "Bodycams no Porto? Eram a solução, se saíssem do concurso",
+      "url": "https://observador.pt/programas/e-o-vencedor-e/bodycams-no-porto-eram-a-solucao-se-saissem-do-concurso/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-16T01:17:55+00:00",
-      "summary": "Esta noite entretanto ficou marcada por uma altercação que provocou um ferido. Ainda, um tiroteio numa escola primária de Oregon nos EUA, provocou quatro mortes, incluindo três crianças.",
+      "publishedAt": "2026-10-16T08:25:15+00:00",
+      "summary": "No Porto, fica o dilema entre a violência policial e a desobediência dos manifestantes. Sem bodycams no terreno, escasseiam as certezas sobre o que aconteceu.",
       "category": "Mundo"
     },
     {
-      "title": "Fluminense vence Flamengo e abre vantagem na Copa do Brasil Feminina",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/fluminense-vence-flamengo-e-abre-vantagem-na-copa-do-brasil-feminina",
+      "title": "Infiltrados no Porto. E o caminho para o regresso de Passos",
+      "url": "https://observador.pt/newsletters/360/a-denuncia-de-infiltrados-de-extrema-direita-nos-protestos-do-porto-e-as-condicoes-para-o-regresso-de-passos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T08:19:39+00:00",
+      "summary": "Os manifestantes pela habitação no Porto desmobilizaram à 1h20 depois de denunciarem a presença de infiltrados com facas. Os recados de Luís Neves sobre Ricardo Carrilho. E as condições de Passos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "9h. Zelensky agradece a UE e pede defesa energética do país",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2503/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T08:11:59+00:00",
+      "summary": "O presidente ucraniano marca hoje presença no Parlamento Europeu para a reunião dos 27 líderes do Bloco. Ainda, PSP do Porto adianta ao Observador que não encontrou qualquer arma nas manifestações.",
+      "category": "Política"
+    },
+    {
+      "title": "Metro de Lisboa. Greve regressa nos dias 28 e 30 de outubro",
+      "url": "https://observador.pt/2026/10/16/greve-regressa-ao-metro-de-lisboa-nos-dias-28-e-30-de-outubro-desta-vez-vai-ser-parcial-das-5h00-as-10h00/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-16T08:03:56+00:00",
+      "summary": "Após a paralisação de 14 de outubro, os sindicatos voltam à greve com as mesmas reivindicações. Tribunal Arbitral recusou fixar serviços mínimos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Série documental sobre Marília Mendonça estreia nesta sexta; onde assistir",
+      "url": "https://www.cnnbrasil.com.br/pop/streaming/serie-documental-sobre-marilia-mendonca-estreia-nesta-sexta-onde-assistir/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T08:00:32+00:00",
+      "summary": "\"Sentimento Louco\" revisita os passos da Rainha da Sofrência e mostra com exclusividade arquivos pessoais e depoimentos sobre a vida da cantora",
+      "category": "Cultura"
+    },
+    {
+      "title": "Bortoleto e Câmara na F1: o impacto bilionário do novo “Brazilian Storm”",
+      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/bortoleto-e-camara-na-f1-o-impacto-bilionario-do-novo-brazilian-storm/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T08:00:12+00:00",
+      "summary": "Com a chegada de Rafael Câmara à Haas em 2027 e a permanência de Gabriel Bortoleto na categoria, o Brasil volta a ter dois pilotos titulares na Fórmula 1; presença da dupla pode ampliar o interesse do público e abrir novas frentes de negócios e patrocínio",
+      "category": "Política"
+    },
+    {
+      "title": "Enem 2026: 68% dos inscritos têm gratuidade na taxa de inscrição",
+      "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-68-dos-inscritos-tem-gratuidade-na-taxa-de-inscricao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T08:00:01+00:00",
+      "summary": "De acordo com dados do MEC (Ministério da Educação), o Enem 2026 reúne mais de 5 milhões de inscritos em todo o país, dos quais 3,4 milhões têm inscrição gratuita",
+      "category": "Mundo"
+    },
+    {
+      "title": "Governo estima metade das rodovias federais sob gestão privada em 2030",
+      "url": "https://www.cnnbrasil.com.br/infra/governo-estima-quase-50-das-rodovias-federais-sob-gestao-privada-em-2030/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T07:30:42+00:00",
+      "summary": "Previsão de investimentos privados entre 2023 e 2029 é de R$ 218 bilhões, 69% maior que no período de 1993 a 2022",
+      "category": "Política"
+    },
+    {
+      "title": "Sob alta demanda, Nordeste avança como polo de data centers",
+      "url": "https://www.cnnbrasil.com.br/infra/sob-alta-demanda-nordeste-avanca-como-polo-de-data-centers/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T07:30:40+00:00",
+      "summary": "Região combina oferta abundante de energia renovável com demanda crescente por processamento de dados",
+      "category": "Mundo"
+    },
+    {
+      "title": "Regularização fundiária: o que Flávio Bolsonaro e Lula propõem para o campo",
+      "url": "https://www.cnnbrasil.com.br/agro/regularizacao-fundiaria-o-que-flavio-bolsonaro-e-lula-propoem-para-o-campo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T07:30:10+00:00",
+      "summary": "Enquanto candidato do PL defende acelerar a titulação de pequenos proprietários e integrar cadastros rurais, candidato petista prioriza reforma agrária e regularização de territórios tradicionais",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cerveja de sorgo abre caminho para novos usos do grão no Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/cerveja-de-sorgo-abre-caminho-para-novos-usos-do-grao-no-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T07:20:38+00:00",
+      "summary": "A demanda internacional e a busca por alimentos de maior valor agregado ampliam as oportunidades para o cereal além da ração animal e da silagem",
+      "category": "Mundo"
+    },
+    {
+      "title": "Apple inicia vendas do iPhone Duo no Brasil; veja preços e detalhes",
+      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/apple-inicia-vendas-do-iphone-duo-no-brasil-veja-precos-e-detalhes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T07:10:57+00:00",
+      "summary": "Modelo é o primeiro celular dobrável da empresa; lançamento oficial nas lojas está marcado para 23 de outubro",
+      "category": "Economia"
+    },
+    {
+      "title": "Lula defende redução da maioridade penal para crimes hediondos",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-defende-reducao-da-maioridade-penal-para-crimes-hediondos",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-16T00:41:00+00:00",
-      "summary": "No primeiro Fla-Flu pelas quartas de final da Copa do Brasil Feminina, melhor para as tricolores. Na noite desta quinta-feira (15), o Fluminense venceu o Flamengo por 2 a 1 no clássico realizado no Estádio Luso-Brasileiro. O jogo de volta também será no estádio da zona norte do Rio de Janeiro, na próxima quinta-feira (",
-      "category": "Esportes"
+      "publishedAt": "2026-10-16T02:44:00+00:00",
+      "summary": "Candidato à reeleição, o presidente da República Luiz Inácio Lula da Silva (PT) participou de sabatina no Jornal Nacional (TV Globo) nesta quinta-feira (15) e defendeu a redução da maioridade penal de 18 para 16 anos em casos de crimes hediondos. Lula disse ser favorável à discussão sobre o assunto no Congresso Naciona",
+      "category": "Política"
     },
     {
       "title": "Congresso aprova exame obrigatório para exercício da medicina",
@@ -317,67 +452,13 @@
       "category": "Política"
     },
     {
-      "title": "Cinco pessoas mortas em tiroteio numa escola de Oregon nos EUA",
-      "url": "https://www.rtp.pt/noticias/mundo/cinco-pessoas-mortas-em-tiroteio-numa-escola-de-oregon-nos-eua_n1771988",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T00:40:30+00:00",
-      "summary": "Cinco pessoas foram mortas num tiroteio numa escola primária em Bend, Oregon, nos Estados Unido, segundo dois agentes policiais citados pela agência de notícias Associated Press.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vereador do PS Manuel Pizarro condena \"violência descontrolada\" da polícia no Porto",
-      "url": "https://www.rtp.pt/noticias/pais/vereador-do-ps-manuel-pizarro-condena-violencia-descontrolada-da-policia-no-porto_n1771941",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T00:37:01+00:00",
-      "summary": "O vereador do PS na Câmara do Porto Manuel Pizarro criticou hoje \"a violência descontrolada da intervenção policial\" ocorrida de madrugada contra manifestantes pela habitação na Praça D. João I, esperando uma análise rigorosa da Inspeção-Geral da Administração Interna.",
-      "category": "Política"
-    },
-    {
-      "title": "Satisfação com a reforma dos Cuidados de Saúde Primários desce para 26%",
-      "url": "https://www.rtp.pt/noticias/pais/satisfacao-com-a-reforma-dos-cuidados-de-saude-primarios-desce-para-26_n1771983",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T00:36:11+00:00",
-      "summary": "A satisfação dos coordenadores das Unidades de Saúde Familiares (USF) com a reforma nos Cuidados de Saúde Primários desceu cinco pontos percentuais no último ano, de 31,9% para 26%, interrompendo uma melhoria observada desde 2022/23.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Mais de 85% das Unidades de Saúde de Familiar à espera dos incentivos institucionais",
-      "url": "https://www.rtp.pt/noticias/economia/mais-de-85-das-unidades-de-saude-de-familiar-a-espera-dos-incentivos-institucionais_n1771982",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T00:35:45+00:00",
-      "summary": "Mais 85% das Unidades de Saúde Familiares (USF) têm incentivos institucionais em dívida ou ainda não disponíveis e mais de 63% foram informados que os valores de 2025 só ficarão disponíveis este ano, revela um relatório da associação nacional.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Nove em dez centros de saúde têm três ou mais falhas informáticas num ano",
-      "url": "https://www.rtp.pt/noticias/pais/nove-em-dez-centros-de-saude-tem-tres-ou-mais-falhas-informaticas-num-ano_n1771981",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T00:35:23+00:00",
-      "summary": "Mais de 91% das Unidades de Saúde Familiares (USF) registaram no último ano três ou mais episódios de indisponibilidade de aplicações informáticas e mais de 82% registaram falhas de material básico, revela um estudo que é hoje apresentado.",
-      "category": "Saúde"
-    },
-    {
-      "title": "00h Rui Rio: \"PSP não foi para lá fazer festinhas às pessoas\"",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-rui-rio-psp-nao-foi-para-la-fazer-festinhas-as-pessoas_a1_1771987",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T00:30:04+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "1h. Porto. Extrema-direita terá causado ferido",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2416/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T00:14:33+00:00",
-      "summary": "O responsável Pedro Manuel denuncia seis manifestantes de extrema-direita que provocaram confrontos físico. Ainda, o PCP diz que Montenegro é o \"verdadeiro egoísta\" na luta pela habitação.",
-      "category": "Mundo"
+      "title": "Fluminense vence Flamengo e abre vantagem na Copa do Brasil Feminina",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/fluminense-vence-flamengo-e-abre-vantagem-na-copa-do-brasil-feminina",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-16T00:41:00+00:00",
+      "summary": "No primeiro Fla-Flu pelas quartas de final da Copa do Brasil Feminina, melhor para as tricolores. Na noite desta quinta-feira (15), o Fluminense venceu o Flamengo por 2 a 1 no clássico realizado no Estádio Luso-Brasileiro. O jogo de volta também será no estádio da zona norte do Rio de Janeiro, na próxima quinta-feira (",
+      "category": "Esportes"
     },
     {
       "title": "Alcolumbre retira PEC da Segurança Pública da pauta do Senado",
@@ -389,84 +470,12 @@
       "category": "Política"
     },
     {
-      "title": "Custo de vida. PCP quer confrontar Governo \"egoísta\" que \"passa ao lado\" dos problemas",
-      "url": "https://www.rtp.pt/noticias/politica/custo-de-vida-pcp-quer-confrontar-governo-egoista-que-passa-ao-lado-dos-problemas_n1771979",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-16T00:02:15+00:00",
-      "summary": "Por considerar que são precisas \"medidas concretas\" e que o Governo tem ficado \"muito aquém do necessário\", o PCP agendou para esta sexta-feira, no Parlamento, uma interpelação ao executivo sobre o \"agravamento das condições de vida e negação de direitos fundamentais\".",
-      "category": "Política"
-    },
-    {
       "title": "Dólar sobe 1,15% e fecha a R$ 5,09 em dia de cautela",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-115-e-fecha-r-509-em-dia-de-cautela",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-15T23:49:00+00:00",
       "summary": "O dólar subiu cerca de 1% e fechou próximo de R$ 5,09 nesta quinta-feira (15), enquanto a Bolsa brasileira recuou também em torno de 1%, aos 204 mil pontos. O mercado teve um dia de cautela, com investidores atentos ao cenário eleitoral e a possíveis medidas econômicas do governo, como a proposta de emenda à Constituiç",
-      "category": "Política"
-    },
-    {
-      "title": "Ministra do Trabalho: alterações à PSU \"quebram\" acordo",
-      "url": "https://observador.pt/2026/10/16/ministra-adverte-que-alteracoes-substanciais-ao-diploma-da-psu-podem-violar-autorizacao-legislativa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-15T23:38:55+00:00",
-      "summary": "Diploma teve por base uma autorização legislativa concedida pelo parlamento em junho que permitiu ao executivo legislar sobre a matéria",
-      "category": "Mundo"
-    },
-    {
-      "title": "PS/Açores exige transparência na privatização da SATA",
-      "url": "https://observador.pt/2026/10/16/ps-acores-exige-transparencia-na-privatizacao-da-sata-e-questiona-22-dias-para-fechar-negocio-antes-do-prazo-da-ce/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-15T23:37:32+00:00",
-      "summary": "O caderno de encargos de privatização da SATA Internacional/Azores Airlines propõe a venda de pelo menos 75% da companhia",
-      "category": "Mundo"
-    },
-    {
-      "title": "Incêndio em habitação em Olhão causa cinco feridos",
-      "url": "https://observador.pt/2026/10/16/incendio-em-habitacao-em-olhao-faz-cinco-feridos-hospitalizados-com-queimaduras/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-15T23:37:13+00:00",
-      "summary": "A ANEPC não revelou pormenores, mas admite que a origem do incêndio poderá estar relacionada com uma panela",
-      "category": "Clima"
-    },
-    {
-      "title": "\"Pura Loucura\" e \"Cock\" em cena no Teatro Maria Matos",
-      "url": "https://observador.pt/2026/10/16/pura-loucura-e-cock-em-cena-ate-finais-de-novembro-e-dezembro-no-teatro-maria-matos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-15T23:36:45+00:00",
-      "summary": "\"Pura Loucura\", um \"policial em forma de comédia\" escrito em 1963 pelo dramaturgo alemão Paul Portner, já \"Cock\" é da autoria do dramaturgo britânico Mike Bartlett escrito em 1980",
-      "category": "Mundo"
-    },
-    {
-      "title": "USF sem incentivos: 85% com verbas por receber",
-      "url": "https://observador.pt/2026/10/16/85-das-usf-tem-incentivos-por-receber-e-mais-de-metade-sabe-que-o-dinheiro-ganho-em-2025-so-chega-em-2026/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-15T23:36:23+00:00",
-      "summary": "Para este estudo contribuíram 541 coordenadores das 712 USF existentes a nível nacional na altura em que o questionário foi elaborado (entre 19 de junho e 4 de agosto deste ano)",
-      "category": "Mundo"
-    },
-    {
-      "title": "Conselho da FIFA sem \"respostas satisfatórias\" de Infantino",
-      "url": "https://observador.pt/2026/10/16/membos-do-conselho-executivo-da-fifa-sem-respostas-satisfatorias-de-infantino/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-15T23:33:49+00:00",
-      "summary": "As eleições para a presidência da FIFA estão marcadas para 18 de março de 2027, durante o 77.º Congresso da FIFA em Rabat, Marrocos",
-      "category": "Política"
-    },
-    {
-      "title": "Governo procura bons exemplos do poder local na Cultura",
-      "url": "https://observador.pt/2026/10/16/governo-procura-bons-exemplos-do-poder-local-na-cultura-para-reunir-em-publicacao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-15T23:31:46+00:00",
-      "summary": "O Plano Nacional das Artes \"vai privilegiar medidas, programas e projetos estruturantes, com continuidade e integrados nas políticas culturais desenvolvidas pelas autarquias\"",
       "category": "Política"
     },
     {
@@ -513,15 +522,6 @@
       "publishedAt": "2026-10-15T22:33:00+00:00",
       "summary": "Três suspeitos foram mortos por policiais militares nesta quarta-feira (14) durante um assalto a uma casa de alto padrão em Pinheiros, na capital paulista. As informações foram divulgadas pela Secretaria de Segurança Pública (SSP) do estado de São Paulo. De acordo com a SSP, as mortes decorreram do confronto dos três s",
       "category": "Mundo"
-    },
-    {
-      "title": "Museu da UFRJ irá receber mais R$ 10 milhões para restauração",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/museu-da-ufrj-ira-receber-mais-r-10-milhoes-para-restauracao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-15T22:30:00+00:00",
-      "summary": "O Museu Nacional da Universidade Federal do Rio de Janeiro (UFRJ) irá receber o investimento de R$ 10 milhões para dar continuidade aos trabalhos de recuperação após o incêndio sofrido em 2018. O anúncio foi feito pelo ministro da Educação, Leonardo Barchini. A instituição passou por um grande incêndio e, desde então, ",
-      "category": "Política"
     }
   ],
   "sources": [
