@@ -1,6 +1,294 @@
 {
-  "updatedAt": "2026-10-18T00:03:05.839351+00:00",
+  "updatedAt": "2026-10-18T04:25:51.266529+00:00",
   "items": [
+    {
+      "title": "04h Protestos em França deixam rasto de destruição",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/04h-protestos-em-franca-deixam-rasto-de-destruicao_a1_1772423",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T04:34:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Previsão do tempo hoje para Brasília (DF): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:17:24+00:00",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este domingo (18) para Brasília (DF) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 29ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde,",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Goiânia (GO): dia de sol com aumento de nuvens a partir da tarde; não chove",
+      "url": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-goiania-go-dia-de-sol-com-aumento-de-nuvens-a-partir-da-tarde-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:17:08+00:00",
+      "summary": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para este domingo (18) para Goiânia (GO) é de dia de sol com aumento de nuvens a partir da tarde. Não chove. As máximas são de 32ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol. No período da tarde, sol com algumas ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com aumento de nuvens à tarde e pancadas de chuva à noite",
+      "url": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-aumento-de-nuvens-a-tarde-e-pancadas-de-chuva-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:16:51+00:00",
+      "summary": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para este domingo (18) para Aparecida de Goiânia (GO) é de sol com aumento de nuvens à tarde e pancadas de chuva à noite. As máximas são de 31ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol. No período ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+      "url": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:16:34+00:00",
+      "summary": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para este domingo (18) para Cuiabá (MT) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Campo Grande (MS): sol com algumas nuvens; não chove",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-algumas-nuvens-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:16:08+00:00",
+      "summary": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para este domingo (18) para Campo Grande (MS) é de sol com algumas nuvens. Não chove. As máximas são de 25ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Porto Alegre (RS): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:15:50+00:00",
+      "summary": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para este domingo (18) para Porto Alegre (RS) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 20ºC e as mínimas de 11ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Caxias do Sul (RS): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:15:35+00:00",
+      "summary": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para este domingo (18) para Caxias do Sul (RS) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 14ºC e as mínimas de 8ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol co",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Joinville (SC): muitas nuvens o dia todo, com aberturas de sol",
+      "url": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-joinville-sc-muitas-nuvens-o-dia-todo-com-aberturas-de-sol.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:15:19+00:00",
+      "summary": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para este domingo (18) para Joinville (SC) é de muitas nuvens o dia todo, com aberturas de sol. As máximas são de 25ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol com a",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Florianópolis (SC): sol com algumas nuvens; não chove",
+      "url": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-algumas-nuvens-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:15:01+00:00",
+      "summary": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para este domingo (18) para Florianópolis (SC) é de sol com algumas nuvens. Não chove. As máximas são de 20ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algum",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Maringá (PR): sol com algumas nuvens ao longo do dia; noite de céu limpo",
+      "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-maringa-pr-sol-com-algumas-nuvens-ao-longo-do-dia-noite-de-ceu-limpo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:14:45+00:00",
+      "summary": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para este domingo (18) para Maringá (PR) é de sol com algumas nuvens ao longo do dia. Noite de céu limpo. As máximas são de 23ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, ",
+      "category": "Clima"
+    },
+    {
+      "title": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; não chove",
+      "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-nao-chove.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:14:27+00:00",
+      "summary": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para este domingo (18) para Londrina (PR) é de sol com algumas nuvens. Não chove. As máximas são de 24ºC e as mínimas de 13ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuvens.",
+      "category": "Clima"
+    },
+    {
+      "title": "As notícias das 5h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1575/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T04:14:18+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Previsão do tempo hoje para Curitiba (PR): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
+      "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-curitiba-pr-dia-de-sol-com-algumas-nuvens-e-nevoa-ao-amanhecer-noite-com-poucas-nuvens.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T04:14:10+00:00",
+      "summary": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para este domingo (18) para Curitiba (PR) é de dia de sol com algumas nuvens e névoa ao amanhecer. Noite com poucas nuvens. As máximas são de 20ºC e as mínimas de 8ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No p",
+      "category": "Clima"
+    },
+    {
+      "title": "\"É para aguentar.\" A primeira noite de acampada em Lisboa",
+      "url": "https://observador.pt/especiais/e-para-aguentar-com-dezenas-de-tendas-grupos-de-afinidade-e-vigias-acampada-de-lisboa-pela-habitacao-manteve-se-madrugada-adentro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T03:39:51+00:00",
+      "summary": "Quando as primeiras tendas foram montadas no Rossio ninguém arriscava dizer até quando ficava. No limite de hora legal formava-se um cordão para \"aguentar\" de forma \"pacífica\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "03h Manifestantes permanecem em Lisboa e no Porto para lá da hora legal",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/03h-manifestantes-permanecem-em-lisboa-e-no-porto-para-la-da-hora-legal_a1_1772420",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T03:38:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Udinese x Lecce: horário e onde assistir ao jogo da Serie A",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/udinese-x-lecce-horario-e-onde-assistir-ao-jogo-da-serie-a-2/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T03:30:52+00:00",
+      "summary": "Equipes se enfrentam neste domingo (18), no Bluenergy Stadium, em Udine, pela sétima rodada da Serie A, o Campeonato Italiano",
+      "category": "Esportes"
+    },
+    {
+      "title": "As notícias das 4h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2434/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T03:14:58+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "02h Contentor incendiado junto ao protesto na praça D. João I no Porto",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/02h-contentor-incendiado-junto-ao-protesto-na-praca-d-joao-i-no-porto_a1_1772417",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T02:30:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h. \"Acampada\" no Rossio. PSP não tenciona intervir",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2470/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T02:18:09+00:00",
+      "summary": "No local permanecem centenas de manifestantes, com tendas instaladas em pleno centro da capital. Ainda, Milhares em protesto em França, Itália, Bélgica e Albânia contra o aumento do custo de vida.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasileirão: São Paulo bate Vasco, se afasta do Z4 e sonha com Libertadores",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-sao-paulo-bate-vasco-se-afasta-do-z4-e-sonha-com-libertadores/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T02:00:38+00:00",
+      "summary": "Tricolores e cruz-maltinos se enfrentaram na noite deste sábado (17), no MorumBIS, em São Paulo (SP), pela 31ª rodada do Campeonato Brasileiro",
+      "category": "Esportes"
+    },
+    {
+      "title": "Vídeo: Prédio histórico desaba na França após ser incendiado em protestos",
+      "url": "https://www.cnnbrasil.com.br/internacional/video-predio-historico-desaba-na-franca-apos-ser-incendiado-em-protestos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T01:45:41+00:00",
+      "summary": "Enquanto centenas de milhares de pessoas protestavam pacificamente em marchas por diversas cidades, grupos violentos atacaram edifícios públicos, saquearam lojas de luxo e supermercados",
+      "category": "Economia"
+    },
+    {
+      "title": "Após entrevista à CNN, Van Hattem pede proteção a Roberta Luchsinger",
+      "url": "https://www.cnnbrasil.com.br/politica/apos-entrevista-a-cnn-van-hattem-pede-protecao-a-roberta-luchsinger/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T01:40:57+00:00",
+      "summary": "Deputado afirma que as declarações da empresária contra Lula são \"gravíssimas\" e que ela e as filhas correm \"enorme risco de vida\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "TSE mantém atos pró-democracia deste domingo (18) e nega veto a shows",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-mantem-atos-pro-democracia-deste-domingo-18-e-nega-veto-a-shows/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T01:23:29+00:00",
+      "summary": "Cueva afirma que não há provas suficientes de que eventos integrem campanha de Lula ou configurem showmícios e ressalva que eventuais irregularidades poderão ser apuradas depois",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "01h Terminou hora limite dos protestos sem desmobilização",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-terminou-hora-limite-dos-protestos-sem-desmobilizacao_a1_1772416",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T01:21:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quer evitar gafes no Japão? Saiba quais são as regras de convivência que os japoneses usam no dia a dia",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/quer-evitar-gafes-no-japao-saiba-quais-sao-as-regras-de-convivencia-que-os-japoneses-usam-no-dia-a-dia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T01:17:14+00:00",
+      "summary": "Hábitos no metrô, a troca sagrada de cartões meishi e o animado happy hour com espetinhos revelam a civilidade japonesa",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h. PCP acusa Governo de agravar problema da habitação",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2444/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T01:14:41+00:00",
+      "summary": "Paulo Raimundo considera que nova lei do arrendamento vai agravar problema e acusa PM de ser egoísta. Ainda, Pedro Duarte deslocar-se à Praça D. João I, mas garante diálogo.",
+      "category": "Política"
+    },
+    {
+      "title": "“Vamos recuperar”, diz Ramon Dino sobre titulo da Classic Physique",
+      "url": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/vamos-recuperar-diz-ramon-dino-sobre-titulo-da-classic-physique/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T01:14:04+00:00",
+      "summary": "Atleta falou aos fãs após apresentação durante Mr. Olympia Brasil; em setembro, brasileiro foi superado pelo britânico Niall Darwen, que pegou o título conquistado em 2025",
+      "category": "Esportes"
+    },
+    {
+      "title": "Lula diz que “desconhece inteiramente” acusações de Roberta Luchsinger",
+      "url": "https://www.cnnbrasil.com.br/politica/lula-diz-que-desconhece-inteiramente-acusacoes-de-roberta-luchsinger/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T01:07:48+00:00",
+      "summary": "Em entrevista à CNN, empresária disse que presidente sabia das reuniões entre Lulinha e ministros do governo",
+      "category": "Política"
+    },
+    {
+      "title": "Baixa visibilidade no Amazonas impacta voos de combate a incêndios",
+      "url": "https://www.cnnbrasil.com.br/nacional/norte/baixa-visibilidade-no-amazonas-impacta-voos-de-combate-a-incendios/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T00:57:27+00:00",
+      "summary": "Segundo o Ibama, a fumaça intensa causada pelas queimadas comprometeu a visibilidade dos pilotos e paralisou operações aéreas que lançavam água nos focos de incêndio",
+      "category": "Clima"
+    },
+    {
+      "title": "Vídeo: caminhão de lixo cai dentro de cratera após asfalto ceder em Osasco",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-caminhao-de-lixo-cai-dentro-de-cratera-apos-asfalto-ceder-em-osasco/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T00:55:33+00:00",
+      "summary": "Abastecimento de água no bairro foi suspenso até que os técnicos concluam a avaliação da segurança no local afetado",
+      "category": "Mundo"
+    },
+    {
+      "title": "Em “guest posing”, Ramon Dino volta aos palcos após top 3 no Mr. Olympia",
+      "url": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/em-guest-posing-ramon-dino-volta-aos-palcos-apos-top-3-no-mr-olympia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T00:52:15+00:00",
+      "summary": "Atleta fez apresentação durante Mr. Olympia Brasil neste sábado (17); em setembro, Dino perdeu título da Classic Physique",
+      "category": "Esportes"
+    },
     {
       "title": "00h Protestos em França: mais de 1200 detenções e 150 polícias feridos",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-protestos-em-franca-mais-de-1200-detencoes-e-150-policias-feridos_a1_1772414",
@@ -11,21 +299,21 @@
       "category": "Mundo"
     },
     {
-      "title": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/brasil-nao-atinge-meta-de-vacinacao-para-a-maioria-das-vacinas-da-rede-publica.ghtml",
-      "source": "G1",
+      "title": "Julianne Moore critica violência armada após tiroteio em escola nos EUA",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/julianne-moore-critica-violencia-armada-apos-tiroteio-em-escola-nos-eua/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-17T23:58:14+00:00",
-      "summary": "Brasil enfrenta desafio para recuperar metas de vacinação infantil Reprodução/TV Globo Neste sábado (17), teve campanha para atualizar a vacinação de crianças e adultos. O Brasil não atingiu a meta necessária da maioria dos imunizantes oferecidos na rede pública de saúde e precisa ampliar a cobertura vacinal. 📱Favorite",
-      "category": "Ciência & Tech"
+      "publishedAt": "2026-10-18T00:39:50+00:00",
+      "summary": "Atriz usou as redes sociais para lamentar a morte de quatro pessoas e cobrar medidas contra a violência armada nos Estados Unidos",
+      "category": "Mundo"
     },
     {
-      "title": "Como a relação estratégica entre Cuba e Venezuela enfraqueceu após a captura de Maduro",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/como-a-relacao-estrategica-entre-cuba-e-venezuela-enfraqueceu-apos-a-captura-de-maduro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:56:22+00:00",
-      "summary": "Díaz-Canel e Nicolás Maduro mantiveram a aliança construída por Hugo Chávez e Fidel Castro Getty Images via BBC Pela primeira vez em 20 anos, Cuba não foi mencionada no discurso de um representante da Venezuela no debate da Assembleia Geral da Organização das Nações Unidas (ONU). A ausência marcou o recente pronunciame",
+      "title": "1h. \"Acampadas\" no Porto e em Lisboa estão agora ilegais",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2418/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T00:17:53+00:00",
+      "summary": "Concentrações tornar-se ilegais a partir da meia-noite e meia, mas os manifestantes não desmobilizaram. Ainda nesta edição, autarca do Porto recusa deslocar-se à manifestação na Praça D João I.",
       "category": "Mundo"
     },
     {
@@ -38,96 +326,6 @@
       "category": "Cultura"
     },
     {
-      "title": "Protestos na França terminam com mais de 1 mil presos; atos contra o custo de vida se espalham pela Europa",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/protestos-franca-presos-europa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:48:49+00:00",
-      "summary": "Torre da sede da prefeitura de Limoges, na França, desaba durante incêndio PASCAL LACHENAUD/AFP Os protestos contra o alto custo de vida e por melhores condições de ensino na França terminaram com cerca de 1.200 pessoas detidas e 150 policiais e gendarmes feridos neste sábado (17). O balanço foi divulgado pelo primeiro",
-      "category": "Economia"
-    },
-    {
-      "title": "Paolla Oliveira é coroada rainha de bateria da Imperatriz Leopoldinense",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2027/noticia/2026/10/17/paolla-oliveira-e-coroada-rainha-de-bateria-da-imperatriz-leopoldinense.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:43:30+00:00",
-      "summary": "Paolla Oliveira é coroada rainha de bateria da Imperatriz Leopoldinense Reprodução/YouTube Imperatriz Leopoldinense Paolla Oliveira foi coroada rainha de bateria da Imperatriz Leopoldinense neste sábado (17), em uma festa marcada por emoção e samba na quadra da escola, em Ramos, na Zona Norte do Rio. Sob aplausos da co",
-      "category": "Mundo"
-    },
-    {
-      "title": "Confeiteira morre com câncer raro em Goiás",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/10/17/confeiteira-morre-com-cancer-raro-em-goias.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:39:44+00:00",
-      "summary": "Veridiana Pires de Oliveira Soares Reprodução/Instagram de Veri Pires Veridiana Pires de Oliveira Soares, de 45 anos, morreu durante o tratamento de um câncer raro, em Caldas Novas, na região sul de Goiás. Dona da Veri Pires Confeitaria Artesanal, ela havia suspendido as encomendas para se dedicar à recuperação. A conf",
-      "category": "Cultura"
-    },
-    {
-      "title": "Governo federal anuncia envio de cinco novas aeronaves para combate a incêndios no Amazonas",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/governo-federal-anuncia-envio-de-cinco-novas-aeronaves-para-combate-a-incendios-no-amazonas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:32:54+00:00",
-      "summary": "Manaus sofre efeitos da poluição do ar e queimadas mudam rotina na capital O governo federal anunciou, neste sábado (17), o envio de cinco novas aeronaves para reforçar o combate aos incêndios florestais no Amazonas. Com a ampliação, o número de aeronaves disponibilizadas para as operações no estado passará de 11 para ",
-      "category": "Política"
-    },
-    {
-      "title": "Incêndio atinge indústria de alimentos em Sete Lagoas",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/17/incendio-atinge-industria-de-alimentos-em-sete-lagoas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:31:59+00:00",
-      "summary": "Empresa de alimentos pega fogo em Sete Lagoas Um incêndio atingiu uma indústria de alimentos no fim da tarde deste sábado (17), em Sete Lagoas, na Região Central de Minas Gerais. Quatro viaturas do Corpo de Bombeiros foram enviadas ao local. Ainda não há informações sobre vítimas. A empresa fica na Avenida Zoélio Sola,",
-      "category": "Economia"
-    },
-    {
-      "title": "Luchsinger diz que Lula precisa perguntar a Lulinha com o que ele trabalha",
-      "url": "https://www.cnnbrasil.com.br/politica/luchsinger-diz-que-lula-precisa-perguntar-a-lulinha-com-o-que-ele-trabalha/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:30:18+00:00",
-      "summary": "Empresária afirmou em entrevista exclusiva à CNN que o presidente e candidato à reeleição pelo PT \"tem que conversar melhor com o filho\"",
-      "category": "Política"
-    },
-    {
-      "title": "Ações de tecnologia recuam com dúvidas sobre o setor de IA",
-      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/acoes-de-tecnologia-recuam-com-duvidas-sobre-o-setor-de-ia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:30:03+00:00",
-      "summary": "Wall Street registra queda após inflação elevada reforçar temores sobre juros mais altos nos Estados Unidos",
-      "category": "Economia"
-    },
-    {
-      "title": "Com time misto, Atlético-MG bate o Coritiba e ganha posições no Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/com-time-misto-atletico-mg-bate-o-coritiba-e-ganha-posicoes-no-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:28:03+00:00",
-      "summary": "Em jogo equilibrado na Arena MRV, Galo garante o triunfo por 1 a 0 e sobe provisoriamente para a quinta colocação da Série A do Campeonato Brasileiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Ministros me pediam ajuda para ter agenda com Lula, diz Luchsinger à CNN",
-      "url": "https://www.cnnbrasil.com.br/politica/ministros-me-pediam-ajuda-para-ter-agenda-com-lula-diz-luchsinger-a-cnn/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:27:04+00:00",
-      "summary": "Em entrevista exclusiva à CNN, empresária disse que era procurada por ministros do presidente Lula para \"pedir favores, para conversar e para pedir ajuda\"",
-      "category": "Política"
-    },
-    {
-      "title": "Governadores do Sul participam de motociata pró-Flávio em Florianópolis",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/governadores-do-sul-participam-de-motociata-pro-flavio-em-florianopolis/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:26:58+00:00",
-      "summary": "Ato de direita reuniu os recém-eleitos pelo PL Jorginho Mello (SC), Sergio Moro (PR) e Luciano Zucco (RS) na capital catarinense neste sábado (17)",
-      "category": "Mundo"
-    },
-    {
       "title": "A ditadura da emergência",
       "url": "https://observador.pt/opiniao/a-ditadura-da-emergencia/",
       "source": "Observador",
@@ -135,15 +333,6 @@
       "publishedAt": "2026-10-17T23:25:59+00:00",
       "summary": "Os nossos governos legislam a trouxe mouche para apaziguar uma rua estridente que anuncia o apocalipse. Quando a luta de classes como via para o socialismo falhou, a emergência afirmou-se como atalho",
       "category": "Política"
-    },
-    {
-      "title": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 17 de outubro de 2026",
-      "url": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/17/videos-eptv-2-sul-de-minas-de-sabado-17-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:25:58+00:00",
-      "summary": "",
-      "category": "Mundo"
     },
     {
       "title": "As lealdades da seita",
@@ -164,15 +353,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Concurso da prefeitura de Itapororoca, PB, tem edital lançado com 175 vagas e salários de até R$ 10 mil",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/concurso-da-prefeitura-de-itapororoca-pb-tem-edital-lancado-com-175-vagas-e-salarios-de-ate-r-10-mil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:22:48+00:00",
-      "summary": "Prova de concurso Reprodução Freepik A Prefeitura de Itapororoca, na Zona da Mata da Paraíba, lançou o edital de concurso público com 175 vagas imediatas, além de formação de cadastro de reserva. Há oportunidades para candidatos com níveis fundamental, médio, técnico e superior, com salários que variam entre R$ 1.621 e",
-      "category": "Mundo"
-    },
-    {
       "title": "A França de 2026 não é a de '68",
       "url": "https://observador.pt/opiniao/a-franca-de-2026-nao-e-a-de-68/",
       "source": "Observador",
@@ -180,15 +360,6 @@
       "publishedAt": "2026-10-17T23:22:20+00:00",
       "summary": "A fúria da juventude francesa advém de não saberem o que querem porque não lhes foram dadas referências. Uma identidade. Transmiti-la é a obrigação da geração mais velha. Falhar nisto é imperdoável",
       "category": "Mundo"
-    },
-    {
-      "title": "Colisão entre três carros deixa veículo tombado na RJ-116, em Aperibé; motorista abandonou local do acidente, segundo testemunhas",
-      "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/17/colisao-entre-tres-carros-deixa-veiculo-tombado-na-rj-116-em-aperibe-motorista-abandonou-local-do-acidente-segundo-testemunhas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:21:07+00:00",
-      "summary": "Motorista foge após acidente com três carros na RJ-116 Uma colisão envolvendo três carros foi registrada na manhã deste sábado (17) na RJ-116, Rodovia Presidente João Goulart, em Aperibé, no Noroeste Fluminense. Um dos veículos chegou a tombar. Segundo relatos de testemunhas, o motorista de um dos carros invadiu a pist",
-      "category": "Política"
     },
     {
       "title": "Perceber mulheres",
@@ -206,141 +377,6 @@
       "region": "Portugal",
       "publishedAt": "2026-10-17T23:19:29+00:00",
       "summary": "Miguel Pinto Luz admite que os portugueses têm razões para protestar, mas rejeita responsabilidades do Governo nos atrasos das medidas. Ainda, Pedro Duarte convida os manifestantes para uma reunião.",
-      "category": "Política"
-    },
-    {
-      "title": "“Manaus pede socorro”, diz prefeito após cidade continuar tomada por fumaça",
-      "url": "https://www.cnnbrasil.com.br/nacional/norte/am/manaus-pede-socorro-diz-prefeito-apos-cidade-continuar-tomada-por-fumaca/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:18:02+00:00",
-      "summary": "Renato Junior, chefe do executivo municipal, diz que \"população está pagando por algo que não provocou\"; nível da qualidade do ar foi classificado como \"péssimo\" neste sábado (17)",
-      "category": "Política"
-    },
-    {
-      "title": "À CNN, Roberta Luchsinger rebate Lula: “Se sou pilantra, eles também são”",
-      "url": "https://www.cnnbrasil.com.br/politica/a-cnn-roberta-luchsinger-rebate-lula-se-sou-pilantra-eles-tambem-sao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:15:36+00:00",
-      "summary": "Em entrevista exclusiva à CNN, empresária investigada por suposto tráfico de influência afirma que o presidente sabia das reuniões que o filho promovia com ministros do governo",
-      "category": "Política"
-    },
-    {
-      "title": "A Geopolítica da Coragem",
-      "url": "https://observador.pt/opiniao/a-geopolitica-da-coragem/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T23:15:28+00:00",
-      "summary": "A coragem, quando é bela, nunca é inconsciência.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Paolla Oliveira beija Iza ao ser coroada rainha de bateria da Imperatriz",
-      "url": "https://www.cnnbrasil.com.br/noticias/paolla-oliveira-beija-iza-ao-ser-coroada-rainha-de-bateria-da-imperatriz/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:14:56+00:00",
-      "summary": "Atriz e cantora se beijaram na boca e foram ovacionadas pelo público presente na quadra da agremiação Imperatriz Leopoldinense, no Rio de Janeiro",
-      "category": "Cultura"
-    },
-    {
-      "title": "Onde querem que Portugal esteja daqui a 10, 15, 20 anos?",
-      "url": "https://observador.pt/opiniao/onde-querem-que-portugal-esteja-daqui-a-10-15-20-anos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T23:14:53+00:00",
-      "summary": "Portugal não precisa de mais novelas políticas. Precisa de ideias, projetos e planos para ser mais próspero daqui a vinte anos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Duas pessoas morrem após veículo invadir complexo esportivo nos EUA",
-      "url": "https://www.cnnbrasil.com.br/internacional/pessoas-morrem-apos-veiculo-invadir-complexo-esportivo-nos-eua/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:14:19+00:00",
-      "summary": "Uma criança está entre as vítimas fatais; veículo com dois menores de idade invadiu um campo onde acontecia uma partida de \"flag football\" na cidade de Wichita, no Kansas",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: JL2 de sábado, 17 de outubro de 2026",
-      "url": "https://g1.globo.com/pa/para/edicao/2026/10/17/videos-jl2-de-sabado-17-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:12:16+00:00",
-      "summary": "Assista ao telejornal apresentado por Fábia Sepêda.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sobre o 7 de Outubro de 2023",
-      "url": "https://observador.pt/opiniao/sobre-o-7-de-outubro-de-2023/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T23:11:01+00:00",
-      "summary": "O objectivo do Hamas é criar as condições internacionais que impossibilitem que Israel continue a existir, quebrando-lhe a resistência interior.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Acidente entre moto e carreta deixa um morto e um ferido grave na SP-270 em Paraguaçu Paulista",
-      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/17/acidente-entre-moto-e-carreta-em-paraguacu-paulista.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:10:37+00:00",
-      "summary": "Uma das pessoas que estava na motocicleta não resistiu e morreu no local após acidente em Paraguaçu Paulista (SP) Portal CCM — ARTESP (ccm.artesp.sp.gov.br) Uma pessoa morreu e outra ficou gravemente ferida após um acidente envolvendo uma motocicleta e uma carreta na tarde deste sábado (17), na Rodovia Raposo Tavares (",
-      "category": "Cultura"
-    },
-    {
-      "title": "Quanto está disposto a investir na inovação da sua empresa?",
-      "url": "https://observador.pt/opiniao/a-anthropic-e-avaliada-em-dois-bilioes-quanto-esta-disponivel-para-investir-na-inovacao-da-sua-empresa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T23:08:45+00:00",
-      "summary": "Os mercados financiam expectativas sobre o futuro. Nas grandes organizações, demasiadas ideias têm de provar o seu retorno antes de receberem uma oportunidade.",
-      "category": "Economia"
-    },
-    {
-      "title": "Revisão da Lei de Bases do Sistema Educativo",
-      "url": "https://observador.pt/opiniao/revisao-da-lei-de-bases-do-sistema-educativo-olhar-para-o-passado-para-preparar-o-futuro/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T23:07:25+00:00",
-      "summary": "Uma Lei de Bases atualizada deve reconhecer que a equidade exige respostas diferenciadas, intervenção precoce, prevenção do insucesso e percursos mais ajustados aos ritmos, perfis e talentos de cada.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Será Andy Burnham capaz de reverter o Brexit?",
-      "url": "https://observador.pt/opiniao/sera-andy-burnham-capaz-de-reverter-o-brexit/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T23:06:12+00:00",
-      "summary": "Esta aproximação estratégica promete ser o grande cavalo de batalha do 59.º Primeiro-Ministro britânico, que tenta assim atacar directamente a raiz da turbulência e da instabilidade governativa",
-      "category": "Política"
-    },
-    {
-      "title": "Luchsinger diz que quer fazer delação e não vai poupar Lula nem Lulinha",
-      "url": "https://www.cnnbrasil.com.br/politica/luchsinger-diz-que-quer-fazer-delacao-e-nao-vai-poupar-lula-nem-lulinha/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:05:53+00:00",
-      "summary": "Empresária afirmou à CNN Brasil neste sábado (17) que poderia acrescentar às investigações em curso “detalhes” que não constam das mensagens trocadas por ela no WhatsApp",
-      "category": "Mundo"
-    },
-    {
-      "title": "São Paulo x Vasco: escalações e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-x-vasco-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T23:02:37+00:00",
-      "summary": "Equipes se enfrentam neste sábado (17), no MorumBis, em São Paulo, pela 31ª rodada da Série A do Campeonato Brasileiro; clube carioca quer se afastar da zona de rebaixamento",
-      "category": "Esportes"
-    },
-    {
-      "title": "Luchsinger diz à CNN que Lulinha sentou “inúmeras vezes” com ministros",
-      "url": "https://www.cnnbrasil.com.br/politica/luchsinger-diz-a-cnn-que-lulinha-sentou-inumeras-vezes-com-ministros/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-17T22:59:43+00:00",
-      "summary": "Empresária aponta que filho do presidente Lula (PT) se reuniu com integrantes do alto escalão do governo federal para discutir políticas públicas",
       "category": "Política"
     },
     {
@@ -395,42 +431,6 @@
       "region": "Portugal",
       "publishedAt": "2026-10-17T21:18:32+00:00",
       "summary": "O ministro da Habitação admite que quem se manifesta pelo direito à habitação é porque sente dor.",
-      "category": "Política"
-    },
-    {
-      "title": "Entrevista a Francis Fukuyama. \"Com Trump a democracia está em risco nos EUA\"",
-      "url": "https://www.rtp.pt/noticias/mundo/entrevista-a-francis-fukuyama-com-trump-a-democracia-esta-em-risco-nos-eua_v1772403",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T21:16:47+00:00",
-      "summary": "A democracia nos Estados Unidos está em risco e com Donald Trump enfrenta as piores ameaças desde a guerra civil norte-americana. A convicção é do professor da universidade de Stanford, Francis Fukuyama que falou em exclusivo à RTP.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Tesla apresenta carro voador com propulsores da Space X",
-      "url": "https://www.rtp.pt/noticias/mundo/tesla-apresenta-carro-voador-com-propulsores-da-space-x_v1772402",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T21:14:48+00:00",
-      "summary": "A Tesla de Elon Musk apresentou uma nova e inovadora versão do modelo desportivo elétrico, o Roadster. A versão mais sofisticada consegue fazer manobras no ar com recurso a propulsores.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ensino Superior. Foram colocados 52 mil alunos",
-      "url": "https://www.rtp.pt/noticias/pais/ensino-superior-foram-colocados-52-mil-alunos_v1772401",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T21:12:47+00:00",
-      "summary": "Aumentou o numero de alunos colocados no Ensino Superior, são 52 mil. Foram quase mais sete mil do que no ano passado.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Trump levanta várias sanções contra a Rússia",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-levanta-varias-sancoes-contra-a-russia_v1772400",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-17T21:11:47+00:00",
-      "summary": "Donald Trump suspende várias sanções contra a Rússia numa altura em que o conflito se intensifica. O presidente da Ucrânia, diz que esta decisão americana encoraja Vladimir Putin a continuar os ataques.",
       "category": "Política"
     },
     {
