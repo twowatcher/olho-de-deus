@@ -1,437 +1,446 @@
 {
-  "updatedAt": "2026-10-18T20:37:03.632983+00:00",
+  "updatedAt": "2026-10-18T23:08:08.417064+00:00",
   "items": [
     {
-      "title": "Kiev atinge infraestruturas petrolíferas russas",
-      "url": "https://www.rtp.pt/noticias/mundo/kiev-atinge-infraestruturas-petroliferas-russas_v1772550",
+      "title": "23h Trump acusa Zelensky de não querer acabar com a guerra",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-trump-acusa-zelensky-de-nao-querer-acabar-com-a-guerra_a1_1772562",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-18T21:34:47+00:00",
-      "summary": "Um ataque ucraniano atingiu a cidade russa de São Petersburgo e causou várias vitimas. Os alvos foram instalações petrolíferas, um centro de dados e uma ponte.",
+      "publishedAt": "2026-10-18T23:54:03+00:00",
+      "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Taça de Portugal. Paredes, da Liga 3, elimina primodivisionário Famalicão",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/taca-de-portugal-paredes-da-liga-3-elimina-primodivisionario-famalicao_d1772549",
-      "source": "RTP Notícias",
+      "title": "A asfixia do SNS: o caso das Situações Clínicas Ligeiras",
+      "url": "https://observador.pt/opiniao/a-asfixia-do-sns-o-caso-das-situacoes-clinicas-ligeiras/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-18T21:32:43+00:00",
-      "summary": "O Famalicão, atual 13.º classificado da I Liga portuguesa de futebol, foi domingo afastado da Taça de Portugal, ao perder por 1-0 no terreno do Paredes, da Liga 3, na terceira eliminatória da prova.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Iúri Leitão e Ivo Oliveira são vice-campeões do Mundo em Madison.",
-      "url": "https://www.rtp.pt/noticias/desporto/iuri-leitao-e-ivo-oliveira-sao-vice-campeoes-do-mundo-em-madison_v1772548",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T21:23:48+00:00",
-      "summary": "Portugal conquistou quatro medalhas no Mundial de Ciclismo de Pista.<br />A competição terminou hoje em Xangai.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Manifestantes pelo direito à habitação mantêm acampamentos em Lisboa e Porto",
-      "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T21:06:46+00:00",
-      "summary": "Na sequência da jornada de protestos de sábado pelo direito à habitação e contra o aumento do custo de vida, manifestantes pernoitaram no Rossio, em Lisboa, e na Praça D. João I, no Porto. Atualizamos aqui todas as informações sobre a vaga de contestação.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Golo de penálti Gonçalo Ramos ajuda AC Milan, de Amorim, a vencer Atalanta",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/golo-de-penalti-goncalo-ramos-ajuda-ac-milan-de-amorim-a-vencer-atalanta_d1772547",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T21:05:42+00:00",
-      "summary": "Um golo de penálti do avançado português Gonçalo Ramos ajudou o AC Milan, treinado pelo compatriota Ruben Amorim, a imperar na receção à Atalanta (3-2), em jogo da sétima jornada da Liga italiana de futebol.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Lei das rendas. Ventura ameaça romper acordo com o Governo",
-      "url": "https://www.rtp.pt/noticias/politica/lei-das-rendas-ventura-ameaca-romper-acordo-com-o-governo_v1772545",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T21:03:47+00:00",
-      "summary": "André Ventura ameaça romper com o acordo para a lei das rendas e propõe um programa de emergência para a habitação.",
-      "category": "Política"
-    },
-    {
-      "title": "Atuação da polícia no Porto. Provedora de Justiça pede esclarecimentos à PSP",
-      "url": "https://www.rtp.pt/noticias/pais/atuacao-da-policia-no-porto-provedora-de-justica-pede-esclarecimentos-a-psp_v1772544",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T20:59:48+00:00",
-      "summary": "A Provedora da Justiça quer esclarecimentos urgentes sobre a carga policial da PSP no Porto.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Nuno Mendes lesionado na perna esquerda e desfalca PSG na próximas semanas",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/nuno-mendes-lesionado-na-perna-esquerda-e-desfalca-psg-na-proximas-semanas_d1772543",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T20:57:50+00:00",
-      "summary": "O defesa internacional português Nuno Mendes lesionou-se na perna esquerda, frente ao Estrasburgo, e vai desfalcar o Paris Saint-Germain nas próximas semanas, anunciou hoje o líder da Liga francesa de futebol.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Protesto em Lisboa com menos manifestantes mas número de tendas aumenta",
-      "url": "https://www.rtp.pt/noticias/pais/protesto-em-lisboa-com-menos-manifestantes-mas-numero-de-tendas-aumenta_v1772542",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T20:54:47+00:00",
-      "summary": "O protesto decidiu passar mais uma noite no Rossio, em Lisboa. Há menos pessoas, mas o número de tendas é superior ao que se registava no sábado à noite.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Taça de Portugal. Estoril Praia salva-se nos penáltis contra o Salgueiros",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/taca-de-portugal-estoril-praia-salva-se-nos-penaltis-contra-o-salgueiros_d1772541",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T20:52:50+00:00",
-      "summary": "O primodivisionário Estoril Praia precisou domingo do desempate através de grandes penalidades para vencer o Salgueiros, do Campeonato de Portugal, e seguir para a quarta ronda da Taça de Portugal de futebol, após o 1-1 registado no prolongamento.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Acampamento no Rossio. Manifestantes de Lisboa decidem continuar o protesto",
-      "url": "https://www.rtp.pt/noticias/pais/acampamento-no-rossio-manifestantes-de-lisboa-decidem-continuar-o-protesto_v1772540",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T20:50:48+00:00",
-      "summary": "O acampamento no Rossio é para continuar. É essa a decisão tomada pelos manifestantes no final desta tarde, em assembleia popular. O protesto teve início no sábado.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dezenas de lojas pilhadas e destruídas em Paris",
-      "url": "https://www.rtp.pt/noticias/mundo/dezenas-de-lojas-pilhadas-e-destruidas-em-paris_v1772539",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T20:49:48+00:00",
-      "summary": "Paris acordou esta manhã de domingo com todas as marcas da violência, pilhagens e incêndios. Foi uma das noites mais violentas da história recente do país.",
-      "category": "Clima"
-    },
-    {
-      "title": "Mutirão leva emissão de documentos a sete comunidades de Mazagão; veja serviços e datas",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/18/mutirao-leva-emissao-de-documentos-a-sete-comunidades-de-mazagao-veja-servicos-e-datas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T20:29:34+00:00",
-      "summary": "Ponte que dar acesso a cidade de Mazagão Fecomércio/Divulgação Moradores de sete comunidades ribeirinhas de Mazagão vão receber uma caravana de serviços gratuitos entre os dias 20 e 23 de outubro. A ação é realizada pela Superintendência Federal do Desenvolvimento Agrário e Agricultura Familiar no Amapá (SFDA-AP), pelo",
+      "publishedAt": "2026-10-18T23:05:31+00:00",
+      "summary": "A triagem e o tratamento protocolado de condições ligeiras por farmacêuticos funcionam, poupam recursos críticos e colhem elevados índices de satisfação por parte dos utentes.",
       "category": "Cultura"
     },
     {
-      "title": "Unicamp 2027: questão da 1ª fase destaca importância da democracia para lidar com polarização",
-      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/18/unicamp-questao-fase-destaca-importancia-democracia-lidar-polarizacao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T20:28:08+00:00",
-      "summary": "Pergunta da 1ª fase do vestibular da Unicamp aborda a polarização Reprodução/Comvest Uma das questões da 1ª fase do Vestibular 2027 da Universidade Estadual de Campinas (Unicamp), realizada neste domingo (18), destacou a importância da democracia para lidar com a polarização política. A pergunta repercutiu nas redes so",
+      "title": "Genocídio? Só se for do discernimento e da razão",
+      "url": "https://observador.pt/opiniao/genocidio-so-se-for-do-discernimento-e-da-razao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T23:04:01+00:00",
+      "summary": "Proteger crianças de intervenções experimentais com evidência fraca não é negar a existência de ninguém. É o mínimo exigido.",
       "category": "Mundo"
     },
     {
-      "title": "Homem é preso por porte ilegal de arma e adolescente é apreendido com drogas durante operação em Timon",
-      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/18/homem-e-preso-por-porte-ilegal-de-arma-e-adolescente-e-apreendido-com-drogas-em-timon.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T20:26:47+00:00",
-      "summary": "Ação contou com a participação das polícias Militar e Civil e da Guarda Civil Municipal. Foram apreendidos um revólver calibre .38, cinco munições e cerca de 100 gramas de substâncias semelhantes a drogas. Divulgação/ Polícia Civil Um homem foi preso por porte ilegal de arma de fogo e um adolescente foi apreendido com ",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: confira a resolução comentada de questões da 1ª fase da Unicamp 2027",
-      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/playlist/videos-confira-a-resolucao-comentada-de-questoes-da-1-fase-da-unicamp-2027.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T20:26:30+00:00",
-      "summary": "Professores respondem questões da provas Q e Y.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quênia confirma oitavo caso de ebola enquanto surto avança no Congo",
-      "url": "https://g1.globo.com/saude/noticia/2026/10/18/quenia-confirma-oitavo-caso-de-ebola-enquanto-surto-avanca-no-congo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T20:23:13+00:00",
-      "summary": "Um profissional de saúde caminha dentro de um centro de tratamento para pacientes com ebola em Beni, na província de Kivu do Norte, no leste do Congo, na quarta-feira, 7 de outubro de 2026. AP/Sebastien Kitsa Musayi O Quênia confirmou mais um caso de ebola neste domingo (18), elevando para oito o total de infecções no ",
+      "title": "Tumores cerebrais: viver mais não basta; viver melhor",
+      "url": "https://observador.pt/opiniao/tumores-cerebrais-viver-mais-nao-basta-e-preciso-viver-melhor/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T23:03:03+00:00",
+      "summary": "À medida que a ciência avança, o objetivo não pode ser apenas aumentar a sobrevivência. É também garantir que esse tempo é vivido com autonomia, dignidade e bem-estar.",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Motociclista morre após ser atingido por carro na Rodovia do Açúcar em Piracicaba",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/18/motociclista-morre-apos-ser-atingido-por-carro-na-rodovia-do-acucar-em-piracicaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T20:21:56+00:00",
-      "summary": "Rodovia do Açúcar (SP-308) na região de Piracicaba Divulgação/Rodovias do Tietê Um motociclista morreu após ser atingido por um carro na Rodovia do Açúcar (SP-308), em Piracicaba (SP), na madrugada deste domingo (18). Com o impacto, a vítima foi arremessada para o canteiro central da pista, segundo informações da conce",
+      "title": "Não há volta atrás – a importância da nova lei dos solos",
+      "url": "https://observador.pt/opiniao/nao-ha-volta-atras-a-importancia-da-nova-lei-dos-solos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T23:02:33+00:00",
+      "summary": "A nova lei dos solos, reclassificando solos rústicos para solos urbanos pode tornar-se numa reforma estrutural de interesse estratégico em Portugal.",
       "category": "Mundo"
     },
     {
-      "title": "Ruas alagadas, muros desabados e árvores caídas: chuva deixa desalojados e feridos no extremo sul da Bahia",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/18/estragos-da-chuva-na-bahia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T20:21:35+00:00",
-      "summary": "Chuva causa estragos no extremo sul da Bahia Redes Sociais O temporal que atingiu o extremo sul da Bahia neste fim de semana causou transtornos para as populações de pelo menos três cidades da região: Itamaraju, Porto Seguro e Medeiros Neto. Todas estão na lista dos 193 municípios com alerta para tempestade, divulgado ",
-      "category": "Clima"
+      "title": "Centro Nacional de Vigilância Toxicológica das Drogas",
+      "url": "https://observador.pt/opiniao/portugal-precisa-urgentemente-de-um-centro-nacional-de-vigilancia-toxicologica-das-drogas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T23:01:57+00:00",
+      "summary": "É um ciclo que se repete. Uma nova droga aparece. Um jovem morre. O laboratório identifica uma substância que quase nenhum especialista conhecia.",
+      "category": "Mundo"
     },
     {
-      "title": "Apoiadores de Lula fazem ato unificado em Vitória",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/18/apoiadores-de-lula-fazem-ato-unificado-em-vitoria.ghtml",
+      "title": "22h Portugal conquista bronze no mundial de hóquei em patins",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-portugal-conquista-bronze-no-mundial-de-hoquei-em-patins_a1_1772560",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:59:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Homem é preso após ameaçar de morte e agredir esposa com barra de metal em BH",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/18/homem-e-preso-apos-ameacar-de-morte-e-agredir-esposa-com-barra-de-metal-em-bh.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-18T20:18:46+00:00",
-      "summary": "Ato unificado pró-Lula reúne manifestantes em Vitória, no Espírito Santo Fernando Madeira Apoiadores da reeleição do presidente Luiz Inácio Lula da Silva se reuniram em um ato unificado em Vitória, no Espírito Santo, na tarde deste domingo (18). A manifestação iniciou em frente à Assembleia Legislativa do Espírito Sant",
+      "publishedAt": "2026-10-18T22:57:07+00:00",
+      "summary": "Polícia Militar foi chamada para atender ocorrência Dirceu Aureliano/Imprensa MG Um homem de 63 anos foi preso por agredir a esposa, de 62, com uma barra de metal e ameaçá-la de morte, na tarde deste domingo (18), no bairro Bom Jesus, em Belo Horizonte. Segundo a Polícia Militar, uma discussão começou depois que a víti",
+      "category": "Mundo"
+    },
+    {
+      "title": "Corpo de adolescente que se afogou em rio é encontrado em Nazareno, MG",
+      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/18/ocorrencias-bombeiros.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:56:57+00:00",
+      "summary": "O corpo de um adolescente de 14 anos foi encontrado pelo Corpo de Bombeiros neste domingo (18), durante buscas em um rio em Nazareno (MG). A vítima, identificada como Guilherme Henrique da Cunha, havia se afogado no local no sábado (17). 📲 Siga a página do g1 Sul de Minas no Instagram Segundo os bombeiros, a equipe foi",
+      "category": "Mundo"
+    },
+    {
+      "title": "Lula diz que debate deve ser aula de civilidade e quer falar de Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-debate-deve-ser-aula-de-civilidade-e-quer-falar-de-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:49:39+00:00",
+      "summary": "Presidente conversou com jornalistas antes do primeiro confronto direto com Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais; encontro acontece neste domingo (18), a partir das 20h, em São Paulo",
       "category": "Política"
     },
     {
-      "title": "21h. Macron promete punição para manifestantes violentos",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1790/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T20:17:34+00:00",
-      "summary": "Emmanuel Macron fez um discurso à nação sobre as manifestações violentas que ocorreram este fim de semana por toda a França. Ainda, em Lisboa, manifestantes decidiram que vão pernoitar no Rossio.",
+      "title": "Palmeiras vence Belgrano com show de Bia Zaneratto na Libertadores Feminina",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/palmeiras-vence-belgrano-com-show-de-bia-zaneratto-na-libertadores-feminina/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:49:25+00:00",
+      "summary": "Verdão superou o time argentino por 3 a 1 em Quito, Equador, e segue invicto no Grupo B da competição",
       "category": "Mundo"
     },
     {
-      "title": "Acidente entre caminhonete e carro deixa quatro mortos e um ferido grave em Taquarivaí",
-      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/18/acidente-entre-caminhonete-e-carro-com-mortos-em-taquarivai.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T20:15:22+00:00",
-      "summary": "Acidente deixou mortos em Taquarivaí (SP) CCM / Artesp Quatro pessoas morreram e uma ficou gravemente ferida após uma colisão entre uma caminhonete e um carro na tarde deste domingo (18), em retorno localizado no quilômetro 254 da Rodovia Francisco Alves Negrão (SP-258), no trevo que dá acesso a Buri (SP), em Taquariva",
+      "title": "Fólio 2027 vai assinalar os 500 anos da morte de Maquiavel sob o tema \"Quem conta o Mundo?\"",
+      "url": "https://www.rtp.pt/noticias/cultura/folio-2027-vai-assinalar-os-500-anos-da-morte-de-maquiavel-sob-o-tema-quem-conta-o-mundo_n1772559",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:46:24+00:00",
+      "summary": "A edição de 2027 do Fólio - Festival Literário Internacional de Óbidos vai assinalar os 500 anos da morte de Nicolau Maquiavel, sob o tema \"Quem conta o Mundo?\", foi hoje anunciado.",
       "category": "Cultura"
     },
     {
-      "title": "Veja como justicar ausência nas Eleições 2026; Amapá teve mais de 100 mil faltosos no 1º turno",
-      "url": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/18/veja-como-justicar-ausencia-nas-eleicoes-2026-amapa-teve-mais-de-100-mil-faltosos-no-1o-turno.ghtml",
+      "title": "Apoiadores fazem ato a favor de Lula em Sorocaba",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/noticia/2026/10/18/apoiadores-fazem-ato-a-favor-de-lula-em-sorocaba.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-18T20:08:32+00:00",
-      "summary": "Amapá registra 100 mil ausências na eleição Eleitores que não votaram no primeiro turno das eleições de 2026 têm até 3 de dezembro para justificar a ausência à Justiça Eleitoral. O procedimento pode ser feito pela internet ou presencialmente em um cartório eleitoral (veja passo a passo mais abaixo). A justificativa é v",
+      "publishedAt": "2026-10-18T22:43:25+00:00",
+      "summary": "Concentração dos apoiadores de Lula na Praça da Bandeira, em Sorocaba (SP) Wilson Junior / TV TEM Apoiadores de Lula em Sorocaba (SP) fizeram um ato a favor da reeleição do presidente neste domingo (18). Os participantes se reuniram na Praça da Bandeira, no Centro, por volta das 15h, de onde saíram em uma caminhada até",
       "category": "Política"
     },
     {
-      "title": "Milão. Segundo dia de pilhagens e confrontos",
-      "url": "https://observador.pt/2026/10/18/segundo-dia-de-agitacao-e-pilhagens-em-milao-com-confrontos-com-a-policia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T20:07:28+00:00",
-      "summary": "Jovens atiraram garrafas e fizeram roubos nas lojas do bairro central da catedral.",
+      "title": "Flávio e Lula chegam para primeiro debate presidencial do 2º turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-chegam-para-primeiro-debate-presidencial-neste-domingo-18/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:43:18+00:00",
+      "summary": "Candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) chegaram aos estúdios da TV Bandeirantes, na capital paulista, para o debate presidencial deste domingo (18)",
       "category": "Mundo"
     },
     {
-      "title": "Filho de chef de confeitaria que morreu com câncer raro exalta força da mãe durante tratamento: 'Enfrentou tudo com sorriso no rosto'",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/10/18/filho-de-chef-de-confeitaria-que-morreu-com-cancer-raro-exalta-forca-da-mae-durante-tratamento-enfrentou-tudo-com-sorriso-no-rosto.ghtml",
+      "title": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-18T20:06:39+00:00",
-      "summary": "Confeiteira morre com câncer raro em Goiás A chef de confeitaria Veridiana Pires de Oliveira Soares, de 45 anos, que morreu durante o tratamento de um câncer raro, recebeu homenagens nas redes sociais. Em seu perfil, o filho Iago Calixto exaltou a força da mãe por enfrentar a doença com um sorriso no rosto. \"Você foi a",
+      "publishedAt": "2026-10-18T22:36:36+00:00",
+      "summary": "O Supremo Tribunal Federal (STF) abriu inquérito para apurar suspeitas de lavagem de dinheiro envolvendo o advogado Willer Tomaz, empresas dele e o senador e candidato a presidente Flávio Bolsonaro (PL). O ministro Alexandre de Moraes foi sorteado relator do inquérito. A investigação começou na primeira instância da Ju",
+      "category": "Política"
+    },
+    {
+      "title": "Taça de Portugal. Arouca elimina Belenenses no prolongamento",
+      "url": "https://www.rtp.pt/noticias/taca-de-portugal/taca-de-portugal-arouca-elimina-belenenses-no-prolongamento_d1772558",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:36:11+00:00",
+      "summary": "O Arouca eliminou o Belenenses por 4-3, após prolongamento, num jogo eletrizante disputado no Estádio Nacional, no Jamor.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Flávio diz que usará debate para rebater fake news e diferença de projetos",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-usara-debate-para-rebater-fake-news-e-diferenca-de-projetos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:35:11+00:00",
+      "summary": "Candidato ainda apontou que foi necessário apenas \"ajustes finos\" para suas respostas no evento, e exaltou time de campanha ao seu lado",
+      "category": "Mundo"
+    },
+    {
+      "title": "Tempestade causa um morto na Catalunha e destruição em Valência, Ibiza e Maiorca",
+      "url": "https://www.rtp.pt/noticias/mundo/tempestade-causa-um-morto-na-catalunha-e-destruicao-em-valencia-ibiza-e-maiorca_n1772526",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:34:05+00:00",
+      "summary": "Uma tempestade mediterrânica causou hoje inundações em várias regiões de Espanha, incluindo as Ilhas Baleares, depois de no sábado ter causado a morte de uma pessoa perto de Barcelona, anunciaram autoridades locais.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Apoiadores de Lula fazem atos de campanha espalhados pela cidade de SP",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/18/apoiadores-de-lula-fazem-atos-de-campanha-espalhados-pela-cidade-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:30:22+00:00",
+      "summary": "Ato de apoiadores do PT no Largo da Banana, na Zona Oeste de SP Abraão Cruz/TV Globo Apoiadores de Lula, candidato à reeleição pelo PT, fizeram diversos atos espalhados pela cidade de São Paulo neste domingo (18). Entre eles: Largo da Batata, na Zona Oeste; \"O Rap Convoca - Ato musical contra o retrocesso\", na Zona Nor",
+      "category": "Política"
+    },
+    {
+      "title": "VÍDEO: jacaré é flagrado com corpo de outro na boca no Pantanal de MT; biólogo explica canibalismo",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/18/video-jacare-e-flagrado-com-corpo-de-outro-na-boca-no-pantanal-de-mt-biologo-explica-canibalismo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:28:54+00:00",
+      "summary": "Jacaré é flagrado com corpo de outro na boca no Pantanal de MT 🐊 Um jacaré foi flagrado nadando com o corpo de outro da mesma espécie na boca em Poconé, a 104 km de Cuiabá, no Pantanal mato-grossense, na última semana. A cena foi registrada pelo guia de turismo e fotógrafo de vida selvagem Marcos Halem Félix, que acomp",
+      "category": "Mundo"
+    },
+    {
+      "title": "Wanessa celebra aniversário da irmã: “Amor que não precisa de explicação”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/wanessa-celebra-aniversario-da-irma-amor-que-nao-precisa-de-explicacao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:28:19+00:00",
+      "summary": "A cantora homenageia Camilla Camargo nas redes sociais pela data especial, ressalta vínculo familiar e emociona a atriz com declaração de carinho",
+      "category": "Cultura"
+    },
+    {
+      "title": "Protestos na Itália têm segundo dia de confronto com a polícia",
+      "url": "https://www.cnnbrasil.com.br/internacional/protestos-na-italia-tem-segundo-dia-de-confronto-com-a-policia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:27:58+00:00",
+      "summary": "Imagens mostraram policiais disparando gás lacrimogêneo depois que centenas de manifestantes encapuzados quebraram vitrines de lojas e incendiaram lixeiras em Milão",
+      "category": "Mundo"
+    },
+    {
+      "title": "Batida entre caminhões provoca vazamento de produto químico em rodovia de SP; VÍDEO",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/18/batida-entre-caminhoes-provoca-vazamento-de-produto-quimico-em-rodovia-de-sp-video.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:23:23+00:00",
+      "summary": "Caminhões batem e vazamento de produto químico interdita Régis Bittencourt Dois caminhões colidiram na Rodovia Régis Bittencourt, em Cajati, no interior de São Paulo, neste domingo (18). O Corpo de Bombeiros informou que, após a batida, cerca de 500 litros de um produto químico vazaram na pista, o que provocou a interd",
+      "category": "Mundo"
+    },
+    {
+      "title": "O objetivo que passou a miragem: Friburgo perde com Bayer",
+      "url": "https://observador.pt/2026/10/18/o-objetivo-que-passou-a-miragem-friburgo-perde-em-leverkusen-com-bayer-e-falha-lideranca-isolada-da-bundesliga/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:19:12+00:00",
+      "summary": "Friburgo não conseguiu aproveitar nulo do B. Dortmund frente ao Union Berlim, perdendo em Leverkusen frente ao Bayer com reviravolta",
+      "category": "Mundo"
+    },
+    {
+      "title": "Manifestantes pelo direito à habitação mantêm acampamento em Lisboa",
+      "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamento-em-lisboa_e1772433",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:17:38+00:00",
+      "summary": "A decisão de continuar a acampada no Rossio, em Lisboa, foi tomada em assembleia popular. Continua assim o protesto contra as políticas de habitação. A contestação também prossegue na praça D. João I, no Porto.",
+      "category": "Mundo"
+    },
+    {
+      "title": "23h. Porto. Manifestantes querem acampar até ao fim do ano",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2197/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:17:25+00:00",
+      "summary": "O anúncio foi feito à Rádio Observador por Maria João Calisto, porta-voz do movimento. Ainda, em França, o Presidente promete punir os manifestantes violentos e apoiar as vítimas dos tumultos.",
+      "category": "Política"
+    },
+    {
+      "title": "Ucrânia não sobrevive sem os Estados Unidos, diz Zelensky",
+      "url": "https://observador.pt/2026/10/18/zelensky-diz-que-ucrania-nao-vai-sobreviver-se-washington-alinhar-com-moscovo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:16:49+00:00",
+      "summary": "\"Se os Estados Unidos ficarem oficialmente do lado da Rússia, se estes dois países estiverem juntos, claro que não venceremos e não conseguiremos resistir\", afirmou.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quatro locais de votação no Ceará são alterados para 2º turno; veja quais",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/18/quatro-locais-de-votacao-no-ceara-sao-alterados-para-2o-turno-veja-quais.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:16:26+00:00",
+      "summary": "Eleitora vota em cabine de votação de seção eleitoral na Faculdade Anhanguera, em Campinas Thomaz Marostegan/g1 Apenas quatro locais de votação precisaram ser alterados no Ceará para a votação do segundo turno, no próximo dia 25 de outubro. Na data, os cearenses vão votar mais uma vez para presidente da República. Um d",
+      "category": "Política"
+    },
+    {
+      "title": "Resultado da Mega-Sena: 2 apostas do interior de SP quase levam os R$ 170 milhões; veja números",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/18/resultado-da-mega-sena-2-apostas-do-interior-de-sp-quase-levam-os-r-170-milhoes-veja-numeros.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:16:07+00:00",
+      "summary": "Concurso 3071 da Mega-Sena: veja os números sorteados Duas apostas do interior de São Paulo quase levaram os R$ 171 milhões no sorteio do concurso 3.071 da Mega-Sena na manhã deste domingo (18), em São Paulo. Não houve ganhadores neste concurso, e próximo sorteio pode pagar até R$ 185 milhões. Veja os números sorteados",
+      "category": "Mundo"
+    },
+    {
+      "title": "Adolescente venezuelana de 14 anos é encontrada morta em mata no Paraná; padrasto, apontado como suspeito, morre em confronto com a PM",
+      "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/18/adolescente-encontrada-morta-parana-padrasto-suspeito.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:15:44+00:00",
+      "summary": "Adolescente venezuelana de 14 anos é encontrada morta em mata no Paraná; padrasto, apontado como suspeito do crime, morre em confronto com a PM Reprodução/RPC Uma adolescente venezuelana de 14 anos foi encontrada morta em uma área de mata no bairro Monte Verde, em Floresta, no norte do Paraná, na manhã de sábado (17). ",
+      "category": "Mundo"
+    },
+    {
+      "title": "BE diz que destino da lei do arrendamento é o \"caixote do lixo\" e vê Ventura \"à rasca\"",
+      "url": "https://www.rtp.pt/noticias/economia/be-diz-que-destino-da-lei-do-arrendamento-e-o-caixote-do-lixo-e-ve-ventura-a-rasca_n1772531",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:15:30+00:00",
+      "summary": "O coordenador do BE defendeu hoje que a lei do arrendamento terá como destino o \"caixote do lixo\" e considerou que o presidente do Chega está \"à rasca\" depois de se ter disponibilizado para viabilizar a proposta do Governo.",
+      "category": "Política"
+    },
+    {
+      "title": "Roraima tem alerta de chuvas intensas em 10 municípios até terça-feira",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/18/roraima-tem-alerta-de-chuvas-intensas-em-10-municipios-ate-terca-feira.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:15:28+00:00",
+      "summary": "Roraima tem 10 municípios sob alerta de chuvas neste domingo (18) - imagem ilustrativa Freepik/Magnific/Arquivo O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta amarelo de chuvas intensas para dez municípios de Roraima. O aviso começou à 0h deste domingo (18) e vale até as 10h de terça-feira (20). Os munic",
+      "category": "Clima"
+    },
+    {
+      "title": "Saiba onde conseguir consulta veterinária e castração gratuitas para cães e gatos em Campo Grande",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/18/saiba-onde-conseguir-consulta-veterinaria-e-castracao-gratuitas-para-caes-e-gatos-em-campo-grande.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:14:33+00:00",
+      "summary": "Consulta e castração gratuitas para cães e gatos em Campo Grande Subea Tutores de cães e gatos da região do bairro Santo Antônio, em Campo Grande, poderão buscar atendimento veterinário gratuito a partir desta segunda-feira (19). O Consultório Móvel da Superintendência de Bem-Estar Animal (Subea) ficará na região até s",
       "category": "Saúde"
     },
     {
-      "title": "Mais de 100 municípios do PI recebem alerta para chuvas intensas; Defesa Civil monitora alagamentos",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/18/municipios-alerta-chuvas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T20:04:36+00:00",
-      "summary": "Mais de 100 municípios do PI recebem alerta para chuvas intensas Reprodução Mais de 100 municípios do Piauí receberam alertas para chuvas intensas neste domingo (18), segundo o diretor de Prevenção e Mitigação da Defesa Civil Estadual, Werton Costa. Os avisos foram enviados por SMS diante da previsão de continuidade da",
-      "category": "Clima"
-    },
-    {
-      "title": "Balanços dos EUA: juros serão determinantes para ações, diz especialista",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/balancos-dos-eua-juros-serao-determinantes-para-as-acoes-diz-especialista/",
+      "title": "TREs mudam seções eleitorais antes do 2º turno; saiba como consultar a sua",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tres-mudam-secoes-eleitorais-antes-do-2o-turno-saiba-como-consultar-a-sua/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-18T19:41:11+00:00",
-      "summary": "Temporada de balanços dos bancos americanos começa com resultados mistos e incerteza sobre inflação e juros",
+      "publishedAt": "2026-10-18T22:13:42+00:00",
+      "summary": "Tribunais Regionais de todo o país mudam seções eleitorais por motivos como riscos climáticos, obras e manutenções",
+      "category": "Mundo"
+    },
+    {
+      "title": "Um tomba-gigantes improvável: Fátima afasta Ac. Viseu",
+      "url": "https://observador.pt/2026/10/18/um-tomba-gigantes-improvavel-fatima-afasta-ac-viseu-da-taca-de-portugal/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:13:33+00:00",
+      "summary": "Fátima, do Campeonato de Portugal, conseguiu eliminar Ac. Viseu, que regressou esta época à Primeira Liga após 37 anos de ausência",
+      "category": "Esportes"
+    },
+    {
+      "title": "França. 2.400 detenções e mil polícias feridos em tumultos",
+      "url": "https://observador.pt/2026/10/18/cerca-de-2-400-detencoes-em-franca-no-sabado-com-997-policias-e-agentes-feridos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:12:42+00:00",
+      "summary": "Tumultos causaram centenas de milhões de euros em prejuízos. Lojas foram pilhadas e edifícios públicos, vandalizados.",
       "category": "Economia"
     },
     {
-      "title": "Testemunhas põem em causa prova contra Sócrates sobre TGV",
-      "url": "https://observador.pt/especiais/testemunhas-poem-em-causa-prova-do-mp-contra-socrates-sobre-o-tgv-ex-governantes-negam-interferencia-politica/",
+      "title": "O mistério das 24 pernas: como o ancestral dos insetos trocou dezenas de patas por apenas seis?",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/o-misterio-das-24-pernas-como-o-ancestral-dos-insetos-trocou-dezenas-de-patas-por-apenas-seis/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T22:11:15+00:00",
+      "summary": "Descoberta nos EUA revela criatura de 324 milhões de anos que ajuda a explicar a transição dos insetos da água para a terra",
+      "category": "Mundo"
+    },
+    {
+      "title": "Alverca perde no prolongamento em Tondela e sai da Taça",
+      "url": "https://observador.pt/2026/10/18/alverca-afastado-da-taca-de-portugal-pelo-tondela-com-golos-no-prolongamento/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-18T19:35:24+00:00",
-      "summary": "Ex-ministros, secretários de Estado e administradores da RAVE negaram orientações políticas, acesso privilegiado a informação e intervenção de Sócrates. Restam ao MP os circuitos financeiros.",
-      "category": "Política"
-    },
-    {
-      "title": "Pesquisa revela como as mulheres escolhem métodos contraceptivos no Brasil",
-      "url": "https://www.cnnbrasil.com.br/saude/pesquisa-revela-como-as-mulheres-escolhem-metodos-contraceptivos-no-brasil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:31:41+00:00",
-      "summary": "Levantamento da Libbs, com apoio da Febrasgo, ouviu 500 mulheres e identificou receios sobre efeitos hormonais e influência das redes sociais na decisão",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Bahia x Flamengo: horário e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-x-flamengo-horario-e-onde-assistir-ao-jogo-do-brasileirao-3/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:30:18+00:00",
-      "summary": "Equipes vão a campo neste domingo (18), às 18h30 (de Brasília), na Arena Fonte Nova, pela 31ª rodada do Campeonato Brasileiro",
+      "publishedAt": "2026-10-18T22:09:14+00:00",
+      "summary": "Alverca não conseguiu evitar derrota no terreno do Tondela, que desceu na última época na Segunda Liga, na terceira eliminatória da Taça de Portugal",
       "category": "Esportes"
     },
     {
-      "title": "Paolla Oliveira diz ter incentivado Virginia a continuar na Grande Rio",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/paolla-oliveira-diz-ter-incentivado-virginia-a-continuar-na-grande-rio/",
+      "title": "Rayssa Leal fica fora do pódio no Mundial de Skate em Assunção",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/rayssa-leal-fica-fora-do-podio-no-mundial-de-skate-em-assuncao/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-18T19:28:58+00:00",
-      "summary": "A atriz foi coroada rainha de bateria da Imperatriz Leopoldinense na noite do último sábado (17), durante festa na quadra da agremiação de Ramos",
+      "publishedAt": "2026-10-18T22:08:35+00:00",
+      "summary": "Skatista brasileira terminou a competição em sétimo lugar; Maria Lúcia finalizou a prova no quinto lugar",
       "category": "Mundo"
     },
     {
-      "title": "Massa de ar frio mantém temperaturas baixas e risco de geada no Sul",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/massa-de-ar-frio-mantem-temperaturas-baixas-e-risco-de-geada-no-sul/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:24:50+00:00",
-      "summary": "Fenômeno pode atingir áreas do Paraná, de Santa Catarina e do Rio Grande do Sul nesta segunda-feira (19), após passagem de ciclone extratropical",
-      "category": "Clima"
-    },
-    {
-      "title": "Governo anuncia novos reforços e medidas contra incêndios no Amazonas",
-      "url": "https://www.cnnbrasil.com.br/nacional/norte/am/governo-federal-anuncia-reforcos-e-medidas-contra-incendios-no-amazonas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:22:26+00:00",
-      "summary": "Reforço inclui cinco aeronaves, mobilização de forças de segurança e instalação de base de saúde em Manaus; ministros se reúnem neste domingo (18) com autoridades estaduais",
-      "category": "Política"
-    },
-    {
-      "title": "Origem da pólvora: como a busca pelo elixir da imortalidade na China criou o composto explosivo no século IX",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/origem-da-polvora-como-a-busca-pelo-elixir-da-imortalidade-na-china-criou-o-composto-explosivo-no-seculo-ix/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:16:12+00:00",
-      "summary": "Descoberta por alquimistas em tentativas com substâncias inflamáveis, a mistura de salitre e enxofre transformou a engenharia militar do mundo",
-      "category": "Mundo"
-    },
-    {
-      "title": "20h. Pedro Duarte: \"manifestação não é espaço\" para reunião",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2070/",
-      "source": "Observador",
+      "title": "Lyon de Paulo Fonseca vence e sobe a primeiro em comando repartido por cinco",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/lyon-de-paulo-fonseca-vence-e-sobe-a-primeiro-em-comando-repartido-por-cinco_d1772556",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-18T19:14:36+00:00",
-      "summary": "Em declarações, o autarca do Porto garante que as portas da Câmara estarão \"sempre abertas\" para o diálogo. Ainda, no Brasil, realiza-se hoje o primeiro debate entre Lula da Silva e Flávio Bolsonaro.",
+      "publishedAt": "2026-10-18T22:06:53+00:00",
+      "summary": "O Lyon de Paulo Fonseca sofreu muito para vencer o Nice, por 2-1, mas subiu ao primeiro lugar da Liga francesa de futebol, à sétima jornada, acompanhado do Paris Saint-Germain, Lille, Paris FC e do ex-comandante isolado Mónaco.",
       "category": "Política"
     },
     {
-      "title": "Kassio mantém vídeo em que Flávio atribui R$ 7 bi em viagens a Lula e Janja",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/kassio-mantem-video-em-que-flavio-atribui-r-7-bi-em-viagens-a-lula-e-janja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:12:43+00:00",
-      "summary": "Presidente do TSE diz que valor vem de dado oficial e que disputa sobre o alcance da informação deve ser decidida no julgamento do mérito",
-      "category": "Política"
-    },
-    {
-      "title": "Morreu antigo deputado do PCP/Madeira Leonel Nunes",
-      "url": "https://observador.pt/2026/10/18/morreu-antigo-deputado-do-pcp-madeira-leonel-nunes-aos-76-anos/",
-      "source": "Observador",
+      "title": "Lazio vence Juventus em Turim e segue ‘colada’ ao Inter na liderança da Serie A",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/lazio-vence-juventus-em-turim-e-segue-colada-ao-inter-na-lideranca-da-serie-a_d1772555",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-18T19:11:40+00:00",
-      "summary": "Partido destaca \"capacidade de militância político-sindical em favor da edificação de uma sociedade mais justa\".",
-      "category": "Política"
-    },
-    {
-      "title": "Espanha. Tempestade causa um morto na Catalunha",
-      "url": "https://observador.pt/2026/10/18/tempestade-causa-um-morto-na-catalunha-e-destruicao-em-valencia-ibiza-e-maiorca/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T19:11:19+00:00",
-      "summary": "Tempestade causou centenas de incidentes, casas e estradas inundadas, quedas de árvores e danos materiais.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Unicamp 2027: confira os destaques da primeira fase",
-      "url": "https://www.cnnbrasil.com.br/educacao/unicamp-2027-confira-os-destaques-da-primeira-fase/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:10:23+00:00",
-      "summary": "Vestibular foi aplicado neste domingo (18) com mais de 58 mil candidatos que concorrem a 2.523 vagas em 70 cursos de graduação; prova teve 72 questões de múltipla escolha",
-      "category": "Mundo"
-    },
-    {
-      "title": "Venezuela. Corina Machado confirmada como líder da oposição",
-      "url": "https://observador.pt/2026/10/18/premio-nobel-maria-corina-machado-confirmada-como-lider-da-oposicao-na-venezuela/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T19:09:30+00:00",
-      "summary": "Acordo surge durante um novo ciclo de negociações entre o Governo e uma parte da oposição.",
-      "category": "Política"
-    },
-    {
-      "title": "Paris FC x Rennes: veja melhores momentos de jogo da Ligue 1",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/paris-fc-x-rennes-veja-melhores-momentos-de-jogo-da-ligue-1/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:06:50+00:00",
-      "summary": "Time parisiense venceu por 4 a 3 em jogo que marcou a estreia do Francês na tela do CNN Esportes",
+      "publishedAt": "2026-10-18T22:04:58+00:00",
+      "summary": "A Lazio voltou a colar-se ao Inter Milão no topo da classificação da Liga italiana de futebol, ao superiorizar-se à Juventus, por 3-0, em Turim, onde o luso Nuno Tavares foi titular no conjunto ‘laziale’.",
       "category": "Esportes"
     },
     {
-      "title": "Vox: Lula e Flávio são igualmente rejeitados por 45,3%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/vox-lula-e-flavio-sao-igualmente-rejeitados-por-453/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:06:49+00:00",
-      "summary": "Foram entrevistados 2.100 eleitores em todo o país, entre os dias 15 e 17 de outubro; margem de erro é de 2,15 pontos percentuais, para mais ou para menos",
+      "title": "Portugal vence Espanha e conquista bronze no Mundial de hóquei em patins",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-vence-espanha-e-conquista-bronze-no-mundial-de-hoquei-em-patins_d1772554",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T22:00:04+00:00",
+      "summary": "Portugal conquistou domingo a medalha de bronze no 47.º Mundial de hóquei em patins masculino, ao vencer a campeã em título, Espanha, por 5-3, em Assunção, no Paraguai.",
       "category": "Mundo"
     },
     {
-      "title": "Vox: 49,2% desaprovam governo Lula; 46,5% aprovam",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/vox-492-desaprovam-governo-lula-465-aprovam/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T19:00:55+00:00",
-      "summary": "Levantamento ouviu 2.100 entrevistados por todo o território nacional; margem de erro é de 2,15 pontos percentuais, para mais ou para menos",
-      "category": "Política"
-    },
-    {
-      "title": "O tempo livre e o brincar estão em vias da extinção",
-      "url": "https://observador.pt/opiniao/o-tempo-livre-e-o-brincar-estao-em-vias-da-extincao/",
+      "title": "Tudo mudou depois do intervalo: Marítimo vence Alcochetense",
+      "url": "https://observador.pt/2026/10/18/tudo-mudou-depois-do-intervalo-maritimo-vence-alcochetense-e-segue-na-taca-de-portugal/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-18T18:45:07+00:00",
-      "summary": "O brincar e o tempo de brincar são indispensáveis como factores que definem a qualidade de uma escola, sendo um e outro, no receio e na sala de aula, factores indispensáveis de aprendizagem.",
-      "category": "Clima"
-    },
-    {
-      "title": "Macron: \"Nada explica, nada desculpa\" tumultos em França",
-      "url": "https://observador.pt/2026/10/18/nada-o-explica-nada-o-desculpa-emmanuel-macron-garante-que-os-causadores-de-destruicao-em-franca-terao-que-pagar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T18:18:44+00:00",
-      "summary": "Presidente francês reagiu, em discurso ao país, aos saques de lojas e vandalismo de edifícios públicos em várias cidades. Pilhagens ainda não cessaram.",
-      "category": "Política"
-    },
-    {
-      "title": "19h. Ventura propõe pacote de emergência para habitação",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2199/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T18:10:39+00:00",
-      "summary": "Em reação às manifestações, André Ventura propõe medidas para a habitação, incluindo deduções fiscais e revisão do IMI. Ainda, José Luís Carneiro pede ao Governo que recupere propostas do PS de 2023.",
-      "category": "Política"
-    },
-    {
-      "title": "Luto: E Se Isto Nunca Mais Passar?",
-      "url": "https://observador.pt/programas/manual-de-instrues-para-humanos/luto-e-se-isto-nunca-mais-passar/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T18:10:06+00:00",
-      "summary": "Sentir alívio, rir ou voltar a namorar: tudo cabe no luto. Sofrer muito e achar que não vai passar, também. Um episódio para quem já perdeu alguém e para quem não sabe o que dizer a quem perdeu.",
-      "category": "Mundo"
-    },
-    {
-      "title": "A noite que era de sonho quase virou o pior dos pesadelos",
-      "url": "https://observador.pt/2026/10/18/a-noite-que-era-de-sonho-quase-virou-o-pior-dos-pesadelos-ac-milan-de-amorim-vence-atalanta-mas-acaba-a-sofrer-sem-necessidade/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-18T18:05:52+00:00",
-      "summary": "AC Milan teve os melhores 60 minutos da época, marcou três golos, ainda viu Ramos falhar um penálti mas \"desligou\" demasiado cedo do jogo, permitindo a reação da Atalanta que quase valeu empate (3-2).",
+      "publishedAt": "2026-10-18T21:51:50+00:00",
+      "summary": "Marítimo chegou aos dois golos de vantagem mas Alcochetense reagiu e adiou decisão até aos últimos minutos",
       "category": "Esportes"
+    },
+    {
+      "title": "21h Macron: Quem destruiu deve pagar",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-macron-quem-destruiu-deve-pagar_a1_1772553",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T21:49:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mbappé brilha, e Real Madrid goleia Sevilla pelo Campeonato Espanhol",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/mbappe-brilha-e-real-madrid-goleia-sevilla-pelo-campeonato-espanhol/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T21:45:56+00:00",
+      "summary": "Craque francês marcou duas vezes, Arda Güler e Yan Diomande completam placar expressivo no Santiago Bernabéu",
+      "category": "Esportes"
+    },
+    {
+      "title": "Fluminense 1 x 2 Santos: veja os melhores momentos do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-1-x-2-santos-veja-os-melhores-momentos-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T21:42:43+00:00",
+      "summary": "Gabigol e Coutinho marcaram em vitória santista no Maracanã pela 31ª rodada do Campeonato Brasileiro Série A",
+      "category": "Esportes"
+    },
+    {
+      "title": "Manifestantes no Porto querem ser contactados pela câmara por e-mail e não individualmente",
+      "url": "https://www.rtp.pt/noticias/pais/manifestantes-no-porto-querem-ser-contactados-pela-camara-por-e-mail-e-nao-individualmente_n1772546",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-18T21:38:34+00:00",
+      "summary": "O movimento pela habitação, que há uma semana ocupa a Praça D. João I, no Porto, mostrou-se hoje disponível para reunir com o presidente da câmara desde que o pedido seja feito para o e-mail oficial do grupo.",
+      "category": "Política"
+    },
+    {
+      "title": "Grêmio 2 x 4 Cruzeiro: veja os melhores momentos do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-2-x-4-cruzeiro-veja-os-melhores-momentos-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T21:33:41+00:00",
+      "summary": "Cabuloso venceu o Imortal por 4 a 2, na 31ª rodada do Campeonato Brasileiro. Com o resultado, a equipe de Renato Gaúcho se mantém na zona de rebaixamento",
+      "category": "Esportes"
+    },
+    {
+      "title": "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/minerais-criticos-e-estrategicos-empregam-129-mil-pessoas-no-brasil",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-18T20:12:00+00:00",
+      "summary": "As atividades relacionadas ao setor de minerais críticos e estratégicos (MCE) para o Brasil somaram 129.423 empregos, em 2025, o equivalente a 57% dos 226.634 empregos da indústria extrativa mineral do país. Quando comparado ao mesmo mercado de trabalho registrado em 2023, houve crescimento de 8,6% no período. Notícias",
+      "category": "Economia"
     },
     {
       "title": "Tensões voltam a crescer; França contabiliza custos de protestos",
@@ -512,15 +521,6 @@
       "region": "Brasil",
       "publishedAt": "2026-10-18T12:23:00+00:00",
       "summary": "Luena Maria Ferreira dos Santos, ou Luena Pataxó, tem 44 anos e uma vida inteira conectada à pesca e ao mar. Criança, ajudava os pais na limpeza de peixes e mariscos. Já adulta, trabalhou como pescadora, mas abandonou o barco para catar camarões depois que ficou viúva. Nesta semana, Luena recebeu uma homenagem da Organ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Roda de Choro apresenta Grupo Tamoio em homenagem a Ernesto Nazareth",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/roda-de-choro-apresenta-grupo-tamoio-em-homenagem-ernesto-nazareth",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-18T12:01:00+00:00",
-      "summary": "O novo episódio do Roda de Choro , da Rádio MEC , apresenta o concerto de estreia do Grupo Tamoio em programa dedicado à obra de Ernesto Nazareth. Gravado ao vivo na Sala Cecília Meireles, no Rio de Janeiro (RJ), em setembro de 2026, o espetáculo vai ao ar neste domingo (18), às 20h, com reapresentação pela Rádio Nacio",
       "category": "Mundo"
     }
   ],
