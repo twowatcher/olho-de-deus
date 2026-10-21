@@ -1,526 +1,526 @@
 {
-  "updatedAt": "2026-10-21T17:07:54.598983+00:00",
+  "updatedAt": "2026-10-21T20:36:16.097689+00:00",
   "items": [
+    {
+      "title": "Cabaz alimentar está mais barato",
+      "url": "https://www.rtp.pt/noticias/economia/cabaz-alimentar-esta-mais-barato_v1773356",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T21:30:48+00:00",
+      "summary": "O cabaz desceu 2,27 euros. Os 63 alimentos monitorizados pela Deco Proteste têm agora um custo de 253,99 euros.",
+      "category": "Economia"
+    },
     {
       "title": "Movimento pela Habitação. A evolução da vaga de protestos em Lisboa e Porto",
       "url": "https://www.rtp.pt/noticias/pais/movimento-pela-habitacao-a-evolucao-da-vaga-de-protestos-em-lisboa-e-porto_e1773164",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-21T17:58:07+00:00",
-      "summary": "O Parlamento discutiu esta tarde a crise na habitação, com trocas de acusações entre os vários partidos. O Governo afirmou que compreende a \"angústia\" dos portugueses, mas apontou culpas ao passado, nomeadamente ao \"imobilismo e inércia\" do PS. O Livre, que marcou este debate, desafiou o Executivo a deixar cair a lei d",
+      "publishedAt": "2026-10-21T21:28:29+00:00",
+      "summary": "A assembleia popular do acampamento em Lisboa votou favoravelmente uma proposta para voltar a pernoitar na praça do Rossio, mas a organização considera que poderão não estar reunidas condições de segurança. Acompanhamos aqui todos os desenvolvimentos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Centenas de estudantes na rua contra descongelamento de propinas",
+      "url": "https://www.rtp.pt/noticias/mundo/centenas-de-estudantes-na-rua-contra-descongelamento-de-propinas_v1773354",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T21:27:47+00:00",
+      "summary": "Centenas de estudantes de diversas faculdades manifestaram-se em Lisboa e Braga. Lutam contra o descongelamento das propinas e a diminuição do orçamento para o ensino superior.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Participação violenta em manifestações passou a ser crime em Itália",
+      "url": "https://www.rtp.pt/noticias/mundo/participacao-violenta-em-manifestacoes-passou-a-ser-crime-em-italia_v1773353",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T21:25:48+00:00",
+      "summary": "Os menores passam ficar também sujeitos a prisão preventiva. Reacção do governo italiano à mais recente onda de protestos nas ruas.",
       "category": "Política"
     },
     {
-      "title": "Erro descoberto pela IA coloca parte da internet mundial em risco de ciberataque",
-      "url": "https://www.rtp.pt/noticias/mundo/erro-descoberto-pela-ia-coloca-parte-da-internet-mundial-em-risco-de-ciberataque_n1773305",
+      "title": "Tiago Cutileiro. Morte e destruição em Gaza noutra dimensão",
+      "url": "https://www.rtp.pt/noticias/mundo/tiago-cutileiro-morte-e-destruicao-em-gaza-noutra-dimensao_n1773341",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-21T17:51:27+00:00",
-      "summary": "Sites governos, hospitais e escolas já foram colocados offline para que os especialistas possam atualizar os sistemas de segurança. Primeiros ataques informáticos já foram registados, levando a divisão de cibersegurança da UE e FBI a lançarem alertas.",
-      "category": "Política"
+      "publishedAt": "2026-10-21T21:23:34+00:00",
+      "summary": "Perante o fluxo diário de imagens de explosões, cadáveres e ruínas que chegam através dos ecrãs, o artista Tiago Cutileiro encontrou na criação artística uma forma de reflexão e resistência.",
+      "category": "Mundo"
     },
     {
-      "title": "Tendas em Atenas. Depois de Espanha e Portugal, milhares enchem as ruas gregas",
-      "url": "https://www.rtp.pt/noticias/mundo/tendas-em-atenas-depois-de-espanha-e-portugal-milhares-enchem-as-ruas-gregas_n1773294",
+      "title": "Juristas apontam dúvidas sobre intervenção da PSP contra manifestantes",
+      "url": "https://www.rtp.pt/noticias/mundo/juristas-apontam-duvidas-sobre-intervencao-da-psp-contra-manifestantes_v1773350",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-21T17:47:01+00:00",
-      "summary": "Cerca de 10 mil estudantes saíram esta quarta-feira à rua em várias cidades da Grécia para protestar contra o custo da habitação e dos estudos, numa mobilização também marcada pelo acampamento diante do Parlamento, em Atenas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sporting CP - LASK Linz (20h00)",
-      "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-lask-linz-20h00_e1773304",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T17:46:06+00:00",
-      "summary": "O Sporting procura manter-se vitorioso na fase de liga e ficar mais perto do apuramento na Liga dos Campeões de futebol, na receção aos austríacos do LASK Linz, que só têm derrotas, na terceira jornada.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Rússia aceitou proposta dos EUA para uma reunião trilateral com a Ucrânia",
-      "url": "https://www.rtp.pt/noticias/mundo/russia-aceitou-proposta-dos-eua-para-uma-reuniao-trilateral-com-a-ucrania_n1773299",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T17:25:35+00:00",
-      "summary": "Moscovo aceitou a proposta de Washington para reunião trilateral com a Ucrânia, informou um responsável norte-americano depois de o enviado dos EUA, Steve Witkoff, se ter reunido com o presidente russo, Vladimir Putin, esta quarta-feira.",
-      "category": "Política"
-    },
-    {
-      "title": "Ação policial e protesto habitação. Centenas de pessoas da área da Cultura repudiam violência em carta aberta",
-      "url": "https://www.rtp.pt/noticias/cultura/acao-policial-e-protesto-habitacao-centenas-de-pessoas-da-area-da-cultura-repudiam-violencia-em-carta-aberta_n1773289",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T17:15:13+00:00",
-      "summary": "A carta aberta \"Cultura pelo Direito à Habitação\" lançada esta terça-feira contava pelas 16:00 de hoje com 891 assinaturas.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Análise da FPF dá nota positiva a João Pinheiro e VAR no Braga-Sporting",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/analise-da-fpf-da-nota-positiva-a-joao-pinheiro-e-var-no-braga-sporting_d1773295",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T17:09:00+00:00",
-      "summary": "O árbitro João Pinheiro e a equipa do VAR receberam uma nota positiva da Direção Técnica Nacional de Arbitragem da FPF pela atuação no jogo entre o Sporting de Braga e o Sporting, na Pedreira.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Governo previa 3 leilões de imóveis do Estado, só um avançou",
-      "url": "https://observador.pt/2026/10/21/governo-previa-tres-leiloes-de-imoveis-do-estado-para-financiar-habitacao-mas-so-um-avancou/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T17:05:09+00:00",
-      "summary": "Governo previa vender 16 imóveis em 2026, mas até agora só foi realizado um leilão onde foram alienados três. Receita das vendas deve ser aplicada \"ao serviço da habitação pública”.",
-      "category": "Política"
-    },
-    {
-      "title": "Cole Sprouse é confundido com irmão: “Não sabem quem casou com a Barbara”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/cole-sprouse-e-confundido-com-irmao-nao-sabem-quem-casou-com-a-barbara/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T17:03:02+00:00",
-      "summary": "Ator entrou na brincadeira depois de ser confundido com o irmão gêmeo Dylan Sprouse durante a repercussão do desfile da Victoria's Secret",
-      "category": "Mundo"
-    },
-    {
-      "title": "Viúva de Lito Sousa surpreende fãs ao fazer vídeo igual ao marido; veja",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/viuva-de-lito-sousa-surpreende-fas-ao-fazer-video-igual-ao-marido-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T17:01:45+00:00",
-      "summary": "Influenciador, dono do canal \"Aviões e Música\", faleceu no começo de outubro, menos de dois meses após ser diagnosticado com Creutzfeldt-Jakob",
-      "category": "Cultura"
-    },
-    {
-      "title": "Marinha abre concurso na Bahia com salários iniciais de R$ 9 mil; saiba como se inscrever",
-      "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/10/21/marinha-abre-concurso-na-bahia-com-salarios-iniciais-de-r-9-mil-saiba-como-se-inscrever.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T17:01:33+00:00",
-      "summary": "Marinha abriu concurso com 18 vagas na Bahia Marinha do Brasil A Marinha do Brasil abriu um concurso com 18 vagas para a Bahia nesta quarta-feira (21). Os salários iniciais são de R$ 9 mil e as oportunidades são para Salvador e para Porto Seguro, no sul do estado. Há vagas para engenheiros, fisioterapeutas, enfermeiros",
-      "category": "Mundo"
-    },
-    {
-      "title": "Federarroz alerta para risco de apropriação de grãos em contratos",
-      "url": "https://www.cnnbrasil.com.br/agro/federarroz-alerta-para-risco-de-apropriacao-de-graos-em-contratos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T17:01:15+00:00",
-      "summary": "Entidade aponta mudança nas garantias de financiamentos e orienta produtores a revisar cláusulas antes de assinar documentos",
-      "category": "Mundo"
-    },
-    {
-      "title": "MNE do Brasil acusa Milei de interferir nas eleições",
-      "url": "https://observador.pt/2026/10/21/javier-milei-acusado-de-tentar-interferir-nas-eleicoes-no-brasil-presidente-da-argentina-disse-que-lula-da-silva-pode-fraudar-resultados/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T17:01:03+00:00",
-      "summary": "Milei teve negado o pedido para visitar Jair Bolsonaro em prisão domiciliária",
-      "category": "Política"
-    },
-    {
-      "title": "Tiro em Fred Bruno: polícia inclui lesão corporal em BO contra deputado",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tiro-em-fred-bruno-policia-inclui-lesao-corporal-em-bo-contra-deputado/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T17:00:33+00:00",
-      "summary": "Polícia requisitou exame no IML para avaliar ferimentos; investigação envolvendo deputado estadual aguarda autorização do Tribunal de Justiça de São Paulo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Aulão na Rede 2026: professor explica as principais características de Sustentabilidade",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/21/aulao-na-rede-2026-professor-explica-as-principais-caracteristicas-de-sustentabilidade.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T17:00:01+00:00",
-      "summary": "Aulão na Rede 2026: professor explica as principais características da sustentabilidade Diariamente, os telejornais da Rede Amazônica disponibilizam videoaulas do projeto \"Aulão na Rede\". Nesta quarta-feira (21), o professor Marcelo Dores, explicou as principais características de Sustentabilidade. O conteúdo já está d",
-      "category": "Mundo"
-    },
-    {
-      "title": "Pesquisa CNN: Índice de aprovação de Trump atinge nível mais baixo nos EUA",
-      "url": "https://www.cnnbrasil.com.br/internacional/pesquisa-cnn-indice-de-aprovacao-de-trump-atinge-nivel-mais-baixo-nos-eua/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:58:38+00:00",
-      "summary": "Eleitores demonstram insatisfação generalizada tanto com a economia quanto com a situação do país, quase dois anos após o início de um período em que o Partido Republicano passou a controlar, de forma unificada, o governo federal",
-      "category": "Política"
-    },
-    {
-      "title": "Cachorro soterrado após desabamento é resgatado com vida em Niterói",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/21/cachorro-desabamento-e-resgatado-com-vida-em-niteroi.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:58:17+00:00",
-      "summary": "Cachorro desaparecido em desabamento de Niterói é resgatado com vida. Reprodução O cachorro Romário, que pertencia ao casal de irmãos que estava no imóvel que desabou na sexta-feira (16), no Caramujo, em Niterói, foi resgatado com vida nesta quarta (21) pela manhã. O Corpo de Bombeiros foi responsável pelo resgate. Seg",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: AB1 de quarta-feira, 21 de outubro de 2026",
-      "url": "https://g1.globo.com/al/alagoas/edicao/2026/10/21/videos-ab1-de-quarta-feira-21-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:58:13+00:00",
+      "publishedAt": "2026-10-21T21:18:47+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Mulher que acusa Russell Brand de estupro diz que ele a tratou como animal",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/mulher-que-acusa-russell-brand-de-estupro-diz-que-ele-a-tratou-como-animal/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:57:54+00:00",
-      "summary": "Ator e comediante britânico está sendo julgado por três acusações de estupro, três de agressão sexual e uma de ato obsceno contra seis mulheres entre 1999 e 2009",
+      "title": "Deputada australiana perdeu as pernas em atentado",
+      "url": "https://www.rtp.pt/noticias/mundo/deputada-australiana-perdeu-as-pernas-em-atentado_v1773349",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T21:14:48+00:00",
+      "summary": "Uma deputada australiana foi abalroada várias vezes por uma viatura à porta da sede eleitoral e acabou por ficar sem as pernas. O primeiro-ministro pede que se modere o discurso político.",
+      "category": "Política"
+    },
+    {
+      "title": "Sporting de Braga joga com o Gent já com novo treinador",
+      "url": "https://www.rtp.pt/noticias/desporto/sporting-de-braga-joga-com-o-gent-ja-com-novo-treinador_v1773348",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T21:10:47+00:00",
+      "summary": "Franclim Carvalho disse que quer entrar a ganhar e António Salvador explicou o que falhou com Carlos Vicens.",
       "category": "Mundo"
     },
     {
-      "title": "Sangue raro de único doador de SC viaja em cabine de avião comercial pela 1ª vez para salvar paciente em MG",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/21/sangue-raro-unico-doador-sc-viaja-cabine-aviao-comercial-1a-vez-salvar-paciente-mg.ghtml",
-      "source": "G1",
+      "title": "Condutor foi apanhado a 292 km/h na Vasco da Gama",
+      "url": "https://www.rtp.pt/noticias/pais/condutor-foi-apanhado-a-292-kmh-na-vasco-da-gama_v1773347",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T21:08:47+00:00",
+      "summary": "Um condutor foi detetado pela GNR a uma velocidade média de 292 km/h na Ponte Vasco da Gama, em Lisboa. É um recorde histórico de excesso de velocidade.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Parlamento realiza debate pedido pelo Livre e recusado por Aguiar-Branco",
+      "url": "https://www.rtp.pt/noticias/politica/parlamento-realiza-debate-pedido-pelo-livre-e-recusado-por-aguiar-branco_v1773345",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T21:04:47+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Antiga ministra brasileira avisa para democracia em perigo",
+      "url": "https://www.rtp.pt/noticias/mundo/antiga-ministra-brasileira-avisa-para-democracia-em-perigo_v1773344",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T21:03:47+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Desconhecido desloca-se ao Rossio para arrancar cartazes",
+      "url": "https://www.rtp.pt/noticias/politica/desconhecido-desloca-se-ao-rossio-para-arrancar-cartazes_v1773339",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:39:47+00:00",
+      "summary": "Depois de uma noite em que milhares de pessoas encheram a praça de Lisboa com artistas conhecidos a juntar-se ao protesto, um cidadão sentiu-se indignado com as reivindicações deixadas no Rossio. O ministro Luís Neves também garantiu que a polícia vai agir por antecipação e insiste que a lei é para cumprir.",
+      "category": "Política"
+    },
+    {
+      "title": "Justiça toma decisão sobre queixa contra Ronaldinho em esquema de pirâmide",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/justica-toma-decisao-sobre-queixa-contra-ronaldinho-em-esquema-de-piramide/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-21T16:57:04+00:00",
-      "summary": "Sangue raro de único doador de SC viaja em cabine de avião comercial para MG Santa Catarina realizou, pela primeira vez na história, o transporte de sangue na cabine de um avião comercial de passageiros. A bolsa de sangue Js(b-), tipagem onsiderada extremamente raro, foi enviada com urgência para salvar a vida de um pa",
+      "publishedAt": "2026-10-21T20:35:40+00:00",
+      "summary": "Decisão da Justiça do Trabalho do Rio Grande do Norte afasta responsabilidade do ex-craque em ação da empresa 18K Ronaldinho",
       "category": "Economia"
     },
     {
-      "title": "Professor encontra cogumelo 'gigante' em mata de SP; 'parecia uma luminária de jardim'",
-      "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/10/21/professor-encontra-cogumelo-gigante-em-mata-de-sp-parecia-uma-luminaria-de-jardim.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:55:12+00:00",
-      "summary": "Professor encontra cogumelo 'gigante' em mata de SP; 'parecia uma luminária de jardim' Um cogumelo de aproximadamente 40 centímetros de altura, iluminado por um feixe de sol no meio da mata, surpreendeu o professor e fotógrafo de natureza Thiago D'Alkmin durante uma caminhada em São Pedro (SP). O registro aconteceu em ",
+      "title": "Zelensky quer reunião trilateral tão rápido quanto possível",
+      "url": "https://observador.pt/2026/10/21/zelensky-quer-reuniao-trilateral-eua-russia-ucrania-o-mais-rapidamente-possivel-apos-kremlin-sinalizar-abertura/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:34:23+00:00",
+      "summary": "Zelensky afirmou que é necessária uma pausa na frente de batalha como ponto de partida para as negociações de paz",
       "category": "Mundo"
     },
     {
-      "title": "Hoje amigas, Virna e Mireya relembram “treta” épica em Atlanta 1996",
-      "url": "https://www.cnnbrasil.com.br/esportes/volei/hoje-amigas-virna-e-mireya-relembram-treta-epica-em-atlanta-1996/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:54:41+00:00",
-      "summary": "Ex-jogadoras relembram bastidores da briga nas semifinais de Atlanta 1996 e projetam futuro do esporte",
-      "category": "Esportes"
-    },
-    {
-      "title": "Milei diz que Pedro Sánchez é um \"ditador inapresentável\"",
-      "url": "https://observador.pt/2026/10/21/milei-diz-que-primeiro-ministro-de-espanha-e-ditador-inapresentavel-e-apela-aos-espanhois-que-tirem-os-socialistas-a-pontape-do-governo/",
+      "title": "O que dizem as previsões? Inverno mais quente e mais chuvoso",
+      "url": "https://observador.pt/especiais/inverno-mais-quente-e-com-mais-chuva-a-partir-de-dezembro-o-que-antecipam-os-modelos-para-portugal/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-21T16:54:01+00:00",
-      "summary": "O Presidente argentino admitiu que não foi a Madrid exclusivamente para apoiar o PP ou o Vox",
-      "category": "Política"
-    },
-    {
-      "title": "Paralisação de ônibus em Taubaté: veja o que se sabe sobre a greve e linhas afetadas do transporte público",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/21/paralisacao-de-onibus-em-taubate-veja-o-que-se-sabe-sobre-a-greve-e-linhas-afetadas-do-transporte-publico.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:53:14+00:00",
-      "summary": "Paralisação de ônibus em Taubaté: veja o que se sabe sobre a greve e linhas afetadas A paralisação dos motoristas do transporte público de Taubaté continua na tarde desta quarta-feira (21). Até 13h30, nenhum ônibus havia saído da garagem da ABC Transportes, e as 32 linhas operadas pela empresa continuavam paralisadas, ",
-      "category": "Economia"
-    },
-    {
-      "title": "Longe da Globo, Regina Casé terá novo programa com auditório no YouTube",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/longe-da-globo-regina-case-tera-novo-programa-com-auditorio-no-youtube/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:52:54+00:00",
-      "summary": "A apresentar vai comandar o \"Festa da Regina\", na DiaTV, com gravações no Rio de Janeiro; atração vai contar com plateia e promete animar o público",
-      "category": "Mundo"
-    },
-    {
-      "title": "Detido ex-governador do Banco Central da Hungria e ex-ministro de Orbán",
-      "url": "https://www.rtp.pt/noticias/mundo/detido-ex-governador-do-banco-central-da-hungria-e-ex-ministro-de-orban_n1773284",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:52:49+00:00",
-      "summary": "Gyorgy Matolcsy foi detido sob acusação de corrupção por lavagem de mais de 1200 milhões de euros.",
-      "category": "Política"
-    },
-    {
-      "title": "Homem é preso com cinco armas após companheira denunciar agressões, ameaças de morte e violência sexual em MG",
-      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/21/homem-e-preso-com-cinco-armas-apos-companheira-denunciar-agressoes-ameacas-de-morte-e-violencia-sexual-em-mg.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:52:20+00:00",
-      "summary": "Armas apreendidas pela PM Polícia Militar/Divulgação A Polícia Militar apreendeu armas e munições após uma denúncia de violência doméstica na zona rural de Urucuia, nesta terça-feira (20). Um homem de 39 anos foi preso em flagrante. A companheira dele, de 32 anos, procurou o quartel da PM e relatou que sofria violência",
-      "category": "Cultura"
-    },
-    {
-      "title": "Fixa, mista ou variável. Qual a melhor taxa de juro agora?",
-      "url": "https://observador.pt/programas/explicador/fixa-mista-ou-variavel-qual-a-melhor-taxa-de-juro-agora/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:51:48+00:00",
-      "summary": "O especialista em mercados financeiros, Filipe Garcia, alerta que fixar a taxa a longo prazo pode sair caro se os juros voltarem a baixar.",
-      "category": "Economia"
-    },
-    {
-      "title": "Estudantes fazem manifestação pró-Lula em Piracicaba",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/noticia/2026/10/21/estudantes-fazem-manifestacao-pro-lula-em-piracicaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:50:35+00:00",
-      "summary": "Estudantes da Esalq em ato pró-Lula em Piracicaba Edijan Del Santo/EPTV q Estudantes da Escola Superior de Agricultura \"Luiz de Queiroz\" da Universidade de São Paulo (Esalq/USP), em Piracicaba (SP), participaram nesta quarta-feira (21) de uma manifestação em apoio à candidatura do presidente Lula (PT), que concorre à r",
-      "category": "Política"
-    },
-    {
-      "title": "Carlos Vicens recorda Braga \"com gratidão\" e destaca \"futebol reconhecível\"",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/carlos-vicens-recorda-braga-com-gratidao-e-destaca-futebol-reconhecivel_d1773285",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:50:27+00:00",
-      "summary": "O treinador Carlos Vicens disse recordar “com gratidão” o percurso no Sporting de Braga, cujo comando técnico deixou na terça-feira, destacando o “futebol reconhecível e com identidade própria” patenteado na época passada.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Guitarrista do Offspring anuncia afastamento dos palcos por 'problema repentino e sério' de saúde",
-      "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/10/21/guitarrista-do-offspring-anuncia-afastamento-dos-palcos-por-problema-repentino-e-serio-de-saude.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:50:06+00:00",
-      "summary": "Noodles, guitarrista da banda The Offspring, durante apresentação no Rock in Rio 2017 Fábio Tito/G1 O guitarrista Noodles, integrante da banda de punk rock The Offspring, anunciou nesta quarta-feira (21) que precisará se afastar dos shows ao vivo em decorrência de um problema de saúde \"bastante sério\". \"É com profunda ",
-      "category": "Saúde"
-    },
-    {
-      "title": "Protestos abanam 5 países europeus, da Grécia à França",
-      "url": "https://observador.pt/2026/10/21/protestos-estudantes-saem-a-rua-na-grecia-italia-mobiliza-exercito-para-milao-e-franca-prepara-se-para-marcha-de-coletes-amarelos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:49:30+00:00",
-      "summary": "Em Atenas, os estudantes instalaram tendas em frente ao parlamento num protesto simbólico",
-      "category": "Economia"
-    },
-    {
-      "title": "VÍDEOS: Jornal Anhanguera 1ª Edição de quarta-feira, 21 de outubro de 2026",
-      "url": "https://g1.globo.com/go/goias/edicao/2026/10/21/videos-jornal-anhanguera-1-edicao-de-quarta-feira-21-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:48:28+00:00",
-      "summary": "Veja os vídeos do Jornal Anhanguera 1ª Edição de quarta-feira, 21 de outubro de 2026.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sporting vence LASK e soma primeiro triunfo na Youth League",
-      "url": "https://www.rtp.pt/noticias/sporting/sporting-vence-lask-e-soma-primeiro-triunfo-na-youth-league_d1773283",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:48:01+00:00",
-      "summary": "O Sporting alcançou a primeira vitória na fase de liga da UEFA Youth League de futebol ao vencer por 2-1 o LASK Linz, em Alcochete, em jogo da terceira jornada resolvido com golos de Salvador Blopa e Rafael Camacho.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Alagoas leva 16 marcas ao maior salão de negócios da moda da América Latina em Minas Gerais",
-      "url": "https://g1.globo.com/al/alagoas/noticia/2026/10/21/alagoas-leva-16-marcas-ao-maior-salao-de-negocios-da-moda-da-america-latina-em-minas-gerais.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:47:56+00:00",
-      "summary": "16 marcas de AL participam do maior salão de negócios de moda da América Latina Dezesseis marcas alagoanas participam da 36ª edição do Minas Trend, considerado o maior salão de negócios da moda da América Latina, realizado em Belo Horizonte (MG). Entre os representantes do estado está o produtor de moda Anísio Lima, qu",
-      "category": "Cultura"
-    },
-    {
-      "title": "Flávio diz que aceita desafio de Lula de abrir sigilos, mas impõe condições",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-vai-aceitar-desafio-de-lula-sobre-quebra-de-sigilos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:47:41+00:00",
-      "summary": "Lula propôs o desafio ao candidato do PL durante o primeiro debate presidencial do segundo turno; petista autorizou a liberação de seus dados bancários, fiscais e telefônicos, desde que o senador faça o mesmo",
-      "category": "Política"
-    },
-    {
-      "title": "12 detidos por tráfico de droga em Lamego e Tarouca",
-      "url": "https://observador.pt/2026/10/21/gnr-detem-12-pessoas-por-trafico-de-droga-em-lamego-e-tarouca-apos-investigacao-de-mais-de-um-ano/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:47:27+00:00",
-      "summary": "O Núcleo de Investigação Criminal (NIC) de Lamego deteve esta quarta-feira \"oito homens, com idades compreendidas entre os 32 e os 66 anos, e quatro mulheres, com idades compreendidas entre os 35 e os 56 anos\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cirurgia inédita reconstrói clitóris após câncer de vulva; entenda",
-      "url": "https://www.cnnbrasil.com.br/saude/cirurgia-inedita-reconstroi-clitoris-apos-cancer-de-vulva-entenda/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:47:00+00:00",
-      "summary": "Após 40 anos de reconstrução peniana, procedimento feito na Holanda reconstrói clitóris em mulheres; prazer sexual costuma acontecer em até seis meses após a operação",
-      "category": "Mundo"
-    },
-    {
-      "title": "PSP avisa: “Se limites forem violados, vai intervir”",
-      "url": "https://observador.pt/2026/10/21/manifestantes-pedem-tendas-no-rossio-psp-avisa-que-se-os-limites-voltarem-a-ser-violados-vai-intervir/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:46:11+00:00",
-      "summary": "A aposta é na \"mediação\" com os manifestantes. Nas redes sociais, movimentos convocam novo acampamento para Lisboa, mas PSP avisa que \"limites\" têm de ser respeitados e não vai permitir tendas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ditado popular que diz que “a pressa é inimiga da perfeição” foi usado pela primeira vez no início do século XX por jurista baiano; relembre origem",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/ditado-popular-que-diz-que-a-pressa-e-inimiga-da-perfeicao-foi-usado-pela-primeira-vez-no-inicio-do-seculo-xx-por-jurista-baiano-relembre-origem/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:46:10+00:00",
-      "summary": "Expressão foi usada em 1903 para \"alfinetar\" o governo pelo curto espaço de tempo em que o Código Civil brasileiro era redigido na época",
-      "category": "Política"
-    },
-    {
-      "title": "Governo aprova novo plano para consolidar e expandir presença do lince-ibérico",
-      "url": "https://www.rtp.pt/noticias/pais/governo-aprova-novo-plano-para-consolidar-e-expandir-presenca-do-lince-iberico_n1773264",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:46:06+00:00",
-      "summary": "O Governo aprovou um novo plano para a conservação do lince-ibérico, de cinco milhões de euros, que reforça as medidas de proteção e a recuperação de habitats e propicia a expansão pelo território.",
-      "category": "Política"
-    },
-    {
-      "title": "Ferencváros enaltece feito do Torreense e espera adversário a jogar “recuado”",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/ferencvaros-enaltece-feito-do-torreense-e-espera-adversario-a-jogar-recuado_d1773282",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:45:14+00:00",
-      "summary": "O treinador do Ferencváros e o jogador Ádám Nagy destacaram a “bonita história” escrita pelo Torreense, antecipando um adversário a jogar “recuado” em partida da terceira jornada da fase de liga da Liga Europa de futebol.",
-      "category": "Economia"
-    },
-    {
-      "title": "Justiça torna réus 12 denunciados por queda de avião da Voepass em SP",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-torna-reus-12-denunciados-por-queda-de-aviao-da-voepass-em-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T16:44:41+00:00",
-      "summary": "Acusados responderão pelos crimes de atentado contra a segurança do transporte aéreo e sinistro em transporte aéreo; acidente deixou 62 mortos em agosto de 2024",
-      "category": "Mundo"
-    },
-    {
-      "title": "Operação da SATA regista constrangimentos devido a greve",
-      "url": "https://observador.pt/2026/10/21/operacao-da-sata-regista-alguns-constrangimentos-devido-a-greve-no-handling/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:41:57+00:00",
-      "summary": "A greve decorrerá diariamente entre as 07h30 e as 10h30 (horas locais)",
-      "category": "Mundo"
-    },
-    {
-      "title": "Brasil prepara emissão de dívida de 1,5 mil milhões na China",
-      "url": "https://observador.pt/2026/10/21/brasil-prepara-primeira-emissao-de-divida-publica-na-china-ate-15-mil-milhoes-de-dolares-e-eleicoes-podem-ditar-o-futuro-do-plano/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:40:47+00:00",
-      "summary": "Já uma reeleição de Lula da Silva provavelmente reforçaria os esforços para aprofundar os laços financeiros com Pequim",
-      "category": "Política"
-    },
-    {
-      "title": "PS tenta roubar descontentamento ao Chega, mas com cautela",
-      "url": "https://observador.pt/especiais/habitacao-tirar-eleitores-a-ventura-sem-ir-atras-da-rua-o-desafio-do-ps-de-carneiro/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:30:40+00:00",
-      "summary": "Com protestos pela habitação na rua e o OE em debate, o PS tenta equilibrar oposição ao Governo e imagem responsável (com mais um apelo a entendimento). Comissão Política reúne-se esta quarta-feira.",
-      "category": "Política"
-    },
-    {
-      "title": "17h. PR chama todos os partidos com assento a Belém",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2314/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:19:06+00:00",
-      "summary": "As audiências vão ser sobre coesão social e vão decorrer de forma individual no dia 29 de outubro. Ainda, o Presidente ucraniano aceitaria um acordo de paz que congelasse a guerra nas linhas da frente",
-      "category": "Política"
-    },
-    {
-      "title": "Mesmo sem expandir, Lisboa terá nova torre de controlo",
-      "url": "https://observador.pt/2026/10/21/nav-avanca-com-nova-torre-de-controlo-aereo-em-lisboa-mesmo-que-expansao-do-aeroporto-trave-na-avaliacao-ambiental/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-21T16:15:21+00:00",
-      "summary": "Pedro Ângelo, presidente da NAV, prevê iniciar obras para a nova torre de controlo no aeroporto de Lisboa em 2027",
-      "category": "Política"
-    },
-    {
-      "title": "Metrô de São Paulo amplia uso do Pix no autoatendimento",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/metro-de-sao-paulo-amplia-uso-do-pix-no-autoatendimento",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T15:53:00+00:00",
-      "summary": "As máquinas de autoatendimento do metrô de São Paulo já estão aceitando o Pix como forma de pagamento. A nova modalidade de pagamento passou a ser aceita nesta terça-feira (20), inicialmente, apenas para a Linha 1-Azul. A funcionalidade será ampliada para usuários de outras linhas nos próximos dias, o que exige que os ",
-      "category": "Cultura"
-    },
-    {
-      "title": "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quedas-mais-de-330-mil-criancas-foram-internadas-no-brasil-em-10-anos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T15:36:00+00:00",
-      "summary": "Apenas no primeiro semestre de 2026, quase 15 mil crianças com menos de 10 anos foram internadas após acidentes envolvendo quedas. Entre 2016 e 2025, esse número soma 330 mil internações – média de 33 mil casos por ano. Os dados constam de levantamento da Sociedade Brasileira de Pediatria (SBP) a partir de registros do",
-      "category": "Mundo"
-    },
-    {
-      "title": "Pediatras alertam para riscos de brinquedos com IA",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/pediatras-alertam-para-riscos-de-brinquedos-com-ia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T14:48:00+00:00",
-      "summary": "Brinquedos que conversam com a criança, que são capazes de memorizar o que ela gosta e que até mesmo respondem com palavras de carinho e empatia fazem parte da realidade de boa parte das famílias no Brasil e no mundo e exigem olhar atento por parte de pais e responsáveis. Diante do avanço da inteligência artificial (IA",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Emissão líquida de poluentes no país cai ao menor nível desde 2012",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/emissao-liquida-de-poluentes-no-pais-cai-ao-menor-nivel-desde-2012",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T14:00:00+00:00",
-      "summary": "O Brasil emitiu, em 2025, 1,41 bilhão de toneladas líquidas de CO2 equivalente (GtCO2e) em gases do efeito estufa. O valor significa uma redução de 9% em relação aos 1,489 bilhão de toneladas líquidos de gás carbônico equivalente emitidos em 2024 , levando o país a atingir o menor valor líquido desde 2012. Sem consider",
-      "category": "Mundo"
-    },
-    {
-      "title": "Movimento Vovó Vota defende consciência cidadã contra abstenção",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/movimento-vovo-vota-defende-consciencia-cidada-contra-abstencao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T13:54:00+00:00",
-      "summary": "Na paisagem rural da comunidade maranhense de Ludovico, cidade de Lago do Junco a 300 quilômetros de São Luís, a quebradeira de coco babaçu Maria Alaídes Alves de Souza, de 71 anos, caminhou 600 metros para votar no primeiro turno das eleições, em 4 de outubro. Para conscientizar outras idosas sobre a importância de vo",
-      "category": "Política"
-    },
-    {
-      "title": "ONU: El Niño pode ser o mais forte dos últimos 40 anos",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/onu-el-nino-pode-ser-o-mais-forte-dos-ultimos-40-anos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-21T13:49:00+00:00",
-      "summary": "O El Niño pode ter intensidade sem precedentes e ultrapassar os padrões observados nas últimas quatro décadas, afirmou nesta quarta-feira (21) a diretora da agência meteorológica das Nações Unidas. O El Niño deve levar uma onda de calor para algumas regiões e abalar os padrões de chuva, provocando seca severa, enquanto",
+      "publishedAt": "2026-10-21T20:33:34+00:00",
+      "summary": "A previsão de chuva do IPMA para este inverno: ligeiramente superior ao ano passado (o mapa é relativo a janeiro de 2027)",
       "category": "Clima"
     },
     {
-      "title": "Entidades divulgam manifesto pela valorização do serviço público",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/entidades-divulgam-manifesto-pela-valorizacao-do-servico-publico",
-      "source": "Agência Brasil",
+      "title": "Morte Lua Blanco: alimentação ruim está ligada ao câncer de intestino",
+      "url": "https://www.cnnbrasil.com.br/saude/morte-lua-blanco-alimentacao-ruim-esta-ligada-ao-cancer-de-intestino/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-21T13:44:00+00:00",
-      "summary": "Às vésperas do segundo turno das eleições gerais , dezenas de entidades representativas de servidores públicos federais divulgaram manifesto para alertar quanto à polaridade de propostas que se apresentam ao país no próximo domingo (25). Dois projetos de Estado profundamente distintos estão em disputa: um de esquerda e",
+      "publishedAt": "2026-10-21T20:31:41+00:00",
+      "summary": "Conhecido também como colorretal, doença causou à morte da atriz Lua Blanco, de 39 anos",
+      "category": "Saúde"
+    },
+    {
+      "title": "Estudantes recusam descongelamento e querem fim das propinas",
+      "url": "https://observador.pt/2026/10/21/e-quase-um-crime-social-estudantes-do-ensino-superior-recusam-descongelamento-e-pedem-mesmo-o-fim-das-propinas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:30:33+00:00",
+      "summary": "Estudantes, reunidos junto à sede do Governo, gritaram palavras de ordem contra o descongelamento das propinas e o que consideram ser o desinvestimento no ensino superior. Dia 18 há novo protesto.",
       "category": "Política"
     },
     {
-      "title": "Governo destina R$ 6,49 bilhões a setor de exportação",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-destina-r-649-bilhoes-setor-de-exportacao",
-      "source": "Agência Brasil",
+      "title": "Análise: Ala do STF pode restringir canais de WhatsApp antes das eleições",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/analise-ala-do-stf-pode-restringir-canais-de-whatsapp-antes-das-eleicoes/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-21T13:36:00+00:00",
-      "summary": "O governo federal abriu crédito extraordinário no valor de R$ 6,49 bilhões para financiar pessoas físicas e empresas exportadoras de bens e serviços que fazem parte do Plano Brasil Soberano . A autorização faz parte da Medida Provisória nº 1.397 , publicada nesta quarta-feira (21) no Diário Oficial da União . Notícias ",
+      "publishedAt": "2026-10-21T20:27:32+00:00",
+      "summary": "Discussão no TSE sobre suspensão de canais nas 48 horas antes do pleito provoca tensão com uma ala do Supremo Tribunal Federal; o analista de Política da CNN Matheus Teixeira explica o tema ao CNN 360°",
       "category": "Política"
     },
     {
-      "title": "Leão XIV sobe ao papamóvel pela primeira vez desde cirurgia de câncer",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/leao-xiv-sobe-ao-papamovel-pela-primeira-vez-desde-cirurgia-de-cancer",
-      "source": "Agência Brasil",
+      "title": "Cinco pessoas são denunciadas por sequestrar, amarrar e agredir homem em 'tribunal do crime' em Viana",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/21/cinco-pessoas-sao-denunciadas-por-sequestrar-amarrar-e-agredir-homem-em-tribunal-do-crime-em-viana.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-21T13:26:00+00:00",
-      "summary": "O papa Leão voltou à Praça de São Pedro nesta quarta-feira (21), acenando para os peregrinos e abençoando bebês em seu papamóvel aberto, enquanto realizava sua primeira audiência geral no Vaticano desde que passou por uma cirurgia de câncer de pulmão, há oito dias. O pontífice, de 71 anos, que prometeu no domingo (18) ",
+      "publishedAt": "2026-10-21T20:24:19+00:00",
+      "summary": "Julio Cesar Jordão Moté, Manrik da Silva, Regis do Rosário Silva, Marcos Antonio Alves de Oliveira est Polícia Civil Cinco homens foram denunciados pelo Ministério Público por sequestrar, agredir e manter um homem de 28 anos amarrado durante um julgamento do chamado \"tribunal do crime\", no bairro Bom Pastor, em Viana, ",
       "category": "Mundo"
     },
     {
-      "title": "Defesa Civil recebe R$ 300 milhões em crédito extraordinário",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/defesa-civil-recebe-r-300-milhoes-em-credito-extraordinario",
+      "title": "Marçal fica fora da preparação de Flávio Bolsonaro para debate da Globo",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/marcal-fica-fora-da-preparacao-de-flavio-bolsonaro-para-debate-da-globo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:24:15+00:00",
+      "summary": "Aliados da campanha pedem postura mais contida no debate da Globo e orientam que Flávio seja \"menos Pablo Marçal\"; apuração é do analista Pedro Venceslau no CNN 360°",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dois homens são presos suspeitos de jogar lixo irregularmente perto de cemitério em Belém",
+      "url": "https://g1.globo.com/pa/para/noticia/2026/10/21/dois-homens-sao-presos-suspeitos-de-jogar-lixo-irregularmente-perto-de-cemiterio-em-belem.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:23:37+00:00",
+      "summary": "Dois homens foram presos em flagrante suspeitos de descartar lixo irregularmente nas proximidades do Cemitério Santa Izabel, no bairro do Guamá, em Belém, na terça-feira (20). Segundo a Guarda Municipal, os suspeitos tentaram fugir ao perceber a chegada dos agentes. A ocorrência começou após fiscais da Secretaria Munic",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quaest: no DF, Flávio tem 50% das intenções de voto; Lula, 39%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-no-df-flavio-tem-50-das-intencoes-de-voto-lula-39/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:22:49+00:00",
+      "summary": "Instituto entrevistou 1.104 eleitores, entre os dias 17 e 20 de outubro, por meio de entrevista presencial; margem de erro é de 3 pontos percentuais, para mais ou para menos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Suprema Corte dos EUA mantém acesso de presos transgênero a tratamentos",
+      "url": "https://www.cnnbrasil.com.br/internacional/suprema-corte-dos-eua-mantem-acesso-de-presos-transgenero-a-tratamentos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:22:46+00:00",
+      "summary": "Medida do governo de Donald Trump visava suspender terapia hormonal e outros procedimentos em prisões federais; ação é vista como rara derrota para a Casa Branca",
+      "category": "Política"
+    },
+    {
+      "title": "Mães cobram transparência da Prefeitura de Boa Vista na seleção do Minha Casa, Minha Vida",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/21/maes-cobram-transparencia-da-prefeitura-de-boa-vista-na-selecao-do-minha-casa-minha-vida.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:22:41+00:00",
+      "summary": "Famílias cobram esclarecimentos sobre seleção de moradias Mães de famílias inscritas no programa Minha Casa, Minha Vida fizeram um protesto na sede da Prefeitura de Boa Vista, nesta quarta-feira (21), para cobrar transparência no processo de seleção dos beneficiários de unidades habitacionais. Manifestantes disseram qu",
+      "category": "Esportes"
+    },
+    {
+      "title": "EPTV 2 Piracicaba ao vivo",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-2-piracicaba-ao-vivo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:22:39+00:00",
+      "summary": "EPTV 2 Piracicaba ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Quaest no DF: Celina Leão tem 50% no 2º turno; Leandro Grass, 35%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-no-df-celina-leao-tem-50-no-2o-turno-leandro-grass-35/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:21:51+00:00",
+      "summary": "Foram ouvidas 1.104 pessoas entre os dias 17 e 20 de outubro; margem de erro é de três pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+      "category": "Mundo"
+    },
+    {
+      "title": "Alemanha considera ameaça russa de sabotagem \"significativa\"",
+      "url": "https://observador.pt/2026/10/21/alemanha-eleva-nivel-de-ameaca-de-sabotagem-russa-a-instalacoes-militares-apos-queda-de-drone-perto-de-base-aerea/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:20:55+00:00",
+      "summary": "A Alemanha é um dos principais países europeus que prestam assistência militar à Ucrânia",
+      "category": "Economia"
+    },
+    {
+      "title": "Corpo de homem que estava desaparecido em prainha é localizado no interior de SP",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/21/corpo-de-homem-que-estava-desaparecido-em-prainha-e-localizado-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:20:28+00:00",
+      "summary": "Homem de 47 anos é encontrado sem vida após desaparecer em prainha no interior de SP Reprodução/Redes Sociais O corpo do homem que havia desaparecido no domingo (18) em uma prainha de Itajobi (SP) foi localizado nesta terça-feira (20). A vítima, Ozanio Bastos dos Santos, de 47 anos, foi encontrada sem vida por agentes ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Estudo mostra que exame de ondas cerebrais detecta sinais de Alzheimer",
+      "url": "https://www.cnnbrasil.com.br/saude/estudo-mostra-que-exame-de-ondas-cerebrais-detecta-sinais-de-alzheimer/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:20:23+00:00",
+      "summary": "Segundo o estudo, por exame de EEG é possível identificar biomarcadores de sinais de risco de Alzheimer, mesmo antes da manifestação de sintomas de declínio cognitivo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Justiça determina que municípios do Ceará ofertem transporte gratuito a eleitores no 2º turno",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/21/justica-determina-que-municipios-do-ceara-ofertem-transporte-gratuito-a-eleitores-no-2o-turno.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:19:59+00:00",
+      "summary": "A Defensoria explicou que a medida é direcionada especialmente a municípios que não apresentaram informações suficientes sobre a disponibilidade em ofertar o serviço. Cid Barbosa/SVM n A Justiça do Ceará acolheu um pedido apresentado pela Defensoria Pública da União (DPU) e determinou que os municípios de Aiuaba e Arne",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Arqueológos encontram moeda em cima de túmulo de criança romana e sugerem que objeto seria a porta de entrada para o submundo",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/arqueologos-encontram-moeda-em-cima-de-tumulo-de-crianca-romana-e-sugerem-que-objeto-seria-a-porta-de-entrada-para-o-submundo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:17:37+00:00",
+      "summary": "Romanos costumavam colocar uma moeda em cima das sepulturas para pagar o barqueiro que transportaria suas almas para o mundo inferior",
+      "category": "Mundo"
+    },
+    {
+      "title": "MPT abre investigação sobre assédio eleitoral em padaria de Cuiabá",
+      "url": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/10/21/mpt-abre-investigacao-sobre-assedio-eleitoral-em-padaria-de-cuiaba.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:17:07+00:00",
+      "summary": "Padaria América, em Cuiabá Reprodução O Ministério Público do Trabalho em Mato Grosso (MPT-MT) investiga uma denúncia contra o proprietário da Padaria América, em Cuiabá, por assédio eleitoral. Segundo o documento, ele teria chamado funcionários individualmente e dito que o estabelecimento iria “quebrar” caso eles não ",
+      "category": "Mundo"
+    },
+    {
+      "title": "J.K. Rowling diz que sofreu ameaças de morte, estupro e tortura, após escrever textos transfóbicos",
+      "url": "https://g1.globo.com/pop-arte/noticia/2026/10/21/jk-rowling-diz-que-sofreu-ameacas-de-morte-estupro-e-tortura-apos-escrever-textos-transfobicos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:16:54+00:00",
+      "summary": "J.K. Rowling durante a pré-estreia de 'Animais Fantásticos, em 2018, em Londres Joel C Ryan/Invision/AP J.K. Rowling fez um novo texto sobre suas posições políticas, seis anos após ser criticada por fazer comentários transfóbicos nas redes sociais. Na nova postagem, feita em seu site, a autora da série de livros \"Harry",
+      "category": "Cultura"
+    },
+    {
+      "title": "Diddy está em uma nova prisão em regime semiaberto, diz site",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/sean-diddy-estaria-em-uma-nova-prisao-em-regime-semiaberto-diz-site/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:16:23+00:00",
+      "summary": "Rapper deixa unidade em Nova Jersey e passa a cumprir pena na Pensilvânia em regime junto com a população carcerária geral",
+      "category": "Mundo"
+    },
+    {
+      "title": "Putin admite negociações de paz com a Ucrânia em novembro",
+      "url": "https://observador.pt/programas/a-guerra-traduzida/putin-admite-negociacoes-de-paz-com-a-ucrania-em-novembro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:16:09+00:00",
+      "summary": "Moscovo admite retomar negociações com Kiev e Washington em Abu Dhabi. Putin oferece ajuda para resolver conflito com o Irão e a Rússia prepara o envio do primeiro petroleiro com gasóleo para os EUA.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Farmácias reencaminham reativos de VIH para o SNS",
+      "url": "https://observador.pt/2026/10/21/uls-e-farmacias-definem-referenciacao-para-cuidados-de-saude-apos-rastreios/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:14:35+00:00",
+      "summary": "\"O objetivo é reduzir as barreiras que podem interromper o percurso entre a realização do teste, o diagnóstico e o tratamento\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Praga de ratos encerra duas USF em Ílhavo",
+      "url": "https://observador.pt/2026/10/21/praga-de-ratos-fecha-duas-unidades-de-saude-na-gafanha-da-nazare-ate-sexta-feira/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:14:12+00:00",
+      "summary": "Por precaução, e para salvaguardar a segurança de utentes e profissionais, a ULSRA diz que as instalações vão manter-se encerradas até sexta-feira, quando será realizada uma nova avaliação da situação",
+      "category": "Mundo"
+    },
+    {
+      "title": "Zelensky admite congelar guerra nas atuais linhas da frente",
+      "url": "https://observador.pt/programas/a-guerra-traduzida/zelensky-admite-congelar-guerra-nas-atuais-linhas-da-frente/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:14:09+00:00",
+      "summary": "Ucrânia e Rússia aceitam proposta dos EUA para retomar negociações de paz. Zelensky admite \"congelar\" a guerra nas atuais linhas da frente. Ainda, Washington retoma a partilha de informações com Kiev.",
+      "category": "Mundo"
+    },
+    {
+      "title": "'Foi desesperador': testemunha relata pânico e carros na contramão durante operação da PM com mortes em Ribeirão Preto",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/21/foi-desesperador-testemunha-relata-panico-e-carros-na-contramao-durante-operacao-da-pm-com-mortes-em-ribeirao-preto.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:13:08+00:00",
+      "summary": "Suspeitos de integrar facção são mortos a tiros pela PM em SP; testemunha relata desespero Uma comerciante que passava pela Avenida Eduardo Andrea Matarazzo (Via Norte), em Ribeirão Preto (SP), vivenciou momentos de pânico durante uma abordagem da Polícia Militar com tiros que resultou na morte de dois suspeitos de int",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mundial de Ginástica: Brasil fica fora do pódio por equipes; China é campeã",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/mundial-de-ginastica-brasil-fica-fora-do-podio-por-equipes-china-e-campea/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:13:08+00:00",
+      "summary": "Equipe brasileira foi melhor na final do que na classificação, subiu três posições e terminou em quinto lugar; EUA e Japão fecham pódio",
+      "category": "Mundo"
+    },
+    {
+      "title": "Homem é preso suspeito de roubar carro, agredir e estuprar mulher no interior de SP",
+      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/21/homem-e-preso-suspeito-de-roubar-carro-agredir-e-estuprar-mulher-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:12:35+00:00",
+      "summary": "Delegacia de Paranapanema (SP) Reprodução/Polícia Civil Um homem de 25 anos foi preso em flagrante suspeito de roubar dinheiro e um carro, agredir uma mulher e estuprá-la em Paranapanema (SP). O caso ocorreu no sábado (17), e o suspeito também é investigado por danificar viaturas policiais durante a abordagem. Segundo ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Marco Rubio diz que não haveria Ucrânia sem os Estados Unidos",
+      "url": "https://www.cnnbrasil.com.br/internacional/marco-rubio-diz-que-nao-haveria-ucrania-sem-os-estados-unidos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:12:21+00:00",
+      "summary": "Secretário de Estado dos Estados Unidos declarou que Washington \"não vai mais se colocar na defensiva\" sobre a assistência americana à Ucrânia",
+      "category": "Mundo"
+    },
+    {
+      "title": "Maconha, cocaína e haxixe são apreendidos em operação contra o tráfico em Porciúncula; dois suspeitos foram presos",
+      "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/21/maconha-cocaina-e-haxixe-sao-apreendidos-em-operacao-contra-o-trafico-em-porciuncula-dois-suspeitos-foram-presos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:10:29+00:00",
+      "summary": "Operação apreende drogas e prende suspeitos Maconha, cocaína, haxixe, balanças de precisão e outros materiais foram apreendidos nesta terça-feira (20), no bairro Olívia Pérez Moreira, em Porciúncula, no Noroeste Fluminense, durante uma operação conjunta contra o tráfico de drogas. Os cinco suspeitos foram encaminhados ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quaest no DF: 34% avaliam gestão Celina Leão como positiva e 25%, como negativa",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-avaliacao-governo-celina-21-outubro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T20:07:43+00:00",
+      "summary": "Michelle Bolsonaro (PL), Celina Leão (PP) e Bia Kicis (PL) TV Globo/Reprodução Pesquisa Quaest divulgada nesta quarta-feira (21) mostra como está a avaliação do governo Celina Leão (PP). ➡️ A atual governadora assumiu o cargo em março deste ano – até então, era vice de Ibaneis Rocha (MDB). Ibaneis deixou o governo do D",
+      "category": "Política"
+    },
+    {
+      "title": "21h. O PS faz novo apelo para que lei das rendas não avance",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1793/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:04:33+00:00",
+      "summary": "Carneiro quer também que o Governo se junte ao PS para viabilizar uma garantia pública que facilite o cumprimento das obrigações com as rendas e ofereça uma maior segurança aos proprietários.",
+      "category": "Política"
+    },
+    {
+      "title": "Cerca de 200 manifestantes reunidos em Braga pela habitação",
+      "url": "https://observador.pt/2026/10/21/assembleia-popular-em-braga-junta-cerca-de-duas-centenas-para-ouvir-e-decidir-sobre-habitacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T20:01:20+00:00",
+      "summary": "Assembleia popular está a decorrer na Praça da República, no centro de Braga",
+      "category": "Mundo"
+    },
+    {
+      "title": "STF decide que ISS não integra base de cálculo do PIS/Cofins",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-decide-que-iss-nao-integra-base-de-calculo-do-piscofins",
       "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-21T12:07:00+00:00",
-      "summary": "Ações de defesa civil no país terão reforço de R$ 300 milhões para gestão de riscos e desastres. Medida provisória publicada nesta quarta-feira (21) abre crédito extraordinário em nome do Ministério da Integração e do Desenvolvimento Regional. Segundo a MP n° 1.398, os recursos serão aplicados no programa Gestão de Ris",
+      "publishedAt": "2026-10-21T19:56:00+00:00",
+      "summary": "O plenário do Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (21) que o Imposto Sobre Serviços de Qualquer Natureza (ISS) não integra a base de cálculo do PIS e da Cofins. A decisão terá impacto de R$ 35 bilhões nas contas do governo federal . Por maioria de votos, os ministros encerraram o julgamento de uma",
+      "category": "Política"
+    },
+    {
+      "title": "Detido por abusar da enteada de 9 anos na Mêda",
+      "url": "https://observador.pt/2026/10/21/detido-na-meda-por-abusar-sexualmente-da-enteada-de-9-anos-enquanto-mae-e-irmao-dormiam/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T19:49:28+00:00",
+      "summary": "A menor foi, por decisão judicial, afastada e protegida de uma eventual continuidade dos abusos",
+      "category": "Mundo"
+    },
+    {
+      "title": "ONU aponta falta de isenção da Meta em eleição brasileira",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/onu-aponta-falta-de-isencao-da-meta-em-eleicao-brasileira",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T19:47:00+00:00",
+      "summary": "Especialistas das Organizações das Nações Unidas (ONU) assinaram uma carta em que apontam restrições à liberdade de expressão em plataformas como Instagram, Facebook e WhatsApp, todas da empresa Meta, nas eleições brasileiras em 2026. Eles disseram que os observadores internacionais que participaram das eleições detect",
+      "category": "Política"
+    },
+    {
+      "title": "Justiça torna réus 12 denunciados por queda de avião da Voepass",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-torna-reus-12-denunciados-por-queda-de-aviao-da-voepass",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T19:47:00+00:00",
+      "summary": "A Justiça Federal aceitou a denúncia do Ministério Público Federal (MPF) e tornou réus 12 integrantes da Voepass por envolvimento na queda do avião da empresa . O acidente ocorreu em agosto de 2024, em Vinhedo, no interior paulista, e matou 62 pessoas. Os réus vão responder pelos crimes de atentado contra a segurança d",
+      "category": "Economia"
+    },
+    {
+      "title": "Municípios querem ajudar Estado a aumentar habitação pública",
+      "url": "https://observador.pt/2026/10/21/municipios-disponiveis-para-ajudar-estado-a-aumentar-oferta-de-habitacao-publica/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-21T19:46:35+00:00",
+      "summary": "Pedro Pimpão falou à Lusa esta quarta-feira, no final de uma reunião do Conselho Diretivo da Associação Nacional de Municípios Portugueses (ANMP), em Mourão, no distrito de Évora",
+      "category": "Mundo"
+    },
+    {
+      "title": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/negacionismo-impulsiona-sarampo-nos-eua-e-representa-ameaca-ao-brasil",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T18:40:00+00:00",
+      "summary": "Mudanças recentes no calendário vacinal dos Estados Unidos, impulsionadas por discursos antivacinação do governo Donald Trump, ajudam a explicar por que o país está passando pelo pior surto de sarampo em mais de três décadas . Mais de 4,4 mil casos já foram confirmados este ano, com três mortes. Entre os infectados, 98",
+      "category": "Política"
+    },
+    {
+      "title": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T17:41:00+00:00",
+      "summary": "Com o aumento da demanda de atendimento em saúde em razão dos incêndios florestais na região, começou a funcionar em Manaus uma base regional da Força Nacional do SUS. Segundo a última atualização da Fundação de Vigilância em Saúde do Amazonas, desde que a fumaça dos incêndios florestais começou a afetar a população, n",
+      "category": "Saúde"
+    },
+    {
+      "title": "Importações para pesquisa pública terão imunidade tributária",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/importacoes-para-pesquisa-publica-terao-imunidade-tributaria",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T17:41:00+00:00",
+      "summary": "O Ministério da Fazenda anunciou nesta quarta-feira (21) medidas para assegurar a aplicação da imunidade tributária prevista na Constituição nas importações para projetos de universidades públicas, institutos federais e instituições públicas de ciência, tecnologia e inovação. De acordo com o ministério, equipamentos, s",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Democracia exige que perdedor respeite as regras do jogo, diz Fachin",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/democracia-exige-que-perdedor-respeite-regras-do-jogo-diz-fachin",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T17:19:00+00:00",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, afirmou nesta quarta-feira (21) que o Estado Democrático de Direito exige “lealdade às regras do jogo, inclusive por parte de quem perde”. O ministro discursou na abertura de um seminário realizado no STF sobre o papel dos tribunais constitucionais. Em sua f",
+      "category": "Política"
+    },
+    {
+      "title": "TSE estuda desativar canais políticos no WhatsApp 48h antes da eleição",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-estuda-desativar-canais-politicos-no-whatsapp-48h-antes-da-eleicao",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T16:51:00+00:00",
+      "summary": "Uma minuta de resolução do Tribunal Superior Eleitoral (TSE) prevê que canais de WhatsApp com teor político e mais de 200 mil seguidores sejam desativados nas 48 horas anteriores e 24 horas posteriores ao segundo turno da eleição, marcado para o próximo domingo (25). Caso aprovada pelo plenário do TSE, a medida entrari",
+      "category": "Política"
+    },
+    {
+      "title": "Governo envia ao Congresso proposta de tarifa zero no transporte",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/governo-envia-ao-congresso-proposta-de-tarifa-zero-no-transporte",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T16:49:00+00:00",
+      "summary": "O governo federal enviou ao Congresso Nacional nesta quarta-feira (21) proposta de emenda à Constituição (PEC) que destina recursos de emendas parlamentares impositivas para o custeio da gratuidade dos serviços de transporte público coletivo urbano ou de caráter urbano, com potencial para financiar a tarifa zero aos fi",
+      "category": "Política"
+    },
+    {
+      "title": "Procon paulistano multa Enel por falhas no fornecimento de energia",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/procon-paulistano-multa-enel-por-falhas-no-fornecimento-de-energia",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-21T16:43:00+00:00",
+      "summary": "O Procon Paulistano, órgão vinculado à Secretaria de Justiça da prefeitura de São Paulo, multou a concessionária de energia Enel em R$ 11,4 milhões por problemas no fornecimento de energia elétrica na capital paulista ocorridos no ano passado. A medida foi publicada no Diário Oficial da cidade de São Paulo desta quarta",
       "category": "Mundo"
     }
   ],
