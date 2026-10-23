@@ -1,167 +1,473 @@
 {
-  "updatedAt": "2026-10-23T01:27:20.263051+00:00",
+  "updatedAt": "2026-10-23T07:26:28.004289+00:00",
   "items": [
     {
-      "title": "1h Movimento pela habitação em Lisboa decidiu não pernoitar no Rossio esta noite",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-movimento-pela-habitacao-em-lisboa-decidiu-nao-pernoitar-no-rossio-esta-noite_a1_1773633",
+      "title": "08h Falta espírito de sacrifício diz o presidente do IHRU",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/08h-falta-espirito-de-sacrificio-diz-o-presidente-do-ihru_a1_1773669",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-23T01:36:02+00:00",
+      "publishedAt": "2026-10-23T08:20:04+00:00",
       "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Candidatos ao governo do TO começam a chegar para debate do 2º turno na TV Anhanguera",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/debate-professora-dorinha-vicentinho-junior-governo-tocantins.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T01:26:06+00:00",
-      "summary": "Candidatos ao governo do TO começam a chegar para debate do 2º turno na TV Anhanguera Programa está previsto para iniciar às 22h37 desta quinta-feira (22) e será transmitido ao vivo também pelo g1 TO. A TV Anhanguera realiza nesta quinta-feira (22) o debate do 2º turno das eleições para o governo do Tocantins.. Foram c",
       "category": "Política"
     },
     {
-      "title": "Apoiadores do presidente Lula, candidato à reeleição pelo PT, vão para as ruas",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/apoiadores-do-presidente-lula-candidato-a-reeleicao-pelo-pt-vao-para-as-ruas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T01:23:29+00:00",
-      "summary": "Apoiadores do presidente Lula, candidato à reeleição pelo PT, foram pras ruas Os dois candidatos à Presidência da República não tiveram agenda pública de campanha nesta quina-feira (22). O presidente Lula, candidato à reeleição pelo PT, ficou em Brasília. Apoiadores dele foram para as ruas em cidades do país. 📱Favorite",
-      "category": "Política"
-    },
-    {
-      "title": "Polícia investiga suspeita de estelionato envolvendo cantora contratada para casamentos em São Luís",
-      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/22/policia-investiga-suspeita-de-estelionato-envolvendo-cantora-contratada-para-casamentos-em-sao-luis.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T01:21:46+00:00",
-      "summary": "Cantora e empresa de eventos são alvo de denúncias A Polícia Civil do Maranhão investiga uma suspeita de estelionato envolvendo a contratação de uma cantora para um casamento. A denúncia foi feita por um casal que afirma ter pago R$ 2.475 à empresa Eternizando Eventos, de Isadora Fontenele Feijó Barbosa, mas decidiu ca",
+      "title": "Brent ultrapassa os 114 dólares, o valor mais alto desde abril",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/brent-ultrapassa-os-114-dolares-o-valor-mais-alto-desde-abril_n1773667",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T08:19:15+00:00",
+      "summary": "O preço do barril de petróleo Brent para entrega em dezembro mantém hoje a tendência de alta, subindo 0,7% e ultrapassando os 114 dólares, valor mais elevado desde o final de abril.",
       "category": "Economia"
     },
     {
-      "title": "Candidato ao governo do Acre, Alan Rick (Republicanos) é entrevistado na Rede Amazônica",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/candidato-ao-governo-do-acre-alan-rick-republicanos-e-entrevistado-na-rede-amazonica.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T01:16:20+00:00",
-      "summary": "Candidato ao governo do Acre, Alan Rick (Republicanos) é entrevistado na Rede Amazônica g1 acompanha ao vivo a sabatina, que começa às 20h35 (22h35 no horário de Brasília), após a novela Quem Ama Cuida. Concorrentes que disputam o segundo turno da eleição no estado foram convidados para debate, contudo, Mailza Assis (P",
+      "title": "Escola Cantina Salazar abre portas agora como Centro Interpretativo do Estado Novo",
+      "url": "https://www.rtp.pt/noticias/pais/escola-cantina-salazar-abre-portas-agora-como-centro-interpretativo-do-estado-novo_n1773666",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T08:00:03+00:00",
+      "summary": "Em Santa Comba Dão, Viseu, abre esta sexta-feira ao público o Centro Interpretativo do Estado Novo - Regime e Resistência. Um projeto evolto em polémica que dará vida à Escola Cantina Salazar naquela que foi uma escola modelo do Estado Novo, com coordenação científica da Associação Ephemera, fundada por Pacheco Pereira",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste",
+      "url": "https://www.rtp.pt/noticias/mundo/ong-defende-que-soberania-alimentar-deve-ser-prioridade-nacional-de-timor-leste_n1773663",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:44:22+00:00",
+      "summary": "A organização não governamental (ONG) timorense La`o Hamutuk defendeu hoje que a soberania alimentar deve ser uma prioridade nacional e pediu mais investimento agrícola para acabar com a fome e má nutrição em Timor-Leste.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Críticas às declarações do presidente do Instituto da Habitação. Governo já pediu esclarecimentos",
+      "url": "https://www.rtp.pt/noticias/pais/criticas-as-declaracoes-do-presidente-do-instituto-da-habitacao-governo-ja-pediu-esclarecimentos_n1773662",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:33:20+00:00",
+      "summary": "A polémica em volta das declarações do presidente do instituto da Habitação vai crescendo. Benjamin Pereira comparou os desafios da habitação aos sacrifícios feitos por gerações passadas e agora enfrenta uma onda de críticas, de organizações estudantis, partidos políticos e até de governantes.",
       "category": "Política"
     },
     {
-      "title": "Altamira, cidade brasileira com o maior número de focos de incêndio em 2026, decreta situação de emergência",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/altamira-cidade-brasileira-com-o-maior-numero-de-focos-de-incendio-em-2026-decreta-situacao-de-emergencia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T01:15:23+00:00",
-      "summary": "Altamira, cidade brasileira com o maior número de focos de incêndio em 2026, decreta situação de emergência Jornal Nacional/ Reprodução A cidade brasileira com o maior número de focos de incêndio em 2026 decretou situação de emergência. Em Altamira, no sudoeste paraense, uma das áreas mais atingidas pelo fogo é a Reser",
-      "category": "Clima"
-    },
-    {
-      "title": "Debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta",
-      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/debate-lorenzo-pazolini-ricardo-ferraco-governo-espirito-santo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T01:13:36+00:00",
-      "summary": "Debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta O programa está previsto para começar às 22h30 desta quinta-feira (22) e será transmitido ao vivo também no g1 ES.",
+      "title": "07h As reações às declarações do presidente do IHRU",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/07h-as-reacoes-as-declaracoes-do-presidente-do-ihru_a1_1773660",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:22:03+00:00",
+      "summary": "",
       "category": "Política"
     },
     {
-      "title": "As notícias das 2h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2449/",
+      "title": "Liga Conferência. Braga bate Gent por 2-0 e soma três pontos",
+      "url": "https://www.rtp.pt/noticias/desporto/liga-conferencia-braga-bate-gent-por-2-0-e-soma-tres-pontos_v1773659",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:21:47+00:00",
+      "summary": "O Braga recebeu e venceu o Gent por 2-0 na segunda jornada da Liga Conferência.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Liga Europa. Benfica goleia Omonia e assume a liderança",
+      "url": "https://www.rtp.pt/noticias/desporto/liga-europa-benfica-goleia-omonia-e-assume-a-lideranca_v1773655",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:15:47+00:00",
+      "summary": "O Benfica assumiu a liderança da Liga Europa ao somar a terceira vitória na prova, após goleada por 4-1 frente ao Omonia de Chipre.<br />",
+      "category": "Economia"
+    },
+    {
+      "title": "As notícias das 8h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2555/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-23T01:13:24+00:00",
+      "publishedAt": "2026-10-23T07:15:16+00:00",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
-      "title": "Principal líder de oposição é presa no Equador, acusada de irregularidades no financiamento de campanha",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/principal-lider-de-oposicao-e-presa-no-equador-acusada-de-irregularidades-no-financiamento-de-campanha.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T01:03:01+00:00",
-      "summary": "Líder da oposição é presa no Equador A polícia do Equador prendeu nesta quinta-feira (22) a principal adversária política do presidente Daniel Noboa. Ela foi acusada de irregularidades no financiamento de campanha. Luisa González foi presa de madrugada na região rural de Manabí, a cerca de 300 km da capital, Quito. Ela",
-      "category": "Política"
+      "title": "Reconstrução do Nepal. ONU apela à solidariedade global",
+      "url": "https://www.rtp.pt/noticias/mundo/reconstrucao-do-nepal-onu-apela-a-solidariedade-global_v1773654",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:12:47+00:00",
+      "summary": "O Subsecretário-Geral da ONU, Jorge Moreira da Silva, apela à solidariedade internacional para ajudar o Nepal a recuperar das devastadoras inundações de agosto.",
+      "category": "Mundo"
     },
     {
-      "title": "Cartórios lançam ferramenta para pesquisar vínculos de CPFs e CNPJs com imóveis na Bahia",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/22/cartorios-lancam-ferramenta-para-pesquisar-vinculos-de-cpfs-e-cnpjs-com-imoveis-na-bahia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T00:56:06+00:00",
-      "summary": "Cartórios lançam ferramenta para pesquisar vínculos de CPFs e CNPJs com imóveis na Bahia Reprodução/TV Bahia A Pesquisa Nacional de Bens, ferramenta que permite localizar vínculos de CPFs e CNPJs com imóveis, passou a abranger os cartórios de Registro de Imóveis da Bahia e dos demais estados do país. Lançado neste mês,",
+      "title": "Trump garante regresso do Starlink à Ucrânia",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-garante-regresso-do-starlink-a-ucrania_v1773653",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:09:47+00:00",
+      "summary": "Donald Trump assegura que Elon Musk já restabeleceu o acesso da Ucrânia à rede Starlink, o serviço de internet de banda larga via satélite da SpaceX.",
       "category": "Ciência & Tech"
     },
     {
-      "title": "VÍDEO: Motociclista morre e irmã fica em estado grave após colisão com picape no Acre",
-      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/22/video-motociclista-morre-e-irma-fica-em-estado-grave-apos-colisao-no-acre.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T00:55:59+00:00",
-      "summary": "Jovem morre e irmã fica em estado grave após acidente entre veículos na zona rural do Acre O motociclista Kassio Lucas Santos Nonato, de 19 anos, morreu na tarde desta quinta-feira (22) durante um acidente de trânsito no Ramal Linha 7, zona rural de Acrelândia, interior do Acre. A irmã dele, uma adolescente de 16 anos,",
+      "title": "Manifestantes aprovam novos protestos para sábado",
+      "url": "https://www.rtp.pt/noticias/pais/manifestantes-aprovam-novos-protestos-para-sabado_n1773652",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:08:35+00:00",
+      "summary": "No Porto, a concentração aprovada em assembleia popular tem início às 16h00, na Praça da Batalha. A rotunda do Marquês de Pombal recebe o protesto de Lisboa, que deverá chegar ao Rossio pelas 19h00.",
       "category": "Mundo"
     },
     {
-      "title": "Homem é preso em flagrante após matar a própria mãe em Fortaleza",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/22/homem-e-preso-em-flagrante-apos-matar-a-propria-mae-em-fortaleza.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T00:52:51+00:00",
-      "summary": "A Polícia Militar foi acionada para a ocorrência e prendeu o suspeito em flagrante. Polícia Militar do Ceará/Divulgação Um homem de 28 anos foi preso em flagrante em Fortaleza após matar a própria mãe, uma mulher de 54 anos. O crime ocorreu na manhã desta quinta-feira (22), no bairro Passaré. O suspeito não teve o nome",
+      "title": "Polémicas: A semana de pesadelo de Bruno Fernandes",
+      "url": "https://observador.pt/programas/tres-toques/polemicas-a-semana-de-pesadelo-de-bruno-fernandes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:08:06+00:00",
+      "summary": "Enquanto Bruno Fernandes lidava com uma mansão assaltada e duras críticas em Inglaterra, o mundo do ténis assistia ao divórcio surpresa do seu casal sensação.",
       "category": "Mundo"
     },
     {
-      "title": "Falha grave de segurança faz empresas e governos ao redor do mundo tirarem milhares de sites do ar; entenda",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/falha-grave-de-seguranca-faz-empresas-e-governos-ao-redor-do-mundo-tirarem-milhares-de-sites-do-ar-entenda.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T00:52:36+00:00",
-      "summary": "Empresas e governos no mundo todo tiram milhares de sites do ar por falha de segurança Empresas e governos ao redor do mundo tiraram milhares de sites do ar depois que pesquisadores descobriram na rede uma falha grave de segurança. Se a internet fosse uma cidade, seria como descobrir rachaduras na estrutura de boa part",
-      "category": "Política"
-    },
-    {
-      "title": "Manifestantes aprovam novos protestos para sábado em Lisboa e no Porto",
-      "url": "https://www.rtp.pt/noticias/pais/manifestantes-aprovam-novos-protestos-para-sabado-em-lisboa-e-no-porto_e1773417",
+      "title": "Coreia do Sul propõe à Coreia do Norte negociações militares",
+      "url": "https://www.rtp.pt/noticias/mundo/coreia-do-sul-propoe-a-coreia-do-norte-negociacoes-militares_n1773651",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-23T00:52:34+00:00",
-      "summary": "No Porto, a concentração aprovada em assembleia popular tem início às 16h00, na Praça da Batalha. A rotunda do Marquês de Pombal recebe o protesto de Lisboa, que deverá chegar ao Rossio pelas 19h00. Acompanhe aqui todas as atualizações.",
+      "publishedAt": "2026-10-23T07:04:35+00:00",
+      "summary": "A Coreia do Sul propôs hoje à Coreia do Norte a realização de negociações militares sobre o traçado da linha de demarcação no centro da Zona Desmilitarizada que as separa, após vários incidentes graves.",
       "category": "Mundo"
     },
     {
-      "title": "Candidatos ao governo do Amazonas chegam para debate na Rede Amazônica; ACOMPANHE",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/debate-omar-aziz-professora-maria-do-carmo-governo-amazonas.ghtml",
+      "title": "Novo centro de interpretação do Estado Novo no Vimieiro",
+      "url": "https://observador.pt/programas/no-se-fala-de-outra-coisa/novo-centro-de-interpretacao-do-estado-novo-no-vimieiro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:02:07+00:00",
+      "summary": "O senhor que viaja com os gatos, mas que acabam sempre à \"bulha\". E ainda, trinta anos depois, terra de Salazar abre centro para interpretar o Estado Novo.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Bloco de Esquerda vai à boleia da CGTP nos protestos?",
+      "url": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/bloco-de-esquerda-vai-a-boleia-da-cgtp-nos-protestos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T07:01:37+00:00",
+      "summary": "O Bloco junta-se à CGTP para dar mais força aos protestos da habitação. Já o Governo volta a ficar nas mãos do Chega que impôs novas condições na lei do arrendamento.",
+      "category": "Política"
+    },
+    {
+      "title": "Brasileira diz não ver saída para recuperar filho levado há 4 anos ao Egito e pensa em desistir: 'Não consegui nada'",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/23/brasileira-diz-nao-ver-saida-para-recuperar-filho-levado-ha-4-anos-ao-egito-e-pensa-em-desistir-nao-consegui-nada.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-23T00:49:18+00:00",
-      "summary": "Candidatos ao governo do Amazonas chegam para debate na Rede Amazônica; ACOMPANHE Programa terá início a partir das 21h30, após a novela 'Quem Ama Cuida'. Foram convidados os candidatos Omar Aziz (PSD) e Professora Maria do Carmo (PL).",
-      "category": "Política"
+      "publishedAt": "2026-10-23T07:00:01+00:00",
+      "summary": "Brasileira diz não ver saída para recuperar filho levado há 4 anos ao Egito \"Eu tentei de tudo, eu fiz de tudo e eu consegui tudo. E, no fundo, eu não consegui nada\", afirmou a brasileira Karin Rachel Aranha Toledo sobre as tentativas de recuperar o filho, Adam, levado ao Egito pelo pai sem a autorização dela há 4 anos",
+      "category": "Mundo"
     },
     {
-      "title": "0h Miguel Pinto Luz já pediu esclarecimentos ao presidente do Instituto da Habitação e da Reabilitação Urbana",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-miguel-pinto-luz-ja-pediu-esclarecimentos-ao-presidente-do-instituto-da-habitacao-e-da-reabilitacao-urbana_a1_1773627",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T00:39:01+00:00",
-      "summary": "",
-      "category": "Política"
+      "title": "Novo exame identifica quase 98% das lesões de tipo mais comum de câncer de rim",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/23/novo-exame-identifica-quase-98percent-das-lesoes-de-tipo-mais-comum-de-cancer-de-rim.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "AdobeStock Uma nova técnica de imagem conseguiu identificar 97,9% das lesões de um dos tipos mais comuns de câncer de rim, um resultado que pode representar um avanço na capacidade dos médicos de localizar tumores e descobrir se a doença se espalhou para outras partes do corpo. O resultado faz parte de um estudo aprese",
+      "category": "Saúde"
     },
     {
-      "title": "23h Noite de vitórias para o Benfica e para o Sporting de Braga nas competições europeias",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-noite-de-vitorias-para-o-benfica-e-para-o-sporting-de-braga-nas-competicoes-europeias_a1_1773626",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T00:37:02+00:00",
-      "summary": "",
+      "title": "Emprego: confira as 258 vagas disponíveis em Petrolina, Salgueiro e Araripina",
+      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/23/emprego-confira-as-258-vagas-disponiveis-em-petrolina-salgueiro-e-araripina.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "Vagas de emprego no Sertão de Pernambuco A Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para o município de Petrolina, Salgueiro e Araripina sexta-feira (23). As oportunidades são atualizadas diariamente pelo g1 Petrolina. Os interessados nas oportunidades podem entrar em contato com ",
       "category": "Economia"
     },
     {
-      "title": "1h. Pinto Luz lamenta declarações do presidente do IHRU",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2423/",
+      "title": "Call of Duty imagina Coreia do Norte invadindo o Sul, mas qual a chance de isso realmente acontecer?",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/23/call-of-duty-imagina-coreia-do-norte-invadindo-o-sul-mas-qual-a-chance-de-isso-realmente-acontecer.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "No jogo Call of Duty 4: Modern Warfare, as duas Coreias se enfrentam. Infinity Ward/Activision/Getty Images via BBC O trailer da mais recente sequência da franquia de videogames Call of Duty começa mostrando jovens recrutas sul-coreanos no que parece ser uma patrulha de rotina. ✅ Siga o canal de notícias internacionais",
+      "category": "Esportes"
+    },
+    {
+      "title": "Ciclone deixa Paraná sob alerta de tempestades até o domingo de eleições; veja onde os ventos podem chegar a 100 km/h",
+      "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/23/ciclone-deixa-parana-sob-alerta-de-tempestades-ate-o-domingo-de-eleicoes-veja-onde-os-ventos-podem-chegar-a-100-kmh.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "Alertas da Defesa Civil do Paraná: o que significam e o que fazer quando recebê-los A formação de um ciclone fez o Instituto Nacional de Meteorologia (Inmet) emitir novos alertas de tempestades para o Paraná deste esta sexta-feira (23) até o domingo (25) do segundo turno das eleições. Todo o estado está sob alerta amar",
+      "category": "Política"
+    },
+    {
+      "title": "Quem foi Beatriz Vitória, jovem que pode ter sido morta por ex e teve corpo ocultado na Grande BH",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/23/quem-foi-beatriz-vitoria-jovem-que-pode-ter-sido-morta-por-ex-e-teve-corpo-ocultado-na-grande-bh.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "A vendedora Beatriz Vitória Aparecida Neves Mota, de 27 anos Reprodução A vendedora Beatriz Vitória Aparecida Neves Mota, de 27 anos, era conhecida como Bia pelos amigos e familiares. Descrita como extrovertida e companheira, ela foi encontrada morta nesta quarta-feira (21), em uma área rural de Jaboticatubas, na Grand",
+      "category": "Mundo"
+    },
+    {
+      "title": "'Não vai ter paz': integrantes da Torcida Organizada do Bahia discutiram ameaças para impedir denúncias de tortura",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/23/integrantes-da-bamor-discutiram-ameacas-para-impedir-denuncias-de-tortura.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "Presidente da Bamor convoca integrantes e diretores para tortura de vítima Integrantes da Bamor, maior torcida organizada do Bahia, discutiram formas de intimidar duas vítimas de tortura para impedir que elas denunciassem as agressões à polícia e à imprensa. As conversas foram identificadas em um relatório do Ministéri",
+      "category": "Política"
+    },
+    {
+      "title": "Primeira mulher a comandar um Airbus A350 no mundo e pioneira na aviação cargueira relatam trajetórias e desafios",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/23/primeira-mulher-a-comandar-um-airbus-a350-no-mundo-e-pioneira-na-aviacao-cargueira-relatam-trajetorias-e-desafios.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "Claudine Melnik e Juliana Alba Divulgação/Latam Desde criança, Claudine Melnik se imaginava voando. Décadas depois, tornou-se a primeira mulher a comandar um jato da companhia no Brasil e, em 2016, a primeira mulher no mundo a comandar um Airbus A350. Aos 57 anos, acumula 33 anos de carreira e mais de 20 mil horas de v",
+      "category": "Mundo"
+    },
+    {
+      "title": "Diabetes e obesidade: dispositivo eletrônico controla glicose e reduz peso em testes com animais",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/23/diabetes-e-obesidade-dispositivo-eletronico-controla-glicose-e-reduz-peso-em-testes-com-animais.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "Diabetes e obesidade: dispositivo eletrônico controla glicose e reduz peso em testes com animais Adobe Stock Um pequeno dispositivo eletrônico implantado sob a pele conseguiu normalizar os níveis de açúcar no sangue e reduzir em até 10% o peso corporal de camundongos com diabetes tipo 2 e obesidade, sem a administração",
+      "category": "Mundo"
+    },
+    {
+      "title": "Após duas descobertas de petróleo, Petrobras prevê nova etapa de perfuração na costa do Amapá em 2027",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/23/apos-duas-descobertas-de-petroleo-petrobras-preve-nova-etapa-de-perfuracao-na-costa-do-amapa-em-2027.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "Petrobras faz nova descoberta de petróleo em poço na costa do Amapá Após a conclusão da perfuração do poço Morpho, na costa do Amapá, a campanha exploratória da Petrobras na Margem Equatorial deve avançar para uma nova fase. No bloco FZA-M-59, onde já foram registradas duas descobertas de petróleo, outros três poços ai",
+      "category": "Mundo"
+    },
+    {
+      "title": "'Eu não tinha direito de falar nada': brasileira presa por tráfico relata como recebeu sentença na Tailândia",
+      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/23/eu-nao-tinha-direito-de-falar-nada-brasileira-presa-por-trafico-relata-como-recebeu-sentenca-na-tailandia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "Brasileira presa por tráfico relata como recebeu sentença na Tailândia \"Eu não tinha direito de falar nada.\" A frase resume uma das lembranças mais marcantes de Mary Hellen Coelho Silva sobre o processo que enfrentou na Tailândia após ser presa por tráfico de drogas. Em entrevista à EPTV Sul de Minas, Afiliada da TV Gl",
+      "category": "Mundo"
+    },
+    {
+      "title": "'Orelha-de-elefante': moradora encontra planta misteriosa no quintal, e especialista alerta que espécie é tóxica",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/23/orelha-de-elefante-moradora-encontra-planta-misteriosa-no-quintal-e-especialista-alerta-que-especie-e-toxica.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "Você conhece a orelha-de-elefante-panduriforme? Uma planta misteriosa que brotou no quintal chamou a atenção de Maria Hernandes, moradora de São Bernardo do Campo, na Grande São Paulo. Para descobrir qual era a espécie, ela enviou uma carta escrita à mão e duas fotos ao Globo Rural. Maria desconfiava que a planta perte",
+      "category": "Mundo"
+    },
+    {
+      "title": "Número de feridos em terremoto no Tibete sobe para 65; mortes seguem em 16",
+      "url": "https://www.cnnbrasil.com.br/internacional/numero-de-feridos-em-terremoto-no-tibete-sobe/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T06:48:32+00:00",
+      "summary": "Mais de 12 mil pessoas foram levadas para locais seguros após tremor de magnitude 7; autoridades registraram 413 réplicas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cosméticos podem ter relação com câncer de mama? Especialistas explicam",
+      "url": "https://www.cnnbrasil.com.br/saude/cosmeticos-podem-ter-relacao-com-cancer-de-mama-especialistas-explicam/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T06:37:47+00:00",
+      "summary": "Estudos apontam para o risco em consumir produtos sem observar as substâncias; evento em São Paulo discute papel dos produtos de beleza no tratamento de doenças oncológicas",
+      "category": "Saúde"
+    },
+    {
+      "title": "Filhote de onça vítima de ataque de cães retorna à natureza em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/filhote-de-onca-vitima-de-ataque-de-caes-volta-a-natureza-em-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T06:37:01+00:00",
+      "summary": "Animal de apenas sete meses recuperou-se de ferimentos graves provocados por ataque de cães no interior paulista e foi solto no Parque Estadual Morro do Diabo, interior do estado",
+      "category": "Mundo"
+    },
+    {
+      "title": "Irã ameaça ampliar retaliação e cita possíveis ataques a centros de IA",
+      "url": "https://www.cnnbrasil.com.br/internacional/ira-ameaca-ampliar-retaliacao-e-cita-possiveis-ataques-a-centros-de-ia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T06:33:46+00:00",
+      "summary": "Teerã afirma estar mais preparado para enfrentar os EUA após Trump sinalizar retomada de bombardeios depois das eleições de meio de mandato",
+      "category": "Política"
+    },
+    {
+      "title": "Brasil. Governo obrigado a garantir transporte a indígenas",
+      "url": "https://observador.pt/2026/10/23/justica-obriga-governo-do-brasil-a-dar-transporte-a-indigenas-para-presidenciais/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-23T00:14:58+00:00",
-      "summary": "Pinto Luz critica Benjamim Pereira por ter sugerido que os jovens não têm o mesmo espírito de sacrifício das gerações anteriores. Ainda, o Benfica venceu no Chipre por 4-1 para a Liga Europa.",
+      "publishedAt": "2026-10-23T06:32:53+00:00",
+      "summary": "Alguns destes eleitores indígenas do norte do Brasil vivem até 895 quilómetros de distância dos locais de voto, o que exige viagens de barco que duram entre três a cinco dias",
       "category": "Política"
+    },
+    {
+      "title": "Flávio e Lula afinam estratégias para o último duelo na TV antes das urnas",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-afinam-estrategias-para-o-ultimo-duelo-na-tv-antes-das-urnas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T06:30:29+00:00",
+      "summary": "Presidenciáveis tentarão adotar tom mais “propositivo” e manobram tática para movimentação no palco",
+      "category": "Mundo"
+    },
+    {
+      "title": "7h. Acampada. Noite calma, mas há nova vigília marcada hoje",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2541/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T06:19:50+00:00",
+      "summary": "No Rossio, apenas 11 manifestantes dormiram na rua. Ao fim da tarde, a acampada realiza uma vigília solidária em Marvila. Ainda, o perfil de Benjamim Pereira, presidente do IHRU.",
+      "category": "Política"
+    },
+    {
+      "title": "Vacina contra câncer reduz risco de morte ou recorrência de melanoma em 42%",
+      "url": "https://www.cnnbrasil.com.br/saude/vacina-contra-cancer-reduz-risco-de-morte-ou-recorrencia-de-melanoma-em-42/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T06:09:49+00:00",
+      "summary": "Farmacêuticas Moderna e a Merck vão solicitar aprovação nos EUA e devem lançar o imunizante em 2027",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "China acusa Reino Unido de ingerência devido a Hong Kong",
+      "url": "https://observador.pt/2026/10/23/china-acusa-reino-unido-de-ingerencia-devido-a-relatorio-sobre-hong-kong/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T06:07:31+00:00",
+      "summary": "As alterações legislativas aprovadas em março alargaram os poderes da polícia para exigir palavras-passe de dispositivos eletrónicos, restringir deslocações e confiscar bens no âmbito de investigações relacionadas com a segurança nacional",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pressa pode levar TSE a decidir sem base sobre redes, diz especialista",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/pressa-pode-levar-tse-a-decidir-sem-base-sobre-redes-diz-especialista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T06:02:35+00:00",
+      "summary": "Ao WW, Fabro Steibel, diretor-executivo do ITS Rio, alerta que a proximidade das eleições de 2026 pode impedir o TSE de tomar decisões fundamentadas em informações completas",
+      "category": "Política"
+    },
+    {
+      "title": "Trump diz que \"tem direito\" a recandidatura",
+      "url": "https://observador.pt/2026/10/23/trump-diz-que-tem-direito-a-recandidatura-porque-lhe-roubaram-vitoria-em-2020/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T06:00:33+00:00",
+      "summary": "Trump tem sustentado repetidamente que houve fraude eleitoral, apesar de os processos judiciais não terem conseguido provar irregularidades generalizadas que alterassem o resultado",
+      "category": "Mundo"
+    },
+    {
+      "title": "Três manifestantes ainda estão no Rossio",
+      "url": "https://observador.pt/liveblogs/manha-comeca-no-rossio-com-tres-manifestantes-que-pernoitaram/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T05:55:41+00:00",
+      "summary": "Às cinco da manhã eram 11, às 6h30 eram três os manifestantes e dois polícias ainda estão no Rossio, após ali passaram a noite. Nem a chuva os demoveu. Hoje, o protesto segue para Chelas.",
+      "category": "Clima"
+    },
+    {
+      "title": "Coreia do Sul propõe à Coreia do Norte negociações militares",
+      "url": "https://observador.pt/2026/10/23/coreia-do-sul-propoe-a-coreia-do-norte-negociacoes-militares/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T05:51:35+00:00",
+      "summary": "Kim Hong-cheol propôs que tanto a Coreia do Sul como a Coreia do Norte consigam alcançar de forma conjunta a \"localização precisa da linha de demarcação militar terrestre\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "São precisos 10 anos para resolver a crise da habitação",
+      "url": "https://observador.pt/programas/conferencia-de-imprensa/sao-precisos-10-anos-para-resolver-a-crise-da-habitacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T05:49:15+00:00",
+      "summary": "Expresso escreve que para ter mais casas são precisos mais terrenos, menos burocracia e menos impostos. No Brasil, a Folha de São Paulo destaca a nova sondagem que coloca Lula e Bolsonaro empatados.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Escapadinha a Chipre e ninguém pára o Benfica na Europa",
+      "url": "https://observador.pt/programas/vamos-a-bola/escapadinha-a-chipre-e-ninguem-para-o-benfica-na-europa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T05:48:40+00:00",
+      "summary": "Benfica goleia Omonia (4-1) e segue invicto na Liga Europa. Braga soma primeiros pontos nas competições europeias já Torreense sofre nova derrota. Ainda, Luís Castro envolvido num esquema de burlas?",
+      "category": "Economia"
+    },
+    {
+      "title": "Datafolha: Veja como Flávio e Lula pontuam por renda, gênero e religião",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-veja-como-flavio-e-lula-pontuam-por-renda-genero-e-religiao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T05:23:59+00:00",
+      "summary": "Empatados com 50% dos votos válidos, senador lidera entre eleitores com renda superior a dois salários mínimos, homens e evangélicos, enquanto presidente tem preferência entre mais pobres, mulheres e católicos",
+      "category": "Política"
+    },
+    {
+      "title": "Jardim aponta “pecados” do Flamengo e explica a demora nas alterações",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/jardim-aponta-pecados-do-flamengo-e-explica-a-demora-nas-alteracoes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T04:16:33+00:00",
+      "summary": "Time rubro-negro não teve bom desempenho nos dois jogos da semifinal do torneio continental e acabou sendo eliminado nos pênaltis diante do Estudiantes-ARG",
+      "category": "Esportes"
+    },
+    {
+      "title": "Estudiantes x Palmeiras: times já decidiram a Libertadores no Centenario",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/estudiantes-x-palmeiras-times-ja-decidiram-a-libertadores-no-centenario/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T03:51:30+00:00",
+      "summary": "Rivais se encontraram oficialmente apenas em uma ocasião na história: nas finais da competição de 1968 que, coincidentemente, terminaram no Uruguai",
+      "category": "Mundo"
+    },
+    {
+      "title": "Flamengo 0 (2) x (3) 0 Estudiantes: veja os melhores momentos e pênaltis",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-0-2-x-3-0-estudiantes-veja-os-melhores-momentos-e-penaltis/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T03:46:13+00:00",
+      "summary": "Rubro-Negro foi eliminado da Libertadores 2026 em pleno Maracanã após ter ficado com um a mais desde os 5 minutos do segundo tempo",
+      "category": "Clima"
+    },
+    {
+      "title": "Veja quanto o Flamengo ganhou em premiação na Copa Libertadores 2026",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/veja-quanto-o-flamengo-ganhou-em-premiacao-na-copa-libertadores-2026/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T03:39:27+00:00",
+      "summary": "Sem alcançar a final, o clube carioca deixou de embolsar pelo menos 7 milhões de dólares (R$ 35,5 milhões), concedido pela Conmebol ao vice-campeão da competição continental",
+      "category": "Economia"
+    },
+    {
+      "title": "Portaria convoca instituições financeiras para 3ª fase do Desenrola",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/portaria-convoca-instituicoes-financeiras-para-3a-fase-do-desenrola",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T01:04:00+00:00",
+      "summary": "As instituições financeiras terão cinco dias úteis para a informar ao governo as dívidas que pretendem oferecer para renegociação na primeira etapa do Desenrola 3.0. O Diário Oficial da União publicou, em edição extraordinária, a portaria com o edital de chamamento . A terceira versão do Desenrola prevê a compra de dív",
+      "category": "Política"
+    },
+    {
+      "title": "Lula participa de live do “exército” e estimula ida de idosos às urnas",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-participa-de-live-do-exercito-e-estimula-ida-de-idosos-urnas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T01:02:00+00:00",
+      "summary": "O candidato do PT, Luiz Inácio Lula da Silva, passou esta quinta-feira (22) no Palácio da Alvorada se preparando para o debate desta sexta-feira (23), na TV Globo. À noite, ele participou de uma live com o deputado federal André Janones (Rede-MG). Na transmissão ao vivo, Lula mandou um recado para todos que não foram v",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mega-Sena acumula para R$ 230 milhões; confira os números sorteados",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-230-milhoes-confira-os-numeros-sorteados",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T00:44:00+00:00",
+      "summary": "Nenhum apostador acertou as seis dezenas do Concurso 3.073 da Mega-Sena, realizado nesta quinta-feira (22). O prêmio acumulou novamente e está estimado em R$ 230 milhões para o próximo sorteio. Os números sorteados são: 04 - 13 - 23 - 28 - 41 - 58 203 apostas acertaram cinco dezenas e irão receber R$ 23.138,67 cada 13.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Copa do Brasil Feminino: Flamengo bate Fluminense e vai às semifinais",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/copa-do-brasil-feminino-flamengo-bate-fluminense-e-vai-semifinais",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T00:44:00+00:00",
+      "summary": "O Flamengo é o quarto e último classificado às semifinais da Copa do Brasil Feminina. Nesta quinta-feira (22), as Meninas da Gávea venceram o clássico contra o Fluminense por 3 a 1 no Estádio Luso-Brasileiro, no Rio de Janeiro. O Rubro-Negro precisava vencer por dois gols ou mais de diferença após a derrota por 2 a 1 n",
+      "category": "Esportes"
     },
     {
       "title": "Governo intensifica reforços para combater incêndios no Pará",
@@ -182,102 +488,12 @@
       "category": "Política"
     },
     {
-      "title": "STJ anula suspensão de aluna por WhatsApp privado",
-      "url": "https://observador.pt/2026/10/23/stj-anula-suspensao-aplicada-por-colegio-de-braga-a-aluna-por-conversas-no-whatsapp/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:30:44+00:00",
-      "summary": "O STJ considerou que a divulgação das mensagens \"constitui prova ilícita, inadmissível para efeitos de instrução e fundamentação de procedimento disciplinar\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "50 mil mortes por calor no verão mais mortífero da Europa",
-      "url": "https://observador.pt/2026/10/23/alteracoes-climaticas-causaram-dois-tercos-das-50-mil-mortes-por-calor-no-verao-mais-letal-de-sempre-nas-cidades-europeias/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:29:52+00:00",
-      "summary": "Dois estudos publicados na \"Nature Health\" concluem que as alterações climáticas causaram dois terços das mortes. Portugal registou 476 vítimas.",
-      "category": "Economia"
-    },
-    {
-      "title": "Uma tenda não é um voto",
-      "url": "https://observador.pt/opiniao/uma-tenda-nao-e-um-voto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:25:43+00:00",
-      "summary": "A escassez e carestia da habitação sente-se desde a geringonça. Mas com PS, PCP e BE no poder, não era problema: é agora apenas porque já não são eles que lá estão.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Wall Street fecha preocupada com endividamento dos conglomerados da IA",
-      "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-preocupada-com-endividamento-dos-conglomerados-da-ia_n1773624",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:23:17+00:00",
-      "summary": "A bolsa nova-iorquina encerrou hoje tendencialmente em baixa, arrastada pelo setor tecnológico que cedeu à renovação das inquietações com o nível de endividamento dos atores da inteligência artificial (IA), em contexto de subida da cotação do petróleo.",
-      "category": "Economia"
-    },
-    {
-      "title": "Trump faz olhinhos a Putin. Quem paga a conta?",
-      "url": "https://observador.pt/opiniao/trump-faz-olhinhos-a-putin-quem-paga-a-conta/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:23:14+00:00",
-      "summary": "Durante oitenta anos, os EUA construíram uma ordem em que países livres preferiam confiar em neles, e foi essa preferência, mais do que qualquer arma, que tornou a América excepcionalmente poderosa",
-      "category": "Mundo"
-    },
-    {
-      "title": "A Política tem Limites",
-      "url": "https://observador.pt/opiniao/a-politica-tem-limites/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:22:17+00:00",
-      "summary": "Quem acredita ter descoberto a fórmula da felicidade definitiva depressa encontra motivos para silenciar quem discorda.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Outra mulher",
-      "url": "https://observador.pt/opiniao/outra-mulher/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:20:04+00:00",
-      "summary": "Basta pensar que quero ser outra para entender que não me consigo imaginar mais ninguém. Essa outra mulher seria ainda imaginada por mim.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ambulâncias em marcha lenta em Lisboa no dia 26",
-      "url": "https://observador.pt/2026/10/23/100-ambulancias-atravessam-a-ponte-25-de-abril-no-dia-26-para-protestar-contra-exclusao-dos-apoios-aos-combustiveis/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:18:41+00:00",
-      "summary": "\"Não queremos deixar de transportar doentes. Queremos que o Governo nos dê condições para continuar a fazê-lo\", afirma a LPA",
-      "category": "Política"
-    },
-    {
-      "title": "Igreja. Todas as denúncias de abuso sexual foram arquivadas",
-      "url": "https://observador.pt/2026/10/23/todas-as-denuncias-de-abuso-sexual-na-igreja-nos-ultimos-quatro-anos-foram-arquivadas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:17:28+00:00",
-      "summary": "Foram arquivadas cerca de 70 denúncias, maioritariamente devido ao facto de estarem prescritas criminalmente. Nenhuma das queixas apresentadas no último ano avançou para acusação formal.",
-      "category": "Mundo"
-    },
-    {
-      "title": "As notícias das 00h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2453/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:15:34+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cenários",
-      "url": "https://observador.pt/opiniao/cenarios/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T23:15:18+00:00",
-      "summary": "Passos não deixa dúvidas sobre o que entende dever ser reformado, nem ilusões sobre a veemência adversarial dos interesses feridos. E esse esforço não é nada que o PS possa acompanhar.",
+      "title": "CMN e BC atualizam regras de segurança e transparência do Open Finance",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-22T23:03:00+00:00",
+      "summary": "O Conselho Monetário Nacional (CMN) e o Banco Central (BC) aprovaram nesta quinta-feira (22) mudanças nas regras de compartilhamento de dados pelo Open Finance, sistema que permite aos clientes autorizar o compartilhamento de informações financeiras entre instituições. As alterações reforçam a segurança, ampliam a tran",
       "category": "Mundo"
     },
     {
@@ -290,15 +506,6 @@
       "category": "Esportes"
     },
     {
-      "title": "CMN e BC atualizam regras de segurança e transparência do Open Finance",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-22T23:03:00+00:00",
-      "summary": "O Conselho Monetário Nacional (CMN) e o Banco Central (BC) aprovaram nesta quinta-feira (22) mudanças nas regras de compartilhamento de dados pelo Open Finance, sistema que permite aos clientes autorizar o compartilhamento de informações financeiras entre instituições. As alterações reforçam a segurança, ampliam a tran",
-      "category": "Mundo"
-    },
-    {
       "title": "Seleção feminina de tênis é convocada para Billie Jean King Cup",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/selecao-feminina-de-tenis-e-convocada-para-billie-jean-king-cup",
       "source": "Agência Brasil",
@@ -308,15 +515,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Filme \"Memórias do Cárcere\" apresenta um Camilo Castelo Branco mais humano",
-      "url": "https://www.rtp.pt/noticias/pais/filme-memorias-do-carcere-apresenta-um-camilo-castelo-branco-mais-humano_n1773622",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T22:26:00+00:00",
-      "summary": "Depois do filme \"Playback\" sobre o cantor Carlos Paião, o cineasta Sérgio Graciano aceita o desafio do produtor Paulo Branco e realiza a longa-metragem \"Memórias do Cárcere\". O livro que Camilo Castelo Branco escreveu na prisão inspirou o filme, o argumento é de Carlos Saboga.",
-      "category": "Cultura"
-    },
-    {
       "title": "Primeiro turno contou com 43% mais eleitores de ao menos 70 anos",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/primeiro-turno-contou-com-43-mais-eleitores-de-ao-menos-70-anos",
       "source": "Agência Brasil",
@@ -324,96 +522,6 @@
       "publishedAt": "2026-10-22T22:23:00+00:00",
       "summary": "O número absoluto de eleitores com 70 anos ou mais que foi às urnas no primeiro turno de 2026 aumentou 43% em relação a 2022. A variação foi calculada em uma análise de microdados do Tribunal Superior Eleitoral (TSE), realizada pelo Movimento Voto 70+ em conjunto com o centro de pesquisa Data8. Os pesquisadores apontam",
       "category": "Ciência & Tech"
-    },
-    {
-      "title": "Mendonça diz que Flávio e Lula podem divulgar sigilos",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mendonca-diz-que-flavio-e-lula-podem-divulgar-sigilos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-22T21:53:00+00:00",
-      "summary": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), decidiu nesta quinta-feira (22) que as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) podem divulgar seus sigilos bancários, fiscal e telefônico, conforme acordo assinado entre os candidatos. Na decisão, o ministro afirmou que não cab",
-      "category": "Política"
-    },
-    {
-      "title": "Lucro da Navigator cai mais de 44% até setembro para 65,4 milhões de euros",
-      "url": "https://www.rtp.pt/noticias/economia/lucro-da-navigator-cai-mais-de-44-ate-setembro-para-654-milhoes-de-euros_n1773616",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T21:52:35+00:00",
-      "summary": "A Navigator totalizou 65,4 milhões de euros de lucro nos primeiros nove meses do ano, uma descida de 44,8% relativamente ao período homólogo de 2025, foi hoje comunicado ao mercado.",
-      "category": "Economia"
-    },
-    {
-      "title": "Putin diz que Rússia está pronta para negociar acordo final e não trégua \"curta\"",
-      "url": "https://www.rtp.pt/noticias/mundo/putin-diz-que-russia-esta-pronta-para-negociar-acordo-final-e-nao-tregua-curta_n1773612",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T21:49:38+00:00",
-      "summary": "A Rússia está pronta para retomar negociações tripartidas com Ucrânia e Estados Unidos, mas para alcançar um acordo de paz definitivo, e não um cessar-fogo \"curto\", declarou o presidente russo. Vladimir Putin reiterou ainda a exigência de território ucraniano.",
-      "category": "Política"
-    },
-    {
-      "title": "Português João Henriques é o novo treinador do Nacional",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/portugues-joao-henriques-e-o-novo-treinador-do-nacional_d1773596",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T21:42:10+00:00",
-      "summary": "João Henriques é o novo treinador do Nacional, o terceiro na época 2026/27, rendendo Alexandre Santos no comando técnico da equipa da I Liga portuguesa de futebol, confirmou hoje à Lusa o presidente Rui Alves.",
-      "category": "Política"
-    },
-    {
-      "title": "Mais de 250 pessoas detidas este ano por crime de incêndio",
-      "url": "https://www.rtp.pt/noticias/pais/mais-de-250-pessoas-detidas-este-ano-por-crime-de-incendio_n1773585",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T21:41:48+00:00",
-      "summary": "Mais de 250 pessoas foram detidas este ano por suspeitas de crime de incêndio florestal, estando 31 em prisão preventiva e quatro em domiciliária, avançou hoje o presidente da Proteção Civil.",
-      "category": "Política"
-    },
-    {
-      "title": "Em tempos tão brutos, há cinema anti-racista a dançar furiosamente no Porto",
-      "url": "https://www.rtp.pt/noticias/cultura/em-tempos-tao-brutos-ha-cinema-anti-racista-a-dancar-furiosamente-no-porto_n1773613",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T21:38:44+00:00",
-      "summary": "A 13.ª MICAR - Mostra Internacional de Cinema Anti-Racista apresenta-se no Batalha Centro de Cinema, no Porto, como uma manifestação de visibilidades e de celebração da cultura negra.",
-      "category": "Cultura"
-    },
-    {
-      "title": "\"Desassossego\" da CNB. Coreografias de Marcelino Sambé e Daniel Cardoso",
-      "url": "https://www.rtp.pt/noticias/cultura/desassossego-da-cnb-coreografias-de-marcelino-sambe-e-daniel-cardoso_v1773614",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-22T21:37:47+00:00",
-      "summary": "Desassossego é a mais recente criação da Companhia Nacional de Bailado. Tem uma coreografia de Marcelino Sambé inspirada no livro de Fernando Pessoa.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Caixa Loterias anuncia antecipação de sorteios para sábado",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/caixa-loterias-anuncia-antecipacao-de-sorteios-para-sabado",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-22T21:23:00+00:00",
-      "summary": "A Caixa Loterias anunciou a antecipação para sábado (24) dos sorteios previstos para o domingo (25), dia do segundo turno das eleições. Com isso, os apostadores terão até 20h de sábado para fazer seus jogos em concursos como Mega-Sena, Lotofácil, Quina, Milionária e Timemania. A venda de cotas de Bolão Caixa continuará",
-      "category": "Política"
-    },
-    {
-      "title": "Previsão de superávit no Orçamento de 2027 está mantida, diz Durigan",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previsao-de-superavit-no-orcamento-de-2027-esta-mantida-diz-durigan",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-22T20:59:00+00:00",
-      "summary": "A previsão de superávit primário no Orçamento de 2027 está mantida, mesmo após o anúncio recente de medidas com impacto nas contas públicas, disse nesta quinta-feira (22) o ministro da Fazenda, Dario Durigan. Segundo ele, as iniciativas foram planejadas dentro das regras fiscais vigentes e sem alterações no arcabouço f",
-      "category": "Política"
-    },
-    {
-      "title": "Indígenas do Vale do Javari terão transporte gratuito no 2º turno",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/indigenas-do-vale-do-javari-terao-transporte-gratuito-no-2o-turno",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-22T20:14:00+00:00",
-      "summary": "O Tribunal Regional Eleitoral do Amazonas (TRE-AM) informou nesta quinta-feira (22) que os representantes da Terra Indígena Vale do Javari confirmaram a regularização do transporte gratuito dos eleitores, bem como o necessário apoio logístico à operação, no próximo domingo (25), no segundo turno das eleições gerais. O ",
-      "category": "Política"
     }
   ],
   "sources": [
@@ -423,10 +531,5 @@
     "Observador",
     "RTP Notícias"
   ],
-  "failures": [
-    {
-      "source": "CNN Brasil",
-      "error": "HTTP Error 403: Forbidden"
-    }
-  ]
+  "failures": []
 }
