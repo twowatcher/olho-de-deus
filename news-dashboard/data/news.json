@@ -1,401 +1,356 @@
 {
-  "updatedAt": "2026-10-24T20:43:57.800448+00:00",
+  "updatedAt": "2026-10-24T23:09:46.667132+00:00",
   "items": [
     {
-      "title": "Protestos de Lisboa e Porto seguem esta noite para a montagem de tendas no Rossio e na Praça D. João I",
-      "url": "https://www.rtp.pt/noticias/economia/protestos-de-lisboa-e-porto-seguem-esta-noite-para-a-montagem-de-tendas-no-rossio-e-na-praca-d-joao-i_e1773996",
+      "title": "Paris FC perde em Lens",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/paris-fc-perde-em-lens_d1774090",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T21:42:05+00:00",
-      "summary": "São vários os protestos que decorrem este fim de semana por todo o país com manifestantes que saem à rua em luta pelo direito à habitação. Acompanhamos aqui todos os desenvolvimentos minuto a minuto.",
+      "publishedAt": "2026-10-24T23:10:05+00:00",
+      "summary": "O Paris FC falhou a possibilidade de se isolar provisoriamente na liderança da Liga francesa, ao perder com reviravolta na visita ao Lens (2-1), em jogo da oitava jornada.",
+      "category": "Esportes"
+    },
+    {
+      "title": "A Praça",
+      "url": "https://observador.pt/opiniao/a-praca/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T23:07:50+00:00",
+      "summary": "Ao contrário de muitos, vejo o futuro nos olhos dos jovens da praça.",
       "category": "Mundo"
     },
     {
-      "title": "Israelitas escolhem novo governo na próxima terça-feira",
-      "url": "https://www.rtp.pt/noticias/mundo/israelitas-escolhem-novo-governo-na-proxima-terca-feira_v1774081",
-      "source": "RTP Notícias",
+      "title": "Quando o mundo procura o nosso SNS",
+      "url": "https://observador.pt/opiniao/quando-o-mundo-procura-o-nosso-sns/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T21:24:47+00:00",
-      "summary": "As sondagens apontam para uma mudança. Gadi Eisenkot poderá vir a ser o próximo primeiro-ministro, mas para isso vai ter que fazer coligações com outros partidos.",
-      "category": "Política"
+      "publishedAt": "2026-10-24T23:06:59+00:00",
+      "summary": "Da qualidade reconhecida à necessidade de um novo modelo de financiamento da saúde transfronteiriça.",
+      "category": "Saúde"
     },
     {
-      "title": "Acampada do Porto decide voltar a montar tendas na Praça D. João I",
-      "url": "https://www.rtp.pt/noticias/economia/acampada-do-porto-decide-voltar-a-montar-tendas-na-praca-d-joao-i_n1774066",
-      "source": "RTP Notícias",
+      "title": "O Norte não é para todos",
+      "url": "https://observador.pt/opiniao/o-norte-nao-e-para-todos/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T21:24:03+00:00",
-      "summary": "Os manifestantes pelo direito à habitação que participaram na assembleia popular da Acampada do Porto decidiram hoje voltar a montar tendas na Praça D. João I.",
+      "publishedAt": "2026-10-24T23:05:35+00:00",
+      "summary": "O ADN do Porto escrito por todo o lado: a mesma lógica mercantil e liberal que fez desta cidade o que ela é: resolver primeiro, pedir licença depois.",
       "category": "Mundo"
     },
     {
-      "title": "Reivindicações levaram centenas de milhares às ruas em França",
-      "url": "https://www.rtp.pt/noticias/mundo/reivindicacoes-levaram-centenas-de-milhares-as-ruas-em-franca_v1774080",
-      "source": "RTP Notícias",
+      "title": "GVFC x FCP. “Elimbi, do Gil Vicente, é mal expulso\"",
+      "url": "https://observador.pt/programas/sem-falta/gvfc-x-fcp-elimbi-do-gil-vicente-e-mal-expulso/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T21:22:48+00:00",
-      "summary": "Caos e confusão nalgumas cidades francesas depois das manifestações levou à identificação de cerca de mil pessoas. O ministro do Interior garante que participaram nos protestos cerca de 400 mil pessoas. Uma das maiores centrais sindicais do país assegura que terão sido 800 mil.",
-      "category": "Política"
+      "publishedAt": "2026-10-24T23:05:16+00:00",
+      "summary": "Nota 4, negativa, para Luís Godinho na vitória do Porto em Barcelos. Pedro Henriques considera que Pepê \"não ficaria em clara oportunidade de golo\" e que, por isso, Elimbi devia ter visto amarelo.",
+      "category": "Esportes"
     },
     {
-      "title": "Aumento do custo de vida leva a protestos por toda a Europa",
-      "url": "https://www.rtp.pt/noticias/mundo/aumento-do-custo-de-vida-leva-a-protestos-por-toda-a-europa_v1774079",
+      "title": "Lazio na frente em Itália",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/lazio-na-frente-em-italia_d1774089",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T21:20:47+00:00",
-      "summary": "Houve protestos em vários países europeus. Os manifestantes contestam o aumento do custo de vida. Nalgumas cidades, houve confrontos com a polícia.",
+      "publishedAt": "2026-10-24T23:04:47+00:00",
+      "summary": "A Lazio derrotou o Parma por 2-1, em encontro da oitava jornada da Liga italiana, somando a quarta vitória consecutiva no campeonato e isolando-se, provisoriamente, no topo da classificação.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Um Bloco de hipócritas",
+      "url": "https://observador.pt/opiniao/um-bloco-de-hipocritas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T23:04:22+00:00",
+      "summary": "O Bloco de Esquerda, tão lesto a exigir transparência aos outros, parece descobrir subitamente as virtudes da discrição quando é o próprio a ter de prestar contas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Trump: o melhor amigo das acampadas de Lisboa e do Porto",
+      "url": "https://observador.pt/opiniao/trump-o-melhor-amigo-das-acampadas-de-lisboa-e-do-porto/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T23:03:38+00:00",
+      "summary": "Os acampados do Rossio e da Praça D. João I pediam seis coisas. Cinco foram a receita de um século de ruína. A sexta, Donald Trump e Scott Bessent puseram em lei sem pestanejar.",
+      "category": "Mundo"
+    },
+    {
+      "title": "GVFC x FCP “In-beom deu muito à dinâmica do Porto”",
+      "url": "https://observador.pt/programas/relat-rio-de-jogo/gvfc-x-fcp-in-beom-deu-muito-a-dinamica-do-porto/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T23:03:16+00:00",
+      "summary": "Vitória importante do Porto depois de duas derrotas europeias. Gil Vicente, perigoso, \"vendeu cara a derrota”. Borja Sainz, titular por lesão de Pietuszewski no aquecimento, “foi o homem do jogo”.",
       "category": "Economia"
     },
     {
-      "title": "II Liga: Penafiel `passeia` em Faro e sobe ao pódio",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-penafiel-passeia-em-faro-e-sobe-ao-podio_d1774077",
+      "title": "Democracia: uma Quimera? Ou o paradoxo epistemológico",
+      "url": "https://observador.pt/opiniao/democracia-uma-quimera-ou-o-paradoxo-epistemologico-da-liberdade/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T23:02:53+00:00",
+      "summary": "As instituições democráticas podem ser destruídas. A hipótese aqui apresentada procura compreender porque encontram os seus destruidores condições tão favoráveis.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Avaliar os alunos não chega",
+      "url": "https://observador.pt/opiniao/avaliar-os-alunos-nao-chega/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T23:01:48+00:00",
+      "summary": "Avaliar é necessário. Fazer alguma coisa com a avaliação é a responsabilidade que falta cumprir.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Protestos pelo direito à habitação desceram à rua em várias cidades do país",
+      "url": "https://www.rtp.pt/noticias/economia/protestos-pelo-direito-a-habitacao-desceram-a-rua-em-varias-cidades-do-pais_e1773996",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T21:19:07+00:00",
-      "summary": "O Penafiel ganhou ao Farense por 4-1, em jogo da oitava jornada da II Liga, subindo, à condição, ao terceiro lugar da classificação.",
+      "publishedAt": "2026-10-24T22:54:02+00:00",
+      "summary": "Foram vários os protestos que decorreram este sábado por todo o país com manifestantes a sair à rua em luta pelo direito à habitação.",
+      "category": "Mundo"
+    },
+    {
+      "title": "GVFC X FCP. \"O Porto precisa de ser um mais criativo\"",
+      "url": "https://observador.pt/programas/relat-rio-de-jogo/gvfc-x-fcp-o-porto-precisa-de-ser-um-mais-criativo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T22:53:32+00:00",
+      "summary": "Para Luís Pinto Coelho, Kiwior teve o discernimento e Borja Sainz \"decidiu o jogo\". Apesar da vitória, \"Farioli tem ser menos robótico\" e Santi Garcia, do Gil Vicente, é \"jogador de equipa grande\".",
       "category": "Esportes"
     },
     {
-      "title": "Porto também voltou à rua pela habitação",
-      "url": "https://www.rtp.pt/noticias/politica/porto-tambem-voltou-a-rua-pela-habitacao_v1774076",
+      "title": "Filmes de Éric Baudelaire e Manuel Mozos premiados no festival Doclisboa",
+      "url": "https://www.rtp.pt/noticias/cultura/filmes-de-eric-baudelaire-e-manuel-mozos-premiados-no-festival-doclisboa_n1774088",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T21:18:47+00:00",
-      "summary": "Houve manifestações pelo direito à habitação em vários pontos do país. Além dos jovens, há cada vez mais famílias a protestar e a denunciar situações de precariedade.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Sporting recebe o Académico de Viseu",
-      "url": "https://www.rtp.pt/noticias/desporto/sporting-recebe-o-academico-de-viseu_v1774075",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T21:16:47+00:00",
-      "summary": "Rui Borges garante que sabe lidar bem com a crítica.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dortmund isolado no comando na Alemanha",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/dortmund-isolado-no-comando-na-alemanha_d1774074",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T21:16:42+00:00",
-      "summary": "O Borussia Dortmund derrotou hoje o Eintracht Frankfurt, por 1-0, com um golo solitário de Beier, no encontro da sétima jornada da Liga alemã de futebol, isolando-se na liderança da tabela.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Milhares na rua em Lisboa",
-      "url": "https://www.rtp.pt/noticias/politica/milhares-na-rua-em-lisboa_v1774073",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T21:14:47+00:00",
-      "summary": "O protesto saiu do Marquês de Pombal numa marcha de milhares de pessoas até ao Rossio.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Livre, PCP e Bloco estiveram na manifestação em Lisboa",
-      "url": "https://www.rtp.pt/noticias/politica/livre-pcp-e-bloco-estiveram-na-manifestacao-em-lisboa_v1774072",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T21:13:47+00:00",
-      "summary": "José Luís Carneiro mostrou-se solidário com o descontentamento dos manifestantes e criticou o silêncio de Luís Montenegro. Livre, PCP e Bloco estiveram na manifestação em Lisboa. Todos exigem o recuo do Governo na nova lei das rendas.",
-      "category": "Política"
-    },
-    {
-      "title": "\"O Palácio das Lágrimas\" é o nome do novo livro de José Rodrigues dos Santos",
-      "url": "https://www.rtp.pt/noticias/cultura/o-palacio-das-lagrimas-e-o-nome-do-novo-livro-de-jose-rodrigues-dos-santos_v1774071",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T21:11:47+00:00",
-      "summary": "Inspirada em factos verídicos, o romance baseia-se em atrocidades praticadas pelo regime estalinista.",
+      "publishedAt": "2026-10-24T22:52:10+00:00",
+      "summary": "Os filmes \"Car la Lune\", de Éric Baudelaire, \"A voz de todos\", de Manuel Mozos, e \"Povo e Poder\", de Ico Costa, estão entre os premiados na 24.ª edição do festival de cinema Doclisboa, hoje anunciados.",
       "category": "Cultura"
     },
     {
-      "title": "IA é como fast food, \"pouco saudável ao fim de um ano\"",
-      "url": "https://observador.pt/especiais/chatbots-de-ia-sao-como-comida-de-plastico-as-vezes-e-muito-bom-mas-ao-fim-de-um-ano-e-pouco-saudavel/",
+      "title": "Met confirma carta sobre pai de Meghan",
+      "url": "https://observador.pt/2026/10/24/policia-confirma-que-partilhou-com-harry-e-meghan-carta-sobre-pai-da-duquesa-em-2019-mas-nunca-investigou-as-alegacoes/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T20:35:10+00:00",
-      "summary": "Amelia Miller dedica-se à investigação das consequências do uso de chatbots de IA nas relações entre humanos",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Dragões realmente existiram? O que diz a ciência sobre os primos mitológicos dos dinossauros",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/dragoes-realmente-existiram-o-que-diz-a-ciencia-sobre-os-primos-mitologicos-dos-dinossauros/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:35:07+00:00",
-      "summary": "Répteis ovíparos, gigantescos, inteligentes e voadores: dragões são biologicamente possíveis? E, se não, por que eles aparecem na mitologia de tantos povos distantes?",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "As notícias das 21h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1796/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T20:34:35+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "publishedAt": "2026-10-24T22:50:45+00:00",
+      "summary": "A Polícia Metropolitana admite ter enviado ao casal o documento com alegações de crimes — mas o caso não foi investigado. Meghan estará \"triste e frustrada\".",
       "category": "Mundo"
     },
     {
-      "title": "Palmeiras x Red Bull Bragantino: escalações e onde assistir ao Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-x-red-bull-bragantino-escalacoes-e-onde-assistir-ao-brasileirao-2/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:33:47+00:00",
-      "summary": "Time de Abel Ferreira tenta passar o fim de semana na liderança provisória do Campeonato Brasileiro; partida será na Arena Barueri",
-      "category": "Esportes"
-    },
-    {
-      "title": "Vasco x Corinthians: escalações e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-x-corinthians-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao-2/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:31:47+00:00",
-      "summary": "Equipes vão a campo neste sábado (24), às 18h30 (de Brasília), em São Januário, no Rio de Janeiro, pela 32ª rodada do Campeonato Brasileiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Professora travesti é atacada com pedrada dentro de escola em Avaré: 'Estavam me esperando'",
-      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/24/professora-travesti-e-atacada-com-pedrada-dentro-de-escola-em-avare-estavam-me-esperando.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:29:11+00:00",
-      "summary": "Professora travesti é atacada com pedrada dentro de escola em Avaré Uma professora de uma escola municipal de Avaré (SP) registrou um boletim de ocorrência após ser atacada com uma pedrada em uma das salas da unidade, na noite de sexta-feira (23). O caso é investigado pela Polícia Civil. Celso Melo, que é travesti, con",
+      "title": "Acampada de Lisboa contabiliza 130 tendas no Rossio",
+      "url": "https://www.rtp.pt/noticias/economia/acampada-de-lisboa-contabiliza-130-tendas-no-rossio_n1774085",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T22:50:45+00:00",
+      "summary": "A Acampada de Lisboa pelo direito à habitação contabilizou hoje, cerca das 22:00, um total de 130 tendas montadas na Praça do Rossio, onde \"cerca de 300 pessoas\" pretendem dormir esta noite.",
       "category": "Mundo"
     },
     {
-      "title": "Gordão da XJ vai ao hospital às pressas após apresentar sangramento: “Medo”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/gordao-da-xj-vai-ao-hospital-as-pressas-apos-apresentar-sangramento-medo/",
+      "title": "Flávio termina campanha em \"homenagem ao pai\" no Rio de Janeiro",
+      "url": "https://www.rtp.pt/noticias/brasil-2026/flavio-termina-campanha-em-homenagem-ao-pai-no-rio-de-janeiro_n1774086",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T22:50:12+00:00",
+      "summary": "Flávio Bolsonaro encerrou hoje a campanha para as presidenciais brasileiras no Rio de Janeiro, numa \"homenagem ao pai\" e afirmou que \"o Brasil terá um novo Presidente\", na véspera da segunda volta frente a Lula da Silva.",
+      "category": "Política"
+    },
+    {
+      "title": "Carla Visi, ex-cantora da banda Cheiro de Amor, é internada em Lisboa",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/carla-visi-ex-cantora-da-banda-cheiro-de-amor-e-internada-em-lisboa/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-24T20:28:43+00:00",
-      "summary": "Influenciador Sidney Bezerra mostra seu processo de emagrecimento nas redes; no início do ano ele havia compartilhado ter perdido 130 kg",
+      "publishedAt": "2026-10-24T22:46:26+00:00",
+      "summary": "Cantora está internada no Hospital Santa Maria desde segunda-feira (19), quando estava com um quadro de febre em torno dos 40º",
       "category": "Saúde"
     },
     {
-      "title": "Seleção Brasileira: veja nomes presentes na pré-lista de Carlo Ancelotti",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/selecao-brasileira-veja-nomes-presentes-na-pre-lista-de-carlo-ancelotti/",
+      "title": "Bombeiros encontram corpo de homem desaparecido em Florianópolis",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/bombeiros-encontram-corpo-de-homem-desaparecido-em-florianopolis/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-24T20:27:02+00:00",
-      "summary": "Nomes de jogadores que estão na pré-lista do técnico italiano começam a ser revelados para os próximos amistosos do Brasil, em novembro",
-      "category": "Esportes"
+      "publishedAt": "2026-10-24T22:42:46+00:00",
+      "summary": "Vítima de 51 anos estava em área de mata na região de Vargem Pequena após buscas com cão farejador",
+      "category": "Mundo"
     },
     {
-      "title": "Acidente com veículo que transportava urnas eletrônicas deixa duas mulheres feridas no AM",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/24/acidente-com-veiculo-que-transportava-urnas-eletronicas-deixa-duas-mulheres-feridas-no-am.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:26:21+00:00",
-      "summary": "Acidente com veículo que transportava urnas eletrônicas deixa duas mulheres feridas no AM Reprodução/Redes Sociais Duas mulheres ficaram feridas em um acidente com um veículo que transportava urnas eletrônicas para as Eleições 2026, neste sábado (24), em Lábrea, no interior do Amazonas. As condições dos equipamentos sã",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: Zerésima confirma sistema de totalização sem votos no Piauí para segundo turno",
-      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/24/totalizacao-votos-piaui-eleicoes.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:26:16+00:00",
-      "summary": "Eleições 2026: TRE sorteia urnas que serão submetidas à auditoria O sistema responsável por receber e somar os votos das urnas eletrônicas foi submetido, neste sábado (24), a uma auditoria pública no Piauí. O procedimento, conhecido como Zerésima, comprovou que não havia votos registrados no banco de dados antes do iní",
-      "category": "Política"
-    },
-    {
-      "title": "Como são os bastidores de \"A Caça ao Estripador de Lisboa\"?",
-      "url": "https://observador.pt/especiais/18-cenarios-20-personagens-e-um-assassino-a-solta-o-que-revelam-os-bastidores-de-a-caca-ao-estripador-de-lisboa/",
-      "source": "Observador",
+      "title": "Gianmarco Tamberi e Audrey Werro eleitos atletas europeus do ano",
+      "url": "https://www.rtp.pt/noticias/atletismo/gianmarco-tamberi-e-audrey-werro-eleitos-atletas-europeus-do-ano_d1774087",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T20:24:56+00:00",
-      "summary": "O espetáculo imersivo pode ter até 100 espectadores a circularem pelo espaço",
+      "publishedAt": "2026-10-24T22:41:01+00:00",
+      "summary": "O italiano Gianmarco Tamberi e a suíça Audrey Werro, campeões continentais do salto em altura e dos 800 metros, respetivamente, foram hoje eleitos atletas europeus do ano, na gala da European Athletics, em Lausana, na Suíça.",
+      "category": "Economia"
+    },
+    {
+      "title": "Maringá vence Ferroviária e conquista título inédito da Série C",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/maringa-vence-ferroviaria-e-conquista-titulo-inedito-da-serie-c/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:35:40+00:00",
+      "summary": "Com vitória por 2 a 1 em Araraquara, no interior de São Paulo, clube paranaense conquista seu primeiro título nacional e assegura vaga na Copa do Brasil",
+      "category": "Mundo"
+    },
+    {
+      "title": "Kiev ataca centro logístico na cidade russa de Omsk",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-ataca-centro-logistico-na-cidade-russa-de-omsk_n1774082",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T22:30:53+00:00",
+      "summary": "A Ucrânia atacou com drones um centro de distribuição da gigante russa de comércio eletrónico Ozon, na cidade siberiana de Omsk, indicou o governador local, Vitaly Khotsenko, nas redes sociais.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Atlas: Lula é desaprovado por 50,8% dos eleitores; 47,9% aprovam",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-lula-e-desaprovado-por-508-dos-eleitores-479-aprovam/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:30:43+00:00",
+      "summary": "Ao mesmo tempo, 49,1% avaliam o governo do petista como “ruim/péssimo” e 39,3% como “ótimo/bom”; pesquisa ouviu 4.990 pessoas em todo o país",
+      "category": "Política"
+    },
+    {
+      "title": "Artista Eduardo Matos vence Prémio de Desenho FLAD na Feira Drawing Room",
+      "url": "https://www.rtp.pt/noticias/cultura/artista-eduardo-matos-vence-premio-de-desenho-flad-na-feira-drawing-room_n1774056",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T22:30:09+00:00",
+      "summary": "O artista Eduardo Matos venceu por unanimidade o Prémio de Desenho Fundação Luso-Americana para o Desenvolvimento (FLAD) 2026, anunciou hoje a feira de arte contemporânea Drawing Room Lisboa, parceira do galardão.",
+      "category": "Cultura"
+    },
+    {
+      "title": "AtlasIntel: Flávio tem 50,8% dos votos válidos no 2º turno; Lula, 49,2%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/atlasintel-flavio-tem-508-dos-votos-validos-no-2o-turno-lula-492/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:30:03+00:00",
+      "summary": "Pesquisa ouviu 4.990 eleitores entre os dias 18 e 23 de outubro; margem de erro é de um ponto percentual, para mais ou para menos, com nível de confiança de 95%",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Apoiadores de Lula e Flávio vão às ruas em 15 capitais no último dia de campanha para o 2º turno",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/atos-no-brasil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:23:12+00:00",
-      "summary": "Atos pró-Lula e Bolsonaro aconteceram na manhã deste sábado, em Campinas (SP) Arthur Menicucci/g1/Vanderlei Duarte/EPTV Na véspera da votação que definirá o próximo presidente da República, apoiadores de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) foram às ruas em capitais e cidades ao redor do Brasil, neste",
-      "category": "Política"
-    },
-    {
-      "title": "Arthur Aguiar e Jheny Santucci aparecem juntos em clima de reconciliação",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/arthur-aguiar-e-jheny-santucci-aparecem-juntos-em-clima-de-reconciliacao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:23:05+00:00",
-      "summary": "\"Próxima gravidez tem que ser menino\" foi uma das frases do ator, que estava levando a companheira para realizar exames pré-natal",
+      "title": "Incêndios, montras partidas e saques em Barcelona",
+      "url": "https://observador.pt/2026/10/24/barcelona-incendios-montras-partidas-e-saques-em-manifestacao-convocada-pelo-tiktok-e-inspirada-em-franca/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T22:29:57+00:00",
+      "summary": "Os distúrbios no centro de Barcelona iniciaram pelas 18h30 locais",
       "category": "Clima"
     },
     {
-      "title": "Recife tem atos de apoio à reeleição de Lula e carreata em defesa de Flávio Bolsonaro",
-      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/24/recife-tem-atos-de-apoio-a-reeleicao-de-lula-e-carreata-em-defesa-de-flavio-bolsonaro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:19:08+00:00",
-      "summary": "Recife tem atos de apoio à reeleição de Lula e carreata em defesa de Flávio Bolsonaro Apoiadores do presidente Lula (PT) fizeram diversos atos no Recife, neste sábado (24), véspera do segundo turno das eleições de 2026. Além disso, também foi realizada uma carreata em apoio ao senador Flávio Bolsonaro (PL), que também ",
-      "category": "Política"
-    },
-    {
-      "title": "Motoboy é agredido a pauladas após ir cobrar patrão por pagamento em lanchonete de Sorocaba",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/24/motoboy-e-agredido-a-pauladas-apos-ir-cobrar-patrao-por-pagamento-em-lanchonete-de-sorocaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:18:49+00:00",
-      "summary": "Motoboy foi agredido a pauladas e precisou ser hospitalizado após ir cobrar o salário do patrão em uma lanchonete de Sorocaba (SP) Câmera de segurança/Reprodução Um motoboy foi agredido a pauladas após ir cobrar o patrão pelo salário em uma lanchonete de Sorocaba (SP), na tarde desta sexta-feira (23). Conforme apurado ",
-      "category": "Saúde"
-    },
-    {
-      "title": "Apoiadores de Lula fazem manifestação em Goiânia na véspera da eleição",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/24/apoiadores-de-lula-fazem-manifestacao-em-goiania-na-vespera-da-eleicao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:17:48+00:00",
-      "summary": "Apoiadores do presidente Lula se reuniram na última manifestação em Goiânia antes do segundo turno das Eleições. Neste sábado (24), os eleitores petistas começaram a concentração na Praça Universitária, mesmo local de outras manifestações pró-Lula durante a campanha. Manifestação pró-Lula em Goiânia neste sábado (24) V",
-      "category": "Política"
-    },
-    {
-      "title": "Mulher é encontrada debilitada e com sangramento após sair da Venezuela rumo à Guiana",
-      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/24/mulher-e-encontrada-debilitada-e-com-sangramento-apos-sair-da-venezuela-rumo-a-guiana.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:16:30+00:00",
-      "summary": "Fronteira do Brasil com a Guiana, em Bonfim, no estado de Roraima, Norte do país Nalu Cardoso/g1 RR/Arquivo Uma mulher, de 21 anos, foi encontrada debilitada e sangrando, neste sábado (24), no Bonfim, ao Norte de Roraima, neste sábado (24). Uma prima informou à Polícia Militar que a jovem havia saído da Venezuela rumo ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Adolescente é identificado após vídeo de 'grau' e direção perigosa em Cardoso Moreira",
-      "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/24/adolescente-e-identificado-apos-video-de-grau-e-direcao-perigosa-em-cardoso-moreira.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:14:38+00:00",
-      "summary": "Adolescente é identificado após vídeo de manobras perigosas em Cardoso Moreira Uma ação conjunta entre a Guarda Civil Municipal de Cardoso Moreira e a Polícia Civil de Italva resultou na identificação de um adolescente de 16 anos suspeito de realizar manobras perigosas e perturbar o sossego público em vias de Cardoso M",
-      "category": "Mundo"
-    },
-    {
-      "title": "Em último dia de campanha, apoiadores de Flávio Bolsonaro (PL) e Lula (PT) realizam manifestações em Fortaleza",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/24/em-ultimo-dia-de-campanha-apoiadores-de-flavio-bolsonaro-pl-e-lula-pt-realizam-manifestacoes-em-fortaleza.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:14:21+00:00",
-      "summary": "Apoiadores de Flávio e Lula realizam manifestações neste sábado (24). Kid Junior/SVM; Thiago Gadelha (SVM) No último dia da campanha presidencial, apoiadores dos candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) realizam manifestações neste sábado (24) em Fortaleza e em outras cidades do Ceará. Os apoia",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cinco estados têm alerta de perigo para tempestades durante eleições",
-      "url": "https://www.cnnbrasil.com.br/nacional/brasil/cinco-estados-tem-alerta-de-perigo-para-tempestades-durante-eleicoes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:11:02+00:00",
-      "summary": "Previsão indica chuvas volumosas, queda de granizo e risco de alagamentos em seis estados afetados dos sudeste, sul e centro-oeste brasileiro",
-      "category": "Política"
-    },
-    {
-      "title": "Vasco x Flamengo: venda de ingressos começa com “acordo quebrado”",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-x-flamengo-venda-de-ingressos-comeca-com-acordo-quebrado/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:10:29+00:00",
-      "summary": "CBF confirma mudança de estádio para clássico; Vasco anuncia venda de ingressos apenas para setor visitante",
-      "category": "Mundo"
-    },
-    {
-      "title": "Debate na Globo: a reação da mãe de Ana Clara quando Flávio Bolsonaro respondeu sobre a morte da menina em Niteroi",
-      "url": "https://g1.globo.com/politica/blog/natuza-nery/post/2026/10/24/debate-na-globo-a-reacao-da-mae-de-ana-clara-quando-flavio-bolsonaro-respondeu-sobre-a-morte-da-menina-em-niteroi.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:08:49+00:00",
-      "summary": "Mãe de Ana Clara reage à resposta de Flávio sobre morte da filha Um dos momentos mais tensos do debate presidencial da TV Globo foi quando Luiz Inácio Lula da Silva (PT) perguntou para Flávio Bolsonaro (PL) sobre a morte da menina Ana Clara, aos 5 anos, durante uma operação policial em Niterói, em 2021. O candidato do ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Irmão de Djidja Cardoso deixa presídio e é recebido por amigos e pela mãe em Manaus",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/24/irmao-de-djidja-cardoso-deixa-presidio-e-e-recebido-por-amigos-e-pela-mae-em-manaus.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:08:40+00:00",
-      "summary": "Irmão de Djidja Cardoso deixa presídio e é recebido por amigos e pela mãe em Manaus Ademar Cardoso, irmão da ex-sinhazinha do Boi Garantido Djidja Cardoso, deixou o presídio na manhã deste sábado (24) para cumprir pena em regime semiaberto, em Manaus. A Justiça do Amazonas autorizou a progressão de regime na sexta-feir",
-      "category": "Mundo"
-    },
-    {
-      "title": "MP Eleitoral se manifesta contra bloqueio do canal “Exército do Lula”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/mp-eleitoral-se-manifesta-contra-bloqueio-do-canal-exercito-do-lula/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:06:53+00:00",
-      "summary": "Procirador diz que mobilização de pessoas reais não configura irregularidade e que procedimento administrativo e liminar do TSE não permitem a derrubada do grupo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mil detidos em França. Confrontos em Itália e Albânia",
-      "url": "https://observador.pt/2026/10/24/quase-mil-detidos-em-franca-durante-protestos-com-mais-de-400-mil-pessoas-manifestacoes-terminam-em-confrontos-em-italia-e-albania/",
-      "source": "Observador",
+      "title": "Protesto em Évora junta cerca de 50 pessoas e atrai atenção de turistas",
+      "url": "https://www.rtp.pt/noticias/politica/protesto-em-evora-junta-cerca-de-50-pessoas-e-atrai-atencao-de-turistas_n1774053",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T20:02:07+00:00",
-      "summary": "Em Paris mais de 100 mil pessoas participaram na manifestação este sábado",
+      "publishedAt": "2026-10-24T22:27:56+00:00",
+      "summary": "Cerca de 50 pessoas participaram hoje, ao final da tarde, numa concentração em Évora pelo direito à habitação, na qual gritaram palavras de ordem, captando a atenção de alguns turistas que passavam pela Praça do Giraldo.",
       "category": "Mundo"
     },
     {
-      "title": "Defesa Civil do Paraná emite alerta vermelho para temporais severos",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/defesa-civil-do-parana-emite-alerta-vermelho-para-temporais-severos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T19:49:11+00:00",
-      "summary": "Aviso alerta para a possibilidade de chuvas intensas e queda de granizo em diversas regiões",
-      "category": "Clima"
-    },
-    {
-      "title": "Você costuma andar com as mãos para trás? Entenda o que esse hábito pode revelar",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/voce-costuma-andar-com-as-maos-para-tras-entenda-o-que-esse-habito-pode-revelar/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T19:48:29+00:00",
-      "summary": "Postura pode transmitir impressões de tranquilidade, concentração e autoridade, mas seu significado depende do contexto e de outros sinais corporais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Maçonaria e Nações Unidas, um percurso interligado",
-      "url": "https://observador.pt/opiniao/maconaria-e-nacoes-unidas-um-percurso-interligado/",
-      "source": "Observador",
+      "title": "Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida",
+      "url": "https://www.rtp.pt/noticias/mundo/milhares-de-pessoas-manifestaram-se-nas-principais-cidades-italianas-contra-custo-de-vida_n1774049",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-24T19:40:54+00:00",
-      "summary": "A resposta à pergunta de onde vêm as Nações Unidas é indissociável de múltiplas referências maçónicas.",
+      "publishedAt": "2026-10-24T22:27:27+00:00",
+      "summary": "Milhares de pessoas manifestaram-se hoje nas principais cidades italianas contra o aumento do custo de vida, preços das casas e despesas militares, protestos acompanhados por um forte dispositivo policial depois dos distúrbios no fim de semana passado, em Milão.",
+      "category": "Economia"
+    },
+    {
+      "title": "Manifestação em Paris termina em confrontos apesar de forte dispositivo policial",
+      "url": "https://www.rtp.pt/noticias/mundo/manifestacao-em-paris-termina-em-confrontos-apesar-de-forte-dispositivo-policial_n1774047",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T22:27:06+00:00",
+      "summary": "Uma manifestação numerosa convocada por vários sindicatos em Paris acabou em confrontos entre centenas de \"vândalos\" e a polícia, que usou gás lacrimogéneo e canhões de água para dispersar um grupo de jovens no final do protesto.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quaest: Flávio é rejeitado por 49%; Lula, por 47%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-e-rejeitado-por-49-lula-por-47/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:25:41+00:00",
+      "summary": "Levantamento divulgado neste sábado (24) ouviu 3.702 pessoas entre os dias 23 e 24 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Pedro Pascal lembra do início da carreira: “Você engole muito sapo”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/pedro-pascal-lembra-do-inicio-da-carreira-voce-engole-muito-sapo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:23:45+00:00",
+      "summary": "Em \"Behemoth!\" o ator vive um violoncelista em jornada de autoconhecimento após passar duas décadas viajando a trabalho",
       "category": "Esportes"
     },
     {
-      "title": "As imagens dos protestos pela habitação em Lisboa e no Porto",
-      "url": "https://observador.pt/2026/10/24/chaves-cartazes-e-tendas-na-rua-pela-habitacao-as-imagens-dos-protestos-em-lisboa-e-no-porto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T19:39:07+00:00",
-      "summary": "Os protestos pela habitação estenderam-se um pouco por todo o país, mas foi em Lisboa e no Porto que se concentraram mais manifestantes. Em Lisboa voltaram a montar-se tendas no final.",
+      "title": "Antonelli conquista pole no GP dos EUA e pode ser campeão mais jovem da F1",
+      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/antonelli-conquista-pole-no-gp-dos-eua-e-pode-ser-campeao-mais-jovem-da-f1/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:22:15+00:00",
+      "summary": "Italiano de 20 anos larga na frente neste domingo (24), com Max Verstappen ao seu lado; Isack Hadjar e Charles Leclerc completam a segunda fila",
       "category": "Mundo"
     },
     {
-      "title": "Nunes Marques nega autorização para transporte de eleitores indígenas",
+      "title": "Pesquisas mostram Flávio numericamente à frente de Lula, na margem de erro",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/ultimas-pesquisas-segundo-turno-eleicao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:21:07+00:00",
+      "summary": "Levantamentos mostram disputa acirrada dentro da margem de erro",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Trem do monotrilho que bateu em guindaste teve danos na carenagem frontal",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trem-do-monotrilho-que-bateu-em-guindaste-teve-danos-na-carenagem-frontal/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:16:52+00:00",
+      "summary": "Incidente ocorreu na Avenida Professor Luiz Ignácio Anhaia Mello, em São Paulo, neste sábado (24); operador do guindaste precisou ser socorrido pela empresa responsável pelo equipamento",
+      "category": "Economia"
+    },
+    {
+      "title": "Mirassol 1 x 1 São Paulo: veja os melhores momentos do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-1-x-1-sao-paulo-veja-os-melhores-momentos-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:13:21+00:00",
+      "summary": "Após duas vitórias seguidas, Tricolor Paulista fica no 1 a 1 com o time do interior, em duelo válido pela 32ª rodada do Brasileirão, e se mantem na nona posição",
+      "category": "Mundo"
+    },
+    {
+      "title": "Vitória 1 x 1 Athletico-PR: veja os melhores momentos do Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-1-x-1-athletico-pr-veja-os-melhores-momentos-do-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T22:06:58+00:00",
+      "summary": "Furacão abre o placar no Barradão, mas cede o empate e pode perder posição na tabela ao fim da rodada da Série A do Campeonato Brasileiro",
+      "category": "Esportes"
+    },
+    {
+      "title": "Justiça proíbe rede de supermercados de praticar assédio eleitoral",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-proibe-rede-de-supermercados-de-fazer-assedio-eleitoral",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T20:48:00+00:00",
+      "summary": "A Justiça do Trabalho determinou que uma rede de supermercados pare de enviar comunicados de cunho eleitoral para seus funcionários. A decisão foi tomada a pedido do Sindicato dos Comerciários, que constatou que empregados do Supermercado Zona Sul receberam carta, enviada pela empresa, que continha críticas ao cenário ",
+      "category": "Economia"
+    },
+    {
+      "title": "Veja quem tem prioridade nas seções eleitorais no segundo turno",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T20:24:00+00:00",
+      "summary": "Os 158,7 milhões de eleitores que comparecerão às urnas no segundo turno, neste domingo (25), deverão votar apenas para presidente da República e governador, dependendo do estado . Caso haja fila nas seções de votação, a legislação estabelece públicos prioritários que podem votar antes dos demais. Notícias relacionadas",
+      "category": "Política"
+    },
+    {
+      "title": "Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-24T19:32:00+00:00",
       "summary": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, negou pedido para que veículos e embarcações da Fundação Nacional dos Povos Indígenas (Funai), Secretaria de saúde Indígena (Sesai) e do Ministério dos Povos Indígenas (MPI) possam transportar eleitores indígenas sem autorização prévia da",
       "category": "Política"
-    },
-    {
-      "title": "Criança fica presa à fiação elétrica após cair da janela do 2° andar",
-      "url": "https://www.cnnbrasil.com.br/nacional/nordeste/al/crianca-fica-presa-a-fiacao-eletrica-apos-cair-da-janela-do-2-andar/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T19:30:43+00:00",
-      "summary": "Vítima sofreu apenas escoriações leves e recebeu atendimento médico na UPA do município",
-      "category": "Saúde"
-    },
-    {
-      "title": "20h. José Luís Carneiro critica o silêncio do PM",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2073/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T19:13:34+00:00",
-      "summary": "O secretário-geral do PS diz que Luís Montenegro devia dar a cara ao país. Ainda, em França quase mil pessoas foram detidas hoje nas manifestações.",
-      "category": "Mundo"
     },
     {
       "title": "Tribunais eleitorais definem urnas que serão auditadas no 2º turno",
@@ -405,51 +360,6 @@
       "publishedAt": "2026-10-24T19:13:00+00:00",
       "summary": "Tribunais regionais eleitorais (TREs) de todo o país definiram neste sábado (24) as urnas eletrônicas que serão submetidas a auditorias neste segundo turno das eleições gerais. As urnas foram sorteadas ou escolhidas por representantes de partidos políticos e entidades fiscalizadoras. Nos quatro maiores colégios eleitor",
       "category": "Política"
-    },
-    {
-      "title": "Mulheres, luto e droga. JFK \"público, privado e secreto\"",
-      "url": "https://observador.pt/especiais/as-mulheres-o-luto-as-drogas-um-retrato-publico-privado-e-secreto-de-jfk/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T18:40:55+00:00",
-      "summary": "J. Randy Taraborrelli faz um retrato minucioso de uma vida pública influenciada (e até ofuscada) pelas relações privadas do antigo presidente dos EUA. Publicamos excertos da nova biografia.",
-      "category": "Política"
-    },
-    {
-      "title": "André Silva marca mas golo é anulado (0-0, 48')",
-      "url": "https://observador.pt/liveblogs/gil-vicente-fc-porto-dragoes-procuram-regresso-aos-triunfos-apos-nova-derrota-na-champions/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T18:30:13+00:00",
-      "summary": "Depois de nova derrota na Champions com o PSV, FC Porto procura regresso aos triunfos para consolidar liderança na Liga só com vitórias. William Gomes continua de fora por lesão. Siga aqui em direto.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Protestos. \"A bandeira portuguesa não é para andar atrás\"",
-      "url": "https://observador.pt/programas/resposta-pronta/protestos-a-bandeira-portuguesa-nao-e-para-andar-atras/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T18:29:47+00:00",
-      "summary": "À frente das manifestações pela habitação em Lisboa está Alfredo Fernandes. Tem 98 anos e garante: \"Não ando aqui por mim, ando pela geração futura\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Carneiro pede que lei das rendas fique na gaveta",
-      "url": "https://observador.pt/2026/10/24/carneiro-apela-ao-governo-para-deixar-nova-lei-do-arrendamento-na-gaveta-e-rejeita-responsabilidade-do-ps/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T18:23:50+00:00",
-      "summary": "O líder do PS diz que \"as pessoas já perceberam que esta é uma lei que vai facilitar os despejos\" e que medidas do PS procuraram \"fazer face à lei Cristas\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dezenas de milhares manifestam-se no centro de Telavive",
-      "url": "https://observador.pt/2026/10/24/dezenas-de-milhares-manifestam-se-no-centro-de-telavive-por-mudanca-nas-proximas-legislativas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T18:23:04+00:00",
-      "summary": "Manifestantes protestam por mudança nas próximas legislativas em Israel",
-      "category": "Mundo"
     },
     {
       "title": "Saiba os direitos de idosos e pessoas com deficiência para votar",
@@ -497,30 +407,12 @@
       "category": "Ciência & Tech"
     },
     {
-      "title": "Protestos na França começam sob forte esquema de segurança",
+      "title": "Protestos na França ocorrem sob forte esquema de segurança",
       "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/protestos-na-franca-comecam-sob-forte-esquema-de-seguranca",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-24T15:38:00+00:00",
       "summary": "Manifestantes se reuniram em Paris e em cidades de toda a França neste sábado (24), sob a vigilância de 70 mil policiais, enquanto o governo tentava evitar a repetição dos distúrbios e saques que sacudiram o país no fim de semana passado. O ministro do Interior, Laurent Nuñez, disse que 135 pessoas haviam sido presas e",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: saiba o que caracteriza o crime de boca de urna",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-saiba-o-que-caracteriza-o-crime-de-boca-de-urna",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T15:28:00+00:00",
-      "summary": "Neste domingo (25), assim como em todas as eleições, os eleitores não podem pedir votos, distribuir propaganda ou abordar eleitores para influenciar a escolha do candidato.. Essas práticas podem caracterizar o crime de boca de urna. O que é a boca de urna? A boca de urna ocorre quando há tentativa de convencer o eleito",
-      "category": "Política"
-    },
-    {
-      "title": "Ministério da Justiça faz operação para garantir segurança no 2º turno",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministerio-da-justica-faz-operacao-para-garantir-seguranca-no-2o-turno",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T15:18:00+00:00",
-      "summary": "O Ministério da Justiça e Segurança Pública (MJSP) iniciou, neste sábado (24), operação para garantir a segurança no segundo turno das eleições. As ações, que vão até amanhã (25), são realizadas em conjunto com órgãos federais e estaduais de segurança. Também participam da iniciativa o Tribunal Superior Eleitoral (TSE)",
       "category": "Política"
     }
   ],
@@ -531,5 +423,10 @@
     "Observador",
     "RTP Notícias"
   ],
-  "failures": []
+  "failures": [
+    {
+      "source": "G1",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
 }
