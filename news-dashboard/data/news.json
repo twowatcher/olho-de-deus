@@ -1,6 +1,384 @@
 {
-  "updatedAt": "2026-10-23T22:06:36.361478+00:00",
+  "updatedAt": "2026-10-24T00:38:08.663859+00:00",
   "items": [
+    {
+      "title": "00h Manifestações pela habitação vão continuar no Porto",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-manifestacoes-pela-habitacao-vao-continuar-no-porto_a1_1773918",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T00:49:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Kremlin divulga lista de opositores no exílio sujeitos a sanções",
+      "url": "https://www.rtp.pt/noticias/mundo/kremlin-divulga-lista-de-opositores-no-exilio-sujeitos-a-sancoes_n1773914",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T00:19:52+00:00",
+      "summary": "A Federação Russa divulgou hoje uma lista de opositores no exílio sujeitos a sanções, no quadro de uma lei recente e denunciada por organizações não-governamentais como visando causar-lhes a \"morte social\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "Três suspeitos são presos por ligação com ameaças e cobranças de taxas a comerciantes no interior do Ceará",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/23/tres-suspeitos-sao-presos-por-ligacao-com-ameacas-e-cobrancas-de-taxas-a-comerciantes-no-interior-do-ceara.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:19:50+00:00",
+      "summary": "Três homens foram presos por suspeita de envolvimento em ameaças de facção a comerciantes em Banabuiú (CE) Reprodução Três homens foram presos, na quinta-feira (22), por suspeita de ameaçar e extorquir comerciantes em Banabuiú, município no sertão central do Ceará. A facção chegou a publicar mensagens intituladas de \"e",
+      "category": "Esportes"
+    },
+    {
+      "title": "Declarações do presidente do IHRU. Carneiro focado em travar lei do arrendamento",
+      "url": "https://www.rtp.pt/noticias/politica/declaracoes-do-presidente-do-ihru-carneiro-focado-em-travar-lei-do-arrendamento_v1773915",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T00:17:48+00:00",
+      "summary": "O secretário-geral do PS diz que compete ao ministro da Habitação e das Infraestruturas decidir sobre o futuro do presidente do IHRU.",
+      "category": "Política"
+    },
+    {
+      "title": "1h. Eleições no Brasil. Candidatos confiantes para debate",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2424/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T00:13:11+00:00",
+      "summary": "Os dois candidatos têm passado as últimas horas em preparativos para o frente a frente decisivo desta noite. Ainda, o Presidente da República recusa estar adormecido.",
+      "category": "Política"
+    },
+    {
+      "title": "Vídeo flagra homens jogando corpo atrás de muro; PMSP nota modus operandi",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-flagra-homens-jogando-corpo-atras-de-muro-pmsp-nota-modus-operandi/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:12:44+00:00",
+      "summary": "Câmera de monitoramento flagra quatro suspeitos descarregando o corpo de um homem de 22 anos na zona oeste de São Paulo; SSP não confirma semelhança com outros 17 casos que ocorreram na capital",
+      "category": "Mundo"
+    },
+    {
+      "title": "Feira em Cuiabá oferece mais de 3 mil vagas de emprego nos setores de indústria e comércio",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/23/feira-em-cuiaba-oferece-mais-de-3-mil-vagas-de-emprego-nos-setores-de-industria-e-comercio.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:12:11+00:00",
+      "summary": "UniSenai Cuiabá Reprodução Mais de 3 mil oportunidades de trabalho serão oferecidas durante a Feira de Empregos da Indústria e Comércio 2026, no dia 29 de outubro, das 8h às 16h, na UniSenai Cuiabá. O evento reúne empresas dos setores de comércio, indústria e serviços, com vagas para diferentes áreas e níveis de escola",
+      "category": "Economia"
+    },
+    {
+      "title": "Cerca de 160 milhões de brasileiros estão aptos a participar do segundo turno das eleições no domingo (25)",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/cerca-de-160-milhoes-de-brasileiros-estao-aptos-a-participar-do-segundo-turno-das-eleicoes-no-domingo-25.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:10:20+00:00",
+      "summary": "Cerca de 160 milhões de brasileiros estão aptos a participar do segundo turno das eleições neste domingo (25). O motoboy Ademar Gonçalves está entre os 33 milhões de brasileiros que não votaram no primeiro turno: \"Não votei. Posso votar no segundo turno?\". Pode. Você e todos que não votaram no primeiro turno. Mesmo que",
+      "category": "Política"
+    },
+    {
+      "title": "A única fotojornalista no Rossio e uma antestreia",
+      "url": "https://observador.pt/newsletters/observadores-premium/a-unica-fotojornalista-no-rossio-e-uma-antestreia-no-observador/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T00:10:15+00:00",
+      "summary": "Com jornalistas dia a noite a acompanhar as acampadas no Porto e em Lisboa, o Observador era o único jornal no Rossio quando a PSP forçou a retirada das tendas. Nos Podcast Plus, uma estreia surpresa.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Moraes manda bloquear R$ 6 bi de Willer Tomaz e determina que bancos informem dados da empresa Alcazar",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/23/moraes-manda-bloquear-r-6-bi-de-willer-tomaz-e-determina-que-bancos-informem-dados-da-empresa-alcazar.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:09:11+00:00",
+      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (23) o bloqueio de até R$ 6 bilhões do advogado Willer Tomaz e uma ampla análise sobre a rede de correntistas da empresa Alcazar Holdings, que era a dona da conta que tinha o senador Flávio Bolsonaro (PL-RJ) cadastrado “como",
+      "category": "Política"
+    },
+    {
+      "title": "TSE se reúne com plataformas digitais às vésperas do segundo turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-se-reune-com-plataformas-digitais-as-vesperas-do-segundo-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:07:15+00:00",
+      "summary": "Reunião com Meta, X, Google, TikTok e Kwai também tratou de deepfakes e resposta rápida à desinformação no segundo turno",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio atinge área de vegetação no Turu, em São Luís; bombeiros controlaram as chamas",
+      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/23/incendio-atinge-area-de-vegetacao-no-turu-em-sao-luis-bombeiros-controlaram-as-chamas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:06:25+00:00",
+      "summary": "Incêndio atinge área de vegetação no Turu, em São Luís Um incêndio de grandes proporções atingiu uma área de vegetação na Avenida São Luís Rei de França, no bairro Turu, em São Luís, na tarde desta sexta-feira (23). Equipes do Corpo de Bombeiros trabalharam no combate ao fogo desde as 16h e conseguiram controlar as cha",
+      "category": "Clima"
+    },
+    {
+      "title": "Doria declara voto em Flávio Bolsonaro; Amoêdo escolhe Lula no 2º turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/doria-declara-voto-em-flavio-bolsonaro-amoedo-escolhe-lula-no-2o-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:05:48+00:00",
+      "summary": "Ex-governador de São Paulo defende alternância no poder; fundador do Novo critica os dois candidatos e diz que fará oposição ao vencedor",
+      "category": "Mundo"
+    },
+    {
+      "title": "Tapetão? Flamengo tenta anular jogo contra o Estudiantes, diz jornalista",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/tapetao-flamengo-tenta-anular-jogo-contra-o-estudiantes-diz-jornalista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:04:01+00:00",
+      "summary": "Clube carioca estaria apontando a escalação irregular de Marcos Rojo na partida da última quinta-feira (22), que terminou com triunfo da equipe argentina",
+      "category": "Esportes"
+    },
+    {
+      "title": "VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 23 de outubro de 2026",
+      "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-23-de-outubro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:02:57+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Família que denunciou abuso de menino de 11 anos em abrigo no Acre cobra providências",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/23/familia-que-denunciou-abuso-de-menino-de-11-anos-em-abrigo-no-acre-cobra-providencias.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:02:04+00:00",
+      "summary": "Denúncia de abuso contra criança em abrigo: conselheira tutelar nega omissão A família do menino de 11 anos que teria sido abusado sexualmente dentro de um abrigo em Cruzeiro do Sul, interior do Acre, cobra respostas e providências no caso. A denúncia é investigada pela Polícia Civil. Uma tia da criança, que pediu para",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEOS: NSC Notícias de sexta-feira, 23 de outubro de 2026",
+      "url": "https://g1.globo.com/sc/santa-catarina/edicao/2026/10/23/videos-nsc-noticias-de-sexta-feira-23-de-outubro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:02:03+00:00",
+      "summary": "Assista aos vídeos das principais notícias de Santa Catarina.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Meta, Google e X informam ao TSE que não encontraram irregularidades no canal de apoiadores de Lula no WhatsApp",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/meta-google-e-x-informam-ao-tse-que-nao-encontraram-irregularidades-no-canal-de-apoiadores-do-presidente-lula-no-whatsapp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:01:21+00:00",
+      "summary": "Ministro Floriano de Azevedo, do TSE, proíbe que canal de apoiadores de Lula no WhatsApp seja suspenso sem autorização do plenário As empresas Meta, Google e X informaram ao Tribunal Superior Eleitoral que não encontraram irregularidades no canal de apoiadores do presidente Lula no WhatsApp. Mais cedo, representantes d",
+      "category": "Política"
+    },
+    {
+      "title": "Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta sexta (23)",
+      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/23/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-sexta-23.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:00:00+00:00",
+      "summary": "Mailza Assis (PP) e Alan Rick (Republicanos) Reprodução Confira abaixo como foi o dia de campanha dos dois concorrentes ao segundo turno das eleições para o governo do Acre nesta sexta-feira (23). ✅ Participe do canal do g1 AC no WhatsApp Saiba como foi a agenda dos candidatos ao governo do Acre Alan Rick (Republicanos",
+      "category": "Política"
+    },
+    {
+      "title": "Ataque “terrorista” em Paris marca ponto de virada para França, diz Macron",
+      "url": "https://www.cnnbrasil.com.br/internacional/ataque-terrorista-em-paris-marca-ponto-de-virada-para-franca-diz-macron/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:56:51+00:00",
+      "summary": "País enfrenta onda de manifestações violentas que dominaram o país nas últimas semanas; disparos resultaram em um morto e quatro feridos, incluindo uma menina de 12 anos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Resultados das Loterias Caixa",
+      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:56:03+00:00",
+      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Fundação PHP tem apenas um funcionário integral, diz diretor",
+      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/fundacao-php-tem-apenas-um-funcionario-integral-diz-diretor/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:55:45+00:00",
+      "summary": "No entanto, fundação sem fins lucrativos que apoia o PHP, que pode estar na base de até 70% dos sites em todo o mundo, opera com um orçamento muito limitado",
+      "category": "Mundo"
+    },
+    {
+      "title": "Jovem de 21 anos é morto a tiros após tentar fugir de grupo armado em Timon, no MA",
+      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/23/jovem-de-21-anos-e-morto-a-tiros-apos-tentar-fugir-de-grupo-armado-em-timon-no-ma.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:52:33+00:00",
+      "summary": "Jovem de 21 anos é morto a tiros em Timon Um jovem de 21 anos foi morto a tiros após tentar fugir de um grupo de homens armados e encapuzados, na madrugada desta sexta-feira (23), no bairro Cidade Nova, em Timon, a cerca de 430 km de São Luís. A vítima foi identificado como Dogilvan Martins Santos Júnior. 📲 Clique aqui",
+      "category": "Mundo"
+    },
+    {
+      "title": "EUA, Rússia e Ucrânia realizarão negociações em novembro, diz Zelensky",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-russia-e-ucrania-realizarao-negociacoes-em-novembro-diz-zelensky/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:49:41+00:00",
+      "summary": "Representantes dos três países devem se reunir em Abu Dhabi, capital dos Emirados Árabes Unidos, ainda este ano para discutir um possível cessar-fogo entre Kiev e Moscou",
+      "category": "Mundo"
+    },
+    {
+      "title": "Meta diz que “Exército do Lula” não viola políticas da empresa",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/meta-diz-que-exercito-do-lula-nao-viola-politicas-da-empresa/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:49:08+00:00",
+      "summary": "Análise da Meta confirma que não há irregularidades no canal administrado pelo deputado federal, André Janones",
+      "category": "Economia"
+    },
+    {
+      "title": "TSE manda remover áudio falso sobre mesários do canal “Tropa do Flávio”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-remover-audio-falso-sobre-mesarios-do-canal-tropa-do-flavio/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:48:35+00:00",
+      "summary": "Decisão estabelece duas horas para remoção da gravação, sob pena de multa de R$ 100 mil por hora de descumprimento",
+      "category": "Mundo"
+    },
+    {
+      "title": "Nubank anuncia saída de diretor de tecnologia Eric Young",
+      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/nubank-anuncia-saida-de-diretor-de-tecnologia-eric-young/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:46:59+00:00",
+      "summary": "Eric Young permanecerá na empresa 12 de novembro de 2026 para apoiar uma transição tranquila",
+      "category": "Economia"
+    },
+    {
+      "title": "Sócios do Vasco aprovam venda de 90% da SAF a grupo de Marcos Lamacchia",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/socios-do-vasco-aprovam-venda-de-90-da-saf-a-grupo-de-marcos-lamacchia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:45:24+00:00",
+      "summary": "Proposta da Almirante Participações foi aceita por maioria esmagadora dos votantes (90,6%) em Assembleia Geral Extraordinária (AGE), nesta sexta-feira (23)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Irã ameaça destruir cabos de comunicação submarinos no Golfo",
+      "url": "https://www.cnnbrasil.com.br/internacional/ira-ameaca-destruir-cabos-de-comunicacao-submarinos-no-golfo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T23:43:23+00:00",
+      "summary": "Altos funcionários iranianos informaram que plano deve ser colocado em ação caso os Estados Unidos e Israel ataquem Teerã novamente",
+      "category": "Esportes"
+    },
+    {
+      "title": "23h Movimento pela habitação em Lisboa promete que amanhã vai montar tendas no Rossio",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-movimento-pela-habitacao-em-lisboa-promete-que-amanha-vai-montar-tendas-no-rossio_a1_1773913",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:37:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Manual de bolso para os \"acampados\" profissionais",
+      "url": "https://observador.pt/opiniao/manual-de-bolso-para-os-acampados-profissionais/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:25:25+00:00",
+      "summary": "Nas “acampadas” não há nenhuma coisa que seja “nova”. Tudo segue um guião que foi testado e aplicado inúmeras vezes pelos ativistas de turno. Ali, nada acontece por acaso.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sob as tendas, o terror",
+      "url": "https://observador.pt/opiniao/sob-as-tendas-o-terror/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:24:26+00:00",
+      "summary": "Não convém permitir que a comédia involuntária das “acampadas” lhes esconda a natureza e os propósitos: a destruição em larga escala, inclusive dos princípios que damos por adquiridos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ligação Trafaria–Porto Brandão–Belém restabelecida",
+      "url": "https://observador.pt/2026/10/24/transporte-fluvial-de-veiculos-na-ligacao-trafaria-porto-brandao-belem-restabelecido/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:21:46+00:00",
+      "summary": "Ligação tinha retomado no dia 12 de outubro depois de uma interrupção de quase um mês na sequência de uma ocorrência com o ferry lisbonense",
+      "category": "Esportes"
+    },
+    {
+      "title": "O mistério da dor no hat-trick da anestesiologia",
+      "url": "https://observador.pt/opiniao/o-misterio-da-dor-no-hat-trick-da-anestesiologia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:21:26+00:00",
+      "summary": "É sobretudo aos médicos anestesistas que devemos o incomensurável benefício de uma intervenção sem dor!",
+      "category": "Saúde"
+    },
+    {
+      "title": "Plano Nocional de Leitura (LII)",
+      "url": "https://observador.pt/opiniao/plano-nocional-de-leitura-lii/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:20:04+00:00",
+      "summary": "A fama das cantigas de amor e a reputação dos seus cantores é muitas vezes exagerada pelos adeptos da literatura.",
+      "category": "Cultura"
+    },
+    {
+      "title": "OVNI? Misteriosa aeronave operava no \"silêncio absoluto\"",
+      "url": "https://observador.pt/2026/10/24/eua-novos-documentos-revelam-misteriosa-aeronave-triangular-em-zona-sensivel-dos-eua-objetivo-operava-no-silencio-absoluto/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:19:54+00:00",
+      "summary": "Imagem gerada por computador, e fornecida pelo FBI, tenta recriar o que dois agentes federais afirmam ter visto",
+      "category": "Mundo"
+    },
+    {
+      "title": "Acampada",
+      "url": "https://observador.pt/opiniao/acampada-em-entrecampos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:15:07+00:00",
+      "summary": "Os partidos hoje mais empenhados em transformar a crise da habitação numa acusação contra o presente tiveram oportunidade de a travar no passado em vez disso baixaram os braços.",
+      "category": "Política"
+    },
+    {
+      "title": "Orfeu e Eurídice na estrada do Guincho",
+      "url": "https://observador.pt/opiniao/orfeu-e-euridice-na-estrada-do-guincho/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:14:52+00:00",
+      "summary": "Orfeu quis confirmar que Eurídice o seguia; quis transformar a promessa em evidência, o pressentimento em prova. E, ao voltar-se, abriu entre ambos uma distância que nenhum canto voltaria a cerzir.",
+      "category": "Mundo"
+    },
+    {
+      "title": "00h. Porto. Acampada nega contacto com presidente da Câmara",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2454/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:14:49+00:00",
+      "summary": "O movimento diz que tem em mãos apenas o convite formal inicial. Ainda, o Presidente da República recusa estar adormecido.",
+      "category": "Política"
+    },
+    {
+      "title": "Bancas do Mercado de Arroios transformam-se em estantes para livros",
+      "url": "https://www.rtp.pt/noticias/cultura/bancas-do-mercado-de-arroios-transformam-se-em-estantes-para-livros_n1773912",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:12:29+00:00",
+      "summary": "O Mercado de Arroios recebe mais de 120 editoras, livrarias e outros projetos editoriais, para a quinta edição da Festa do Livro Independente da Freguesia de Arroios, a FLIFA.",
+      "category": "Economia"
+    },
+    {
+      "title": "Extrema-esquerda",
+      "url": "https://observador.pt/opiniao/extrema-esquerda-o-pretxto-substituiu-a-causa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:11:05+00:00",
+      "summary": "O facto de a extrema-esquerda ter perdido a sua vocação histórica só a torna mais perigosa, disposta a atos mais desesperados e mais violentos do que nunca.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Israel deve preparar-se para contornar sanções internacionais diz Netanyahu",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-deve-preparar-se-para-contornar-sancoes-internacionais-diz-netanyahu_n1773910",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-23T23:07:19+00:00",
+      "summary": "Israel poderá precisar de desenvolver uma economia alternativa para contornar sanções internacionais, declarou o primeiro-ministro Benjamin Netanyahu, reconhecendo a crescente pressão exercida pelo seu principal aliado, os Estados Unidos.",
+      "category": "Política"
+    },
     {
       "title": "22h Pordata: preços da habitação aumentaram mais de 41% desde 2020, em Portugal",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-pordata-precos-da-habitacao-aumentaram-mais-de-41-desde-2020-em-portugal_a1_1773908",
@@ -56,220 +434,40 @@
       "category": "Mundo"
     },
     {
-      "title": "Tempestade Austen atinge Reino Unido com vento muito forte",
-      "url": "https://www.rtp.pt/noticias/mundo/tempestade-austen-atinge-reino-unido-com-vento-muito-forte_v1773901",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T22:29:48+00:00",
-      "summary": "As autoridades britânicas estão a aconselhar as famílias a fazerem reservas de água e de alimentos.",
+      "title": "BC reforça regras de proteção ao consumidor nas ofertas de crédito",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bc-reforca-regras-de-protecao-ao-consumidor-nas-ofertas-de-credito",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T22:31:00+00:00",
+      "summary": "As propagandas de empréstimos obedecerão a novas regras a partir do próximo ano, decidiu nesta sexta-feira (23) o Banco Central (BC). O órgão aprovou três resoluções para reforçar a proteção dos consumidores na contratação de crédito. As mudanças também criam um painel para consulta de dívidas e aumentam as exigências ",
       "category": "Mundo"
     },
     {
-      "title": "Manifestantes em Lisboa aprovam acampamento para este sábado",
-      "url": "https://www.rtp.pt/noticias/economia/manifestantes-em-lisboa-aprovam-acampamento-para-este-sabado_n1773900",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T22:29:19+00:00",
-      "summary": "Os manifestantes votaram esta noite de braço no ar para decidir um novo protesto este sábado - designado “Não temos casa, montamos tendas!”. Regressam assim as tendas ao Rossio de Lisboa.",
+      "title": "Sociedade civil manifesta preocupação ao TSE por censura nas redes",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/sociedade-civil-manifesta-preocupacao-ao-tse-por-censura-nas-redes",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-23T22:03:00+00:00",
+      "summary": "Diversas entidades da sociedade civil entregaram nesta sexta-feira (23) uma nota pública ao Tribunal Superior Eleitoral (TSE) para demonstrar preocupação com riscos de censura pelas plataformas que operam as redes sociais. A manifestação foi assinada por 50 organizações sociais, movimentos populares e sindicatos que fa",
       "category": "Mundo"
     },
     {
-      "title": "AO VIVO: Assista ao GR2",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr2.ghtml",
-      "source": "G1",
+      "title": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-e-recua-158-na-semana",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-23T21:56:12+00:00",
-      "summary": "AO VIVO: Assista ao GR2 Acompanhe o GR2 desta sexta-feira (23), com apresentação de João Barbosa",
-      "category": "Mundo"
-    },
-    {
-      "title": "Procurado pela Interpol por migração ilegal é extraditado e preso em BH",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/23/procurado-pela-interpol-por-migracao-ilegal-e-extraditado-e-preso-em-bh.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:54:51+00:00",
-      "summary": "Fachada do Ceresp Gameleira, na Região Oeste de Belo Horizonte Foto: Pedro Triginelli Um brasileiro de 53 anos, condenado a 13 anos e dois meses de prisão por envolvimento em um esquema de migração ilegal para os Estados Unidos, foi extraditado nesta sexta-feira (23) e encaminhado a um presídio em Belo Horizonte. O hom",
-      "category": "Mundo"
-    },
-    {
-      "title": "Defesa Civil emite alerta de temporal para região de Itapetininga; cidade pode registrar mais de 120 mm de chuva em três dias",
-      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/23/defesa-civil-emite-alerta-de-temporal-para-regiao-de-itapetininga-cidade-pode-registrar-mais-de-120-mm-em-tres-dias.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:54:44+00:00",
-      "summary": "Orientação é que moradores evitem áreas alagadas Divulgação/Prefeitura de Itapetininga A Defesa Civil de São Paulo emitiu, nesta sexta-feira (23), um alerta para pancadas de chuva em cidades da região de Itapetininga (SP). O aviso prevalece até o domingo (25). De acordo com o órgão, Itapetininga pode registrar 128 milí",
-      "category": "Clima"
-    },
-    {
-      "title": "IFRR abre 180 vagas em cursos técnicos integrados ao ensino médio em Boa Vista",
-      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/23/ifrr-abre-180-vagas-em-cursos-tecnicos-integrados-ao-ensino-medio-em-boa-vista.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:54:39+00:00",
-      "summary": "Sala de aula do Instituto Federal de Roraima (IFRR) IFRR/Divulgação O campus Boa Vista do Instituto Federal de Roraima (IFRR) abriu inscrições para 180 vagas em cinco cursos técnicos integrados ao ensino médio. As oportunidades são para estudantes que estão concluindo o ensino fundamental. As inscrições começaram em 21",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jovem é preso pela 2ª vez em menos de um mês após invadir condomínio e furtar carro",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/23/jovem-e-preso-pela-2a-vez-em-menos-de-um-mes-apos-invadir-condominio-e-furtar-carro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:54:31+00:00",
-      "summary": "Suspeito invade condomínio e é preso tentando fugir em Praia Grande, SP Reprodução Um jovem de 18 anos foi preso após invadir um condomínio e tentar fugir com um carro furtado em Praia Grande, no litoral de São Paulo. Segundo a Polícia Militar, o suspeito havia sido detido em flagrante pelo mesmo crime há aproximadamen",
-      "category": "Mundo"
-    },
-    {
-      "title": "Grande BH tem temporal com granizo e rajadas de vento",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/23/grande-bh-tem-temporal-com-granizo-e-rajadas-de-vento.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:54:06+00:00",
-      "summary": "Temporal com granizo e rajadas de vento causa transtornos na Grande BH Reprodução/TV Globo Um forte temporal foi registrado em cidades da Região Metropolitana de Belo Horizonte na tarde desta sexta-feira (23). Em Esmeraldas, houve queda de granizo e vendaval. Já em Ribeirão das Neves, a chuva também provocou quedas de ",
-      "category": "Clima"
-    },
-    {
-      "title": "Assista ao Boa Noite Espírito Santo",
-      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:53:53+00:00",
-      "summary": "Assista ao Boa Noite Espírito Santo As principais notícias do dia no Espírito Santo.",
-      "category": "Mundo"
-    },
-    {
-      "title": "SMTT faz operação especial de trânsito em Aracaju para o 2º turno das eleições",
-      "url": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/23/smtt-faz-operacao-especial-de-transito-em-aracaju-para-o-2o-turno-das-eleicoes.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:53:50+00:00",
-      "summary": "Trânsito em Aracaju SMTT/Aracaju A Superintendência Municipal de Transportes e Trânsito (SMTT), vai realizar uma operação especial para organizar o tráfego e garantir a segurança viária durante o 2º turno das eleições. As ações contam com bloqueios em pontos estratégicos, monitoramento do fluxo de veículos e fiscalizaç",
+      "publishedAt": "2026-10-23T22:02:00+00:00",
+      "summary": "O dólar fechou abaixo de R$ 5 nesta sexta-feira (23), e a bolsa brasileira subiu no último dia útil antes do segundo turno das eleições presidenciais. O petróleo avançou mais de 3% , atingindo o maior patamar desde abril, com o agravamento das tensões no Oriente Médio. No mercado doméstico, investidores ajustaram posiç",
       "category": "Política"
     },
     {
-      "title": "Assista ao BATV",
-      "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-      "source": "G1",
+      "title": "Caso Ana Clara: ativistas protestam no TSE contra decisão de Mendonça",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/caso-ana-clara-ativistas-protestam-no-tse-contra-decisao-de-mendonca",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-23T21:53:17+00:00",
-      "summary": "Assista ao BATV",
-      "category": "Mundo"
-    },
-    {
-      "title": "Escolas estaduais de Macapá e Santana terão R$ 7,6 milhões da agricultura familiar na merenda",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/23/escolas-estaduais-de-macapa-e-santana-terao-r-76-milhoes-da-agricultura-familiar-na-merenda.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:46:55+00:00",
-      "summary": "Escolas estaduais de Macapá e Santana terão R$ 7,6 milhões da agricultura familiar na merenda. Márcio Bezerra/Seed A merenda de 183 escolas estaduais em Macapá e Santana receberá R$ 7,6 milhões em produtos da agricultura familiar em 2026. Os contratos foram firmados pela Secretaria de Estado da Educação (Seed) para aba",
-      "category": "Cultura"
-    },
-    {
-      "title": "Siga o EPTV 2 Ribeirão e Franca",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:46:12+00:00",
-      "summary": "Siga o EPTV 2 Ribeirão e Franca Acompanhe as notícias desta sexta-feira (23).",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: acompanhe a cobertura do 2º turno de votação no Acre",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/ao-vivo-cobertura-apuracao-votacao-2-turno-acre-ghtml.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:45:25+00:00",
-      "summary": "Eleições 2026: acompanhe a cobertura do 2º turno de votação no Acre No Acre, eleitores decidirão novo governador entre Mailza Assis (PP) e Alan Rick (Republicanos), além de votar para presidente da República.",
+      "publishedAt": "2026-10-23T21:40:00+00:00",
+      "summary": "Cerca de 100 pessoas protestaram nesta sexta-feira (23) em Brasília contra decisão do ministro André Mendonça de suspender o impulsionamento pago de vídeo (de 2 minutos e 28 segundos) sobre o caso da menina Ana Clara em plataformas digitais. Ele atendeu a uma solicitação do candidato Flávio Bolsonaro . O ato ocorreu em",
       "category": "Política"
-    },
-    {
-      "title": "Sondagens não dão maioria nem a Netanyahu nem à oposição",
-      "url": "https://observador.pt/2026/10/23/impasse-a-vista-em-israel-sondagens-nao-dao-maioria-nem-a-coligacao-de-netanyahu-nem-ao-bloco-da-oposicao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:43:58+00:00",
-      "summary": "Nenhuma dos blocos de partidos atinge o número mínimo para a maioria absoluta (61 deputados), segundo as três derradeiras sondagens com vista às eleições legislativas de 27 de outubro.",
-      "category": "Política"
-    },
-    {
-      "title": "II Liga. Desportivo de Chaves vence Vizela após reviravolta nos descontos",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-desportivo-de-chaves-vence-vizela-apos-reviravolta-nos-descontos_d1773899",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:42:37+00:00",
-      "summary": "O Desportivo de Chaves venceu hoje o Vizela, por 2-1, com reviravolta no marcador já na fase final da partida inaugural da oitava jornada da II Liga portuguesa de futebol, disputada em Trás-os-Montes.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Distribuidoras de energia reforçam plano para eleições por risco climático",
-      "url": "https://www.cnnbrasil.com.br/infra/distribuidoras-de-energia-reforcam-plano-para-eleicoes-por-risco-climatico/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:40:57+00:00",
-      "summary": "Previsão de frente fria e ciclone extratropical intensificou esforços das companhias para garantir o fornecimento de energia às áreas afetadas durante a votação",
-      "category": "Política"
-    },
-    {
-      "title": "Fiesp: confiança da indústria sobe em outubro, mas ainda indica pessimismo",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fiesp-confianca-da-industria-sobe-em-outubro-mas-ainda-indica-pessimismo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:38:50+00:00",
-      "summary": "Leitura está 2,9 pontos acima da de setembro e 1,3 ponto acima da de outubro de 2025",
-      "category": "Mundo"
-    },
-    {
-      "title": "Agentes do FBI são acusados de dificultar investigações sobre família Biden",
-      "url": "https://www.cnnbrasil.com.br/internacional/agentes-do-fbi-sao-acusados-de-dificultar-investigacoes-sobre-familia-biden/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:36:43+00:00",
-      "summary": "Processos envolvem funcionários que supostamente tentaram minimizar alegações de corrupção com evidências encontradas no laptop do filho do ex-presidente dos EUA",
-      "category": "Política"
-    },
-    {
-      "title": "Durante três dias Lisboa recebe o Diving Talks",
-      "url": "https://www.rtp.pt/noticias/cultura/durante-tres-dias-lisboa-recebe-o-diving-talks_n1773898",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:35:45+00:00",
-      "summary": "Até domingo, Lisboa transforma-se na capital do mundo subaquático. A Cordoaria Nacional recebe mais uma vez o maior encontro e congresso internacional dedicado ao mergulho em Portugal, o Diving Talks.",
-      "category": "Política"
-    },
-    {
-      "title": "Bitcoin opera estável apesar da alta do petróleo",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-opera-estavel-apesar-da-alta-do-petroleo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:32:52+00:00",
-      "summary": "Criptomoeda subiu 0,05%, a US$ 81.432,00, enquanto Ethereum avançou 1%, a US$ 2.404,56, segundo plataforma Coinbase",
-      "category": "Mundo"
-    },
-    {
-      "title": "Líderes mundiais acompanham eleições no Brasil e se dividem em apoios",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lideres-mundiais-acompanham-eleicoes-no-brasil-e-se-dividem-em-apoios/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:32:33+00:00",
-      "summary": "Progressistas, como Pedro Sánchez, apoiam Lula, enquanto conservadores, como Netanyahu e Milei, se alinham a Flávio Bolsonaro no segundo turno",
-      "category": "Política"
-    },
-    {
-      "title": "Inscrições para trainee da Sabesp seguem abertas até 26 de outubro",
-      "url": "https://www.cnnbrasil.com.br/branded-content/nacional/inscricoes-para-trainee-da-sabesp-seguem-abertas-ate-26-de-outubro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:32:24+00:00",
-      "summary": "Companhia abre 20 vagas para candidatos de todo o país; remuneração é de R$ 9.000, além de pacote completo de benefícios.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Kendall se incomoda ao ser perguntada por Caytlin Jenner sobre Jacob Elordi",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/kendall-se-incomoda-ao-ser-perguntada-por-caytlin-jenner-sobre-jacob-elordi/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:29:16+00:00",
-      "summary": "Modelo demonstrou desconforto ao ser interrogada pelo pai sobre relacionamento durante gravação de \"The Kardashians\"",
-      "category": "Cultura"
     },
     {
       "title": "Definidos os confrontos das semifinais da Copa do Brasil Feminina",
@@ -281,69 +479,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Acampada do Porto nega contactos com Pedro Duarte",
-      "url": "https://observador.pt/2026/10/23/acampada-do-porto-nega-contactos-com-pedro-duarte-alem-do-convite-inicial/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:27:55+00:00",
-      "summary": "Membro do grupo de imprensa da Acampada negou qualquer contacto formal de parte da estrutura",
-      "category": "Cultura"
-    },
-    {
-      "title": "A Prova dos Factos. Relatos de falta de sensibilidade com baixas psiquiátricas",
-      "url": "https://www.rtp.pt/noticias/pais/a-prova-dos-factos-relatos-de-falta-de-sensibilidade-com-baixas-psiquiatricas_v1773894",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:27:48+00:00",
-      "summary": "Vários doentes com burnout, síndrome de esgotamento profissional, estão a ser considerados aptos para o trabalho pelas juntas médicas.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Governo tenta polarizar? Neves quis mostrar que é o xerife?",
-      "url": "https://observador.pt/programas/fora-do-baralho/governo-tenta-polarizar-neves-quis-mostrar-que-e-o-xerife/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:26:15+00:00",
-      "summary": "Em semana de acampadas e reações políticas ao tema da habitação, os ases do Fora do Baralho discutem a postura do Governo e do Presidente da República.",
-      "category": "Política"
-    },
-    {
-      "title": "Protestos continuam em Évora no sábado e dia 30",
-      "url": "https://observador.pt/2026/10/23/manifestantes-por-habitacao-em-evora-marcam-novos-protestos-para-sabado-e-dia-30-na-praca-do-giraldo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:22:49+00:00",
-      "summary": "Assembleia popular decidiu mudar local das manifestações para a \"sala de visitas\" da cidade. Protestos acontecem às 18h00 de sábado e a 30 de outubro.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Estrutura submersa gigantesca em Okinawa já foi ligada aos maias e é chamada de ‘Atlântida’ do Japão",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/estrutura-submersa-gigantesca-em-okinawa-ja-foi-ligada-aos-maias-e-e-chamada-de-atlantida-do-japao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:18:58+00:00",
-      "summary": "Yonaguni é uma das mais misteriosas formações subaquáticas do mundo. Até hoje, sua origem é motivo de debate entre arqueólogos e historiadores",
-      "category": "Esportes"
-    },
-    {
-      "title": "22h. PR vai pressionar partidos a entendimentos na Habitação",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1890/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:12:33+00:00",
-      "summary": "António José Seguro aponta duas dimensões: quer medidas urgentes e quer políticas duradouras. E ainda, Acampada do Porto negou contactos classificados por Pedro Duarte como \"muito cordiais\".",
-      "category": "Política"
-    },
-    {
-      "title": "Viseu une-se à luta pelo direito à habitação",
-      "url": "https://observador.pt/2026/10/23/cerca-de-100-pessoas-em-viseu-solidarizam-se-com-manifestacoes-pela-habitacao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:07:15+00:00",
-      "summary": "A assembleia popular foi organizada pela Plataforma Já Marchavas e, na Rua Formosa, uma pedonal que termina no Rossio, juntaram-se pouco mais de 100 pessoas",
-      "category": "Mundo"
-    },
-    {
       "title": "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada",
       "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada",
       "source": "Agência Brasil",
@@ -351,51 +486,6 @@
       "publishedAt": "2026-10-23T21:04:00+00:00",
       "summary": "As inscrições para a segunda chamada do 3º ciclo do Projeto Mais Médicos Especialistas (PMM-E) estão abertas até o dia 29 de outubro. Os interessados devem se inscrever pelo Portal da Universidade Aberta do Sistema Único de Saúde (UNA-SUS) . A estratégia busca incentivar a presença de especialistas em regiões historica",
       "category": "Saúde"
-    },
-    {
-      "title": "Ordem dos Médicos alerta para eventual corte na assistência a doentes internados",
-      "url": "https://www.rtp.pt/noticias/pais/ordem-dos-medicos-alerta-para-eventual-corte-na-assistencia-a-doentes-internados_n1773891",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T21:03:19+00:00",
-      "summary": "A Ordem dos Médicos está preocupada com um eventual corte na assistência de doentes internados depois de implementadas as novas regras de desvio de médicos nas urgências.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Sport x Criciúma: horário e onde assistir ao jogo da Série B do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sport-x-criciuma-horario-e-onde-assistir-ao-jogo-da-serie-b-do-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:00:40+00:00",
-      "summary": "Equipes se enfrentam nesta sexta-feira (23), na Ilha do Retiro, em Recife, em duelo válido pela 35ª rodada da competição de pontos corridos",
-      "category": "Esportes"
-    },
-    {
-      "title": "Pix caiu na conta errada: o que fazer e como o Inter age nesses casos",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/pix-caiu-na-conta-errada-o-que-fazer-e-como-o-inter-age-nesses-casos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:00:30+00:00",
-      "summary": "Enviar um Pix para o destinatário errado não significa perder o dinheiro, mas a recuperação depende, principalmente, da rapidez da ação e da devolução voluntária por parte de quem recebeu o valor",
-      "category": "Cultura"
-    },
-    {
-      "title": "Gigi Hadid abre álbum de fotos ao lado de Adriana Lima em desfile; veja",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/gigi-hadid-abre-album-de-fotos-ao-lado-de-adriana-lima-em-desfile-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T20:58:38+00:00",
-      "summary": "A modelo norte-americana dividiu os bastidores do Victoria's Secret Fashion Show 2026 com a brasileira e muitas outras, incluindo Alessandra Ambrósio e Carol Trentini",
-      "category": "Mundo"
-    },
-    {
-      "title": "BTS no Brasil: Procon-SP notifica empresas sobre estrutura de shows",
-      "url": "https://www.cnnbrasil.com.br/pop/musica/bts-no-brasil-procon-sp-notifica-empresas-sobre-estrutura-de-shows/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T20:57:22+00:00",
-      "summary": "Grupo musical de K-pop internacional se apresentará em São Paulo, no Estádio do Morumbis, na noite dos dias 28, 30 e 31 de outubro",
-      "category": "Economia"
     },
     {
       "title": "Desmatamento em áreas protegidas da Amazônia e do Cerrado tem queda",
@@ -407,24 +497,6 @@
       "category": "Mundo"
     },
     {
-      "title": "​Ainda as falhas no Starlink e mais apoio escandinavo",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/ainda-as-falhas-no-starlink-e-mais-apoio-escandinavo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T20:54:26+00:00",
-      "summary": "Imprensa ucraniana aborda reforço do apoio à Ucrânia vindo da Finlândia. Admite ainda que há falhas na forma como Starlink está a ser usado no país.",
-      "category": "Mundo"
-    },
-    {
-      "title": "​Rússia congratula-se com avanços na linha da frente",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/russia-congratula-se-com-avancos-na-linha-da-frente/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T20:53:58+00:00",
-      "summary": "Imprensa russa dá eco a avanços na linha da frente anunciados pelo governo russo. Destacam ainda troca de prisioneiros com a Ucrânia.",
-      "category": "Política"
-    },
-    {
       "title": "Surfe: Medina é vice-campeão em Peniche e sobe para 4º no ranking",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/surfe-medina-e-vice-campeao-em-peniche-e-sobe-para-4o-no-ranking",
       "source": "Agência Brasil",
@@ -432,42 +504,6 @@
       "publishedAt": "2026-10-23T20:46:00+00:00",
       "summary": "O brasileiro Gabriel Medina ficou bem perto do primeiro título da temporada no circuito mundial de surfe (World Surfe League-WSL) nesta sexta-feira (23), em Peniche (Portugal). Ele travou um duelo equilibrado contra o norte-americano Griffin Colapinto, chegando a liderar a bateria, mas nos minutos finais acabou superad",
       "category": "Clima"
-    },
-    {
-      "title": "Evangélicos e católicos lutam pelo voto no Brasil",
-      "url": "https://observador.pt/especiais/o-concerto-com-multibanco-para-doacoes-e-o-padre-que-da-comida-com-um-bone-antifascista-evangelicos-e-catolicos-lutam-pelo-voto-no-brasil/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T20:32:22+00:00",
-      "summary": "Na igreja evangélica onde vai Michelle Bolsonaro, o pastor não esconde a preferência por Flávio. Em São Paulo, um padre faz obra social e aproveita para evangelizar sobre Lula.",
-      "category": "Mundo"
-    },
-    {
-      "title": "MAI. Chega quer ouvir António Costa e mais de 50 pessoas",
-      "url": "https://observador.pt/2026/10/23/chega-quer-ouvir-mais-de-50-pessoas-no-inquerito-incluindo-luis-neves-e-antonio-costa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T20:30:17+00:00",
-      "summary": "O Chega justifica que a escolha das pessoas a ouvir \"foi definido dentro de uma lógica específica\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Estudo sugere que Meta cobrou mais à campanha de Lula",
-      "url": "https://observador.pt/2026/10/23/eleicoes-no-brasil-estudo-aponta-indicios-de-que-meta-cobrou-mais-a-campanha-de-lula-do-que-a-de-flavio/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T20:29:30+00:00",
-      "summary": "Segundo o estudo, a plataforma não disponibiliza informações sobre objetivos das campanhas",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cheques psicólogo: ministério nega atrasos nos pagamentos",
-      "url": "https://observador.pt/2026/10/23/ministerio-garante-que-psicologos-do-programa-de-cheques-estao-a-ser-pagos-mas-profissionais-dizem-que-prazo-de-90-dias-ja-foi-ultrapassado/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T20:28:53+00:00",
-      "summary": "A psicóloga Rosana Milhomens disse à Lusa que o prazo de 90 dias para pagar as consultas já foi ultrapassado",
-      "category": "Mundo"
     },
     {
       "title": "Em meio a ajuste fiscal, Chile tem queda do PIB e desemprego em alta",
@@ -485,42 +521,6 @@
       "region": "Brasil",
       "publishedAt": "2026-10-23T19:42:00+00:00",
       "summary": "A Defesa Civil do estado de São Paulo emitiu um alerta para a possibilidade de ocorrência de temporais no próximo domingo (25) em todo o estado de São Paulo. De acordo com a Defesa Civil, a expectativa é de que todo o estado paulista esteja em alerta laranja para temporais no dia das eleições, o terceiro nível em uma e",
-      "category": "Política"
-    },
-    {
-      "title": "Prêmio TV Brasil Petrobras Para Elas anuncia zagueiras finalistas",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/premio-tv-brasil-petrobras-para-elas-anuncia-zagueiras-finalistas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T19:37:00+00:00",
-      "summary": "As melhores zagueiras do futebol feminino do país no ano estão na relação de finalistas da categoria no Prêmio TV Brasil Petrobras Para Elas. Os nomes anunciados nesta sexta-feira (23), que disputam duas vagas na seleção da temporada, são: Carol Gil, Tayla (ambas do São Paulo), Núbia (Flamengo), Pati Maldaner (Palmeira",
-      "category": "Esportes"
-    },
-    {
-      "title": "Mendonça reitera que Lula e Flávio podem abrir sigilos por ato próprio",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-ato-proprio",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T19:19:00+00:00",
-      "summary": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), reiterou nesta sexta-feira (23) a decisão em que liberou as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) a divulgarem, por conta própria, seus sigilos bancários, fiscal e telefônico, conforme acordo assinado entre os candidatos. Na ",
-      "category": "Política"
-    },
-    {
-      "title": "Segundo turno: acesso à Esplanada será controlado no domingo",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/segundo-turno-acesso-esplanada-sera-controlado-no-domingo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T18:42:00+00:00",
-      "summary": "O acesso à Esplanada dos Ministérios será controlado no domingo (25), quando ocorre o segundo turno das eleições gerais . Desde a noite de sábado (24), a circulação na área poderá sofrer alterações ao longo do dia, de acordo com informações do Governo do Distrito Federal (GDF) . O principal bloqueio ficará próximo à Ca",
-      "category": "Política"
-    },
-    {
-      "title": "Ministro do TSE proíbe suspensão do canal Exército do Lula",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministro-do-tse-proibe-suspensao-do-canal-exercito-do-lula",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T18:11:00+00:00",
-      "summary": "O ministro Floriano de Azevedo Marques, do Tribunal Superior Eleitoral (TSE), decidiu nesta sexta-feira (23) que o canal Exército do Lula não poderá ser suspenso ou restringido novamente pela Corte. Segundo o ministro, somente o plenário pode decidir sobre eventual suspensão do canal. \"A partir do momento em que afetad",
       "category": "Política"
     }
   ],
