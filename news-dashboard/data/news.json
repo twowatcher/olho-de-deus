@@ -1,6 +1,258 @@
 {
-  "updatedAt": "2026-10-24T00:38:08.663859+00:00",
+  "updatedAt": "2026-10-24T05:47:41.991805+00:00",
   "items": [
+    {
+      "title": "6h O último debate entre Lula e Flávio Bolsonaro antes das presidenciais no Brasil",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-o-ultimo-debate-entre-lula-e-flavio-bolsonaro-antes-das-presidenciais-no-brasil_a1_1773937",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T06:26:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "5h Brasil. Lula defende legado das políticas sociais e Flávio centra debate na segurança",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-brasil-lula-defende-legado-das-politicas-sociais-e-flavio-centra-debate-na-seguranca_a1_1773933",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T05:23:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "6h. Habitação. Há manifestações marcadas para hoje",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2531/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T05:13:09+00:00",
+      "summary": "Duas semanas após o início, no Porto, os protestos pelo direito à habitação prosseguem. Ainda, uma nova ronda de protestos está convocada também em França.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Contenção e ataques. O debate para convencer indecisos",
+      "url": "https://observador.pt/especiais/um-flavio-mais-contido-e-um-lula-mais-ao-ataque-o-debate-em-que-se-tentou-convencer-os-indecisos-no-brasil/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T05:08:55+00:00",
+      "summary": "Flávio quis mostrar imagem de moderado e afirmar-se como presidenciável. Lula usou um discurso mais duro e insinuou que adversário é perigo para a democracia. Candidatos quiseram convencer indecisos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Canções para a Crise da Habitação",
+      "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-a-crise-da-habitacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T05:05:31+00:00",
+      "summary": "O teto mudou de preço, mas a música dá resposta. Juntamos a mordacidade de B Fachada e Capicua à melancolia de Tom Waits, Françoise Hardy, Milú e Mina num alinhamento sobre ter onde morar.",
+      "category": "Economia"
+    },
+    {
+      "title": "Europa a ferro e fogo. A democracia liberal está em queda?",
+      "url": "https://observador.pt/programas/5-continentes/europa-a-ferro-e-fogo-a-democracia-liberal-esta-em-queda/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T05:05:01+00:00",
+      "summary": "Com os protestos na Europa a subirem de tom, os governos têm resposta? Ainda, Trump que quer uma nova conferência de Ialta para “resolver” a Ucrânia, as eleições no Brasil, em Israel e até na ONU.",
+      "category": "Política"
+    },
+    {
+      "title": "Chelsea x Tottenham: horário e onde assistir ao jogo da Premier League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/chelsea-x-tottenham-horario-e-onde-assistir-ao-jogo-da-premier-league-3/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T05:00:15+00:00",
+      "summary": "Equipes entram em campo neste sábado (24), às 13h30, em partida válida pela oitava rodada do Campeonato Inglês",
+      "category": "Esportes"
+    },
+    {
+      "title": "“Dá um Google” e “9 dedos”: veja frases marcantes do debate Flávio x Lula",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/da-um-google-e-9-dedos-veja-frases-marcantes-do-debate-flavio-x-lula/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T04:49:18+00:00",
+      "summary": "Candidatos trocaram acusações sobre economia, nível de conhecimento do país, promessa de picanha e relação com Daniel Vorcaro",
+      "category": "Economia"
+    },
+    {
+      "title": "4h Terminou o debate entre Lula da Silva e Flávio Bolsonaro em véspera de presidenciais no Brasil",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-terminou-o-debate-entre-lula-da-silva-e-flavio-bolsonaro-em-vespera-de-presidenciais-no-brasil_a1_1773930",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T04:30:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Flávio x Lula: 4º bloco é marcado por Richarlison, Lulinha, e Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-x-lula-4o-bloco-e-marcado-por-richarlison-lulinha-e-vorcaro/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T04:15:10+00:00",
+      "summary": "Encontro desta sexta-feira (23) foi o último entre os candidatos à Presidência, Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT), antes do segundo turno, marcado para o próximo domingo (25)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Marco Rubio diz para cubanos se associarem à CIA para criar mudanças",
+      "url": "https://www.cnnbrasil.com.br/internacional/marco-rubio-diz-para-cubanos-se-associarem-a-cia-para-criar-mudancas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T04:10:29+00:00",
+      "summary": "Secretário de Estado dos EUA fez declaração após o Presidente Donald Trump declarar que Washington \"cuidará de Cuba\" após lidar com o Irã",
+      "category": "Política"
+    },
+    {
+      "title": "Como funcionam as assembleias populares das acampadas?",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/como-funcionam-as-assembleias-populares-das-acampadas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T04:02:36+00:00",
+      "summary": "“Todos os dias, às 19h00”. As assembleias populares decidem a continuidade dos protestos pela habitação com recurso a votações e discursos. Como se organizam? Uma conversa com Mariana Furtado.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Arsenal x Everton: horário e onde assistir ao jogo da Premier League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/arsenal-x-everton-horario-e-onde-assistir-ao-jogo-da-premier-league-4/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T04:00:15+00:00",
+      "summary": "Equipes entram em campo neste sábado (24), às 11h, em partida válida pela oitava rodada do Campeonato Inglês",
+      "category": "Esportes"
+    },
+    {
+      "title": "3h Brasil. Infraestrutura salário mínimo e saúde dominam debate entre Lula e Flávio Bolsonaro",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-brasil-infraestrutura-salario-minimo-e-saude-dominam-debate-entre-lula-e-flavio-bolsonaro_a1_1773925",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T03:27:02+00:00",
+      "summary": "",
+      "category": "Saúde"
+    },
+    {
+      "title": "2h Brasil. Lula e Flávio Bolsonaro no último debate antes das presidenciais",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-brasil-lula-e-flavio-bolsonaro-no-ultimo-debate-antes-das-presidenciais_a1_1773924",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T03:26:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "4h. Fim do debate entre Flávio e Lula com tensão",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2440/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T03:14:17+00:00",
+      "summary": "O candidato do Partido Liberal acusa repetidamente Lula da Silva de mentir. Ainda, a Acampada do Porto negou os contactos reportados pelo presidente da Câmara do Porto.",
+      "category": "Política"
+    },
+    {
+      "title": "TSE determina que Nikolas e Marçal evitem conteúdos eleitorais até 2º turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-determina-que-nikolas-e-marcal-evitem-conteudos-eleitorais-ate-2o-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T03:12:56+00:00",
+      "summary": "Decisão prevê multa de R$ 100 mil por publicação em caso de descumprimento e exige que Meta e X apresentem relatórios sobre a aplicação das medidas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Flávio e Lula: 3º bloco tem embate sobre facções criminosas e endividamento",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-3o-bloco-tem-embate-sobre-faccoes-criminosas-e-endividamento/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T02:46:12+00:00",
+      "summary": "Debate teve acusações sobre apostas online, financiamento do ensino integral e atuação de políticos no combate às milícias",
+      "category": "Mundo"
+    },
+    {
+      "title": "Análise: Sendo Flávio ou Lula, eleito não terá lua de mel",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/analise-ww-arko-advice-lula-flavio-lula-de-mel/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T02:40:20+00:00",
+      "summary": "Desafios do próximo mandato incluem fiscal apertado e relacionamento com o Congresso",
+      "category": "Política"
+    },
+    {
+      "title": "Flávio critica gastos para Lula “se reeleger”; petista defende Desenrola",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-critica-gastos-para-lula-se-reeleger-petista-defende-desenrola/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T02:34:02+00:00",
+      "summary": "Presidente Lula destacou programas de renegociação de dívidas e prometeu novas medidas para reduzir o endividamento; senador acusou adversário de ampliar despesas em busca da reeleição",
+      "category": "Política"
+    },
+    {
+      "title": "Lula relembra caso Ana Clara e Flávio diz querer saber autor do disparo",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-relembra-caso-ana-clara-e-flavio-diz-querer-saber-autor-do-disparo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T02:28:58+00:00",
+      "summary": "Presidente e candidato à reeleição, Luiz Inácio Lula da Silva (PT) levou a mãe da menina assassinada para assistir ao debate da plateia",
+      "category": "Política"
+    },
+    {
+      "title": "3h. Lula diz que Jair Bolsonaro trouxe fome ao Brasil",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2476/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T02:15:27+00:00",
+      "summary": "Este último debate entre Lula da Silva e Flávio Bolsonaro ficou marcado a esta hora pelo tema dos impostos. Ainda, a Acampada do Porto negou contactos reportados pelo presidente da Câmara.",
+      "category": "Política"
+    },
+    {
+      "title": "Flávio x Lula: direitos de resposta e dívida pública marcam 2º bloco",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-x-lula-direitos-de-resposta-e-divida-publica-marcam-2o-bloco/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T02:11:20+00:00",
+      "summary": "Senador pediu desculpas ao presidente por ter o chamado de \"nove dedos\"",
+      "category": "Política"
+    },
+    {
+      "title": "01h Brasil, último debate entre Lula da Silva e Flávio Bolsonaro antes das eleições de domingo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-brasil-ultimo-debate-entre-lula-da-silva-e-flavio-bolsonaro-antes-das-eleicoes-de-domingo_a1_1773921",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T02:11:01+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Flávio ganha direito de resposta após ser chamado de “miliciano”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-ganha-direito-de-resposta-apos-ser-chamado-de-miliciano/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T01:57:11+00:00",
+      "summary": "Encontro desta sexta-feira (23) é o último entre os candidatos à Presidência, Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT), antes do segundo turno, marcado para o próximo domingo (25)",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h. Brasil. Flávio acusa governo Lula de \"cemitério\" de obra",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2450/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T01:15:38+00:00",
+      "summary": "Arrancou o último debate entre Flávio Bolsonaro e Lula da Silva antes das presidenciais brasileiras. Ainda, o Chega quer ouvir mais de 50 pessoas na CPI aos mandatos de Luís Neves à frente da PJ.",
+      "category": "Política"
+    },
+    {
+      "title": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:56:00+00:00",
+      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (23) o bloqueio de até R$ 6 bilhões do advogado Willer Tomaz. O ministro também ordenou quebra dos sigilos bancário, fiscal e cambial, além da suspensão dos passaportes e a paralisação das atividades econômicas, financeiras ",
+      "category": "Política"
+    },
+    {
+      "title": "Acampada trocou o Rossio por Marvila por uma noite",
+      "url": "https://observador.pt/especiais/acampada-trocou-rossio-por-marvila-para-noite-em-solidariedade-com-familia-despejada-grupo-espera-milhares-no-marques-no-sabado/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-24T00:52:03+00:00",
+      "summary": "Vigília no Lote 568, em Marvila, teve cartazes contra o despejo de uma antiga moradora",
+      "category": "Mundo"
+    },
     {
       "title": "00h Manifestações pela habitação vão continuar no Porto",
       "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-manifestacoes-pela-habitacao-vao-continuar-no-porto_a1_1773918",
@@ -11,6 +263,15 @@
       "category": "Mundo"
     },
     {
+      "title": "MPT apura carta de supermercado a funcionários com teor eleitoral",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpt-apura-carta-de-supermercado-funcionarios-com-teor-eleitoral",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-24T00:42:00+00:00",
+      "summary": "O Ministério Público do Trabalho no Rio de Janeiro (MPT-RJ) informou nesta sexta-feira (23) que registrou uma Notícia de Fato (NF) para apurar o envio de uma carta pela rede de Supermercados Zona Sul a seus funcionários, às vésperas da eleição. No texto, a rede defende o \"voto consciente\" e mudança. Assinado pelo presi",
+      "category": "Política"
+    },
+    {
       "title": "Kremlin divulga lista de opositores no exílio sujeitos a sanções",
       "url": "https://www.rtp.pt/noticias/mundo/kremlin-divulga-lista-de-opositores-no-exilio-sujeitos-a-sancoes_n1773914",
       "source": "RTP Notícias",
@@ -18,15 +279,6 @@
       "publishedAt": "2026-10-24T00:19:52+00:00",
       "summary": "A Federação Russa divulgou hoje uma lista de opositores no exílio sujeitos a sanções, no quadro de uma lei recente e denunciada por organizações não-governamentais como visando causar-lhes a \"morte social\".",
       "category": "Mundo"
-    },
-    {
-      "title": "Três suspeitos são presos por ligação com ameaças e cobranças de taxas a comerciantes no interior do Ceará",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/23/tres-suspeitos-sao-presos-por-ligacao-com-ameacas-e-cobrancas-de-taxas-a-comerciantes-no-interior-do-ceara.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:19:50+00:00",
-      "summary": "Três homens foram presos por suspeita de envolvimento em ameaças de facção a comerciantes em Banabuiú (CE) Reprodução Três homens foram presos, na quinta-feira (22), por suspeita de ameaçar e extorquir comerciantes em Banabuiú, município no sertão central do Ceará. A facção chegou a publicar mensagens intituladas de \"e",
-      "category": "Esportes"
     },
     {
       "title": "Declarações do presidente do IHRU. Carneiro focado em travar lei do arrendamento",
@@ -47,30 +299,12 @@
       "category": "Política"
     },
     {
-      "title": "Vídeo flagra homens jogando corpo atrás de muro; PMSP nota modus operandi",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-flagra-homens-jogando-corpo-atras-de-muro-pmsp-nota-modus-operandi/",
-      "source": "CNN Brasil",
+      "title": "Ministra rejeita ação que pedia transporte interestadual na eleição",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministra-rejeita-acao-que-pedia-transporte-interestadual-na-eleicao",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-24T00:12:44+00:00",
-      "summary": "Câmera de monitoramento flagra quatro suspeitos descarregando o corpo de um homem de 22 anos na zona oeste de São Paulo; SSP não confirma semelhança com outros 17 casos que ocorreram na capital",
-      "category": "Mundo"
-    },
-    {
-      "title": "Feira em Cuiabá oferece mais de 3 mil vagas de emprego nos setores de indústria e comércio",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/23/feira-em-cuiaba-oferece-mais-de-3-mil-vagas-de-emprego-nos-setores-de-industria-e-comercio.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:12:11+00:00",
-      "summary": "UniSenai Cuiabá Reprodução Mais de 3 mil oportunidades de trabalho serão oferecidas durante a Feira de Empregos da Indústria e Comércio 2026, no dia 29 de outubro, das 8h às 16h, na UniSenai Cuiabá. O evento reúne empresas dos setores de comércio, indústria e serviços, com vagas para diferentes áreas e níveis de escola",
-      "category": "Economia"
-    },
-    {
-      "title": "Cerca de 160 milhões de brasileiros estão aptos a participar do segundo turno das eleições no domingo (25)",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/cerca-de-160-milhoes-de-brasileiros-estao-aptos-a-participar-do-segundo-turno-das-eleicoes-no-domingo-25.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:10:20+00:00",
-      "summary": "Cerca de 160 milhões de brasileiros estão aptos a participar do segundo turno das eleições neste domingo (25). O motoboy Ademar Gonçalves está entre os 33 milhões de brasileiros que não votaram no primeiro turno: \"Não votei. Posso votar no segundo turno?\". Pode. Você e todos que não votaram no primeiro turno. Mesmo que",
+      "publishedAt": "2026-10-24T00:12:00+00:00",
+      "summary": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), negou nesta sexta-feira (23) pedido protocolado pela campanha do candidato à reeleição Luiz Inácio Lula da Silva (PT) para estender a gratuidade de transporte público no segundo turno para viagens interestaduais. Na decisão, a ministra disse que a competência ",
       "category": "Política"
     },
     {
@@ -83,184 +317,22 @@
       "category": "Mundo"
     },
     {
-      "title": "Moraes manda bloquear R$ 6 bi de Willer Tomaz e determina que bancos informem dados da empresa Alcazar",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/23/moraes-manda-bloquear-r-6-bi-de-willer-tomaz-e-determina-que-bancos-informem-dados-da-empresa-alcazar.ghtml",
-      "source": "G1",
+      "title": "Meta diz ao TSE que Exército do Lula não viola políticas da plataforma",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/meta-diz-ao-tse-que-exercito-do-lula-nao-viola-politicas-da-plataforma",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-24T00:09:11+00:00",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (23) o bloqueio de até R$ 6 bilhões do advogado Willer Tomaz e uma ampla análise sobre a rede de correntistas da empresa Alcazar Holdings, que era a dona da conta que tinha o senador Flávio Bolsonaro (PL-RJ) cadastrado “como",
+      "publishedAt": "2026-10-23T23:48:00+00:00",
+      "summary": "A Meta afirmou nesta sexta-feira (23) ao Tribunal Superior Eleitoral (STE) que não encontrou irregularidades no funcionamento do canal Exército do Lula, criado no WhatsApp para postagens de apoio ao candidato à reeleição Luiz Inácio Lula da Silva (PT). A manifestação da empresa, que opera as plataformas WhatsApp, Insta",
       "category": "Política"
     },
     {
-      "title": "TSE se reúne com plataformas digitais às vésperas do segundo turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-se-reune-com-plataformas-digitais-as-vesperas-do-segundo-turno/",
-      "source": "CNN Brasil",
+      "title": "Chuva deve prevalecer no domingo de eleições no Rio",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuva-deve-prevalecer-no-domingo-de-eleicao-no-rio",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-24T00:07:15+00:00",
-      "summary": "Reunião com Meta, X, Google, TikTok e Kwai também tratou de deepfakes e resposta rápida à desinformação no segundo turno",
-      "category": "Mundo"
-    },
-    {
-      "title": "Incêndio atinge área de vegetação no Turu, em São Luís; bombeiros controlaram as chamas",
-      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/23/incendio-atinge-area-de-vegetacao-no-turu-em-sao-luis-bombeiros-controlaram-as-chamas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:06:25+00:00",
-      "summary": "Incêndio atinge área de vegetação no Turu, em São Luís Um incêndio de grandes proporções atingiu uma área de vegetação na Avenida São Luís Rei de França, no bairro Turu, em São Luís, na tarde desta sexta-feira (23). Equipes do Corpo de Bombeiros trabalharam no combate ao fogo desde as 16h e conseguiram controlar as cha",
-      "category": "Clima"
-    },
-    {
-      "title": "Doria declara voto em Flávio Bolsonaro; Amoêdo escolhe Lula no 2º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/doria-declara-voto-em-flavio-bolsonaro-amoedo-escolhe-lula-no-2o-turno/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:05:48+00:00",
-      "summary": "Ex-governador de São Paulo defende alternância no poder; fundador do Novo critica os dois candidatos e diz que fará oposição ao vencedor",
-      "category": "Mundo"
-    },
-    {
-      "title": "Tapetão? Flamengo tenta anular jogo contra o Estudiantes, diz jornalista",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/tapetao-flamengo-tenta-anular-jogo-contra-o-estudiantes-diz-jornalista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:04:01+00:00",
-      "summary": "Clube carioca estaria apontando a escalação irregular de Marcos Rojo na partida da última quinta-feira (22), que terminou com triunfo da equipe argentina",
-      "category": "Esportes"
-    },
-    {
-      "title": "VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 23 de outubro de 2026",
-      "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-23-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:02:57+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Família que denunciou abuso de menino de 11 anos em abrigo no Acre cobra providências",
-      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/23/familia-que-denunciou-abuso-de-menino-de-11-anos-em-abrigo-no-acre-cobra-providencias.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:02:04+00:00",
-      "summary": "Denúncia de abuso contra criança em abrigo: conselheira tutelar nega omissão A família do menino de 11 anos que teria sido abusado sexualmente dentro de um abrigo em Cruzeiro do Sul, interior do Acre, cobra respostas e providências no caso. A denúncia é investigada pela Polícia Civil. Uma tia da criança, que pediu para",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: NSC Notícias de sexta-feira, 23 de outubro de 2026",
-      "url": "https://g1.globo.com/sc/santa-catarina/edicao/2026/10/23/videos-nsc-noticias-de-sexta-feira-23-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:02:03+00:00",
-      "summary": "Assista aos vídeos das principais notícias de Santa Catarina.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Meta, Google e X informam ao TSE que não encontraram irregularidades no canal de apoiadores de Lula no WhatsApp",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/meta-google-e-x-informam-ao-tse-que-nao-encontraram-irregularidades-no-canal-de-apoiadores-do-presidente-lula-no-whatsapp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:01:21+00:00",
-      "summary": "Ministro Floriano de Azevedo, do TSE, proíbe que canal de apoiadores de Lula no WhatsApp seja suspenso sem autorização do plenário As empresas Meta, Google e X informaram ao Tribunal Superior Eleitoral que não encontraram irregularidades no canal de apoiadores do presidente Lula no WhatsApp. Mais cedo, representantes d",
+      "publishedAt": "2026-10-23T23:44:00+00:00",
+      "summary": "O Sistema Alerta Rio prevê para domingo (25), data do segundo turno das eleições , céu nublado a encoberto, com pancadas de chuva acompanhadas de raios, a qualquer momento, na capital fluminense. Os ventos oscilarão de moderados (até 51,9 km/h) a pontualmente fortes, podendo atingir os 76 km/h. As temperaturas variarão",
       "category": "Política"
-    },
-    {
-      "title": "Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta sexta (23)",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/23/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-sexta-23.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T00:00:00+00:00",
-      "summary": "Mailza Assis (PP) e Alan Rick (Republicanos) Reprodução Confira abaixo como foi o dia de campanha dos dois concorrentes ao segundo turno das eleições para o governo do Acre nesta sexta-feira (23). ✅ Participe do canal do g1 AC no WhatsApp Saiba como foi a agenda dos candidatos ao governo do Acre Alan Rick (Republicanos",
-      "category": "Política"
-    },
-    {
-      "title": "Ataque “terrorista” em Paris marca ponto de virada para França, diz Macron",
-      "url": "https://www.cnnbrasil.com.br/internacional/ataque-terrorista-em-paris-marca-ponto-de-virada-para-franca-diz-macron/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:56:51+00:00",
-      "summary": "País enfrenta onda de manifestações violentas que dominaram o país nas últimas semanas; disparos resultaram em um morto e quatro feridos, incluindo uma menina de 12 anos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Resultados das Loterias Caixa",
-      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:56:03+00:00",
-      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fundação PHP tem apenas um funcionário integral, diz diretor",
-      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/fundacao-php-tem-apenas-um-funcionario-integral-diz-diretor/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:55:45+00:00",
-      "summary": "No entanto, fundação sem fins lucrativos que apoia o PHP, que pode estar na base de até 70% dos sites em todo o mundo, opera com um orçamento muito limitado",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jovem de 21 anos é morto a tiros após tentar fugir de grupo armado em Timon, no MA",
-      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/23/jovem-de-21-anos-e-morto-a-tiros-apos-tentar-fugir-de-grupo-armado-em-timon-no-ma.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:52:33+00:00",
-      "summary": "Jovem de 21 anos é morto a tiros em Timon Um jovem de 21 anos foi morto a tiros após tentar fugir de um grupo de homens armados e encapuzados, na madrugada desta sexta-feira (23), no bairro Cidade Nova, em Timon, a cerca de 430 km de São Luís. A vítima foi identificado como Dogilvan Martins Santos Júnior. 📲 Clique aqui",
-      "category": "Mundo"
-    },
-    {
-      "title": "EUA, Rússia e Ucrânia realizarão negociações em novembro, diz Zelensky",
-      "url": "https://www.cnnbrasil.com.br/internacional/eua-russia-e-ucrania-realizarao-negociacoes-em-novembro-diz-zelensky/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:49:41+00:00",
-      "summary": "Representantes dos três países devem se reunir em Abu Dhabi, capital dos Emirados Árabes Unidos, ainda este ano para discutir um possível cessar-fogo entre Kiev e Moscou",
-      "category": "Mundo"
-    },
-    {
-      "title": "Meta diz que “Exército do Lula” não viola políticas da empresa",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/meta-diz-que-exercito-do-lula-nao-viola-politicas-da-empresa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:49:08+00:00",
-      "summary": "Análise da Meta confirma que não há irregularidades no canal administrado pelo deputado federal, André Janones",
-      "category": "Economia"
-    },
-    {
-      "title": "TSE manda remover áudio falso sobre mesários do canal “Tropa do Flávio”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-remover-audio-falso-sobre-mesarios-do-canal-tropa-do-flavio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:48:35+00:00",
-      "summary": "Decisão estabelece duas horas para remoção da gravação, sob pena de multa de R$ 100 mil por hora de descumprimento",
-      "category": "Mundo"
-    },
-    {
-      "title": "Nubank anuncia saída de diretor de tecnologia Eric Young",
-      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/nubank-anuncia-saida-de-diretor-de-tecnologia-eric-young/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:46:59+00:00",
-      "summary": "Eric Young permanecerá na empresa 12 de novembro de 2026 para apoiar uma transição tranquila",
-      "category": "Economia"
-    },
-    {
-      "title": "Sócios do Vasco aprovam venda de 90% da SAF a grupo de Marcos Lamacchia",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/socios-do-vasco-aprovam-venda-de-90-da-saf-a-grupo-de-marcos-lamacchia/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:45:24+00:00",
-      "summary": "Proposta da Almirante Participações foi aceita por maioria esmagadora dos votantes (90,6%) em Assembleia Geral Extraordinária (AGE), nesta sexta-feira (23)",
-      "category": "Mundo"
-    },
-    {
-      "title": "Irã ameaça destruir cabos de comunicação submarinos no Golfo",
-      "url": "https://www.cnnbrasil.com.br/internacional/ira-ameaca-destruir-cabos-de-comunicacao-submarinos-no-golfo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T23:43:23+00:00",
-      "summary": "Altos funcionários iranianos informaram que plano deve ser colocado em ação caso os Estados Unidos e Israel ataquem Teerã novamente",
-      "category": "Esportes"
     },
     {
       "title": "23h Movimento pela habitação em Lisboa promete que amanhã vai montar tendas no Rossio",
@@ -281,78 +353,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Sob as tendas, o terror",
-      "url": "https://observador.pt/opiniao/sob-as-tendas-o-terror/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T23:24:26+00:00",
-      "summary": "Não convém permitir que a comédia involuntária das “acampadas” lhes esconda a natureza e os propósitos: a destruição em larga escala, inclusive dos princípios que damos por adquiridos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ligação Trafaria–Porto Brandão–Belém restabelecida",
-      "url": "https://observador.pt/2026/10/24/transporte-fluvial-de-veiculos-na-ligacao-trafaria-porto-brandao-belem-restabelecido/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T23:21:46+00:00",
-      "summary": "Ligação tinha retomado no dia 12 de outubro depois de uma interrupção de quase um mês na sequência de uma ocorrência com o ferry lisbonense",
-      "category": "Esportes"
-    },
-    {
-      "title": "O mistério da dor no hat-trick da anestesiologia",
-      "url": "https://observador.pt/opiniao/o-misterio-da-dor-no-hat-trick-da-anestesiologia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T23:21:26+00:00",
-      "summary": "É sobretudo aos médicos anestesistas que devemos o incomensurável benefício de uma intervenção sem dor!",
-      "category": "Saúde"
-    },
-    {
-      "title": "Plano Nocional de Leitura (LII)",
-      "url": "https://observador.pt/opiniao/plano-nocional-de-leitura-lii/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T23:20:04+00:00",
-      "summary": "A fama das cantigas de amor e a reputação dos seus cantores é muitas vezes exagerada pelos adeptos da literatura.",
-      "category": "Cultura"
-    },
-    {
-      "title": "OVNI? Misteriosa aeronave operava no \"silêncio absoluto\"",
-      "url": "https://observador.pt/2026/10/24/eua-novos-documentos-revelam-misteriosa-aeronave-triangular-em-zona-sensivel-dos-eua-objetivo-operava-no-silencio-absoluto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T23:19:54+00:00",
-      "summary": "Imagem gerada por computador, e fornecida pelo FBI, tenta recriar o que dois agentes federais afirmam ter visto",
-      "category": "Mundo"
-    },
-    {
-      "title": "Acampada",
-      "url": "https://observador.pt/opiniao/acampada-em-entrecampos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T23:15:07+00:00",
-      "summary": "Os partidos hoje mais empenhados em transformar a crise da habitação numa acusação contra o presente tiveram oportunidade de a travar no passado em vez disso baixaram os braços.",
-      "category": "Política"
-    },
-    {
-      "title": "Orfeu e Eurídice na estrada do Guincho",
-      "url": "https://observador.pt/opiniao/orfeu-e-euridice-na-estrada-do-guincho/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T23:14:52+00:00",
-      "summary": "Orfeu quis confirmar que Eurídice o seguia; quis transformar a promessa em evidência, o pressentimento em prova. E, ao voltar-se, abriu entre ambos uma distância que nenhum canto voltaria a cerzir.",
-      "category": "Mundo"
-    },
-    {
-      "title": "00h. Porto. Acampada nega contacto com presidente da Câmara",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2454/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T23:14:49+00:00",
-      "summary": "O movimento diz que tem em mãos apenas o convite formal inicial. Ainda, o Presidente da República recusa estar adormecido.",
-      "category": "Política"
-    },
-    {
       "title": "Bancas do Mercado de Arroios transformam-se em estantes para livros",
       "url": "https://www.rtp.pt/noticias/cultura/bancas-do-mercado-de-arroios-transformam-se-em-estantes-para-livros_n1773912",
       "source": "RTP Notícias",
@@ -362,15 +362,6 @@
       "category": "Economia"
     },
     {
-      "title": "Extrema-esquerda",
-      "url": "https://observador.pt/opiniao/extrema-esquerda-o-pretxto-substituiu-a-causa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T23:11:05+00:00",
-      "summary": "O facto de a extrema-esquerda ter perdido a sua vocação histórica só a torna mais perigosa, disposta a atos mais desesperados e mais violentos do que nunca.",
-      "category": "Mundo"
-    },
-    {
       "title": "Israel deve preparar-se para contornar sanções internacionais diz Netanyahu",
       "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-deve-preparar-se-para-contornar-sancoes-internacionais-diz-netanyahu_n1773910",
       "source": "RTP Notícias",
@@ -378,60 +369,6 @@
       "publishedAt": "2026-10-23T23:07:19+00:00",
       "summary": "Israel poderá precisar de desenvolver uma economia alternativa para contornar sanções internacionais, declarou o primeiro-ministro Benjamin Netanyahu, reconhecendo a crescente pressão exercida pelo seu principal aliado, os Estados Unidos.",
       "category": "Política"
-    },
-    {
-      "title": "22h Pordata: preços da habitação aumentaram mais de 41% desde 2020, em Portugal",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-pordata-precos-da-habitacao-aumentaram-mais-de-41-desde-2020-em-portugal_a1_1773908",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T22:50:02+00:00",
-      "summary": "",
-      "category": "Economia"
-    },
-    {
-      "title": "\"Em silêncio\" sobe a palco para romper com esquecimento de 48 anos de ditadura",
-      "url": "https://www.rtp.pt/noticias/cultura/em-silencio-sobe-a-palco-para-romper-com-esquecimento-de-48-anos-de-ditadura_n1773874",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T22:49:17+00:00",
-      "summary": "O espetáculo \"Em silêncio\", a estrear-se no sábado, no Teatro S. Luiz, em Lisboa, transporta o público para os 48 anos de história da ditadura do Estado Novo em Portugal, baseado em documentos históricos e testemunhos de presos políticos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Menzies vence concurso para `handling` nos aeroportos de Lisboa, Porto e Faro",
-      "url": "https://www.rtp.pt/noticias/economia/menzies-vence-concurso-para-handling-nos-aeroportos-de-lisboa-porto-e-faro_n1773879",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T22:47:03+00:00",
-      "summary": "A Menzies Aviation (SPdH) venceu o concurso para as licenças de assistência em escala (`handling`) nos aeroportos de Lisboa, Porto e Faro, anunciou hoje Autoridade Nacional da Aviação Civil (ANAC).",
-      "category": "Mundo"
-    },
-    {
-      "title": "21h Sindicato de inquilinas e inquilinos de Madrid quer uma greve ibérica pelo direito à habitação",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-sindicato-de-inquilinas-e-inquilinos-de-madrid-quer-uma-greve-iberica-pelo-direito-a-habitacao_a1_1773905",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T22:45:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Trump diz que EUA vão \"tratar de Cuba\" depois do Irão",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-diz-que-eua-vao-tratar-de-cuba-depois-do-irao_n1773903",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T22:44:20+00:00",
-      "summary": "O presidente norte-americano disse esta sexta-feira que os EUA vão “tratar de Cuba” depois de terminarem a operação no Irão.",
-      "category": "Política"
-    },
-    {
-      "title": "Kiev vai tomar medidas para \"missão humanitária\" em Oleshky",
-      "url": "https://www.rtp.pt/noticias/mundo/kiev-vai-tomar-medidas-para-missao-humanitaria-em-oleshky_n1773885",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-23T22:42:57+00:00",
-      "summary": "O exército da Ucrânia informou hoje que vai tomar medidas para garantir a realização de uma missão humanitária em Oleshky, cidade ucraniana ocupada por Moscovo, onde o Kremlin e a primeira-dama norte-americana anunciaram uma trégua.",
-      "category": "Mundo"
     },
     {
       "title": "BC reforça regras de proteção ao consumidor nas ofertas de crédito",
@@ -477,51 +414,6 @@
       "publishedAt": "2026-10-23T21:28:00+00:00",
       "summary": "A Confederação Brasileira de Futebol (CBF) sorteou nesta sexta-feira (23), na sede da entidade, no Rio de Janeiro, os confrontos das semifinais da Copa do Brasil Feminina de 2026. Após eliminar o São Paulo, atual campeão brasileiro, o Bahia terá pela frente o Flamengo. No outro duelo, o Internacional medirá forças com ",
       "category": "Esportes"
-    },
-    {
-      "title": "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T21:04:00+00:00",
-      "summary": "As inscrições para a segunda chamada do 3º ciclo do Projeto Mais Médicos Especialistas (PMM-E) estão abertas até o dia 29 de outubro. Os interessados devem se inscrever pelo Portal da Universidade Aberta do Sistema Único de Saúde (UNA-SUS) . A estratégia busca incentivar a presença de especialistas em regiões historica",
-      "category": "Saúde"
-    },
-    {
-      "title": "Desmatamento em áreas protegidas da Amazônia e do Cerrado tem queda",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/desmatamento-em-areas-protegidas-da-amazonia-e-do-cerrado-tem-queda",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T20:56:00+00:00",
-      "summary": "O desmatamento em áreas protegidas por unidades de conservação (UC) na Amazônia Legal chegou ao menor nível em 2026, em relação à contagem que começou em 2008. A informação foi divulgada nesta sexta-feira (23) pelo Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), órgão do Ministério do Meio Ambiente e ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Surfe: Medina é vice-campeão em Peniche e sobe para 4º no ranking",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/surfe-medina-e-vice-campeao-em-peniche-e-sobe-para-4o-no-ranking",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T20:46:00+00:00",
-      "summary": "O brasileiro Gabriel Medina ficou bem perto do primeiro título da temporada no circuito mundial de surfe (World Surfe League-WSL) nesta sexta-feira (23), em Peniche (Portugal). Ele travou um duelo equilibrado contra o norte-americano Griffin Colapinto, chegando a liderar a bateria, mas nos minutos finais acabou superad",
-      "category": "Clima"
-    },
-    {
-      "title": "Em meio a ajuste fiscal, Chile tem queda do PIB e desemprego em alta",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/em-meio-ajuste-fiscal-chile-tem-queda-do-pib-e-desemprego-em-alta",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T20:27:00+00:00",
-      "summary": "Eleito com a promessa de reduzir o Estado, cortar impostos e reativar a economia, o presidente do Chile, José Antonio Kast, vem enfrentando uma crise econômica em apenas sete meses de mandato, com retração do Produto Interno Bruto (PIB) e desemprego em alta em meio a um ajuste fiscal. No terceiro trimestre de 2026, o p",
-      "category": "Política"
-    },
-    {
-      "title": "Domingo de eleições deverá ser chuvoso no estado de SP",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/domingo-de-eleicoes-devera-ser-chuvoso-no-estado-de-sp",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-23T19:42:00+00:00",
-      "summary": "A Defesa Civil do estado de São Paulo emitiu um alerta para a possibilidade de ocorrência de temporais no próximo domingo (25) em todo o estado de São Paulo. De acordo com a Defesa Civil, a expectativa é de que todo o estado paulista esteja em alerta laranja para temporais no dia das eleições, o terceiro nível em uma e",
-      "category": "Política"
     }
   ],
   "sources": [
@@ -531,5 +423,10 @@
     "Observador",
     "RTP Notícias"
   ],
-  "failures": []
+  "failures": [
+    {
+      "source": "G1",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
 }
