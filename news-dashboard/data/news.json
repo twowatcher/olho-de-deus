@@ -1,212 +1,482 @@
 {
-  "updatedAt": "2026-10-25T06:03:31.441333+00:00",
+  "updatedAt": "2026-10-25T11:19:34.203343+00:00",
   "items": [
     {
-      "title": "O próximo agente 007 vai ter quatro rodas?",
-      "url": "https://observador.pt/programas/operacao-stop/o-proximo-agente-007-vai-ter-quatro-rodas/",
+      "title": "As notícias das 11h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1332/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-25T06:02:25+00:00",
-      "summary": "Os filmes do 007 vão buscar inspiração a casos reais, pelo que no próximo podem basear-se nos carros chineses que espiaram as manobras dos noruegueses na defesa do aeroporto e edifícios de Oslo.",
+      "publishedAt": "2026-10-25T11:17:50+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
-      "title": "Como seria um governo de Ventura com Passos? — Ouvintes",
-      "url": "https://observador.pt/programas/fora-do-baralho/como-seria-um-governo-de-ventura-com-passos-ouvintes/",
+      "title": "\"Eleições em Israel não vão alterar a política de segurança\"",
+      "url": "https://observador.pt/programas/gabinete-de-guerra/eleicoes-em-israel-nao-vao-alterar-a-politica-de-seguranca/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-25T06:01:56+00:00",
-      "summary": "Ainda no rescaldo da entrevista de Passos Coelho, os ouvintes questionaram Nuno Garoupa sobre cenários e a possibilidade de uma relação política entre o ex-primeiro-ministro e Ventura.",
+      "publishedAt": "2026-10-25T11:05:16+00:00",
+      "summary": "Liliana Reis afirma que eleições em Israel não vão alterar a política externa do país. A especialista em Relações Internacionais defende que Trump devia estar atento à aliança entre Moscovo e Teerão.",
       "category": "Política"
     },
     {
-      "title": "Arábia Saudita diz ter abatido míssil lançado pelos houthis",
-      "url": "https://observador.pt/2026/10/25/arabia-saudita-diz-ter-abatido-missil-lancado-pelos-houthis-contra-riade/",
+      "title": "MAI recusa “cheques em branco” a manifestações com tendas",
+      "url": "https://observador.pt/2026/10/25/acampadas-mai-recusa-cheques-em-branco-a-manifestacoes-que-querem-travar-acao-da-psp-nos-tribunais/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-25T05:55:21+00:00",
-      "summary": "No sábado, na rede social X, o Aeroporto Internacional Rei Khalid revelou que, a partir deste domingo, seriam retomados os voos domésticos no terminal 1 e os voos internacionais das companhias aéreas.",
+      "publishedAt": "2026-10-25T11:02:19+00:00",
+      "summary": "Renata Cambra apresentou pedido de intimação no Tribunal Administrativo, para impedir PSP de travar tendas na Praça D. Pedro IV. MAI sugere que isso levaria a cenário de risco e ausência de controlo.",
       "category": "Mundo"
     },
     {
-      "title": "As imagens da nova intervenção policial no Porto",
-      "url": "https://observador.pt/2026/10/25/as-imagens-da-nova-intervencao-policial-no-porto-para-retirar-manifestantes-e-tendas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T05:41:25+00:00",
-      "summary": "Por volta das duas horas também no Porto começava a intervenção policial para retirar os manifestantes que se mantinham na Praça D. João I com tendas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "PSP fez 31 de detenções \"até ao momento\"",
-      "url": "https://observador.pt/2026/10/25/psp-fez-31-detencoes-e-diz-ter-conhecimento-de-sete-feridos-nas-intervencoes-da-madrugada-de-domingo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T05:21:01+00:00",
-      "summary": "A PSP justifica intervenção policial e garante que \"continuará a exercer as suas competências com rigor, equilíbrio e respeito pelos direitos fundamentais\".",
-      "category": "Mundo"
-    },
-    {
-      "title": "5h. Eleições no Brasil. País escolhe hoje novo presidente",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1577/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T05:17:38+00:00",
-      "summary": "Num país dividido ao meio, mais de 158 milhões de brasileiros são chamados às urnas para escolher entre Lula, de esquerda, e Bolsonaro, de direita. Ainda, Portugal atrasou os relógios.",
+      "title": "Tempo real: Acompanhe a cobertura do segundo turno das eleições 2026 em Sergipe",
+      "url": "https://g1.globo.com/se/sergipe/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-em-sergipe.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T11:00:12+00:00",
+      "summary": "Tempo real: Acompanhe a cobertura do segundo turno das eleições 2026 em Sergipe Acompanhe aqui toda a cobertura do segundo turno das eleições em SE neste domingo.",
       "category": "Política"
     },
     {
-      "title": "Na Nova Zelândia, Lula tem 80,5% no 2º turno; Flávio, 19,4%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/na-nova-zelandia-lula-tem-805-no-2o-turno-flavio-194/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T05:16:26+00:00",
-      "summary": "Apuração foi concluída na madrugada deste domingo (25); em Wellington, 418 eleitores escolheram o petista e 101, o candidato do PL",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: Santana do Itararé, no Norte Pioneiro do Paraná, também terá votação para prefeito neste domingo",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-santana-do-itarare-no-norte-pioneiro-do-parana-tambem-tera-votacao-para-prefeito-neste-domingo.ghtml",
+      "title": "Eleições 2026: eleitores de Jundiaí e Sorocaba vão às urnas neste domingo para votar no 2º turno",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-eleitores-de-jundiai-e-sorocaba-vao-as-urnas-neste-domingo-para-votar-no-2o-turno.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T05:00:00+00:00",
-      "summary": "Plebiscito inédito e eleições suplementares movimentam urnas no Paraná Além de escolher o presidente da República no 2º turno, os eleitores de Santana do Itararé, no Norte Pioneiro do Paraná, também vão às urnas neste domingo (25) para eleger prefeito e vice-prefeito. A nova eleição ocorre após a cassação do mandato do",
+      "publishedAt": "2026-10-25T11:00:01+00:00",
+      "summary": "Quem faltou no 1º turno pode votar normalmente no 2º turno neste domingo Mais de 800 mil eleitores vão às urnas neste domingo (25) em Sorocaba e Jundiaí (SP), para escolher quem deve ocupar o cargo de presidente da República pelos próximos quatro anos. A votação ocorre das 8h às 17h. Até as 17h, os 92 locais de votação",
       "category": "Política"
     },
     {
-      "title": "PoderData/AYA: Flávio tem 51% dos votos válidos no 2º turno; Lula, 49%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/poderdata-aya-flavio-tem-51-dos-votos-validos-no-2o-turno-lula-49-3/",
-      "source": "CNN Brasil",
+      "title": "Você viu? Rato é flagrado 'tomando banho', sabatina com Alan Rick, marido doa rim para esposa e mais",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/25/voce-viu-rato-e-flagrado-tomando-banho-sabatina-com-alan-rick-marido-doa-rim-para-esposa-e-mais.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T04:34:29+00:00",
-      "summary": "Foram entrevistados 4.000 eleitores, entre os dias 23 e 24 de outubro; margem de erro é de 1,6 ponto percentual, para mais ou para menos",
+      "publishedAt": "2026-10-25T11:00:00+00:00",
+      "summary": "Confira o que foi destaque no g1 AC entre 18 a 24 de outubro de 2026 g1 AC O g1 lista as reportagens mais acessadas para você ficar por dentro de tudo que aconteceu entre 18 e 24 de outubro. Confira abaixo. 📲 Participe do canal do g1 AC no WhatsApp Mulher flagra rato tomando banho em tanque de casa e vídeo viraliza no ",
       "category": "Mundo"
     },
     {
-      "title": "Previsão do tempo hoje para Brasília (DF): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "title": "Eleições 2026: Acompanhe a cobertura do 2º turno em São Paulo",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/eleicoes-2026-cobertura-2-turno-sao-paulo.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T04:16:30+00:00",
-      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este domingo (25) para Brasília (DF) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 32ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde,",
-      "category": "Clima"
+      "publishedAt": "2026-10-25T10:59:47+00:00",
+      "summary": "Eleições 2026: Acompanhe a cobertura do 2º turno em São Paulo Os candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) disputam neste domingo (25) quem será o próximo presidente do Brasil. Eleitores do estado de São Paulo retornam às urnas neste domingo (25) para definir quem será o próximo presidente do Br",
+      "category": "Política"
     },
     {
-      "title": "Previsão do tempo hoje para Goiânia (GO): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-goiania-go-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "title": "Protestos Habitação. Livre espera \"posição firme\" de Seguro e vai pedir explicações ao Governo",
+      "url": "https://www.rtp.pt/noticias/pais/protestos-habitacao-livre-espera-posicao-firme-de-seguro-e-vai-pedir-explicacoes-ao-governo_n1774151",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T10:58:43+00:00",
+      "summary": "O Livre instou hoje o Presidente da República, António José Seguro, a ter \"uma posição firme\" sobre as intervenções policiais nas acampadas pela habitação e indicou que vai voltar a pedir explicações ao Ministério da Administração Interna.",
+      "category": "Política"
+    },
+    {
+      "title": "Eleições 2026: acompanhe a cobertura do 2º turno de votação no Acre",
+      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-acre.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T04:16:15+00:00",
-      "summary": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para este domingo (25) para Goiânia (GO) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, s",
-      "category": "Clima"
+      "publishedAt": "2026-10-25T10:56:57+00:00",
+      "summary": "Eleições 2026: acompanhe a cobertura do 2º turno de votação no Acre No Acre, eleitores decidirão novo governador entre Mailza Assis (PP) e Alan Rick (Republicanos), além de votar para presidente da República.",
+      "category": "Política"
     },
     {
-      "title": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol e muitas nuvens à tarde; à noite ocorrem pancadas de chuva",
-      "url": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-e-muitas-nuvens-a-tarde-a-noite-ocorrem-pancadas-de-chuva.ghtml",
+      "title": "Homem é baleado em Corumbá; polícia investiga versões sobre ataque",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/25/homem-e-baleado-em-corumba-policia-investiga-versoes-sobre-ataque.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T04:15:58+00:00",
-      "summary": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para este domingo (25) para Aparecida de Goiânia (GO) é de sol e muitas nuvens à tarde. À noite ocorrem pancadas de chuva. As máximas são de 34ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas",
-      "category": "Clima"
+      "publishedAt": "2026-10-25T10:56:11+00:00",
+      "summary": "Um homem de 50 anos foi baleado por volta das 20h deste sábado (24), na Avenida Gaturama, no bairro Maria Leite, em Corumbá, a 413 quilômetros de Campo Grande. O disparo atingiu a região do tórax, próximo à axila direita, segundo o Corpo de Bombeiros. Apesar do ferimento, a vítima foi socorrida consciente e orientada e",
+      "category": "Ciência & Tech"
     },
     {
-      "title": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "url": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "title": "Militar aposentado do Exército é sequestrado durante trabalho como motorista de app no litoral de SP",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/25/militar-aposentado-do-exercito-e-sequestrado-durante-trabalho-como-motorista-de-app-no-litoral-de-sp.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T04:15:28+00:00",
-      "summary": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para este domingo (25) para Cuiabá (MT) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 38ºC e as mínimas de 27ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol",
-      "category": "Clima"
+      "publishedAt": "2026-10-25T10:55:15+00:00",
+      "summary": "Homem é preso suspeito de integrar quadrilha que sequestra motoristas de aplicativo Um militar aposentado do Exército Brasileiro (EB), de 53 anos, foi sequestrado enquanto trabalhava como motorista de aplicativo em Praia Grande, no litoral de São Paulo. Segundo o boletim de ocorrência, um homem, de 28, foi preso suspei",
+      "category": "Mundo"
     },
     {
-      "title": "Previsão do tempo hoje para Campo Grande (MS): sol com muitas nuvens a nublado com chuva de manhã; tarde e noite com temporal",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-e-noite-com-temporal.ghtml",
+      "title": "Eleições 2026: acompanhe o 2º turno nas cidades do Norte, Centro e Noroeste de MG",
+      "url": "https://g1.globo.com/mg/grande-minas/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-norte-centro-e-noroeste-de-minas-gerais-montes-claros.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T04:15:03+00:00",
-      "summary": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para este domingo (25) para Campo Grande (MS) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde e noite com temporal. As máximas são de 28ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No",
-      "category": "Clima"
+      "publishedAt": "2026-10-25T10:54:26+00:00",
+      "summary": "Eleições 2026: acompanhe o 2º turno nas cidades do Norte, Centro e Noroeste de MG Resultados e informações vão ser atualizados em tempo real durante todo domingo de votação.",
+      "category": "Política"
     },
     {
-      "title": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "title": "Eleições 2026: Acompanhe o 2º turno nas cidades do Leste e Nordeste de MG",
+      "url": "https://g1.globo.com/mg/vales-mg/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-leste-e-nordeste-de-mg-valadares-ipatinga.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T04:14:33+00:00",
-      "summary": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para este domingo (25) para Porto Alegre (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 18ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoada",
-      "category": "Clima"
+      "publishedAt": "2026-10-25T10:54:16+00:00",
+      "summary": "Eleições 2026: Acompanhe o 2º turno nas cidades do Leste e Nordeste de MG Resultados e informações vão ser atualizados em tempo real durante todo domingo de votação.",
+      "category": "Política"
     },
     {
-      "title": "4h. Portugal Continental entra em horário de inverno",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2441/",
+      "title": "Acompanhe a cobertura do 2º turno das eleições 2026 no Amazonas",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-amazonas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:53:56+00:00",
+      "summary": "Acompanhe a cobertura do 2º turno das eleições 2026 no Amazonas O g1 acompanha os principais acontecimentos da eleição neste domingo (25), que define o presidente da República e o governador do Amazonas. A votação ocorre das 7h às 16h em Manaus e na maior parte do estado. Nos 11 municípios amazonenses que seguem o fuso",
+      "category": "Política"
+    },
+    {
+      "title": "Presidente do TSE, Nunes Marques acompanha abertura de sessão e vota em Brasília",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-tse-nunes-marques-acompanha-abertura-de-sessao-em-brasilia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:53:56+00:00",
+      "summary": "Nunes Marques acompanha a impressão da zerésima para o 2º turno das eleições O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, acompanha a abertura de sua sessão eleitoral em Brasília, neste domingo (25). AO VIVO: Acompanhe a apuração do 2º turno das Eleições 2026 pelo Brasil O ministro ",
+      "category": "Política"
+    },
+    {
+      "title": "Mega-Sena: sete apostas em Goiás acertam a quina e levam juntas mais de R$ 200 mil",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/10/25/mega-sena-sete-apostas-em-goias-acertam-a-quina-e-levam-juntas-mais-de-r-200-mil.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:51:30+00:00",
+      "summary": "Bilhetes da Mega-Sena, em imagem de arquivo Marcelo Brandt/G1 Em Goiás, sete apostas acertaram cinco números na Mega-Sena e vão receber, juntas, o valor de R$ 212.229. Cada aposta da quina recebeu R$ 30.318. O sorteio do concurso 3074 foi realizado pela Caixa Econômica Federal (CEF) no sábado (24), em São Paulo. ✅ Cliq",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasil escolhe hoje entre Lula da Silva e Flávio Bolsonaro",
+      "url": "https://observador.pt/liveblogs/brasil-escolhe-hoje-entre-lula-da-silva-e-flavio-bolsonaro-158-milhoes-de-eleitores-sao-chamados-as-urnas/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-25T04:14:11+00:00",
-      "summary": "Portugal Continental e as regiões autónomas da Madeira e dos Açores atrasaram os relógios. Ainda, a noite ficou marcada por investidas rápidas da PSP sobre as Acampadas.",
+      "publishedAt": "2026-10-25T10:50:47+00:00",
+      "summary": "Mais de 158 milhões de brasileiros são chamados às urnas para escolher o Presidente para os próximos quatro anos, numa luta acirrada entre o atual chefe de Estado o senador Flávio Bolsonaro.",
+      "category": "Política"
+    },
+    {
+      "title": "Empresários do turismo do interior criticam políticas que não distinguem regiões",
+      "url": "https://www.rtp.pt/noticias/economia/empresarios-do-turismo-do-interior-criticam-politicas-que-nao-distinguem-regioes_n1774149",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T10:42:39+00:00",
+      "summary": "O presidente da Associação Ibérica de Turismo do Interior (AITI) critica as \"políticas de Lisboa\" para o setor, salientando que quem as promove \"nem sequer faz ideia\" das características das regiões representadas pela organização.",
+      "category": "Política"
+    },
+    {
+      "title": "Ataque ucraniano à Rússia mata três pessoas, diz governador",
+      "url": "https://www.cnnbrasil.com.br/internacional/ataque-ucraniano-a-russia-mata-tres-pessoas-diz-governador/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:41:52+00:00",
+      "summary": "Ofensiva durante madrugada atingiu dezenas de prédios residenciais e estabelecimentos comerciais na região de fronteira; 13 ficaram feridos",
       "category": "Mundo"
     },
     {
-      "title": "Previsão do tempo hoje para Caxias do Sul (RS): tempo chuvoso de manhã; aberturas de sol à tarde e pancadas de chuva que vão até a noite",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-caxias-do-sul-rs-tempo-chuvoso-de-manha-aberturas-de-sol-a-tarde-e-pancadas-de-chuva-que-vao-ate-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T04:14:09+00:00",
-      "summary": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para este domingo (25) para Caxias do Sul (RS) é de tempo chuvoso de manhã. Aberturas de sol à tarde e pancadas de chuva que vão até a noite. As máximas são de 16ºC e as mínimas de 11ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tem",
-      "category": "Clima"
+      "title": "Presidenciais na Bulgária marcadas por dificuldades económicas e guerra",
+      "url": "https://www.rtp.pt/noticias/mundo/presidenciais-na-bulgaria-marcadas-por-dificuldades-economicas-e-guerra_n1774134",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T10:39:35+00:00",
+      "summary": "Os búlgaros vão às urnas, este domingo, para eleger o próximo presidente, numa campanha centrada nas crescentes dificuldades económicas e nos ataques de drones contra embarcações no mar Negro.",
+      "category": "Política"
     },
     {
-      "title": "Previsão do tempo hoje para Joinville (SC): chuva forte de manhã; aberturas de sol à tarde e pancadas de chuva que vão até a noite",
-      "url": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-joinville-sc-chuva-forte-de-manha-aberturas-de-sol-a-tarde-e-pancadas-de-chuva-que-vao-ate-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T04:13:54+00:00",
-      "summary": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para este domingo (25) para Joinville (SC) é de chuva forte de manhã. Aberturas de sol à tarde e pancadas de chuva que vão até a noite. As máximas são de 20ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, chuva e trovo",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Florianópolis (SC): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "url": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-pancadas-de-chuva-de-manha-e-muitas-nuvens-a-tarde-a-noite-tempo-firme.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T04:13:39+00:00",
-      "summary": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para este domingo (25) para Florianópolis (SC) é de sol, com pancadas de chuva de manhã e muitas nuvens à tarde. À noite, tempo firme. As máximas são de 20ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuv",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Maringá (PR): chuva forte de manhã; aberturas de sol à tarde e pancadas de chuva que vão até a noite",
-      "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-maringa-pr-chuva-forte-de-manha-aberturas-de-sol-a-tarde-e-pancadas-de-chuva-que-vao-ate-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T04:13:21+00:00",
-      "summary": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para este domingo (25) para Maringá (PR) é de chuva forte de manhã. Aberturas de sol à tarde e pancadas de chuva que vão até a noite. As máximas são de 26ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, chuva e trovoadas",
-      "category": "Clima"
-    },
-    {
-      "title": "Previsão do tempo hoje para Londrina (PR): chuva forte de manhã; aberturas de sol à tarde e pancadas de chuva que vão até a noite",
-      "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/10/25/previsao-do-tempo-hoje-para-londrina-pr-chuva-forte-de-manha-aberturas-de-sol-a-tarde-e-pancadas-de-chuva-que-vao-ate-a-noite.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T04:13:04+00:00",
-      "summary": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para este domingo (25) para Londrina (PR) é de chuva forte de manhã. Aberturas de sol à tarde e pancadas de chuva que vão até a noite. As máximas são de 25ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, chuva e trovoad",
-      "category": "Clima"
-    },
-    {
-      "title": "Freiburg x Bayern de Munique: horário e onde assistir ao jogo da Bundesliga",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/freiburg-x-bayern-de-munique-horario-e-onde-assistir-ao-jogo-da-bundesliga-2/",
+      "title": "Chuva alaga escola no PR e provoca mudança no local votação; veja",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/chuva-alaga-escola-no-pr-e-provoca-mudanca-no-local-votacao-veja/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T04:00:58+00:00",
-      "summary": "Equipes vão a campo neste domingo, às 13h30, em partida válida pela sétima rodada do Campeonato Alemão",
+      "publishedAt": "2026-10-25T10:34:36+00:00",
+      "summary": "Após alagamento no colégio eleitoral, 3,5 mil eleitores tiveram que mudar o local de votação; no sábado (24), o estado estava sob alerta de grande perigo para tempestades",
+      "category": "Clima"
+    },
+    {
+      "title": "Musk acusa forças ucranianas de violar os termos de utilização da Starlink",
+      "url": "https://www.rtp.pt/noticias/mundo/musk-acusa-forcas-ucranianas-de-violar-os-termos-de-utilizacao-da-starlink_n1774130",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T10:24:46+00:00",
+      "summary": "As Forças Armadas da Ucrânia afirmam que a conexão via satélite Starlink está estável após as recentes restrições. No entanto, Elon Musk acusa os militares ucranianos de violarem os termos da empresa.",
+      "category": "Economia"
+    },
+    {
+      "title": "Consulte o local de votação antes de sair de casa; saiba como",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/consulte-o-local-de-votacao-antes-de-sair-de-casa-saiba-como",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:19:00+00:00",
+      "summary": "Quem vai votar neste segundo turno das eleições precisa ficar atento às mudanças em locais de votação. Segundo dados do Tribunal Superior Eleitoral (TSE), pode haver mudanças em endereços de seções entre os dois turnos. Por isso, a orientação é que os eleitores confiram, com antecedência, os locais de votação nos canai",
+      "category": "Política"
+    },
+    {
+      "title": "Ao terceiro aviso, as tendas ficaram e a policia carregou",
+      "url": "https://observador.pt/especiais/a-noite-aterrorizante-no-rossio-que-acabou-com-carga-policial-barricadas-e-varios-feridos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T10:18:56+00:00",
+      "summary": "A polícia interveio cerca das 2h05, após mais de duas horas à espera de ordens. Houve detenções e cinco feridos registados até às 8h.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mega-Sena acumula, e próximo prêmio será de R$ 300 milhões",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-e-proximo-premio-sera-de-r-300-milhoes",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:18:00+00:00",
+      "summary": "Ninguém acertou acertou as seis dezenas do Concurso 3.074 da Mega-Sena, sorteado nesse sábado (24). O prêmio acumulou novamente e está estimado em R$ 300 milhões para a nova rodada. Os números sorteados são: 02 - 03 - 20 - 25 - 39 - 57. Notícias relacionadas: Caixa Loterias anuncia antecipação de sorteios para sábado. ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Arábia Saudita diz ter abatido míssil lançado pelos Houthis contra Riade",
+      "url": "https://www.rtp.pt/noticias/mundo/arabia-saudita-diz-ter-abatido-missil-lancado-pelos-houthis-contra-riade_n1774120",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T10:17:38+00:00",
+      "summary": "A coligação liderada pela Arábia Saudita, que combate os Huthis no Iémen, voltou a indicar que abateu um míssil balístico disparado em direção à capital, Riade, pelo movimento rebelde apoiado pelo Irão.",
       "category": "Esportes"
     },
     {
-      "title": "Santos 1 x 1 Bahia: veja os melhores momentos do jogo pelo Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-1-x-1-bahia-veja-os-melhores-momentos-do-jogo-pelo-brasileirao/",
+      "title": "60 segundos na cabine: como era votar quando o Código Eleitoral cronometrava cada eleitor no Brasil",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/60-segundos-na-cabine-como-era-votar-quando-o-codigo-eleitoral-cronometrava-cada-eleitor-no-brasil/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T03:40:23+00:00",
-      "summary": "Partida pela 32ª rodada do Brasileirão foi marcada pela forte chuva que castigou o gramado, pelo descontrole do capitão santista e por um gol chorado nos acréscimos",
+      "publishedAt": "2026-10-25T10:15:39+00:00",
+      "summary": "Dispositivo do Código Eleitoral de 1965 previa tempo máximo para o preenchimento da cédula de papel e dobra do voto antes da chegada da urna eletrônica",
+      "category": "Clima"
+    },
+    {
+      "title": "10h. Livre quer explicações de Luís Neves",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2505/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T10:15:27+00:00",
+      "summary": "Jorge Pinto pede explicações sobre a ação da PSP nos protestos pela habitação. Ainda, manifestantes detidos durante a madrugada começam a ser libertados.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Antes da urna, papel e caneta: prepare sua colinha para votar",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/antes-da-urna-papel-e-caneta-prepare-sua-colinha-para-votar",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:15:00+00:00",
+      "summary": "Já pensou em passar semanas ou meses decidindo em quem votar para governar seu estado ou país, ouvir as propostas, colocar o histórico dos candidatos na balança, chegar a uma conclusão e, ao chegar diante da urna, não lembrar qual número digitar? A tecnologia da urna eletrônica revolucionou a forma de votar e apurar os",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Confira horário de votação neste domingo, segundo turno das eleições",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-horario-de-votacao-neste-domingo-segundo-turno-das-eleicoes",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:11:00+00:00",
+      "summary": "Neste domingo (25), 158.745.463 eleitores estão aptos a votar no segundo turno, em todo o país, para escolher o presidente da República e os governadores de cinco estados e do Distrito Federal, onde nenhum candidato conseguiu atingir o mínimo de 50% dos votos mais um no primeiro turno das Eleições Gerais. A votação ser",
+      "category": "Política"
+    },
+    {
+      "title": "Veja em tempo real a apuração do 2ª turno na Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-em-tempo-real-apuracao-do-2a-turno-na-agencia-brasil",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:11:00+00:00",
+      "summary": "Neste domingo (25), a partir das 17h, os eleitores poderão acompanhar a apuração das urnas em tempo real na página especial da Agência Brasil, que trará os principais destaques da votação do segundo turno das eleições gerais. A disputa promete ser acirrada, voto a voto, na escolha para o cargo de presidente da Repúblic",
+      "category": "Política"
+    },
+    {
+      "title": "Os principais desafios das PMEs antes da próxima fase de crescimento",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/os-principais-desafios-das-pmes-antes-da-proxima-fase-de-crescimento/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:10:48+00:00",
+      "summary": "Para sustentar uma operação maior sem perder eficiência, pequenas e médias empresas precisam preparar processos, pessoas e gestão",
+      "category": "Economia"
+    },
+    {
+      "title": "Eleições 2026: Veja os resultados dos países que já encerraram a votação",
+      "url": "https://www.cnnbrasil.com.br/internacional/eleicoes-2026-exterior-boletins-urna-flavio-lula/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:09:38+00:00",
+      "summary": "Números foram obtidos pela CNN a partir dos boletins de urna (BUs) publicados pelo TSE (Tribunal Superior Eleitoral) em seu site de resultados; acompanhe ao vivo",
+      "category": "Política"
+    },
+    {
+      "title": "Estresse pode piorar acne e doenças de pele; veja dicas do que fazer",
+      "url": "https://www.cnnbrasil.com.br/saude/estresse-pode-piorar-acne-e-doencas-de-pele-veja-dicas-do-que-fazer/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:07:13+00:00",
+      "summary": "Situações de pressão mexem com o equilíbrio hormonal e com o sistema imunológico, resultando em inflamações na membrana da pele",
+      "category": "Saúde"
+    },
+    {
+      "title": "El Clásico: brasileiros acumulam gols e momentos históricos na rivalidade",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/el-clasico-brasileiros-acumulam-gols-e-momentos-historicos-na-rivalidade/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:00:44+00:00",
+      "summary": "Com oito gols, Vinícius Júnior lidera a artilharia brasileira do confronto entre Real Madrid e Barcelona; Raphinha aparece na segunda posição, com sete",
       "category": "Esportes"
+    },
+    {
+      "title": "Famílias ainda buscam por desaparecidos após terremoto na Venezuela",
+      "url": "https://www.cnnbrasil.com.br/internacional/familias-ainda-buscam-por-desaparecidos-apos-terremoto-na-venezuela/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T10:00:38+00:00",
+      "summary": "Moradores realizam contagem própria diante da falta de respostas detalhadas do governo venezuelano",
+      "category": "Política"
+    },
+    {
+      "title": "Acordo com Groenlândia é “maior negócio imobiliário da história”, diz Trump",
+      "url": "https://www.cnnbrasil.com.br/internacional/acordo-com-groenlandia-e-maior-negocio-imobiliario-da-historia-diz-trump/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T09:46:12+00:00",
+      "summary": "O presidente americano, Donald Trump, participou de um comício na Geórgia antes das Eleições de Meio de Mandato e disse que EUA ficaram com a Groenlândia e a Venezuela \"de graça\"",
+      "category": "Política"
+    },
+    {
+      "title": "Eleitores vão às urnas hoje para escolher o presidente do país",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-vao-urnas-neste-domingo-para-escolher-o-presidente-do-pais",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T09:45:00+00:00",
+      "summary": "Os brasileiros vão às urnas neste domingo (25) para escolher o presidente da República. Cerca de 158,7 milhões de eleitores estão aptos a votar, segundo a Justiça Eleitoral. A votação começa às 8h e termina às 17h (horário de Brasília). Notícias relacionadas: Segundo turno: saiba como consultar local de votação para do",
+      "category": "Política"
+    },
+    {
+      "title": "Linha 15-Prata volta a operar normalmente após queda de guindaste em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/linha-15-prata-volta-a-operar-normalmente-apos-queda-de-guindaste-em-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T09:38:17+00:00",
+      "summary": "Sistema PAESE (Plano de Apoio entre Empresas em Situação de Emergência), que também funcionou durante o período de reestabelecimento da linha, foi suspenso; caso ocorreu neste sábado (24) próximo à estação Camilo Haddad, na zona leste de São Paulo",
+      "category": "Economia"
+    },
+    {
+      "title": "Seis manifestantes detidos pela PSP no Porto foram libertados",
+      "url": "https://www.rtp.pt/noticias/pais/seis-manifestantes-detidos-pela-psp-no-porto-foram-libertados_n1774148",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T09:35:54+00:00",
+      "summary": "As seis pessoas detidas na sequência da intervenção da PSP contra a Acampada do Porto foram libertados pelas 06h00 deste domingo.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Detidos em Lisboa começam a ser libertados. Serão presentes a tribunal na segunda-feira",
+      "url": "https://www.rtp.pt/noticias/pais/detidos-em-lisboa-comecam-a-ser-libertados-serao-presentes-a-tribunal-na-segunda-feira_n1774142",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T09:26:56+00:00",
+      "summary": "As 25 pessoas detidas na madrugada deste domingo em Lisboa após a intervenção da polícia na praça do Rossio já começaram a ser libertadas. Têm de se apresentar a tribunal na segunda-feira.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Eleições 2026: Veja a previsão do tempo para o 2º turno em todo o país",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-veja-previsao-do-tempo-para-o-2o-turno-em-todo-o-pais/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T09:20:22+00:00",
+      "summary": "Frente fria provoca temporais em São Paulo com risco de granizo e ventos fortes; chuvas se estendem para RJ, MG e ES, enquanto regiões Norte e Nordeste têm dia ensolarado e tempo firme",
+      "category": "Política"
+    },
+    {
+      "title": "Das tumbas do Egito aos quintais brasileiros – A história da bolinha de gude",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/das-tumbas-do-egito-aos-quintais-brasileiros-a-historia-da-bolinha-de-gude/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T09:20:15+00:00",
+      "summary": "Arqueólogos revelam como objetos de pedras e nozes de civilizações antigas viraram tradição mundial e campeonato",
+      "category": "Esportes"
+    },
+    {
+      "title": "9h. Eleições Brasil. Urnas já abriram em Portugal",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2512/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T09:15:33+00:00",
+      "summary": "Na primeira volta das eleições do Brasil, a abstenção em Lisboa foi superior a 63%. Ainda, Rui Borges não desvendou quem vai ser o titular na baliza no jogo contra o Académico de Viseu.",
+      "category": "Política"
+    },
+    {
+      "title": "O corpo não esquece? Como lidar com um trauma",
+      "url": "https://observador.pt/programas/manual-de-instrues-para-humanos/o-corpo-nao-esquece-como-lidar-com-um-trauma/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T09:04:02+00:00",
+      "summary": "Divórcio, infância difícil, um acidente: nem tudo o que dói é trauma. Gustavo Jesus explica o que acontece no cérebro e quando procurar ajuda. Novo episódio do Manual de Instruções para Humanos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Protesto pelo direito à Habitação. Onze feridos e 31 detidos em Lisboa e no Porto",
+      "url": "https://www.rtp.pt/noticias/pais/protesto-pelo-direito-a-habitacao-onze-feridos-e-31-detidos-em-lisboa-e-no-porto_n1774140",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T08:44:14+00:00",
+      "summary": "Houve nova carga policial contra os manifestantes que acamparam no Porto e em Lisboa. Onze pessoas ficaram feridas e 31 foram detidas, esta madrugada.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-milhoes-de-eleitores-decidem-hoje-entre-lula-e-bolsonaro_e1774136",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T08:32:29+00:00",
+      "summary": "É dia de escolher o presidente do Brasil: Lula da Silva ou Flávio Bolsonaro. Mais de 158 milhões de brasileiros são hoje chamados às urnas, nesta segunda volta das presidenciais. Acompanhamos aqui o dia de eleições.",
+      "category": "Política"
+    },
+    {
+      "title": "8h. 11 feridos após intervenção da PSP em Lisboa e no Porto",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2557/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T08:15:11+00:00",
+      "summary": "O número de feridos foi confirmado pela PSP, que fala numa ocupação do espaço público de forma indevida. Ainda, Lula da Silva ou Flávio Bolsonaro, um deles vai ser eleito hoje presidente do Brasil.",
+      "category": "Política"
+    },
+    {
+      "title": "Retrato de Brigitte Bardot pintado por Kees van Dongen vendido por 1,35 milhões de euros",
+      "url": "https://www.rtp.pt/noticias/mundo/retrato-de-brigitte-bardot-pintado-por-kees-van-dongen-vendido-por-135-milhoes-de-euros_n1774117",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T08:12:06+00:00",
+      "summary": "Um retrato da atriz francesa Brigitte Bardot (1934-2025), feito pelo pintor Kees van Dongen (1877-1968), foi vendido por 1,35 milhões de euros num leilão realizado em Paris, informou a leiloeira Artcurial.",
+      "category": "Economia"
+    },
+    {
+      "title": "Filme \"Virgem Fandango\" com dupla distinção no Prémio Nacional de Animação",
+      "url": "https://www.rtp.pt/noticias/cultura/filme-virgem-fandango-com-dupla-distincao-no-premio-nacional-de-animacao_n1774092",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T08:11:19+00:00",
+      "summary": "O filme \"Virgem Fandango\", da realizadora norte-americana Marcy Page, venceu dois prémios, um dos quais do público, no sábado, no Porto, no âmbito do Prémio Nacional de Animação.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sabemos amar ou só analisar o amor?",
+      "url": "https://observador.pt/programas/amiga-faz-parte/sabemos-amar-ou-so-analisar-o-amor/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T08:04:40+00:00",
+      "summary": "Sabemos amar ou só analisar o amor? Com o André Nobre Duarte falo de ghosting, situationships, maxxing e do que se passa com a nossa geração nas relações e no crescimento pessoal.",
+      "category": "Cultura"
+    },
+    {
+      "title": "\"A sociedade ainda não sabe lidar com um bebé que nunca viu\"",
+      "url": "https://observador.pt/programas/em-40-minutos/matilde-breyner-e-a-dor-da-perda-gestacional-a-sociedade-nao-sabe-o-que-dizer-nem-como-lidar-com-um-bebe-que-nunca-viu-as-vezes-basta-dizer-estou-aqui/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T07:38:59+00:00",
+      "summary": "Matilde Breyner passa em revista a carreira na representação, o fim da faceta de \"people pleaser\" e o fenómeno do lip sync. A atriz abre o coração sobre a dor da perda gestacional da filha Zoe.",
+      "category": "Mundo"
+    },
+    {
+      "title": "7h. Noite marcada por investida da polícia no Porto e Lisboa",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2543/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T07:20:20+00:00",
+      "summary": "A PSP dá conta de 31 cidadãos detidos por desobediência e também 11 feridos, seis em Lisboa e cinco no Porto. Ainda, os brasileiros vão hoje às urnas escolher entre Lula da Silva e Flávio Bolsonaro.",
+      "category": "Mundo"
     },
     {
       "title": "Protestos pelo direito à habitação desceram à rua em várias cidades do país",
@@ -218,204 +488,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Organização dos manifestantes do Porto identificou 37 feridos após carga policial",
-      "url": "https://www.rtp.pt/noticias/economia/organizacao-dos-manifestantes-do-porto-identificou-37-feridos-apos-carga-policial_n1774118",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T03:16:06+00:00",
-      "summary": "A organização do movimento pela habitação no Porto identificou hoje 37 feridos ligeiros e cinco pessoas ainda a receber assistência médica, após a carga policial para desocupar a Praça D. João I.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Lisboa. As imagens da noite em que a polícia avançou",
-      "url": "https://observador.pt/2026/10/25/as-imagens-da-noite-em-que-a-policia-avancou-sobre-os-manifestantes-da-acampada-em-lisboa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T03:14:51+00:00",
-      "summary": "A polícia avançou sobre os manifestantes, dispersando-os e retirando as tendas que estavam no Rossio.",
-      "category": "Mundo"
-    },
-    {
-      "title": "3h. PSP dispersa Acampadas. Manifestantes relatam feridos",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2477/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T03:14:17+00:00",
-      "summary": "Dezenas de polícias da PSP estão ainda nos arredores d a Praça Dom João I no Porto e da Praça do Rossio em Lisboa. Ainda, o futebol clube do porto venceu o Gil Vicente por 1-0.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Corinthians goleia Dragonas e avança à semifinal da Libertadores Feminina",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/corinthians-goleia-dragonas-e-avanca-a-semifinal-da-libertadores-feminina/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T03:00:57+00:00",
-      "summary": "Equipe paulista marcou os cinco gols no segundo tempo e agora enfrenta o Santa Fe-COL, que eliminou o Palmeiras",
-      "category": "Esportes"
-    },
-    {
-      "title": "As notícias das 2h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2451/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T02:40:05+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "PSP destrói tendas e manifestantes no Porto gritam \"voltaremos\"",
-      "url": "https://www.rtp.pt/noticias/economia/psp-destroi-tendas-e-manifestantes-no-porto-gritam-voltaremos_n1774115",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T02:38:10+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "PSP avançou sobre os manifestantes no Rossio e há um número indeterminado de feridos a ser tratados no local",
-      "url": "https://www.rtp.pt/noticias/economia/psp-avancou-sobre-os-manifestantes-no-rossio-e-ha-um-numero-indeterminado-de-feridos-a-ser-tratados-no-local_n1774116",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T02:35:57+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Expulso, Neymar se revolta e ameaça pivô de briga: “Vou pegar o Nestor”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/expulso-neymar-se-revolta-e-ameaca-pivo-de-briga-vou-pegar-o-nestor/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T02:31:01+00:00",
-      "summary": "Camisa 10 e capitão do Santos recebeu cartão vermelho após colocar a mão na boca em possível discussão com Rodrigo Nestor, do Bahia, na volta do intervalo",
-      "category": "Mundo"
-    },
-    {
-      "title": "PSP começou a tentar desmobilizar manifestantes no Porto pelas 2h02",
-      "url": "https://www.rtp.pt/noticias/economia/psp-comecou-a-tentar-desmobilizar-manifestantes-no-porto-pelas-2h02_n1774112",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T02:14:32+00:00",
-      "summary": "A Unidade Especial de Polícia da PSP começou hoje a tentar desmobilizar os manifestantes na Praça D. João I, no Porto, após estes rejeitarem tirar as tendas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "PSP avançou sobre os manifestantes no Rossio para retirar as tendas",
-      "url": "https://www.rtp.pt/noticias/economia/psp-avancou-sobre-os-manifestantes-no-rossio-para-retirar-as-tendas_n1774110",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T02:13:57+00:00",
-      "summary": "A PSP interveio e avançou hoje, cerca das 02:00, sobre os manifestantes pela habitação que estão na Praça do Rossio, em Lisboa, para retirar as tendas que foram montadas no sábado.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Após temporal e papelão de Neymar, Santos busca empate com o Bahia na Vila",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/apos-temporal-e-papelao-de-neymar-santos-busca-empate-com-o-bahia-na-vila/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T02:13:21+00:00",
-      "summary": "Partida pela 32ª rodada do Brasileirão foi marcada pela forte chuva que castigou o gramado, pelo descontrole do capitão santista e por um gol chorado nos acréscimos",
-      "category": "Esportes"
-    },
-    {
-      "title": "01h Tensão máxima entre policias e manifestantes",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-tensao-maxima-entre-policias-e-manifestantes_a1_1774109",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T02:01:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Neymar é detonado por jogador do Bahia: “Fui bem educado pela minha mãe”",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/neymar-e-detonado-por-jogador-do-bahia-fui-bem-educado-pela-minha-mae/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T01:41:36+00:00",
-      "summary": "Rodrigo Nestor critica craque do Santos após confusão em campo durante jogo do Brasileirão; descontrolado, camisa 10 santista acabaria sendo expulso antes do segundo tempo",
-      "category": "Esportes"
-    },
-    {
-      "title": "Neymar é expulso por Lei Vini Jr. e se descontrola em Santos x Bahia; veja",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-e-expulso-por-lei-vini-jr-e-se-descontrola-em-santos-x-bahia-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T01:25:37+00:00",
-      "summary": "Camisa 10 e capitão do Santos recebeu cartão vermelho após discussão com Rodrigo Nestor, do Bahia, na volta do intervalo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Acampada de Lisboa diz que PSP vai intervir mas manifestantes pretendem resistir",
-      "url": "https://www.rtp.pt/noticias/economia/acampada-de-lisboa-diz-que-psp-vai-intervir-mas-manifestantes-pretendem-resistir_n1774094",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T01:24:01+00:00",
-      "summary": "O movimento Acampada de Lisboa pelo direito à habitação disse hoje, pelas 00:30, que a polícia avisou que vai intervir esta noite, após diálogo com os manifestantes, que pretendem resistir com tendas montadas no Rossio.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Manifestantes podem pernoitar na acampada do Porto se retirarem tendas",
-      "url": "https://www.rtp.pt/noticias/economia/manifestantes-podem-pernoitar-na-acampada-do-porto-se-retirarem-tendas_n1774093",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T01:23:29+00:00",
-      "summary": "A PSP informou hoje os manifestantes presentes na Acampada do Porto, que podem pernoitar na Praça D. João I, mas apenas se desmontarem as tendas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Inaugurado em 1911 para a elite do café, o Theatro Municipal de São Paulo se tornou um ícone cultural vivo",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/inaugurado-em-1911-para-a-elite-do-cafe-o-theatro-municipal-de-sao-paulo-se-tornou-um-icone-cultural-vivo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T01:20:44+00:00",
-      "summary": "Palco revolucionário da Semana de Arte Moderna de 1922, o espaço reúne acervo histórico e grandes corpos artísticos no Centro",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "A manifestação que encheu o Rossio com recados ao Governo",
-      "url": "https://observador.pt/especiais/luis-eu-nao-sou-egoista-a-manifestacao-que-encheu-o-rossio-com-molhos-de-chaves-e-recados-ao-governo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T01:16:52+00:00",
-      "summary": "Manifestação contra a crise da habitação em Lisboa contou com milhares de pessoas",
-      "category": "Política"
-    },
-    {
-      "title": "1h. Manifestações pela Habitação. PSP reforçada no Rossio",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2426/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T01:14:27+00:00",
-      "summary": "Dezenas de polícias cercam a esta hora a Praça do Rossio e a Praça D. João I. Ainda, em Barcelona os manifestantes partiram lojas e vandalizaram a cidade.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Veritá: Flávio tem 51,56% dos votos válidos no 2º turno; Lula, 48,44%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/verita-flavio-tem-5156-dos-votos-validos-no-2o-turno-lula-4844/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T01:11:31+00:00",
-      "summary": "Pesquisa ouviu 15.554 eleitores em 905 municípios entre 19 e 23 de outubro; margem de erro é de um ponto percentual, para mais ou para menos, com nível de confiança de 95%",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Centenas de agentes preparados para intervir no Rossio de Lisboa",
-      "url": "https://www.rtp.pt/noticias/economia/centenas-de-agentes-preparados-para-intervir-no-rossio-de-lisboa_n1774099",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T01:06:30+00:00",
-      "summary": "De acordo com os jornalistas da RTP no terreno, centenas de agentes constituem o contingente que se prepara para intervir no Rossio.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Neymar se envolve em treta contra o Bahia e não enfrentará Palmeiras; veja",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-se-envolve-em-treta-contra-o-bahia-e-nao-enfrentara-palmeiras-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T01:04:13+00:00",
-      "summary": "Camisa 10 do Peixe estava pendurado e recebeu o terceiro cartão amarelo em confusão com jogador do Bahia pelo Brasileirão; entenda a situação",
-      "category": "Mundo"
-    },
-    {
       "title": "Nunes Marques pede vigilância e senso crítico com notícias no 2º turno",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nunes-marques-pede-vigilancia-e-senso-critico-com-noticias-no-2o-turno",
       "source": "Agência Brasil",
@@ -423,15 +495,6 @@
       "publishedAt": "2026-10-25T00:32:00+00:00",
       "summary": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, pediu, neste sábado (24), que a população se mantenha vigilante e eleve o senso critico em relação às informações que circularem neste domingo (25), segundo turno das eleições. As seções ficam abertas de 8h às 17h, seguindo o horário de B",
       "category": "Política"
-    },
-    {
-      "title": "00h Tendas no Porto e em Lisboa apesar dos avisos da PSP",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-tendas-no-porto-e-em-lisboa-apesar-dos-avisos-da-psp_a1_1774091",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T00:25:02+00:00",
-      "summary": "",
-      "category": "Mundo"
     },
     {
       "title": "Em Brasília, atos por Lula e Flávio ficam a 2 km de distância",
@@ -452,15 +515,6 @@
       "category": "Política"
     },
     {
-      "title": "Paris FC perde em Lens",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/paris-fc-perde-em-lens_d1774090",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-24T23:10:05+00:00",
-      "summary": "O Paris FC falhou a possibilidade de se isolar provisoriamente na liderança da Liga francesa, ao perder com reviravolta na visita ao Lens (2-1), em jogo da oitava jornada.",
-      "category": "Esportes"
-    },
-    {
       "title": "Votação: eleitores podem usar itens que expressem preferência política",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/votacao-eleitores-podem-usar-itens-que-expressem-preferencia-politica",
       "source": "Agência Brasil",
@@ -468,60 +522,6 @@
       "publishedAt": "2026-10-24T21:42:00+00:00",
       "summary": "Eleitores poderão fazer manifestação individual e silenciosa da sua posição política no domingo (25), dia de votação do segundo turno das eleições 2026. Isso significa que as pessoas podem usar itens que expressem sua preferência, como: bandeiras, camisetas, broches adesivos. Notícias relacionadas: Local de votação ain",
       "category": "Política"
-    },
-    {
-      "title": "Eleições: saiba como consultar locais de votação para o segundo turno",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-saiba-como-consultar-locais-de-votacao-para-o-segundo-turno",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T21:39:00+00:00",
-      "summary": "Os 158 milhões de eleitores que vão às urnas neste domingo (25) para escolher o próximo presidente da República precisam checar o endereço da seção eleitoral antes de sair de casa. A orientação do Tribunal Superior Eleitoral é que os eleitores confiram, com antecedência, os locais de votação nos canais oficiais. Aplica",
-      "category": "Política"
-    },
-    {
-      "title": "Justiça proíbe rede de supermercados de praticar assédio eleitoral",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-proibe-rede-de-supermercados-de-fazer-assedio-eleitoral",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:48:00+00:00",
-      "summary": "A Justiça do Trabalho determinou que uma rede de supermercados pare de enviar comunicados de cunho eleitoral para seus funcionários. A decisão foi tomada a pedido do Sindicato dos Comerciários, que constatou que empregados do Supermercado Zona Sul receberam carta, enviada pela empresa, que continha críticas ao cenário ",
-      "category": "Economia"
-    },
-    {
-      "title": "Veja quem tem prioridade nas seções eleitorais no segundo turno",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T20:24:00+00:00",
-      "summary": "Os 158,7 milhões de eleitores que comparecerão às urnas no segundo turno, neste domingo (25), deverão votar apenas para presidente da República e governador, dependendo do estado . Caso haja fila nas seções de votação, a legislação estabelece públicos prioritários que podem votar antes dos demais. Notícias relacionadas",
-      "category": "Política"
-    },
-    {
-      "title": "Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T19:32:00+00:00",
-      "summary": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, negou pedido para que veículos e embarcações da Fundação Nacional dos Povos Indígenas (Funai), Secretaria de saúde Indígena (Sesai) e do Ministério dos Povos Indígenas (MPI) possam transportar eleitores indígenas sem autorização prévia da",
-      "category": "Política"
-    },
-    {
-      "title": "Tribunais eleitorais definem urnas que serão auditadas no 2º turno",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tribunais-eleitorais-definem-urnas-que-serao-auditadas-no-2o-turno",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T19:13:00+00:00",
-      "summary": "Tribunais regionais eleitorais (TREs) de todo o país definiram neste sábado (24) as urnas eletrônicas que serão submetidas a auditorias neste segundo turno das eleições gerais. As urnas foram sorteadas ou escolhidas por representantes de partidos políticos e entidades fiscalizadoras. Nos quatro maiores colégios eleitor",
-      "category": "Política"
-    },
-    {
-      "title": "Saiba os direitos de idosos e pessoas com deficiência para votar",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-os-direitos-de-idosos-e-pessoas-com-deficiencia-para-votar",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-24T18:22:00+00:00",
-      "summary": "Para assegurar que o momento de ir às urnas ocorra com agilidade, conforto e segurança, a legislação brasileira estabelece um conjunto de direitos e preferências destinados a pessoas com deficiência, mobilidade reduzida e idosos. Confira algumas das garantias asseguradas pela Justiça Eleitoral. Acessibilidade Infraestr",
-      "category": "Ciência & Tech"
     }
   ],
   "sources": [
