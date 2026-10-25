@@ -1,283 +1,490 @@
 {
-  "updatedAt": "2026-10-25T16:10:59.920358+00:00",
+  "updatedAt": "2026-10-25T19:00:16.306897+00:00",
   "items": [
     {
-      "title": "Autarca do Porto apela \"à serenidade, ao bom senso e ao equilíbrio de todas as partes\"",
-      "url": "https://www.rtp.pt/noticias/pais/autarca-do-porto-apela-a-serenidade-ao-bom-senso-e-ao-equilibrio-de-todas-as-partes_v1774217",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T16:06:52+00:00",
-      "summary": "Pedro Duarte acaba de dizer que lamenta os incidentes da madrugada no Porto. O presidente da câmara apela à serenidade e volta a lembrar que está disponível para uma reunião com os manifestantes",
-      "category": "Política"
-    },
-    {
-      "title": "Luís Neves defende a ação da polícia",
-      "url": "https://www.rtp.pt/noticias/politica/luis-neves-defende-a-acao-da-policia_v1774216",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T16:06:47+00:00",
-      "summary": "O ministro da Administração Interna diz que a policia agiu consoante a lei. Luís Neves garante que a ação não teve carga policial. Apesar de lamentar os feridos e de reconhecer a crise da habitação como uma causa justa, o MAI diz que não viu nenhuma atuação \"desproporcional\".",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições 2026: acompanhe a cobertura do 2º turno na região de Piracicaba",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-piracicaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T16:00:44+00:00",
-      "summary": "Eleições 2026: acompanhe a cobertura do 2º turno na região de Piracicaba Ao todo, 958,2 mil pessoas devem votar em 18 cidades da região neste domingo (25). Região de Piracicaba reúne 958.295 eleitores aptos para votar no segundo turno presidencial.. Disputam o pleito Flávio Bolsonaro (PL) e Lula (PT).. Piracicaba, Lime",
-      "category": "Política"
-    },
-    {
-      "title": "Como Trump virou ponto que nem governo nem oposição da Venezuela confrontam",
-      "url": "https://www.cnnbrasil.com.br/internacional/como-trump-virou-ponto-que-nem-governo-nem-oposicao-da-venezuela-confrontam/",
+      "title": "Sofía Vergara é flagrada em jantar romântico com cantor do Imagine Dragons",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/sofia-vergara-e-flagrada-em-jantar-romantico-com-cantor-do-imagine-dragons/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T16:00:13+00:00",
-      "summary": "Apesar de terem motivos para questioná-lo, influência do presidente americano após a captura de Nicolás Maduro fez com que Delcy Rodríguez e Maria Corina evitem confronto direto",
-      "category": "Política"
-    },
-    {
-      "title": "Corpo de adolescente morto a tiros na porta de casa é velado neste domingo em BH; caso é investigado pela Polícia Civil",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/25/corpo-de-adolescente-morto-a-tiros-na-porta-de-casa-e-velado-neste-domingo-em-bh-caso-e-investigado-pela-policia-civil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T16:00:01+00:00",
-      "summary": "Adolescente morre baleado em BH O corpo de Maicon Antônio Casimiro Souza, de 17 anos, começou a ser velado, às 13h, deste domingo (25), no Cemitério da Saudade, em Belo Horizonte. O adolescente foi morto a tiros na porta da casa dos pais, no bairro Alto Vera Cruz, na Região Leste da capital, na tarde de sábado (24). O ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ex-vocalista da banda Cheiro de Amor segue internada sem previsão de alta",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/ex-vocalista-da-banda-cheiro-de-amor-segue-internada-sem-previsao-de-alta/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:59:39+00:00",
-      "summary": "Carla Visi está recebendo acompanhamento médico em um hospital de Lisboa desde a última segunda-feira (19), quando foi acometida por uma infecção bacteriana",
-      "category": "Saúde"
-    },
-    {
-      "title": "Já não é um pesadelo, é mesmo uma casa dos horrores",
-      "url": "https://observador.pt/2026/10/25/ja-nao-e-um-pesadelo-e-mesmo-uma-casa-dos-horrores-onde-reina-a-autodestruicao-united-volta-a-perder-com-bruno-no-banco/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T15:58:53+00:00",
-      "summary": "A equipa de Michael Carrick leva agora cinco derrotas e três empates nos últimos oito jogos",
-      "category": "Esportes"
-    },
-    {
-      "title": "Lucas Pinheiro Braathen vence em estreia da temporada do slalom gigante",
-      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/lucas-pinheiro-braathen-vence-em-estreia-da-temporada-do-slalom-gigante/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:58:43+00:00",
-      "summary": "Campeão olímpico nos Jogos de Milão-Cortina em fevereiro deste ano, brasileiro nascido na Noruega superou os suíços Loic Meillard e Marco Odermatt na competição disputada na Áustria",
-      "category": "Esportes"
-    },
-    {
-      "title": "Eleições 2026: TRE registra 1 urna substituída em balanço parcial",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-acre.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:58:38+00:00",
-      "summary": "Eleições 2026: TRE registra 1 urna substituída em balanço parcial No Acre, eleitores decidem novo governador entre Mailza Assis (PP) e Alan Rick (Republicanos), além de votarem para presidente da República.",
-      "category": "Política"
-    },
-    {
-      "title": "AO VIVO: Votação no RN é tranquila nas primeiras horas",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-no-rio-grande-do-norte.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:58:36+00:00",
-      "summary": "AO VIVO: Votação no RN é tranquila nas primeiras horas Acompanhe aqui toda a cobertura ao vivo do segundo turno das eleições no RN no dia 25 de outubro.",
-      "category": "Política"
-    },
-    {
-      "title": "Defesa Civil de BH emite alerta severo de chuvas intensas no domingo de eleição",
-      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/25/defesa-civil-de-bh-emite-alerta-de-chuvas-intensas-no-domingo-de-eleicao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:57:59+00:00",
-      "summary": "A Defesa Civil de Belo Horizonte emitiu um alerta severo de chuvas intensas com risco de enxurradas e e alagamentos no início da tarde deste domingo (25), dia do segundo turno das eleiç",
-      "category": "Política"
-    },
-    {
-      "title": "Homem morre e outras pessoas ficam feridas em batida entre dois carros na MG-050",
-      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/25/acidentes-de-transito.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:57:09+00:00",
-      "summary": "Um homem de 72 anos morreu e pelo menos duas pessoas ficaram feridas em uma batida envolvendo dois carros na manhã deste domingo (25), na MG-050, entre Passos e Itaú de Minas (MG). A vítima foi identificada como José Raimundo dos Santos. 📲 Siga a página do g1 Sul de Minas no Instagram Segundo as primeiras informações d",
-      "category": "Mundo"
-    },
-    {
-      "title": "“Estou aqui”: María Corina diz que chegou à Venezuela após meses no exílio",
-      "url": "https://www.cnnbrasil.com.br/internacional/maria-corina-machado-diz-que-voltou-a-venezuela-apos-10-meses-no-exilio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:56:37+00:00",
-      "summary": "Ela deixou a Venezuela em dezembro e foi para a Noruega para receber o Prêmio Nobel da Paz, concedido a ela por promover os direitos democráticos em seu país",
-      "category": "Mundo"
-    },
-    {
-      "title": "Polícia investiga mortes de três homens encontrados com sinais de violência na Zona Sul de SP",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/25/policia-investiga-mortes-de-tres-homens-encontrados-com-sinais-de-violencia-na-zona-sul-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:55:10+00:00",
-      "summary": "Polícia Civil de São Paulo Agência SP A Polícia Civil investiga as mortes de três homens encontrados com sinais de violência na Zona Sul de São Paulo. Uma das vítimas foi localizada com marcas de tiros no Jardim Apurá, na madrugada deste domingo (25). Em outra ocorrência, dois homens foram encontrados mortos, um com si",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cidades do interior de SP registram movimento tranquilo nos locais de votação; acompanhe",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-bauru-itapetininga-presidente-prudente-rio-preto-sorocaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:52:35+00:00",
-      "summary": "Cidades do interior de SP registram movimento tranquilo nos locais de votação; acompanhe Moradores voltam às urnas neste 2º turno das Eleições 2026 para escolher o presidente do Brasil; siga em tempo real. O segundo turno das Eleições 2026 é realizado neste domingo (25);. Os eleitores do interior de SP voltam às urnas ",
-      "category": "Política"
-    },
-    {
-      "title": "Duarte Gomes sobe a segundo português de sempre na meia maratona",
-      "url": "https://www.rtp.pt/noticias/atletismo/duarte-gomes-sobe-a-segundo-portugues-de-sempre-na-meia-maratona_d1774215",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T15:49:43+00:00",
-      "summary": "Duarte Gomes tornou-se hoje o segundo melhor português de sempre na meia maratona, depois de ter corrido em 1:00.43 horas em Valência, com Rui Pinto a entrar também para o top 10 nacional.",
+      "publishedAt": "2026-10-25T18:54:14+00:00",
+      "summary": "Dan Reynolds e protagonista de \"Modern Family\" estiveram acompanhados de um segundo casal de amigos durante encontro em Los Angeles, EUA",
       "category": "Cultura"
     },
     {
-      "title": "Emeric Guerillot e José Cabeça distinguidos nos desportos de inverno, Fernando Gomes galardoado",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/emeric-guerillot-e-jose-cabeca-distinguidos-nos-desportos-de-inverno-fernando-gomes-galardoado_d1774214",
+      "title": "Casar todos os dias",
+      "url": "https://observador.pt/opiniao/casar-todos-os-dias/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:53:19+00:00",
+      "summary": "Afinal, o que é dói mais num casamento: as coisas más que vão acontecendo, os silêncios que se acumulam ou reconhecer, à data de hoje, que a tristeza que sentimos não encontra um colo que a repare?",
+      "category": "Mundo"
+    },
+    {
+      "title": "15 chefs de 15 países: caterings com diversidade em Lisboa",
+      "url": "https://observador.pt/especiais/quinze-chefs-mulheres-de-quinze-paises-a-diversidade-de-sabores-tem-ganhado-lugar-nos-caterings-de-eventos-em-lisboa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:47:48+00:00",
+      "summary": "Sozgin Kartal, natural da Turquia, confeciona lahmajun para os amantes da culinária do Médio Oriente",
+      "category": "Mundo"
+    },
+    {
+      "title": "Barcelona x Real Madrid: escalações e onde assistir ao El Clásico de LaLiga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/barcelona-x-real-madrid-escalacoes-e-onde-assistir-ao-el-clasico-de-laliga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:46:42+00:00",
+      "summary": "Arquirrivais fazem primeiro clássico da temporada no Camp Nou, na Catalunha, pela décima rodada; blaugranas podem abrir nove pontos de vantagem aos merengues em caso de vitória",
+      "category": "Esportes"
+    },
+    {
+      "title": "Indígenas viajam mais de 7 horas de barco por rio no Pantanal para votar em Corumbá, em MS",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/25/indigenas-viajam-mais-de-7-horas-de-barco-por-rio-no-pantanal-para-votar-em-corumba-em-ms.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:45:47+00:00",
+      "summary": "Indígenas viajam mais de 7h por rio no Pantanal para votar no 2º turno das eleições 2026 Indígenas da aldeia Barra do São Lourenço e brigadistas que atuam no combate a incêndios em áreas remotas do Pantanal viajaram por mais de sete horas de barco pelo rio Paraguai para votar neste domingo (25), em Corumbá, no oeste de",
+      "category": "Política"
+    },
+    {
+      "title": "Eleições 2026: acompanhe a cobertura do 2º turno de votação em Cabo Frio e outras cidades da Região dos Lagos",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-cabo-frio-buzios-marica-cidades-regiao-dos-lagos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:45:27+00:00",
+      "summary": "Eleições 2026: acompanhe a cobertura do 2º turno de votação em Cabo Frio e outras cidades da Região dos Lagos Equipe de jornalismo faz cobertura especial da votação nas principais cidades da região neste domingo (25).",
+      "category": "Política"
+    },
+    {
+      "title": "18h Protestos de volta. 'Oh Montenegro, presta atenção...'",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-protestos-de-volta-oh-montenegro-presta-atencao_a1_1774249",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-25T15:48:46+00:00",
-      "summary": "Os olímpicos Emeric Guerillot e José Cabeça estiveram entre os premiados a atletas do ano pela Federação de Desportos de Inverno de Portugal (FDIP), que distinguiu o presidente do Comité Olímpico de Portugal (COP) como personalidade do ano.",
+      "publishedAt": "2026-10-25T18:45:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "TRE determina circulação de ônibus de 'dia útil' em Teresina e impõe multa de R$ 1 milhão",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/25/tre-determina-circulacao-onibus-teresina.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:44:36+00:00",
+      "summary": "Tribunal Regional Eleitoral do Piauí (TRE-PI), no Centro de Teresina Andrê Nascimento/ g1 Piauí Uma decisão do Tribunal Regional Eleitoral (TER-PI) determinou a prefeitura de Teresina a imediata recomposição da frota de ônibus da capital neste domingo (25) seguindo a programação de circulação de um dia útil. ✅ Siga o c",
+      "category": "Mundo"
+    },
+    {
+      "title": "Levantamento aponta que 71% da frota de ônibus circula pela cidade de SP neste domingo, abaixo dos 100% determinados pela Justiça",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/levantamento-aponta-que-71percent-da-frota-de-onibus-circula-pela-cidade-de-sp-neste-domingo-abaixo-dos-100percent-determinados-pela-justica.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:43:52+00:00",
+      "summary": "Em dia de eleição, SP circula com 60% da frota de ônibus, contrariando decisão judicial Na cidade de São Paulo, 71,04% da frota de ônibus municipais estava em circulação às 14h40 deste domingo (25), dia do segundo turno da eleição presidencial. O levantamento foi feito com base nos dados do BusInfo, um aplicativo de mo",
       "category": "Política"
+    },
+    {
+      "title": "Governo anuncia apoios a empresas de transporte de doentes",
+      "url": "https://observador.pt/2026/10/25/governo-anuncia-apoios-a-empresas-privadas-de-transporte-de-doentes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:43:45+00:00",
+      "summary": "As empresas de transporte não urgente de doentes vão passar a ter direito a apoios financeiros extraordinários e temporários para mitigar o aumento dos custos com combustíveis e AdBlue.",
+      "category": "Política"
+    },
+    {
+      "title": "Balanço parcial do TRE-MG indica votação dentro da normalidade no estado",
+      "url": "https://g1.globo.com/mg/minas-gerais/ao-vivo/cobertura-apuracao-votacao-2-turno-mg.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:43:44+00:00",
+      "summary": "Balanço parcial do TRE-MG indica votação dentro da normalidade no estado O g1 faz a cobertura dos principais acontecimentos da votação neste domingo (25), da participação de eleitores até a apuração dos votos.",
+      "category": "Mundo"
     },
     {
       "title": "EM TEMPO REAL: acompanhe o dia de votação e a apuração dos votos no 2º turno no Espírito Santo",
       "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-espirito-santo.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T15:48:18+00:00",
+      "publishedAt": "2026-10-25T18:42:23+00:00",
       "summary": "EM TEMPO REAL: acompanhe o dia de votação e a apuração dos votos no 2º turno no Espírito Santo g1 acompanha em tempo real o domingo de eleição nos 78 municípios e os votos dos dois candidatos ao governo do estado.",
       "category": "Política"
     },
     {
-      "title": "Patrick Morais de Carvalho reconduzido como presidente do Belenenses",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/patrick-morais-de-carvalho-reconduzido-como-presidente-do-belenenses_d1774213",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T15:47:02+00:00",
-      "summary": "O advogado Patrick Morais de Carvalho foi no sábado reconduzido como presidente do Belenenses, com 70% dos votos, frente aos 30% do gestor Pedro Mascarenhas Santos, em assembleia-geral eleitoral no Pavilhão Acácio Rosa, em Belém.",
-      "category": "Política"
-    },
-    {
-      "title": "Assista: g1 reúne os principais fatos do 2º turno das eleições em RO",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/25/assista-g1-reune-os-principais-fatos-do-2o-turno-das-eleicoes-em-ro.ghtml",
+      "title": "Presidente do PT vê gravidade na falta de ônibus em SP e Salvador e defende prorrogação da votação",
+      "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/25/presidente-do-pt-ve-gravidade-na-falta-de-onibus-em-sp-e-salvador-e-defende-prorrogacao-da-votacao.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T15:46:17+00:00",
-      "summary": "Assista: g1 reúne os principais fatos do 2º turno das eleições em RO O giro do g1 acompanha a votação do segundo turno das eleições em Rondônia neste domingo (25). A cobertura mostra a movimentação nas zonas Sul e Leste de Porto Velho, com informações sobre os locais de votação, além dos principais acontecimentos nas c",
+      "publishedAt": "2026-10-25T18:41:57+00:00",
+      "summary": "Ônibus são retidos em garagem de Salvador durante o 2º turno das eleições Karol Moreira/Arquivo Pessoal O presidente nacional do PT, Edinho Silva, classificou como “muito grave” a falta de ônibus em São Paulo e Salvador neste domingo (25), dia do segundo turno da eleição presidencial. Na avaliação do dirigente, os prob",
       "category": "Política"
     },
     {
-      "title": "Nascida antes do direito ao voto feminino, idosa de 106 anos comparece à urna em Caxias do Sul: 'Sempre venho'",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/25/nascida-antes-do-direito-ao-voto-feminino-idosa-de-106-anos-vota-em-caxias-do-sul-sempre-venho.ghtml",
+      "title": "'Eu amo votar': idosas vão às urnas em Fernando de Noronha",
+      "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/10/25/mesmo-sem-obrigacao-idosas-fazem-questao-de-votar-em-fernando-de-noronha.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T15:46:03+00:00",
-      "summary": "Idosa vota aos 106 anos em Caxias do Sul e diz que não pretende parar A eleitora Olga Zanella, de 106 anos, saiu de casa pela manhã e fez questão de ir votar em Caxias do Sul, na Serra Gaúcha, neste domingo (25). A idosa não tem obrigação legal de votar há 36 anos, já que para eleitores com mais de 70 anos a abstenção ",
-      "category": "Mundo"
+      "publishedAt": "2026-10-25T18:41:23+00:00",
+      "summary": "Idosa de Fernando de Noronha 'ama votar' A votação do segundo turno das eleições ocorre de forma tranquila neste domingo (25), em Fernando de Noronha. A ilha tem 3.701 eleitores aptos a votar, distribuídos em dez seções na Escola Arquipélago. Mesmo sem a obrigação de comparecer às urnas, moradores com mais de 70 anos f",
+      "category": "Política"
     },
     {
-      "title": "Segundo turno das Eleições 2026 em Santa Catarina: votação, apuração e resultados",
-      "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-santa-catarina-votacao-apuracao-resultados.ghtml",
+      "title": "Dias após ser atingido por tiro, Fred Bruno comemora conquista no esporte",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/dias-apos-ser-atingido-por-tiro-fred-bruno-comemora-conquista-no-esporte/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:41:00+00:00",
+      "summary": "Apresentador do Globo Esporte SP ficou em terceiro lugar em campeonato de basquete cinco dias após ser ferido no pé durante confusão em São Paulo",
+      "category": "Esportes"
+    },
+    {
+      "title": "Assista aos telejornais da TV Liberal",
+      "url": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T15:45:31+00:00",
-      "summary": "Segundo turno das Eleições 2026 em Santa Catarina: votação, apuração e resultados Mais de 5,7 milhões de catarinenses estão aptos a voltar às urnas neste domingo (25) para votar para Presidente da República. Votação acontece às 17h nos 295 municípios catarinenses. . Saiba o que fazer se você faltou no 1º turno e quer v",
+      "publishedAt": "2026-10-25T18:40:05+00:00",
+      "summary": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Operação policial de grande porte é realizada na Vila Brasília, em Volta Redonda",
+      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/25/operacao-policial-de-grande-porte-e-realizada-na-vila-brasilia-em-volta-redonda.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:39:59+00:00",
+      "summary": "Operação policial de grande porte é autorizada na Vila Brasília, em Volta Redonda Divulgação/Geraldo Gonçalves - SECOM PMVR Uma operação policial de grande porte está sendo realizada neste domingo (25) no bairro Vila Brasília, em Volta Redonda (RJ). A ação acontece a pedido conjunto da prefeitura da cidade, do 28º BPM ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Protestos pela habitação não deixam a rua e voltam ao Rossio de Lisboa e à Praça D. João I no Porto",
+      "url": "https://www.rtp.pt/noticias/economia/protestos-pela-habitacao-nao-deixam-a-rua-e-voltam-ao-rossio-de-lisboa-e-a-praca-d-joao-i-no-porto_e1774219",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:36:22+00:00",
+      "summary": "A madrugada foi marcada por duas cargas políciais, no Porto e em Lisboa, com um resultado de dezenas de feridos, de acordo com os organizadores do protesto, número mais reduzido nas contas da polícia. Esta tarde, como prometido, os manifestantes regressam ao seu posto de contestação das políticas da habitação.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Eleições 2026: Acompanhe a cobertura do 2º turno em São Carlos, Araraquara e região",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-em-sao-carlos-araraquara-e-regiao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:35:17+00:00",
+      "summary": "Eleições 2026: Acompanhe a cobertura do 2º turno em São Carlos, Araraquara e região 1,4 milhão de eleitores de São Carlos e região votam para presidente Segundo turno será realizado neste domingo (25), das 8h às 17h.. Flávio Bolsonaro venceu o primeiro turno em 38 cidades da região. Lula liderou em 3.. g1 mostra a movi",
       "category": "Política"
     },
     {
-      "title": "“Você é um m***”: dublador revela confusão envolvendo Neymar e Nestor",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/voce-e-um-m-dublador-revela-confusao-envolvendo-neymar-e-nestor/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:41:45+00:00",
-      "summary": "Camisa 10 do Santos recebeu cartão vermelho por ofensas e por tapar a boca ao falar com o rival do Bahia durante confronto na Vila Belmiro pelo Brasileirão",
+      "title": "Mais de 200 profissionais da Justiça assinam carta aberta pelo direito à manifestação",
+      "url": "https://www.rtp.pt/noticias/economia/mais-de-200-profissionais-da-justica-assinam-carta-aberta-pelo-direito-a-manifestacao_n1774248",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:32:22+00:00",
+      "summary": "O direito de manifestação - assinalam - \"não constitui uma concessão do poder político, mas um direito fundamental cujo exercício não depende de autorização\"",
       "category": "Mundo"
     },
     {
-      "title": "Marta Pen confirma final de carreira no atletismo",
-      "url": "https://www.rtp.pt/noticias/atletismo/marta-pen-confirma-final-de-carreira-no-atletismo_d1774212",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T15:40:30+00:00",
-      "summary": "A atleta olímpica portuguesa Marta Pen confirmou o final da sua carreira, após um ano sem competir, num final de 20 anos ligados ao atletismo, tendo passado também por problemas oncológicos.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Cleitinho faz eleitores de Flávio e Lula se abraçarem e pede pacificação",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/cleitinho-faz-eleitores-de-flavio-e-lula-se-abracarem-e-pede-pacificacao/",
-      "source": "CNN Brasil",
+      "title": "Lula pede que TSE prorrogue horário da votação após denúncias sobre falta de ônibus",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/lula-pede-que-tse-prorrogue-horario-da-votacao-apos-denuncias-sobre-falta-de-onibus.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-25T15:40:22+00:00",
-      "summary": "Novo governador de Minas Gerais destacou que políticos tem obrigação de apaziguar o país independentemente do vencedor das Eleições de 2026",
+      "publishedAt": "2026-10-25T18:31:55+00:00",
+      "summary": "O presidente Lula disse que vai pedir prorrogação do período de votação TV Globo O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (25) que sua campanha está pedindo à Justiça Eleitoral a prorrogação do horário de votação do segundo turno das eleições após denúncias de redução da frota de ônibus na capi",
       "category": "Política"
     },
     {
-      "title": "Recordes mundiais de maratona de marcha batidos no meeting de Takahata",
-      "url": "https://www.rtp.pt/noticias/atletismo/recordes-mundiais-de-maratona-de-marcha-batidos-no-meeting-de-takahata_d1774211",
-      "source": "RTP Notícias",
+      "title": "Eleição para governador no TO: acompanhe ao vivo apuração do 2° turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicao-para-governador-no-to-acompanhe-ao-vivo-apuracao-do-2-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:31:53+00:00",
+      "summary": "Estado tem 139 municípios e tem 1,18 milhão de eleitores aptos a votar",
+      "category": "Política"
+    },
+    {
+      "title": "Eleição para governador no RN: acompanhe ao vivo apuração do 2° turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicao-para-governador-no-rn-acompanhe-ao-vivo-apuracao-do-2-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:31:51+00:00",
+      "summary": "Estado tem 167 municípios e tem 2,6 milhões de eleitores aptos a votar",
+      "category": "Política"
+    },
+    {
+      "title": "Eleição para governador no DF: acompanhe ao vivo apuração do 2° turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicao-para-governador-no-df-acompanhe-ao-vivo-apuracao-do-2-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:31:49+00:00",
+      "summary": "Unidade federativa tem 37 regiões administrativas e tem 2,2 milhões de eleitores aptos a votar",
+      "category": "Política"
+    },
+    {
+      "title": "Eleição para governador no AM: acompanhe ao vivo apuração do 2° turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicao-para-governador-no-am-acompanhe-ao-vivo-apuracao-do-2-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:31:47+00:00",
+      "summary": "Estado tem 62 municípios e tem 2,8 milhões de eleitores aptos a votar",
+      "category": "Política"
+    },
+    {
+      "title": "Eleição para governador no AC: acompanhe ao vivo apuração do 2° turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicao-para-governador-no-ac-acompanhe-ao-vivo-apuracao-do-2-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:31:45+00:00",
+      "summary": "Estado tem 22 municípios e tem 614,6 mil eleitores aptos a votar",
+      "category": "Política"
+    },
+    {
+      "title": "Eleição para governador no ES: acompanhe ao vivo apuração do 2° turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicao-para-governador-no-es-acompanhe-ao-vivo-apuracao-do-2-turno/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:31:42+00:00",
+      "summary": "Estado tem 78 municípios e tem 2,9 milhões de eleitores aptos a votar",
+      "category": "Política"
+    },
+    {
+      "title": "Kukas. A geometria de um legado com 60 anos",
+      "url": "https://observador.pt/especiais/a-geometria-de-um-legado-com-60-anos-a-nova-fase-da-kukas-por-filipa-fortunato/",
+      "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-25T15:37:47+00:00",
-      "summary": "A australiana Rebecca Henderson e o japonês Masatora Kawano bateram hoje os recordes da maratona em marcha, durante o meeting All Japan Race Walking, em Takahata, no Japão.",
+      "publishedAt": "2026-10-25T18:29:43+00:00",
+      "summary": "Filipa Fortunato sempre cresceu num \"ambiente Kukas\". Amiga da infância da sua avó, tia de coração e madrinha de casamento, a designer morreu em fevereiro de 2026, aos 97 anos. Em 2020 formalizaram passagem de testemunho.",
       "category": "Mundo"
     },
     {
-      "title": "Elizabeth Banks e Elle Fanning aparecem em novo vídeo de “Jogos Vorazes”",
-      "url": "https://www.cnnbrasil.com.br/pop/cinema/elizabeth-banks-e-elle-fanning-aparecem-em-novo-video-de-jogos-vorazes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:36:16+00:00",
-      "summary": "Atrizes interpretam a personagem Effie Trinket em épocas diferentes: novo filme da saga chega aos cinemas no dia 19 de novembro",
-      "category": "Esportes"
-    },
-    {
-      "title": "II Liga: Silas estreia-se no AVS com vitória",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-silas-estreia-se-no-avs-com-vitoria_d1774210",
+      "title": "Livre propõe audição urgente de Luís Neves e do diretor da PSP",
+      "url": "https://www.rtp.pt/noticias/pais/livre-propoe-audicao-urgente-de-luis-neves-e-do-diretor-da-psp_n1774186",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-25T15:35:49+00:00",
-      "summary": "O AVS venceu o Tondela por 2-1, em partida da oitava jornada da II Liga, assinalando o início vitorioso de Jorge Silas no comando técnico da equipa avense.",
-      "category": "Esportes"
+      "publishedAt": "2026-10-25T18:28:55+00:00",
+      "summary": "O Livre propôs hoje a audição urgente no Parlamento do ministro da Administração Interna e do diretor nacional da Polícia de Segurança Pública (PSP) para prestarem esclarecimentos sobre a intervenção policial nas manifestações pela habitação.",
+      "category": "Política"
     },
     {
-      "title": "Virginia é alertada em noitada em Miami: “Cuidado para não se arrepender”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-e-alertada-em-noitada-em-miami-cuidado-para-nao-se-arrepender/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:32:03+00:00",
-      "summary": "Assessora pessoal aconselhou influenciadora e os amigos Duda Freire e Hebert Gomes antes de saírem para curtir a noite nos Estados Unidos",
+      "title": "Fenprof condena uso desproporcional da força em manifestações pacíficas",
+      "url": "https://www.rtp.pt/noticias/economia/fenprof-condena-uso-desproporcional-da-forca-em-manifestacoes-pacificas_n1774246",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:28:17+00:00",
+      "summary": "A Federação Nacional dos Professores condenou hoje o uso desproporcional da força em manifestações pacíficas e exigiu a mudança de rumo nas políticas de habitação, cujo direito está consagrado na Constituição.",
       "category": "Mundo"
     },
     {
-      "title": "Inter recupera liderança nos descontos",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/inter-recupera-lideranca-nos-descontos_d1774209",
+      "title": "Falta de ônibus no segundo turno gera ações judiciais em SP, BA e SE",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/pt-vai-a-justica-em-diversas-capitais-e-questiona-frota-de-onibus/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:27:50+00:00",
+      "summary": "Denúncias de redução do transporte público provocaram ações judiciais, ordem de prisão de secretário em Salvador e pedido para estender a votação em três cidades baianas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Governo anuncia apoios a empresas privadas de transporte de doentes",
+      "url": "https://www.rtp.pt/noticias/economia/governo-anuncia-apoios-a-empresas-privadas-de-transporte-de-doentes_n1774245",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-25T15:32:03+00:00",
-      "summary": "Dois golos nos descontos permitiram ao Inter Milão manter o arranque invicto na Liga italiana, garantindo um triunfo em casa sobre a Fiorentina, por 2-1, em jogo da oitava jornada.",
+      "publishedAt": "2026-10-25T18:27:33+00:00",
+      "summary": "O Governo vai incluir as empresas de transporte não urgente de doentes no âmbito do Decreto-Lei n.º 199/2026, que estabelece um pacote de apoios financeiros extraordinários e temporários para mitigar o aumento dos custos com combustíveis e AdBlue.",
+      "category": "Política"
+    },
+    {
+      "title": "Maria Corina Machado regressa à Venezuela",
+      "url": "https://www.rtp.pt/noticias/lusa/maria-corina-machado-regressa-a-venezuela_n1774236",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:22:46+00:00",
+      "summary": "A líder da oposição reapareceu ao lado da imagem da Divina Pastora e de milhares de fiéis no santuário de Barquisimeto, no estado de Lara, 370 km a oeste de Caracas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sargento da PM morre após passar mal enquanto esperava para votar na Bahia",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/sargento-da-pm-morre-apos-passar-mal-enquanto-esperava-para-votar-na-bahia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:20:37+00:00",
+      "summary": "Homem de 50 anos chegou a ser socorrido pelo Samu, mas não resistiu; policial atuava na CIPE (Companhia Independente de Policiamento Especializado) desde 2009",
+      "category": "Mundo"
+    },
+    {
+      "title": "Marine Le Pen lança candidatura à presidência da França em meio a protestos",
+      "url": "https://www.cnnbrasil.com.br/internacional/marine-le-pen-lanca-candidatura-a-presidencia-da-franca-em-meio-a-protestos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:19:39+00:00",
+      "summary": "Líder da ultradireita promete restaurar a ordem e a confiança nacional em um dos momentos mais turbulentos dos últimos anos no país",
+      "category": "Mundo"
+    },
+    {
+      "title": "IL diz que \"repressão não é aceitável nem resolve nada\"",
+      "url": "https://www.rtp.pt/noticias/economia/il-diz-que-repressao-nao-e-aceitavel-nem-resolve-nada_n1774243",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:19:33+00:00",
+      "summary": "A líder da Iniciativa Liberal considerou hoje que a resposta ao \"falhanço nas políticas públicas de habitação\" não pode passar pelo uso de \"força repressiva sob a forma de cassetete\", numa crítica à intervenção policial nas manifestações pela habitação.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Raimundo acusa PSD, CDS, IL e Chega de \"testas de ferro\"da especulação imobiliária",
+      "url": "https://www.rtp.pt/noticias/economia/raimundo-acusa-psd-cds-il-e-chega-de-testas-de-ferroda-especulacao-imobiliaria_n1774244",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:19:13+00:00",
+      "summary": "O secretário-geral do PCP, Paulo Raimundo, acusou hoje, no Porto, o PSD, o CDS, a Iniciativa Liberal e o Chega de serem os \"testas de ferro\" da especulação imobiliária e promete derrotar \"as leis dos despejos e do aumento das rendas\".",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias das 18h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2170/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:15:33+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "“Quando procurei ajuda psicológica, esvaziei o balão”",
+      "url": "https://observador.pt/especiais/quando-procurei-ajuda-psicologica-chorei-durante-uma-hora-e-meia-e-esvaziei-finalmente-o-balao-que-estava-quase-a-rebentar/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:15:31+00:00",
+      "summary": "Cansaço, tristeza, choro, corpo a tremer. E o diagnóstico: burnout. Alice Silva sentia-se apertada num colete de forças e procurou ajuda. Tudo mudou a partir daí. “Até voltei a sentir-me bonita.”",
+      "category": "Mundo"
+    },
+    {
+      "title": "Nacional - Sp. Braga",
+      "url": "https://www.rtp.pt/noticias/desporto/nacional-sp-braga_e1774230",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:13:27+00:00",
+      "summary": "Registo em direto dos principais lances desta partida da 9.ª jornada da I Liga.",
       "category": "Esportes"
     },
     {
-      "title": "CIP acusa Governo de deixar apenas aos privados a responsabilidade pelo crescimento no investimento",
-      "url": "https://www.rtp.pt/noticias/conversa-capital/cip-acusa-governo-de-deixar-apenas-aos-privados-a-responsabilidade-pelo-crescimento-no-investimento_v1773822",
+      "title": "PCP avisa Montenegro de que não vai conseguir limitar direito à manifestação",
+      "url": "https://www.rtp.pt/noticias/economia/pcp-avisa-montenegro-de-que-nao-vai-conseguir-limitar-direito-a-manifestacao_n1774227",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-25T15:31:37+00:00",
-      "summary": "O Presidente da Confederação Empresarial de Portugal (CIP) acusa o Governo de, com o fim do Plano de Recuperação e Resiliência (PRR), demitir-se da sua função como grande parceiro que deve ser e deixar apenas aos privados a responsabilidade pelo crescimento no investimento.",
+      "publishedAt": "2026-10-25T18:07:59+00:00",
+      "summary": "O secretário-geral do PCP, Paulo Raimundo, avisou hoje, no Porto, que o governo de Montenegro não vai levar avante a limitação do direito à manifestação, classificando os atos desta madrugada em Portugal de \"violência\", \"arrogância\" e \"incapacidade\".",
+      "category": "Política"
+    },
+    {
+      "title": "PM detém cinco pessoas por crimes eleitorais em São Paulo",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pm-detem-cinco-pessoas-por-crimes-eleitorais-em-sao-paulo",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T18:07:00+00:00",
+      "summary": "A Polícia Militar de São Paulo deteve cinco pessoas, neste domingo (25), por crimes eleitorais. A maioria dos crimes ocorreu após eleitores fotografarem as urnas eletrônicas ou usarem o celular durante a votação, o que é proibido pela legislação eleitoral. Também houve uma ocorrência de desacato e um atendimento de apo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Como a PSP 'varreu' a Praça D. João I em poucos minutos",
+      "url": "https://observador.pt/especiais/a-negociacao-a-decisao-que-dividiu-os-manifestantes-e-a-carga-policial-como-a-psp-varreu-a-praca-d-joao-i-em-poucos-minutos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:06:58+00:00",
+      "summary": "A assembleia votou duas vezes a pernoita na praça (com resultados distintos) e as negociações dividiram organização e manifestantes antes de uma atuação muito rápida da polícia na Praça D. João I.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cônsul-geral do Brasil em Lisboa estima participação na capital em 50%",
+      "url": "https://www.rtp.pt/noticias/mundo/consul-geral-do-brasil-em-lisboa-estima-participacao-na-capital-em-50_n1774241",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:05:32+00:00",
+      "summary": "O cônsul-geral do Brasil em Lisboa, Alessandro Candeas, estimou hoje em 50% a participação da comunidade brasileira em Lisboa na segunda volta das eleições presidenciais.",
+      "category": "Política"
+    },
+    {
+      "title": "Bastonário dos advogados defende inquérito à ação da polícia",
+      "url": "https://observador.pt/2026/10/25/bastonario-dos-advogados-defende-abertura-de-inquerito-a-atuacao-da-policia-em-lisboa-e-porto/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T18:05:23+00:00",
+      "summary": "O bastonário da Ordem dos Advogados defende a necessidade de se efetuar um inquérito à atuação das forças de segurança nas acampadas em Lisboa e Porto.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Techno, raves e o fascínio por ruínas entre Detroit e Berlim",
+      "url": "https://observador.pt/especiais/techno-raves-e-o-fascinio-por-ruinas-entre-detroit-e-berlim-o-poder-das-discotecas-e-da-musica-eletronica-pode-trazer-paz-ao-mundo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T17:51:16+00:00",
+      "summary": "No livro \"Sair à Noite\", a britânica Imogen Willetts conta uma história da vida noturna. O Observador publicar um excerto sobre a música techno e as cidades que fizeram a história do género.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Trump apoia-se na economia para tentar reverter sondagens",
+      "url": "https://observador.pt/2026/10/25/trump-apoia-se-na-economia-para-tentar-reverter-sondagens-desfavoraveis/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T17:36:23+00:00",
+      "summary": "Donald Trump vangloriou-se da sua gestão económica, pouco mais de uma semana antes das eleições intercalares e numa altura em que as sondagens são desfavoráveis aos republicanos.",
+      "category": "Política"
+    },
+    {
+      "title": "TRE-BA determina retomada integral da frota de ônibus em Salvador",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-ba-determina-retomada-integral-da-frota-de-onibus-em-salvador",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T17:34:00+00:00",
+      "summary": "O Tribunal Regional Eleitoral da Bahia (TRE-BA) determinou neste domingo (25) o restabelecimento imediato da frota integral do transporte público de Salvador operando com frequência equivalente à de dias úteis e mantida a gratuidade integral aos passageiros. Na decisão, o presidente do TRE-BA, Maurício Kertzman Szporer",
+      "category": "Política"
+    },
+    {
+      "title": "Corina Machado regressa à Venezuela após meses de exílio",
+      "url": "https://observador.pt/2026/10/25/estou-aqui-convosco-maria-corina-machado-regressa-a-venezuela-apos-meses-de-exilio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T17:33:20+00:00",
+      "summary": "A líder da oposição confirmou o regresso nas redes sociais",
+      "category": "Mundo"
+    },
+    {
+      "title": "PCP diz que Governo não vai limitar direito à manifestação",
+      "url": "https://observador.pt/2026/10/25/pcp-avisa-montenegro-de-que-nao-vai-conseguir-limitar-direito-a-manifestacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-25T17:20:40+00:00",
+      "summary": "Raimundo classificou a carga policial desta madrugada contra as pessoas no Porto e em Lisboa como atos de \"violência\", \"arrogância e incapacidade\".",
+      "category": "Política"
+    },
+    {
+      "title": "Vereadora do PT é atacada durante carreata em Montes Claros",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vereadora-do-pt-e-atacada-durante-carreata-em-montes-claros",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T16:32:00+00:00",
+      "summary": "A disputa acirrada deste segundo turno tem sido acompanhada por episódios de violência política contra candidatos, militantes, agentes públicos e cidadãos. Em Montes Claros (MG), a vereadora Iara Pimentel (PT) foi atingida no rosto por um objeto durante ato político realizado na noite de ontem e teve de deixar o local ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ministério da Igualdade Racial quer apurar racismo em ato bolsonarista",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/ministerio-da-igualdade-racial-quer-apurar-racismo-em-ato-bolsonarista",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T16:08:00+00:00",
+      "summary": "O Ministério da Igualdade Racial encaminhou nesta manhã (25) ofícios ao Ministério da Justiça e Segurança Pública e à Procuradoria Regional Eleitoral no Estado do Rio de Janeiro para que os dois órgãos investiguem um episódio de crime racista ocorrido na tarde de ontem (24) durante manifestação em favor do candidato Fl",
+      "category": "Mundo"
+    },
+    {
+      "title": "Eleitores vão cedo aos locais de votação no Rio, mesmo com chuva",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-vao-cedo-aos-locais-de-votacao-no-rio",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T15:59:00+00:00",
+      "summary": "Os eleitores do Rio de Janeiro comparecem aos locais de votação no horário de abertura das urnas, neste domingo (25), mesmo com chuva. Quase 12,9 milhões de pessoas estão aptas a votar no estado, sendo 4,9 milhões na capital, no segundo turno das eleições. Com um único voto para depositar, o processo está transcorrendo",
+      "category": "Política"
+    },
+    {
+      "title": "TSE informa que 900 urnas foram substituídas até o meio-dia",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-informa-que-900-urnas-foram-substituidas-ate-o-meio-dia",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-25T15:44:00+00:00",
+      "summary": "O Tribunal Superior Eleitoral (TSE) informou, em boletim, que 900 urnas eletrônicas precisaram ser substituídas em todo o país entre as 8h e o meio-dia deste domingo (25), quando ocorre o segundo turno das eleições. O número corresponde a 0,18% das 499.248 urnas empregadas na votação deste ano. A Justiça Eleitoral rese",
       "category": "Política"
     },
     {
@@ -290,66 +497,12 @@
       "category": "Política"
     },
     {
-      "title": "Decano do STF, Gilmar Mendes não deve votar no 2° turno por questão médica",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/decano-do-stf-gilmar-mendes-nao-deve-votar-no-2-turno-por-questao-medica/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:29:50+00:00",
-      "summary": "Ministro votou em Mato Grosso no primeiro turno; magistrado lesionou o braço e vai permanecer na capital federal neste domingo (25)",
-      "category": "Política"
-    },
-    {
-      "title": "15h PSD e Chega apoiam polícia. Esquerda condenam intervenção",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-psd-e-chega-apoiam-policia-esquerda-condenam-intervencao_a1_1774208",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T15:29:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Alfredo Gaspar, vice de Flávio, vota no 2º turno em Alagoas",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-alfredo-gaspar-vice-de-flavio-vota-em-alagoas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:28:14+00:00",
-      "summary": "Flávio anunciou em agosto o deputado alagoano como vice na chapa;",
-      "category": "Mundo"
-    },
-    {
       "title": "Vontade das urnas precisa ser respeitada, afirma Fachin após votar",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vontade-das-urnas-precisa-ser-respeitada-afirma-fachin-apos-votar",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-10-25T15:26:00+00:00",
       "summary": "Após votar no segundo turno das eleições, o presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, voltou a afirmar neste domingo (25) que a soberania popular, expressa nas urnas, deve ser respeitada. Fachin votou por volta das 11h, na Asa Sul, região central de Brasília, e, em seguida, deu declarações à ",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro",
-      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-milhoes-de-eleitores-decidem-hoje-entre-lula-e-bolsonaro_e1774136",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T15:25:12+00:00",
-      "summary": "É dia de escolher o presidente do Brasil: Lula da Silva ou Flávio Bolsonaro. Mais de 158 milhões de brasileiros são hoje chamados às urnas, nesta segunda volta das presidenciais. Acompanhamos aqui o dia de eleições.",
-      "category": "Política"
-    },
-    {
-      "title": "As notícias das 15h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2496/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T15:17:22+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Eleições 2026: Alckmin vota em São Paulo no 2º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-alckmin-vota-em-sao-paulo-no-2o-turno/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:15:28+00:00",
-      "summary": "Candidato à reeleição na chapa com Lula (PT) votou na região do Jardim Colombo",
       "category": "Política"
     },
     {
@@ -369,159 +522,6 @@
       "publishedAt": "2026-10-25T15:07:00+00:00",
       "summary": "Diversas denúncias publicadas nas redes sociais neste sábado (25) acusaram a companhia aérea Gol de ter cancelado voos em massa que sairiam de Porto Alegre para o Nordeste transportando centenas de eleitores. A empresa negou os cancelamentos em massa e afirmou que apenas um voo, com destino a Salvador, foi cancelado no",
       "category": "Economia"
-    },
-    {
-      "title": "“É claro que é nepotismo”, afirma Stallone sobre papel da filha em série",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/e-claro-que-e-nepotismo-afirma-stallone-sobre-papel-da-filha-em-serie/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T15:03:33+00:00",
-      "summary": "Ator afirmou que é natural que filhos de celebridades \"tenham todas as vantagens\" no mundo profissional",
-      "category": "Mundo"
-    },
-    {
-      "title": "SOS Racismo exige \"fim da violência policial e repressão\"",
-      "url": "https://observador.pt/2026/10/25/sos-racismo-exige-fim-da-violencia-policial-e-repressao-brutal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T14:58:47+00:00",
-      "summary": "O SOS Racismo insta à \"imediata responsabilização política e criminal das forças policiais e do Governo\" no que considera ter sido uma \"desproporcionada, violenta e ilegal investida\".",
-      "category": "Política"
-    },
-    {
-      "title": "Sindicato dos Trabalhadores da Saúde condena carga policial",
-      "url": "https://observador.pt/2026/10/25/sindicato-dos-trabalhadores-da-saude-condena-cargas-policiais/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T14:54:12+00:00",
-      "summary": "O STSSS considera ainda que \"as ordens deste tipo de repressão pela força não são condizentes com o estado democrático\".",
-      "category": "Saúde"
-    },
-    {
-      "title": "Aeroporto de Amesterdão cancela de voos devido a temporal",
-      "url": "https://observador.pt/2026/10/25/aeroporto-de-amesterdao-cancela-uma-centena-de-voos-devido-a-temporal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T14:48:35+00:00",
-      "summary": "De acordo com o 'site' da infraestrutura aeroportuária, foi cancelada este domingo a partida de 90 voos, principalmente com destino a cidades europeias como Paris, Roma, Dublin, Hamburgo e Estocolmo.",
-      "category": "Economia"
-    },
-    {
-      "title": "As notícias das 14h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2514/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T14:15:00+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Nas duas primeiras horas de votação, 467 urnas foram substituídas",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nas-2-primeiras-horas-de-votacao-467-urnas-foram-substituidas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T14:10:00+00:00",
-      "summary": "Nas primeiras duas horas de votação, de 8h às 10h, o Tribunal Superior Eleitoral (TSE) informou em boletim que 467 urnas eletrônicas precisaram ser substituídas em todo o país neste domingo (25) de segundo turno das eleições. O número corresponde a 0,09% das 499.248 urnas empregadas na votação deste ano. Notícias relac",
-      "category": "Política"
-    },
-    {
-      "title": "Lula vota e enaltece mobilização popular: \"nunca vi nada igual\"",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/presidente-lula-vota-no-2o-turno-em-sao-bernardo-do-campo-sp",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T14:02:00+00:00",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição nas eleições de 2026, votou na manhã deste domingo (25) na Escola Estadual João Firmino Correia de Araújo, em São Bernardo do Campo, no ABC paulista. Lula chegou ao colégio às 10h acompanhado da primeira-dama Janja, do vice-presidente Geraldo Alckmin (P",
-      "category": "Política"
-    },
-    {
-      "title": "Como a segurança e o crime influenciam o voto no Brasil",
-      "url": "https://observador.pt/especiais/a-mae-de-luto-na-favela-e-o-dono-do-clube-de-tiro-como-a-seguranca-e-o-crime-influenciam-o-voto-no-brasil/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T13:54:01+00:00",
-      "summary": "Fátima Pinho fundou a organização Mães de Manguinhos. Ao lado, o clube de tiro Calibre 12 em Niterói",
-      "category": "Mundo"
-    },
-    {
-      "title": "Presidente do TRE-RJ pede aos eleitores que compareçam às urnas",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/presidente-do-tre-rj-pede-aos-eleitores-que-comparecam-urnas",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T13:42:00+00:00",
-      "summary": "O presidente do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ), desembargador Claudio de Mello Tavares, convocou os eleitores a irem às urnas para votar neste domingo (25) , no segundo turno das eleições. Se dirigindo aos quase 13 milhões de eleitores e eleitoras do estado, a recomendação foi para que não abram",
-      "category": "Política"
-    },
-    {
-      "title": "Eleições: indígenas e quilombolas têm transporte garantido",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-indigenas-e-quilombolas-tem-transporte-garantido",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T13:38:00+00:00",
-      "summary": "O governo federal adotou medidas para garantir o transporte de indígenas, quilombolas, ribeirinhos, extrativistas e famílias assentadas aos locais de votação neste domingo (25), dia do segundo turno das eleições presidenciais . Os eleitores escolherão, no pleito de hoje, quem comandará o país pelos próximos quatro anos",
-      "category": "Política"
-    },
-    {
-      "title": "Chuva altera local de votação em Itapevi, no interior paulista",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/chuva-altera-local-de-votacao-em-itapevi-no-interior-paulista",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T13:37:00+00:00",
-      "summary": "As fortes chuvas que atingiram diversas cidades do estado de São Paulo durante esta madrugada provocaram alteração de um local de votação na cidade de Itapevi, no interior paulista. A mudança ocorreu logo cedo, por volta das 7h30 de hoje (25), informou o Tribunal Regional Eleitoral de São Paulo (TRE-SP) . Por causa dis",
-      "category": "Clima"
-    },
-    {
-      "title": "As notícias das 13h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2486/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T13:20:37+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Porto isolado, Sporting joga hoje e há El Clásico na La Liga",
-      "url": "https://observador.pt/programas/e-o-campeao-e/porto-isolado-sporting-joga-hoje-e-ha-el-clasico-na-la-liga/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T13:17:40+00:00",
-      "summary": "O FC Porto foi até Barcelos vencer por 1-0. Já o Sporting vai hoje defrontar o Académico de Viseu. E ainda, o El Clássico entre Barcelona e Real Madrid.",
-      "category": "Esportes"
-    },
-    {
-      "title": "TRE-SP substitui 52 urnas que apresentaram problemas no estado",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-sp-substitui-52-urnas-que-apresentaram-problemas-no-estado",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-25T13:06:00+00:00",
-      "summary": "Boletim divulgado por volta das 9h30 deste domingo (25), pelo Tribunal Regional Eleitoral de São Paulo (TRE-SP), informa que 52 urnas eletrônicas utilizadas no estado de São Paulo apresentaram algum tipo de problema e necessitaram de substituição. Isso corresponde a cerca de 0,045% do total de urnas em funcionamento pa",
-      "category": "Mundo"
-    },
-    {
-      "title": "12h. Carneiro pede a PM para assumir responsabilidades",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2477/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T12:14:43+00:00",
-      "summary": "Secretário-geral do PS deu, esta manhã, uma conferência de imprensa na sede distrital do Porto para reagir à carga policial desta madrugada em Lisboa e no Porto. Ainda, Brasil escolhe novo presidente.",
-      "category": "Política"
-    },
-    {
-      "title": "Netanyahu: voto noutro partido pode levar a \"2º Holocausto\"",
-      "url": "https://observador.pt/liveblogs/netanyahu-dramatiza-e-avisa-que-voto-noutros-candidatos-pode-levar-a-segundo-holocausto-musk-acusa-ucrania-de-violar-os-termos-de-utilizacao-da-starlink/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T11:51:43+00:00",
-      "summary": "Eleições legislativas em Israel estão marcadas para 27 de outubro",
-      "category": "Política"
-    },
-    {
-      "title": "Confrontos no Brasil nas urnas e em Portugal pela habitação",
-      "url": "https://observador.pt/programas/e-o-vencedor-e/confrontos-no-brasil-nas-urnas-e-em-portugal-pela-habitacao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-25T11:25:52+00:00",
-      "summary": "Em portugal, Ferro Rodrigues propõe o Bloco Central, Luís Neves dá \"cacetadas\" nos protestos e os polícias dão nos manifestantes. Já no Brasil, Flávio Bolsonaro à frente da corrida.",
-      "category": "Mundo"
     }
   ],
   "sources": [
