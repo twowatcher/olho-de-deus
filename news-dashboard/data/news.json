@@ -1,41 +1,392 @@
 {
-  "updatedAt": "2026-10-26T23:07:03.350776+00:00",
+  "updatedAt": "2026-10-27T02:02:05.464923+00:00",
   "items": [
     {
-      "title": "Provedora pede informações à PSP sobre cargas policiais",
-      "url": "https://observador.pt/2026/10/26/habitacao-provedora-pede-com-urgencia-informacoes-a-psp-sobre-carga-policial-em-lisboa-e-porto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T23:01:31+00:00",
-      "summary": "\"Recebidos esses elementos, a provedora de Justiça analisará a compatibilidade das intervenções com o direito de reunião e de manifestação, consagrado no artigo 45.º da Constituição\"",
+      "title": "Quatro municípios do Amazonas recebem R$ 13,3 milhões em multas por poluição do ar",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/26/quatro-municipios-do-amazonas-recebem-r-133-milhoes-em-multas-por-poluicao-do-ar.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:54:00+00:00",
+      "summary": "Ipaam aplica R$ 13,3 milhões em multas por poluição do ar em quatro municípios do AM. Divulgação/Ipaam O Instituto de Proteção Ambiental do Amazonas (Ipaam) aplicou R$ 13,3 milhões em multas por poluição atmosférica em quatro municípios do estado, entre setembro e outubro de 2026. Ao todo, foram cinco autuações por que",
       "category": "Mundo"
     },
     {
-      "title": "330 detidos em operação europeia contra tráfico de droga",
-      "url": "https://observador.pt/2026/10/26/mais-de-330-detidos-em-operacao-europeia-contra-trafico-de-droga-e-contrabando/",
+      "title": "Após votação ser ampliada por duas horas, TSE confirma vitória de Lula e diz que eleição transcorreu em segurança",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/apos-votacao-ser-ampliada-por-duas-horas-tse-confirma-vitoria-de-lula-e-diz-que-eleicao-transcorreu-em-seguranca.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:48:46+00:00",
+      "summary": "TSE diz que eleição transcorreu em segurança e que as dificuldades com prorrogação não comprometeram o processo eleitoral A votação no Brasil foi prorrogada em duas horas por problemas no transporte público e eventos climáticos. No domingo (25) mesmo, o Tribunal Superior Eleitoral confirmou a vitória de Lula no segundo",
+      "category": "Política"
+    },
+    {
+      "title": "Jordânia ataca grupos terroristas na Síria após atentado contra igreja; 8 morrem em bombardeios",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/26/jordania-ataca-grupos-terroristas-na-siria-apos-atentado-contra-igreja-8-morrem-em-bombardeios.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:47:03+00:00",
+      "summary": "Fiéis ouvem um clérigo cristão discursar durante uma vigília na Igreja Ortodoxa Grega da Transfiguração, na Cisjordânia ocupada por Israel, em 26 de outubro de 2026, em solidariedade às vítimas do ataque à Igreja de São Jorge, em 23 de outubro ZAIN JAAFAR / AFP O Exército da Jordânia afirmou que atacou, nesta segunda-f",
+      "category": "Mundo"
+    },
+    {
+      "title": "Movimento admite voltar a acampar em frente ao Parlamento",
+      "url": "https://observador.pt/especiais/acampada-muda-se-para-sao-bento-ainda-nao-ha-decisao-de-acampar-durante-a-noite-mas-houve-treino-pratico-para-lidar-com-a-policia/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-26T23:00:12+00:00",
-      "summary": "A operação, denominada \"Joint Action Days Mobile 9\", foi coordenada pela Agência Europeia da Guarda de Fronteiras e Costeira (Frontex) entre 28 de setembro e 9 de outubro",
+      "publishedAt": "2026-10-27T01:38:55+00:00",
+      "summary": "Movimento pelo direito à habitação vai manifestar-se em frente ao Parlamento, onde se discute o Orçamento. Devem ser montadas tendas, mas decisão sobre a noite só será tomada no local.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Flamengo 3 x 2 Atlético-MG: veja os melhores momentos pelo Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-3-x-2-atletico-mg-veja-os-melhores-momentos-pelo-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:31:28+00:00",
+      "summary": "Com vitória polêmica, Rubro-Negro voltou a passar o Palmeiras no Brasileirão graças ao gol de Carrascal aos 52 minutos do segundo tempo; Galo reclamou muito da arbitragem",
+      "category": "Esportes"
+    },
+    {
+      "title": "1h Provedora de Justiça pede dados à PSP sobre madrugada de domingo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-provedora-de-justica-pede-dados-a-psp-sobre-madrugada-de-domingo_a1_1774585",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T01:29:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "0h Secretária de Estado da Segurança Social: não são os estrangeiros que mais recebem RSI",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-secretaria-de-estado-da-seguranca-social-nao-sao-os-estrangeiros-que-mais-recebem-rsi_a1_1774584",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T01:29:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Resumão diário do JN: Após reeleição, Lula reúne líderes do Congresso; PF intima Flávio Bolsonaro a entregar passaportes; sem provas, Trump afirma que eleição no Brasil pareceu 'fraudada'",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/resumao-diario-do-jn-apos-reeleicao-lula-reune-lideres-do-congresso-pf-intima-flavio-bolsonaro-a-entregar-passaportes-sem-provas-trump-afirma-que-eleicao-no-brasil-pareceu-fraudada.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:27:22+00:00",
+      "summary": "Um dia depois da reeleição histórica, o presidente Lula reuniu no Alvorada os líderes do Congresso. A comemoração da vitória mobilizou milhares de pessoas pelo Brasil e avançou até a madrugada em São Paulo. O candidato derrotado disse que vai pedir a cassação da chapa de Lula. Mas o Partido Liberal contrariou Flávio Bo",
+      "category": "Política"
+    },
+    {
+      "title": "Após Trump alegar “fraude”, Boulos diz que Brasil “não será colônia”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/apos-trump-alegar-fraude-boulos-diz-que-brasil-nao-sera-colonia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:26:32+00:00",
+      "summary": "Ministro rebate críticas do presidente norte-americano após vitória do presidente Lula no segundo turno",
+      "category": "Política"
+    },
+    {
+      "title": "‘Cara de culpado’ dos cachorros pode dizer mais sobre você do que sobre eles, indica estudo",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/cara-de-culpado-dos-cachorros-pode-dizer-mais-sobre-voce-do-que-sobre-eles-indica-estudo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:22:54+00:00",
+      "summary": "Testes apontaram que os animais não se arrependeriam espontaneamente do que fizeram, mas se comportam dessa forma por conta da reação do tutor",
+      "category": "Mundo"
+    },
+    {
+      "title": "Lula vira no 2º turno em 211 cidades; saiba em quais a vitória foi por apenas um voto de diferença",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/lula-vira-no-2o-turno-em-211-cidades-saiba-em-quais-a-vitoria-foi-por-apenas-um-voto-de-diferenca.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:17:46+00:00",
+      "summary": "Lula virou o resultado no segundo turno em 211 cidades Em 211 cidades, o presidente Lula virou o resultado no segundo turno. Altamira do Paraná, São João do Pau d'Alho, em São Paulo, e Apiacá, no Espírito Santo. O que essas cidades brasileiras têm em comum? O resultado eleitoral. Nos três municípios, Lula virou no segu",
+      "category": "Política"
+    },
+    {
+      "title": "Após crise com ônibus na eleição, Prefeitura de Salvador é alvo de protesto",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/apos-crise-com-onibus-na-eleicao-prefeitura-de-salvador-e-alvo-de-protesto/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:15:34+00:00",
+      "summary": "Prédio foi alvo de vandalismo e expediente foi suspenso para servidores municipais no local",
+      "category": "Política"
+    },
+    {
+      "title": "1h. Paulo Rangel reage às acampadas em Lisboa e no Porto",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2428/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T01:15:04+00:00",
+      "summary": "O ministro dos Negócios Estrangeiros diz que \"as pessoas têm direito a passear no Rossio\" e defende que é preciso compatibilizar os direitos de todos. No desporto, Benfica vence Santa Clara por 2-1.",
+      "category": "Política"
+    },
+    {
+      "title": "Coritiba 0 x 1 Grêmio: veja os melhores momentos pelo Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/coritiba-0-x-1-gremio-veja-os-melhores-momentos-pelo-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:11:22+00:00",
+      "summary": "Time gaúcho conseguiu um grande resultado nesta segunda-feira (26) à noite, em partida disputada no Estádio Couto Pereira, em Curitiba",
+      "category": "Mundo"
+    },
+    {
+      "title": "Duas apostas de MT ganham R$ 4,3 mil na Quina; prêmio principal acumula em R$ 2 milhões",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/26/duas-apostas-de-mt-ganham-r-43-mil-na-quina-premio-principal-acumula-em-r-2-milhoes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:09:35+00:00",
+      "summary": "Canhoto da Quina sem preenchimento Augusto Castro Duas apostas feitas em Cuiabá e Várzea Grande, em Mato Grosso, acertaram quatro dos cinco números sorteados no concurso 7152 da Quina, realizado nesta segunda-feira (26). Cada aposta ganhou R$ 4.321,22. As duas apostas foram simples, com cinco números marcados. Em todo ",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 26 de outubro de 2026",
+      "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-26-de-outubro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:06:45+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio de grandes proporções atinge indústria gráfica em Porto Alegre; cão preso no prédio é salvo",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/26/incendio-atinge-industria-grafica-porto-alegre-cao-preso-predio-salvo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:05:08+00:00",
+      "summary": "Incêndio atinge gráfica na Zona Norte de Porto Alegre Matheus Goulart/ RBS TV Um incêndio de grandes proporções atingiu uma indústria gráfica na noite desta segunda-feira (26) na Zona Norte de Porto Alegre. Apesar da intensidade das chamas, ninguém ficou ferido. A empresa estava fechada quando o fogo começou. A gerente",
       "category": "Economia"
     },
     {
-      "title": "Leiria critica processo burocrático do fundo de emergência",
-      "url": "https://observador.pt/2026/10/26/mau-tempo-leiria-critica-complexidade-das-candidaturas-ao-fundo-de-emergencia-municipal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T22:59:58+00:00",
-      "summary": "Estes apoios destinam-se aos municípios, freguesias e entidades intermunicipais e as candidaturas podem ser apresentadas até 30 de novembro",
+      "title": "VÍDEOS: JL2 desta segunda-feira, 26 de outubro de 2026",
+      "url": "https://g1.globo.com/pa/para/edicao/2026/10/26/videos-jl2-desta-segunda-feira-26-de-outubro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:04:35+00:00",
+      "summary": "Confira os destaques do JL2 desta segunda-feira, 26 de outubro de 2026.",
       "category": "Mundo"
     },
     {
-      "title": "Moedas recusa comentar carga policial no Rossio",
-      "url": "https://observador.pt/2026/10/26/habitacao-moedas-manifesta-solidariedade-com-manifestantes-sem-comentar-intervencao-policial-em-lisboa/",
+      "title": "Seis apostas de MT acertam 14 números na Lotofácil e ganham até R$ 6 mil",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/26/seis-apostas-de-mt-acertam-14-numeros-na-lotofacil-e-ganham-ate-r-6-mil.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:02:50+00:00",
+      "summary": "Lotofácil Millena Sartori/g1 Seis apostas feitas em Mato Grosso ficaram a um número de levar o prêmio principal do concurso 3814 da Lotofácil, sorteado nesta segunda-feira (26). Cada uma acertou 14 das 15 dezenas e ganhou pelo menos R$ 2.015,87. Os jogos premiados foram registrados em Bom Jesus do Araguaia, Guarantã do",
+      "category": "Esportes"
+    },
+    {
+      "title": "Flamengo tem pênalti no último lance, vence Atlético-MG e volta à liderança",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-tem-penalti-no-ultimo-lance-vence-atletico-mg-e-volta-a-lideranca/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:02:11+00:00",
+      "summary": "Com vitória polêmica, Rubro-Negro voltou a passar o Palmeiras no Brasileirão graças ao gol de Carrascal aos 52 minutos do segundo tempo; Galo reclamou muito da arbitragem",
+      "category": "Esportes"
+    },
+    {
+      "title": "Waack: Mercado duvida de Lula e das regras do Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/waack-mercado-duvida-de-lula-e-das-regras-do-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:02:09+00:00",
+      "summary": "No desenho que nós brasileiros fizemos de nosso sistema de governo, os mais de 60 milhões de votos que Lula recebeu valem pouco num Congresso dominado claramente pela oposição de centro direita",
+      "category": "Política"
+    },
+    {
+      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 26 de outubro de 2026",
+      "url": "https://g1.globo.com/go/goias/playlist/videos-jornal-anhanguera-2-edicao-de-segunda-feira-26-de-outubro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T01:00:55+00:00",
+      "summary": "Assista agora os vídeos do Jornal Anhanguera 2ª Edição.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Resultados das Loterias Caixa",
+      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T00:58:26+00:00",
+      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Anvisa proíbe venda e veta uso de substâncias em picolé",
+      "url": "https://www.cnnbrasil.com.br/nacional/brasil/anvisa-proibe-venda-e-veta-uso-de-substancias-em-picole/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T00:57:46+00:00",
+      "summary": "Melatonina e o inositol foram encontrados em produto da Bentô Gelatos, mas são autorizados apenas em suplementos alimentares; OUTRO LADO: empresa alega que item foi retirado do mercado",
+      "category": "Economia"
+    },
+    {
+      "title": "Vivo lança internet móvel via satélite em parceria com Starlink",
+      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/vivo-lanca-internet-movel-via-satelite-em-parceria-com-starlink/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T00:52:14+00:00",
+      "summary": "Oferta vai atender 50 milhões de consumidores neste lançamento, quase metade da base móvel total da companhia, de 105 milhões",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Homem é resgatado de cativeiro após sequestro e extorsão na Bahia",
+      "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/homem-e-resgatado-de-cativeiro-apos-sequestro-e-extorsao-na-bahia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T00:50:49+00:00",
+      "summary": "Sequestradores exigiram dinheiro de familiares enquanto mantinham a vítima sob tortura em imóvel no Calabetão",
+      "category": "Mundo"
+    },
+    {
+      "title": "EUA anunciam US$ 57,4 milhões para ampliar processamento de carnes",
+      "url": "https://www.cnnbrasil.com.br/agro/eua-anunciam-us-574-milhoes-para-ampliar-processamento-de-carnes/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T00:45:10+00:00",
+      "summary": "Recursos devem financiar 147 projetos em 40 estados e ampliar a capacidade de frigoríficos independentes, com foco na competitividade e no apoio aos pecuaristas americanos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Whirlpool perde US$ 237 milhões no trimestre e ação cai 8%",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/whirlpool-perde-us-237-milhoes-no-trimestre-e-acao-cai-8/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T00:39:17+00:00",
+      "summary": "Vendas líquidas foram de US$ 3,7 bilhões – abaixo da expectativa de US$ 3,9 bilhões dos analistas e aquém dos US$ 4 bilhões do mesmo período do ano anterior",
+      "category": "Mundo"
+    },
+    {
+      "title": "PL, partido de Flávio, reconhece vitória de Lula nas eleições",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/partido-de-flavio-pl-reconhece-vitoria-de-lula-nas-eleicoes",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T00:38:00+00:00",
+      "summary": "O presidente do Partido Liberal (PL), Valdemar Costa Neto, publicou nota oficial, nesta segunda-feira (26), em que reconhece a vitória do presidente Luiz Inácio Lula da Silva nas eleições deste ano. No entanto, ele cobrou esclarecimentos sobre o que chamou de medidas “eleitoreiras”, com “ampliação de gastos públicos”. ",
+      "category": "Política"
+    },
+    {
+      "title": "Primeiro automóvel em Portugal inspira livro infantil",
+      "url": "https://observador.pt/2026/10/27/livro-infantil-de-ana-maria-magalhaes-e-isabel-alcada-conta-a-historia-do-primeiro-automovel-em-portugal/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-26T22:56:05+00:00",
-      "summary": "Na madrugada de domingo, a PSP dispersou, à bastonada e com recurso a cães, as manifestações em Lisboa e no Porto",
+      "publishedAt": "2026-10-27T00:35:57+00:00",
+      "summary": "\"Já tínhamos abordado ligeiramente o tema, mas nunca tínhamos escrito uma história completa, nem estudado o assunto.\", diz Isabel Alçada, uma das escritoras",
+      "category": "Cultura"
+    },
+    {
+      "title": "Novo sismo de 3,6 sentido em São Miguel",
+      "url": "https://observador.pt/2026/10/27/sismo-de-magnitude-36-sentido-em-sao-miguel-no-mesmo-local-de-abalo-mais-forte-registado-a-20-de-outubro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T00:35:08+00:00",
+      "summary": "No dia 20 de outubro, às 18h07 locais (19h07 em Lisboa), foi registado um sismo de magnitude 5,2 na escala de Richter nas ilhas de São Miguel, Santa Maria e Terceira",
       "category": "Mundo"
+    },
+    {
+      "title": "Passaporte climático para acompanhar ação dos municípios",
+      "url": "https://observador.pt/2026/10/27/agencia-para-a-energia-lanca-passaporte-climatico-para-acompanhar-acao-dos-municipios/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T00:34:45+00:00",
+      "summary": "Segundo a ADENE, os municípios aderentes terão de apresentar um relatório anual simplificado para manter o reconhecimento obtido",
+      "category": "Mundo"
+    },
+    {
+      "title": "Quando a irracionalidade impera",
+      "url": "https://observador.pt/opiniao/quando-a-irracionalidade-impera/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T00:25:50+00:00",
+      "summary": "É preciso separar a acampada da manifestação e a intervenção da polícia da gestão política do descontentamento. Quando misturamos tudo, a irracionalidade impera.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Tempo de vésperas",
+      "url": "https://observador.pt/opiniao/tempo-de-vesperas-2/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T00:24:54+00:00",
+      "summary": "Por alguma razão tanta gente parece disponível para encolher os ombros, relativizando a luta anti-democrática a que temos andado a assistir, pelo simples facto de que tudo se resume a uma causa justa.",
+      "category": "Clima"
+    },
+    {
+      "title": "Como perder o controlo da narrativa em 9 atos",
+      "url": "https://observador.pt/opiniao/como-perder-o-controlo-da-narrativa-em-9-atos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T00:22:47+00:00",
+      "summary": "O filme das últimas semanas pode ser contado assim: um Governo que priorizou os jovens e que tem objetivos méritos em matéria de Habitação, conseguiu perder o controlo da narrativa política. É obra.",
+      "category": "Política"
+    },
+    {
+      "title": "Lisboa em ação, com propósito e firmeza",
+      "url": "https://observador.pt/opiniao/lisboa-em-acao-com-proposito-e-firmeza/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T00:21:52+00:00",
+      "summary": "Este arranque de mandato já marcou o tom: Lisboa não pode esperar. E nós não fomos eleitos para empatar.",
+      "category": "Mundo"
+    },
+    {
+      "title": "IL: trânsito em Coimbra piora após reforma",
+      "url": "https://observador.pt/2026/10/27/il-diz-que-transito-em-coimbra-esta-bem-pior-apos-reformulacao-e-pede-dados-a-camara-relatorio-chega-a-6-de-novembro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T00:21:13+00:00",
+      "summary": "\"Temos esta perceção de que o trânsito em Coimbra sempre foi um problema, não é de agora\", disse a presidente da Câmara de Coimbra",
+      "category": "Política"
+    },
+    {
+      "title": "Carneiro desafia Montenegro a \"deixar cair\" a lei das rendas",
+      "url": "https://observador.pt/2026/10/27/carneiro-desafia-montenegro-a-deixar-cair-a-lei-das-rendas-no-debate-do-orcamento-e-diz-que-ps-esta-disponivel-para-rever-lei-de-manifestacoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T00:20:54+00:00",
+      "summary": "A Assembleia da República (AR) vai debater entre terça e quarta-feira a proposta do Governo de Orçamento do Estado para 2027, durante mais de dez horas",
+      "category": "Política"
+    },
+    {
+      "title": "Bruno dos Reis lidera o Centro Cultural Vila Flor",
+      "url": "https://observador.pt/2026/10/27/bruno-dos-reis-e-novo-diretor-do-centro-cultural-vila-flor-cristina-planas-leitao-dirige-guidance/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T00:20:38+00:00",
+      "summary": "Rui Torrinha estava desde 2018 na direção artística do Centro Cultural Vila Flor, ao abrigo de uma comissão de serviço que terminava apenas em meados de 2027",
+      "category": "Cultura"
+    },
+    {
+      "title": "Harry Kane e Alexia Putellas vencem prêmio Bola de Ouro de 2026",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/harry-kane-e-alexia-putellas-vencem-premio-bola-de-ouro-de-2026",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T00:12:00+00:00",
+      "summary": "O atacante Harry Kane e a meia Alexia Putellas são os vencedores da Bola de Ouro, tradicional premiação da revista France Football que condecora os melhores jogadores da temporada no futebol mundial. O anúncio dos ganhadores aconteceu nesta segunda-feira (26) no London Palladium, teatro centenário de Londres. Nascido n",
+      "category": "Esportes"
+    },
+    {
+      "title": "CNBB parabeniza Lula e pede atenção aos mais pobres",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cnbb-parabeniza-lula-e-pede-atencao-aos-mais-pobres",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-26T23:52:00+00:00",
+      "summary": "A Conferência Nacional dos Bispos do Brasil (CNBB) parabenizou o presidente Luiz Inácio Lula da Silva e ao vice-presidente Geraldo Alckmin pela reeleição, no 2º turno das eleições e pediu atenção prioritária para os pobres e vulneráveis. \"Acreditamos que a dignidade da pessoa humana, a destinação universal dos bens, a ",
+      "category": "Política"
+    },
+    {
+      "title": "23h Harry Kane e Alexia Putellas conquistam a Bola de Ouro 2026",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-harry-kane-e-alexia-putellas-conquistam-a-bola-de-ouro-2026_a1_1774577",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-26T23:29:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Trump questiona eleição brasileira e Alckmin rebate: “equivocado”",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trump-questiona-eleicao-brasileira-e-alckmin-rebate-equivocado",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-26T23:18:00+00:00",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, questionou o processo eleitoral brasileiro, nesta segunda-feira (26). Em conversa com jornalistas, o presidente estadunidense questionou a prorrogação do horário da votação, ecoando o posicionamento da campanha do candidato derrotado no segundo turno das eleições, Flávio B",
+      "category": "Política"
     },
     {
       "title": "Harry Kane eleito o melhor jogador do mundo",
@@ -45,132 +396,6 @@
       "publishedAt": "2026-10-26T22:55:59+00:00",
       "summary": "Harry Kane conquistou a Bola de Ouro 2026. Aos 33 anos, o internacional inglês foi distinguido com o prémio mais cobiçado da France Football, pela primeira vez na carreira, superando Kylian Mbappé e Lamine Yamal, considerado o jovem talento do ano.",
       "category": "Mundo"
-    },
-    {
-      "title": "Chapo quer mais investimento russo em Moçambique",
-      "url": "https://observador.pt/2026/10/26/daniel-chapo-quer-mais-investimento-russo-em-mocambique-a-margem-da-cimeira-russia-africa/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T22:55:51+00:00",
-      "summary": "\"Para nós, como Governo, a diáspora integra a parte do desenvolvimento de Moçambique\", afirmou o governante",
-      "category": "Política"
-    },
-    {
-      "title": "Novo foco de carraças no hospital de Vila Real",
-      "url": "https://observador.pt/2026/10/26/carracas-em-ala-de-internamento-obrigam-a-segunda-desinfestacao-e-transferencia-de-doentes-em-hospital-de-vila-real/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T22:54:43+00:00",
-      "summary": "A Unidade Local de Saúde salientou que \"não foram identificados doentes afetados por esta ocorrência\"",
-      "category": "Saúde"
-    },
-    {
-      "title": "Secretário investigado por retenção de ônibus durante eleição em Salvador usou saída especial em aeroporto para evitar imprensa",
-      "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/26/secretario-de-mobilidade-de-salvador-usou-saida-especial-em-aeroporto-para-evitar-publico.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:54:18+00:00",
-      "summary": "Pablo Souza, secretário municipal de Mobilidade de Salvador Reprodução/Redes Sociais O secretário Municipal de Mobilidade de Salvador, alvo de questionamentos devido à redução na frota de ônibus durante a eleição, já está de volta à capital baiana. Pablo Souza desembarcou no aeroporto da cidade na tarde desta segunda-f",
-      "category": "Política"
-    },
-    {
-      "title": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:54:18+00:00",
-      "summary": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:54:03+00:00",
-      "summary": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Abstenção cai 10,9% em MG no 2º turno, e número de eleitores que votaram aumenta em mais de 400 mil",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/26/abstencao-cai-109percent-em-mg-no-2o-turno-e-numero-de-eleitores-que-votaram-aumenta-em-mais-de-400-mil.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:53:56+00:00",
-      "summary": "Abstenção em Minas Gerais cai de 22,8% para 20,3% no segundo turno A abstenção eleitoral em Minas Gerais caiu de 22,81% no primeiro turno das eleições deste ano, em 4 de outubro, para 20,33% no segundo, realizado neste domingo (25). De acordo com dados da Justiça Eleitoral, o número de mineiros que não compareceram às ",
-      "category": "Política"
-    },
-    {
-      "title": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:53:44+00:00",
-      "summary": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:53:27+00:00",
-      "summary": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Engenheiro morre após ser agredido e roubado por grupo depois de ato pró-Lula no litoral de SP",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/26/engenheiro-morre-apos-ser-agredido-e-roubado-por-grupo-depois-de-ato-pro-lula-no-litoral-de-sp.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:53:21+00:00",
-      "summary": "Engenheiro é agredido e roubado por grupo após se afastar de ato pró-Lula O engenheiro ambiental e mestrando Marcelo de Oliveira Rocha, de 30 anos, morreu após ser agredido e roubado por ao menos sete homens em Santos, no litoral de São Paulo. A morte foi confirmada nesta segunda-feira (26) ao g1 pelo pai da vítima, Ma",
-      "category": "Mundo"
-    },
-    {
-      "title": "Paraíba registrou mais de 400 votos após 17h no 2º turno das eleições, diz TRE-PB",
-      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/26/paraiba-registrou-mais-de-400-votos-apos-17h-no-2o-turno-das-eleicoes-diz-tre-pb.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:52:20+00:00",
-      "summary": "Paraíba registrou mais de 400 votos após 17h no 2º turno das eleições, diz TRE-PB Érico Andrade/g1 A Paraíba registrou 465 votos após às 17h no 2º turno das eleições, realizado no último domingo (25). A informação foi divulgada pelo Tribunal Regional Eleitoral do estado (TRE-PB), em dados extraídos pela secretaria de T",
-      "category": "Política"
-    },
-    {
-      "title": "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/10/26/menina-de-4-anos-morre-com-suspeita-de-meningite-em-goias-diz-secretaria.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:52:15+00:00",
-      "summary": "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria Reprodução/Instagram Prefeitura de Inhumas Geovanna Eugenio de Paula, de 4 anos, morreu com suspeita de meningite em Inhumas, na Região Metropolitana em Goiânia, segundo informou a Secretaria de Estado da Saúde (SES-GO). Em 2026, Goiás já registr",
-      "category": "Saúde"
-    },
-    {
-      "title": "Homem morre afogado no Poção Azul, entre Uberlândia e Araguari",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/26/homem-morre-afogado-no-pocao-azul-entre-uberlandia-e-araguari.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:51:48+00:00",
-      "summary": "Afogamento Poção Azul - Uberlândia Érico Gabriel/TV Integração Um homem de 37 anos morreu afogado no Poção Azul, trecho do Rio Uberabinha localizado entre Uberlândia e Araguari, próximo à BR-050. O corpo foi retirado da água pelo Corpo de Bombeiros, e apesar da tentativa de reanimação pela equipe do Serviço de Atendime",
-      "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: NE2 de segunda-feira, 26 de outubro de 2026",
-      "url": "https://g1.globo.com/pe/pernambuco/videos-ne2/playlist/videos-ne2-de-segunda-feira-26-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:51:31+00:00",
-      "summary": "Assista aos vídeos do telejornal com as notícias de Pernambuco.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Prefeito eleito em Martinópolis promete tapar buracos das vias e renegociação de dívidas",
-      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/26/prefeito-eleito-em-martinopolis-promete-tapar-buracos-das-vias-e-mutirao-para-renegociacao-de-dividas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:50:31+00:00",
-      "summary": "Eleitores de Narandiba e Martinópolis voltam às urnas para definir prefeitos até 2028 c Eleito com 59,09% dos votos na eleição suplementar deste domingo (25), o novo prefeito de Martinópolis (SP), Humberto Emmanuel Schmidt Oliveira (União Brasil), conhecido como Beto Leite, afirmou que pretende iniciar a gestão com açõ",
-      "category": "Política"
     },
     {
       "title": "Metropolitano de Lisboa diz estar disponível para diálogo com sindicatos",
@@ -200,42 +425,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Vencedor do “Big Brother” revela que esposa está com câncer",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/vencedor-do-big-brother-revela-que-esposa-esta-com-cancer/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:34:46+00:00",
-      "summary": "Casal contou que o diagnóstico foi feito cedo e que ela vai passar por uma cirurgia de mastectomia dupla; anúncio acontece menos de um mês após a vitória no reality",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jogador do Bahia compartilha críticas ao Nordeste após eleição e é atacado",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/bahia/jogador-do-bahia-compartilha-criticas-ao-nordeste-apos-eleicao-e-e-atacado/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:34:38+00:00",
-      "summary": "Willian José, atacante do Bahia, gerou revolta entre torcedores após compartilhar vídeos com ataques ao Nordeste após as eleições; conteúdo foi removido pelo atleta",
-      "category": "Política"
-    },
-    {
-      "title": "Lula venceu eleições presidenciais em anos terminados em 2 e 6",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-venceu-eleicoes-presidenciais-em-anos-terminados-em-2-e-6/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:33:13+00:00",
-      "summary": "Presidente foi derrotado nas três primeiras disputas, em 1989, 1994 e 1998, antes de conquistar a primeira vitória, em 2002",
-      "category": "Política"
-    },
-    {
-      "title": "A última lição de Pureza sobre o fim do mundo",
-      "url": "https://observador.pt/2026/10/26/ultima-aula-de-pureza-na-uc-direito-internacional-em-ruinas-e-terceira-guerra-mundial-as-portas-da-humanidade/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T22:33:02+00:00",
-      "summary": "Com o título O fim do mundo, quem sabe, o seu romper, o académico e coordenador do Bloco de Esquerda proferiu esta segunda-feira a sua última lição na Faculdade de Economia da UC",
-      "category": "Economia"
-    },
-    {
       "title": "Cristiano Ronaldo na lista de pré-convocados de Portugal",
       "url": "https://www.rtp.pt/noticias/selecao-nacional/cristiano-ronaldo-na-lista-de-pre-convocados-de-portugal_d1774571",
       "source": "RTP Notícias",
@@ -254,15 +443,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Edinho: Se vitória de Lula não for reconhecida, PT levará base às ruas",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/edinho-se-vitoria-de-lula-nao-for-reconhecida-pt-levara-base-as-ruas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:30:11+00:00",
-      "summary": "Presidente nacional do PT disse que o candidato derrotado à Presidência, Flávio Bolsonaro (PL), tem respaldo do presidente dos EUA, Donald Trump, para não reconhecer o resultado do segundo turno das eleições",
-      "category": "Política"
-    },
-    {
       "title": "Nova decisão judicial proíbe Flávio Bolsonaro de deixar o país",
       "url": "https://www.rtp.pt/noticias/mundo/nova-decisao-judicial-proibe-flavio-bolsonaro-de-deixar-o-pais_n1774570",
       "source": "RTP Notícias",
@@ -272,84 +452,12 @@
       "category": "Política"
     },
     {
-      "title": "As notícias das 21h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1798/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T22:26:25+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "“Livramento”: Zagueiro do Vasco se pronuncia após grave acidente de carro",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/livramento-zagueiro-do-vasco-se-pronuncia-apos-grave-acidente-de-carro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:25:09+00:00",
-      "summary": "Veículo do defensor capotou no Rio de Janeiro após passar em buraco profundo; imagens do incidente circularam nas redes sociais",
-      "category": "Mundo"
-    },
-    {
-      "title": "STC x SLB. \"Decisões-chave foram bem tomadas\"",
-      "url": "https://observador.pt/programas/sem-falta/stc-x-slb-decisoes-chave-foram-bem-tomadas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T22:23:57+00:00",
-      "summary": "Pedro Henriques destaca que a equipa de arbitragem esteve bem no penálti contra o Benfica e a validar o golo de Prestianni. Nota 6 para Cláudio Pereira, uma arbitragem positiva.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Homem britânico vende caça da Segunda Guerra Mundial que guardou na própria garagem por mais de 20 anos",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/homem-britanico-vende-caca-da-segunda-guerra-mundial-que-guardou-na-propria-garagem-por-mais-de-20-anos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:19:32+00:00",
-      "summary": "Entusiasta de aeronaves resgatou as fuselagens de dois modelos raros de um ferro-velho em 1973",
-      "category": "Mundo"
-    },
-    {
       "title": "Provedora pede com urgência informações à PSP sobre carga policial em Lisboa e Porto",
       "url": "https://www.rtp.pt/noticias/pais/provedora-pede-com-urgencia-informacoes-a-psp-sobre-carga-policial-em-lisboa-e-porto_n1774566",
       "source": "RTP Notícias",
       "region": "Portugal",
       "publishedAt": "2026-10-26T22:16:46+00:00",
       "summary": "A provedora de Justiça pediu à PSP, com caráter de urgência, informações sobre a carga policial na madrugada de domingo sobre manifestantes que acamparam na Praça D. Pedro IV, em Lisboa, e na Praça D. João I, no Porto.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lula terá que estancar sangria com o mercado financeiro, diz especialista",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/lula-tera-que-estancar-sangria-com-o-mercado-financeiro-diz-especialista/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:14:08+00:00",
-      "summary": "Cientista político Lucas de Aragão aponta Alckmin e Fonteles como favoritos ao Ministério da Fazenda e alerta para agendas amargas",
-      "category": "Economia"
-    },
-    {
-      "title": "Lula perdeu apenas em uma cidade do RN e de PE; veja mapa",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-perdeu-apenas-em-uma-cidade-do-rn-e-de-pe-veja-mapa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:14:04+00:00",
-      "summary": "Presidente garantiu ampla vantagem nos dois estados nordestinos no segundo turno do pleito que definiu sua reeleição",
-      "category": "Política"
-    },
-    {
-      "title": "Inquérito da ONU afirma que Israel continuou genocídio em Gaza após trégua",
-      "url": "https://www.cnnbrasil.com.br/internacional/inquerito-da-onu-afirma-que-israel-continuou-genocidio-em-gaza-apos-tregua/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:13:00+00:00",
-      "summary": "Relatório da Comissão Internacional de Inquérito das Nações Unidas examinou violações contra crianças palestinas do início da guerra contra o Hamas, em outubro de 2023, até setembro deste ano",
-      "category": "Mundo"
-    },
-    {
-      "title": "Nova onça-pintada é registrada no Parque Nacional do Iguaçu",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/nova-onca-pintada-e-registrada-no-parque-nacional-do-iguacu/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:09:47+00:00",
-      "summary": "Animal adulto recebeu o nome de Mbyja, palavra em guarani que significa estrela, e teve imagens capturadas por câmeras no local",
       "category": "Mundo"
     },
     {
@@ -371,84 +479,12 @@
       "category": "Política"
     },
     {
-      "title": "Shawn Mendes dá beijão em Bruna Marquezine em nova foto; veja",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/shawn-mendes-da-beijao-em-bruna-marquezine-em-nova-foto-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:04:59+00:00",
-      "summary": "Cantor canadense e atriz estão juntos desde o final do ano passado; músico já falou que está se dedicando a construir uma vida ao lado da brasileira",
-      "category": "Cultura"
-    },
-    {
-      "title": "Lula posta foto ao lado de Hugo e Alcolumbre após reunião no Alvorada",
-      "url": "https://www.cnnbrasil.com.br/politica/lula-posta-foto-ao-lado-de-hugo-e-alcolumbre-apos-reuniao-no-alvorada/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:04:48+00:00",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) publicou nesta segunda-feira (26) em seu perfil no Instagram uma foto ao lado dos presidentes da Câmara, Hugo Motta (Republicanos-PB), e Davi Alcolumbre (União-AP). A publicação foi feita após reunião entre os três, Palácio da Alvorada, em Brasília, para discutir pautas legis",
-      "category": "Política"
-    },
-    {
       "title": "RSI chega a menos de 4% dos cidadãos estrangeiros em Portugal",
       "url": "https://www.rtp.pt/noticias/economia/rsi-chega-a-menos-de-4-dos-cidadaos-estrangeiros-em-portugal_n1774561",
       "source": "RTP Notícias",
       "region": "Portugal",
       "publishedAt": "2026-10-26T22:03:58+00:00",
       "summary": "Os cidadãos estrangeiros representam menos de 4% do total de beneficiários do Rendimento Social de Inserção (RSI), disse hoje a secretária de Estado da Segurança Social, negando que estas pessoas sejam um problema para o sistema de apoio.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Clube do Albatroz: como conquistar os mais novos para o g...",
-      "url": "https://observador.pt/programas/brainstorming/clube-do-albatroz-como-conquistar-os-mais-novos-para-o-golfe/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T22:02:47+00:00",
-      "summary": "Pode um livro aproximar as crianças do golfe? Sara Rodi e Madalena Costa Macedo, da Federação Portuguesa de Golfe, falam sobre como despertar o interesse dos mais novos sobre a modalidade.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Santa Clara x Benfica. \"Um dos melhores jogos do campeonato\"",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/santa-clara-x-benfica-um-dos-melhores-jogos-do-campeonato/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T22:01:25+00:00",
-      "summary": "Gabriel Alves enaltece a qualidade do espetáculo nos Açores e elogia a capacidade de resposta do Benfica, que deu a volta ao marcador frente a um Santa Clara intenso.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Risco do vírus Shamonda para a saúde humana em Portugal é muito baixo diz DGS",
-      "url": "https://www.rtp.pt/noticias/pais/risco-do-virus-shamonda-para-a-saude-humana-em-portugal-e-muito-baixo-diz-dgs_n1774549",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T21:59:25+00:00",
-      "summary": "A Direção-Geral da Saúde acompanha a evolução do vírus Shamonda, detetado em explorações pecuárias portuguesas, e considera muito baixo o risco para a saúde humana no país, após ser identificada uma primeira infeção humana em França.",
-      "category": "Saúde"
-    },
-    {
-      "title": "Diretores escolares portugueses são os mais insatisfeitos com salários na OCDE",
-      "url": "https://www.rtp.pt/noticias/economia/diretores-escolares-portugueses-sao-os-mais-insatisfeitos-com-salarios-na-ocde_n1774545",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T21:58:36+00:00",
-      "summary": "Os diretores escolares portugueses são os mais insatisfeitos com o seu salário entre docentes de 44 países e a situação agravou-se nos últimos anos, segundo um estudo da Organização para a Cooperação e o Desenvolvimento Económico (OCDE).",
-      "category": "Mundo"
-    },
-    {
-      "title": "CPLP felicita Lula e reitera compromisso com valores democráticos",
-      "url": "https://www.rtp.pt/noticias/mundo/cplp-felicita-lula-e-reitera-compromisso-com-valores-democraticos_n1774548",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T21:56:33+00:00",
-      "summary": "O secretariado executivo da Comunidade dos Países de Língua Portuguesa (CPLP) felicitou hoje Lula da Silva pela sua reeleição para Presidente do Brasil, reiterando o compromisso na defesa dos princípios assentes na fraternidade e valores democráticos.",
-      "category": "Política"
-    },
-    {
-      "title": "Intimação impunha \"contenção\" policial nas acampadas",
-      "url": "https://observador.pt/2026/10/26/habitacao-intimacao-sobre-direito-a-manifestacao-impunha-contencao-as-autoridades-consideram-juristas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-26T21:46:24+00:00",
-      "summary": "Renata Cambra, uma das manifestantes da Acampada de Lisboa, apresentou na terça-feira uma intimação para proteção de direitos, liberdades e garantias dos manifestantes",
       "category": "Mundo"
     },
     {
@@ -486,42 +522,6 @@
       "publishedAt": "2026-10-26T21:28:00+00:00",
       "summary": "Celebrado no dia 28 de outubro, o Dia do Servidor Público terá este ano o ponto facultativo transferido para a sexta-feira. dia 30, próxima sexta-feira. Desta forma, a data se une ao fim de semana e ao feriado do Dia de Finados, em 2 de novembro, na segunda-feira. De acordo com o Ministério da Gestão e da Inovação em S",
       "category": "Mundo"
-    },
-    {
-      "title": "TRE-BA revoga ordem de prisão de secretário de Mobilidade de Salvador",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-ba-revoga-ordem-de-prisao-de-secretario-de-mobilidade-de-salvador",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T21:13:00+00:00",
-      "summary": "O presidente do Tribunal Regional Eleitoral da Bahia (TRE-BA), Maurício Kertzman Szporer, revogou, nesta segunda-feira (26), a ordem de prisão em flagrante do secretário municipal de Mobilidade de Salvador, Pablo Souza. O magistrado tinha ordenado , no domingo (25), que a Polícia Federal (PF) detivesse Souza. A determi",
-      "category": "Política"
-    },
-    {
-      "title": "Moraes manda Flávio entregar passaporte e o proíbe de deixar o país",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T20:55:00+00:00",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), proibiu nesta segunda-feira (26) o senador Flávio Bolsonaro (PL) de deixar o país. O parlamentar será obrigado a entregar os seus passaportes à Polícia Federal (PF) . A decisão está em segredo de justiça e foi tornada pública pelo senador em suas redes ",
-      "category": "Política"
-    },
-    {
-      "title": "Posse de Lula será em 5 de janeiro",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/posse-de-lula-sera-em-5-de-janeiro",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T20:54:00+00:00",
-      "summary": "A posse para o quarto mandato do presidente Luiz Inácio Lula da Silva e do vice Geraldo Alckmin ocorrerá no dia 5 de janeiro de 2027, e não mais no primeiro dia do ano. Os governadores e vices vão assumir o mandato no dia seguinte. Essa mudança de datas foi estabelecida pela Emenda Constitucional nº 111, de 28 de setem",
-      "category": "Política"
-    },
-    {
-      "title": "PF registrou 86 casos de possíveis crimes eleitorais no 2º turno",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pf-registrou-no-2o-turno-86-casos-de-possiveis-crimes-eleitorais",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T20:29:00+00:00",
-      "summary": "A Polícia Federal divulgou nesta segunda-feira (26) que 86 casos relacionados a possíveis crimes eleitorais foram registrados no segundo turno das eleições. Também foram instaurados 13 inquéritos policiais e lavrados 64 termos circunstanciados de ocorrência. Além disso, seis situações de flagrante permaneciam em anális",
-      "category": "Política"
     }
   ],
   "sources": [
