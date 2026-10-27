@@ -1,437 +1,473 @@
 {
-  "updatedAt": "2026-10-27T07:46:50.644568+00:00",
+  "updatedAt": "2026-10-27T14:25:52.622326+00:00",
   "items": [
     {
-      "title": "\"Desde 2023, número de armas aumentou 220% em Israel\"",
-      "url": "https://observador.pt/programas/reportagem-observador/desde-2023-numero-de-armas-aumentou-220-em-israel/",
+      "title": "Fernando Pimenta pede apoio para os jovens após Mundiais de maratona de canoagem",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/fernando-pimenta-pede-apoio-para-os-jovens-apos-mundiais-de-maratona-de-canoagem_d1774722",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T14:22:21+00:00",
+      "summary": "O canoísta Fernando Pimenta defendeu hoje maior apoio para os jovens, no regresso da seleção portuguesa dos Mundiais de maratona de canoagem, em Gualeguaychú, na Argentina, onde Portugal conquistou um recorde de nove medalhas.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Fuvest 2027: g1 faz tira-dúvidas ao vivo com professores nesta quinta",
+      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/27/fuvest-2027-g1-faz-tira-duvidas-ao-vivo-com-professores-nesta-quinta.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:20:51+00:00",
+      "summary": "A jornalista Yasmin Castro, do g1 Campinas, apresenta o plantão tira-dúvidas do Vestibulou Bianca Garutti A primeira fase da Fuvest 2027 está chegando, e os candidatos terão nesta quinta-feira (29) uma oportunidade para revisar conteúdos e esclarecer dúvidas antes da prova. O g1 Campinas realiza um plantão tira-dúvidas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Filhotes de tucano são resgatado após temporal em BH; veja vídeo",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/27/filhotes-de-tucano-sao-resgatado-apos-temporal-em-bh-veja-video.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:20:35+00:00",
+      "summary": "Filhotes de tucano são resgatado após temporal em BH Quatro filhotes de tucano foram resgatados após a árvore em que o ninho estava cair, por causa de um temporal que atingiu Belo Horizonte, nesta segunda-feira (26). Segundo o tenente Bernardo Bax, da Polícia Militar, os animais foram encaminhados para receber cuidados",
+      "category": "Clima"
+    },
+    {
+      "title": "Homem tem casa invadida e é morto a tiros enquanto dormia em Feira de Santana",
+      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/27/homem-morto-a-tiros-em-feira-de-santana.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:20:06+00:00",
+      "summary": "Homem teve casa invadida e foi morto a tiros enquanto dormia em Feira de Santana Redes Sociais Um homem de 29 anos foi morto a tiros dentro da própria casa, enquanto dormia, na madrugada desta terça-feira (27), no distrito de Humildes, em Feira de Santana, segunda maior cidade da Bahia. O crime ocorreu por volta das 3h",
+      "category": "Mundo"
+    },
+    {
+      "title": "Lenha e painéis solares são alternativa à luz",
+      "url": "https://www.rtp.pt/noticias/pais/lenha-e-paineis-solares-sao-alternativa-a-luz_v1774720",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T14:19:47+00:00",
+      "summary": "Com o preço da fatura da eletricidade a subir, a população da Guarda já procura alternativas mais económicas.",
+      "category": "Economia"
+    },
+    {
+      "title": "VÍDEOS: reveja a série sobre os 60 anos da Unicamp",
+      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/playlist/videos-reveja-a-serie-sobre-os-60-anos-da-unicamp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:19:37+00:00",
+      "summary": "Especial mostra como a ciência faz parte do nosso dia a dia, transforma a vida das pessoas e ajuda a responder a grandes perguntas.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Fuvest 2027: g1 faz tira-dúvidas ao vivo com professores nesta quinta",
+      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/ao-vivo/fuvest-2027-g1-tira-duvidas-vestibular.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:19:19+00:00",
+      "summary": "Fuvest 2027: g1 faz tira-dúvidas ao vivo com professores nesta quinta Programa será transmitido a partir das 15h desta quinta-feira (29).",
+      "category": "Mundo"
+    },
+    {
+      "title": "Esportivo usado por Tony Stark no filme 'Os Vingadores' vai a leilão; lances já passam de R$ 520 mil",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/27/nsx-vingadores-leilao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:18:19+00:00",
+      "summary": "Acura NSX do filme Vingadores de 2012 foi construído a partir de um NSX de 1991. Divulgação Um esportivo usado no filme \"Os Vingadores\" vai a leilão. O modelo exclusivo, um Acura NSX Roadster customizado para o personagem Tony Stark no longa da Marvel de 2012, está sendo oferecido em um site de leilões nos Estados Unid",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias das 14h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2516/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-27T07:42:02+00:00",
-      "summary": "Gadi Eisenkot encerrou a campanha prometendo erradicar o Hamas e invocou a perda do filho em Gaza. Segurança domina eleição em Israel. O relato do editor de Fotografia do Observador, João Porfírio.",
+      "publishedAt": "2026-10-27T14:17:33+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "MP aponta pagamentos de quase R$ 4 milhões à empresa ligada a ex-secretário e marido da prefeita preso em Bauru",
+      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/27/mp-aponta-pagamentos-de-quase-r-4-milhoes-a-empresa-ligada-a-ex-secretario-e-marido-da-prefeita-preso-em-bauru.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:16:04+00:00",
+      "summary": "MP aponta pagamentos de quase R$ 4 milhões da Estre Ambiental à empresa ligada a Purini Novos documentos do Ministério Público detalham pagamentos feitos pela Estre Ambiental à empresa Core, que, segundo a investigação da Operação Cavalo de Troia, teria ligação com Renato Purini, ex-secretário de Governo de Bauru (SP) ",
       "category": "Política"
     },
     {
-      "title": "Venda de casas caiu 9% até Setembro",
-      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/venda-de-casas-caiu-9-ate-setembro/",
+      "title": "Mel Gibson disse que se devia \"eliminar cultura muçulmana\"?",
+      "url": "https://observador.pt/factchecks/fact-check-mel-gibson-afirmou-que-eliminar-toda-a-cultura-muculmana-nos-eua-e-sobrevivencia/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-27T07:39:31+00:00",
-      "summary": "A venda de casas em Portugal caíu 9% nos primeiros nove meses do ano. De acordo com a Confidencial Imobiliário, a queda foi sobretudo de casas usadas.",
+      "publishedAt": "2026-10-27T14:16:00+00:00",
+      "summary": "Circula no Facebook uma frase atribuída ao ator Mel Gibson sobre muçulmanos nos EUA. Será verdade que garantiu ser preciso eliminar toda a \"cultura muçulmana\" dos EUA?",
+      "category": "Cultura"
+    },
+    {
+      "title": "Vídeo mostra momento em que avião agrícola cai e destrói parede de creche em MT",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/27/video-mostra-momento-em-que-aviao-agricola-cai-e-destroi-parede-de-creche-em-mt.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:15:47+00:00",
+      "summary": "Avião agrícola cai em creche de Mato Grosso Câmeras de monitoramento interno da creche Cora Coralina, em Campo Verde, a 139 km de Cuiabá, registraram o momento em que um avião agrícola caiu no local, na última sexta-feira (23). A unidade, que atende cerca de 180 crianças, está com as aulas suspensas até quarta-feira (2",
       "category": "Mundo"
+    },
+    {
+      "title": "Farioli antevê \"jogo difícil\" com o Académico de Viseu",
+      "url": "https://www.rtp.pt/noticias/desporto/farioli-anteve-jogo-dificil-com-o-academico-de-viseu_v1774719",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T14:15:47+00:00",
+      "summary": "A estreia na Taça da Liga deve servir para o treinador do FCP dar minutos a alguns jogadores, a começar por Cláudio Ramos na baliza.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Ministério Público investiga morte de servidor após denúncia de falta de médico em pronto atendimento",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/27/ministerio-publico-investiga-morte-de-servidor-apos-denuncia-de-falta-de-medico-em-pronto-atendimento.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:14:54+00:00",
+      "summary": "Prefeitura de Aliança do Tocantins Reprodução/Google Street View O servidor público Francisco Edmar de Sousa Máximo morreu após sofrer uma parada cardiorrespiratória decorrente de um infarto agudo em Aliança do Tocantins, no sul do estado. O caso é investigado pelo Ministério Público do Tocantins (MPTO) após denúncia d",
+      "category": "Saúde"
+    },
+    {
+      "title": "VÍDEO: homem morre e mulher fica ferida após Kombi ser alvo de tiros em Ferraz; 3 crianças ficaram ilesas",
+      "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/27/homem-morre-e-mulher-fica-ferida-apos-kombi-ser-alvo-de-tiros-em-ferraz-3-criancas-ficaram-ilesas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:13:48+00:00",
+      "summary": "Homem morre e mulher fica ferida após Kombi ser alvo de tiros em Ferraz Um homem de 37 anos morreu e uma mulher, também de 37 anos, ficou ferida após a Kombi em que estavam ser alvo de diversos tiros na noite desta segunda-feira (26), no Jardim Nove de Julho, em Ferraz de Vasconcelos. Três crianças também estavam no ve",
+      "category": "Mundo"
+    },
+    {
+      "title": "Assista ao Bahia Meio Dia da TV Subaé",
+      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:13:12+00:00",
+      "summary": "Assista ao Bahia Meio Dia da TV Subaé",
+      "category": "Mundo"
+    },
+    {
+      "title": "Assista ao EPTV1",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T14:12:35+00:00",
+      "summary": "Assista ao EPTV1 Acompanhe as notícias desta terça-feira (27).",
+      "category": "Mundo"
+    },
+    {
+      "title": "Encontrados 140 milhões na agência ucraniana de Defesa?",
+      "url": "https://observador.pt/factchecks/fact-check-encontrados-140-milhoes-de-dolares-na-agencia-ucraniana-de-defesa/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T14:05:05+00:00",
+      "summary": "Várias publicações alegam que foram encontrados 140 milhões de dólares no escritório de um antigo responsável ucraniano durante uma busca. Notícia é falsa e teve origem num site que imitava um jornal.",
+      "category": "Economia"
+    },
+    {
+      "title": "Corina disponível para negociar com Delcy. Presidente acusa-a de \"espetáculo\"",
+      "url": "https://www.rtp.pt/noticias/mundo/corina-disponivel-para-negociar-com-delcy-presidente-acusa-a-de-espetaculo_v1774717",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T14:03:47+00:00",
+      "summary": "De regresso à Venezuela, María Corina Machado diz estar disponível para negociar com a presidente interina, Delcy Rodríguez.",
+      "category": "Política"
+    },
+    {
+      "title": "Trump quer chamar Americano ao Oceano Atlântico",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-quer-chamar-americano-ao-oceano-atlantico_v1774716",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T14:00:47+00:00",
+      "summary": "Numa ação de campanha no Mississippi, o presidente norte-americano lembrou que os Estados Unidos já renomearam um lago e um golfo e falta agora um rio e um oceano.",
+      "category": "Política"
+    },
+    {
+      "title": "Partido de Bolsonaro reconhece vitória de Lula",
+      "url": "https://www.rtp.pt/noticias/mundo/partido-de-bolsonaro-reconhece-vitoria-de-lula_v1774715",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:57:48+00:00",
+      "summary": "O Partido Liberal pelo qual concorreu Flávio Bolsonaro já reconheceu os resultados eleitorais e a vitória de Lula da Silva.",
+      "category": "Política"
+    },
+    {
+      "title": "Durigan: Governo deve enviar medida sobre imposto seletivo nesta semana",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-governo-deve-enviar-projeto-sobre-imposto-seletivo-nesta-semana/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T13:57:36+00:00",
+      "summary": "Criado pela reforma tributária sobre o consumo, o Imposto Seletivo incidirá sobre veículos, embarcações, aeronaves, cigarros e outros produtos considerados prejudiciais à saúde",
+      "category": "Política"
+    },
+    {
+      "title": "“Harry Potter”: série anuncia atores de Tiago e Lílian Potter",
+      "url": "https://www.cnnbrasil.com.br/pop/streaming/harry-potter-serie-anuncia-atores-de-tiago-e-lilian-potter/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T13:57:17+00:00",
+      "summary": "Atores que darão vida aos pais do icônico bruxinho, além do nome escalado para viver Carlinhos Weasley, foram divulgados nesta terça-feira (27)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Detidos têm até dia 6 para decidir se pagam ou são julgados",
+      "url": "https://observador.pt/2026/10/27/manifestantes-tem-ate-dia-6-para-decidir-se-pagam-ou-se-vao-a-julgamento/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:56:41+00:00",
+      "summary": "Os 55 manifestantes detidos há uma semana, nos protestos em Lisboa, compareceram esta terça-feira perante o Ministério Público",
+      "category": "Mundo"
+    },
+    {
+      "title": "Falta de professores: governo quer licenciados a dar aulas",
+      "url": "https://observador.pt/2026/10/27/governo-quer-por-licenciados-a-dar-aulas-no-1-o-ciclo-sem-mestrado-nem-estagio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:55:54+00:00",
+      "summary": "Ministério da Educação diz que medida é transitória, até formarem os profissionais necessários",
+      "category": "Política"
+    },
+    {
+      "title": "\"Manifestantes estão a subverter a democracia”",
+      "url": "https://observador.pt/programas/justica-cega/manifestantes-estao-a-subverter-a-democracia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:55:28+00:00",
+      "summary": "Luís Rosa, Paulo Saragoça da Matta e Raquel Brízida Castro analisam ação entregue no Tribunal Administrativo de Lisboa por manifestante para que acampada no Rossio permaneça até ao final de novembro.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Marquês. Juíza volta a negar extinção do processo a Salgado",
+      "url": "https://observador.pt/2026/10/27/juiza-recusa-extinguir-processo-a-ricardo-salgado-censura-mp-por-desperdicio-de-tempo-e-altera-ordem-de-producao-de-prova/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:52:54+00:00",
+      "summary": "Susana Seca criticou ainda o Ministério Público por perder tempo com atos inúteis no julgamento, alterou a ordem da produção de prova no julgamento e avançou com a marcação de mais 78 sessões em 2027.",
+      "category": "Clima"
+    },
+    {
+      "title": "Rússia atinge ponte em Kiev, no que Zelensky classifica como grave escalada",
+      "url": "https://www.cnnbrasil.com.br/internacional/russia-atinge-ponte-em-kiev-e-zelensky-classifica-acao-como-grave-escalada/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T13:52:25+00:00",
+      "summary": "Presidente ucraniano afirma que ofensiva contra logística da Ucrânia causou vítimas e atingiu infraestrutura da capital",
+      "category": "Política"
+    },
+    {
+      "title": "Lula começa a desenhar equipe para o próximo governo",
+      "url": "https://www.cnnbrasil.com.br/politica/lula-comeca-a-desenhar-equipe-para-o-proximo-governo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T13:49:07+00:00",
+      "summary": "Após reeleição, presidente se reúne com líderes do Congresso e articula nomes para ministérios; Rafael Fonteles e Camilo Santana estão cotados",
+      "category": "Política"
+    },
+    {
+      "title": "300 alunos bloquearam escola no Porto",
+      "url": "https://www.rtp.pt/noticias/pais/300-alunos-bloquearam-escola-no-porto_v1774714",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:48:47+00:00",
+      "summary": "Alunos da Escola Artística Soares dos Reis, no Porto, reivindicam mais professores, alertam para as más condições do edifício ou os custos dos materiais.",
+      "category": "Mundo"
+    },
+    {
+      "title": "O Benfica sofre no caos e o Sporting ganha mesmo ao perder?",
+      "url": "https://observador.pt/programas/e-o-campeao-e/o-benfica-sofre-no-caos-e-o-sporting-ganha-mesmo-ao-perder/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:47:55+00:00",
+      "summary": "O Benfica vence no caos dos Açores. Enquanto isso, a direção do Sporting aprova 18,7% de aumento fixo e Rui Borges vive no fio da navalha. O futebol nacional segue imparável!",
+      "category": "Esportes"
+    },
+    {
+      "title": "Por que aviões ficam dando voltas antes de pousar? Prática deixa voos mais poluentes e custa mais de US$ 2,3 bilhões para a gestão do tráfego aéreo",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-avioes-ficam-dando-voltas-antes-de-pousar-pratica-deixa-voos-mais-poluentes-e-custa-mais-de-us-23-bilhoes-para-a-gestao-do-trafego-aereo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T13:47:35+00:00",
+      "summary": "Atrasos e congestionamentos no transporte aéreo são inconvenientes para empresas e passageiros; a agência de aviação da ONU compartilhou seu plano para eliminá-los",
+      "category": "Economia"
+    },
+    {
+      "title": "Encomendas de bens duráveis nos EUA sobem 1,8% em setembro ante agosto",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/encomendas-de-bens-duraveis-nos-eua-sobem-18-em-setembro-ante-agosto/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T13:47:34+00:00",
+      "summary": "Resultado veio ligeiramente abaixo da expectativa de analistas consultados que previam alta de 1,9% no período",
+      "category": "Mundo"
+    },
+    {
+      "title": "BC diz que estuda adoção de medidas para crédito de maior risco",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-diz-que-estuda-adocao-de-medidas-para-credito-de-maior-risco/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T13:45:53+00:00",
+      "summary": "Instituição apontou que pesquisa da ⁠autarquia indica que a crescente digitalização dos serviços financeiros tem ampliado significativamente a ‌exposição ⁠de consumidores ‌de menor renda a ofertas",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "13h Presidente da República quebra silêncio sobre as manifestações pela habitação",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-presidente-da-republica-quebra-silencio-sobre-as-manifestacoes-pela-habitacao_a1_1774713",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:45:04+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Mais de 7 milhões escolhem futuro primeiro-ministro israelita",
+      "url": "https://www.rtp.pt/noticias/mundo/mais-de-7-milhoes-escolhem-futuro-primeiro-ministro-israelita_v1774711",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:42:47+00:00",
+      "summary": "",
+      "category": "Política"
     },
     {
       "title": "Debate na generalidade da proposta de Orçamento do Estado para 2027",
       "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-27T07:37:57+00:00",
+      "publishedAt": "2026-10-27T13:42:30+00:00",
       "summary": "Tem início esta terça-feira o debate, na generalidade, da proposta de Orçamento do Estado para o próximo ano. A vaga de protestos pela habitação, nas últimas semanas, o agravamento do custo de vida e a escalada de preços dos combustíveis devem marcar o confronto parlamentar entre Governo e oposição. Acompanhamos aqui, ",
       "category": "Política"
     },
     {
-      "title": "Urnas abertas para eleições cruciais para Netanyahu",
-      "url": "https://www.rtp.pt/noticias/mundo/urnas-abertas-para-eleicoes-cruciais-para-netanyahu_n1774607",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:37:29+00:00",
-      "summary": "As secções de voto em Israel para as primeiras eleições legislativas desde os ataques do Hamas em outubro de 2023 abriram como previsto pelas 07:00 locais (05:00 em Lisboa).",
-      "category": "Política"
-    },
-    {
-      "title": "Guy Deslile: a BD do bom viajante e do “mau pai”",
-      "url": "https://observador.pt/especiais/guy-deslile-a-banda-desenhada-do-bom-viajante-e-do-mau-pai/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:37:23+00:00",
-      "summary": "As crónicas de países e retratos de cidades que escreveu e desenhou deram-lhe fama. A mudança de vida levou-o a contar outras histórias. No Amadora BD foi tema de uma exposição. Falámos com ele.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Assembleia municipal dominada por queixas contra a PSP",
-      "url": "https://observador.pt/2026/10/27/habitacao-queixas-do-publico-sobre-cargas-policiais-dominam-assembleia-municipal-do-porto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:36:26+00:00",
-      "summary": "Segundo a PSP, registaram-se, no total, em Lisboa e no Porto, 33 feridos e 33 detidos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Timor GAP está numa posição mais forte para desenvolver Greater Sunrise",
-      "url": "https://www.rtp.pt/noticias/economia/timor-gap-esta-numa-posicao-mais-forte-para-desenvolver-greater-sunrise_n1774606",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:33:11+00:00",
-      "summary": "O presidente da Timor GAP, Rui Soares, afirmou hoje que a empresa está numa posição mais forte para desenvolver o campo de gás Greater Sunrise, após o acordo de aquisição da parte da australiana Woodside.",
-      "category": "Política"
-    },
-    {
-      "title": "IA sugere música para raparigas e desporto para rapazes",
-      "url": "https://observador.pt/2026/10/27/inteligencia-artificial-sugere-musica-para-raparigas-e-desporto-para-rapazes-perante-a-mesma-questao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:32:41+00:00",
-      "summary": "As questões foram formuladas como se tivessem sido escritas por adolescentes dos 13 aos 19 anos, com diferentes idades, géneros, origens étnicas e condições",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Manifestantes detidos há uma semana em Lisboa conhecem decisão do MP",
-      "url": "https://www.rtp.pt/noticias/pais/manifestantes-detidos-ha-uma-semana-em-lisboa-conhecem-decisao-do-mp_n1774604",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:32:01+00:00",
-      "summary": "Os 55 manifestantes pelo direito à habitação detidos há uma semana no Rossio, em Lisboa, vão comparecer hoje perante o Ministério Público para ficar a saber que rumo será dado ao processo.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Como a IA pode abalar a aparente tranquilidade nos mercados dos EUA",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/como-a-ia-pode-abalar-a-aparente-tranquilidade-nos-mercados-dos-eua/",
+      "title": "PF aciona Argentina por temor de fuga de Flávio",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-aciona-argentina-por-temor-de-fuga-de-flavio/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-27T07:30:40+00:00",
-      "summary": "Ações próximas de recordes e títulos estáveis podem esconder sinais de nervosismo dos investidores",
+      "publishedAt": "2026-10-27T13:42:21+00:00",
+      "summary": "Moraes determinou que senador entregasse passaporte em 24 horas; parlamentar não foi visto ao longo desta terça-feira (27)",
+      "category": "Política"
+    },
+    {
+      "title": "Operação mira ex-líder de centro espírita investigado por violência sexual",
+      "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/go/operacao-mira-ex-lider-de-centro-espirita-investigado-por-violencia-sexual/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T13:40:07+00:00",
+      "summary": "Homem teria se aproveitado da religião e da posição de autoridade espiritual para submeter as vítimas a condutas contra a dignidade sexual",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal foi o quinto país da UE com maior taxa de mortalidade rodoviária em 2025",
+      "url": "https://www.rtp.pt/noticias/mundo/portugal-foi-o-quinto-pais-da-ue-com-maior-taxa-de-mortalidade-rodoviaria-em-2025_n1774709",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:38:56+00:00",
+      "summary": "Portugal foi o quinto país da União Europeia (UE) com a maior taxa de mortalidade rodoviária em 2025, com 51 mortes por milhão de habitantes, apesar de se registar uma diminuição de 6% face ao ano anterior.",
       "category": "Economia"
     },
     {
-      "title": "Peditório da Liga arranca na quinta-feira em todo o país",
-      "url": "https://observador.pt/2026/10/27/peditorio-da-liga-portuguesa-contra-o-cancro-arranca-na-quinta-feira-em-todo-o-pais/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:30:30+00:00",
-      "summary": "A Liga Portuguesa Contra o Cancro referiu que no ano passado, os donativos ajudaram 25.200 doentes oncológicos",
-      "category": "Esportes"
-    },
-    {
-      "title": "Queixas do público sobre cargas policiais dominam assembleia municipal do Porto",
-      "url": "https://www.rtp.pt/noticias/pais/queixas-do-publico-sobre-cargas-policiais-dominam-assembleia-municipal-do-porto_n1774582",
+      "title": "Partidos antecipam debate do OE 2027",
+      "url": "https://www.rtp.pt/noticias/pais/partidos-antecipam-debate-do-oe-2027_v1774710",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-10-27T07:29:33+00:00",
-      "summary": "A assembleia municipal do Porto ficou hoje marcada por críticas do público que, no período consagrado à sua intervenção, recordou as duas cargas policiais sobre a acampada e relacionou-as com as declarações do presidente da câmara, Pedro Duarte.",
-      "category": "Política"
-    },
-    {
-      "title": "Mais de sete milhões de israelitas escolhem novo governo",
-      "url": "https://observador.pt/liveblogs/mais-de-sete-milhoes-de-israelitas-vao-as-urnas-para-votacao-com-desfecho-imprevisivel/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:27:29+00:00",
-      "summary": "Mais de sete milhões de eleitores são chamados às urnas para eleger uma nova composição do parlamento israelita (Knesset), o primeiro ato eleitoral desde os ataques do Hamas em 2023.",
-      "category": "Política"
-    },
-    {
-      "title": "07h Dia de eleições em Israel",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/07h-dia-de-eleicoes-em-israel_a1_1774614",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:23:02+00:00",
+      "publishedAt": "2026-10-27T13:38:47+00:00",
       "summary": "",
       "category": "Política"
     },
     {
-      "title": "7h.PM e PR pressionados a falar sobre protestos da habitação",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:20:53+00:00",
-      "summary": "Luís Montenegro e António José Seguro têm agenda pública, num dia marcado pelo início do debate sobre o OE 2027. Ainda, a reportagem em direto a partir de Israel, em dia de eleições legislativas.",
-      "category": "Política"
-    },
-    {
-      "title": "Juiz considera ilegal demissão de filha de antigo diretor do FBI pela Administração Trump",
-      "url": "https://www.rtp.pt/noticias/mundo/juiz-considera-ilegal-demissao-de-filha-de-antigo-diretor-do-fbi-pela-administracao-trump_n1774605",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:17:00+00:00",
-      "summary": "Um juiz federal norte-americano considerou na segunda-feira que a Administração do Presidente Donald Trump demitiu ilegalmente a filha do antigo diretor do FBI James Comey, do seu cargo de procuradora em Nova Iorque.",
-      "category": "Política"
-    },
-    {
-      "title": "Trump queria Flávio e reconciliação EUA-Lula será difícil, diz especialista",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-queria-flavio-e-reconciliacao-eua-lula-sera-dificil-diz-especialista/",
+      "title": "Gaeco faz operação contra desvio de R$ 36,9 milhões no Paraná",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/gaeco-faz-operacao-contra-desvio-de-r-369-milhoes-no-parana/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-27T07:15:32+00:00",
-      "summary": "Ao WW, Brian Winter, editor-chefe da Americas Quarterly, aponta que reconciliação entre Washington e Brasília será difícil e que temas como terras raras devem complicar relação bilateral",
-      "category": "Cultura"
+      "publishedAt": "2026-10-27T13:38:24+00:00",
+      "summary": "Operação apura suspeitas de desvios de recursos destinados a entidades beneficentes no Paraná e possível lavagem de dinheiro; buscas foram realizadas em dois estados",
+      "category": "Mundo"
     },
     {
-      "title": "Dois dias após reeleição, Lula completa 81 anos nesta terça-feira (27)",
-      "url": "https://www.cnnbrasil.com.br/politica/dois-dias-apos-reeleicao-lula-completa-81-anos-nesta-terca-feira-27/",
+      "title": "Da riqueza dos diamantes ao abandono: como uma cidade inteira acabou tomada pelas areias do deserto",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/da-riqueza-dos-diamantes-ao-abandono-como-uma-cidade-inteira-acabou-tomada-pelas-areias-do-deserto/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-27T07:15:30+00:00",
-      "summary": "Petista conquistou o quarto mandato e ampliará seu recorde como presidente mais velho a tomar posse no Brasil; relembre trajetória",
-      "category": "Política"
-    },
-    {
-      "title": "IA expôs a fragilidade da internet. O que você pode fazer para se proteger?",
-      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ia-expos-a-fragilidade-da-internet-o-que-voce-pode-fazer-para-se-proteger/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:10:11+00:00",
-      "summary": "Falha na linguagem de programação acendeu alerta sobre segurança da internet",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Super-ricos poluem mais do que quase metade da humanidade",
-      "url": "https://observador.pt/2026/10/27/super-ricos-poluem-mais-do-que-quase-metade-da-humanidade/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:10:04+00:00",
-      "summary": "A Oxfam estima que, até 2050, cerca de 10% da população mundial, possa ser deslocadas devido à crise climática, sobretudo no Sul Global",
-      "category": "Mundo"
-    },
-    {
-      "title": "Restrição eleitoral termina e eleitores voltam a poder ser presos hoje",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/restricao-eleitoral-termina-e-eleitores-voltam-a-poder-ser-presos-hoje/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:09:51+00:00",
-      "summary": "Medida prevista no Código Eleitoral proíbe detenções, salvo em três situações específicas, e também protege candidatos, mesários e fiscais partidários",
-      "category": "Mundo"
-    },
-    {
-      "title": "ONG denunciam perseguição a grupos religiosos na Nicarágua",
-      "url": "https://www.rtp.pt/noticias/mundo/ong-denunciam-perseguicao-a-grupos-religiosos-na-nicaragua_n1774602",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:09:44+00:00",
-      "summary": "Organizações da sociedade civil denunciaram na segunda-feira perante a Comissão Interamericana de Direitos Humanos (CIDH) a crescente repressão à liberdade religiosa na Nicarágua, acusando o Governo de Daniel Ortega e Rosario Murillo de perseguir líderes religiosos.",
-      "category": "Política"
-    },
-    {
-      "title": "Netanyahu ou Eisenkot. Israel vai a votos à procura de ponto de viragem",
-      "url": "https://www.rtp.pt/noticias/mundo/netanyahu-ou-eisenkot-israel-vai-a-votos-a-procura-de-ponto-de-viragem_n1774483",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:06:26+00:00",
-      "summary": "Esta terça-feira é um dia decisivo para Israel. Pela primeira vez desde o ataque do Hamas a 7 de outubro de 2023, os israelitas são chamados às urnas para eleger os 120 deputados ao Parlamento, o Knesset.",
-      "category": "Mundo"
-    },
-    {
-      "title": "China autoriza novos testes de condução autónoma à Xpeng e Volkswagen",
-      "url": "https://www.rtp.pt/noticias/economia/china-autoriza-novos-testes-de-conducao-autonoma-a-xpeng-e-volkswagen_n1774601",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:06:00+00:00",
-      "summary": "A China autorizou a fabricante de veículos elétricos Xpeng a transportar passageiros em táxis autónomos e concedeu uma nova licença à Volkswagen, numa altura em que se intensifica a corrida à comercialização desta tecnologia.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Governo deve \"saber ouvir\" mas \"parte da rua está instrumentalizada\"",
-      "url": "https://www.rtp.pt/noticias/politica/governo-deve-saber-ouvir-mas-parte-da-rua-esta-instrumentalizada_v1774540",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T07:03:15+00:00",
-      "summary": "Miguel Pinto Luz, ministro das Infraestruturas e Habitação, diz que o Governo está a ouvir as ruas, mas parte dela está instrumentalizada e aponta o dedo ao Bloco de Esquerda.",
-      "category": "Política"
-    },
-    {
-      "title": "CEO da AtlasIntel: Volatilidade entre turnos dificultou pesquisa eleitoral",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/ceo-da-atlasintel-volatilidade-entre-turnos-dificultou-pesquisa-eleitoral/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:02:24+00:00",
-      "summary": "No WW, Andrei Roman, CEO da AtlasIntel, explica por que institutos não captaram a força da mobilização no segundo turno das eleições",
-      "category": "Política"
-    },
-    {
-      "title": "Manutenção da Cedae e da Águas do Rio pode afetar abastecimento no RJ; veja recomendações",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/27/manutencao-cedae-e-aguas-do-rio.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:02:13+00:00",
-      "summary": "Sistema Imunana-Laranjal, São Gonçalo TV Globo A Cedae e a Águas do Rio realizam, nesta terça-feira (27), a manutenção preventiva anual do Sistema Imunana-Laranjal. A ação começou às 4h e deve terminar às 4h de quarta-feira (28). O fornecimento de água bruta e a operação da Estação de Tratamento de Água (ETA) foram int",
-      "category": "Mundo"
-    },
-    {
-      "title": "Como Lula reverteu desvantagem em MG e venceu no estado no 2º turno",
-      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/27/como-lula-reverteu-desvantagem-em-mg-e-venceu-no-estado-no-2o-turno.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:02+00:00",
-      "summary": "Janones abraça o presidente Lula durante discurso após reeleição neste domingo (25). LECO VIANA/ESTADÃO CONTEÚDO O presidente reeleito Luiz Inácio Lula da Silva (PT) ganhou 1.162.163 votos em Minas Gerais entre o primeiro e o segundo turnos e virou no estado, considerado decisivo para o resultado das eleições presidenc",
-      "category": "Política"
-    },
-    {
-      "title": "Esquema de adulteração de cosméticos é descoberto após empresária identificar vazamento de dados em MG",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/27/esquema-de-adulteracao-de-cosmeticos-e-descoberto-apos-empresaria-identificar-vazamento-de-dados-em-mg.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:01+00:00",
-      "summary": "Cinco são presos por esquema de adulteração de cosméticos em Uberaba Polícia Militar/Divulgação A Polícia Militar (PM) prendeu cinco pessoas suspeitas de participar de uma estrutura clandestina de acondicionamento, embalagem, preparação e distribuição de cosméticos e medicamentos emagrecedores em Uberaba. As prisões fo",
-      "category": "Mundo"
-    },
-    {
-      "title": "Saiba quem era Diego Gonzaga, trabalhador que morreu em máquina de triturar gelo na Grande BH",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/27/saiba-quem-era-diego-gonzaga-trabalhador-que-morreu-em-maquina-de-triturar-gelo-na-grande-bh.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "summary": "Diego Gonzaga, trabalhador que morreu em máquina de triturar gelo, era morador de Santa Luzia, na Grande BH Reprodução/TV Globo Pai de uma jovem de 19 anos, Diego Fernando Gonzaga, de 39, era conhecido na família pelo jeito alegre, falante e extrovertido. Morador de Santa Luzia, na Grande BH, desde que nasceu, ele morr",
-      "category": "Mundo"
-    },
-    {
-      "title": "Gavião é usado para afastar pombos em hospital de Vitória; ave também 'trabalha' no aeroporto",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/27/gaviao-e-usado-para-afastar-pombos-em-hospital-de-vitoria-ave-tambem-trabalha-no-aeroporto.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "summary": "Gavião Shiluba é utilizado para afastar pombos de área de hospital do Espírito Santo Divulgação/Hucam Há cerca de quatro meses, o Hospital Universitário Cassiano Antônio Moraes (Hucam), em Vitória, passou a contar com o trabalho de um novo \"funcionário\". Shiluba, um gavião macho da espécie asa-de-telha (Parabuteo unici",
+      "publishedAt": "2026-10-27T13:38:04+00:00",
+      "summary": "Localizada na Namíbia, Kolmanskop chegou a contar com hospital, cassino e serviços modernos, mas foi abandonada em 1956 após o declínio da mineração",
       "category": "Saúde"
     },
     {
-      "title": "Piracicaba tem menor abstenção de votos no 2º turno desde 2014; veja cenário da região",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/noticia/2026/10/27/piracicaba-tem-menor-abstencao-de-votos-no-2o-turno-desde-2014-veja-cenario-da-regiao.ghtml",
-      "source": "G1",
+      "title": "Governo prevê sete leilões de transmissão de energia até 2029",
+      "url": "https://www.cnnbrasil.com.br/infra/governo-preve-sete-leiloes-de-transmissao-de-energia-ate-2029/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "summary": "Votação na EE Prof. Antônio de Mello Cotrim, maior colégio eleitoral de Piracicaba (SP) Paulo Henrique Marques No segundo turno das eleições presidenciais, Piracicaba (SP) registrou uma taxa de abstenção de 20,59%, o que representa 64.061 eleitores que não compareceram às urnas. Os dados são do Tribunal Superior Eleito",
+      "publishedAt": "2026-10-27T13:37:45+00:00",
+      "summary": "Portaria define as datas dos leilões para o triênio e as instalações cuja licitação depende da prévia contratação do uso do sistema de transmissão",
       "category": "Política"
     },
     {
-      "title": "Como incluir dezenas de frutas e vegetais na sua dieta semanal - e é menos difícil do que parece",
-      "url": "https://g1.globo.com/saude/noticia/2026/10/27/como-incluir-dezenas-de-frutas-e-vegetais-na-sua-dieta-semanal-e-e-menos-dificil-do-que-parece.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "summary": "A nova orientação é incluir 30 tipos de alimentos de origem vegetal na alimentação a cada semana BBC/ Stephen Parker Nos dois últimos anos, uma nova meta de saúde vem ganhando popularidade. Primeiro, veio a recomendação de dar 10 mil passos por dia. Depois, a de consumir cinco porções de frutas e verduras diariamente. ",
-      "category": "Saúde"
-    },
-    {
-      "title": "O que um osso de dinossauro encontrado no Peru pode revelar sobre o passado da Terra",
-      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/27/o-que-um-osso-de-dinossauro-encontrado-no-peru-pode-revelar-sobre-o-passado-da-terra.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "summary": "Pesquisadores da Unicamp encontram fóssil raro de dinossauro no Peru Era quase o fim de uma expedição científica ao norte do Peru quando pesquisadores brasileiros e peruanos encontraram vestígios de animais que habitaram a Terra milhões de anos antes dos seres humanos. Entre eles, um osso de dinossauro tão raro que sur",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Emprego: confira as 271 vagas disponíveis em Petrolina, Salgueiro e Araripina",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/27/emprego-confira-as-271-vagas-disponiveis-em-petrolina-salgueiro-e-araripina.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "summary": "Vagas de emprego no Sertão de Pernambuco A Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para o município de Petrolina, Salgueiro e Araripina terça-feira (27). As oportunidades são atualizadas diariamente pelo g1 Petrolina. Os interessados nas oportunidades podem entrar em contato com ",
-      "category": "Economia"
-    },
-    {
-      "title": "Fotógrafo registra 'mar de nuvens' na Serra Gaúcha e imagem viraliza; VÍDEO",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/27/fotografo-grava-mar-nuvens-veranopolis-rs.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "summary": "Fotógrafo registra 'mar de nuvens' na Serra Gaúcha e imagem viraliza Um fotógrafo captou o nascer do sol em meio a um \"mar de nuvens\" a 715 metros acima do nível do mar. A imagem viralizou nas redes sociais e já ultrapassou 1,7 milhão de visualizações. O registro foi feito por Rafael Santos no Pico Monte Claro, em Vera",
-      "category": "Mundo"
-    },
-    {
-      "title": "Usuários de Ozempic e Wegovy recorrem a suplementos para aliviar efeitos colaterais; entenda os riscos",
-      "url": "https://g1.globo.com/saude/noticia/2026/10/27/usuarios-de-ozempic-e-wegovy-recorrem-a-suplementos-para-aliviar-efeitos-colaterais-entenda-os-riscos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "summary": "Usuários de Ozempic e Wegovy recorrem a suplementos para aliviar efeitos colaterais; entenda os riscos Adobe Stock Para Allison Vecchio, de 42 anos, os medicamentos à base de GLP-1 foram “um botão de reset na vida”, mas a um preço — efeitos colaterais como desconforto gastrointestinal, unhas quebradiças e sensação de f",
-      "category": "Economia"
-    },
-    {
-      "title": "Abstenção cai em todas as 39 cidades da Grande SP; capital concentra cerca de 60% da redução",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/27/abstencao-cai-em-todas-as-39-cidades-da-grande-sp-capital-concentra-cerca-de-60percent-da-reducao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "summary": "Abstenção cai em todas as 39 cidades da Grande SP; capital concentra cerca de 60% da redução A abstenção caiu nas 39 cidades da região metropolitana de São Paulo no segundo turno das eleições presidenciais, realizado no domingo (25), em comparação com o primeiro turno. Juntos, os municípios tiveram 465.515 ausências a ",
-      "category": "Política"
-    },
-    {
-      "title": "Mais de sete milhões de israelitas vão hoje às urnas para votação com desfecho imprevisível",
-      "url": "https://www.rtp.pt/noticias/mundo/mais-de-sete-milhoes-de-israelitas-vao-hoje-as-urnas-para-votacao-com-desfecho-imprevisivel_n1774600",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T06:56:35+00:00",
-      "summary": "Mais de sete milhões de eleitores são hoje chamados às urnas para eleger uma nova composição do parlamento israelita (Knesset), o primeiro ato eleitoral desde os ataques do Hamas que em 2023 atingiram Israel e destabilizaram o Médio Oriente.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mísseis russos atingiram universidade, hospitais e uma ponte",
-      "url": "https://observador.pt/liveblogs/kiev-alem-de-universidade-e-duas-unidades-de-saude-misseis-russos-atingiram-grande-ponte-da-capital-ucraniana/",
+      "title": "CP alerta para perturbações na circulação a partir de quinta",
+      "url": "https://observador.pt/2026/10/27/cp-alerta-para-perturbacoes-na-circulacao-a-partir-de-quinta-feira-devido-a-greve/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-10-27T06:54:09+00:00",
-      "summary": "Uma pessoa morreu e pelo menos 15 ficaram feridas, várias delas com gravidade, num ataque com vários mísseis balísticos pelas forças russas contra a capital ucraniana.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Manifestantes detidos conhecem hoje decisão do MP",
-      "url": "https://observador.pt/liveblogs/manifestantes-detidos-conhecem-hoje-decisao-do-mp-protestos-pela-habitacao-marcados-para-junto-ao-parlamento/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T06:53:41+00:00",
-      "summary": "Debate na generalidade da proposta do Governo de Orçamento do Estado para 2027 vai decorrer enquanto há protestos à entrada da Assembleia da República pela habitação e contra as cargas policiais.",
-      "category": "Política"
-    },
-    {
-      "title": "Houve uma alteração climática há 9 milhões de anos",
-      "url": "https://observador.pt/2026/10/27/peninsula-iberica-registou-alteracao-climatica-ha-9-milhoes-de-anos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-27T06:53:12+00:00",
-      "summary": "Para a realização do estudo, os investigadores analisaram 141 amostras de esmalte dentário obtidas de onze dentes de fósseis de cavalos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lula não liga gasto público aos juros altos, avalia Samuel Pessôa",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/lula-nao-liga-gasto-publico-aos-juros-altos-avalia-samuel-pessoa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T06:45:04+00:00",
-      "summary": "Ao WW, Samuel Pessôa, pesquisador do BTG Pactual e do Ibre-FGV, afirma que mercado antecipou problemas ao perceber que Lula não associa gastos obrigatórios crescentes aos juros elevados no Brasil",
+      "publishedAt": "2026-10-27T13:30:05+00:00",
+      "summary": "Pode haver perturbações na circulação dos comboios entre quinta-feira e sábado devido à greve dos revisores e dos trabalhadores de bilheteiras, avisa a empresa.",
       "category": "Economia"
     },
     {
-      "title": "Choque eleitoral deve se acomodar, mas mercado cobra compromisso fiscal",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/choque-eleitoral-deve-se-acomodar-mas-mercado-cobra-compromisso-fiscal/",
-      "source": "CNN Brasil",
+      "title": "Mais de 300 pessoas não podem entrar em recintos desportivos",
+      "url": "https://observador.pt/2026/10/27/mais-de-300-pessoas-interditas-de-entrar-em-recintos-desportivos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:26:04+00:00",
+      "summary": "Uso de material pirotécnico é um dos principais motivos para interdições e condenações",
+      "category": "Mundo"
+    },
+    {
+      "title": "Chuvas atingem importantes áreas agrícolas nesta terça, prevê Inmet",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuvas-atingem-importantes-areas-agricolas-nesta-terca-preve-inmet",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-27T06:40:59+00:00",
-      "summary": "Bolsa e câmbio tiveram dia desfavorável após segundo turno, mas \"termômetro do medo\" esfriou: analistas buscam se voltar a fundamentos e noticiário",
+      "publishedAt": "2026-10-27T13:21:00+00:00",
+      "summary": "A presença de uma frente fria no litoral sul da Bahia favorece um canal de umidade sobre o país nesta terça-feira (27), propiciando a ocorrência de chuvas e trovoadas em importantes áreas agrícolas. Segundo o Instituto Nacional de Meteorologia (Inmet), as chuvas mais intensas podem atingir Rondônia, Mato Grosso, Tocant",
+      "category": "Clima"
+    },
+    {
+      "title": "Passageiros da Carris já superaram os 100 milhões este ano",
+      "url": "https://observador.pt/2026/10/27/numero-de-passageiros-da-carris-superou-os-100-milhoes-nos-primeiros-nove-meses-do-ano/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:18:45+00:00",
+      "summary": "O dia 14 de outubro foi, até ao momento, o de maior procura do ano, tendo viajado na Carris mais de 565 mil passageiros",
+      "category": "Mundo"
+    },
+    {
+      "title": "13h. Frente Comum convoca greve para dia 20 de novembro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2488/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-27T13:18:44+00:00",
+      "summary": "A decisão foi aprovada hoje, num plenário sindical em frente à AR. Ainda, O livre critica o PR por não ter reagido de forma \"imediata\" à atuação da polícia durante as manifestações pela habitação.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Petrobras inova na produção sustentável de combustível de aviação",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/petrobras-inova-na-producao-sustentavel-de-combustivel-de-aviacao",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-27T10:32:00+00:00",
+      "summary": "Um novo marco na produção de combustível sustentável de aviação (SAF) foi obtido pela Refinaria Duque de Caxias (Reduc) na primeira quinzena de outubro. Com a recertificação internacional do produto, a Petrobras obteve avanços que reduziram significativamente a intensidade de carbono SAF, reforçando os mais elevados pa",
       "category": "Economia"
     },
     {
-      "title": "Cerca de 90% das brasileiras não conhecem leis voltadas ao câncer de mama",
-      "url": "https://www.cnnbrasil.com.br/saude/cerca-de-90-das-brasileiras-nao-conhecem-leis-voltadas-ao-cancer-de-mama/",
-      "source": "CNN Brasil",
+      "title": "Um ano depois, mortes da Operação Contenção ainda são investigadas",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/um-ano-depois-mortes-da-operacao-contencao-ainda-sao-investigadas",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-27T06:37:32+00:00",
-      "summary": "Levantamento foi realizado com 2.094 mulheres de 18 anos ou mais e identificou problemas de conscientização relacionadas aos sintomas da doença, tratamento e acesso ao SUS",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Disputa entre Lula e Flávio continua no TSE mesmo após o fim das eleições",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/disputa-entre-lula-e-flavio-continua-no-tse-mesmo-apos-o-fim-das-eleicoes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T06:30:15+00:00",
-      "summary": "Ao menos 22 ações miram chapas e apuram abuso de poder; se houver eventual condenação, Lula, reeleito no domingo (25), pode ter o diploma cassado, enquanto Flávio fica sujeito a multa e inelegibilidade",
-      "category": "Política"
-    },
-    {
-      "title": "Urnas são abertas em Israel, e Netanyahu enfrenta disputa decisiva",
-      "url": "https://www.cnnbrasil.com.br/internacional/urnas-sao-abertas-em-israel-e-sobrevivencia-politica-de-netanyahu-esta-em-jogo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-27T06:23:59+00:00",
-      "summary": "Premiê enfrenta disputa acirrada após ataques do Hamas em 2023, guerras na região e críticas à condução da segurança nacional",
+      "publishedAt": "2026-10-27T10:05:00+00:00",
+      "summary": "Ainda era madrugada, em 28 de outubro de 2025, quando mais de 2,5 mil policiais civis e militares começaram a se preparar para uma operação nos complexos de favelas do Alemão e da Penha. Entre as milhares de incursões em comunidades realizadas no Rio de Janeiro nos últimos 40 anos, aquela seria a mais letal . O que se ",
       "category": "Mundo"
     },
     {
-      "title": "Israel detém egípcio após entrada irregular pelo sul do país",
-      "url": "https://www.cnnbrasil.com.br/internacional/israel-detem-egipcio-apos-entrada-irregular-pelo-sul-do-pais/",
-      "source": "CNN Brasil",
+      "title": "Gol nos acréscimos assegura Flamengo na liderança do Brasileirão",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/gol-nos-acrescimos-assegura-flamengo-na-lideranca-do-brasileirao",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-27T05:44:51+00:00",
-      "summary": "Homem atravessou cerca na fronteira perto de Nitzana e foi encaminhado às forças de segurança para interrogatório",
-      "category": "Mundo"
+      "publishedAt": "2026-10-27T09:45:00+00:00",
+      "summary": "A 32ª rodada do Campeonato Brasileiro chegou ao fim da forma que começou. A dramática vitória por 3 a 2 sobre o Atlético-MG na noite de segunda-feira (26), no Maracanã, manteve o Rubro-Negro na liderança da competição. Os cariocas foram a campo sob pressão. Além da necessidade de vencer, já que o vice-líder Palmeiras s",
+      "category": "Esportes"
     },
     {
       "title": "Mega-Sena não tem ganhador; prêmio acumula para R$ 305 milhões",
@@ -485,42 +521,6 @@
       "region": "Brasil",
       "publishedAt": "2026-10-26T22:07:00+00:00",
       "summary": "O mercado financeiro brasileiro teve um dia de forte turbulência nesta segunda-feira (26), após a reeleição do presidente Luiz Inácio Lula da Silva no segundo turno das eleições presidenciais. O dólar fechou em alta de 8,21%, a R$ 5,403. O Ibovespa, principal índice da Bolsa de Valores brasileira, recuou 13,88% e ating",
-      "category": "Política"
-    },
-    {
-      "title": "Lucas Pinheiro abre temporada com ouro em slalom gigante na Áustria",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/lucas-pinheiro-abre-temporada-com-ouro-em-slalom-gigante-na-austria",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T22:07:00+00:00",
-      "summary": "Primeiro campeão brasileiro em Olimpíadas de Inverno, o esquiador Lucas Pinheiro Braathen faturou o ouro na prova de slalom gigante masculino que abriu no último domingo (25) a temporada do circuito internacional de esqui alpino em Sölden (Áustria). Nascido na Noruega, filho de mãe brasileira, Lucas totalizou 1min44s72",
-      "category": "Clima"
-    },
-    {
-      "title": "Anvisa proíbe venda de picolé com melatonina e suplemento de proteína",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-venda-de-picole-com-melatonina-e-suplemento-de-proteina",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T21:40:00+00:00",
-      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) decidiu, nesta segunda (26), recolher e proibir a comercialização de dois produtos alimentícios, um picolé e um suplemento, por conterem ingredientes que não passaram por avaliação de segurança. O Picolé Bentô Gelatos Magnésio + Inositol Relief 3.0. , fabricado pela e",
-      "category": "Saúde"
-    },
-    {
-      "title": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/dengue-3-milhoes-de-adolescentes-estao-com-vacinacao-incompleta",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T21:34:00+00:00",
-      "summary": "Mais de 3 milhões de adolescentes que tomaram a primeira dose da vacina contra a dengue ainda precisam voltar aos postos de saúde para completar o esquema vacinal. Como a vacina é aplicada em duas doses, a proteção completa só é adquirida após a segunda, que deve ser tomada três meses depois da primeira . Notícias rela",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Líderes estrangeiros reconhecem vitória e parabenizam Lula",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lideres-estrangeiros-reconhecem-vitoria-e-parabenizam-lula",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-26T21:33:00+00:00",
-      "summary": "Políticos de várias partes do mundo continuam se manifestando, após a reeleição do presidente Luiz Inácio Lula da Silva, no último domingo (25). O presidente da França, Emmanuel Macron, usou as redes sociais para parabenizar o seu homólogo brasileiro. Notícias relacionadas: Imprensa internacional destaca vitória histór",
       "category": "Política"
     }
   ],
