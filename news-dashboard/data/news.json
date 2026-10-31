@@ -1,23 +1,383 @@
 {
-  "updatedAt": "2026-10-31T00:44:29.437253+00:00",
+  "updatedAt": "2026-10-31T06:57:14.673890+00:00",
   "items": [
     {
-      "title": "Com expectativa de receber 1,7 milhão de turistas, Campos do Jordão inaugura decoração de Natal; veja",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/30/com-expectativa-de-receber-17-milhao-de-turistas-campos-do-jordao-inaugura-decoracao-de-natal-veja.ghtml",
-      "source": "G1",
+      "title": "Placas magnéticas automontáveis ​​poderão construir moradias espaciais do futuro",
+      "url": "https://www.cnnbrasil.com.br/ciencia/placas-magneticas-automontaveis-poderao-construir-os-habitats-espaciais-do-futuro/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-10-31T00:32:43+00:00",
-      "summary": "Veja o momento em que a decoração de Natal de Campos do Jordão é iluminada Campos do Jordão, na Serra da Mantiqueira, inaugurou a decoração de Natal nesta sexta-feira (30). As luzes e os enfeites estão espalhados por diferentes pontos da cidade, que já entrou no clima das festas de fim de ano. A abertura oficial aconte",
-      "category": "Clima"
+      "publishedAt": "2026-10-31T06:37:52+00:00",
+      "summary": "Empresa Rendezvous Robotics planeja implantar placas expansíveis na órbita terrestre para apoiar grandes infraestruturas",
+      "category": "Economia"
     },
     {
-      "title": "Itamaraty convoca encarregada de negócios da Argentina no Brasil a prestar explicações sobre a fuga de Flávio Bolsonaro",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/itamaraty-convoca-encarregada-de-negocios-da-argentina-no-brasil-a-prestar-explicacoes-sobre-a-fuga-de-flavio-bolsonaro.ghtml",
+      "title": "Usar suplementos sem orientação pode colocar a saúde em risco? Entenda",
+      "url": "https://www.cnnbrasil.com.br/saude/usar-suplementos-sem-orientacao-pode-colocar-a-saude-em-risco-entenda/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:37:13+00:00",
+      "summary": "Nutricionista alerta que ingestão inadequada de produtos como whey protein e multivitamínicos pode causar complicações no organismo",
+      "category": "Saúde"
+    },
+    {
+      "title": "Atividades físicas ajudam na prevenção contra o câncer de mama",
+      "url": "https://www.cnnbrasil.com.br/saude/atividades-fisicas-ajudam-na-prevencao-contra-o-cancer-de-mama/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:33:59+00:00",
+      "summary": "Prática é amplamente recomendada pelo Ministério da Saúde para auxiliar contra vários tipos de tumores; especialistas explicam efeitos",
+      "category": "Saúde"
+    },
+    {
+      "title": "Acidente com avião da TAM que deixou 99 mortos completa 30 anos",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/acidente-com-aviao-da-tam-que-deixou-99-mortos-completa-30-anos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:33:42+00:00",
+      "summary": "Entre as vítimas, 95 pessoas estavam a bordo na aeronave, sendo 89 passageiros e seis tripulantes; outras quatro estavam em solo e também foram vítimas da queda do avião",
+      "category": "Mundo"
+    },
+    {
+      "title": "Presidente polonês acusa governo de violar ordem após “tentativa de golpe”",
+      "url": "https://www.cnnbrasil.com.br/internacional/presidente-da-polonia-acusa-governo-de-violar-ordem-apos-tentativa-de-golpe/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:33:38+00:00",
+      "summary": "Karol Nawrocki convoca reunião de emergência com forças parlamentares após ação do governo no Tribunal Constitucional",
+      "category": "Política"
+    },
+    {
+      "title": "Agenda de Lula 4 esbarra em limites políticos e fiscais, diz especialista",
+      "url": "https://www.cnnbrasil.com.br/politica/agenda-de-lula-4-esbarra-em-limites-politicos-e-fiscais-diz-especialista/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:33:26+00:00",
+      "summary": "Ao WW, Mariana Castro Gill, sócia-diretora da Vector, aponta que governo enfrenta restrições no Congresso e no orçamento para implementar suas propostas",
+      "category": "Política"
+    },
+    {
+      "title": "Master: Fachin trava ao menos 6 pedidos de revisão de prisões preventivas",
+      "url": "https://www.cnnbrasil.com.br/politica/master-fachin-trava-ao-menos-6-pedidos-de-revisao-de-prisoes-preventivas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:30:49+00:00",
+      "summary": "Presidente do STF devolveu o caso do INSS a André Mendonça, mas manteve o processo do Master sob seu gabinete pela necessidade de esclarecer referências a ministros do STF",
+      "category": "Política"
+    },
+    {
+      "title": "6h Sporting vence Casa Pia por 2-0",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-sporting-vence-casa-pia-por-2-0_a1_1775799",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T06:30:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "PL deve apoiar reeleição de Hugo na Câmara e insistirá em aliado no Senado",
+      "url": "https://www.cnnbrasil.com.br/politica/pl-deve-apoiar-reeleicao-de-hugo-na-camara-e-insistira-em-aliado-no-senado/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:15:02+00:00",
+      "summary": "Senador Flávio Bolsonaro anunciou Rogério Marinho como candidato do partido ao comando da Casa; atual presidente do Congresso, Davi Alcolumbre, busca apoio para permanecer no cargo",
+      "category": "Política"
+    },
+    {
+      "title": "6h. Ventura vai hoje a votos para presidência do Chega",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2538/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T06:14:20+00:00",
+      "summary": "As eleições ocorrem durante a 1ª convenção do Chega desde que o partido subiu a 2ª maior força no parlamento. Ainda, os protestos pela habitação continuam hoje com manifestações em Lisboa e no Porto.",
+      "category": "Política"
+    },
+    {
+      "title": "Canções que descobrimos em outubro",
+      "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-que-descobrimos-em-outubro-3/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T06:05:04+00:00",
+      "summary": "O que não nos saiu dos auscultadores este mês? Juntámos o regresso dos Mesa, a fusão de Fontaines DC com Rosalía e os sons de Greg Freeman, Sensible Soccers e Olivia Rodrigo num guia essencial.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Vitória de Lula, fuga de Bolsonaro e os EUA sem quintal",
+      "url": "https://observador.pt/programas/5-continentes/vitoria-de-lula-fuga-de-bolsonaro-e-os-eua-sem-quintal/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T06:05:00+00:00",
+      "summary": "As eleições históricas no Brasil e em Israel, guerras que se prolongam sem fim à vista, um trágico acidente de comboio com implicações políticas e até o conflito diplomático entre a China e Mbappé.",
+      "category": "Política"
+    },
+    {
+      "title": "Corrida à IA ainda não compensa e já tem uma fatura pesada",
+      "url": "https://observador.pt/programas/m-quinas-que-pensam/corrida-a-ia-ainda-nao-compensa-e-ja-tem-uma-fatura-pesada/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T06:03:15+00:00",
+      "summary": "O investimento na IA está a pesar sobre a Google. A tecnológica perdeu 12,6% em bolsa, num dia, e os investidores questionam quando chegarão os retornos. Mas este não é um caso único no mundo da IA.",
+      "category": "Economia"
+    },
+    {
+      "title": "Barcelona x Alavés: horário e onde assistir ao jogo de La Liga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/barcelona-x-alaves-horario-e-onde-assistir-ao-jogo-de-la-liga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:54+00:00",
+      "summary": "Equipes se enfrentam neste sábado (31), às 17h (de Brasília), pela 11ª rodada do Campeonato Espanhol",
+      "category": "Esportes"
+    },
+    {
+      "title": "De crimes misteriosos a suspeitos de serial killers: relembre assassinatos que marcaram Manaus",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/31/de-crimes-misteriosos-a-suspeitos-de-serial-killers-relembre-assassinatos-que-marcaram-manaus.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-10-31T00:30:36+00:00",
-      "summary": "Democratas cobram explicação do foverno americano sobre fuga de Flávio Bolsonaro O Itamaraty convocou a encarregada de negócios da Argentina no Brasil a prestar explicações sobre a fuga do candidato derrotado à Presidência Flávio Bolsonaro e a passagem dele pelo país. Nos Estados Unidos, parlamentares do Partido Democr",
+      "publishedAt": "2026-10-31T06:00:01+00:00",
+      "summary": "Crimes macabros marcaram a história de Manaus. Reprodução/Adobe Stock O Halloween, celebrado em 31 de outubro, é marcado por histórias de terror, mistério e crimes que despertam a curiosidade do público. No Amazonas, episódios reais de violência também fazem parte da história da região, com investigações sobre assassin",
+      "category": "Cultura"
+    },
+    {
+      "title": "Quem é o primeiro suplente de cada partido no RS? Saiba como e quando pode assumir cadeira",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/31/quem-e-o-primeiro-suplente-de-cada-partido-no-rs-saiba-como-e-quando-pode-assumir-cadeira.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Assembleia Legislativa do RS e Câmara dos Deputados Marcelo Oliveira/ALRS e Kayo Magalhães/Câmara dos Deputados No 1º turno das eleições, os gaúchos decidiram nas urnas quem são os parlamentares que os representarão na Assembleia Legislativa e na Câmara Federal na legislatura 2027-2030. Foram eleitos 55 deputados estad",
       "category": "Política"
+    },
+    {
+      "title": "'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/31/slopaganda-como-a-ia-virou-arma-eleitoral-nos-eua-e-movimentou-mais-de-us-137-milhoes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Protestos do movimento No Kings pedem que eleitores votem em antecipado nas eleições de meio de mandato nos EUA Jose Luis Magana/AP Com a aproximação das eleições de meio de mandato nos Estados Unidos, marcadas para 3 de novembro, a inteligência artificial ganha cada vez mais espaço na propaganda eleitoral. Ao mesmo te",
+      "category": "Política"
+    },
+    {
+      "title": "Emicida aconselha novos MCs a evitar uso de IA e 'treinar freestyle na rua'",
+      "url": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/10/31/emicida-aconselha-novos-mcs-a-evitar-uso-de-ia-e-treinar-freestyle-na-rua.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Emicida dá conselho a novos MCs: 'Abandone o ChatGPT e vai viver a batalha na rua O rapper Emicida aconselhou os novos MCs que fazem rap de improviso a \"abandonarem o ChatGPT e viverem a batalha na calçada\". Segundo ele, o freestyle deve se comunicar com as comunidades e não apenas representar uma vitória individual pa",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Da cana ao petróleo: como indústria de Pernambuco se transformou e o que falta para setor crescer",
+      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/31/como-industria-de-pernambuco-se-transformou.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Pesquisador fala sobre queda de participação da indústria na economia de Pernambuco \"Motor\" que impulsionou o desenvolvimento econômico de Pernambuco desde a época colonial, o cultivo da cana-de-açúcar teve que se modernizar e transformou as paisagens dos antigos engenhos em usinas. Com o passar dos séculos, a indústri",
+      "category": "Economia"
+    },
+    {
+      "title": "Delírio de grandeza: o que acontece no cérebro de quem acredita ter poderes ou uma missão extraordinária?",
+      "url": "https://g1.globo.com/saude/saude-mental/noticia/2026/10/31/delirio-de-grandeza-o-que-acontece-no-cerebro-de-quem-acredita-ter-poderes-ou-uma-missao-extraordinaria.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Neurônios aparecem em imagem ampliada do cérebro de um camundongo. Kaelin Wulf e Rachel Flannery/Nikon Small World Uma pessoa trabalha, paga as contas, comenta o noticiário com lógica e raciocina bem sobre praticamente tudo. Num único assunto, porém, não admite dúvida: está convencida de que foi escolhida para uma miss",
+      "category": "Mundo"
+    },
+    {
+      "title": "Estudantes sofrem bullying, intimidações e ofensas por divergências políticas; MEC solicita que PF investigue ameaças",
+      "url": "https://g1.globo.com/educacao/noticia/2026/10/31/estudantes-sofrem-bullying-intimidacoes-e-ofensas-por-divergencias-politicas-mec-solicita-que-pf-investigue-ameacas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Estudantes sofrem bullying, ameaças e ofensas por divergências políticas e MEC solicita que PF investigue ameaças redes sociais Casos de bullying, ameaças e ofensas motivadas por divergências políticas foram registrados após manifestações estudantis realizadas depois do primeiro turno e também em escolas brasileiras ap",
+      "category": "Mundo"
+    },
+    {
+      "title": "De R$ 380 a R$ 18 mil: Artesãos começam a produzir presépios até 10 meses antes do Natal em Teresina",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/31/artesaos-presepios-teresina.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Artesãos se dedicam a criação de presépios até 10 meses antes do Natal Há mais de 10 anos, o casal de artesãos Rafael Pereira e Lígia Pimentel mantém uma produção de sucesso no Polo Cerâmico do Poti Velho, na Zona Norte de Teresina: presépios que representam o nascimento de Jesus. Em 2026, as peças variam de 30 centíme",
+      "category": "Cultura"
+    },
+    {
+      "title": "Áreas de vegetação nativa diminuíram e estão mais isoladas no Paraná, aponta levantamento",
+      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/31/areas-de-vegetacao-nativa-diminuiram-e-estao-mais-isoladas-no-parana-aponta-levantamento.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Áreas de mata nativa ficam menores e mais isoladas no Paraná As áreas de vegetação nativa do Paraná ficaram menores e mais isoladas nas últimas décadas. Em 2024, o estado tinha 251.756 fragmentos, número 6,96% maior do que o registrado em 1986, quando eram 235.371, segundo dados do MapBiomas. No mesmo período, a área m",
+      "category": "Mundo"
+    },
+    {
+      "title": "Carga de 13 toneladas, avião da Embraer e simulação no interior de SP: como o Brasil prepara transporte de novo satélite",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/31/carga-de-13-toneladas-aviao-da-embraer-e-simulacao-no-interior-de-sp-como-o-brasil-prepara-transporte-de-novo-satelite.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Carga de 13ton e simulação no interior de SP: como o Brasil prepara transporte de satélite Uma carga de aproximadamente 13 toneladas, um avião fabricado no Brasil e uma operação que exige planejamento. Esses são alguns dos elementos envolvidos na preparação para o lançamento do Amazônia 1B, satélite desenvolvido pelo I",
+      "category": "Mundo"
+    },
+    {
+      "title": "Vale-refeição e alimentação: novas regras começam a valer amanhã; veja perguntas e respostas",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/31/vale-refeicao-e-alimentacao-novas-regras-comecam-a-valer-amanha-veja-perguntas-e-respostas.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Novas regras do vale‑refeição e alimentação: o que muda nos cartões a partir de novembro As novas regras do vale-refeição (VR) e do vale-alimentação (VA) entram em sua etapa final em novembro e prometem facilitar o uso dos cartões. A partir deste domingo (1º), passa a valer integralmente a chamada interoperabilidade, q",
+      "category": "Mundo"
+    },
+    {
+      "title": "'Disseram que sou obesa': como a volta da magreza extrema nas redes acompanha alta de 71% nos casos de anorexia e bulimia",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/31/disseram-que-sou-obesa-como-a-volta-da-magreza-extrema-nas-redes-acompanha-alta-de-71percent-nos-casos-de-anorexia-e-bulimia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "summary": "Nutricionista é chamada de obesa ao dizer que veste 40 Carol Alves, de 36 anos, tem exames de rotina normais, peso e percentual de gordura saudáveis e uma rotina de exercícios. Veste 40. Para parte das mulheres que viram um vídeo seu sobre o tema, isso bastou para classificá-la como gorda. Alguns comentários chegaram a",
+      "category": "Cultura"
+    },
+    {
+      "title": "5h Hoje assinala-se o Dia Mundial da Poupança",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-hoje-assinala-se-o-dia-mundial-da-poupanca_a1_1775796",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T05:43:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "4h Flávio Bolsonaro justifica fuga com \"perseguição\"",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-flavio-bolsonaro-justifica-fuga-com-perseguicao_a1_1775795",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T05:43:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "3h PSP afinal permite drones da comunicação social nos protestos",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-psp-afinal-permite-drones-da-comunicacao-social-nos-protestos_a1_1775794",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T05:43:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h Protestos pela habitação regressam às ruas",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-protestos-pela-habitacao-regressam-as-ruas_a1_1775793",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T05:43:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Portugal precisa de acordos ou de novas eleições?",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/portugal-precisa-de-acordos-ou-de-novas-eleicoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T05:02:51+00:00",
+      "summary": "Seguro insiste no diálogo entre os partidos e teme que novas eleições agravem o bloqueio político. Neste episódio falamos sobre o que preocupa o Presidente e até onde pode ele ir.",
+      "category": "Política"
+    },
+    {
+      "title": "Bayern de Munique x Borussia Dortmund: horário e onde assistir à Bundesliga",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/bayern-de-munique-x-borussia-dortmund-horario-e-onde-assistir-a-bundesliga/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T05:00:41+00:00",
+      "summary": "Equipes se enfrentam neste sábado (31), às 14h30 (de Brasília), pela 8ª rodada do Campeonato Alemão",
+      "category": "Esportes"
+    },
+    {
+      "title": "4h. Acampada. Cidadãos querem prevenção da tortura acionada",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2447/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T04:16:28+00:00",
+      "summary": "Em comunicado, seis cidadãos pedem ao Mecanismo Nacional de Prevenção que visite as esquadras para onde venham a ser conduzidos detidos. Ainda, o governo vai lançar mais PPP na saúde.",
+      "category": "Política"
+    },
+    {
+      "title": "Presidente da Polônia interrompe viagem após premiê ser acusado de “golpe”",
+      "url": "https://www.cnnbrasil.com.br/internacional/presidente-da-polonia-interrompe-viagem-apos-premie-ser-acusado-de-golpe/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T03:43:32+00:00",
+      "summary": "Decisão intensifica disputa entre governo pró-europeu e presidente nacionalista pelo controle do Judiciário",
+      "category": "Política"
+    },
+    {
+      "title": "3h. Ministra da Saúde diz que privados não foram regulados",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2483/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T03:16:36+00:00",
+      "summary": "Com a mira nos governos PS, Ana Paula Martins diz que \"os privados abriram clínicas e hospitais onde quiseram\". Ainda, o Sporting venceu o Casa Pia por 2-0, na 10ª jornada da Liga Portugal.",
+      "category": "Política"
+    },
+    {
+      "title": "Marinha inaugura novo navio para proteção de plataformas de petróleo e gás",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/marinha-inaugura-novo-navio-para-protecao-de-plataformas-de-petroleo-e-gas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-10-31T03:00:45+00:00",
+      "summary": "Embarcação construída no Rio de Janeiro também vai atuar em missões de busca e salvamento e apoio à população em áreas isoladas do território brasileiro",
+      "category": "Mundo"
+    },
+    {
+      "title": "1h Visitas sem aviso às esquadras, um grupo de seis pessoas pede ação preventiva da Provedoria Justiça",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-visitas-sem-aviso-as-esquadras-um-grupo-de-seis-pessoas-pede-acao-preventiva-da-provedoria-justica_a1_1775787",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T02:52:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "2h. 0E2027. Governo rejeita cortes na prevenção na saúde",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2456/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T02:16:15+00:00",
+      "summary": "A secretária de Estado da Saúde aponta um aumento de 23,6% no orçamento da Direção-Geral da Saúde, excluindo vacinas covid-19. Ainda, no Porto e em Lisboa não há Acampadas esta madrugada.",
+      "category": "Política"
+    },
+    {
+      "title": "A maratona para definir novas regras da \"Acampada de Lisboa\"",
+      "url": "https://observador.pt/2026/10/31/assembleia-com-poder-deliberativo-novos-horarios-e-a-tenda-para-manter-anonimato-a-maratona-de-votacoes-no-rossio-sem-tendas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T01:20:30+00:00",
+      "summary": "Na véspera de mais uma manifestação, não se dormiu no Rossio. Foi dia de votações sobre o futuro da \"Acampada de Lisboa\". Há novos horários e um plenário de delegados para questões sensíveis.",
+      "category": "Mundo"
+    },
+    {
+      "title": "1h. Governo vai lançar \"mais uma vaga\" de PPP na saúde",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2432/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T01:16:48+00:00",
+      "summary": "A ministra Ana Paula Martins adianta que pretende tornar esses processos mais rápidos, no âmbito da reforma do Estado. Ainda, no futebol, o Sporting venceu o Casa Pia por 2-0.",
+      "category": "Política"
+    },
+    {
+      "title": "Cidadãos pedem intervenção urgente de mecanismo de prevenção da tortura",
+      "url": "https://www.rtp.pt/noticias/pais/cidadaos-pedem-intervencao-urgente-de-mecanismo-de-prevencao-da-tortura_n1775783",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T01:02:50+00:00",
+      "summary": "Um grupo de cidadãos requereu hoje à Provedora de Justiça que intervenha, na qualidade de Mecanismo Nacional de Prevenção da tortura e dos maus-tratos (NMP), e visite sem aviso as esquadras para onde sejam levados detidos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "O que se sabe sobre o colapso de Kompany uma semana depois",
+      "url": "https://observador.pt/2026/10/31/dormia-pouco-bebia-muito-cafe-nao-fazia-exercicio-viu-detetado-o-problema-o-que-se-sabe-sobre-o-colapso-de-kompany/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-10-31T00:59:13+00:00",
+      "summary": "Vincent Kompany sagrou-se bicampeão alemão nas duas primeiras temporadas no comando do Bayern, onde já ganhou cinco títulos",
+      "category": "Clima"
     },
     {
       "title": "Escravatura. Burnham admite pedido de desculpas formal",
@@ -29,51 +389,6 @@
       "category": "Política"
     },
     {
-      "title": "Polícia ordena retirada de \"tenda\" de brincar para crianças",
-      "url": "https://observador.pt/2026/10/31/policia-ordena-retirada-de-tenda-de-brincar-para-criancas-no-rossio/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:26:40+00:00",
-      "summary": "Poucos minutos após as 18h, a PSP referiu que a \"tendinha de brincar para crianças”, como descreveram os manifestantes, era ilegal e deveria ser retirada. Obedeceram, mas denunciaram o caso online.",
-      "category": "Mundo"
-    },
-    {
-      "title": "El Niño pode agravar fome de 1,84 milhões de moçambicanos",
-      "url": "https://observador.pt/2026/10/31/seca-do-el-nino-pode-agravar-fome-de-184-milhoes-de-mocambicanos-diz-ong/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:26:05+00:00",
-      "summary": "A mesma projeção indica que mais de 103.600 crianças menores de cinco anos poderão sofrer de desnutrição aguda, assim como mais de 11.100 mulheres grávidas ou lactantes",
-      "category": "Mundo"
-    },
-    {
-      "title": "Retrospetiva de Miguel Gomes abre em Serralves",
-      "url": "https://observador.pt/2026/10/31/exposicao-retrospetiva-de-miguel-gomes-inaugura-em-serralves-com-documentos-do-novo-filme-cantiga/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:25:26+00:00",
-      "summary": "A exposição que é inaugurada esta sexta-feira na Casa do Cinema Manoel Oliveira é uma retrospetiva integral do percurso do realizador português",
-      "category": "Cultura"
-    },
-    {
-      "title": "Da “democracia” no Brasil",
-      "url": "https://observador.pt/opiniao/da-democracia-no-brasil/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:25:25+00:00",
-      "summary": "A nossa esquerda excita-se com o Brasil actual, à semelhança das épocas em que se entusiasmou com Cuba, o maoismo, o Bloco de Leste, as “experiências” africanas ou a Venezuela.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Angola. Associações pedem inquérito ao registo eleitoral",
-      "url": "https://observador.pt/2026/10/31/associacoes-civicas-pedem-inquerito-judicial-ao-registo-eleitoral-em-angola/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:24:21+00:00",
-      "summary": "Pedem também a realização de uma auditoria independente à Base de Dados de Cidadãos Maiores e ao respetivo Ficheiro Informático de Cidadãos Maiores para aferir a sua integridade, fiabilidade e conformidade legal",
-      "category": "Esportes"
-    },
-    {
       "title": "Governo pretende avançar com \"mais uma vaga de PPP\" na saúde",
       "url": "https://www.rtp.pt/noticias/politica/governo-pretende-avancar-com-mais-uma-vaga-de-ppp-na-saude_n1775778",
       "source": "RTP Notícias",
@@ -83,39 +398,12 @@
       "category": "Política"
     },
     {
-      "title": "CR da Lusa pede parecer urgente à ERC sobre nova diretora",
-      "url": "https://observador.pt/2026/10/31/conselho-de-redacao-da-lusa-pede-a-regulador-parecer-urgente-sobre-nomeacao-de-nova-diretora/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:23:33+00:00",
-      "summary": "Em comunicado, os membros eleitos do CR detalham que pediram à ERC que se pronunciasse sobre dois pontos",
-      "category": "Mundo"
-    },
-    {
-      "title": "Acções de deformação de professores",
-      "url": "https://observador.pt/opiniao/accoes-de-deformacao-de-professores/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:23:13+00:00",
-      "summary": "Um encadeado de asneiras, cegueiras e aldrabices a que a actual e prestimosa direcção da Fundação Calouste Gulbenkian continua a dar palco e voz.",
-      "category": "Mundo"
-    },
-    {
       "title": "UE aponta falta de abertura negocial a Lavrov que reitera condições",
       "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/ue-aponta-falta-de-abertura-negocial-a-lavrov-que-reitera-condicoes_n1775781",
       "source": "RTP Notícias",
       "region": "Portugal",
       "publishedAt": "2026-10-31T00:22:37+00:00",
       "summary": "A chefe da diplomacia europeia, Kaja Kallas, afirmou hoje que o ministro dos Negócios Estrangeiros russo não sinalizou qualquer abertura negocial sobre a Ucrânia na reunião do G20, enquanto Serguei Lavrov reiterou condições a Kiev.",
-      "category": "Política"
-    },
-    {
-      "title": "Leão XIV se torna o primeiro papa em exercício a votar em uma eleição nacional",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/leao-xiv-se-torna-o-primeiro-papa-em-exercicio-a-votar-em-uma-eleicao-nacional.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:22:35+00:00",
-      "summary": "Leão XIV vota nas eleições americanas Leão XIV se tornou o primeiro papa em exercício a votar em uma eleição nacional. Ele registrou o voto nas eleições legislativas americanas. Leão XIV enviou sua cédula pelo correio para Chicago, nos Estados Unidos, onde os eleitores vão às urnas na terça-feira (3) para renovar o Con",
       "category": "Política"
     },
     {
@@ -128,24 +416,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Cessar-fogo em cidade no sul da Ucrânia permite que centenas de pessoas escapem da linha de frente da guerra",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/cessar-fogo-em-cidade-no-sul-da-ucrania-permite-que-centenas-de-pessoas-escapem-da-linha-de-frente-da-guerra.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:17:33+00:00",
-      "summary": "Centenas de pessoas conseguiram escapar da linha de frente da guerra na Ucrânia por meio de um cessar-fogo em uma cidade no sul do país. Por quatro horas, as estradas ficaram abertas, com segurança, para retirar os moradores de Oleshky. A manobra foi possível por causa da trégua humanitária de seis dias, mediada pelo P",
-      "category": "Mundo"
-    },
-    {
-      "title": "As notícias das 00h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2461/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:16:48+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
       "title": "Wall Street fecha em forte baixa arrastada pelos conglomerados tecnológicos",
       "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-em-forte-baixa-arrastada-pelos-conglomerados-tecnologicos_n1775777",
       "source": "RTP Notícias",
@@ -153,24 +423,6 @@
       "publishedAt": "2026-10-31T00:16:39+00:00",
       "summary": "A bolsa nova-iorquina encerrou hoje em forte baixa, arrastada pelos valores tecnológicos, depois de conhecidos os resultados de Amazon e Intel, com os investidores a interrogarem-se, mais uma vez sobre a rentabilidade da inteligência artificial (IA).",
       "category": "Economia"
-    },
-    {
-      "title": "Hackers invadem a maior corretora de criptomoedas do mundo e roubam mais de US$ 6 bilhões em 20 minutos",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/hackers-invadem-a-maior-corretora-de-criptomoedas-do-mundo-e-roubam-mais-de-us-6-bilhoes-em-20-minutos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:12:58+00:00",
-      "summary": "Hackers invadiram a maior corretora do setor de criptomoedas, a Binance, e roubaram mais de US$ 6 bilhões. Foram necessários somente 20 minutos para executar o maior roubo da história das criptomoedas: US$ 6,3 bilhões - o equivalente a R$ 34 bilhões. A título de comparação: no caso que é considerado um dos maiores roub",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mauro Vieira e Rubio acertam encontro antes de cúpula do G20 em dezembro",
-      "url": "https://www.cnnbrasil.com.br/internacional/mauro-vieira-e-rubio-acertam-encontro-antes-de-cupula-do-g20-em-dezembro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:12:47+00:00",
-      "summary": "Chanceler brasileiro e secretário de estado americano participam de reunião do G20 em Atlanta",
-      "category": "Mundo"
     },
     {
       "title": "Conselho de Redação da Lusa pede a regulador parecer urgente sobre nomeação de nova diretora",
@@ -182,240 +434,6 @@
       "category": "Mundo"
     },
     {
-      "title": "Fazenda de 101 hectares vai a leilão em MT com lance inicial de R$ 10,5 milhões",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/30/fazenda-de-101-hectares-vai-a-leilao-em-mt-com-lance-inicial-de-r-105-milhoes.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:10:54+00:00",
-      "summary": "Fazenda Belo Horizonte - Primavera do Leste - MT Reprodução Uma fazenda de 101 hectares, será leiloada por valores a partir de R$ 3 milhões localizada em Primavera do Leste, a 239 km de Cuiabá. A propriedade, chamada Fazenda Belo Horizonte, terá a primeira etapa do leilão nesta sexta-feira (30), com lance mínimo de R$ ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Exames: Fenprof diz que rankings estigmatizam escolas",
-      "url": "https://observador.pt/2026/10/31/fenprof-critica-rankings-das-escolas-estigmatizam-escolas-publicas-e-desprestigiam-professores/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:10:44+00:00",
-      "summary": "A Fenprof reiterou que, à semelhança de anteriores edições, \"a intenção não é mais do que reforçar o preconceito ideológico de que o privado é bom e o público é mau\"",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cuello evolui em recuperação e pode reforçar o Atlético-MG contra o Grêmio",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/cuello-evolui-em-recuperacao-e-pode-reforcar-o-atletico-mg-contra-o-gremio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:08:44+00:00",
-      "summary": "Galo visita o Tricolor Gaúcho no próximo domingo (1º), às 18h30 (de Brasília), pelo jogo de ida da semifinal da Copa do Brasil, na Arena do Grêmio, em Porto Alegre",
-      "category": "Esportes"
-    },
-    {
-      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição de sexta-feira, 30 de outubro de 2026",
-      "url": "https://g1.globo.com/go/goias/edicao/2026/10/30/videos-jornal-anhanguera-2-edicao-de-sexta-feira-30-de-outubro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:07:07+00:00",
-      "summary": "Assista agora os vídeos do Jornal Anhanguera 2ª Edição",
-      "category": "Mundo"
-    },
-    {
-      "title": "Britânico passa por cirurgia de 16 horas em Londres e descobre que médicos deixaram parte de seu crânio cair no chão da sala de operação",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/britanico-passa-por-cirurgia-de-16-horas-em-londres-e-descobre-que-medicos-deixaram-parte-de-seu-cranio-cair-no-chao-da-sala-de-operacao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:06:49+00:00",
-      "summary": "Tom Park-Paul sobreviveu à remoção de uma malformação no cérebro no King's College Hospital após ter fragmento ósseo limpo e recolocado pela equipe",
-      "category": "Saúde"
-    },
-    {
-      "title": "Ninguém é responsável pela minha saída do Brasil, diz Flávio",
-      "url": "https://www.cnnbrasil.com.br/politica/ninguem-e-responsavel-pela-minha-saida-do-brasil-diz-flavio/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:06:46+00:00",
-      "summary": "O senador Flávio Bolsonaro (PL) disse, nesta sexta-feira (30), que ninguém é responsável pela sua saída do Brasil para os Estados Unidos. Em atualização",
-      "category": "Política"
-    },
-    {
-      "title": "Mega-Sena, concurso 3079: confira os números sorteados",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/30/mega-sena-concurso-3079-confira-os-numeros-sorteados.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:05:24+00:00",
-      "summary": "Como funciona a Mega-Sena? O sorteio do concurso 3.079 da Mega-Sena foi realizado na noite desta sexta-feira (30), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 5 milhões. O sorteio fez parte da Mega semana, que terá cinco sorteios consecutivos até está sexta-feira (30). 📱Favorite o g1 no",
-      "category": "Cultura"
-    },
-    {
-      "title": "Primeiro dia da Oktoberfest Manaus tem música, cervejas e gastronomia alemã",
-      "url": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/10/30/primeiro-dia-da-oktoberfest-manaus-tem-musica-cervejas-e-gastronomia-alema.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:05:09+00:00",
-      "summary": "Oktoberfest Manaus une cultura alemã, sabores amazônicos e música A Oktoberfest Manaus começou, nesta sexta-feira (30), com uma programação de música, gastronomia e cultura alemã. O evento abriu os portões às 17h no Studio 5 Centro de Convenções e, neste primeiro dia, segue até às 2h. Na Oktoberfest, o público encontra",
-      "category": "Cultura"
-    },
-    {
-      "title": "A cada hora, 5 motoristas são flagrados usando telefone enquanto dirigem nas rodovias federais, diz PRF",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/a-cada-hora-5-motoristas-sao-flagrados-usando-telefone-enquanto-dirigem-nas-rodovias-federais-diz-prf.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:04:35+00:00",
-      "summary": "Celular ao volante entra na mira da PRF no feriado de Finados A Polícia Rodoviária Federal reforçou a fiscalização neste feriado prolongado, e o uso do celular ao volante está entre os principais alvos da operação. A ação começou nesta sexta-feira (30) e vai até o fim do feriado de Finados. A Polícia Rodoviária Federal",
-      "category": "Mundo"
-    },
-    {
-      "title": "Professores temporários já representam 58% do total de profissionais em SP",
-      "url": "https://www.cnnbrasil.com.br/educacao/professores-temporarios-ja-representam-58-do-total-de-profissionais-em-sp/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:03:48+00:00",
-      "summary": "Dados apontam que o número de profissionais sem vínculo efetivo mais que triplicou desde 2018, e mais de 169 mil desligamentos foram contabilizados na rede estadual",
-      "category": "Esportes"
-    },
-    {
-      "title": "Suspeito de matar e esquartejar homem é preso em Palmas",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/30/suspeito-de-matar-e-esquartejar-homem-e-preso-em-palmas.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:02:57+00:00",
-      "summary": "Polícia encontra corpo esquartejado em saco de lixo e prende suspeito em Palmas Um homem de 34 anos foi preso nesta sexta-feira (30), suspeito de assassinar e esquartejar Fernando Rodrigues da Silva, na região sul de Palmas. As partes do corpo foram encontradas após uma denúncia anônima informar que um pé havia sido lo",
-      "category": "Cultura"
-    },
-    {
-      "title": "Flávio diz que indicará Rogério Marinho para presidência do Senado",
-      "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-que-indicara-rogerio-marinho-para-presidencia-do-senado/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:02:50+00:00",
-      "summary": "O senador Flávio Bolsonaro (PL) disse, nesta sexta-feira (30), que indicará o líder da Oposição no Senado, Rogério Marinho (PL-RN), à presidência da Casa Legislativa. Em atualização",
-      "category": "Política"
-    },
-    {
-      "title": "Após uma década a crescer, capacidade de poupança das famílias começa a diminuir",
-      "url": "https://www.rtp.pt/noticias/economia/apos-uma-decada-a-crescer-capacidade-de-poupanca-das-familias-comeca-a-diminuir_n1775730",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-31T00:01:03+00:00",
-      "summary": "A habitação, os transportes e a alimentação têm tido um impacto cada vez maior no orçamento das famílias.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Fã de Poltergeist compra a casa que serviu de cenário para o filme e abre o imóvel para hospedagem de admiradores da obra",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/fa-de-poltergeist-compra-a-casa-que-serviu-de-cenario-para-o-filme-e-abre-o-imovel-para-hospedagem-de-admiradores-da-obra/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-31T00:00:12+00:00",
-      "summary": "Após adquirir a famosa residência em Simi Valley, na Califórnia, Rachel Powers passou a alugar o local para hóspedes que desejam vivenciar o clima do clássico de terror dos anos 80",
-      "category": "Clima"
-    },
-    {
-      "title": "Corinthians x Mirassol: veja a expulsão de Bruno Santos no início do jogo",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-x-mirassol-veja-a-expulsao-de-bruno-santos-no-inicio-do-jogo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-30T23:58:20+00:00",
-      "summary": "Atacante do Mirassol recebeu o cartão vermelho no primeiro tempo da partida desta sexta-feira (30), na Neo Química Arena, em Itaquera",
-      "category": "Esportes"
-    },
-    {
-      "title": "Homem que matou motorista de aplicativo é condenado a mais de 17 anos de prisão",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/homem-que-matou-motorista-de-aplicativo-e-condenado-a-mais-de-17-anos-de-prisao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-10-30T23:58:19+00:00",
-      "summary": "Justiça de SP condena homem que matou motorista de aplicativo a 17 anos 1 mês de prisão Em São Paulo, o Tribunal do Júri condenou a 17 anos de prisão o homem que matou um motorista de aplicativo em uma batida a mais de 100 km/h. A pergunta era a mesma desde o dia do acidente: \"Houve consumo de bebida alcoólica?\". Em 20",
-      "category": "Mundo"
-    },
-    {
-      "title": "CP X SCP. \"Sem penálti a favor do Sporting\"",
-      "url": "https://observador.pt/programas/sem-falta/cp-x-scp-sem-penalti-a-favor-do-sporting/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-30T23:51:16+00:00",
-      "summary": "Para Pedro Henriques a equipa de arbitragem tomou uma boa decisão ao não assinalar penálti a favor de Flávio Gonçalves. Sublinha que ficaram por mostrar dois cartões amarelos, mas dá nota 6.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Enem 2026: CNN Brasil terá cobertura multiplataforma com correção ao vivo",
-      "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-cnn-brasil-tera-cobertura-multiplataforma-com-correcao-ao-vivo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-30T23:47:05+00:00",
-      "summary": "Programação vai incluir transmissões ao vivo na TV no YouTube e no portal com correção comentada de professores",
-      "category": "Mundo"
-    },
-    {
-      "title": "Estados Unidos confirmam primeiro caso de mosca-bicheira no Arizona",
-      "url": "https://www.cnnbrasil.com.br/agro/estados-unidos-confirmam-primeiro-caso-de-mosca-bicheira-no-arizona/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-30T23:43:23+00:00",
-      "summary": "Parasita foi encontrado em um cachorro no Condado de Cochise, na fronteira com o México; país soma 74 registros desde junho",
-      "category": "Mundo"
-    },
-    {
-      "title": "Acampada Porto não decide sobre reunião com Pedro Duarte",
-      "url": "https://observador.pt/2026/10/30/assembleia-no-porto-nao-toma-decisao-sobre-reuniao-com-pedro-duarte-e-decide-nao-pernoitar-esta-sexta-feira-na-praca-d-joao-i/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-10-30T23:40:09+00:00",
-      "summary": "Assembleia popular reuniu cerca de 200 pessoas esta sexta-feira. Nova marcha parte da Praça da Batalha às 16h00 de sábado.",
-      "category": "Cultura"
-    },
-    {
-      "title": "23h PSP recua na proibição dos drones dos jornalistas sobrevoarem o Rossio, no sábado",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-psp-recua-na-proibicao-dos-drones-dos-jornalistas-sobrevoarem-o-rossio-no-sabado_a1_1775780",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-30T23:35:05+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Em plena noite de Halloween, soviéticos tiraram o corpo de Stalin do mausoléu de Moscou após história sobre o ‘fantasma’ de Lênin",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/em-plena-noite-de-halloween-sovieticos-tiraram-o-corpo-de-stalin-do-mausoleu-de-moscou-apos-historia-sobre-o-fantasma-de-lenin/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-30T23:15:34+00:00",
-      "summary": "O Halloween de 1961 na União Soviética foi marcado pelo mais marcante (e macabro) ato de \"desestalinização\" promovido pelo governo de Nikita Khrushchov",
-      "category": "Política"
-    },
-    {
-      "title": "SLC Agrícola conclui compra de terras do Grupo Radar por R$ 669 milhões",
-      "url": "https://www.cnnbrasil.com.br/agro/slc-agricola-conclui-compra-de-terras-do-grupo-radar-por-r-669-milhoes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-10-30T23:11:16+00:00",
-      "summary": "Operação envolve 8,9 mil hectares agricultáveis em Mato Grosso e teve aprovação sem restrições do Cade",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ministra atribui saldo negativo de 2.679 ME do SNS a necessidades de financiamento",
-      "url": "https://www.rtp.pt/noticias/economia/ministra-atribui-saldo-negativo-de-2679-me-do-sns-a-necessidades-de-financiamento_n1775773",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-30T22:56:39+00:00",
-      "summary": "A ministra da Saúde rejeitou hoje que o saldo negativo de 2.679 milhões de euros projetado para o SNS em 2027 represente um prejuízo, alegando que corresponde a necessidades estimadas de financiamento do serviço público de saúde.",
-      "category": "Economia"
-    },
-    {
-      "title": "Depois da série da RTP, chega aos cinemas o filme \"Além do Horizonte - A Travessia\"",
-      "url": "https://www.rtp.pt/noticias/cultura/depois-da-serie-da-rtp-chega-aos-cinemas-o-filme-alem-do-horizonte-a-travessia_n1775775",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-30T22:53:33+00:00",
-      "summary": "O filme \"Além do Horizonte - A Travessia\" dá protagonismo aos dois aviadores da marinha portuguesa Sacadura Cabral e Gago Coutinho, que em 1922 realizaram a primeira travessia aérea do Atlântico Sul.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Mais de uma dezena de detenções em Espanha para travar vandalismo no `Halloween`",
-      "url": "https://www.rtp.pt/noticias/mundo/mais-de-uma-dezena-de-detencoes-em-espanha-para-travar-vandalismo-no-halloween_n1775734",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-30T22:50:57+00:00",
-      "summary": "As autoridades espanholas detiveram cerca de uma dezena de pessoas ligadas ao movimento de caráter violento \"Blocus\", incluindo o alegado líder, antes de novos atos de vandalismo planeados planeados para o `Halloween`, no sábado.",
-      "category": "Esportes"
-    },
-    {
       "title": "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008",
       "source": "Agência Brasil",
@@ -423,24 +441,6 @@
       "publishedAt": "2026-10-30T22:40:00+00:00",
       "summary": "O mercado financeiro brasileiro encerrou outubro sob forte pressão, com disparada do dólar e queda acentuada da bolsa de valores. Nesta sexta-feira (30), a moeda estadunidense avançou cerca de 1% e fechou perto de R$ 5,45, enquanto o Ibovespa recuou 0,75%, aos 167,9 mil pontos. Na semana, o dólar acumulou valorização s",
       "category": "Economia"
-    },
-    {
-      "title": "\"The Money Maker - O Falsificador\", o filme sobre o mais famoso falsificador em França",
-      "url": "https://www.rtp.pt/noticias/cultura/the-m2oney-maker-o-falsificador-o-filme-sobre-o-mais-famoso-falsificador-em-franca_n1775770",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-30T22:05:18+00:00",
-      "summary": "O caso verídico de Jan Bojarski engenheiro polaco radicado em França durante a Segunda Guerra Mundial e que se transformou num dos mais talentosos falsificadores surpreendeu o realizador Jean-paul Salomé que quis contar esta história.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Depois de \"Anatomia de Uma Queda\", Arthur Harari surpreende com o filme \"Desconhecida\"",
-      "url": "https://www.rtp.pt/noticias/cultura/depois-de-anatomia-de-uma-queda-arthur-harari-surpreende-com-o-filme-desconhecida_n1775769",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-10-30T22:00:48+00:00",
-      "summary": "Acordar no corpo de outra pessoa, a troca de corpos e a busca de identidade são pressupostos na base do filme \"A Desconhecida\".",
-      "category": "Mundo"
     },
     {
       "title": "Família denuncia agressão a Marielle em grupo de WhatsApp da PUC-Rio",
