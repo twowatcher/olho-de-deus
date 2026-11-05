@@ -1,347 +1,473 @@
 {
-  "updatedAt": "2026-11-05T00:21:10.062987+00:00",
+  "updatedAt": "2026-11-05T07:53:08.447987+00:00",
   "items": [
     {
-      "title": "Porto x Nápoles. \"Golo do Porto é bem anulado\"",
-      "url": "https://observador.pt/programas/sem-falta/porto-x-napoles-golo-do-porto-e-bem-anulado/",
-      "source": "Observador",
+      "title": "Taiwan confia na continuidade do apoio dos EUA à venda de armas após vitória democrata",
+      "url": "https://www.rtp.pt/noticias/mundo/taiwan-confia-na-continuidade-do-apoio-dos-eua-a-venda-de-armas-apos-vitoria-democrata_n1777016",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-11-05T00:17:29+00:00",
-      "summary": "Nota 8, muito alta, para o árbitro Michael Oliver na vitória do Porto frente ao Nápoles. Golos bem anulados às duas equipas, amarelos e vermelho bem exibidos e penálti bem assinalado.",
-      "category": "Esportes"
+      "publishedAt": "2026-11-05T07:49:33+00:00",
+      "summary": "O ministro da Defesa de Taiwan, Wellington Koo, manifestou hoje confiança na continuidade do apoio do Congresso norte-americano à venda de armas à ilha, após a vitória expressiva do Partido Democrata nas eleições intercalares de terça-feira.",
+      "category": "Política"
     },
     {
-      "title": "Estamos Doentes",
-      "url": "https://observador.pt/opiniao/estamos-doentes/",
+      "title": "UE. Portugueses entre os que mais sofrem com o custo de vida",
+      "url": "https://observador.pt/2026/11/05/portugueses-sao-7-a-populacao-da-uniao-europeia-que-mais-sente-aumento-do-custo-de-vida-segundo-inquerito-do-banco-europeu-de-investimento/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-11-05T00:15:41+00:00",
-      "summary": "Para a esquerda, é esta a hora de voltar a ser vírus. E o vírus é o Bloco de Esquerda, mas é também a Renata e a juíza.",
+      "publishedAt": "2026-11-05T07:48:20+00:00",
+      "summary": "Além de serem dos que mais sentem o aumento do custo de vida, os portugueses estão também entre os europeus que mais optaram por alterar a utilização do carro",
+      "category": "Economia"
+    },
+    {
+      "title": "Novas encomendas disparam atividade económica em Moçambique em outubro",
+      "url": "https://www.rtp.pt/noticias/economia/novas-encomendas-disparam-atividade-economica-em-mocambique-em-outubro_n1777015",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:47:30+00:00",
+      "summary": "A atividade económica do setor privado moçambicano acelerou em outubro para o nível mais elevado em quatro anos e meio, impulsionada pelo crescimento mais forte das novas encomendas em mais de cinco anos, segundo o índice PMI.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cinco mortos e 13 feridos na região russa de Belgorod",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/cinco-mortos-e-13-feridos-na-regiao-russa-de-belgorod_n1777014",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:47:05+00:00",
+      "summary": "Cinco pessoas morreram e 13 ficaram hoje feridas na região fronteiriça russa de Belgorod, na sequência de um ataque da Ucrânia com artilharia e drones, informaram hoje as autoridades locais.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sete filmes a não perder no LEFFEST 2026",
+      "url": "https://observador.pt/2026/11/05/falsificadores-de-quadros-colaboracionistas-uma-familia-iraniana-e-patricia-highsmith-sete-filmes-a-nao-perder-no-leffest/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:35:11+00:00",
+      "summary": "Helen Mirren é Patricia Highsmith em \"A Talent for Murder\", de Anton Corbijn, que passa no LEFFEST 2026",
+      "category": "Mundo"
+    },
+    {
+      "title": "David Fonseca: \"Só somos adultos a partir dos 40\"",
+      "url": "https://observador.pt/especiais/david-fonseca-so-somos-adultos-a-partir-dos-40-demoramos-muito-tempo-a-entender-o-mundo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:35:07+00:00",
+      "summary": "O álbum \"Radiante Estrela Cadete\" está disponível a 5 de novembro",
+      "category": "Mundo"
+    },
+    {
+      "title": "“Bola no chão”: BC sinaliza independência contra pressão, dizem economistas",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bola-no-chao-bc-sinaliza-independencia-contra-pressao-dizem-economistas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:34:14+00:00",
+      "summary": "Em meio a discussões entre governistas e o mercado sobre futuro da política monetária, Copom manteve taxa de juros em 13,75%",
+      "category": "Economia"
+    },
+    {
+      "title": "Carros eletrificados já representam 17,7% do mercado; veja os mais vendidos",
+      "url": "https://www.cnnbrasil.com.br/auto/carros-eletrificados-ja-representam-177-do-mercado-veja-os-mais-vendidos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:30:55+00:00",
+      "summary": "Vendas de elétricos e híbridos somaram 381,6 mil unidades com BYD Dolphin Mini e GWM Haval H6 liderando segmentos",
+      "category": "Economia"
+    },
+    {
+      "title": "Autoridade Marítima avisa para perigos fora da época balnear",
+      "url": "https://observador.pt/2026/11/05/autoridade-maritima-nacional-alerta-para-perigos-do-mar-fora-da-epoca-balnear/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:30:44+00:00",
+      "summary": "Aconselha-se a população a consultar as previsões meteorológicas e os avisos de agitação marítima antes de se deslocar para a orla costeira",
+      "category": "Mundo"
+    },
+    {
+      "title": "Como a economia ajuda a explicar a virada dos Democrata nos EUA?",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/como-a-economia-ajuda-a-explicar-a-virada-dos-democrata-nos-eua/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:30:07+00:00",
+      "summary": "Inflação, guerra no Irã e políticas de Trump alimentam insatisfação dos americanos a dois anos das eleições de 2024",
+      "category": "Política"
+    },
+    {
+      "title": "BR-050 ganha duas novas passarelas no trecho de Uberaba com investimento de R$ 5,7 milhões",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/05/br-050-ganha-duas-novas-passarelas-no-trecho-de-uberaba-com-investimento-de-r-57-milhoes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:30:00+00:00",
+      "summary": "Ecovias retoma processo para instalar passarelas na BR-050 Duas novas passarelas serão inauguradas nesta quinta-feira (5) no trecho urbano da BR-050, em Uberaba. Com investimento de R$ 5,76 milhões, as estruturas foram construídas nos km 171 e 175 para ampliar a segurança e oferecer alternativa mais segura para a trave",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ormuz. Coreia do Sul reforça missão naval no estreito",
+      "url": "https://observador.pt/2026/11/05/coreia-do-sul-reforca-missao-naval-perto-do-estreito-de-ormuz/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:27:21+00:00",
+      "summary": "A Coreia do Sul tinha anteriormente manifestado oposição ao destacamento das forças armadas na região, por não querer participar na guerra contra o Irão, conduzida pelos Estados Unidos e Israel",
+      "category": "Mundo"
+    },
+    {
+      "title": "07h Matemática vai ser obrigatória no ensino secundário",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/07h-matematica-vai-ser-obrigatoria-no-ensino-secundario_a1_1777013",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:20:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "7h. Habitação. Governo reconhece vitória política de PR",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2554/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:17:16+00:00",
+      "summary": "Os apoiantes de António José Seguro afirmam que o Presidente da República \"está no comando\". Ainda, Montenegro recebe hoje em São Bento Chega, PS, PSD e CDS para discutir soluções para habitação.",
+      "category": "Política"
+    },
+    {
+      "title": "Noite tranquila com dezenas de tendas no Porto e em Lisboa",
+      "url": "https://observador.pt/liveblogs/acampadas-noite-tranquila-com-dezenas-de-tendas-montadas-em-lisboa-e-no-porto/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:11:43+00:00",
+      "summary": "Manifestantes pela crise da habitação voltaram a passar a noite nas praças em Lisboa e no Porto. Mais de 90 tendas estão montadas no Rossio.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Teerão relata incêndios em dois petroleiros e um rebocador no estreito de Ormuz",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/teerao-relata-incendios-em-dois-petroleiros-e-um-rebocador-no-estreito-de-ormuz_n1777012",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:11:17+00:00",
+      "summary": "O Irão afirmou hoje que dois petroleiros e um rebocador se incendiaram no estreito de Ormuz, numa altura em que as autoridades iranianas reforçam o controlo sobre a passagem marítima estratégica.",
+      "category": "Clima"
+    },
+    {
+      "title": "Habitação. Governo inicia reuniões com partidos parlamentares",
+      "url": "https://www.rtp.pt/noticias/economia/habitacao-governo-inicia-reunioes-com-partidos-parlamentares_n1777011",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:11:08+00:00",
+      "summary": "O primeiro-ministro vai reunir-se com os líderes do Chega e do PS, respetivamente André Ventura e José Luís Carneiro, em São Bento, hoje, para ouvir as suas propostas sobre habitação.",
+      "category": "Política"
+    },
+    {
+      "title": "De freezers a hospitais: ataques hackers na Europa expõem riscos no Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/de-freezers-a-hospitais-ataques-hackers-na-europa-expoem-riscos-no-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:10:04+00:00",
+      "summary": "Ações acendem alerta sobre vulnerabilidades em equipamentos conectados; especialistas apontam riscos para supermercados, hospitais e indústrias brasileiras",
+      "category": "Economia"
+    },
+    {
+      "title": "Real Sociedad x Lyon: horário e onde assistir ao jogo da Europa League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/real-sociedad-x-lyon-horario-e-onde-assistir-ao-jogo-da-europa-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:03:15+00:00",
+      "summary": "Equipes vão a campo nesta quinta-feira (5), no Estádio de Anoeta, em San Sebastián, às 14h45, em partida válida pela 4ª rodada da competição europeia",
+      "category": "Economia"
+    },
+    {
+      "title": "780 mil pessoas saíram de Portugal nos últimos cinco anos",
+      "url": "https://observador.pt/programas/conferencia-de-imprensa/780-mil-pessoas-sairam-de-portugal-nos-ultimos-cinco-anos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T07:01:42+00:00",
+      "summary": "O Público destaca dados do INE: entre 2021 e 2025, os números subiram de 124 mil para 782 mil. No DN outro estudo: 3 em cada 10 portugueses diz não ter recebido cuidados de saúde no tempo adequado.",
       "category": "Saúde"
     },
     {
-      "title": "00h. Champions. FC Porto vence Nápoles por 4-1",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2465/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T00:14:55+00:00",
-      "summary": "O FC Porto conseguiu o primeiro triunfo e os primeiros pontos nesta edição da prova. Ainda, Governo quer Matemática obrigatória até ao 12.º ano em todos os cursos.",
-      "category": "Política"
-    },
-    {
-      "title": "Foucault e o marxismo",
-      "url": "https://observador.pt/opiniao/foucault-e-o-marxismo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T00:11:32+00:00",
-      "summary": "A esquerda lusa e a outra gostam de arvorar cultura e referir Foucault, mas têm de perceber que ele era, antes de mais, um libertário individualista e Marx gostava muito pouco de libertários.",
+      "title": "Neta transforma segredo passado entre gerações da família em marca de café artesanal cultivado 100% no Ceará",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/05/neta-transforma-segredo-passado-entre-geracoes-da-familia-em-marca-de-cafe-artesanal-cultivado-100percent-no-ceara.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:01:02+00:00",
+      "summary": "Café 100% cearense: neta cria marca inspirada em avô centenário A professora Sâmia Nápoles, de 30 anos, estreou na Exposição Agropecuária e Industrial do Estado do Ceará (Expoece), nesta terça-feira (3), ao apresentar um café cultivado e produzido 100% em solo cearense. Há pouco mais de dois meses, ela, o marido e o pa",
       "category": "Cultura"
     },
     {
-      "title": "Monumentos magníficos que atestam a nossa primitiva grandeza",
-      "url": "https://observador.pt/opiniao/monumentos-magnificos-que-atestam-a-nossa-primitiva-grandeza/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T00:08:38+00:00",
-      "summary": "O Mosteiro da Batalha e o Convento do Carmo na génese da consciência patrimonial portuguesa.",
+      "title": "Patrik Schick, do Bayer Leverkusen, já fez história na Eurocopa; conheça",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/patrik-schick-do-bayer-leverkusen-ja-fez-historia-na-eurocopa-conheca/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:53+00:00",
+      "summary": "Atacante da Tchéquia estará em campo nesta quinta-feira (5) pelo clube alemão, no duelo contra o Marseille; jogo da Europa League terá transmissão ao vivo no CNN Esportes",
+      "category": "Economia"
+    },
+    {
+      "title": "Palmeiras x Remo: horário e onde assistir ao Campeonato Brasileiro Série A",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/palmeiras-x-remo-horario-e-onde-assistir-ao-campeonato-brasileiro-serie-a/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:50+00:00",
+      "summary": "Equipes vão a campo nesta quinta-feira (5), no Nubank Parque, em São Paulo , às 19h30, em partida válida pela 34ª rodada da competição nacional",
+      "category": "Esportes"
+    },
+    {
+      "title": "AZ Alkmaar x Juventus: horário e onde assistir ao jogo da Europa League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/az-alkmaar-x-juventus-horario-e-onde-assistir-ao-jogo-da-europa-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:43+00:00",
+      "summary": "Equipes vão a campo nesta quinta-feira (5), no AZ Stadion, em Alkmaar, às 17h, em partida válida pela 4ª rodada da competição europeia",
+      "category": "Economia"
+    },
+    {
+      "title": "Cruzeiro x Bahia: horário e onde assistir ao Campeonato Brasileiro Série A",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cruzeiro-x-bahia-horario-e-onde-assistir-ao-campeonato-brasileiro-serie-a/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:25+00:00",
+      "summary": "Equipes vão a campo nesta quinta-feira (5), no Mineirão, em Belo Horizonte, às 21h30, em partida válida pela 34ª rodada da competição nacional",
+      "category": "Esportes"
+    },
+    {
+      "title": "Milan x Ferencváros: horário e onde assistir ao jogo da Europa League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/milan-x-ferencvaros-horario-e-onde-assistir-ao-jogo-da-europa-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:02+00:00",
+      "summary": "Equipes vão a campo nesta quinta-feira (5), no San Siro, em Milão, às 14h45, em partida válida pela 4ª rodada da competição europeia",
+      "category": "Economia"
+    },
+    {
+      "title": "Desvio de quase R$ 1 milhão de prefeitura do interior de MG é investigado pela polícia",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/05/desvio-de-quase-r-1-milhao-de-prefeitura-do-interior-de-mg-e-investigado-pela-policia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:01+00:00",
+      "summary": "Prefeitura de Comendador Gomes, no Triângulo Mineiro. Google Street View/Reprodução Um desvio temporário de quase R$ 1 milhão nas contas da Prefeitura de Comendador Gomes, no Triângulo Mineiro é investigado pela Polícia Civil. O desfalque foi identificado pelo Banco do Brasil, responsável pelas transações de contas do ",
+      "category": "Clima"
+    },
+    {
+      "title": "Cinco anos após morte, Marília Mendonça se mantém no Top 5 das músicas mais ouvidas da história no Spotify",
+      "url": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/11/05/cinco-anos-apos-morte-marilia-mendonca-se-mantem-no-top-5-das-musicas-mais-ouvidas-da-historia-no-spotify.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:01+00:00",
+      "summary": "A cantora Marília Mendonça morreu em um acidente aéreo em novembro de 2021 Divulgação/Globoplay Cinco anos após sua morte, Marília Mendonça se mantém na lista das músicas mais ouvidas da história no Spotify. E não é em qualquer posição. A cantora sertaneja e rainha da sofrência aparece na quinta posição do ranking que ",
+      "category": "Cultura"
+    },
+    {
+      "title": "Em 'Cavalo selvagem nove', John Malkovich é favorito para ganhar seu 1º Oscar: 'É uma sacanagem'",
+      "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/05/em-cavalo-selvagem-nove-john-malkovich-e-favorito-para-ganhar-seu-1o-oscar-e-uma-sacanagem.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:01+00:00",
+      "summary": "John Malkovich é favorito a 1º Oscar com 'Cavalo selvagem nove' Dá para acreditar que John Malkovich, do alto de seus 72 anos e inúmeros personagens icônicos, nunca ganhou um Oscar? Tudo deve mudar com \"Cavalo selvagem nove\", que estreia nos cinemas brasileiros nesta quinta-feira (5). g1 já viu: John Malkovich e Sam Ro",
+      "category": "Cultura"
+    },
+    {
+      "title": "Nova diretriz de cardiogeriatria orienta tratamento de pacientes idosos",
+      "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/11/05/nova-diretriz-de-cardiogeriatria-orienta-tratamento-de-pacientes-idosos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:01+00:00",
+      "summary": "Cardiogeriatria é tema de livro No mês passado, durante o 81º. Congresso Brasileiro de Cardiologia, a Sociedade Brasileira de Cardiologia (SBC) lançou a terceira edição da sua Diretriz de Cardiogeriatria, que funciona como o principal guia científico e prático para orientar os cardiologistas no diagnóstico, estratifica",
+      "category": "Política"
+    },
+    {
+      "title": "Pesquisa da Ufes encontra peixes com tumores e deformidades 11 anos após desastre de Mariana; VÍDEO",
+      "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/11/05/pesquisa-da-ufes-encontra-peixes-com-tumores-e-deformidades-11-anos-apos-desastre-de-mariana-video.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:01+00:00",
+      "summary": "Pesquisa encontra peixes com tumores e deformidades 11 anos após desastre de Mariana Onze anos após o rompimento da barragem de Fundão, em Mariana, Minas Gerais, pesquisa realizada pela Universidade Federal do Espírito Santo (Ufes) ainda identifica alterações no ecossistema aquático ao longo da bacia do Rio Doce. O est",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Paulo Fonseca no SCP. \"Vibrei com Jordão e Manuel Fernandes\"",
-      "url": "https://observador.pt/programas/reportagem-observador/paulo-fonseca-no-scp-vibrei-com-jordao-e-manuel-fernandes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T00:08:23+00:00",
-      "summary": "Técnico de 53 anos cumpre sonho de menino e assina com Sporting até 2030. Varandas revela que Rui Borges tinha \"guia de marcha\" depois do desaire frente ao Académico e pede novo ciclo vitorioso.",
-      "category": "Mundo"
+      "title": "Cinco anos sem Marília Mendonça: compositora mineira conta história por trás do hit 'Fã Clube'",
+      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/05/cinco-anos-sem-marilia-mendonca-compositora-mineira-conta-historia-por-tras-do-hit-fa-clube.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:00+00:00",
+      "summary": "Compositora mineira mostra áudio de Marília Mendonça elogiando música 'Fã Clube' Nesta quinta-feira (5), a morte da cantora Marília Mendonça completa cinco anos. Conhecida como a Rainha da Sofrência, a artista deixou um repertório de sucessos, entre eles \"Fã Clube\", gravada ao lado da dupla Maiara e Maraisa para o álbu",
+      "category": "Cultura"
     },
     {
-      "title": "Supervisão intermédia: a estratégia de formar aos soluços",
-      "url": "https://observador.pt/opiniao/supervisao-intermedia-a-estrategia-de-formar-aos-solucos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T00:07:50+00:00",
-      "summary": "Durante muito tempo discutimos quantos polícias faltam. Depois percebemos que faltavam Oficiais, e os números dizem-nos agora, antecipadamente, que a próxima grande pressão estará na carreira de Chefe",
-      "category": "Clima"
+      "title": "Grande BH tem 289 vagas em concursos públicos com salários de até R$ 13,3 mil; veja como se inscrever",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/05/grande-bh-tem-289-vagas-em-concursos-publicos-com-salarios-de-ate-r-133-mil-veja-como-se-inscrever.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:00+00:00",
+      "summary": "Grande BH tem 289 vagas em concursos públicos com salários de até R$ 13,3 mil; veja como se inscrever Reprodução Concursos e uma seleção pública de prefeituras da Grande BH oferecem 289 vagas com inscrições abertas, além de cadastro de reserva. As oportunidades são para candidatos com ensino médio, técnico e superior, ",
+      "category": "Esportes"
     },
     {
-      "title": "A coragem de dizer não",
-      "url": "https://observador.pt/opiniao/a-coragem-de-dizer-nao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T00:06:32+00:00",
-      "summary": "Devemos começar a avaliar a qualidade da arquitectura não apenas pelo que acrescenta, mas também pelo que consegue preservar. Construir é uma possibilidade. Saber quando não construir é uma escolha.",
-      "category": "Mundo"
+      "title": "Lázaro Ramos vê em jovem ator baiano de 'Feito Pipa' um espelho de sua infância: 'Era como se estivesse diante de mim'",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/05/lazaro-ramos-ve-em-jovem-ator-baiano-de-feito-pipa-um-espelho-de-sua-infancia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:00+00:00",
+      "summary": "Lázaro Ramos vê em jovem ator baiano de 'Feito Pipa' um espelho de sua infância Um encontro entre gerações de talentos baianos está entre os destaques de Feito Pipa, filme que chega aos cinemas brasileiros nesta quinta-feira (5). A obra representa o Brasil na disputa por uma vaga entre os indicados ao Oscar 2027, e já ",
+      "category": "Cultura"
     },
     {
-      "title": "Democracia para além do pão",
-      "url": "https://observador.pt/opiniao/democracia-para-alem-do-pao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T00:05:31+00:00",
-      "summary": "Se o ser humano é um ser falível, os sistemas políticos por ele criados serão falíveis e é por isso que os democratas não devem basear a sua defesa da democracia apenas na questão material.",
-      "category": "Mundo"
-    },
-    {
-      "title": "A riqueza de amanhã começa na inovação de hoje",
-      "url": "https://observador.pt/opiniao/a-riqueza-de-amanha-comeca-na-inovacao-de-hoje/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T00:04:25+00:00",
-      "summary": "Portugal e Europa têm de mudar a forma como pensam o investimento apostando sustentadamente em investigação, desenvolvimento e inovação. Aí se decide boa parte da prosperidade futura.",
+      "title": "Justiça manda suspender 'Bolsa Mounjaro' em Urupês; prefeitura aplicava versão manipulada, comprada com emenda de Tiririca",
+      "url": "https://g1.globo.com/saude/noticia/2026/11/05/justica-manda-suspender-bolsa-mounjaro-em-urupes-prefeitura-aplicava-versao-manipulada-comprada-com-emenda-de-tiririca.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-05T07:00:00+00:00",
+      "summary": "Prefeitura de Urupês aplica doses de Mounjaro Divulgação A Justiça de São Paulo mandou a Prefeitura de Urupês, no interior de São Paulo, suspender as aplicações de tirzepatida manipulada em pacientes com obesidade atendidos pela rede pública. A decisão é provisória, de primeira instância, e a prefeitura está recorrendo",
       "category": "Economia"
     },
     {
-      "title": "Mega-Sena, concurso 3081: confira os números sorteados",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/04/mega-sena-concurso-3081-confira-os-numeros-sorteados.ghtml",
+      "title": "Mulheres denunciam golpe da falsa cirurgia plástica pelo SUS no DF; vítimas pagaram até R$ 3 mil por procedimentos",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/05/mulheres-denunciam-golpe-da-falsa-cirurgia-plastica-pelo-sus-no-df-vitimas-pagaram-ate-r-3-mil-por-procedimentos.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-05T00:03:49+00:00",
-      "summary": "Como funciona a Mega-Sena? O sorteio do concurso 3.081 da Mega-Sena foi realizado na noite desta quarta-feira (4), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 47 milhões. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Veja os números sorteados: 10 - 17 - 42 - 43 - 57",
-      "category": "Mundo"
+      "publishedAt": "2026-11-05T07:00:00+00:00",
+      "summary": "Próteses de silicone Voisin/Phanie/Arquivo AFP Mulheres do Distrito Federal denunciam um suposto golpe envolvendo a oferta de cirurgias de redução das mamas e colocação de próteses de silicone. Os procedimentos, segundo a denúncia, eram relacionados a um falso projeto social que dizia estar vinculado à Secretaria de Sa",
+      "category": "Esportes"
     },
     {
-      "title": "Quando Lisboa ardeu - Quem combatia o fogo em 1755?",
-      "url": "https://observador.pt/opiniao/quando-lisboa-ardeu-quem-combatia-o-fogo-em-1755/",
+      "title": "Coreia do Sul reforça missão naval perto de Ormuz",
+      "url": "https://observador.pt/liveblogs/coreia-do-sul-reforca-missao-naval-perto-do-estreito-de-ormuz/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-11-05T00:03:08+00:00",
-      "summary": "Primeiro existiu a bomba; depois, o homem que a operava passou a ser conhecido como bombeiro. Mas aqueles que corriam para o fogo já existiam muito antes. A função precedeu o nome.",
-      "category": "Mundo"
+      "publishedAt": "2026-11-05T06:58:08+00:00",
+      "summary": "Seul irá alargar a zona de operações da unidade antipirataria Cheonghae da sua Marinha, atualmente encarregada de proteger navios comerciais no golfo de Aden, ao largo da Somália, para águas próximas do estreito de Ormuz",
+      "category": "Esportes"
     },
     {
-      "title": "Corpo enrolado em lençol é jogado em rua de João Pessoa",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/04/corpo-enrolado-em-lencol-rua-de-joao-pessoa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-05T00:03:02+00:00",
-      "summary": "Corpo ainda não foi identificado Flávio Fernandes/TV Cabo Branco Um corpo enrolado em um lençol foi encontrado na noite desta quarta-feira (4), na Rua Aline Gomes de Araújo, no bairro Colinas do Sul, em João Pessoa. A identidade da vítima e o sexo ainda não foram confirmados. Segundo informações de testemunhas repassad",
-      "category": "Mundo"
-    },
-    {
-      "title": "O \"Casamento aberto\" como mais um capítulo da banalização",
-      "url": "https://observador.pt/opiniao/o-casamento-aberto-como-mais-um-capitulo-da-banalizacao-uma-critica-crista/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T00:02:42+00:00",
-      "summary": "Ao contrário do que a propaganda proclama, a eliminação dos limites morais não protege o vínculo, antes expõe a fragilidade e o egoísmo de uma união desprovida de uma verdadeira aliança.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Grande Entrevista. Pedro Abrunhosa acusa Governo de instrumentalizar a polícia",
-      "url": "https://www.rtp.pt/noticias/cultura/grande-entrevista-pedro-abrunhosa-acusa-governo-de-instrumentalizar-a-policia_n1776974",
+      "title": "Três hospitais do norte de Moçambique unem-se para fazer mil cirurgias numa semana",
+      "url": "https://www.rtp.pt/noticias/mundo/tres-hospitais-do-norte-de-mocambique-unem-se-para-fazer-mil-cirurgias-numa-semana_n1777009",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-11-05T00:02:05+00:00",
-      "summary": "Na “Grande Entrevista” desta quarta-feira, Pedro Abrunhosa disse que as cargas policiais nas manifestações pela habitação são “cargas políticas”, e acusou o Governo de tentar descredibilizar os protestos com violência.",
-      "category": "Política"
+      "publishedAt": "2026-11-05T06:57:31+00:00",
+      "summary": "Três hospitais da província de Nampula, norte de Moçambique, pretendem operar numa semana cerca de mil doentes com hérnia e hidrocelo numa campanha do Ministério da Saúde para reduzir uma lista de espera que ultrapassa dois mil pacientes.",
+      "category": "Ciência & Tech"
     },
     {
-      "title": "Aliados e rivais dos Estados Unidos pelo mundo reagem ao resultado da eleição americana; veja",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/04/aliados-e-rivais-dos-estados-unidos-pelo-mundo-reagem-ao-resultado-da-eleicao-americana-veja.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-05T00:01:58+00:00",
-      "summary": "Derrota eleitoral de Trump repercute no mundo Aliados e rivais dos Estados Unidos reagiram, pelo mundo, ao resultado da eleição americana. Sentimentos que vão da esperança à incerteza, do medo à euforia. Na Espanha, Pedro Sánchez disse que os americanos votaram contra o ódio, o machismo, o negacionismo climático e os p",
-      "category": "Política"
-    },
-    {
-      "title": "Motorista é acusado de agredir guarda municipal durante fiscalização no litoral de SP; VÍDEO",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/04/motorista-e-acusado-de-agredir-guarda-municipal-durante-fiscalizacao-no-litoral-de-sp-video.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-05T00:00:00+00:00",
-      "summary": "Motorista é acusado de agredir guarda municipal durante fiscalização em São Vicente Um motorista agrediu um guarda municipal durante uma fiscalização ambiental em São Vicente, no litoral de São Paulo, segundo a prefeitura. De acordo com a administração municipal, o homem resistiu à abordagem e o agente ficou ferido. O ",
-      "category": "Mundo"
-    },
-    {
-      "title": "MP denuncia à Justiça mãe e tio de bebê que desapareceu no interior do Acre",
-      "url": "https://g1.globo.com/ac/acre/noticia/2026/11/04/mp-denuncia-a-justica-mae-e-tio-de-bebe-que-desapareceu-no-interior-do-acre.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:59:38+00:00",
-      "summary": "Tio é acusado de sequestro e a mãe de abandono de incapaz Arquivo/Sejusp A mãe e o tio da bebê de 9 meses que desapareceu após ser levada em Manoel Urbano, interior do Acre, foram denunciados à Justiça pelo Ministério Público do Acre (MP-AC), segundo divulgado pelo próprio órgão ministerial nesta quarta-feira (4). Os d",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mãe é resgatada com bebê de cárcere privado e denuncia agressões e ameaças de morte do companheiro",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/11/04/mae-e-resgatada-com-bebe-de-carcere-privado-e-denuncia-agressoes-e-ameacas-de-morte-do-companheiro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:57:27+00:00",
-      "summary": "Homem é preso suspeito de manter companheira em cárcere privado e torturá-la Uma mulher foi resgatada de cárcere privado junto com o bebê de sete meses, em Niquelândia, no norte do estado. Segundo a polícia, ela contou que sofreu agressões e ameaças de morte, além de ser privada de alguns alimentos e de água. O homem f",
-      "category": "Mundo"
-    },
-    {
-      "title": "Incêndio destrói carro na Avenida Brasil, em Manaus",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/04/incendio-destroi-carro-na-avenida-brasil-em-manaus.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:57:06+00:00",
-      "summary": "Carro ficou destruído após pegar fogo em avenida na Zona Oeste de Manaus. Reprodução/Redes Sociais Um carro ficou destruído após pegar fogo nesta quarta-feira (4), na Avenida Brasil, bairro Compensa, Zona Oeste de Manaus. Não há informações sobre feridos, nem a causa do incêndio. Imagens compartilhadas nas redes sociai",
-      "category": "Clima"
-    },
-    {
-      "title": "Nutrien vê demanda por fertilizantes no Brasil, mas crédito rural preocupa",
-      "url": "https://www.cnnbrasil.com.br/agro/nutrien-ve-demanda-por-fertilizantes-no-brasil-mas-credito-rural-preocupa/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:56:33+00:00",
-      "summary": "Companhia projeta mercado global de nitrogênio mais apertado até 2027 e espera aumento dos embarques mundiais de potássio no próximo ano",
+      "title": "Fatura de Moçambicana da importação de combustíveis disparou 79,4% em três meses",
+      "url": "https://www.rtp.pt/noticias/economia/fatura-de-mocambicana-da-importacao-de-combustiveis-disparou-79-4-em-tres-meses_n1777006",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T06:57:02+00:00",
+      "summary": "Moçambique gastou 660,6 milhões de dólares (568,6 milhões de euros) na importação de combustíveis no primeiro semestre, marcado por dificuldades de abastecimento e de divisas, com a fatura a disparar 79,4% de março para junho.",
       "category": "Economia"
     },
     {
-      "title": "Tempestades causam um óbito e 200 ocorrências em Santa Catarina",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/tempestades-causam-um-obito-e-200-ocorrencias-em-santa-catarina/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:55:53+00:00",
-      "summary": "13 regiões estão em situação de emergência e mais de 400 famílias receberam atendimento após destelhamentos e quedas de árvores no município",
+      "title": "Fariolineta já acelera na Champions. Fonseca já fala à Leão",
+      "url": "https://observador.pt/programas/vamos-a-bola/fariolineta-ja-acelera-na-champions-fonseca-ja-fala-a-leao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T06:56:15+00:00",
+      "summary": "Dragões vencem napolitanos (4-1) com três golos de bola parada e uma segunda parte em que só deu Porto. Primeira vitória de Farioli na Champions. Ainda, Paulo Fonseca fala como treinador do Sporting.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Amnistia Internacional eleva para 50 casos de maus-tratos por militares a migrantes em Ceuta",
+      "url": "https://www.rtp.pt/noticias/mundo/amnistia-internacional-eleva-para-50-casos-de-maus-tratos-por-militares-a-migrantes-em-ceuta_n1777007",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T06:55:41+00:00",
+      "summary": "A Amnistia Internacional (AI) denunciou hoje mais 28 casos de espancamentos, humilhações e abusos por militares contra migrantes que permanecem em Ceuta depois da entrada em largo número em julho, elevando para 50 os casos documentados.",
       "category": "Mundo"
     },
     {
-      "title": "Operação apreende 24 mil estojos, mochilas e lancheiras falsificados na BA; mercadoria veio da China e está avaliada em R$ 1,5 milhão",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/04/operacao-apreende-24-mil-mochilas-lancheiras-e-estojos-falsificados-na-ba-mercadoria-veio-da-china-e-esta-avaliada-em-r-15-milhao.ghtml",
-      "source": "G1",
+      "title": "Mercado avalia possibilidade de Selic seguir em 13,75% até o final de 2027",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-avalia-possibilidade-de-selic-seguir-em-1375-ate-o-final-de-2027/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-04T23:55:17+00:00",
-      "summary": "Operação apreende 24 mil mochilas, lancheiras e estojos falsificados na BA Vinte e quatro mil mochilas, lancheiras e estojos falsificados foram apreendidos nesta quarta-feira (4), durante uma operação deflagrada pela Receita Federal em Salvador. Segundo a instituição, o material estava em um contêiner, que saiu da Chin",
+      "publishedAt": "2026-11-05T06:54:13+00:00",
+      "summary": "Agentes econômicos e Banco Central enxergam cenário inflacionário ambíguo pela frente e pregam \"estado de contingência\"",
       "category": "Economia"
     },
     {
-      "title": "Resumão diário do JN: Partido Democrata conquista maioria no Congresso e redefine poder político nos EUA; Banco Central mantém taxa de juros em 13,75% após cinco cortes seguidos",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/04/resumao-diario-do-jn-partido-democrata-conquista-maioria-no-congresso-e-redefine-poder-politico-nos-eua-banco-central-mantem-taxa-de-juros-em-1375percent-apos-cinco-cortes-seguidos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:53:07+00:00",
-      "summary": "Os eleitores americanos impuseram uma derrota histórica a Donald Trump. A vitória esmagadora da oposição redefiniu o poder nos Estados Unidos. Os democratas venceram em redutos republicanos depois de décadas e conquistaram a maioria no Congresso. Após cinco cortes seguidos, o Banco Central do Brasil manteve a taxa de j",
-      "category": "Política"
-    },
-    {
-      "title": "Entenda as principais viradas das eleições dos EUA em uma tela",
-      "url": "https://www.cnnbrasil.com.br/internacional/entenda-as-principais-viradas-das-eleicoes-dos-eua-em-uma-tela/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:51:26+00:00",
-      "summary": "Partido Democrata vira em Ohio, Carolina do Norte, Iowa, Carolina do Sul, Texas e Kansas, onde não vencia desde 1932; a editora de Internacional da CNN Jéssica Petrovna explica o tema ao Hora H",
-      "category": "Política"
-    },
-    {
-      "title": "Corpo de Bombeiros socorre mais de 400 famílias em Chapecó após tornado",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/corpo-de-bombeiros-socorre-mais-de-400-familias-em-chapeco-apos-tornado/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:49:50+00:00",
-      "summary": "Temporal provocou estragos nesta quarta-feira (4) após passagem de fenômeno climático; até o momento não há registro de vítima fatal na cidade",
-      "category": "Clima"
-    },
-    {
-      "title": "Midterms: O que você precisa saber até o final da apuração de votos",
-      "url": "https://www.cnnbrasil.com.br/internacional/midterms-o-que-voce-precisa-saber-ate-o-final-da-apuracao-de-votos/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:49:18+00:00",
-      "summary": "Democratas conquistaram o controle do Sendo e da Câmara nos Estados Unidos; disputas no Mississippi e no Alasca ainda estão em andamento",
-      "category": "Política"
-    },
-    {
-      "title": "Banco Central foi menos explícito em relação ao fiscal, diz Loyola",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/banco-central-foi-menos-explicito-em-relacao-ao-fiscal-diz-loyola/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:49:12+00:00",
-      "summary": "Ex-presidente do BC aponta divergências entre as medidas do governo e o controle da inflação",
-      "category": "Política"
-    },
-    {
-      "title": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quarta-feira, 04 de novembro de 2026",
-      "url": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quarta-feira-04-de-novembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:49:00+00:00",
-      "summary": "Reveja os vídeos do telejornal.",
+      "title": "HRW classifica como \"cruel e injusta\" condenação do ativista de Hong Kong Joshua Wong",
+      "url": "https://www.rtp.pt/noticias/mundo/hrw-classifica-como-cruel-e-injusta-condenacao-do-ativista-de-hong-kong-joshua-wong_n1776999",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T06:52:34+00:00",
+      "summary": "A organização Human Rights Watch (HRW) classificou como \"cruel e injusta\" a condenação hoje do ativista Joshua Wong a uma pena de dez anos de prisão por conspiração para conluio com forças estrangeiras.",
       "category": "Mundo"
     },
     {
-      "title": "Resultados das Loterias Caixa",
-      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:48:59+00:00",
-      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-      "category": "Mundo"
+      "title": "Duarte Lima começa a ser julgado pelo homicídio de Rosalina Ribeiro",
+      "url": "https://www.rtp.pt/noticias/pais/duarte-lima-comeca-a-ser-julgado-pelo-homicidio-de-rosalina-ribeiro_n1777000",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T06:50:13+00:00",
+      "summary": "O julgamento do ex-deputado do PSD Duarte Lima, acusado do homicídio de Rosalina Ribeiro há 17 anos, começa esta quinta-feira à tarde com a audição do arguido e de uma testemunha.",
+      "category": "Cultura"
     },
     {
-      "title": "Arauco registra lucro líquido de US$ 27,7 milhões no terceiro trimestre",
-      "url": "https://www.cnnbrasil.com.br/agro/arauco-registra-lucro-liquido-de-us-277-milhoes-no-terceiro-trimestre/",
+      "title": "China acusa formalmente de corrupção antigo membro do Politburo",
+      "url": "https://www.rtp.pt/noticias/mundo/china-acusa-formalmente-de-corrupcao-antigo-membro-do-politburo_n1776998",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T06:48:31+00:00",
+      "summary": "Um antigo membro do Politburo do Partido Comunista Chinês (PCC), um dos principais órgãos de decisão do país, foi formalmente acusado de corrupção, uma semana após a liderança partidária ter confirmado a sua expulsão, noticiou hoje a imprensa estatal.",
+      "category": "Política"
+    },
+    {
+      "title": "Estudo aponta combinação capaz de conter avanço de câncer de pulmão",
+      "url": "https://www.cnnbrasil.com.br/saude/estudo-aponta-combinacao-capaz-de-conter-avanco-de-cancer-de-pulmao/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-04T23:47:17+00:00",
-      "summary": "Receita cresce 6% e Ebitda ajustado avança 12,9% na comparação anual; administração atribui resultado à estabilidade operacional",
+      "publishedAt": "2026-11-05T06:37:57+00:00",
+      "summary": "Tratamento testado pelo IDOR e centros internacionais superou a quimioterapia tradicional no controle de tumores com alteração genética",
       "category": "Mundo"
     },
     {
-      "title": "Trump adota tom conciliador, reconhece a importância da guerra com o Irã na eleição e fala em trabalhar com os democratas",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/04/trump-adota-tom-conciliador-reconhece-a-importancia-da-guerra-com-o-ira-na-eleicao-e-fala-em-trabalhar-com-os-democratas.ghtml",
-      "source": "G1",
+      "title": "Dos TAXI a Joana Almeirante, a música passa por Sintra",
+      "url": "https://observador.pt/programas/agenda-cultural-sintrense/dos-taxi-a-joana-almeirante-a-musica-passa-por-sintra/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T06:31:34+00:00",
+      "summary": "Os TAXI celebram 45 anos de carreira com um concerto a 6 de novembro. No dia seguinte, Joana Almeirante sobe ao palco, numa semana em que a música volta a marcar a agenda cultural de Sintra.",
+      "category": "Cultura"
+    },
+    {
+      "title": "\"A Bola Negra\": um filme feito de excessos",
+      "url": "https://observador.pt/2026/11/05/a-bola-negra-um-filme-feito-de-excessos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-05T06:30:32+00:00",
+      "summary": "Uma cena da linha narrativa de \"A Bola Negra\" passada durante a Guerra Civil de Espanha",
+      "category": "Mundo"
+    },
+    {
+      "title": "Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-retira-maioridade-penal-da-pauta-e-vai-aguardar-camara",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-04T23:54:00+00:00",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União-AP), retirou da pauta desta quarta-feira (4) a proposta de Emenda à Constituição (PEC) que reduz a maioridade penal de 18 anos para 16 anos. Alcolumbre disse que atendeu a um pedido do presidente da Câmara, Hugo Motta (Republicanos-PB). Agora, caberá à Câmara dos Deputados",
+      "category": "Política"
+    },
+    {
+      "title": "SUS e Einstein desenvolvem IA para identificação de doenças de pele",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sus-e-einstein-desenvolvem-ia-para-identificacao-de-doencas-de-pele",
+      "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-11-04T23:47:00+00:00",
-      "summary": "Donald Trump adota tom conciliador após derrota republicana O presidente Donald Trump adotou um tom conciliador nesta quarta-feira (4) na hora que ele fez um balanço da eleição. A correspondente Raquel Krähenbühl acompanhou o dia na Casa Branca. \"O presidente Donald Trump reconheceu o resultado das urnas depois de temo",
-      "category": "Política"
+      "summary": "Uma parceria entre o Ministério da Saúde e o Einstein Hospital Israelita desenvolveu um sistema com inteligência artificial para apoiar profissionais de saúde pública na triagem e identificação de doenças de pele. A iniciativa, chamada CUTIS-AI, utiliza como base imagens da lesão da pele do paciente e dados clínicos, e",
+      "category": "Ciência & Tech"
     },
     {
-      "title": "Lesionado, Danilo, do Botafogo, é cortado da Seleção Brasileira",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/lesionado-danilo-do-botafogo-e-cortado-da-selecao-brasileira/",
-      "source": "CNN Brasil",
+      "title": "Anatel publica novas regras para prevenir fraudes por meio de SMS",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/anatel-publica-novas-regras-para-prevenir-fraudes-por-meio-de-sms",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-04T23:46:48+00:00",
-      "summary": "Volante não atuará nas partidas válidas pela Data Fifa de novembro, contra Japão e Singapura",
+      "publishedAt": "2026-11-04T23:42:00+00:00",
+      "summary": "A Agência Nacional de Telecomunicações (Anatel) publicou no Diário Oficial da União (DOU) desta quarta-feira (4) novas regras para ampliar a segurança dos usuários de telefonia móvel e dificultar a aplicação de golpes por meio de mensagens de texto (SMS). Com as regras, as operadoras de telefonia móvel ficam obrigadas ",
       "category": "Esportes"
     },
     {
-      "title": "23h Número de alunos sem aulas vai ser conhecido em dezembro, diz ministro da Educação",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-numero-de-alunos-sem-aulas-vai-ser-conhecido-em-dezembro-diz-ministro-da-educacao_a1_1776972",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T23:45:02+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "Alcolumbre diz lamentar eleição de quem se promove “ofendendo e agredindo”",
-      "url": "https://www.cnnbrasil.com.br/politica/alcolumbre-diz-lamentar-eleicao-de-quem-se-promove-ofendendo-e-agredindo/",
-      "source": "CNN Brasil",
+      "title": "Pará registra maior exploração madeireira dos últimos cinco anos",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/para-registra-maior-exploracao-madeireira-dos-ultimos-cinco-anos",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-04T23:44:31+00:00",
-      "summary": "Presidente do Senado questionou senadores no plenário sobre a qualidade das urnas eletrônicas: \"Só vale no primeiro turno? No segundo turno não prestou mais?\"",
-      "category": "Política"
-    },
-    {
-      "title": "Lucro da Axia, antiga Eletrobras, cai 19,1% para R$ 1,76 bi no terceiro tri",
-      "url": "https://www.cnnbrasil.com.br/infra/lucro-da-axia-antiga-eletrobras-cai-191-para-r-176-bi-no-terceiro-tri/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:43:43+00:00",
-      "summary": "Ganhos contábeis em 2025 elevam base de comparação; corte de despesas e melhora financeira amortecem queda do lucro",
+      "publishedAt": "2026-11-04T23:41:00+00:00",
+      "summary": "O estado do Pará registrou 60.664 hectares de exploração madeireira entre agosto de 2024 e julho de 2025, a maior área desde o ciclo 2019-2020. Além disso, o resultado representa um aumento de mais de 40% em relação ao ciclo anterior, de agosto de 2023 a julho de 2024. Divulgados nesta quarta-feira (4), os dados são do",
       "category": "Mundo"
-    },
-    {
-      "title": "Presidente da Câmara dos EUA deve deixar liderança após derrota republicana",
-      "url": "https://www.cnnbrasil.com.br/internacional/presidente-da-camara-dos-eua-deve-deixar-lideranca-apos-derrota-republicana/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:40:52+00:00",
-      "summary": "Decisão foi anunciada por Mike Johnson nesta quarta-feira (4), horas após o Partido Democrata conquistar maioria em ambas as Casas do Congresso americano",
-      "category": "Política"
-    },
-    {
-      "title": "Botafogo x Atlético-MG: escalações e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-x-atletico-mg-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao-2/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T23:34:02+00:00",
-      "summary": "Equipes se enfrentam nesta quarta-feira (4), no Nilton Santos, no Rio de Janeiro, às 21h30 (de Brasília), em partida válida pela 34ª rodada da competição",
-      "category": "Esportes"
     },
     {
       "title": "Entidades da indústria e do comércio recorrem ao STF contra fim da 6x1",
@@ -380,33 +506,6 @@
       "category": "Economia"
     },
     {
-      "title": "Advogados oficiosos com casos longos passam a receber pagamentos intercalares",
-      "url": "https://www.rtp.pt/noticias/pais/advogados-oficiosos-com-casos-longos-passam-a-receber-pagamentos-intercalares_n1776950",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T22:33:18+00:00",
-      "summary": "A ministra da Justiça anunciou hoje no parlamento que já assinou a portaria que vai permitir pagamentos intercalares aos advogados oficiosos, evitando que em processos longos tenham que esperar pelo seu fim para ser pagos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "El-Sayed considera que Michigan rejeitou \"campanha odiosa e rancorosa\"",
-      "url": "https://www.rtp.pt/noticias/mundo/el-sayed-considera-que-michigan-rejeitou-campanha-odiosa-e-rancorosa_n1776948",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T22:32:53+00:00",
-      "summary": "O senador democrata eleito Abdul El-Sayed disse hoje à Associated Press que os eleitores de Michigan rejeitaram \"uma campanha odiosa e rancorosa\" após meses de ataques republicanos à sua identidade muçulmana.",
-      "category": "Política"
-    },
-    {
-      "title": "Obra do compositor português Jorge Ramos entre finalistas do Prémio Russolo 2026",
-      "url": "https://www.rtp.pt/noticias/cultura/obra-do-compositor-portugues-jorge-ramos-entre-finalistas-do-premio-russolo-2026_n1776961",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T22:31:08+00:00",
-      "summary": "A obra do compositor português Jorge Ramos, criada para a instalação \"Uma ária para o pato-real\", da Fundação Calouste Gulbenkian, em Lisboa, está entre os oito finalistas do Prémio Russolo 2026, anunciados pela organização.",
-      "category": "Mundo"
-    },
-    {
       "title": "Sete brasileiros são eleitos para assembleias estaduais nos EUA",
       "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/sete-brasileiros-sao-eleitos-para-assembleias-estaduais-nos-eua",
       "source": "Agência Brasil",
@@ -423,105 +522,6 @@
       "publishedAt": "2026-11-04T22:16:00+00:00",
       "summary": "A Defesa Civil de Santa Catarina confirmou a ocorrência de tornados na manhã desta quarta-feira (4) em Chapecó e em Xanxerê, no oeste do estado. Desde domingo (1º), a chuva intensa, o vento e o granizo atingiram 86 municípios catarinenses, afetando 4.441 casas. Treze municípios decretaram situação de emergência e há 34",
       "category": "Clima"
-    },
-    {
-      "title": "Fenabrave prevê aumento de 12,8% na venda de veículos novos em 2026",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fenabrave-preve-aumento-de-128-na-venda-de-veiculos-novos-em-2026",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T22:11:00+00:00",
-      "summary": "A Federação Nacional da Distribuição de Veículos Automotores (Fenabrave) aumentou a projeção de crescimento para as vendas de veículos novos em 2026 de 8,6% para 12,8%. A expectativa foi divulgada nesta quarta-feira (4), com os dados de emplacamentos de veículos novos no país em outubro. A previsão é de que o setor, co",
-      "category": "Mundo"
-    },
-    {
-      "title": "Franclim Carvalho quer Sporting de Braga a resolver jogo \"o mais cedo possível\"",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/franclim-carvalho-quer-sporting-de-braga-a-resolver-jogo-o-mais-cedo-possivel_d1776964",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T22:06:59+00:00",
-      "summary": "O treinador Franclim Carvalho disse querer o Sporting de Braga a \"decidir o mais cedo possível\" o jogo no terreno dos dinamarqueses do Aarhus, quinta-feira, na terceira jornada da Liga Conferência de futebol.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Acampada do Porto aprova encontro com presidente e exige demissão de Luís Neves",
-      "url": "https://www.rtp.pt/noticias/economia/acampada-do-porto-aprova-encontro-com-presidente-e-exige-demissao-de-luis-neves_n1776962",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T21:50:16+00:00",
-      "summary": "A Acampada do Porto pela habitação aprovou esta quarta-feira a participação num encontro, no Palácio de Belém, com o presidente da República, e vai pedir a António José Seguro que exija a demissão do ministro da Administração Interna, Luís Neves.",
-      "category": "Política"
-    },
-    {
-      "title": "Receita apreende 15 toneladas de produtos irregulares no Porto do Rio",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/receita-apreende-15-toneladas-de-produtos-irregulares-no-porto-do-rio",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T21:42:00+00:00",
-      "summary": "A Receita Federal apreendeu, nesta quarta-feira (4), contêiner com aproximadamente 15 toneladas de mercadorias irregulares no Porto do Rio de Janeiro. A carga, proveniente da China, continha cerca de 243 mil itens e foi avaliada em R$ 3,6 milhões. Durante a fiscalização, a mercadoria foi inicialmente declarada como gua",
-      "category": "Economia"
-    },
-    {
-      "title": "Banco Central surpreende e mantém juros básicos em 13,75% ao ano",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bc-surpreende-e-mantem-juros-basicos-em-1375-ao-ano",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T21:33:00+00:00",
-      "summary": "As tensões em torno do câmbio e do fenômeno climático El Niño fizeram o Banco Central (BC) botar o pé no freio. Por unanimidade, o Comitê de Política Monetária (Copom) manteve a Taxa Selic, juros básicos da economia, em 13,75% ao ano. Em comunicado, o Copom informou que as incertezas se ampliaram nas últimas semanas e ",
-      "category": "Economia"
-    },
-    {
-      "title": "Fachin dá 15 dias para PGR analisar indiciamento de Vorcaro",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-da-15-dias-para-pgr-analisar-indiciamento-de-vorcaro",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-04T21:27:00+00:00",
-      "summary": "O ministro Edson Fachin, do Supremo Tribunal Federal (STF), deu prazo de 15 dias para a Procuradoria-Geral da República (PGR) se manifestar sobre o relatório no qual a Polícia Federal (PF) indiciou o ex-banqueiro Daniel Vorcaro e mais 14 investigados pelas fraudes financeiras no Banco Regional de Brasília (BRB). Fachin",
-      "category": "Política"
-    },
-    {
-      "title": "Metro chegará a Espinho, São João da Madeira, Oliveira de Azeméis e Feira diz Ministro das Infraestruturas",
-      "url": "https://www.rtp.pt/noticias/economia/metro-chegara-a-espinho-sao-joao-da-madeira-oliveira-de-azemeis-e-feira-diz-ministro-das-infraestruturas_n1776893",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T21:25:50+00:00",
-      "summary": "O ministro das Infraestruturas avançou hoje ter mandatado a Metro do Porto a expandir o metro aos municípios do sul da Área Metropolitana do Porto, como \"Espinho, São João da Madeira, Santa Marida da Feira, Oliveira de Azeméis\".",
-      "category": "Política"
-    },
-    {
-      "title": "Governo quer Matemática obrigatória até ao 12.º ano em todos os cursos",
-      "url": "https://www.rtp.pt/noticias/pais/governo-quer-matematica-obrigatoria-ate-ao-12o-ano-em-todos-os-cursos_n1776960",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T21:23:57+00:00",
-      "summary": "O Ministério da Educação quer tornar a Matemática obrigatória até ao 12.º ano, independentemente do curso que os alunos escolham no ensino secundário, anunciou hoje o ministro Fernando Alexandre.",
-      "category": "Política"
-    },
-    {
-      "title": "Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid",
-      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-soma-se-a-30a-cimeira-ibero-americana-de-madrid_n1776895",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T21:20:25+00:00",
-      "summary": "O Presidente da Ucrânia, Volodymyr Zelensky, chegou hoje a Madrid, onde prevê reunir-se com os líderes da comunidade ibero-americana que estão na capital espanhola para uma cimeira, segundo o governo espanhol.",
-      "category": "Política"
-    },
-    {
-      "title": "República Democrática do Congo. Duas novas vacinas contra o vírus Bundibugyo vão integrar ensaio clínico",
-      "url": "https://www.rtp.pt/noticias/mundo/republica-democratica-do-congo-duas-novas-vacinas-contra-o-virus-bundibugyo-vao-integrar-ensaio-clinico_n1776908",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T21:14:29+00:00",
-      "summary": "Duas vacinas que estão a ser desenvolvidas especificamente para o vírus Bundibugyo vão integrar o ensaio clínico que está a decorrer na República Democrática do Congo, onde uma epidemia de Ébola já matou 5.100 pessoas.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "\"Sonho antigo\" e recíproco. Paulo Fonseca apresentado em Alvalade",
-      "url": "https://www.rtp.pt/noticias/sporting/sonho-antigo-e-reciproco-paulo-fonseca-apresentado-em-alvalade_d1776958",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-04T21:04:11+00:00",
-      "summary": "A contratação de Paulo Fonseca como novo treinador do Sporting foi oficializada esta quarta-feira, no Estádio de Alvalade. Na apresentação, Frederico Varandas e o treinador português revelaram que sonhavam com este momento há vários anos.",
-      "category": "Mundo"
     }
   ],
   "sources": [
