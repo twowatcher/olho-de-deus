@@ -1,257 +1,464 @@
 {
-  "updatedAt": "2026-11-06T03:24:16.729338+00:00",
+  "updatedAt": "2026-11-06T12:02:09.178740+00:00",
   "items": [
     {
-      "title": "As notícias das 3h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2488/",
+      "title": "IA pode vir a revolucionar a forma como marcamos férias",
+      "url": "https://observador.pt/programas/mundo-ia/ia-pode-vir-a-revolucionar-a-forma-como-marcamos-ferias/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-11-06T03:16:21+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "IBGE abre mais de 280 vagas para recenseadores no Triângulo e Alto Paranaíba; veja como se inscrever",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/06/ibge-abre-mais-de-280-vagas-para-recenseadores-no-triangulo-e-alto-paranaiba-veja-como-se-inscrever.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T03:05:00+00:00",
-      "summary": "Recenseador usa celular durante pesquisa. DIRCEU PORTUGAL/FOTOARENA/FOTOARENA/ESTADÃO CONTEÚDO O Instituto Brasileiro de Geografia e Estatística (IBGE) está com inscrições abertas para preencher 283 vagas temporárias no Triângulo Mineiro e Alto Paranaíba para atuação como recenseador no 12º Censo Agropecuário, Floresta",
+      "publishedAt": "2026-11-06T11:59:22+00:00",
+      "summary": "Airbnb anunciou que vai lançar o próprio agente para ajudar a planear viagens no já primeiro semestre de 2027. Ainda, febre dos Data Centers gera contestação e motiva protestos em todo o Mundo.",
       "category": "Ciência & Tech"
     },
     {
-      "title": "Estado conhece trabalho da Saúde Mental do Município",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/06/estado-conhece-trabalho-da-saude-mental-do-municipio.ghtml",
+      "title": "Forças de segurança e MPRJ descartam ameaça generalizada em Volta Redonda",
+      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/06/forcas-de-seguranca-e-mprj-descartam-ameaca-generalizada-em-volta-redonda.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-06T03:03:00+00:00",
-      "summary": "Visita técnica reforça integração entre Município e Estado para fortalecer Rede de Atenção Psicossocial Divulgação Rio das Ostras recebeu, uma equipe da Secretaria de Estado de Saúde do Rio de Janeiro para uma visita técnica às unidades de Saúde Mental do Município. A visita teve objetivo de reforçar a cooperação e a t",
-      "category": "Saúde"
-    },
-    {
-      "title": "Prospera oferece serviços gratuitos em São Pedro da Aldeia neste sábado (07/11)",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prolagos/prolagos-nossa-natureza-movimenta-a-vida/noticia/2026/11/06/prospera-oferece-servicos-gratuitos-em-sao-pedro-da-aldeia-neste-sabado-0711.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T03:02:00+00:00",
-      "summary": "Os serviços gratuitos fazem parte da programação que começará às 9h no CIEP 272, no bairro São João Arquivo Prolagos Consultas clínicas, exames de vista, atendimento odontológico, serviços de beleza, orientações sobre benefícios sociais e atividades para toda a família estarão disponíveis gratuitamente neste sábado (07",
-      "category": "Cultura"
-    },
-    {
-      "title": "Macaé celebra Mês da Pessoa Idosa com show de Elymar Santos",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/06/macae-celebra-mes-da-pessoa-idosa-com-show-de-elymar-santos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T03:02:00+00:00",
-      "summary": "Praia de Imbetiba recebe apresentação musical gratuita para celebrar o público da terceira idade Divulgação O encerramento das comemorações do Mês da Pessoa Idosa no município será marcado por música e lazer no sábado (7), a partir das 19h, na Praia de Imbetiba. A iniciativa Viva 60+ Macaé Celebra a Melhor Idade, reali",
-      "category": "Cultura"
-    },
-    {
-      "title": "IBGE abre 1,2 mil vagas temporárias no PI; inscrições iniciam nesta sexta (6)",
-      "url": "https://g1.globo.com/pi/piaui/trabalho-e-carreira/noticia/2026/11/06/ibge-vagas-temporarias-piaui.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T03:01:01+00:00",
-      "summary": "IBGE divulga mudanças na forma como o brasileiro vai estudar o mapa do Brasil Um concurso com 1.226 vagas no Piauí para recenseadores está com inscrições abertas a partir desta sexta-feira (6). Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), os profissionais vão atuar no 12º Censo Agropecuário, Flores",
-      "category": "Clima"
-    },
-    {
-      "title": "De escândalo bancário ao impeachment: veja a cronologia da crise no Paraguai que ameaça derrubar o presidente",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/06/de-escandalo-bancario-ao-impeachment-veja-a-cronologia-da-crise-no-paraguai-que-ameaca-derrubar-o-presidente.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T03:00:29+00:00",
-      "summary": "O Paraguai vive uma crise política que pode terminar com a saída do presidente Santiago Peña. O escândalo começou após o fechamento de um banco e chegou rapidamente chegou ao Congresso, onde a oposição apresentou um pedido de impeachment contra o presidente. Na quinta-feira (5), em meio à pressão política, Peña anuncio",
-      "category": "Política"
-    },
-    {
-      "title": "Sucuri gigante encontrada em Goiás já tinha comido gatos e galinhas, diz bombeiro",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/11/06/sucuri-gigante-encontrada-em-goias-ja-tinha-comido-gatos-e-galinhas-diz-bombeiro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T03:00:02+00:00",
-      "summary": "Sucuri-amarela é capturada próxima a residência, em Caldas Novas A sucuri-amarela de aproximadamente 4,5 metros capturada perto de uma residência no Setor Lagoa Quente, em Caldas Novas, no sul de Goiás, já havia se alimentado de galinhas e gatos que viviam na região. A informação foi confirmada ao g1 pelo tenente Fábio",
+      "publishedAt": "2026-11-06T11:58:20+00:00",
+      "summary": "Forças de segurança e MPRJ avaliam crise em Volta Redonda e descartam toque de recolher Divulgação/MPRJ Representantes do Ministério Público do Estado do Rio de Janeiro (MPRJ), das polícias Civil e Militar, da Secretaria Municipal de Ordem Pública e da Guarda Municipal se reuniram na quinta-feira (5) para avaliar a sit",
       "category": "Mundo"
     },
     {
-      "title": "Empresário perde mais de R$ 200 mil e cambista fica sem dinheiro das férias: o prejuízo de brasileiros com crise no Paraguai",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/06/empresario-perde-mais-de-r-200-mil-e-cambista-fica-sem-dinheiro-das-ferias-o-prejuizo-de-brasileiros-com-crise-no-paraguai.ghtml",
+      "title": "VÍDEO: australiana salva filhote de coala de ataque de cobra",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/06/video-australiana-salva-filhote-de-coala-de-ataque-de-cobra.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-06T03:00:02+00:00",
-      "summary": "Ueno Bank no Paraguai Marcos Landim/RPC A crise bancária e política que abala o Paraguai nos últimos dias afetou também a vida de brasileiros que moram no país. O g1 conversou com um empresário que perdeu mais de R$ 200 mil, uma cambista que ficou sem o dinheiro que economizou para as férias e um dono de oficina que fi",
+      "publishedAt": "2026-11-06T11:57:48+00:00",
+      "summary": "Uma australiana registrou um momento herona que viveu ao conseguir salvar um filhote de coala do ataque de uma cobra em Brisbane, na Austrália. Filhote de coala com píton enrolada nele REUTERS",
       "category": "Mundo"
     },
     {
-      "title": "Lula faz reunião nesta sexta para discutir recriação do Ministério da Segurança Pública; pasta existiu no governo Temer",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/06/lula-faz-reuniao-nesta-sexta-para-discutir-recriacao-do-ministerio-da-seguranca-publica-pasta-existiu-no-governo-temer.ghtml",
+      "title": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-06T03:00:01+00:00",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) faz uma reunião nesta sexta-feira (6) para discutir a recriação do Ministério da Segurança Pública. A criação de uma pasta específica para a área é uma promessa de Lula e foi reforçada pelo presidente após a aprovação da Proposta de Emenda à Constituição (PEC) da Segurança Pú",
-      "category": "Política"
+      "publishedAt": "2026-11-06T11:57:08+00:00",
+      "summary": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "category": "Mundo"
     },
     {
-      "title": "Frio deve voltar ao Centro-Sul após sequência de temporais; veja a previsão para o fim de semana",
-      "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/06/frio-deve-voltar-ao-centro-sul-veja-a-previsao-para-o-fim-de-semana.ghtml",
+      "title": "Hemoba promove Sabadão Solidário em unidades do interior da Bahia durante novembro",
+      "url": "https://g1.globo.com/ba/bahia/saudenabahia/noticia/2026/11/06/doacao-de-sangue-na-bahia.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-06T03:00:01+00:00",
-      "summary": "RENATO S. CERQUEIRA/FUTURA PRESS/ESTADÃO CONTEÚDO Depois dos temporais que atingiram o Sul do Brasil nesta semana, uma nova frente fria deve avançar pela região no sábado (7), aumentando novamente o risco de chuva forte, rajadas de vento e granizo em parte do Centro-Sul do país. A mudança deve ocorrer após uma sexta-fe",
-      "category": "Cultura"
+      "publishedAt": "2026-11-06T11:57:07+00:00",
+      "summary": "Hemoba promove Sabadão Solidário em unidades do interior da Bahia durante novembro Mateus Pereira/GOVBA A Fundação Hemoba realiza, durante o mês de novembro, novas edições do Sabadão Solidário, iniciativa que amplia o atendimento em suas unidades de coleta para incentivar a doação voluntária de sangue e o cadastro de d",
+      "category": "Mundo"
     },
     {
-      "title": "IBGE abre inscrições para concurso com mais de 27 mil vagas e salários que podem superar R$ 4 mil",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/06/ibge-abre-inscricoes-para-concurso-com-mais-de-27-mil-vagas-e-salarios-que-podem-superar-r-4-mil.ghtml",
+      "title": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
+      "url": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-06T03:00:01+00:00",
-      "summary": "IBGE Tocantins Helena Pontes/Agência IBGE Notícias As inscrições para o concurso temporário do IBGE para atuar no 12º Censo Agropecuário, Florestal e Aquícola de 2027 começam nesta sexta-feira (6). Os interessados podem se candidatar até 25 de novembro pelo site da Fundação Cesgranrio, organizadora da seleção. A taxa d",
+      "publishedAt": "2026-11-06T11:56:52+00:00",
+      "summary": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
+      "category": "Mundo"
+    },
+    {
+      "title": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:56:38+00:00",
+      "summary": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+      "category": "Mundo"
+    },
+    {
+      "title": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:56:23+00:00",
+      "summary": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "category": "Mundo"
+    },
+    {
+      "title": "Suspeito de matar vítima com golpes na cabeça é encontrado em área rural do DF; VÍDEO",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/suspeito-de-matar-vitima-com-golpes-na-cabeca-e-encontrado-em-area-rural-do-df-video.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:55:09+00:00",
+      "summary": "Suspeito de matar vítima com golpes na cabeça é encontrado em área rural do DF Um homem suspeito de matar uma pessoa com golpes na cabeça foi localizado e preso na área rural de Sobradinho, no Distrito Federal, na quinta-feira (5). O crime aconteceu em 1º de agosto, na região da Fazenda Velha, no Itapoã. O autor atacou",
       "category": "Esportes"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 55 milhões nesta sexta-feira; g1 transmite ao vivo",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/06/mega-sena-pode-pagar-r-55-milhoes-nesta-sexta-feira-g1-transmite-ao-vivo.ghtml",
+      "title": "Lutador é preso após agressões a idosas em condomínio na Tijuca; mulher foi espancada no elevador",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/06/lutador-e-preso-por-agressao.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-06T03:00:01+00:00",
-      "summary": "Como funciona a Mega-Sena? O concurso 3.082 da Mega-Sena pode pagar um prêmio de R$ 55 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta sexta-feira (6), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia No concurso da última quarta (4), nenhuma apos",
+      "publishedAt": "2026-11-06T11:52:13+00:00",
+      "summary": "Um lutador de jiu-jítsu foi preso em flagrante após agredir vizinhas em um condomínio na Avenida Maracanã, na Tijuca, Zona Norte do Rio de Janeiro, na madrugada desta quinta-feira (5). A Justiça decretou a prisão de Lucas Portela Fontana Gomes por tentativa de feminicídio. Segundo os relatos reunidos na investigação, L",
       "category": "Mundo"
     },
     {
-      "title": "Abel Ferreira critica não convocação de jogadores do Flamengo pela Seleção",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-ferreira-critica-nao-convocacao-de-jogadores-do-flamengo-pela-selecao/",
+      "title": "Bolsas da Ásia: Nikkei entra em “bear market” e mercados despencam com tech",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-nikkei-entra-em-bear-market-e-mercados-despencam-com-tech/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-06T02:41:46+00:00",
-      "summary": "Treinador questiona tratamento diferenciado da CBF entre Palmeiras e o atual líder do Brasileirão e elogia desempenho na goleada sobre o Remo",
-      "category": "Esportes"
-    },
-    {
-      "title": "Tornados e enchentes: SC corre para fazer obras contra efeitos do El Niño",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/tornados-e-enchentes-sc-corre-para-fazer-obras-contra-efeitos-do-el-nino/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T02:36:41+00:00",
-      "summary": "Iniciativa privada tenta impulsionar construção de 'parque inundável' contra enchentes no Balneário Camboriú; empresários doam R$ 400 mil, mas valor total da construção pode chegar a quase R$ 100 milhões",
-      "category": "Clima"
-    },
-    {
-      "title": "Em noite de golaços, Cruzeiro vence o Bahia com brilho de Kaio Jorge",
-      "url": "https://www.cnnbrasil.com.br/esportes/em-noite-de-golacos-cruzeiro-vence-o-bahia-com-brilho-de-kaio-jorge/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T02:30:20+00:00",
-      "summary": "Com direito a golaço, VAR e reviravolta, equipes protagonizam partida eletrizante no Mineirão em partida válida pela 34ª rodada do Brasileirão",
-      "category": "Esportes"
-    },
-    {
-      "title": "Abel cita “fator chave” para domínio de Flamengo e Palmeiras no Brasileiro",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-cita-fator-chave-para-dominio-de-flamengo-e-palmeiras-no-brasileiro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T02:19:51+00:00",
-      "summary": "Apenas as duas equipes seguem com chances de conquistar o título do Campeonato Brasileiro desta temporada; time paulista está três pontos atrás da equipe carioca",
-      "category": "Esportes"
-    },
-    {
-      "title": "Candidata socialista do Partido Democrata é eleita prefeita de Los Angeles",
-      "url": "https://www.cnnbrasil.com.br/internacional/candidata-socialista-do-partido-democrata-e-eleita-prefeita-de-los-angeles/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T02:19:44+00:00",
-      "summary": "Nithya Raman venceu a disputa contra a atual chefe do Executivo municipal, Karen Bass, do mesmo partido; vereadora nascida na Índia pautou a população em situação de rua como tema central da campanha",
-      "category": "Política"
-    },
-    {
-      "title": "2h. Liga Europa. Benfica vence Lech Poznań por 3-1",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2460/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T02:16:31+00:00",
-      "summary": "Encarnados seguem gloriosos e mantém-se no grupo de líderes da competição, no topo da tabela classificativa. Ainda nesta edição, Mário Centeno é o preferido dos portugueses para primeiro-ministro.",
-      "category": "Política"
-    },
-    {
-      "title": "Após sediar a COP30, Brasil chega à COP31 com desafio de manter liderança",
-      "url": "https://www.cnnbrasil.com.br/infra/apos-sediar-a-cop30-brasil-chega-a-cop31-com-desafio-de-manter-lideranca/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T01:58:59+00:00",
-      "summary": "Em debate no CNN Talks, especialistas afirmam que país tem potencial para liderar a agenda ambiental global, mas precisa avançar na implementação de compromissos e políticas climáticas",
-      "category": "Mundo"
-    },
-    {
-      "title": "Grande mancha de lixo do Pacífico pode conter tanto plástico que está mudando a cor do oceano",
-      "url": "https://www.cnnbrasil.com.br/ciencia/grande-mancha-de-lixo-do-pacifico-pode-conter-tanto-plastico-que-esta-mudando-a-cor-do-oceano/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T01:58:24+00:00",
-      "summary": "Simulações em laboratório e dados de satélite mostram que partículas visíveis do espaço podem ajudar a monitorar a degradação ambiental",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Cinco tornados atingem a região Sul do Brasil em menos de uma semana",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/cinco-tornados-atingem-a-regiao-sul-do-brasil-em-menos-de-uma-semana/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T01:32:34+00:00",
-      "summary": "Fenômenos provocaram duas mortes em Santa Catarina e deixaram rastros de destruição no Rio Grande do Sul e no Paraná; no estado gaúcho, dois óbitos estão sob investigação",
-      "category": "Mundo"
-    },
-    {
-      "title": "Banho frio pode reduzir em 26% os afastamentos por doença e diminuir a emissão de dióxido de carbono, aponta estudo",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/banho-frio-pode-reduzir-em-26-os-afastamentos-por-doenca-e-diminuir-a-emissao-de-dioxido-de-carbono-aponta-estudo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T01:22:25+00:00",
-      "summary": "Pesquisa realizada com 719 pessoas também identificou menos faltas ao trabalho e possíveis benefícios ambientais com a redução da temperatura da água",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "1h. Flávio Bolsonaro afasta ajuda externa para fugir do país",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2437/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T01:17:38+00:00",
-      "summary": "Flávio Bolsonaro admite que poderá ter contado com a simpatia de amigos no estrangeiro, mas assegura que não recebeu ajuda para concretizar a fuga. Ainda, Benfica vence Lech Poznań por 3-1.",
-      "category": "Mundo"
-    },
-    {
-      "title": "01h Ministro: apoios aos agricultores é subsídio a cada português",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-ministro-apoios-aos-agricultores-e-subsidio-a-cada-portugues_a1_1777261",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T01:14:01+00:00",
-      "summary": "",
-      "category": "Política"
-    },
-    {
-      "title": "Palmeiras 6 x 1 Remo: veja os melhores momentos pelo Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-6-x-1-remo-veja-os-melhores-momentos-pelo-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T01:08:12+00:00",
-      "summary": "Time alviverde teve uma grande atuação e massacrou o adversário nesta quinta-feira (5), em jogo válido pela 34ª rodada do Campeonato Brasileiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "Waack: Lula procura saída para um impasse que não reconhece",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/waack-lula-procura-saida-para-um-impasse-que-nao-reconhece/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-06T01:04:05+00:00",
-      "summary": "No Alvorada, Lula reuniu 11 pessoas ligadas ao PT para ouvir sobre economia, com ideias já muito conhecidas",
+      "publishedAt": "2026-11-06T11:51:33+00:00",
+      "summary": "Nikkei caiu 5,96%, a 57.434,77 pontos, no pior dia desde abril de 2025, enquanto o Kospi caiu até 8,8% durante o pregão, acionando uma interrupção de 20 minutos",
       "category": "Economia"
     },
     {
-      "title": "Eventos climáticos atingem 85% das cidades brasileiras, diz secretário",
-      "url": "https://www.cnnbrasil.com.br/infra/eventos-climaticos-atingem-85-das-cidades-brasileiras-diz-secretario/",
+      "title": "PF faz operação contra grupo suspeito de levar mais de 270 brasileiros ilegalmente aos EUA",
+      "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/06/pf-faz-operacao-contra-grupo-suspeito-de-levar-mais-de-270-brasileiros-ilegalmente-aos-eua.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:51:10+00:00",
+      "summary": "PF faz operação contra grupo suspeito de levar mais de 270 brasileiros ilegalmente aos EUA Polícia Federal A Polícia Federal deflagrou, na manhã desta sexta-feira (6), a Operação Chihuahua para investigar um grupo suspeito de organizar a entrada ilegal de brasileiros nos Estados Unidos. A ação tem como alvo uma associa",
+      "category": "Mundo"
+    },
+    {
+      "title": "Líder de seita acusado pela morte de 190 crianças é condenado a 200 anos de prisão",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/06/lider-de-seita-acusado-pela-morte-de-190-criancas-e-condenado-a-200-anos-de-prisao.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:50:25+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "JO da Juventude. Artur Gaspar conquista ouro no triatlo",
+      "url": "https://www.rtp.pt/noticias/desporto/triatlo-artur-gaspar-e-campeao-olimpico-da-juventude_v1777357",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:49:47+00:00",
+      "summary": "O triatleta Artur Gaspar conquistou a medalha de ouro na prova masculina de triatlo nos Jogos Olímpicos da Juventude Dacar 2026.",
+      "category": "Esportes"
+    },
+    {
+      "title": "INSS muda regras do auxílio-doença sem perícia e cria reanálise após benefício negado",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/06/inss-muda-regras-do-auxilio-doenca-sem-pericia-e-cria-reanalise-apos-beneficio-negado.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:49:15+00:00",
+      "summary": "O Ministério da Previdência Social e o Instituto Nacional do Seguro Social (INSS) mudaram as regras para a concessão do auxílio por incapacidade temporária, o antigo auxílio-doença, por meio da análise de documentos médicos, sem perícia presencial. Com a mudança, o segurado que tiver o benefício negado por parecer técn",
+      "category": "Saúde"
+    },
+    {
+      "title": "Natação. Miguel Oliveira é campeão olímpico da juventude em Dacar",
+      "url": "https://www.rtp.pt/noticias/desporto/natacao-miguel-oliveira-e-campeao-olimpico-da-juventude-em-dacar_v1777356",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:46:47+00:00",
+      "summary": "O nadador Miguel Oliveira sagrou-se campeão olímpico da juventude nos 50 metros costas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Governo está a avaliar eficácia do abono de família no combate à pobreza infantil",
+      "url": "https://www.rtp.pt/noticias/economia/governo-esta-a-avaliar-eficacia-do-abono-de-familia-no-combate-a-pobreza-infantil_n1777353",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:46:40+00:00",
+      "summary": "O Governo está a avaliar a eficácia do abono de família no combate à pobreza infantil antes de avançar com aumentos mais significativos desta prestação social, anunciou hoje a ministra do Trabalho.",
+      "category": "Política"
+    },
+    {
+      "title": "Liga Europa. Torreense vence Ararat-Armenia por 3-2",
+      "url": "https://www.rtp.pt/noticias/desporto/liga-europa-torreense-vence-ararat-armenia-por-3-2_v1777355",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:42:47+00:00",
+      "summary": "O Torreense continua a fazer história na Liga Europa, após vencer os arménios do Ararat-Armenia por 3-2.",
+      "category": "Economia"
+    },
+    {
+      "title": "Bolsas da Europa operam em queda após liquidação de tech e antes de payroll",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-operam-em-queda-apos-liquidacao-de-tech-e-antes-de-payroll/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-06T01:01:25+00:00",
-      "summary": "Marcio Leão Coelho, secretário do Ministério das Cidades, afirma que prefeituras precisam acelerar projetos de prevenção e antecipar problemas",
+      "publishedAt": "2026-11-06T11:41:56+00:00",
+      "summary": "Setor europeu de tecnologia oscilava em torno da estabilidade, enquanto as perdas na região se concentravam em outros segmentos, como mídia, saúde e varejo, que recuavam mais de 2%",
+      "category": "Economia"
+    },
+    {
+      "title": "Novo estudo revela descoberta de cidade subterrânea escondida no Egito usada como complexo religioso há mais de 2 mil anos",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/novo-estudo-revela-descoberta-de-cidade-subterranea-escondida-no-egito-usada-como-complexo-religioso-ha-mais-de-2-mil-anos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:40:43+00:00",
+      "summary": "Imagens de satélite expuseram intervenções e diversos artefatos religiosos no terreto da cidade de Buto",
+      "category": "Cultura"
+    },
+    {
+      "title": "Flamengo com boa vantagem e Palmeiras sonhando; veja as chances de título",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-com-boa-vantagem-e-palmeira-sonhando-veja-as-chances-de-titulo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:40:11+00:00",
+      "summary": "Rubro-negro venceu o Grêmio na rodada, enquanto o time alviverde aplicou uma sonora goleada sobre o Remo",
+      "category": "Esportes"
+    },
+    {
+      "title": "Ameaças de bomba atingem voos europeus pela 3ª vez na semana",
+      "url": "https://www.cnnbrasil.com.br/internacional/ameacas-de-bomba-atingem-voos-europeus-pela-3a-vez-na-semana/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:40:01+00:00",
+      "summary": "Nenhum artefato explosivo foi encontrado e todas as aeronaves pousaram em segurança; especialistas avaliam marcas de um \"ataque híbrido coordenado\"",
+      "category": "Economia"
+    },
+    {
+      "title": "Liga Europa. Benfica vence Lech Poznan por 3-1",
+      "url": "https://www.rtp.pt/noticias/desporto/liga-europa-benfica-vence-lech-poznan-por-3-1_v1777354",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:36:47+00:00",
+      "summary": "O Benfica venceu os polacos do Lech Pozna%u0144 por 3-1 e somou a quarta vitória consecutiva na Liga Europa.",
+      "category": "Economia"
+    },
+    {
+      "title": "Jorge Jesus divulga convocados para jogos da Liga das Nações",
+      "url": "https://observador.pt/liveblogs/selecionador-nacional-divulga-convocados-para-ultimos-jogos-da-liga-das-nacoes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:34:44+00:00",
+      "summary": "No dia seguinte à saída de Ronaldo da Seleção Nacional, Jorge Jesus anuncia os convocados para as últimas duas partidas da fase de grupos da competição, frente à Dinamarca e ao País de Gales.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Sismo de magnitude 6,1 atinge o Japão e é sentido em Tóquio",
+      "url": "https://observador.pt/2026/11/06/sismo-de-magnitude-61-atinge-o-japao-e-e-sentido-em-toquio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:34:29+00:00",
+      "summary": "Tremor atingiu o nível 3 da escala sísmica japonesa (que tem 7 níveis)",
       "category": "Mundo"
+    },
+    {
+      "title": "Mais dois navios em chamas no Estreito de Ormuz",
+      "url": "https://observador.pt/2026/11/06/guarda-revolucionaria-do-irao-da-conta-de-mais-dois-navios-em-chamas-no-estreito-de-ormuz/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:33:34+00:00",
+      "summary": "Washington afirma ter realizado uma ampla operação de desminagem no Estreito de Ormuz",
+      "category": "Mundo"
+    },
+    {
+      "title": "O Grande Debate: Mudança no Paraguai afeta interesses do Brasil?",
+      "url": "https://www.cnnbrasil.com.br/internacional/o-grande-debate-mudanca-no-paraguai-afeta-interesses-do-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:32:39+00:00",
+      "summary": "Assessor especial da Presidência Celso Amorim vê oportunidade de aproximação ao Mercosul; analistas debatem consequências políticas e econômicas para o Brasil",
+      "category": "Mundo"
+    },
+    {
+      "title": "EDP revê em alta metas para 2026 e prevê lucro de até 1.500 ME",
+      "url": "https://www.rtp.pt/noticias/economia/edp-reve-em-alta-metas-para-2026-e-preve-lucro-de-ate-1-500-me_n1777348",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:32:23+00:00",
+      "summary": "A EDP reviu em alta as metas financeiras para este ano, prevendo agora um lucro recorrente de 1.400 a 1.500 milhões de euros e um EBITDA recorrente de 5.400 milhões, 16% acima do apontado há um ano.",
+      "category": "Economia"
+    },
+    {
+      "title": "Campeã do mundo, Espanha convoca três novatos para jogos da Nations League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/campea-do-mundo-espanha-convoca-tres-novatos-para-jogos-da-nations-league/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:32:00+00:00",
+      "summary": "De la Fuente anuncia lista com 27 jogadores para enfrentar República Tcheca e Inglaterra; trio do Barcelona fica fora por lesão",
+      "category": "Esportes"
+    },
+    {
+      "title": "Viagem do Papa terá maratona por 3 países e “retorno ao lar” no Peru",
+      "url": "https://www.cnnbrasil.com.br/internacional/viagem-do-papa-tera-maratona-por-3-paises-e-retorno-ao-lar-no-peru/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:28:03+00:00",
+      "summary": "Pontífice de 71 anos percorrerá 30 mil quilômetros em 12 dias com paradas no Uruguai, Argentina e Peru acompanhado por equipe médica",
+      "category": "Saúde"
+    },
+    {
+      "title": "“Quem Ama Cuida”: Elenice pede divórcio, é agredida por Tom e cena impacta",
+      "url": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-elenice-pede-divorcio-e-agredida-por-tom-e-cena-impacta/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:26:28+00:00",
+      "summary": "Nas redes sociais, internautas reagiram à violência sofrida pela dona de casa após pedir separação ao capanga de Pilar (Isabel Teixeira); confira",
+      "category": "Mundo"
+    },
+    {
+      "title": "11h Falso alerta de bomba em avião da Ryanair em Lisboa",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-falso-alerta-de-bomba-em-aviao-da-ryanair-em-lisboa_a1_1777350",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:22:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cole Palmer fica de fora, e irmão de Bellingham é convocado pela Inglaterra",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/cole-palmer-fica-de-fora-e-irmao-de-bellingham-e-convocado-pela-inglaterra/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:20:18+00:00",
+      "summary": "Meia do Chelsea não é chamado para jogos da Liga das Nações contra Croácia e Espanha; irmão de Jude recebe primeira oportunidade na seleção principal",
+      "category": "Esportes"
+    },
+    {
+      "title": "\"A equipa de Donald Trump está presa por fios\"",
+      "url": "https://observador.pt/programas/o-dominio-da-guerra/a-equipa-de-donald-trump-esta-presa-por-fios/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:18:06+00:00",
+      "summary": "Coronel Arnaut Moreira considera que a declaração de JD Vance mostra a intenção de descolar de Donald Trump. Admite ainda que o posicionamento marca o arranque prematuro da corrida eleitoral de 2028.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Carne bovina: setor vê espaço para ampliar parceria e cota própria nos EUA",
+      "url": "https://www.cnnbrasil.com.br/agro/carne-bovina-setor-ve-espaco-para-ampliar-parceria-e-cota-propria-nos-eua/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:07:25+00:00",
+      "summary": "Presença brasileira em conferência tradicional da indústria ganha peso diante das mudanças no comércio bilateral; setor vê oportunidade de diversificar mercados e discute, nos bastidores, uma cota própria de até 200 mil toneladas",
+      "category": "Economia"
+    },
+    {
+      "title": "Palmeiras encurta atraso para o líder",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/palmeiras-encurta-atraso-para-o-lider_d1777345",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:07:06+00:00",
+      "summary": "O Palmeiras, de Abel Ferreira, goleou na quinta-feira à noite o Remo (6-1), em jogo da 34.ª jornada do campeonato brasileiro, e mantém-se na luta com o Flamengo pelo título de campeão.",
+      "category": "Esportes"
+    },
+    {
+      "title": "EDP vê \"ciclo virtuoso\" em Portugal e prevê lucro recorde",
+      "url": "https://observador.pt/2026/11/06/edp-ve-ciclo-virtuoso-no-sistema-eletrico-portugues-e-antecipa-lucros-recorde-para-2026/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:06:42+00:00",
+      "summary": "A EDP reviu em alta previsão de lucro para 1,4 a 1,5 mil milhões no final de 2026. CEO diz que mercado nacional vive um bom momento, com preços finais baixos, menos custos e procura a crescer.",
+      "category": "Economia"
+    },
+    {
+      "title": "Nos EUA, Flávio encontra Jim Caviezel, que interpreta Jair em ‘Dark Horse’",
+      "url": "https://www.cnnbrasil.com.br/politica/nos-eua-flavio-encontra-jim-caviezel-que-interpreta-jair-em-dark-horse/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:06:13+00:00",
+      "summary": "Senador e ator participavam da CPAC (Conferência de Ação Política Conservadora, na sigla em inglês), que aconteceu em Mar-a-Lago, propriedade de Donald Trump",
+      "category": "Política"
+    },
+    {
+      "title": "Moradores do campo receberão moradias do Minha Casa, Minha Vida",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/moradores-do-campo-terao-moradias-do-minha-casa-minha-vida",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T11:02:00+00:00",
+      "summary": "O governo federal autorizou a contratação de 716 unidades habitacionais do Programa Minha Casa, Minha Vida Rural, que beneficiará agricultores familiares, trabalhadores rurais e famílias quilombolas de 12 municípios brasileiros. As moradias integram o eixo Cidades Sustentáveis e Resilientes do Novo PAC [Programa de Ace",
+      "category": "Política"
+    },
+    {
+      "title": "`Almofada financeira` da Segurança Social deve atingir 58.500 ME em 2027",
+      "url": "https://www.rtp.pt/noticias/economia/almofada-financeira-da-seguranca-social-deve-atingir-58-500-me-em-2027_n1777339",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T11:01:57+00:00",
+      "summary": "O Fundo de Estabilização Financeira da Segurança Social (FEFSS) deverá atingir cerca de 58,5 mil milhões de euros no próximo ano, permitindo suportar o equivalente a \"mais de dois anos\" de pensões, indicou hoje a ministra do Trabalho.",
+      "category": "Economia"
+    },
+    {
+      "title": "EDP revê em alta metas para 2026 e prevê lucro de até 1.500 ME",
+      "url": "https://www.rtp.pt/noticias/economia/edp-reve-em-alta-metas-para-2026-e-preve-lucro-de-ate-1-500-me_n1777332",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T10:56:45+00:00",
+      "summary": "A EDP reviu em alta as metas financeiras para este ano, prevendo agora um lucro recorrente de 1.400 a 1.500 milhões de euros e um EBITDA recorrente de 5.400 milhões, 16% acima do apontado há um ano.",
+      "category": "Economia"
+    },
+    {
+      "title": "Descoberta nova espécie de anfíbio da Península Ibérica com 66 milhões de anos",
+      "url": "https://www.rtp.pt/noticias/pais/descoberta-nova-especie-de-anfibio-da-peninsula-iberica-com-66-milhoes-de-anos_n1777328",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T10:56:33+00:00",
+      "summary": "Cientistas de instituições portuguesas e espanholas descobriram uma \"nova e enigmática\" espécie de anfíbio a partir de fósseis minúsculos com 66 milhões de anos encontrados em Espanha, indicou hoje a Universidade Nova de Lisboa.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Supremo reduz para 16 anos pena aplicada a homem que matou mulher no Algarve",
+      "url": "https://www.rtp.pt/noticias/pais/supremo-reduz-para-16-anos-pena-aplicada-a-homem-que-matou-mulher-no-algarve_n1777329",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T10:56:11+00:00",
+      "summary": "O Supremo Tribunal de Justiça (STJ) reduziu de 22 para 16 anos a pena de prisão aplicada a um homem pelo homicídio de uma cidadã brasileira que conheceu no Algarve e cujo corpo foi encontrado carbonizado no Alentejo.",
+      "category": "Política"
+    },
+    {
+      "title": "Entre a água, o solo e as exigências dos compradores",
+      "url": "https://observador.pt/programas/empresas-em-transformacao/entre-a-agua-o-solo-e-as-exigencias-dos-compradores-2/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T10:33:53+00:00",
+      "summary": "Vasco Martins e Pedro Barata debatem como a agricultura de precisão, a gestão de recursos e a sustentabilidade transformam a agroindústria perante as exigências globais",
+      "category": "Cultura"
+    },
+    {
+      "title": "Enem: 90 itens, redação e 5h30 de duração; conheça estrutura da prova",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-90-itens-redacao-e-5h30-de-duracao-conheca-estrutura-da-prova",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T10:32:00+00:00",
+      "summary": "Os mais de 5 milhões de candidatos que participarão no domingo (8) do Exame Nacional do Ensino Médio (Enem) de 2026 enfrentarão uma verdadeira maratona, com cinco horas e meia de duração. Conhecer o tempo de prova e a estrutura do exame ajuda o candidato a se programar melhor para não deixar itens em branco. Neste prim",
+      "category": "Clima"
+    },
+    {
+      "title": "Ameaça de bomba. Presidente OSCOT: \"São para levar a sério\"",
+      "url": "https://observador.pt/programas/resposta-pronta/ameaca-de-bomba-presidente-oscot-sao-para-levar-a-serio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T10:27:18+00:00",
+      "summary": "O Coronel Francisco Rodrigues, presidente do OSCOT, garante que todas as ameaças a voos obrigam ao acionamento imediato de protocolos de segurança e podem causar grandes perturbações.",
+      "category": "Política"
+    },
+    {
+      "title": "10h. Bastonário dos Médicos pede reforma no SNS",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2517/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T10:18:12+00:00",
+      "summary": "Carlos Cortes admite que tem havido esforço do Governo mas alerta que sem mais médicos de família o problema vai continuar. Ainda, PS considera difícil negociar com o Governo sobre Habitação.",
+      "category": "Política"
+    },
+    {
+      "title": "\"Se Chega não se revir na lei do arrendamento, vota contra\"",
+      "url": "https://observador.pt/programas/resposta-pronta/se-chega-nao-se-revir-na-lei-do-arrendamento-vota-contra/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T10:17:45+00:00",
+      "summary": "Eduardo Teixeira pede ao Governo que acolha algumas das propostas do Chega na discussão na especialidade. O deputado apela também a um consenso alargado sobre a habitação.",
+      "category": "Política"
+    },
+    {
+      "title": "Cafés com rosto do papa Leão XIV são destaque em Lima",
+      "url": "https://observador.pt/2026/11/06/cafes-com-rosto-do-papa-leao-xiv-sao-destaque-em-lima-a-espera-da-visita-ao-peru/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T10:10:26+00:00",
+      "summary": "Este não será o único lugar onde o Papa verá o seu rosto estampado. T-shirts, bonés, porta-chaves, entre outros objetos, estão a ser vendidos nas ruas de Lima por ocasião da visita do líder da Igreja Católica",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ordem dos Médicos quer \"novo SNS\" e sem \"pensos rápidos\"",
+      "url": "https://observador.pt/programas/explicador/ordem-dos-medicos-quer-novo-sns-e-sem-pensos-rapidos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-06T10:06:11+00:00",
+      "summary": "Carlos Cortes (Ordem dos Médicos) defende uma reforma profunda no SNS. Admite que vai ser muito dificil encontrar consenso entre o partidos, mas defende que deve haver \"coragem política\".",
+      "category": "Política"
+    },
+    {
+      "title": "Receita apreende artigos de futebol falsificados no Porto do Rio",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/receita-apreende-artigos-de-futebol-falsificados-no-porto-do-rio",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-06T10:02:00+00:00",
+      "summary": "Em mais uma ação de fiscalização contra o descaminho, agentes da Receita Federal apreenderam nessa quinta-feira (5) um contêiner com mercadorias contrafeitas - imitação ou cópia do produto original e não declaradas - no Porto do Rio de Janeiro. A carga, proveniente da China, tem peso de aproximadamente 22 toneladas e v",
+      "category": "Economia"
     },
     {
       "title": "Mulheres defendem articulação em rede para ampliar participação",
@@ -272,15 +479,6 @@
       "category": "Política"
     },
     {
-      "title": "Democratas conquistam larga maioria com mais de 250 lugares na câmara baixa",
-      "url": "https://www.rtp.pt/noticias/mundo/democratas-conquistam-larga-maioria-com-mais-de-250-lugares-na-camara-baixa_n1777253",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:32:41+00:00",
-      "summary": "O Partido Democrata ultrapassou a marca dos 250 lugares na Câmara dos Representantes dos Estados Unidos nas eleições intercalares realizadas na terça-feira, segundo as projeções dos principais meios de comunicação social norte-americanos.",
-      "category": "Política"
-    },
-    {
       "title": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo",
       "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/equipe-da-agencia-brasil-vence-selecao-petrobras-de-jornalismo",
       "source": "Agência Brasil",
@@ -290,87 +488,6 @@
       "category": "Economia"
     },
     {
-      "title": "Ataque israelita a \"agentes militares\" em Gaza faz um morto e dois feridos graves",
-      "url": "https://www.rtp.pt/noticias/mundo/ataque-israelita-a-agentes-militares-em-gaza-faz-um-morto-e-dois-feridos-graves_n1777254",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:28:55+00:00",
-      "summary": "As Forças de Defesa de Israel (FDI) reivindicaram hoje um ataque a \"agentes militares\" em Gaza, que fez um morto e dois feridos graves, segundo os serviços de emergência do enclave palestiniano, controlados pelo movimento islamita Hamas.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Casa Branca afirma que democratas serão incapazes de reverter legado de Trump",
-      "url": "https://www.rtp.pt/noticias/mundo/casa-branca-afirma-que-democratas-serao-incapazes-de-reverter-legado-de-trump_n1777255",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:28:12+00:00",
-      "summary": "A Casa Branca afirmou hoje que os democratas - que, a partir de janeiro, vão controlar o Congresso - serão incapazes de reverter o legado do Presidente Donald Trump.",
-      "category": "Política"
-    },
-    {
-      "title": "Google, Meta e TikTok querem bloquear lei californiana de proteção de menores",
-      "url": "https://www.rtp.pt/noticias/mundo/google-meta-e-tiktok-querem-bloquear-lei-californiana-de-protecao-de-menores_n1777259",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:27:19+00:00",
-      "summary": "Google, Meta e TikTok apresentaram ações judiciais separadas para procurarem bloquear uma lei californiana concebida para proteger crianças dos riscos das redes sociais, argumentando que viola os direitos da Primeira Emenda.",
-      "category": "Mundo"
-    },
-    {
-      "title": "O poder de pouca gente na rua",
-      "url": "https://observador.pt/opiniao/o-poder-de-pouca-gente-na-rua/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:25:27+00:00",
-      "summary": "Antigamente, para as revoluções em França, havia esta explicação: o tédio, e a necessidade de alguma diversão. Mas em Portugal, tal como na França de 2026, a explicação é outra: o bloqueio político.",
-      "category": "Mundo"
-    },
-    {
-      "title": "A tenda, a juíza e a relatividade geral",
-      "url": "https://observador.pt/opiniao/a-tenda-a-juiza-e-a-relatividade-geral/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:24:40+00:00",
-      "summary": "Pode-se perfeitamente concluir que um diploma é constitucionalmente inadequado mas, nesse caso, existe um Parlamento, cuja ocupação habitual, além das indignações retóricas semanais, inclui fazer leis",
-      "category": "Mundo"
-    },
-    {
-      "title": "00h Acampadas recusam sair do sítio para dar lugar a mercados de natal",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-acampadas-recusam-sair-do-sitio-para-dar-lugar-a-mercados-de-natal_a1_1777257",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:24:03+00:00",
-      "summary": "",
-      "category": "Economia"
-    },
-    {
-      "title": "O que Portugal deve aos seminários",
-      "url": "https://observador.pt/opiniao/o-que-portugal-deve-aos-seminarios/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:22:55+00:00",
-      "summary": "Os seminários não foram essencialmente instrumentos de ascensão social. Uma instituição pode produzir mobilidade social sem ter sido concebida, ou socialmente entendida, como um mecanismo de ascensão.",
-      "category": "Mundo"
-    },
-    {
-      "title": "O manifesto do centrão",
-      "url": "https://observador.pt/opiniao/o-manifesto-do-centrao/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:21:25+00:00",
-      "summary": "No mundo real, apesar da histeria futeboleira característica do país, nem a política portuguesa se resume a um simples jogo da bola, nem Montenegro tem os talentos de número 10, nem o PSD é o PS.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Os pescadores",
-      "url": "https://observador.pt/opiniao/os-pescadores/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:20:42+00:00",
-      "summary": "É a minha cidade que me salva, com os seus jeitinhos todos. Os pescadores à beira do rio, a gozar as últimas horas da noite, talvez saídos do trabalho, mas ainda com tempo para a melancolia.",
-      "category": "Clima"
-    },
-    {
       "title": "Polícia de SP e Cruz Vermelha vão atuar para identificar desaparecidos",
       "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/policia-de-sp-e-cruz-vermelha-vao-atuar-para-identificar-desaparecidos",
       "source": "Agência Brasil",
@@ -378,51 +495,6 @@
       "publishedAt": "2026-11-06T00:20:00+00:00",
       "summary": "A Polícia Técnico-Científica de São Paulo e o Comitê Internacional da Cruz Vermelha (CICV) firmaram, nesta quinta-feira (5), um acordo de cooperação para a identificação de 300 ossadas que estão sob responsabilidade do Instituto Médico Legal (IML) paulista. O trabalho, segundo o governo do estado, será feito com utiliz",
       "category": "Política"
-    },
-    {
-      "title": "Central nuclear espanhola reporta paragem de reator",
-      "url": "https://observador.pt/2026/11/06/central-nuclear-espanhola-de-almaraz-reporta-paragem-de-reator/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:18:49+00:00",
-      "summary": "O encerramento gradual dos dois reatores estava inicialmente previsto para o dia 1 de novembro de 2027, para a Unidade I, e 31 de outubro de 2028, para a Unidade II",
-      "category": "Mundo"
-    },
-    {
-      "title": "Acampada de Lisboa reafirma que não sai do Rossio",
-      "url": "https://www.rtp.pt/noticias/pais/acampada-de-lisboa-reafirma-que-nao-sai-do-rossio_n1777256",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:18:08+00:00",
-      "summary": "A Acampada de Lisboa aprovou hoje um texto de resposta às propostas da Câmara Municipal de Lisboa em que reafirma que \"não sai do Rossio\", assim como os temas a discutir numa reunião com o Presidente da República.",
-      "category": "Política"
-    },
-    {
-      "title": "Fuga: Flávio Bolsonaro diz que fez \"tudo sozinho\"",
-      "url": "https://observador.pt/2026/11/06/flavio-bolsonaro-garante-que-fez-tudo-sozinho-para-fugir-do-brasil-para-os-eua-vou-levar-esse-segredo-para-o-tumulo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:17:49+00:00",
-      "summary": "\"Vou levar esse segredo para o túmulo\", afirmou",
-      "category": "Mundo"
-    },
-    {
-      "title": "00h.Trump prevê acordo \"muito grande\" para a Ucrânia",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2466/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:17:09+00:00",
-      "summary": "Donald Trump diz que o acordo pode incluir a Europa e afirma que todos os envolvidos \"vão ficar entusiasmados\" com o acordo. Ainda, Benfica bate Lech Poznan por 3-1 e mantém-se no grupo de líderes.",
-      "category": "Economia"
-    },
-    {
-      "title": "Porto. Desconvocada reunião sobre zonamento inclusivo",
-      "url": "https://observador.pt/2026/11/06/desconvocada-reuniao-da-assembleia-municipal-do-porto-para-discutir-zonamento-inclusivo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-06T00:16:17+00:00",
-      "summary": "O zonamento inclusivo é uma ferramenta de planeamento urbano que incentiva os promotores imobiliários privados a destinar uma percentagem das suas novas construções a habitação a preços acessíveis",
-      "category": "Economia"
     },
     {
       "title": "Lula vai criar Ministério da Segurança Pública com Medida Provisória",
@@ -450,78 +522,6 @@
       "publishedAt": "2026-11-05T23:42:00+00:00",
       "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, pediu nesta quinta-feira (5) que a Procuradoria-Geral da República (PGR) se manifeste sobre o pedido de soltura protocolado pela defesa do ex-banqueiro Daniel Vorcaro. Após receber o parecer da PGR, Fachin vai decidir se Vorcaro poderá ser solto. Nã",
       "category": "Política"
-    },
-    {
-      "title": "23h Chega e PS insatisfeitos com as reuniões em São Bento",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-chega-e-ps-insatisfeitos-com-as-reunioes-em-sao-bento_a1_1777252",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T23:28:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Kallas destaca ligações fortes de Portugal a América Latina e África",
-      "url": "https://www.rtp.pt/noticias/pais/kallas-destaca-ligacoes-fortes-de-portugal-a-america-latina-e-africa_n1777247",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T23:24:12+00:00",
-      "summary": "A chefe da diplomacia da União Europeia, Kaja Kallas, considerou hoje em Lisboa que Portugal \"é uma das pontes mais fortes da Europa para a América Latina\", destacando também o envolvimento com África, nomeadamente com os países lusófonos.",
-      "category": "Economia"
-    },
-    {
-      "title": "Localizados em Portugal dois filhos de mulher detida em Espanha por tráfico de menores",
-      "url": "https://www.rtp.pt/noticias/pais/localizados-em-portugal-dois-filhos-de-mulher-detida-em-espanha-por-trafico-de-menores_n1777248",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T23:23:10+00:00",
-      "summary": "Duas crianças, filhos de uma mulher detida na província espanhola de Badajoz pelo alegado envolvimento com uma rede de compra e venda de menores, foram localizadas em Portugal e ficaram em centros de acolhimento e tutela portugueses.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Há 90 milhões de deslocados em risco face a mudanças do clima",
-      "url": "https://www.rtp.pt/noticias/mundo/ha-90-milhoes-de-deslocados-em-risco-face-a-mudancas-do-clima_n1777250",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T23:22:18+00:00",
-      "summary": "A agência da ONU para os Refugiados alertou hoje para os graves riscos enfrentados por 90 milhões de deslocados que vivem em países com uma exposição elevada ou extrema às alterações do clima.",
-      "category": "Clima"
-    },
-    {
-      "title": "Wall Street fecha em forte baixa com alusões a `banho de sangue` na bolsa",
-      "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-em-forte-baixa-com-alusoes-a-banho-de-sangue-na-bolsa_n1777251",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-05T23:21:24+00:00",
-      "summary": "A bolsa nova-iorquina encerrou hoje em forte baixa, arrastada pelas desvalorizações dos títulos tecnológicos, com os investidores a anteciparem a diminuição do movimento de criação de centros de dados depois da esmagadora vitória democrata nas intercalares nos EUA.",
-      "category": "Economia"
-    },
-    {
-      "title": "Governo define minerais críticos prioritários para investimentos",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-define-minerais-criticos-prioritarios-para-investimentos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-05T22:55:00+00:00",
-      "summary": "O Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos se reuniu na tarde desta quinta-feira (5) para aprovar a lista de prioridades do governo federal para minerais críticos e estratégicos. São 27 minerais listados, em grupos de três prioridades – alta, média e baixa –, a serem consideradas no d",
-      "category": "Política"
-    },
-    {
-      "title": "Skatista Duda Ribeiro é prata na Olimpíada da Juventude, em Dacar",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/skatista-duda-ribeiro-e-prata-na-olimpiada-da-juventude-em-dacar",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-05T22:47:00+00:00",
-      "summary": "A quinta-feira (5) foi prateada para a skatista brasileira Duda Ribeiro na Olimpíada da Juventude, em Dacar (Senegal). A atleta foi vice-campeã no skate street ao somar 138.28 pontos na final. Completaram o pódio a chinesa Zhu Yuanling (149.82 pontos) com o ouro e a canadense Evie Pritchard com o bronze (137.79). A pra",
-      "category": "Esportes"
-    },
-    {
-      "title": "Itamaraty: diplomatas indígenas e quilombolas tomam posse pela 1º vez",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/itamaraty-diplomatas-indigenas-e-quilombolas-tomam-posse-pela-1o-vez",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-05T22:41:00+00:00",
-      "summary": "Os indígenas Marcelo Kariri Menezes, do povo Kariri, e Idjahure Terena, do povo Terena, tomaram posse nesta quarta-feira (4), no Palácio Itamaraty, em Brasília, como diplomatas. É a primeira vez na história brasileira que representantes de povos originários entram para o curso de Formação de Diplomatas do Instituto Rio",
-      "category": "Mundo"
     }
   ],
   "sources": [
