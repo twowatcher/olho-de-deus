@@ -1,248 +1,491 @@
 {
-  "updatedAt": "2026-11-07T18:01:00.568838+00:00",
+  "updatedAt": "2026-11-07T21:45:24.201012+00:00",
   "items": [
     {
-      "title": "II Liga. Académica e Amarante empatam a um golo em Coimbra",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-academica-e-amarante-empatam-a-um-golo-em-coimbra_d1777631",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T17:57:31+00:00",
-      "summary": "A Académica e o Amarante, que continua sem triunfos fora de casa na edição 2026/27 da II Liga portuguesa de futebol, empataram hoje 1-1, em Coimbra, em jogo da 10.ª jornada da prova.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Nos Açores, com Joaquim Manuel Magalhães",
-      "url": "https://observador.pt/2026/11/07/nos-acores-com-joaquim-manuel-magalhaes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T17:56:33+00:00",
-      "summary": "\"Comecei a ler tudo o que fui encontrando sobre os Açores, a ver tudo o que fosse ilha e parte de ilha, a tornar orientada a minha imaginação para esse apaixonamento\", escreve Joaquim Manuel Magalhães",
-      "category": "Cultura"
-    },
-    {
-      "title": "China doa scanners pioneiros em África a São Tomé",
-      "url": "https://observador.pt/2026/11/07/china-oferece-scanners-com-tecnologia-de-ultima-geracao-para-aeroporto-e-porto-de-sao-tome/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T17:49:31+00:00",
-      "summary": "Equipamentos de inspeção de bagagens de última geração, oferecidos por Pequim, serão instalados por especialistas chineses, que também vão formar funcionários locais.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Helicóptero cai na região de Passos, MG",
-      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/07/helicoptero-cai-na-regiao-de-passos-mg.ghtml",
+      "title": "Quedas de árvores, alagamentos e falta de energia elétrica: temporal provoca estragos em Campinas",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/quedas-de-arvores-alagamentos-e-falta-de-energia-eletrica-temporal-provoca-estragos-em-campinas.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-07T17:46:32+00:00",
-      "summary": "Helicóptero cai próximo a pedágio de Passos, no sentido de Furnas Corpo de Bombeiros Um helicóptero caiu no início da tarde deste sábado (7), próximo ao pedágio de Passos (MG), na MG-050, no sentido de Furnas, na região da Fazenda Tiodoro. Segundo as primeiras informações do Corpo de Bombeiros, cinco pessoas foram resg",
+      "publishedAt": "2026-11-07T21:39:20+00:00",
+      "summary": "Temporal provoca pontos de alagamento na região de Campinas O temporal que atingiu Campinas (SP) na tarde deste sábado (7) provocou quedas de árvores, pontos de alagamento e falta de energia elétrica em diferentes bairros. Segundo balanço atualizado da Defesa Civil, foram registradas 22 ocorrências relacionadas às chuv",
+      "category": "Clima"
+    },
+    {
+      "title": "21h. Seguro e Guterres reuniram-se no Palácio de Belém",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1809/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T21:35:12+00:00",
+      "summary": "Abordaram, entre outros temas, a situação na Ucrânia e no Médio Oriente. Ainda, grupo da sociedade civil pede um encontro entre a CML, os manifestantes e os comerciantes no Rossio.",
       "category": "Mundo"
     },
     {
-      "title": "\"É nos parlamentos que se obtêm os consensos\"",
-      "url": "https://observador.pt/2026/11/07/aguiar-branco-diz-que-parlamentos-sao-o-local-certo-para-encontrar-solucoes-e-consensos/",
+      "title": "Temporais provocam destelhamentos e falta de energia no estado de SP; cidade do interior teve microexplosão atmosférica",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/07/temporais-provocam-destelhamentos-e-falta-de-energia-no-estado-de-sp-cidade-do-interior-teve-microexplosao-atmosferica.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:35:04+00:00",
+      "summary": "Cachoeira Paulista tem rajada de vento de 126 km/h e dezenas de casas destelhadas Divulgação/Defesa Civil Temporais acompanhados de rajadas de vento provocaram destelhamentos, quedas de árvores, alagamentos e interrupções no fornecimento de energia elétrica em diferentes cidades de São Paulo neste sábado (7). Diante do",
+      "category": "Clima"
+    },
+    {
+      "title": "PRF revista carro de família e encontra droga escondida em cadeirinha de bebê e junto ao corpo da mãe; criança de 45 dias estava no veículo, no PR",
+      "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/07/prf-revista-carro-de-familia-e-encontra-droga-escondida-em-cadeirinha-de-bebe-e-junto-ao-corpo-da-mae-crianca-de-45-dias-estava-no-veiculo-no-pr.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:27:18+00:00",
+      "summary": "PRF encontra drogas em cadeirinha de bebê, em Mandaguari (PR) Cerca de 20 quilos de haxixe foram apreendidos em um veículo que transportava uma família, após uma abordagem da Polícia Rodoviária Federal (PRF) na BR-376, em Mandaguari, no Norte do Paraná. A apreensão foi registrada neste sábado (7). Quatro pessoas foram ",
+      "category": "Mundo"
+    },
+    {
+      "title": "AMC cita irregularidades e suspende operação de empresa de patinetes elétricos em Fortaleza",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/07/amc-descredencia-empresa-patinetes-eletricos-fortaleza.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:23:48+00:00",
+      "summary": "Ação educativa para a circulação de patinetes elétricos em Fortaleza Marcos Moura/Prefeitura de Fortaleza/Divulgação A Autarquia Municipal de Trânsito (AMC) de Fortaleza suspendeu o serviço de patinetes elétricos compartilhados da empresa Jet Brasil na capital cearense, citando várias irregularidades na prestação do se",
+      "category": "Economia"
+    },
+    {
+      "title": "Acidente entre dois carros deixa dez vítimas na rodovia Mogi-Guararema",
+      "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/07/acidente-entre-dois-carros-deixa-dez-vitimas-na-rodovia-mogi-guararema.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:22:12+00:00",
+      "summary": "Samu atendeu a ocorrência na Mogi-Guararema Redes sociais Um acidente entre dois carros deixou dez vítimas na tarde deste sábado (7), na rodovia Mogi-Guararema. ✅ Clique para seguir o canal do g1 Mogi das Cruzes e Suzano no WhatsApp Segundo a Prefeitura de Mogi das Cruzes, o Serviço de Atendimento Móvel de Urgência (Sa",
+      "category": "Mundo"
+    },
+    {
+      "title": "Ondas podem chegar a 2,3 metros e maré a 1,8 metro no litoral de SP",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/07/ondas-podem-chegar-a-23-metros-e-mare-a-18-metro-no-litoral-de-sp.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:20:50+00:00",
+      "summary": "Ressaca registrada em Santos (SP) Alexsander Ferraz/A Tribuna Jornal A Baixada Santista terá mar agitado e maré elevada entre este sábado (7) e segunda-feira (9), segundo boletim do Núcleo de Pesquisas Hidrodinâmicas da Universidade Santa Cecília (NPH-Unisanta). A previsão indica ondas de até 2,3 metros e maré de até 1",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Delegado que comoveu com relato sobre filha com síndrome de Down relembra preocupação ao receber diagnóstico: 'Medo do desconhecido'",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/11/07/delegado-que-comoveu-com-relato-sobre-filha-com-sindrome-de-down-relembra-preocupacao-ao-receber-diagnostico-medo-do-desconhecido.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:18:13+00:00",
+      "summary": "Marco Antônio Maia emocionou a internet ao publicar uma homenagem sobre sua filha Maria Rita, de 2 anos Reprodução/Redes sociais O delegado de Goianésia, na região central de Goiás, Marco Antônio Maia, relembrou a preocupação quando recebeu o diagnóstico de síndrome de Down da filha em uma postagem que comemorava os 2 ",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Lutador que agrediu vizinhas no Rio tem prisão convertida em preventiva",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/lutador-que-agrediu-vizinhas-no-rio-tem-prisao-convertida-em-preventiva/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:17:22+00:00",
+      "summary": "Lucas Portela Fontana Gomes invadiu apartamentos vizinhos na zona Norte, agrediu três moradoras e resistiu à abordagem da Polícia Militar antes de ser preso nesta sexta-feira (6)",
+      "category": "Mundo"
+    },
+    {
+      "title": "Seguro e Guterres: \"Falámos de tudo o que se passa no mundo\"",
+      "url": "https://observador.pt/2026/11/07/presidente-da-republica-e-guterres-reuniram-se-em-belem-falamos-de-tudo-o-que-se-passa-no-mundo/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-11-07T17:45:47+00:00",
-      "summary": "O presidente da Assembleia da República portuguesa está em visita oficial a Moçambique até 11 de novembro, com acordo de cooperação parlamentar e encontros políticos na agenda.",
+      "publishedAt": "2026-11-07T21:15:49+00:00",
+      "summary": "O mandato de Guterres à frente da ONU termina este ano. Seguro destaca o Pacto para o Futuro e o esforço pela igualdade de género como marcas do seu legado, após encontro entre os dois em Belém.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Três mortos encontrados na casa do atirador de Cracóvia",
+      "url": "https://www.rtp.pt/noticias/mundo/tres-mortos-encontrados-na-casa-do-atirador-de-cracovia_n1777653",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T21:15:46+00:00",
+      "summary": "O primeiro-ministro da Polónia, Donald Tusk, confirmou este sábado que foram encontrados três corpos na casa do atirador que disparou esta tarde sobre várias pessoas no centro histórico de Cracóvia, provocando seis mortos.",
       "category": "Política"
     },
     {
-      "title": "Lula diz que tenta curar rouquidão antes de retomar agenda internacional",
-      "url": "https://www.cnnbrasil.com.br/politica/lula-diz-que-tenta-curar-rouquidao-antes-de-retomar-agenda-internacional/",
-      "source": "CNN Brasil",
+      "title": "Norris conquista pole no Brasil após qualificação interrompida pela chuva",
+      "url": "https://www.rtp.pt/noticias/motores/norris-conquista-pole-no-brasil-apos-qualificacao-interrompida-pela-chuva_d1777652",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T21:15:24+00:00",
+      "summary": "O britânico Lando Norris (McLaren) conquistou hoje a pole position para o Grande Prémio do Brasil de Fórmula 1, 20.ª ronda da temporada, numa qualificação interrompida durante mais de uma hora devido à chuva intensa em Interlagos.",
+      "category": "Clima"
+    },
+    {
+      "title": "Ventos de até 96 km/h derrubam árvores, deixam bairros sem energia e afetam abastecimento de água; veja estragos na região",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/07/ventos-de-ate-96-kmh-derrubam-arvores-deixam-bairros-sem-energia-e-afetam-abastecimento-de-agua-veja-estragos-na-regiao.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-07T17:42:55+00:00",
-      "summary": "Em vídeo, presidente afirmou que tem dedicado o sábado (7) para recuperar a voz antes de embarcar para a Turquia, na próxima segunda-feira (9), para participar da COP31",
+      "publishedAt": "2026-11-07T21:13:02+00:00",
+      "summary": "Rajadas de vento de até 96 km/h derrubam árvores em Piracicaba O temporal que atingiu Piracicaba e Santa Bárbara d'Oeste na tarde deste sábado (7) provocou uma série de transtornos, com queda de árvores, interrupções no fornecimento de energia elétrica, danos em estruturas públicas e impactos no abastecimento de água. ",
+      "category": "Clima"
+    },
+    {
+      "title": "Incêndio florestal em Alenquer avança, bloqueia PA e ameaça batalhão da PM",
+      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/incendio-florestal-em-alenquer-avanca-bloqueia-pa-e-ameaca-batalhao-da-pm.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:10:42+00:00",
+      "summary": "Chamas avançam e mobilizam equipes de combate ao fogo em Alenquer, no PA O avanço de um incêndio florestal em Alenquer, no oeste do Pará, mobilizou uma força-tarefa neste sábado (7) para tentar conter as chamas que ameaçam residências, áreas produtivas e prédios públicos. As equipes atuam em diferentes frentes para evi",
+      "category": "Clima"
+    },
+    {
+      "title": "Temporal atinge região de Ribeirão Preto e causa estragos em Rifaina e Guariba",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/07/temporal-atinge-regiao-de-ribeirao-preto-e-causa-estragos-em-rifaina-e-guariba.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:10:41+00:00",
+      "summary": "Temporal causa estragos na região de Ribeirão Preto, SP Temporal causa estragos na região de Ribeirão Preto, SP A chuva forte que atingiu a região de Ribeirão Preto (SP) na tarde deste sábado (7) causou estragos, principalmente, em Rifaina e Guariba. As pancadas duraram 15 minutos, em média. Há relatos de queda de árvo",
+      "category": "Clima"
+    },
+    {
+      "title": "Lisboa e Porto acolhem vigílias silenciosas das \"mães pela acampada\". Acompanhe em direto",
+      "url": "https://www.rtp.pt/noticias/pais/lisboa-e-porto-acolhem-vigilias-silenciosas-das-maes-pela-acampada-acompanhe-em-direto_e1777561",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T21:08:19+00:00",
+      "summary": "Desenha-se um braço-de-ferro entre a Câmara Municipal de Lisboa e o movimento pelo direito à habitação. Carlos Moedas exige que as tendas dos manifestantes sejam removidas da Praça do Rossio, local onde pretende instalar o mercado de Natal. Os ativistas denunciam que a Polícia Municipal esteve no local para pedir a ret",
       "category": "Política"
     },
     {
-      "title": "Lembra? Ainda criança, ator de “Por Você” fez novela com Sheron Menezzes",
-      "url": "https://www.cnnbrasil.com.br/noticias/lembra-ainda-crianca-ator-de-por-voce-fez-novela-com-sheron-menezzes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:40:53+00:00",
-      "summary": "Os dois tiveram cenas em \"Lado a Lado\", que venceu o Emmy de Melhor Novela em 2013, e se reencontraram 13 anos depois na atual novela das 7",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:37:03+00:00",
-      "summary": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Passageira é presa suspeita de injúria racial contra motorista de ônibus em Juiz de Fora",
-      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/07/passageira-e-presa-suspeita-de-injuria-racial-contra-motorista-de-onibus-em-juiz-de-fora.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:36:48+00:00",
-      "summary": "Uma mulher de 60 anos foi presa em flagrante suspeita de injúria racial contra um motorista de ônibus da linha 560, na rua Bento Hinoto, no bairro Nossa Senhora de Fátima, na Cidade Alta, em Juiz de Fora. Segundo o Consórcio Via JF, as ofensas teriam começado após o motorista se recusar a deixar a passageira desembarca",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:36:32+00:00",
-      "summary": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Maioria pardos e mais de mil indígenas inscritos: veja o perfil dos inscritos no Enem 2026 em Mato Grosso",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/07/maioria-pardos-e-mais-de-mil-indigenas-inscritos-veja-o-perfil-dos-inscritos-no-enem-2026-em-mato-grosso.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:36:23+00:00",
-      "summary": "Estudantes realizam o Enem 2026 neste domingo Reprodução / ISO Colégio e Curso Mato Grosso tem 81.772 inscrições confirmadas para o Exame Nacional do Ensino Médio (Enem) 2026. Desse total, 43.098 candidatos estão cursando a última série do ensino médio e 22.339 já concluíram essa etapa de ensino. Outros 15.034 inscrito",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:36:14+00:00",
-      "summary": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:35:38+00:00",
-      "summary": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "category": "Mundo"
-    },
-    {
-      "title": "17h Autarca de Portimão quer soluções para as urgências",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/17h-autarca-de-portimao-quer-solucoes-para-as-urgencias_a1_1777630",
+      "title": "Carta entregue pelos manifestantes da acampada do Porto ao ministro da Habitação está em análise, revela a secretária de Estado",
+      "url": "https://www.rtp.pt/noticias/economia/carta-entregue-pelos-manifestantes-da-acampada-do-porto-ao-ministro-da-habitacao-esta-em-analise-revela-a-secretaria-de-estado_v1777457",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-11-07T17:34:02+00:00",
+      "publishedAt": "2026-11-07T21:06:32+00:00",
+      "summary": "A carta entregue pelos manifestantes da acampada do Porto ao ministro da Habitação, Miguel Pinto Luz, está em análise, mas, segundo a secretária de Estado da Habitação, parte das reivindicações que ali constam já foram ou estão a ser concretizadas.",
+      "category": "Política"
+    },
+    {
+      "title": "Prefeitura de Jundiaí aciona a Justiça para que nova empresa assuma coleta de lixo após atraso no serviço",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/07/prefeitura-de-jundiai-aciona-a-justica-para-que-nova-empresa-assuma-coleta-de-lixo-apos-atraso-no-servico.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:04:00+00:00",
+      "summary": "MP defende perícia em contrato de lixo em Jundiaí (SP) que é alvo de denúncias de irregularidades na Justiça Prefeitura de Jundiaí/Divulgação A Prefeitura de Jundiaí (SP) entrou na Justiça para que a nova empresa de coleta de lixo assuma o serviço, que está atrasado em alguns bairros da cidade. Moradores da Vila Hortol",
+      "category": "Economia"
+    },
+    {
+      "title": "Professores voluntários ajudam bolsistas e alunos da rede pública na preparação para o Enem em cursinho comunitário",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/07/professores-voluntarios-ajudam-bolsistas-e-alunos-da-rede-publica-na-preparacao-para-o-enem-em-cursinho-comunitario.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T21:04:00+00:00",
+      "summary": "Cursinho voluntário reforça preparação de estudantes para o Enem em Araçatuba A reta final com revisões para o Exame Nacional do Ensino Médio (Enem) foi decisiva para bolsistas e para mais de 100 alunos da rede pública em Araçatuba, no interior de São Paulo, que tiveram ajuda de professores voluntários em um cursinho c",
+      "category": "Mundo"
+    },
+    {
+      "title": "20h Portuguesa entre os feridos de ataque em Cracóvia",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-portuguesa-entre-os-feridos-de-ataque-em-cracovia_a1_1777651",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T21:02:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Homem é preso suspeito de esfaquear colega de trabalho em Angra dos Reis",
-      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/07/homem-e-preso-suspeito-de-esfaquear-colega-de-trabalho-em-angra-dos-reis.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:33:14+00:00",
-      "summary": "Homem é preso suspeito de esfaquear colega de trabalho em Angra dos Reis Divulgação/Polícia Civil. Um homem, de 45 anos, foi preso em flagrante suspeito de tentar matar um colega de trabalho a facadas na madrugada deste sábado (7), em Angra dos Reis (RJ). O crime aconteceu no Parque Mambucaba. A esposa dele, de 42 anos",
+      "title": "250 mil manifestantes na rua pelo quarto sábado consecutivo",
+      "url": "https://observador.pt/2026/11/07/dois-dias-depois-da-greve-geral-250-mil-manifestantes-saem-as-ruas-de-franca-pelo-quarto-sabado-consecutivo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T20:58:06+00:00",
+      "summary": "Autoridades falam em 146 mil manifestantes, 46 mil dos quais na capital",
       "category": "Mundo"
     },
     {
-      "title": "Fórmula 1: cambista com ingressos do GP de São Paulo é levado à delegacia",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/formula-1-cambista-com-ingressos-do-gp-de-sao-paulo-e-levado-a-delegacia/",
+      "title": "Fittipaldi exalta Antonelli e projeta futuro da Fórmula 1 na América Latina",
+      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/fittipaldi-exalta-antonelli-e-projeta-futuro-da-formula-1-na-america-latina/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-07T17:32:00+00:00",
-      "summary": "Homem foi levado ao 11º DP (Santo Amaro) e disse que ia repassar para grupo de argentinos; venda acima do preço do bilhete é crime pela Lei Geral do Esporte e pode resultar em prisão e multa",
-      "category": "Economia"
-    },
-    {
-      "title": "Guarda municipal de 51 anos morre após acidente entre moto e carro na BR-101, no sul da Bahia",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/07/guarda-municipal-morre-apos-acidente-entre-moto-e-carro-na-br-101-no-sul-da-bahia.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:30:35+00:00",
-      "summary": "Guarda municipal de 51 anos morre após acidente entre moto e carro na BR-101, no sul da Bahia Reprodução/Redes Sociais Um guarda municipal de 51 anos morreu após um acidente envolvendo uma motocicleta e um carro na BR-101, em Teixeira de Freitas, no extremo sul da Bahia. A vítima foi identificada como Fábio Rodrigues P",
+      "publishedAt": "2026-11-07T20:57:16+00:00",
+      "summary": "Italiano conquistou o título mundial aos 20 anos pela Mercedes e tirou Emerson do grupo dos cinco mais jovens",
       "category": "Mundo"
     },
     {
-      "title": "Indireta? Marina Ruy Barbosa usa hit viral em meio a polêmicas",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/indireta-marina-ruy-barbosa-usa-hit-viral-em-meio-a-polemicas/",
+      "title": "Câmara se recupera após rodar, mas bate no Q2; Bortoleto cai no Q1",
+      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/camara-se-recupera-apos-rodar-mas-bate-no-q2-bortoleto-cai-no-q1/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-07T17:29:23+00:00",
-      "summary": "Em vídeo, atriz aparece desfilando ao som de música sobre independência financeira e bastidores da fama",
-      "category": "Cultura"
+      "publishedAt": "2026-11-07T20:49:02+00:00",
+      "summary": "Em classificação marcada por fortes chuvas, piloto da Haas avançou ao Q2 antes de bater; Bortoleto foi eliminado ainda na primeira etapa",
+      "category": "Política"
     },
     {
-      "title": "Grupo suspeito de extorquir de comerciantes que vendem de água em Fortaleza é preso",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/07/grupo-suspeito-de-extorquir-de-comerciantes-que-vendem-de-agua-em-fortaleza-e-preso.ghtml",
-      "source": "G1",
+      "title": "Batida entre ônibus e caminhão deixa 12 mortos e 15 feridos no Chile",
+      "url": "https://www.cnnbrasil.com.br/internacional/batida-entre-onibus-e-caminhao-deixa-12-mortos-e-15-feridos-no-chile/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-07T17:28:42+00:00",
-      "summary": "Grupo suspeito de extorsão a comerciantes de venda de água em Fortaleza é preso Cinco suspeitos de integrar uma organização criminosa que extorque dinheiro de vendedores de água no bairro Parque Dois Irmãos, em Fortaleza, foram presos pela polícia. A ação divulgada pela Secretaria da Segurança neste sábado (7). Assim c",
+      "publishedAt": "2026-11-07T20:39:08+00:00",
+      "summary": "Colisão ocorreu no quilômetro 122,5 da Rodovia E-66, no setor de Atalaya, município de Santo Domingo; trânsito na área foi interrompido",
       "category": "Mundo"
     },
     {
-      "title": "Homem é morto a facadas durante festa no Piauí; suspeito do crime é preso na Bahia",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/07/morto-suspeito-preso.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:28:20+00:00",
-      "summary": "Moradores acionaram a corporação informando que uma confusão havia acontecido no evento e que um homem havia sido esfaqueado PC-PI Um homem identificado como Miguel Paes Landim foi morto a facadas na madrugada deste sábado (7) durante uma festa no povoado Lagoa dos Patos, zona rural de Várzea Branca, no Sul do Piauí. O",
-      "category": "Mundo"
-    },
-    {
-      "title": "Alverca - Casa Pia",
-      "url": "https://www.rtp.pt/noticias/desporto/alverca-casa-pia_e1777629",
+      "title": "Manchester City averba terceiro desaire seguido e vê Arsenal destacar-se no topo",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/manchester-city-averba-terceiro-desaire-seguido-e-ve-arsenal-destacar-se-no-topo_d1777650",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-11-07T17:27:24+00:00",
-      "summary": "O Alverca recebe o Casa Pia, em jogo da jornada 11 da I Liga portuguesa de futebol. Ambas as equipas procuram regressar aos triunfos após derrotas na ronda anterior, Alverca frente ao Benfica e Casa Pia diante do Sporting.",
+      "publishedAt": "2026-11-07T20:35:38+00:00",
+      "summary": "O Manchester City contabilizou a terceira derrota consecutiva na Liga inglesa de futebol, ao perder com o Nottingham Forest, por 3-1, em partida da 10.ª jornada, e está a seis pontos do líder da prova, o Arsenal.",
       "category": "Esportes"
     },
     {
-      "title": "Após anunciar término, Karoline Lima curte dia na praia: “Ficar de boa”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/apos-anunciar-termino-karoline-lima-curte-dia-na-praia-ficar-de-boa/",
+      "title": "Sob chuva, Norris conquista pole no GP de São Paulo; veja o grid",
+      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/sob-chuva-norris-conquista-pole-no-gp-de-sao-paulo-veja-o-grid/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-07T17:26:53+00:00",
-      "summary": "Influenciadora estava noiva do jogador de futebol Léo Pereira e, ao confirmar o fim da relação, mencionou o nome da atriz Marina Ruy Barbosa",
-      "category": "Esportes"
-    },
-    {
-      "title": "Jovem de 24 anos é baleado e morto no interior do Acre",
-      "url": "https://g1.globo.com/ac/acre/noticia/2026/11/07/jovem-de-24-anos-e-baleado-e-morto-no-interior-do-acre.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:26:07+00:00",
-      "summary": "Jovem de 24 anos é baleado e morto no interior do Acre Um jovem identificado como Uziel Castro de Freitas, de 24 anos, foi baleado e morto em uma região entre os bairros Leonardo Barbosa e Samaúma, em Brasiléia, no interior do Acre, neste sábado (7). Ele foi atingido por apenas um tiro, que atravessou o braço e atingiu",
-      "category": "Mundo"
-    },
-    {
-      "title": "Em grid com brasileiros, Antonelli rouba os corações no GP de São Paulo",
-      "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/em-grid-com-brasileiros-antonelli-rouba-os-coracoes-no-gp-de-sao-paulo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:23:12+00:00",
-      "summary": "Italiano garante grande torcida em Interlagos após título e homenagens a Senna",
-      "category": "Mundo"
-    },
-    {
-      "title": "Vídeo: Homem invade igreja e furta hóstias consagradas no Paraná",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/video-homem-invade-igreja-e-furta-hostias-consagradas-no-parana/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:20:20+00:00",
-      "summary": "Padre afirma que sacrário foi levado durante invasão à Igreja Matriz Nossa Senhora de Nazaré, em Ponta Grossa; suspeito ainda não foi identificado",
-      "category": "Mundo"
-    },
-    {
-      "title": "Enem 2026: professor dá dicas de como administrar tempo de redação e prova",
-      "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-professor-da-dicas-de-como-administrar-tempo-de-redacao-e-prova/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:18:04+00:00",
-      "summary": "Idelfranio Moreira, do SAS Educação, orienta candidatos sobre estratégias de tempo, uso de repertório e como lidar com a ansiedade antes da prova",
+      "publishedAt": "2026-11-07T20:33:37+00:00",
+      "summary": "Treino classificatório foi marcado por fortes chuvas, interrupções e acidentes; britânico da McLaren largará na frente pela terceira vez consecutiva em Interlagos",
       "category": "Clima"
     },
     {
-      "title": "Manifestantes contestam despacho de Moedas para mudar tendas e comerciantes exigem \"soluções\"",
-      "url": "https://www.rtp.pt/noticias/pais/manifestantes-contestam-despacho-de-moedas-para-mudar-tendas-e-comerciantes-exigem-solucoes_e1777561",
+      "title": "Bruna provoca 26 ocorrências na Madeira",
+      "url": "https://observador.pt/2026/11/07/protecao-civil-da-madeira-registou-26-ocorrencias-devido-ao-mau-tempo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T20:32:47+00:00",
+      "summary": "26 ocorrências registadas em dez horas, 58 operacionais no terreno e aviso laranja do IPMA. Portugal continental e Açores serão afetados até sexta-feira.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Liga Nações. Rafael Leão lesiona-se e pode falhar estágio de Portugal",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-rafael-leao-lesiona-se-e-pode-falhar-estagio-de-portugal_d1777649",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-11-07T17:16:23+00:00",
-      "summary": "Desenha-se um braço-de-ferro entre a Câmara Municipal de Lisboa e o movimento pelo direito à habitação. Carlos Moedas exige que as tendas dos manifestantes sejam removidas da Praça do Rossio, local onde pretende instalar o mercado de Natal. Os ativistas denunciam que a Polícia Municipal esteve no local para pedir a ret",
+      "publishedAt": "2026-11-07T20:32:02+00:00",
+      "summary": "O avançado Rafael Leão, um dos 28 jogadores convocados por Jorge Jesus, lesionou-se hoje ao serviço do Galatasaray e está em dúvida para os últimos dois jogos de Portugal no Grupo A4 da Liga das Nações de futebol.",
+      "category": "Esportes"
+    },
+    {
+      "title": "O que são fundos imobiliários e como funcionam os investimentos",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/o-que-sao-fundos-imobiliarios-e-como-funcionam-os-investimentos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T20:30:19+00:00",
+      "summary": "Fundos imobiliários permitem investir em imóveis e títulos ligados ao mercado imobiliário por meio da compra de cotas; conheça os tipos, as formas de rendimento, os riscos e como começar a investir",
+      "category": "Economia"
+    },
+    {
+      "title": "Virginia almoça com os filhos na casa do ex, Zé Felipe: “Zézinho preparou”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-almoca-com-os-filhos-na-casa-do-ex-ze-felipe-zezinho-preparou/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T20:28:42+00:00",
+      "summary": "Famosos oficializaram a união em 2021 e se separaram em 2025; até o momento, nenhum dos dois comentou sobre um possível retorno da relação",
+      "category": "Mundo"
+    },
+    {
+      "title": "Alverca empata 1-1 com o Casa Pia na I Liga",
+      "url": "https://observador.pt/2026/11/07/alverca-volta-a-pontuar-com-empate-1-1-na-reccao-ao-casa-pia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T20:23:10+00:00",
+      "summary": "Depois de duas derrotas seguidas, o Alverca somou um ponto em casa frente ao Casa Pia. Ian Luccas igualou o golo de Selvi Clua na 2.ª parte.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Jogo entre Estoril Praia e Marítimo adiado devido ao mau tempo na Madeira",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/jogo-entre-estoril-praia-e-maritimo-adiado-devido-ao-mau-tempo-na-madeira_d1777647",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T20:21:36+00:00",
+      "summary": "O jogo Estoril Praia-Marítimo, da 11.ª jornada da I Liga de futebol, agendado para domingo, foi hoje adiado para data a anunciar, devido ao mau tempo que impediu a viagem da formação madeirense para Lisboa, informou a Liga.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Almoço remunerado? Veja o que diz a CLT sobre horário de descanso",
+      "url": "https://www.cnnbrasil.com.br/nacional/brasil/almoco-remunerado-veja-o-que-diz-a-clt-sobre-horario-de-descanso/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T20:18:34+00:00",
+      "summary": "Pela legislação atual, intervalo para refeição não é contabilizado como jornada de trabalho; projeto de deputada propõe mudar a regra e garantir até duas horas de descanso remunerado",
+      "category": "Mundo"
+    },
+    {
+      "title": "Mulher hipoteca a própria casa para criar coleção da Princesa Diana",
+      "url": "https://www.cnnbrasil.com.br/style/moda/mulher-hipoteca-a-propria-casa-para-criar-colecao-da-princesa-diana/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T20:16:08+00:00",
+      "summary": "Acervo acumulado ao longo de 12 anos inclui vestidos emblemáticos e será exibido em museu nos Estados Unidos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Presidente israelita vai convidar Gadi Eisenkot para formar governo",
+      "url": "https://www.rtp.pt/noticias/mundo/presidente-israelita-vai-convidar-gadi-eisenkot-para-formar-governo_n1777646",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T20:15:33+00:00",
+      "summary": "Gadi Eisenkot, líder do bloco de oposição ao atual primeiro-ministro, Benjamin Netanyahu, foi o escolhido para tentar formar governo em Israel.",
       "category": "Política"
+    },
+    {
+      "title": "20h. Portuguesa operada e embaixador a caminho da Polónia",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2083/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T20:14:38+00:00",
+      "summary": "A portuguesa de 74 anos ferida no ataque em Cracóvia foi operada e já não corre risco de vida. Ainda, Sociedade Civil pede reunião entre a Câmara de Lisboa, comerciantes e manifestantes da habitação.",
+      "category": "Política"
+    },
+    {
+      "title": "Anvisa vai certificar insumos farmacêuticos ativos fabricados no país",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-vai-certificar-insumos-farmaceuticos-ativos-fabricados-no-pais",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T20:07:00+00:00",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) vai selecionar dossiês de insumos farmacêuticos ativos (IFAs) fabricados no Brasil por empresas que tenham interesse em obter Carta de Adequação de Dossiê de Insumo Farmacêutico Ativo. Em nota, a Anvisa informou que a iniciativa prevê a seleção de até oito dossiês par",
+      "category": "Economia"
+    },
+    {
+      "title": "TV Brasil transmite jogo entre Ferroviária e Paulista Sub-20 Petrobras",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/tv-brasil-transmite-jogo-entre-ferroviaria-e-paulista-sub-20-petrobras",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T20:06:00+00:00",
+      "summary": "A TV Brasil exibe neste domingo (8) o jogo de volta da semifinal entre Ferroviária e São Paulo pelo Paulista F Sub-20 Petrobras. A transmissão na emissora pública da Empresa Brasil de Comunicação (EBC) tem início às 9h45. A partida acontece na cidade de Araraquara (SP). No jogo de ida, disputado na noite de sexta-feira",
+      "category": "Economia"
+    },
+    {
+      "title": "Atlético-MG x Grêmio: escalações e onde assistir à semi da Copa do Brasil",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/atletico-mg-x-gremio-escalacoes-e-onde-assistir-a-semi-da-copa-do-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T20:03:37+00:00",
+      "summary": "Equipes decidem uma vaga na final do torneio neste sábado (8), às 18h (de Brasília), na Arena MRV, em Belo Horizonte",
+      "category": "Mundo"
+    },
+    {
+      "title": "Benfica vence Stuart HC e soma 13.ª Supertaça feminina de hóquei em patins",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/benfica-vence-stuart-hc-e-soma-13a-supertaca-feminina-de-hoquei-em-patins_d1777642",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T20:02:19+00:00",
+      "summary": "O Benfica conquistou hoje a 13.ª Supertaça feminina de hóquei em patins do seu historial, ao vencer Stuart HC por 3-1, no Pavilhão Desportivo Municipal de Santo Tirso.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Atlético-MG x Grêmio: assista à transmissão ao vivo da Copa do Brasil",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/atletico-mg-x-gremio-assista-a-transmissao-ao-vivo-da-copa-do-brasil/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T20:00:59+00:00",
+      "summary": "Atlético-MG e Grêmio se enfrentam neste sábado (7), na Arena MRV, em Belo Horizonte, pelo jogo de volta da semifinal da Copa do Brasil",
+      "category": "Esportes"
+    },
+    {
+      "title": "Sobrou café? Dica inusitada reduz o desperdício e rende múltiplas receitas de bebidas geladas",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/sobrou-cafe-dica-inusitada-reduz-o-desperdicio-e-rende-multiplas-receitas-de-bebidas-geladas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T20:00:53+00:00",
+      "summary": "Técnica simples otimiza o aproveitamento da bebida e garante sabor em receitas geladas com leite, chocolate e até água tônica; veja como fazer",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasil sofre goleada e termina em 4º lugar no Mundial Feminino Sub-17",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-sofre-goleada-e-termina-em-4o-lugar-no-mundial-feminino-sub-17",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T19:48:00+00:00",
+      "summary": "A seleção brasileira feminina adiou, pelo segundo ano consecutivo, o sonho de subir ao pódio da Copa do Mundo de futebol Sub-17. Neste sábado (7), a equipe Amarelinha terminou em quarto lugar após derrota por 6 a 0 para a Coreia do Norte, tetracampeã da categoria. Com o triunfo no no Complexto Mohammed VI, em Rabat (Ma",
+      "category": "Esportes"
+    },
+    {
+      "title": "Benfica vence 13.ª Supertaça feminina",
+      "url": "https://observador.pt/2026/11/07/benfica-vence-stuart-hc-e-soma-13-a-supertaca-feminina-de-hoquei-em-patins/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T19:34:10+00:00",
+      "summary": "Campeãs nacionais há 13 épocas seguidas, as encarnadas somam agora 13 Supertaças, mais seis do que qualquer outro clube no palmarés da prova.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Golo anulado a Irankunda por fora de jogo (0-0, 48')",
+      "url": "https://observador.pt/liveblogs/sporting-moreirense-paulo-fonseca-nao-faz-revolucao-mantem-kaique-na-baliza-e-lanca-irankunda-e-luis-guilherme/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T19:30:03+00:00",
+      "summary": "Os leões recebem a equipa de Moreira de Cónegos na estreia de Paulo Fonseca, que foi apresentado durante a semana. Debast ainda é baixa, Irankunda e Luis Guilherme são titulares. Siga aqui.",
+      "category": "Esportes"
+    },
+    {
+      "title": "19h Começam as vigílias de mães no Porto e em Lisboa",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-comecam-as-vigilias-de-maes-no-porto-e-em-lisboa_a1_1777641",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T19:21:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Alcaraz na final do Masters 1000 de Paris",
+      "url": "https://observador.pt/2026/11/07/carlos-alcaraz-bate-casper-ruud-rumo-a-final-dos-masters-1-000-de-paris/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T19:20:05+00:00",
+      "summary": "O número três do mundo precisou de menos de hora e meia para afastar Ruud. Na outra meia-final, Shelton eliminou o francês Van Assche em três sets.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Márquez a um passo do 10.º título mundial",
+      "url": "https://observador.pt/2026/11/07/marquez-vence-sprint-no-qatar-e-pode-conquistar-titulo-no-domingo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T19:17:50+00:00",
+      "summary": "Vitória de Marc Márquez na sprint do GP do Qatar apertou o cerco a Martín. O espanhol precisa de ganhar a corrida de domingo e esperar que o rival não pontue.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Depressão Bruna cancela ferry entre ilhas dos Açores",
+      "url": "https://observador.pt/2026/11/07/atlanticoline-cancela-viagem-maritima-de-domingo-entre-faial-pico-e-sao-jorge/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T19:15:42+00:00",
+      "summary": "A Atlânticoline cancelou a viagem de domingo na Linha Verde (Horta-Pico-Velas). IPMA emitiu avisos amarelos de vento, chuva e agitação marítima para todo o arquipélago.",
+      "category": "Clima"
+    },
+    {
+      "title": "19h. Portuguesa entre os feridos na Polónia",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2216/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T19:14:48+00:00",
+      "summary": "O Ministério dos Negócios Estrangeiros adiantou que a cidadã portuguesa está hospitalizada. Ainda, Aguiar Branco defende que é nos parlamentos que são encontradas soluções para problemas dos países.",
+      "category": "Saúde"
+    },
+    {
+      "title": "Sporting CP - Moreirense",
+      "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-moreirense_e1777634",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-07T18:43:17+00:00",
+      "summary": "O Sporting, sem margem de erro, recebe o Moreirense, em jogo da 11.ª jornada da I Liga portuguesa de futebol, que marca a estreia de Paulo Fonseca, substituto de Rui Borges no comando técnico dos 'leões'.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T18:30:00+00:00",
+      "summary": "O número de casos de Síndrome Respiratória Aguda Grave (SRAG) no Brasil aumentou ao longo dos meses de setembro e outubro, incluindo os casos causados por quadros graves de infecção por covid-19. Os dados são da Fundação Oswaldo Cruz (Fiocruz). De acordo com o último Boletim InfoGripe, há sinais de aumento do número de",
+      "category": "Mundo"
+    },
+    {
+      "title": "Enem: confira as regras, os horários e os itens proibidos na prova",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-os-horarios-e-os-itens-proibidos-na-prova",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T17:52:00+00:00",
+      "summary": "Com a realização do Exame Nacional do Ensino Médio (Enem) neste domingo (8), participantes de todo o Brasil devem redobrar a atenção para as regras da avaliação. Segundo as regras da prova, é obrigatório levar documento oficial de identificação com foto aceito no edital e caneta esferográfica de tinta preta, fabricada ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Bombeiros continuam buscas em prédio que desabou no Brás",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/bombeiros-continuam-buscas-em-predio-que-desabou-no-bras",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-07T17:37:00+00:00",
+      "summary": "O Corpo de Bombeiros retomou as buscas na manhã deste sábado (7) nos escombros do prédio que desabou na noite desta sexta-feira (6) no bairro do Brás, região central da cidade de São Paulo. As equipes de salvamento atuam com dois cães de salvamento para auxiliar na indicação de vítimas. “O trabalho de retirada de mater",
+      "category": "Mundo"
     },
     {
       "title": "PGR pede suspensão de ações contra proibição de bets",
@@ -254,51 +497,6 @@
       "category": "Política"
     },
     {
-      "title": "As notícias das 17h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2329/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T17:11:55+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Mais de 180 filmes celebram 20 anos de LEFFEST",
-      "url": "https://www.rtp.pt/noticias/cultura/mais-de-180-filmes-celebram-20-anos-de-leffest_n1777625",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T17:09:05+00:00",
-      "summary": "Mais de 180 filmes estão na programação na 20ªedição do LEFFEST, muitos passaram pelos principais festivais de cinema, Veneza, Berlim e Cannes, acompanham as novas tendências cinematográficas, justifica o diretor Paulo Branco. Há 11 estreias a destacar.",
-      "category": "Cultura"
-    },
-    {
-      "title": "Digitalização está no centro da nossa estratégia, diz CFO da Panvel",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/digitalizacao-esta-no-centro-da-nossa-estrategia-diz-cfo-da-panvel/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:06:38+00:00",
-      "summary": "Grupo farmacêutico cresceu 35,4% no lucro líquido ajustado no 3º trimestre, impulsionado por estratégias digitais e pelos produtos GLP-1",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Robert Pattinson e Nicholas Hoult fazem teste para papel de James Bond",
-      "url": "https://www.cnnbrasil.com.br/pop/cinema/robert-pattinson-e-nicholas-hoult-fazem-teste-para-papel-de-james-bond/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:03:30+00:00",
-      "summary": "Outros nomes como Callum Turner e Jack Lowden também estão sendo cotados para o disputado papel de espião; a previsão é que o 26º filme da franquia chegue aos cinemas em 2028",
-      "category": "Cultura"
-    },
-    {
-      "title": "BMW iX4 estreia em 2027 com até 612 cv e autonomia de 828 km",
-      "url": "https://www.cnnbrasil.com.br/auto/bmw-ix4-estreia-em-2027-com-ate-612-cv-e-autonomia-de-828-km/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T17:00:32+00:00",
-      "summary": "SUV cupê elétrico baseado na Neue Klasse terá arquitetura de 800 volts, tração integral, três configurações e zero a 100 km/h em 3,9s",
-      "category": "Mundo"
-    },
-    {
       "title": "Professores comentam primeiro dia de provas ao vivo na Resenha do Enem",
       "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-comentam-primeiro-dia-de-provas-ao-vivo-na-resenha-do-enem",
       "source": "Agência Brasil",
@@ -306,60 +504,6 @@
       "publishedAt": "2026-11-07T17:00:00+00:00",
       "summary": "Como parte da cobertura especial do Exame Nacional do Ensino Médio (Enem), neste domingo (8), a partir das 19h30, a Agência Brasil promove a live Resenha do Enem. A transmissão ao vivo contará com professores convidados para comentar as questões e a redação, e poderá ser acompanhada pelo YouTube da Agência Brasil e You",
       "category": "Cultura"
-    },
-    {
-      "title": "Acupuntura e infertilidade: entenda como ela pode ajudar no tratamento",
-      "url": "https://www.cnnbrasil.com.br/saude/acupuntura-e-infertilidade-entenda-como-ela-pode-ajudar-no-tratamento/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T16:59:25+00:00",
-      "summary": "Dr. Henrique Edgar Sidi explica como a acupuntura pode atuar como terapia complementar, contribuindo para o bem-estar",
-      "category": "Saúde"
-    },
-    {
-      "title": "Confrontos violentos em Paris em mais uma tarde de manifestações em França",
-      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-tres-feridos-em-confrontos-entre-policias-e-manifestantes-em-paris_n1777623",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T16:49:41+00:00",
-      "summary": "Em França, depois de um início de tarde de manifestações tranquilas, houve momentos de tensão, nomeadamente em Paris. Houve confrontos entre manifestantes e polícia, o que levou as autoridades a usar gás lacrimogéneo.",
-      "category": "Mundo"
-    },
-    {
-      "title": "II Liga. Penafiel vence Desportivo de Chaves e lidera provisoriamente",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-penafiel-vence-desportivo-de-chaves-e-lidera-provisoriamente_d1777622",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T16:48:18+00:00",
-      "summary": "O Penafiel derrotou hoje o Desportivo de Chaves em Trás-os-Montes, por 3-2, no encontro da 10.ª jornada da II Liga portuguesa de futebol, subindo provisoriamente ao topo da tabela classificativa.",
-      "category": "Esportes"
-    },
-    {
-      "title": "16h PS quer saber o que se passou no hospital de Portimão",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-ps-quer-saber-o-que-se-passou-no-hospital-de-portimao_a1_1777621",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T16:39:02+00:00",
-      "summary": "",
-      "category": "Saúde"
-    },
-    {
-      "title": "China escolhe astronauta paquistanês para missão espacial",
-      "url": "https://observador.pt/2026/11/07/astronauta-paquistanes-vai-ser-primeiro-estrangeiro-a-visitar-estacao-espacial-da-china/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T16:30:58+00:00",
-      "summary": "A agência chinesa confirmou hoje a presença de um astronauta paquistanês na Shenzhou-24, sem revelar data de lançamento. Os candidatos Muhammad Zeeshan Ali e Khurram Daud estão em treino na China.",
-      "category": "Mundo"
-    },
-    {
-      "title": "MECI volta a negociar com Fenprof sobre habilitações",
-      "url": "https://observador.pt/2026/11/07/ministerio-volta-a-negociar-com-fenprof-habilitacoes-para-dar-aulas-apos-aprovacao-de-diploma/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T16:25:58+00:00",
-      "summary": "Reunião está marcada para as 18h de segunda-feira. Fenprof acredita que insistência forçou recuo, mas avisa que não aceitará \"simulacro de diálogo\".",
-      "category": "Mundo"
     },
     {
       "title": "\"O Projeto\" denuncia colonialismo e cobra responsabilidade da Europa",
@@ -371,33 +515,6 @@
       "category": "Economia"
     },
     {
-      "title": "Nacional - Académico de Viseu adiado devido ao mau tempo",
-      "url": "https://observador.pt/2026/11/07/jogo-entre-nacional-e-academico-de-viseu-adiado-para-domingo-devido-ao-mau-tempo/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T16:23:07+00:00",
-      "summary": "O arquipélago da Madeira está este sábado sob aviso amarelo devido à chuva, por vezes forte, persistente e acompanhada de trovoada, até às 18h00.",
-      "category": "Clima"
-    },
-    {
-      "title": "16h. Ataque na Polónia provoca pelo menos cinco mortos",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2409/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T16:13:03+00:00",
-      "summary": "Na Polónia, um ataque na praça principal de Cracóvia provocou pelo menos cinco mortos e uma dezena de feridos. Ainda, Moedas insiste no Mercado de Natal do Rossio e dá 3 alternativas à acampada.",
-      "category": "Economia"
-    },
-    {
-      "title": "Renata Cambra ou Mercado de Natal? 8 perguntas e respostas",
-      "url": "https://observador.pt/especiais/renata-cambra-ou-mercado-de-natal-8-respostas-sobre-a-nova-polemica-da-acampada/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T16:07:06+00:00",
-      "summary": "O possível conflito entre a manifestação de Renata Cambra e o Mercado de Natal que costuma ocorrer no Rossio já tinha sido antecipado pela decisão juíza Ana de Campos. O Observador explica-lhe o caso.",
-      "category": "Economia"
-    },
-    {
       "title": "Mostra une mulheres abolicionistas e luta antirracista contemporânea",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-une-mulheres-abolicionistas-e-luta-antirracista-contemporanea",
       "source": "Agência Brasil",
@@ -405,123 +522,6 @@
       "publishedAt": "2026-11-07T15:47:00+00:00",
       "summary": "Um balaio, cesto de palha ou vime Notícias relacionadas: Novembro Negro: 10 comunidades quilombolas recebem títulos fundiários. Câncer de mama: mulheres negras morrem 3,8 vezes mais que brancas. Luta abolicionista de Luiz Gama pode virar Patrimônio da Humanidade. usado para armazenar alimentos, expor produtos e fazer o",
       "category": "Clima"
-    },
-    {
-      "title": "IL/Açores admite votar contra Orçamento de 2027",
-      "url": "https://observador.pt/2026/11/07/iniciativa-liberal-acores-admite-votar-contra-orcamento-de-2027-com-investimento-diminuto/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T15:41:17+00:00",
-      "summary": "Nuno Barata é o único deputado da Iniciativa Liberal na Assembleia Legislativa dos Açores.",
-      "category": "Mundo"
-    },
-    {
-      "title": "\"Sporting de Braga é favorito porque é melhor do que o Rio Ave\"",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/sporting-de-braga-e-favorito-porque-e-melhor-do-que-o-rio-ave_d1777613",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T15:39:23+00:00",
-      "summary": "O treinador Franclim Carvalho assumiu hoje o favoritismo do Sporting de Braga na deslocação ao terreno do Rio Ave, da 11.ª jornada da I Liga de futebol, considerando a sua equipa “melhor” que o adversário.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Polónia. Seis mortos e 15 feridos após tiroteio em Cracóvia",
-      "url": "https://www.rtp.pt/noticias/pais/polonia-seis-mortos-e-15-feridos-apos-tiroteio-em-cracovia_n1777614",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T15:39:08+00:00",
-      "summary": "Um homem abriu fogo sobre transeuntes este sábado no centro turístico de Cracóvia, no sul da Polónia. Há registo de pelo menos seis mortos e 15 feridos.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Dakar2026: Portugal avança para as `meias` do torneio masculino de futsal",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/dakar2026-portugal-avanca-para-as-meias-do-torneio-masculino-de-futsal_d1777611",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T15:36:46+00:00",
-      "summary": "Portugal vai disputar as meias-finais do torneio masculino de futsal dos Jogos Olímpicos da Juventude Dakar2026, após ter derrotado o Paraguai, num dia em que David Conde competiu na luta de praia.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Ataque a tiro em Cracóvia faz seis mortos",
-      "url": "https://observador.pt/2026/11/07/pelo-menos-dois-mortos-e-10-feridos-apos-ataque-na-praca-principal-de-cracovia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T15:30:13+00:00",
-      "summary": "O atirador disparou sobre civis na praça central da segunda maior cidade da Polónia. Donald Tusk confirmou que o caso está a ser investigado. Atirador foi alvejado e está a caminho do hospital.",
-      "category": "Saúde"
-    },
-    {
-      "title": "CD Nacional - Académico de Viseu (Nevoeiro adia jogo para domingo)",
-      "url": "https://www.rtp.pt/noticias/desporto/cd-nacional-academico-de-viseu-nevoeiro-adia-jogo-para-domingo_e1777609",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T15:16:56+00:00",
-      "summary": "O jogo deste sábado entre Nacional e Académico de Viseu, da 11.ª jornada da I Liga de futebol, foi adiado para domingo, pelas 15h30, devido ao forte nevoeiro no Estádio da Madeira, informou o emblema insular.",
-      "category": "Esportes"
-    },
-    {
-      "title": "15h. PS quer explicações do Governo sobre mortes no Algarve",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2510/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-07T15:14:18+00:00",
-      "summary": "José Luís Carneiro exige explicações ao Governo sobre falta de médicos nas urgências. Ainda, comerciantes querem respostas sobre o impasse entre a Câmara de Lisboa e protestos pela habitação.",
-      "category": "Política"
-    },
-    {
-      "title": "Municípios da tríplice fronteira recebem mobilização contra o sarampo",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/municipios-da-triplice-fronteira-recebem-mobilizacao-contra-o-sarampo",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T15:14:00+00:00",
-      "summary": "Municípios da chamada tríplice fronteira entre Brasil, Peru e Colômbia recebem neste sábado (7) uma mobilização conjunta de vacinação contra o sarampo. No lado brasileiro, a ação acontece em Tabatinga (AM), Benjamin Constant (AM), São Paulo de Olivença (AM) e Atalaia do Norte (AM). Em nota, o Ministério da Saúde inform",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Do linguajar ao salário, estudo aponta racismo na “indústria do som”",
-      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/do-linguajar-ao-salario-estudo-aponta-racismo-na-industria-do-som",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T15:05:00+00:00",
-      "summary": "Pesquisadores identificaram padrões que retratam a existência de racismo na indústria do som no Brasil. A constatação está em um estudo feito com profissionais do setor de audiovisual, que relataram desigualdades no mercado de trabalho e até mesmo práticas para “higienizar” os produtos finais. O levantamento frisa que ",
-      "category": "Economia"
-    },
-    {
-      "title": "Mostra de Cinema Adelia Sampaio homenageará cineastas de duas gerações",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-de-cinema-adelia-sampaio-homenageara-cineastas-de-duas-geracoes",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T14:47:00+00:00",
-      "summary": "A VIII Mostra Competitiva de Cinema Negro Adelia Sampaio estreia em Brasília na próxima segunda-feira (9/11), com uma programação potente, que terá como destaques a exibição de um filme inédito de Adelia Sampaio e uma homenagem à cineasta Joyce Prado. Este ano, a Mostra traz a Brasília 40 filmes, entre curtas, médias e",
-      "category": "Cultura"
-    },
-    {
-      "title": "Proteção dos Montes Oceânicos avança com consulta pública no Nordeste",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/protecao-dos-montes-oceanicos-avanca-com-consulta-publica-no-nordeste",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T13:52:00+00:00",
-      "summary": "Sob as águas do Rio Grande do Norte e do Ceará, repousam montanhas gigantes de até 5 mil metros de altura. Elas superam o Pico da Neblina, no Amazonas, a maior formação terrestre do país, que tem cerca de 3 mil metros, e são moradia para mais de 100 espécies de peixes, tubarões, corais e esponjas. Os chamados Montes Oc",
-      "category": "Mundo"
-    },
-    {
-      "title": "Rio: Receita apreende entorpecentes em galpão de transportadora",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/rio-receita-apreende-entorpecentes-em-galpao-de-transportadora",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T13:15:00+00:00",
-      "summary": "A Receita Federal apreendeu, nesta sexta-feira (6), quatro encomendas contendo entorpecentes e medicamento de comercialização controlada com indícios de irregularidade. A fiscalização ocorreu em uma transportadora localizada na Pavuna, zona norte do Rio de Janeiro. O valor estimado das retenções é de R$ 356 mil. Com o ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Enem 2026: saiba o que levar no dia da prova",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-o-que-levar-no-dia-da-prova",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-07T12:57:00+00:00",
-      "summary": "Os estudantes que participam neste domingo (8) do primeiro do Exame Nacional do Ensino Médio (Enem) devem ficar atentos ao que levar para os locais de prova, uma vez que, por questões de segurança, uma série de itens são vetados. Por outro lado, a caneta preta e o documento oficial com foto são indispensáveis para a re",
-      "category": "Mundo"
     }
   ],
   "sources": [
