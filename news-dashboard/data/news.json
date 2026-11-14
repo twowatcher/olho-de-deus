@@ -1,6 +1,465 @@
 {
-  "updatedAt": "2026-11-13T21:57:11.260507+00:00",
+  "updatedAt": "2026-11-14T02:23:23.328151+00:00",
   "items": [
+    {
+      "title": "As notícias das 2h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2468/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T02:12:39+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "01h Nos EUA mais de 10 mil aviões ficaram em terra",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-nos-eua-mais-de-10-mil-avioes-ficaram-em-terra_a1_1779070",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T02:11:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Papa Leão XIV retorna à cidade peruana de Chiclayo, onde viveu e se tornou bispo",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/papa-leao-xiv-retorna-a-cidade-peruana-de-chiclayo-onde-viveu-e-se-tornou-bispo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T02:04:17+00:00",
+      "summary": "Papa Leão XIV chega a Chiclayo, cidade peruana onde viveu e se tornou bispo O Papa Leão XIV retornou nesta sexta-feira (13) à cidade peruana de Chiclayo, onde ele viveu e se tornou bispo. É o oitavo dia de viagem à América do Sul. Os enviados especiais Filipe Azevedo e o Pedro Bassan acompanham essa viagem. \"Estamos em",
+      "category": "Mundo"
+    },
+    {
+      "title": "Fiscalização por satélite resulta em R$ 53,9 milhões em multas por desmatamento em seis meses no AM",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/13/fiscalizacao-por-satelite-resulta-em-r-539-milhoes-em-multas-por-desmatamento-em-seis-meses-no-am.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:44:21+00:00",
+      "summary": "Fiscalização por satélite resulta em R$ 53,9 milhões em multas por desmatamento em seis meses no AM. Henrique Almeida/Ipaam A fiscalização remota do Instituto de Proteção Ambiental do Amazonas (Ipaam) resultou na aplicação de R$ 53,9 milhões em multas por desmatamento no estado entre maio e outubro de 2026. No período,",
+      "category": "Mundo"
+    },
+    {
+      "title": "Claudette Soares morre, aos 91 nos, em São Paulo",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/claudette-soares-morre-aos-91-nos-em-sao-paulo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:39:42+00:00",
+      "summary": "Cantora Claudette Soares morre aos 91 anos, em São Paulo Morreu nesta sexta-feira (13), em São Paulo, a cantora Claudette Soares, aos 91 anos. Claudette foi uma das grandes intérpretes da música popular brasileira e ajudou a difundir a Bossa Nova. Cercada de parceiros da música, Claudette Soares fez a última aparição p",
+      "category": "Cultura"
+    },
+    {
+      "title": "VÍDEOS: NE2 de sexta-feira, 13 de novembro de 2026",
+      "url": "https://g1.globo.com/pe/pernambuco/videos-ne2/playlist/videos-ne2-de-sexta-feira-13-de-novembro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:38:44+00:00",
+      "summary": "Assista aos vídeos do telejornal com as notícias de Pernambuco.",
+      "category": "Mundo"
+    },
+    {
+      "title": "EUA põem fim à suspensão de voos que provocou caos aéreo no país",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-poem-fim-a-suspensao-de-voos-que-provocou-caos-aereo-no-pais/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:38:37+00:00",
+      "summary": "Problema técnico durou mais de quatro horas e provocou atrasos e cancelamentos nos principais aeroportos americanos",
+      "category": "Mundo"
+    },
+    {
+      "title": "Suspensão de voos nos EUA: secretário cita inconsistências entre radar e torre e diz que sistema de tráfego aéreo é velho",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-voos-secretario-diz-que-houve-inconsistencias-entre-radar-e-torre-e-que-sistema-de-trafego-aereo-e-velho.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:37:03+00:00",
+      "summary": "Markwayne Mullin, secretário de Segurança Interna, fala a jornalistas na Casa Branca. Ao seu lado está o secretário de Transporte, Sean Duffy,. Elizabeth Frantz / REUTERS O secretário de Transporte dos Estados Unidos, Sean Duffy, comentou nesta sexta-feira (13) o fechamento do espaço aéreo do país. O secretário citou \"",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Homem em bar com tornozeleira eletrônica rompida é preso pela equipe do canil em Boa Vista",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/13/homem-em-bar-com-tornozeleira-eletronica-rompida-e-preso-pela-equipe-do-canil-em-boa-vista.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:29:49+00:00",
+      "summary": "Equipe do canil atendeu a ocorrência Arquivo pessoal Um homem, de 39 anos, foi preso após ser flagrado em um bar com a tornozeleira eletrônica rompida e guardada dentro do bolso. Ele foi encontrado na manhã desta sexta-feira (13) no bairro Sílvio Botelho, na zona Oeste de Boa Vista, após uma denúncia anônima. ✅ Clique ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Crise aérea nos EUA já provoca mais de 700 cancelamentos para sábado (14)",
+      "url": "https://www.cnnbrasil.com.br/internacional/crise-aerea-nos-eua-ja-provoca-mais-de-700-cancelamentos-para-sabado-14/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:29:13+00:00",
+      "summary": "Problema em roteadores afetou centros de controle de tráfego aéreo e provocou milhares de atrasos no país",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasileira completa 5 horas em aeroporto de Miami após suspensão de decolagens nos EUA",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/13/brasileira-completa-5-horas-em-aeroporto-de-miami-apos-suspensao-de-decolagens-nos-eua.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:28:36+00:00",
+      "summary": "Moradora de BH, jornalista Yasmin Andrade tenta voltar ao Brasil com a família, que inclui três idosos e uma bebê. Reprodução/TV Globo A jornalista Yasmin Andrade, moradora de Belo Horizonte, completou mais de cinco horas no Aeroporto Internacional de Miami, nos Estados Unidos, nesta sexta-feira (13), enquanto tentava ",
+      "category": "Mundo"
+    },
+    {
+      "title": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país",
+      "url": "https://g1.globo.com/mundo/ao-vivo/paralisacao-de-voos-nos-eua.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:25:23+00:00",
+      "summary": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país Agência determinou que voos que partem de aeroportos americanos permaneçam em solo até segunda ordem. Governo descarta ataque cibernético e fala problemas de comunicação. A Administração Federal de Aviação dos Estados Unidos (F",
+      "category": "Política"
+    },
+    {
+      "title": "Exposição prolongada à poluição do ar aumenta procura por atendimento médico no AM",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/exposicao-prolongada-a-poluicao-do-ar-aumenta-procura-por-atendimento-medico-no-am.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:24:45+00:00",
+      "summary": "Exposição a fumaça de queimadas gera aumento de atendimentos médicos no Amazonas Sete cidades do Amazonas completaram uma semana debaixo de fumaça dos incêndios florestais. A exposição prolongada à poluição do ar aumentou a procura por atendimento médico. Bacia com água, umidificador, toalha molhada. Tentativas de faze",
+      "category": "Saúde"
+    },
+    {
+      "title": "Caos aéreo nos EUA: agência retira suspensão de decolagens após 4 horas; normalização deve levar tempo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-decolagens-e-retirada-diz-faa.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:23:41+00:00",
+      "summary": "Trump diz que paralisação aérea não parece ter relação com ataque hacker ou com IA A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) informou por volta de 22 horas (horário de Brasília) que cancelou a suspensão de decolagens nos EUA. Foram quatro horas de paralisação. AO VIVO: Acompanhe as",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Operação destrói estruturas usadas em garimpo ilegal de ouro na fronteira de RO",
+      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/13/operacao-destroi-estruturas-usadas-em-garimpo-ilegal-de-ouro-na-fronteira-de-ro.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:23:03+00:00",
+      "summary": "PF destrói estruturas usadas em garimpo ilegal de ouro na fronteira de RO Reprodução/PF A Polícia Federal destruiu estruturas usadas para a extração ilegal de ouro durante uma operação em Guajará-Mirim (RO), nesta sexta-feira (13). A ação faz parte da Operação Madeira-Mamoré II e contou com o apoio da Polícia Militar, ",
+      "category": "Cultura"
+    },
+    {
+      "title": "Brasil desencanta no segundo tempo e vence Peru em amistoso no sub-20",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-desencanta-no-segundo-tempo-e-vence-peru-em-amistoso-no-sub-20/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:22:09+00:00",
+      "summary": "Partida amistosa desta sexta-feira (13) aconteceu no Estádio Mangueirão, em Belém; equipes voltam a se enfrentar na próxima semana",
+      "category": "Clima"
+    },
+    {
+      "title": "Paula Lavigne mostra perrengue para voltar dos EUA após Grammy Latino",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/paula-lavigne-mostra-perrengue-para-voltar-dos-eua-pos-grammy-latino/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:22:05+00:00",
+      "summary": "Empresária acompanhava o filho Zeca Veloso no Grammy Latino e relembrou ter passado por situação parecida nos ataques de 11 de setembro",
+      "category": "Mundo"
+    },
+    {
+      "title": "Polícia prende médico em flagrante por abuso durante consulta",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-prende-medico-em-flagrante-por-abuso-durante-consulta/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:20:43+00:00",
+      "summary": "Profissional de saúde praticou atos sem consentimento alegando fazer avaliação clínica em paciente de 56 anos no ABC paulista",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Propulsor da Starship explode após teste de lançamento no Texas",
+      "url": "https://www.cnnbrasil.com.br/ciencia/propulsor-da-starship-explode-apos-teste-de-lancamento-no-texas/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:19:29+00:00",
+      "summary": "Foguete da SpaceX falhou em retornar para a torre de captura e caiu no mar durante o 15º voo de teste da empresa",
+      "category": "Economia"
+    },
+    {
+      "title": "Caos aéreo nos EUA: 5 mil voos foram cancelados e 10 mil sofreram atraso",
+      "url": "https://www.cnnbrasil.com.br/internacional/caos-aereo-nos-eua-5-mil-voos-foram-cancelados-e-10-mil-sofreram-atraso/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:19:11+00:00",
+      "summary": "Secretário de Segurança Interna afirmou que problema nos centros de controle foi provocado por falha nas telecomunicações",
+      "category": "Mundo"
+    },
+    {
+      "title": "1h. ANA aconselha a confirmação de estado dos voos para EUA",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2445/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T01:13:45+00:00",
+      "summary": "A Aeroportos de Portugal está a aconselhar \"os passageiros com voos para os EUA a contactarem as companhias aéreas\". Ainda, o líder do PS aponta estabilidade como antídoto para populismo.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Incêndio em fábrica de produtos químicos deixa 6 pessoas em estado grave em Salto, no interior de São Paulo",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/incendio-em-fabrica-de-produtos-quimicos-deixa-6-pessoas-em-estado-grave-em-salto-no-interior-de-sao-paulo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:12:00+00:00",
+      "summary": "Incêndio em fábrica de produtos químicos deixa 12 feridos em Salto, SP Um incêndio em uma fábrica de produtos químicos deixou 12 feridos em Salto, no interior de São Paulo; seis em estado grave. Uma coluna de fogo e fumaça densa podia ser vista de longe. O incêndio na fábrica de tintas e solventes Piroquímica começou p",
+      "category": "Clima"
+    },
+    {
+      "title": "Uruguai bate Argentina na Bombonera em primeiro jogo da era pós-Messi",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/uruguai-bate-argentina-na-bombonera-em-primeiro-jogo-da-era-pos-messi/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:01:10+00:00",
+      "summary": "Equipe de Diego Forlán surpreendeu mandantes e venceu o clássico do Rio da Prata por 2 a 1; foi o primeiro jogo da seleção argentina depois da aposentadoria de Messi",
+      "category": "Esportes"
+    },
+    {
+      "title": "De centro do cristianismo oriental a mesquita: as camadas de história reveladas após remoção de 3 mil toneladas de lama sob a Hagia Sophia",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/de-centro-do-cristianismo-oriental-a-mesquita-as-camadas-de-historia-reveladas-apos-remocao-de-3-mil-toneladas-de-lama-sob-a-hagia-sophia/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T01:00:47+00:00",
+      "summary": "Limpeza minuciosa em Istambul expõe passagens subterrâneas milenares e revela novos segredos arqueológicos sob um dos maiores marcos do mundo",
+      "category": "Mundo"
+    },
+    {
+      "title": "“Tudo parado”: Zaynara é retida em aeroporto nos EUA após suspensão de voos",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/tudo-parado-zaynara-e-retida-em-aeroporto-nos-eua-apos-suspensao-de-voos/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T00:59:05+00:00",
+      "summary": "Cantora está no aeroporto de Las Vegas após falha de comunicação no controle de tráfego aéreo dos Estados Unidos. Artista e equipe aguardam liberação para seguir viagem a Portugal, onde ela tem apresentação marcada.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Aeroportos do Alaska e Havaí não são afetados por suspensão de voos nos EUA",
+      "url": "https://www.cnnbrasil.com.br/internacional/aeroportos-do-alaska-e-havai-nao-sao-afetados-por-suspensao-de-voos-nos-eua/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T00:58:27+00:00",
+      "summary": "Problema no controle de tráfego aéreo afetou cerca de 7 mil partidas enquanto autoridades descartam hipótese de ataque malicioso",
+      "category": "Mundo"
+    },
+    {
+      "title": "Brasil terá três meio-campistas em amistoso contra Japão neste sábado",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-tera-tres-meio-campistas-em-amistoso-contra-japao-neste-sabado",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T00:55:00+00:00",
+      "summary": "A seleção brasileira masculina de futebol reencontra o Japão neste sábado (13), às 7h15 (horário de Brasília), em Singapura, no penúltimo amistoso de 2026. O último confronto ocorreu na Copa do Mundo deste ano, quando a Amarelinha venceu de virada a equipe asiática (2 a 1) e avançou às oitavas de final. Durante coletiv",
+      "category": "Esportes"
+    },
+    {
+      "title": "UE vai enviar seis representantes para negociar com a Rússia",
+      "url": "https://observador.pt/2026/11/14/uniao-europeia-vai-enviar-seis-representantes-para-negociar-com-a-russia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:44:00+00:00",
+      "summary": "Esta foi a solução encontrada após não ter sido possível encontrar um nome único para representar o bloco europeu nas negociações. Costa, Kallas e Stubb eram os nomes mais falados.",
+      "category": "Economia"
+    },
+    {
+      "title": "Sindicato dos Jornalistas leva patrões ao Ministério",
+      "url": "https://observador.pt/2026/11/14/sindicato-dos-jornalistas-avanca-com-pedido-de-conciliacao-sobre-tabela-salarial/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:43:45+00:00",
+      "summary": "\"Uma posição necessária após quase um ano de tentativas de negociar com a associação que representa os patrões, que não se dispôs a iniciar conversações\", refere o Sindicato dos Jornalistas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Por que autoridades dos EUA não estão tratando o caos aéreo como um ataque?",
+      "url": "https://www.cnnbrasil.com.br/internacional/por-que-autoridades-dos-eua-nao-estao-tratando-o-caos-aereo-como-um-ataque/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T00:43:30+00:00",
+      "summary": "Investigação inicial aponta que falha em software de comunicação causou o cancelamento e atraso de milhares de viagens aéreas",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cais palafítico da Lagoa de Óbidos em risco após colapso",
+      "url": "https://observador.pt/2026/11/14/quatro-dos-nove-ancoradouros-do-cais-palafitico-do-nadadouro-colapsaram-e-estrutura-de-330-mil-euros-pode-desaparecer/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:41:24+00:00",
+      "summary": "O perigo de queda da estrutura materializou-se no passado mês de agosto, com \"o colapso do primeiro ancoradouro e, até hoje, já colapsaram mais três, de um total de nove\", disse ao autarca Filipe Pereira",
+      "category": "Mundo"
+    },
+    {
+      "title": "Detidos quatro espanhóis em lancha rápida nas Berlengas",
+      "url": "https://observador.pt/2026/11/14/policia-maritima-apreende-lancha-rapida-e-detem-quatro-espanhois-nas-berlengas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:39:39+00:00",
+      "summary": "Nesta ação estiveram empenhados 13 elementos da Polícia Marítima, apoiados por duas embarcações, assim como por seis elementos das Capitanias dos Portos de Peniche e da Nazaré",
+      "category": "Mundo"
+    },
+    {
+      "title": "Alemanha autoriza serviços secretos a realizar sabotagens",
+      "url": "https://observador.pt/2026/11/14/alemanha-autoriza-servicos-secretos-a-realizar-sabotagens-e-ciberataques/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:39:26+00:00",
+      "summary": "Nova lei permite a realização de operações clandestinas, no quadro do aumento da ameaça russa. Ministro do Interior defende medida para combeter \"os inimigos da democracia, dentro e fora do país\".",
+      "category": "Política"
+    },
+    {
+      "title": "Atraso do ministério deixa orquestra sem metade dos docentes",
+      "url": "https://observador.pt/2026/11/14/atraso-do-ministerio-deixa-orquestra-geracao-sem-metade-dos-docentes-e-afeta-alunos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:39:11+00:00",
+      "summary": "Já houve outros anos em que o processo se atrasou. No ano passado, por exemplo, a autorização da tutela chegou apenas a 12 de outubro",
+      "category": "Mundo"
+    },
+    {
+      "title": "00h EUA: falha nos aeroportos \"não é um 11 de setembro\"",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-eua-falha-nos-aeroportos-nao-e-um-11-de-setembro_a1_1779067",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:38:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "1,9 milhões para salvar encosta do castelo de Alcácer",
+      "url": "https://observador.pt/2026/11/14/alcacer-do-sal-investe-19-milhoes-para-estabilizar-encosta-do-castelo-apos-deslizamentos-causados-pela-tempestade-kristin/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:35:49+00:00",
+      "summary": "A empreitada visa prevenir novos deslizamentos devido à instabilidade do terreno que coloca em risco moradores e utilizadores das vias que circundam a encosta do castelo da cidade",
+      "category": "Mundo"
+    },
+    {
+      "title": "Esquerda critica orçamento de Lisboa para 2027",
+      "url": "https://observador.pt/2026/11/14/livre-be-e-pcp-criticam-orcamento-de-lisboa-por-falta-de-investimento-na-habitacao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:35:36+00:00",
+      "summary": "O Bloco de Esquerda destaca ainda a ausência de um agravamento do Imposto Municipal sobre Imóveis para as frações devolutas, alertando que a opção deixa milhares de casas vazias \"entregues à especulação\"",
+      "category": "Mundo"
+    },
+    {
+      "title": "Detido por tentar matar ex-namorada e o companheiro dela",
+      "url": "https://observador.pt/2026/11/14/detido-em-matosinhos-por-tentar-matar-ex-namorada-e-companheiro-com-o-carro-duas-vezes/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:35:04+00:00",
+      "summary": "O detido vai presente a primeiro interrogatório judicial para aplicação de medidas de coação",
+      "category": "Mundo"
+    },
+    {
+      "title": "STF suspende prazos por falha da Microsoft",
+      "url": "https://observador.pt/2026/11/14/supremo-tribunal-federal-do-brasil-suspende-prazos-processuais-em-todo-o-pais-apos-instabilidade-da-microsoft/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:34:08+00:00",
+      "summary": "A decisão de Fachin de prorrogar os prazos processuais em todo o país atendeu a um pedido da Ordem dos Advogados do Brasil, que alegou que as falhas da Microsoft registadas desde a quinta-feira podem causar prejuízos à advocacia e ao andamento de processos",
+      "category": "Política"
+    },
+    {
+      "title": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T00:23:00+00:00",
+      "summary": "O Supremo Tribunal Federal (STF) registrou nesta sexta-feira (13) quatro votos para referendar a liminar que estabeleceu regras de transição para o início da escala de trabalho 5x2. Ontem, o ministro Flávio Dino, que é relator do caso, permitiu que a nova carga horária de 42 horas semanais seja distribuída em cinco dia",
+      "category": "Política"
+    },
+    {
+      "title": "Gilmar diz que Moro agiu para impedir candidatura de Lula em 2018",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/gilmar-diz-que-moro-agiu-para-impedir-candidatura-de-lula-em-2018",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T00:11:00+00:00",
+      "summary": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), acusou nesta sexta-feira (13) o senador Sergio Moro (PL-PR), ex-juiz da Operação Lava Jato, de “manipular o sistema de Justiça” para retirar o presidente Luiz Inácio Lula da Silva das eleições de 2018. Na época, Lula estava preso em função das investigações. ",
+      "category": "Política"
+    },
+    {
+      "title": "SpaceX lança Starship mas falha tentativa de recuperação de toda a nave espacial",
+      "url": "https://www.rtp.pt/noticias/mundo/spacex-lanca-starship-mas-falha-tentativa-de-recuperacao-de-toda-a-nave-espacial_n1779064",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-14T00:04:46+00:00",
+      "summary": "A SpaceX lançou hoje a nave espacial Starship num voo de 22 horas que visava captar o foguetão completo, incluindo o propulsor, mas a primeira parte da inédita captura dupla falhou.",
+      "category": "Cultura"
+    },
+    {
+      "title": "Anac orienta passageiros a consultar aéreas sobre voos para os EUA",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/anac-orienta-passageiros-consultar-aereas-sobre-voos-para-os-eua",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-14T00:00:00+00:00",
+      "summary": "A Agência Nacional de Aviação Civil (Anac) orienta os passageiros com viagens marcadas para os Estados Unidos que busquem as companhias aéreas para verificar a situação do voo ou eventuais alterações. Mais cedo, a Administração Federal de Aviação dos Estados Unidos (FAA) determinou uma suspensão nacional de decolagens ",
+      "category": "Mundo"
+    },
+    {
+      "title": "23h EUA problema detetado no controlo de trafego aéreo impede os aviões de voar",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-eua-problema-detetado-no-controlo-de-trafego-aereo-impede-os-avioes-de-voar_a1_1779063",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-13T23:59:02+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Wall Street fecha tendencialmente em baixa arrastada pelas tecnológicas",
+      "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-tendencialmente-em-baixa-arrastada-pelas-tecnologicas_n1779057",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-13T23:33:39+00:00",
+      "summary": "A bolsa nova-iorquina encerrou hoje tendencialmente em baixa, com os investidores a saírem das empresas tecnológicas, no fim de uma semana marcada pelo escândalo Nvidia.",
+      "category": "Economia"
+    },
+    {
+      "title": "Receita cancelará dívidas de MEIs vencidas até esta sexta-feira",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-cancelara-dividas-de-meis-vencidas-ate-esta-sexta-feira",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-13T23:08:00+00:00",
+      "summary": "As dívidas de contribuição previdenciária dos Microempreendedores Individuais (MEIs) com vencimento até esta sexta-feira (13) serão perdoadas automaticamente pela Receita Federal , informou o órgão. O procedimento não exige pedido do contribuinte. Para manter o benefício, porém, quem continuar enquadrado como MEI dever",
+      "category": "Mundo"
+    },
+    {
+      "title": "Governo não renova subsídio de R$ 1,40 ao diesel importado",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-13T22:54:00+00:00",
+      "summary": "Após um mês em vigor, a subvenção de R$ 1,40 por litro ao diesel importado não será renovada, informou na noite desta sexta-feira (13) o Ministério da Fazenda. O benefício chegou ao fim após o vencimento da Portaria 3.082 do Ministério da Fazenda , de 13 de outubro. A decisão não altera a subvenção de R$ 2,12 por litro",
+      "category": "Política"
+    },
+    {
+      "title": "22h EUA em alerta, nenhum avião levanta voo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-eua-em-alerta-nenhum-aviao-levanta-voo_a1_1779055",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-13T22:35:03+00:00",
+      "summary": "",
+      "category": "Mundo"
+    },
+    {
+      "title": "Tesouro prevê normalizar sistemas fora do ar até segunda-feira",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/tesouro-preve-normalizar-sistemas-fora-do-ar-ate-segunda-feira",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-13T22:27:00+00:00",
+      "summary": "A Secretaria do Tesouro Nacional informou que prevê restabelecer até a manhã de segunda-feira (16) os sistemas e serviços temporariamente indisponíveis após o incidente de segurança informado na quinta-feira (12) à noite. A interrupção afeta ferramentas de consulta e acesso a documentos, séries históricas e informações",
+      "category": "Clima"
+    },
+    {
+      "title": "Petroleiro abalroa navio de cruzeiro com 129 pessoas no rio Mississippi",
+      "url": "https://www.rtp.pt/noticias/mundo/petroleiro-abalroa-navio-de-cruzeiro-com-129-pessoas-no-rio-mississippi_n1779053",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-13T22:00:06+00:00",
+      "summary": "Um petroleiro colidiu hoje com um navio de cruzeiro com 129 pessoas a bordo, no rio Mississipi, próximo da cidade norte-americana de Nova Orleães, estando em curso operações de resgate.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-13T21:53:00+00:00",
+      "summary": "O dólar fechou praticamente estável nesta sexta-feira (13), cotado a R$ 5,65, mas acumulou alta de 2,63% na semana. Além das incertezas sobre o pacote fiscal do governo, pesou a continuidade das turbulências no mercado internacional. Na bolsa, o Ibovespa subiu 0,66%, aos 172,5 mil pontos, impulsionado por ações de vare",
+      "category": "Política"
+    },
     {
       "title": "\"The End of Everything\". Vencedor do Prémio Booker 2026 será publicado em Portugal pelo grupo Infinito Particular",
       "url": "https://www.rtp.pt/noticias/cultura/the-end-of-everything-vencedor-do-premio-booker-2026-sera-publicado-em-portugal-pelo-grupo-infinito-particular_n1779047",
@@ -29,51 +488,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Uberaba entra em situação de risco para dengue, aponta índice de infestação do Aedes aegypti",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/13/uberaba-entra-em-situacao-de-risco-para-dengue-aponta-indice-de-infestacao-do-aedes-aegypti.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:45:44+00:00",
-      "summary": "Uberaba apresenta alto índice de infestação do mosquito Aedes aegypti Reprodução/TV Integração Uberaba está em situação de risco para infestação do Aedes aegypti, segundo dados do levantamento realizado no início de novembro para verificar a proliferação do mosquito transmissor da dengue, zika e febre chikungunya. Na p",
-      "category": "Mundo"
-    },
-    {
-      "title": "Paralisação de voos nos EUA: agência suspende todas as decolagens no país",
-      "url": "https://g1.globo.com/mundo/ao-vivo/paralisacao-de-voos-nos-eua.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:44:26+00:00",
-      "summary": "Paralisação de voos nos EUA: agência suspende todas as decolagens no país A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão de todas as decolagens no país. O secretário de Transportes dos Estados Unidos, Sean Duffy, afirmou que a falha atinge t",
-      "category": "Mundo"
-    },
-    {
-      "title": "Quando foi a última vez em que todos os voos dos EUA foram paralisados?",
-      "url": "https://www.cnnbrasil.com.br/internacional/quando-foi-a-ultima-vez-em-que-todos-os-voos-dos-eua-foram-paralisados/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:43:55+00:00",
-      "summary": "Voos internacionais serão tratados \"caso a caso\"; secretário de Transportes afirmou que falha em centros de comunicação causou problema nacional",
-      "category": "Mundo"
-    },
-    {
-      "title": "Programa de renegociação de dívidas do IPVA, ICMS e ITCMD é sancionado em SE; descontos vão até 95% em juros e multas",
-      "url": "https://g1.globo.com/se/sergipe/noticia/2026/11/13/sancionado-programa-renegociacao-dividas-fiscais-sergipe.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:43:08+00:00",
-      "summary": "Governador de Sergipe Fábio Mitidieri Redes sociais O governador Fábio Mitidieri usou as redes sociais, nesta sexta-feira (13), para anunciar a sanção e a publicação da lei que institui o programa de renegociação de dívidas fiscais no estado. Segundo ele, o Programa de Recuperação Fiscal (Refis), voltado à regularizaçã",
-      "category": "Economia"
-    },
-    {
-      "title": "Suspensão nos EUA afeta quase sete mil voos, mostra monitor",
-      "url": "https://www.cnnbrasil.com.br/internacional/suspensao-nos-eua-afeta-quase-sete-mil-voos-mostra-monitor/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:42:42+00:00",
-      "summary": "FAA (Administração Federal de Aviação) anunciou paralisação até novo aviso, por \"circunstâncias extraordinárias e por motivos de segurança”",
-      "category": "Mundo"
-    },
-    {
       "title": "Autarca de Vizela acusado de violência doméstica. PGR reabriu inquérito",
       "url": "https://www.rtp.pt/noticias/pais/autarca-de-vizela-acusado-de-violencia-domestica-pgr-reabriu-inquerito_v1779049",
       "source": "RTP Notícias",
@@ -83,202 +497,13 @@
       "category": "Política"
     },
     {
-      "title": "Incêndio em indústria em Salto já não apresenta sinais de propagação",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-industria-em-salto-ja-nao-apresenta-sinais-de-propagacao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:41:22+00:00",
-      "summary": "Corpo de Bombeiros aceita doações para os agentes que atuam na linha de frente após horas de atuação; itens como água isotônicos e lanches podem ser entregues na sede da corporação",
-      "category": "Clima"
-    },
-    {
-      "title": "GM apresenta proposta para abertura de PDV na fábrica de São José dos Campos",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/13/gm-apresenta-proposta-para-abertura-de-pdv-na-fabrica-de-sao-jose-dos-campos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:40:55+00:00",
-      "summary": "General Motors (GM) de São José dos Campos Reprodução/TV Vanguarda A General Motors (GM) apresentou, nesta sexta-feira (13), uma proposta de abertura de Plano de Demissão Voluntária (PDV) em São José dos Campos (SP). A informação é do Sindicato dos Metalúrgicos de São José. ✅ Clique aqui para seguir o canal do g1 Vale ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Maternidade do Promorar terá leitos obstétricos transferidos em Teresina",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/13/maternidade-do-promorar-em-teresina.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:40:50+00:00",
-      "summary": "Maternidade do Promorar, em Teresina Ascom FMS A Maternidade do Promorar, na Zona Sul de Teresina, terá os leitos obstétricos transferidos para as maternidades do Buenos Aires, Satélite e Wall Ferraz, no Dirceu, a partir da próxima semana. Segundo a Fundação Municipal de Saúde (FMS), a medida faz parte de uma reestrutu",
-      "category": "Saúde"
-    },
-    {
-      "title": "Cármen Lúcia arquiva ação sobre bloqueio de jornalistas por Bolsonaro no X",
-      "url": "https://www.cnnbrasil.com.br/politica/carmen-lucia-arquiva-acao-sobre-bloqueio-de-jornalistas-por-bolsonaro-no-x/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:40:09+00:00",
-      "summary": "Relatora diz que presidente em exercício não pode excluir jornalistas de perfil usado para tratar de governo, mas afirma que ação da Abraji perdeu objeto porque Bolsonaro deixou o cargo em 2023",
-      "category": "Política"
-    },
-    {
-      "title": "Enem 2026: o que comer na véspera da prova para melhorar o desempenho?",
-      "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-o-que-comer-na-vespera-da-prova-para-melhorar-o-desempenho/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:39:16+00:00",
-      "summary": "Nutricionista sugere incluir frutas, aveia e chás na alimentação da véspera do Enem",
-      "category": "Mundo"
-    },
-    {
-      "title": "Apaixonado por automobilismo: quem era o filho de secretário do AM morto em acidente de trânsito em Manaus",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/13/apaixonado-por-automobilismo-quem-era-o-filho-de-secretario-do-am-morto-em-acidente-de-transito-em-manaus.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:38:59+00:00",
-      "summary": "Richard Carvalho Pontes, de 23 anos, morreu em acidente de trânsito Reprodução/Redes Sociais Piloto e amante do automobilismo no Amazonas. Assim foi descrito o jovem Richard Carvalho Pontes, de 23 anos, por amigos nas redes sociais. O jovem morreu em um acidente de trânsito na noite de quinta-feira (12), na Avenida das",
-      "category": "Mundo"
-    },
-    {
-      "title": "Suspensão de voos nos EUA é a segunda paralisação nacional desde o 11 de Setembro",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-voos-nos-eua-e-a-segunda-paralisacao-nacional-desde-o-11-de-setembro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:38:09+00:00",
-      "summary": "EUA suspendem decolagens em todos os aeroportos do país por motivos de segurança A suspensão de todas as decolagens nos Estados Unidos tem precedente recente: em janeiro de 2023, a Administração Federal de Aviação do país (FAA, na sigla em inglês) adotou a mesma medida. Na ocasião, uma falha no sistema de informações a",
-      "category": "Mundo"
-    },
-    {
-      "title": "Transtorno do pânico atinge 1% da população, diz médico a Kalil",
-      "url": "https://www.cnnbrasil.com.br/saude/transtorno-do-panico-atinge-1-da-populacao-diz-medico-a-kalil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:38:01+00:00",
-      "summary": "Tema é debatido em episódio inédito de \"CNN Sinais Vitais - Dr. Kalil Entrevista\" que será exibido sábado (14), às 19h30, na CNN Brasil",
-      "category": "Saúde"
-    },
-    {
-      "title": "Homem é preso após agredir mulher com pedaço de madeira na frente dos filhos em Belém",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/11/13/homem-e-preso-apos-agredir-mulher-com-pedaco-de-madeira-na-frente-dos-filhos-em-belem.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:36:32+00:00",
-      "summary": "Homem é preso após agredir mulher com pedaço de madeira na frente dos filhos em Belém Agência Pará Uma mulher foi agredida com um pedaço de madeira na cabeça, na presença dos filhos, na manhã desta sexta-feira (13), no bairro do Telégrafo, em Belém. O suspeito, companheiro da vítima, foi preso em flagrante por tentativ",
-      "category": "Mundo"
-    },
-    {
-      "title": "Todos os voos suspensos nos EUA devido a \"circunstâncias extraordinárias e razões de segurança\"",
-      "url": "https://www.rtp.pt/noticias/mundo/todos-os-voos-suspensos-nos-eua-devido-a-circunstancias-extraordinarias-e-razoes-de-seguranca_n1779048",
+      "title": "Voos suspensos nos EUA devido a \"circunstâncias extraordinárias e motivos de segurança\"",
+      "url": "https://www.rtp.pt/noticias/mundo/voos-suspensos-nos-eua-devido-a-circunstancias-extraordinarias-e-motivos-de-seguranca_n1779048",
       "source": "RTP Notícias",
       "region": "Portugal",
       "publishedAt": "2026-11-13T21:35:47+00:00",
-      "summary": "A Administração Federal de Aviação dos EUA (FAA) emitiu esta sexta-feira uma ordem nacional de suspensão de todos os voos \"devido a circunstâncias extraordinárias e razões de segurança\", depois de ter relatado anteriormente graves problemas nas comunicações com o controlo de tráfego aéreo.",
+      "summary": "A Administração Federal de Aviação dos EUA (FAA) emitiu esta sexta-feira uma ordem nacional de suspensão de todos os voos \"devido a circunstâncias extraordinárias e razões de segurança\". À RTP, a TAP adianta que a segurança dos voos que já estão em curso está \"garantida\" e a ANA Aeroportos pede aos passageiros que cont",
       "category": "Mundo"
-    },
-    {
-      "title": "VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 13 de novembro de 2026",
-      "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-13-de-novembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:34:57+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Cidade do Rio tem uma morte confirmada por Mpox",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/cidade-do-rio-morte-mpox.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:33:02+00:00",
-      "summary": "Casos de Mpox aumentam 7 vezes no Rio em dois meses O estado do Rio de Janeiro teve uma morte confirmada por Mpox em meio a alta de casos da doença. De acordo com a Fundação Oswaldo Cruz (Fiocruz), o paciente chegou a ficar internado no Instituto Nacional de Infectologia Evandro Chagas, mas morreu em setembro. A confir",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Árvore cai e interdita trecho da BR-459 após chuva entre Piranguinho e Itajubá, MG",
-      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/13/arvore-cai-e-interdita-trecho-da-br-459-apos-chuva-entre-piranguinho-e-itajuba-mg.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:32:49+00:00",
-      "summary": "Árvore cai e interdita trecho da BR-459 após chuva entre Piranguinho e Itajubá Uma chuva provocou a queda de uma árvore que interditou um trecho da BR-459, próximo ao distrito de Santa Bárbara do Sapucaí, em Piranguinho (MG), na tarde desta sexta-feira (13). 📲 Siga a página do g1 Sul de Minas no Instagram De acordo com",
-      "category": "Clima"
-    },
-    {
-      "title": "Operação da PRF aplica 271 multas e apreende veículos roubados no Sertão de PE",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/13/operacao-prf-salgueiro-araripina-trindade.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:32:09+00:00",
-      "summary": "Operação da PRF aplica 271 multas e apreende veículos roubados no Sertão de PE Uma operação integrada da Polícia Rodoviária Federal (PRF) realizada entre a terça-feira (10) e esta sexta-feira (13) resultou na aplicação de 271 multas por diversas irregularidades no Sertão de Pernambuco. As ações, que tiveram como foco a",
-      "category": "Mundo"
-    },
-    {
-      "title": "Petroleiro colide com cruzeiro em Nova Orleães",
-      "url": "https://observador.pt/2026/11/13/petroleiro-colide-com-cruzeiro-com-mais-de-130-pessoas-no-porto-de-nova-orleaes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:30:30+00:00",
-      "summary": "O acidente ocorreu às 12h30 locais (18h30 em Lisboa), enquanto o navio estava atracado no rio Misssissipi. As autoridades estão a investigar as causas, sendo que é desconhecida a existência de vítima.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Saiba se uma plataforma de criptomoedas é autorizada a funcionar no Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/saiba-se-uma-plataforma-de-criptomoedas-e-autorizada-a-funcionar-no-brasil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:30:19+00:00",
-      "summary": "Banco Central passou a divulgar listas de instituições aptas a prestar serviços com ativos virtuais e de empresas com pedidos de autorização em análise; consultar a situação regulatória é uma etapa importante antes de investir",
-      "category": "Economia"
-    },
-    {
-      "title": "Vila do Conde. Suspeitas de ilegalidades em contratos feitos pela autarquia",
-      "url": "https://www.rtp.pt/noticias/pais/vila-do-conde-suspeitas-de-ilegalidades-em-contratos-feitos-pela-autarquia_v1779046",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:28:47+00:00",
-      "summary": "Há suspeitas de ilegalidades em vários contratos feitos pela Câmara de Vila do Conde, desde espetáculos com valores inflacionados a uma empresa que prestou serviços para a campanha eleitoral do atual presidente até às adjudicações para as iluminações de Natal, nos últimos seis anos.",
-      "category": "Política"
-    },
-    {
-      "title": "Mulheres conquistam espaço na cafeicultura e no mercado internacional",
-      "url": "https://www.cnnbrasil.com.br/agro/mulheres-conquistam-espaco-na-cafeicultura-e-no-mercado-internacional/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:27:57+00:00",
-      "summary": "Cooperativas mineiras fortalecem a liderança feminina no campo e conquistam mercados cada vez mais exigentes, como a União Europeia",
-      "category": "Economia"
-    },
-    {
-      "title": "DBRS confirma `rating` de Portugal em \"A\" elevado com tendência positiva",
-      "url": "https://www.rtp.pt/noticias/economia/dbrs-confirma-rating-de-portugal-em-a-elevado-com-tendencia-positiva_n1779045",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:26:43+00:00",
-      "summary": "A agência de notação DBRS confirmou hoje o `rating` de Portugal em \"A\" elevado, com tendência positiva.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Problema de comunicação levou a suspensão de voos nos EUA, diz autoridade",
-      "url": "https://www.cnnbrasil.com.br/internacional/problema-de-comunicacao-levou-a-suspensao-de-voos-nos-eua-diz-autoridade/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:25:50+00:00",
-      "summary": "Em publicação nas redes sociais, secretário de Transportes americano, Sean Duffy, afirmou que técnicos da Administração Federal de Aviação investigam problema",
-      "category": "Mundo"
-    },
-    {
-      "title": "De cadeia com alçapão macabro a hotel histórico: o prédio de San Antonio onde hóspedes relatam ver sombras caindo pelas paredes",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/de-cadeia-com-alcapao-macabro-a-hotel-historico-o-predio-de-san-antonio-onde-hospedes-relatam-ver-sombras-caindo-pelas-paredes/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:18:15+00:00",
-      "summary": "Masmorras escuras, maldições de enforcados e espectros que atacam visitantes revelam o lado mais sombrio da história do estado americano",
-      "category": "Mundo"
-    },
-    {
-      "title": "21h. Montenegro disponível para encontro com manifestantes",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1816/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:18:11+00:00",
-      "summary": "Montenegro explica que há cerca de dois anos que o Governo, através da secretaria de Estado da Habitação, tem tido reuniões com várias plataformas pela defesa da Habitação acessível.",
-      "category": "Política"
     },
     {
       "title": "Fifa abre venda de ingressos para Copa Feminina 2027 em 1º de dezembro",
@@ -290,15 +515,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Atlético-MG informa lesões de três atletas, que viram desfalques na equipe",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-informa-lesoes-de-tres-atletas-que-viram-desfalques-na-equipe/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:16:28+00:00",
-      "summary": "Volantes e atacante tiveram contusões detectadas, viram desfalques para duelo pelo Brasileirão e preocupam para a grande final da Sul-Americana, contra o Boca Juniors",
-      "category": "Esportes"
-    },
-    {
       "title": "Morre Claudette Soares, aos 91, no dia de lançamento do último álbum",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/morre-claudette-soares-aos-91-no-dia-de-lancamento-do-ultimo-album",
       "source": "Agência Brasil",
@@ -306,222 +522,6 @@
       "publishedAt": "2026-11-13T21:16:00+00:00",
       "summary": "Morreu na madrugada desta sexta-feira (13), de mau súbito, a cantora carioca Claudette Soares, aos 91 anos. A artista cantou ao lado de grandes expoentes da música popular brasileira, em ritmos como o baião, ao lado do mestre Luiz Gonzaga, e a Bossa Nova, com Baden Powell e João Donato. Notícias relacionadas: Brasília ",
       "category": "Cultura"
-    },
-    {
-      "title": "Portugal-Dinamarca. Todos os jogadores da seleção vão vestir camisola 7",
-      "url": "https://www.rtp.pt/noticias/desporto/portugal-dinamarca-todos-os-jogadores-da-selecao-vao-vestir-camisola-7_v1779044",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:15:48+00:00",
-      "summary": "Portugal joga este sábado com a Dinamarca para a Liga das Nações. Todos os jogadores da seleção vão vestir a camisola 7 em homenagem a Cristiano Ronaldo.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Novo capítulo na seleção. Portugal homenageia Ronaldo na luta pela liderança do grupo",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/novo-capitulo-na-selecao-portugal-homenageia-ronaldo-na-luta-pela-lideranca-do-grupo_d1779043",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:14:18+00:00",
-      "summary": "Sem Cristiano Ronaldo, mas com Jorge Jesus no banco da seleção, que volta a reunir-se para fechar as contas do grupo A4 da Liga das Nações, o objetivo dos dois encontros que restam mantém-se: \"ganhar\". Bernardo Silva assume a braçadeira de capitão e acredita que a equipa está mais perto de atingir grandes patamares com",
-      "category": "Esportes"
-    },
-    {
-      "title": "Dinamarca quer evitar que jogadores portugueses \"brilhem\"",
-      "url": "https://observador.pt/2026/11/13/nao-os-deixar-brilhar-demasiado-dinamarca-admite-jogar-contra-equipa-melhor-antes-de-defrontar-portugal-em-braga/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:12:54+00:00",
-      "summary": "No último encontro entre os dois países, Portugal venceu a Dinamarca por 4-2",
-      "category": "Mundo"
-    },
-    {
-      "title": "EUA suspendem todos os voos do país por razões de segurança",
-      "url": "https://www.cnnbrasil.com.br/internacional/eua-suspendem-voos-por-circunstancias-extraordinarias-e-razoes-de-seguranca/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T21:10:47+00:00",
-      "summary": "Ordem foi emitida devido a uma falha de comunicação que afeta todos os Centros de Controle de Tráfego Aéreo.Sean Duffy, secretário de Transportes americano, afirmou pelas redes sociais que a",
-      "category": "Mundo"
-    },
-    {
-      "title": "EUA suspendem voos nacionais em todos os aeroportos",
-      "url": "https://observador.pt/2026/11/13/estados-unidos-suspendem-atividade-em-todos-os-aeroportos-do-pais/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:09:01+00:00",
-      "summary": "Decisão tomada por \"circunstâncias extraordinárias\" e muito rara teve como base problema que está a ter impacto em todos os centros de controlo de tráfego aéreo.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Grupos Ocidental e Central dos Açores sob aviso amarelo",
-      "url": "https://observador.pt/2026/11/13/acores-sob-aviso-amarelo-este-sabado-chuva-forte-esperada-nos-grupos-ocidental-e-central-das-ilhas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:05:15+00:00",
-      "summary": "O aviso amarelo, o menos grave de uma escala de três, é emitido pelo IPMA sempre que existe uma situação de risco para determinadas atividades dependentes da situação meteorológica",
-      "category": "Mundo"
-    },
-    {
-      "title": "Escândalo na Nvidia. Ex-CEO convocado para depor no Senado",
-      "url": "https://www.rtp.pt/noticias/mundo/escandalo-na-nvidia-ex-ceo-convocado-para-depor-no-senado_v1779039",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T21:00:49+00:00",
-      "summary": "O ex-presidente da Nvidia e o secretário do Comércio dos Estados Unidos foram convocados para depor no Senado. Em causa estão os mais recentes escândalos que envolvem a multinacional tecnológica, com suspeitas de espionagem chinesa.",
-      "category": "Política"
-    },
-    {
-      "title": "Leão XIV no Peru. Papa regressa à diocese de Chiclayo onde foi bispo",
-      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-no-peru-papa-regressa-a-diocese-de-chiclayo-onde-foi-bispo_v1779038",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T20:59:47+00:00",
-      "summary": "O Papa incitou os jovens a não se conformarem a viver de acordo com as expetativas de outros. Leão XIV regressou hoje à diocese onde foi bispo no norte do Peru.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Apicultores excluídos do gasóleo verde pedem apoio",
-      "url": "https://observador.pt/2026/11/13/apicultores-pedem-apoio-do-governo-nos-combustiveis-viaturas-todo-o-terreno-ficam-de-fora-do-gasoleo-verde/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T20:59:43+00:00",
-      "summary": "Portugal conta com 750 mil colmeias e entre 55% e 60% destas estão nas mãos destas mais de 1.100 empresas nacionais",
-      "category": "Economia"
-    },
-    {
-      "title": "36 mortos em colapsos de minas em Manica este ano",
-      "url": "https://observador.pt/2026/11/13/minas-artesanais-ilegais-mataram-36-pessoas-em-manica-este-ano-policia-e-chamada-a-intervir-para-repor-a-ordem/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T20:59:26+00:00",
-      "summary": "Daniel Chapo , anunciou para breve a aprovação do regulamento da nova Lei de Minas, destinado a reforçar os mecanismos de fiscalização e controlo da atividade mineira",
-      "category": "Mundo"
-    },
-    {
-      "title": "Ex-presidente da ULS de Aveiro continua detido",
-      "url": "https://observador.pt/2026/11/13/ex-presidente-da-uls-de-aveiro-continua-detido-e-os-outros-dois-arguidos-foram-libertados/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T20:58:56+00:00",
-      "summary": "Ricardo Matos foi detido na segunda-feira pela Polícia Judiciária, por suspeitas de corrupção, tendo sido demitido no dia seguinte pela ministra da Saúde",
-      "category": "Política"
-    },
-    {
-      "title": "Habitação. Primeiro-ministro remete reuniões para Ministério da Habitação",
-      "url": "https://www.rtp.pt/noticias/politica/habitacao-primeiro-ministro-remete-reunioes-para-ministerio-da-habitacao_v1779037",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T20:58:47+00:00",
-      "summary": "Luís Montenegro não prevê encontrar-se com os manifestantes pela habitação. O primeiro-ministro disse ainda que mantém a confiança política na ministra da Saúde.",
-      "category": "Política"
-    },
-    {
-      "title": "Fachin defende indicação de ministra negra para o STF",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-defende-indicacao-de-ministra-negra-para-o-stf",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T20:47:00+00:00",
-      "summary": "O presidente do Supremo Tribunal Federal e do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, defendeu nesta sexta-feira (13) a indicação de uma ministra negra para compor a Corte. Fachin participou do Encontro Nacional de Juízas e Juízes Negros (Enajun), no Rio de Janeiro, e elogiou o currículo das juízas q",
-      "category": "Política"
-    },
-    {
-      "title": "Irene Fonseca: \"Nos EUA, cada pessoa é a sua carreira\"",
-      "url": "https://observador.pt/programas/capitaes-na-america/irene-fonseca-nos-eua-cada-pessoa-e-a-sua-carreira/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T20:44:29+00:00",
-      "summary": "De aspirante a pintora a matemática de topo na Carnegie Mellon, Irene Fonseca, partilha o seu percurso de sucesso nos EUA, a paixão pela ciência e a sua visão sobre o mérito e a IA.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Kostiantynivka. Rússia nega ação humanitária como cobertura",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/kostiantynivka-russia-nega-acao-humanitaria-como-cobertura/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T20:43:28+00:00",
-      "summary": "Porta-voz de Putin nega uso de evacuação para fins militares. Ainda, explosão em Moscovo atinge antigo porta-voz do ex-primeiro-ministro ucraniano, exilado na Rússia há 12 anos.",
-      "category": "Política"
-    },
-    {
-      "title": "Europa define representantes para negociar paz na Ucrânia",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/europa-define-representantes-para-negociar-paz-na-ucrania/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T20:42:59+00:00",
-      "summary": "Após falta de consenso, França, Reino Unido, Alemanha, Itália, Polónia, Comissão e Conselho Europeus representam Europa. Ainda, Kiev afirma que o avanço russo na frente diminuiu significativamente.",
-      "category": "Economia"
-    },
-    {
-      "title": "O sucesso da “rapariga do tempo” no podcast Quente e Frio",
-      "url": "https://observador.pt/newsletters/observadores-premium/o-sucesso-da-nossa-rapariga-do-tempo-no-quente-e-frio-e-o-novo-cafe-espanha/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-13T20:32:29+00:00",
-      "summary": "Como é feito o sétimo podcast mais ouvido do país. Como se preparam os comentadores do novo Café Espanha. E como nada disto se faz sem paixão.",
-      "category": "Clima"
-    },
-    {
-      "title": "Confiança da indústria atinge menor nível desde maio de 2020",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T20:29:00+00:00",
-      "summary": "A confiança dos empresários industriais caiu seis pontos em novembro, passando de 46,2 para 40,2 pontos, segundo levantamento divulgado pela Confederação Nacional da Indústria (CNI) nesta sexta-feira (13). O Índice de Confiança do Empresário Industrial (Icei) chegou ao menor nível desde maio de 2020, quando marcou 34,7",
-      "category": "Mundo"
-    },
-    {
-      "title": "Milton Leite se torna réu por suspeita de ligação com o PCC",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/milton-leite-se-torna-reu-por-suspeita-de-ligacao-com-o-pcc",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T19:56:00+00:00",
-      "summary": "A Justiça de São Paulo acatou denúncia do Ministério Público e tornou Milton Leite e mais 13 pessoas réus por suspeita de ligação com a facção criminosa Primeiro Comando da Capital (PCC). Leite é ex-vereador e ex-presidente da Câmara Municipal de São Paulo e está preso. O político filiado ao partido União Brasil foi pa",
-      "category": "Política"
-    },
-    {
-      "title": "Fachin suspende prazos processuais após instabilidade da Microsoft",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T18:50:00+00:00",
-      "summary": "O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, decidiu nesta sexta-feira (13) suspender os prazos processuais no sistema judiciário de todo o país em razão das falhas ocorridas nos sistemas da Microsoft. Pela decisão, a contagem dos prazos fica interrompid",
-      "category": "Política"
-    },
-    {
-      "title": "Associações do agro rebatem BB sobre alta da inadimplência",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/associacoes-do-agro-rebatem-bb-sobre-alta-da-inadimplencia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T18:25:00+00:00",
-      "summary": "Entidades de produtores rurais reagiram à manifestação do Banco do Brasil (BB), que atribuiu a queda de 66,5% no lucro líquido alcançado no terceiro trimestre de 2026 ao aumento da inadimplência, principalmente do agronegócio. Em nota , a Associação Brasileira dos Produtores de Soja (Aprosoja Brasil) repudia as declara",
-      "category": "Mundo"
-    },
-    {
-      "title": "INSS: mutirão oferece 7,9 mil vagas em 8 estados neste fim de semana",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/inss-mutirao-oferece-79-mil-vagas-em-8-estados-neste-fim-de-semana",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T18:17:00+00:00",
-      "summary": "O Ministério da Previdência Social (MPS) e o Instituto Nacional do Seguro Social (INSS) promovem neste fim de semana (14 e 15 de novembro) um mutirão que disponibilizará 7.959 vagas de atendimento em agências da Previdência de oito estados. Durante o mutirão, serão prestados atendimentos de avaliação social e perícia m",
-      "category": "Mundo"
-    },
-    {
-      "title": "Salto: fábrica de solventes no interior de SP é atingida por incêndio",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/salto-fabrica-de-solventes-no-interior-de-sp-e-atingida-por-incendio",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T17:13:00+00:00",
-      "summary": "Um grande incêndio atinge uma indústria de solventes, a Pyrozzar, na cidade de Salto, no interior de São Paulo, desde a manhã desta sexta-feira (13). Segundo informações do Corpo de Bombeiros, há quatro integrantes da corporação feridos sem gravidade e um em estado grave, com queimaduras nas vias áreas. O bombeiro foi ",
-      "category": "Clima"
-    },
-    {
-      "title": "Resenha do Enem: EBC prepara live para segundo dia de prova",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/resenha-do-enem-ebc-prepara-live-para-segundo-dia-de-prova",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-13T17:07:00+00:00",
-      "summary": "Como parte da cobertura do Exame Nacional do Ensino Médio (Enem), os veículos da Empresa Brasil de Comunicação ( EBC ) prepararam uma programação especial para o segundo dia de prova, marcado para este domingo (15). A partir das 19h30, a Agência Brasil promove a live Resenha do Enem , com a participação de professores ",
-      "category": "Economia"
     }
   ],
   "sources": [
