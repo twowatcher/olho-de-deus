@@ -1,419 +1,482 @@
 {
-  "updatedAt": "2026-11-15T21:44:39.213511+00:00",
+  "updatedAt": "2026-11-16T01:59:19.947282+00:00",
   "items": [
     {
-      "title": "Nuno Melo contra \"turba de radicalistas\" nos protestos",
-      "url": "https://observador.pt/2026/11/15/nuno-melo-contra-turba-de-radicalistas-dos-protestos-pela-habitacao-que-quer-atacar-a-democracia/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T21:41:55+00:00",
-      "summary": "Nuno Melo assinalou que \"há uma grande diferença\" entre aqueles que \"têm assento na AR\" e quem \"acha que, porque reúne uma turba de radicalistas num sítio, tem o direito de decidir.",
-      "category": "Mundo"
-    },
-    {
-      "title": "21h Cabo Verde: José Maria Neves pode ser reeleito à 1ª volta",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-cabo-verde-jose-maria-neves-pode-ser-reeleito-a-1a-volta_a1_1779379",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T21:39:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Gabarito do Enem e correção das questões: g1 mostra respostas em programa ao vivo",
-      "url": "https://g1.globo.com/educacao/enem/2026/ao-vivo/enem-2026-gabarito-correcao-das-questoes-videos-cadernos-prova.ghtml",
+      "title": "2º dia do Enem 2026 tem debates sobre anulação de questões, circuito repetido e alta da abstenção",
+      "url": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/2o-dia-do-enem-2026-tem-debates-sobre-anulacao-circuito-repetido-e-alta-da-abstencao-veja-destaques.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-15T21:32:49+00:00",
-      "summary": "Gabarito do Enem e correção das questões: g1 mostra respostas em programa ao vivo Estudantes tiveram que responder 45 questões de Ciências da Natureza e 45 questões de Matemática. GABARITO: confira o gabarito extraoficial. CADERNO DE PROVA: baixe o PDF com todas as questões",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Papa Leão XIV condena desmatamento na Amazônia e morte de líderes indígenas",
-      "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-condena-desmatamento-na-amazonia-e-morte-de-lideres-indigenas/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:31:08+00:00",
-      "summary": "Pontífice visitou comunidades Shipibo-Konibo no Peru e pediu resistência à exploração de recursos naturais",
-      "category": "Mundo"
-    },
-    {
-      "title": "Lula decidirá formação dos ministérios quando voltar de viagem, diz Alckmin",
-      "url": "https://www.cnnbrasil.com.br/politica/lula-decidira-formacao-dos-ministerios-quando-voltar-de-viagem-diz-alckmin/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:28:41+00:00",
-      "summary": "Presidente em exercício afirma que o petista deve definir a composição da Esplanada na próxima terça-feira (17), depois de cumprir compromissos na Turquia, Filipinas e Espanha",
-      "category": "Política"
-    },
-    {
-      "title": "Presidenciais em Cabo Verde. José Maria Neves à frente na contagem dos votos",
-      "url": "https://www.rtp.pt/noticias/mundo/presidenciais-em-cabo-verde-jose-maria-neves-a-frente-na-contagem-dos-votos_n1779376",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T21:24:47+00:00",
-      "summary": "Com a maioria das mesas apuradas, José Maria Neves está à frente na contagem dos votos em Cabo Verde e tudo indica vai voltar a vencer as eleições presidenciais deste domingo.",
-      "category": "Política"
-    },
-    {
-      "title": "Auxiliar de produção, pedreiro e técnico de Enfermagem: confira as oportunidades de emprego na região de Piracicaba",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/15/auxiliar-de-producao-pedreiro-e-tecnico-de-enfermagem-confira-as-oportunidades-de-emprego-na-regiao-de-piracicaba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:23:24+00:00",
-      "summary": "Carteira de trabalho Divulgação / PMMC Cinco cidades da região de Piracicaba (SP) reúnem 1.055 vagas de emprego abertas a partir desta segunda-feira (16). As oportunidades são oferecidas pelos serviços municipais de apoio ao trabalhador. ✅ Clique aqui para seguir o canal do g1 Piracicaba no WhatsApp Há emprego nas área",
-      "category": "Economia"
-    },
-    {
-      "title": "Vídeo de macaco a salvar cão em cheias da Tailândia é real?",
-      "url": "https://observador.pt/factchecks/fact-check-video-de-macaco-a-salvar-um-cao-durante-as-cheias-na-tailandia-e-real/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T21:23:10+00:00",
-      "summary": "O vídeo tornou-se viral após as cheias de setembro na Tailândia. Mas a publicação original está sinalizada como IA e o verificador da Meta confirma-o.",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Mitos e verdades sobre câncer de próstata: urologista tira dúvidas que homens têm vergonha de perguntar",
-      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/15/mitos-e-verdades-sobre-cancer-de-prostata-urologista-tira-duvidas-que-homens-tem-vergonha-de-perguntar.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:22:20+00:00",
-      "summary": "Quando o assunto é câncer de próstata, apesar da visibilidade que o Novembro Azul promove, os homens seguem com dúvidas que, na maioria das vezes, têm vergonha de perguntar. Por isso, o g1 Zona da Mata conversou com um urologista para tirar dúvidas sobre a doença. 🔎 O Novembro Azul é o mês internacional dedicado à saúd",
-      "category": "Saúde"
-    },
-    {
-      "title": "Questões do Enem 2026 - 2º dia: baixe os cadernos com a prova de matemática e ciências da natureza",
-      "url": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/questoes-do-enem-2026-2o-dia-baixe-os-cadernos-com-a-prova-de-matematica-e-ciencias-da-natureza.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:22:02+00:00",
-      "summary": "Prova amarela Enem 2026 segundo dia Reprodução Os alunos que saíram da prova do Exame Nacional do Ensino Médio (Enem) 2026 antes das 18h30 deste domingo (15) não puderam levar o caderno de provas. Quem quiser conferir todas as 90 questões de múltipla escolha de provas de matemática e ciências da natureza pode baixar o ",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "ExpoBeleza 2026 começa em Manaus com palestras, desfiles e cursos gratuitos",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/15/expobeleza-2026-comeca-em-manaus-com-palestras-desfiles-e-cursos-gratuitos.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:21:43+00:00",
-      "summary": "ExpoBeleza 2026 começa em Manaus com palestras, desfiles e cursos gratuitos Divulgação A 5ª edição da Manaus Expo Beleza começou neste domingo (15), no Centro de Convenções do Amazonas – Vasco Vasques, em Manaus. O evento reúne profissionais, empreendedores e empresas dos setores de beleza, estética e bem-estar em uma ",
-      "category": "Economia"
-    },
-    {
-      "title": "Policial militar morre após ser baleado durante patrulhamento em Salvador",
-      "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/policial-militar-morre-apos-ser-baleado-durante-patrulhamento-em-salvador/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:19:23+00:00",
-      "summary": "Soldado Marco Antônio Ramos da Silva foi atingido na cabeça no bairro de Nova Brasília enquanto realizava ação de policiamento",
-      "category": "Mundo"
-    },
-    {
-      "title": "Estudante autista viaja para fazer o Enem e busca ser o 1º da família na universidade: 'Sei que as dificuldades são muitas'",
-      "url": "https://g1.globo.com/pi/piaui/ingresso-universitario/noticia/2026/11/15/estudante-autista-enem-parnaiba.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:18:06+00:00",
-      "summary": "Estudante autista viaja para fazer o Enem e busca ser o 1º da família na universidade Após uma hora de estrada entre Cajueiro da Praia e Parnaíba, no litoral do Piauí, o estudante João Vitor Nascimento chegou determinado para enfrentar o Exame Nacional do Ensino Médio (Enem) na Universidade Federal do Delta do Parnaíba",
-      "category": "Mundo"
-    },
-    {
-      "title": "Polícia investiga assassinato de dono de trailer de lanches em Altamira",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/11/15/policia-investiga-assassinato-de-dono-de-trailer-de-lanches-em-altamira.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:17:59+00:00",
-      "summary": "Em Altamira, empresário que trabalhava com venda de lanches foi assassinado Redes sociais/Reprodução A polícia investiga o assassinato do proprietário de um trailer de lanches em Altamira, na região sudoeste do Pará. Antônio Jeferson Pereira Ferreira, de 31 anos, foi executado a tiros. O crime ocorreu no sábado (14). A",
-      "category": "Mundo"
-    },
-    {
-      "title": "Motorista sem CNH é preso suspeito de se envolver em duas batidas, deixar mulher morta e fugir sem prestar socorro em MT",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/15/motorista-sem-cnh-e-preso-suspeito-de-se-envolver-em-duas-batidas-deixar-mulher-morta-e-fugir-sem-prestar-socorro-em-mt.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:17:20+00:00",
-      "summary": "Francisca Maria Lopes Soares Barros, de 41 anos Reprodução Uma mulher identificada como Francisca Maria Lopes Soares Barros, de 41 anos, morreu após a bicicleta elétrica em que estava ser atingida por uma caminhonete em Campo Novo do Parecis (MT), neste domingo (15). Um motorista sem Carteira Nacional de Habilitação (C",
-      "category": "Cultura"
-    },
-    {
-      "title": "Homem morre atropelado por caminhão após cair embaixo do veículo em RO",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/15/homem-morre-atropelado-por-caminhao-apos-cair-embaixo-do-veiculo-em-ro.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:11:55+00:00",
-      "summary": "Giroflex Foto: Divulgação Um homem identificado como Rosenildo Araújo Franco morreu atropelado na madrugada deste domingo (15), em Candeias do Jamari (RO). Segundo testemunhas, ele tentou subir na calçada, perdeu o equilíbrio e caiu embaixo de um caminhão. A Polícia Militar foi acionada e, ao chegar ao local, encontrou",
-      "category": "Mundo"
-    },
-    {
-      "title": "Internacional mantém vantagem e é campeão da Copa do Brasil Feminina",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/internacional-mantem-vantagem-e-e-campeao-da-copa-do-brasil-feminina/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:11:07+00:00",
-      "summary": "Pati Llanos marcou único gol da partida; no jogo de ida, as Coloradas haviam vencido o Flamengo or 3 a 1, de virada, no estádio Luso Brasileiro, no Rio de Janeiro",
+      "publishedAt": "2026-11-16T01:40:21+00:00",
+      "summary": "Caderno de Provas do 2° dia de aplicação do ENEM. Angelo Miguel/MEC O segundo dia do Exame Nacional do Ensino Médio (Enem) 2026, realizado no domingo (15), foi marcado por uma possível inconsistência em uma questão de Matemática sobre campeonato de futebol, pela repetição de um circuito elétrico que já havia aparecido ",
       "category": "Esportes"
     },
     {
-      "title": "Distribuição gratuita de mudas transforma quintais e produz alimentos saudáveis em casas de MG",
-      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/15/distribuicao-gratuita-de-mudas-transforma-quintais-e-produz-alimentos-saudaveis-em-casas-de-mg.ghtml",
+      "title": "Questão de matemática sobre teorema de Pitágoras gera dúvidas entre professores e pode ser anulada",
+      "url": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/questao-de-matematica-sobre-teorema-de-pitagoras.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-15T21:10:58+00:00",
-      "summary": "Programa transforma quintais em hortas e incentiva alimentação saudável em MG Não é preciso morar na zona rural para cultivar alimentos frescos e ter uma horta em casa. Em Pará de Minas, o programa Quintais Produtivos incentiva moradores a transformar pequenos espaços residenciais em áreas de cultivo, com a distribuiçã",
-      "category": "Ciência & Tech"
+      "publishedAt": "2026-11-16T01:30:22+00:00",
+      "summary": "Questão 160 da prova amarela matemática Enem 2026. Reprodução Além da questão de matemática sobre gols de um campeonato de futebol, da prova de matemática do segundo dia de Enem 2026, uma segunda questão da disciplina sobre teorema de Pitágoras também gerou dúvidas entre professores e pode ser anulada. O problema na qu",
+      "category": "Esportes"
     },
     {
-      "title": "As notícias das 21h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1818/",
+      "title": "Chuvas atípicas e El Niño fazem preço do tomate disparar e atingir maior patamar histórico no Brasil",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/chuvas-atipicas-e-el-nino-fazem-preco-do-tomate-disparar-e-atingir-maior-patamar-historico-no-brasil.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T01:28:00+00:00",
+      "summary": "Preço do tomate dispara no Brasil Reprodução/TV Globo O preço do tomate disparou em todas as capitais brasileiras em 2026 devido ao excesso de chuvas atípicas entre setembro e outubro. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia GloboPop: clique para ver os vídeos do palco do Fantástico Uma repor",
+      "category": "Economia"
+    },
+    {
+      "title": "Empresa abre mais de 57 vagas de emprego em São Luís, Atins e Barreirinhas; veja oportunidades",
+      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/11/15/empresa-abre-mais-de-57-vagas-de-emprego-em-sao-luis-atins-e-barreirinhas-veja-oportunidades.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T01:22:27+00:00",
+      "summary": "Vitae Desenvolvimento Empresarial reúne vagas de emprego no Maranhão, Marcelo Camargo/Agência Brasil A Vitae Desenvolvimento Empresarial está com 57 vagas de emprego abertas em São Luís, Atins e Barreirinhas, no Maranhão. As oportunidades são para diferentes áreas de atuação, como comércio, administração, hotelaria e s",
+      "category": "Economia"
+    },
+    {
+      "title": "Enem 2026: questão de matemática sobre futebol pode ser anulada",
+      "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-questao-de-matematica-sobre-futebol-pode-ser-anulada/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T01:21:27+00:00",
+      "summary": "Professores apontam divergência nos dados da tabela do exercício que pode comprometer a resolução do problema",
+      "category": "Esportes"
+    },
+    {
+      "title": "As notícias da 1h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2447/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-11-15T21:10:16+00:00",
+      "publishedAt": "2026-11-16T01:15:17+00:00",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "category": "Mundo"
     },
     {
-      "title": "Homem fica preso em porta giratória de banco e ofende vigilante com insulto racista em MG",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/15/homem-fica-preso-em-porta-giratoria-de-banco-e-ofende-vigilante-com-insulto-racista-em-mg.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:08:46+00:00",
-      "summary": "Homem preso por injúria racial contra vigilante de banco em Araguari Polícia Militar/Divulgação Um homem foi preso por injúria racial após proferir ofensas racistas contra um vigilante de uma agência bancária de Araguari, no Triângulo Mineiro, na última sexta-feira (13). Segundo testemunhas, o suspeito teria se exaltad",
-      "category": "Mundo"
-    },
-    {
-      "title": "Médicos de Família em Bragança. Cobertura de 100% aos mais de 126 mil utentes da ULS Nordeste",
-      "url": "https://www.rtp.pt/noticias/pais/medicos-de-familia-em-braganca-cobertura-de-100-aos-mais-de-126-mil-utentes-da-uls-nordeste_v1779375",
+      "title": "01h Seguro felicita presidente de Cabo Verde",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-seguro-felicita-presidente-de-cabo-verde_a1_1779402",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-11-15T21:07:49+00:00",
-      "summary": "Todos os utentes do distrito de Bragança já têm médico de família. A ULS do Nordeste é a primeira, do interior, com cobertura total.",
+      "publishedAt": "2026-11-16T01:12:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "'Dentista das feras' trata onças, urso e coloca prótese em condor resgatados no Equador",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/dentista-das-feras-trata-oncas-urso-e-coloca-protese-em-condor-resgatados-no-equador.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T01:10:50+00:00",
+      "summary": "Dentista das Feras leva um urso para o consultório. O médico-veterinário brasileiro Roberto Fecchio, conhecido como \"dentista das feras\", realizou uma série de atendimentos odontológicos em animais silvestres resgatados do tráfico e de conflitos ambientais no Equador. 📱Favorite o g1 no Google e acompanhe as principais ",
       "category": "Saúde"
     },
     {
-      "title": "Enem 2026: após 2º dia de prova, candidatos de Campinas apontam dificuldade em questões de biologia e de logaritmo",
-      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/enem-2026-2o-dia-prova-avaliacao.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T21:06:10+00:00",
-      "summary": "Enem: candidatos de Campinas apontam dificuldade em questões de biologia e de logaritmo Candidatos de Campinas (SP) divergiram ao avaliar a dificuldade da prova no segundo dia do Exame Nacional do Ensino Médio (Enem), aplicada neste domingo (15). Mas as perguntas de biologia e uma questão de matemática que exigia conhe",
-      "category": "Mundo"
-    },
-    {
-      "title": "Jensen Huang discute retorno ao cargo de CEO da Nvidia, diz FT",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/jensen-huang-discute-retorno-ao-cargo-de-ceo-da-nvidia-diz-ft/",
+      "title": "Klopp pede saída de Infantino da presidência da Fifa",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/klopp-pede-saida-de-infantino-da-presidencia-da-fifa/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-15T21:04:36+00:00",
-      "summary": "Grupo de executivos do Vale do Silício articula apoio ao ex-chefe; conselho busca possível sucessor",
-      "category": "Mundo"
-    },
-    {
-      "title": "Medidas Tempestade. Luís Neves diz que Governo não tem medo de decidir",
-      "url": "https://www.rtp.pt/noticias/pais/medidas-tempestade-luis-neves-diz-que-governo-nao-tem-medo-de-decidir_v1779374",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T21:02:47+00:00",
-      "summary": "Luís Neves diz que a prevenção da tempestade Charles foi um sinal de \"maturidade\", e que o Governo não tem medo de decidir.",
+      "publishedAt": "2026-11-16T01:06:22+00:00",
+      "summary": "Técnico da Seleção Alemã e ex-Liverpool disparou críticas a Gianni Infantino, atual presidente da instituição, e defendeu que o próximo presidente coloque o 'futebol em primeiro lugar'",
       "category": "Política"
     },
     {
-      "title": "Dica de maquiadores: lápis labial da cor natural da pele evita que batom escorra da boca",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/dica-de-maquiadores-lapis-labial-da-cor-natural-da-pele-evita-que-batom-escorra-da-boca/",
+      "title": "“Eu sou seu pai”: entenda como sabre luz de Darth Vader foi vendido por R$ 27 milhões em leilão",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/eu-sou-seu-pai-entenda-como-sabre-luz-de-darth-vader-foi-vendido-por-r-27-milhoes-em-leilao/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-15T21:00:39+00:00",
-      "summary": "Descubra como o lápis labial da cor natural, combinado com a textura ideal do batom, garante um contorno perfeito e duradouro nos seus lábios",
+      "publishedAt": "2026-11-16T01:00:39+00:00",
+      "summary": "Objeto foi usado pelo ator David Prowse e seu dublê, o esgrimista olímpico Bob Anderson, em diversas cenas de luta da franquia",
       "category": "Mundo"
     },
     {
-      "title": "Plano de Emergência para a Saúde. IGAS iliba Eurico Castro Alves e considera pagamentos legais",
-      "url": "https://www.rtp.pt/noticias/pais/plano-de-emergencia-para-a-saude-igas-iliba-eurico-castro-alves-e-considera-pagamentos-legais_v1779373",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T20:59:47+00:00",
-      "summary": "A Inspeção-Geral das Atividades em Saúde recuou e deu luz verde ao pagamento de 179 mil euros a Eurico Castro Alves, coordenador do Plano de Emergência para a Saúde.",
+      "title": "Polícia prende homem que sequestrou filho de ex-companheira no ES",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/es/policia-prende-homem-que-sequestrou-filho-de-ex-companheira-no-es/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:59:37+00:00",
+      "summary": "Mãe do menino de 6 anos informou aos agentes que possui medida protetiva contra o agressor detido em Cachoeiro de Itapemirim, onde segue à disposição da Justiça",
+      "category": "Mundo"
+    },
+    {
+      "title": "'Nenhuma autoridade do Peru fez o que ele fez por nós': como Leão XIV ajudou a população durante enchentes e a pandemia",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/nenhuma-autoridade-do-peru-fez-o-que-ele-fez-por-nos-como-leao-xiv-ajudou-a-populacao-durante-enchentes-e-a-pandemia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:49:03+00:00",
+      "summary": "Papa Leão XIV em enchente no Peru. Reprodução/Fantástico Restos de paredes, casas em ruínas e uma porta que não leva a lugar nenhum. Em Íllimo, no norte do Peru, os sinais da destruição provocada pelas enchentes ainda estão espalhados pela cidade, que tem cerca de 10 mil habitantes e quase não registra chuvas. 📱Favorit",
+      "category": "Clima"
+    },
+    {
+      "title": "Juiz federal aposentado Helder Girão Barreto morre em Boa Vista",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/15/juiz-federal-aposentado-helder-girao-barreto-morre-em-boa-vista.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:46:46+00:00",
+      "summary": "Juiz federal aposentado Helder Girão Barreto Reprodução/Instagram O juiz federal aposentado Helder Girão Barreto, de 63 anos, morreu na noite deste domingo (15), em Boa Vista. A causa da morte não foi oficialmente divulgada. Conhecido por ser o juiz que atuou no escândalo dos gafanhotos em 2003, por ter suspendido a en",
+      "category": "Mundo"
+    },
+    {
+      "title": "Do Real Madrid ao North: presidente conta bastidores da chegada de Salgado",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/do-real-madrid-ao-north-presidente-conta-bastidores-da-chegada-de-salgado/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:45:38+00:00",
+      "summary": "Galático foi contratado para comandar o time de Montes Claros (MG) na temporada 2027 e fortalecer o projeto de SAF do clube; Salgado foi o convidado do CNN Esportes S/A deste domingo (15)",
+      "category": "Política"
+    },
+    {
+      "title": "Deputado estadual eleito Fábio Henrique sofre infarto e é internado na UTI em Aracaju",
+      "url": "https://g1.globo.com/se/sergipe/noticia/2026/11/15/deputado-estadual-eleito-fabio-henrique-sofre-infarto-e-e-internado-na-uti-em-aracaju.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:43:50+00:00",
+      "summary": "Deputado estadual eleito Fábio Henrique Redes Sociais O radialista, policial rodoviário federal e deputado estadual eleito pelo MDB Fábio Henrique sofreu um infarto na manhã deste domingo (15) e está internado na Unidade de Terapia Intensiva (UTI) do Hospital Primavera, em Aracaju. A informação foi divulgada pela asses",
+      "category": "Saúde"
+    },
+    {
+      "title": "Tênis: Andreeva bate Svitolina e conquista WTA Finals pela primeira vez",
+      "url": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-andreeva-bate-svitolina-e-conquista-wta-finals-pela-primeira-vez/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:38:36+00:00",
+      "summary": "Tenista russa conquistou vitória por 2 sets a 0 e termina temporada na segunda posição do ranking mundial; partida foi disputada em Indian Wells, nos Estados Unidos",
+      "category": "Clima"
+    },
+    {
+      "title": "Gabarito e correção do Enem: g1 mostra respostas do 2º dia do Enem",
+      "url": "https://g1.globo.com/educacao/enem/2026/ao-vivo/enem-2026-gabarito-correcao-das-questoes-videos-cadernos-prova.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:34:40+00:00",
+      "summary": "Gabarito e correção do Enem: g1 mostra respostas do 2º dia do Enem Professores do Anglo corrigem questões de matemática e ciências da natureza; gabarito oficial sai na próxima quarta-feira. GABARITO: confira o gabarito extraoficial. CADERNO DE PROVA: baixe o PDF com todas as questões. ANULAÇÃO DE QUESTÃO: Pergunta de m",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Criança de 4 anos morre após ser jogada de viaduto pela própria mãe em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/crianca-de-4-anos-morre-apos-ser-jogada-de-viaduto-pela-propria-mae-em-sp/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:33:52+00:00",
+      "summary": "Vítima foi socorrida pelo SAMU e levada ao Hospital das Clínicas, mas não resistiu, após cair na Avenida 23 de Maio; caso segue sendo investigado no 78º DP",
+      "category": "Saúde"
+    },
+    {
+      "title": "IA fora de controle: agentes da OpenAI invadiram sistemas de outras empresas durante testes",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/ia-fora-de-controle-agentes-da-openai-invadiram-sistemas-de-outras-empresas-durante-testes.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:28:40+00:00",
+      "summary": "O que agentes de IA sem controle e ataques hackers representam como perigo para a humanidade? Enquanto o mundo acompanhava a Copa do Mundo, em julho de 2026, um episódio envolvendo inteligência artificial acendeu um alerta entre pesquisadores e empresas de tecnologia. Centenas de agentes de IA da OpenAI, criadora do Ch",
       "category": "Economia"
     },
     {
-      "title": "Trump recebeu Bolsonaro nos EUA após eleições brasileiras?",
-      "url": "https://observador.pt/factchecks/fact-check-donald-trump-recebeu-flavio-bolsonaro-nos-eua-apos-as-eleicoes-brasileiras/",
+      "title": "O Alien na rua",
+      "url": "https://observador.pt/opiniao/o-alien-na-rua/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-11-15T20:57:18+00:00",
-      "summary": "Fotografia publicada nas redes sociais mostra Trump a receber senador nos EUA após as eleições brasileiras. Imagem foi gerada por inteligência artificial e não corresponde a um encontro real.",
-      "category": "Política"
-    },
-    {
-      "title": "José Loreto impressiona fãs ao carregar Eliana em desafio do bambolê; veja",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/jose-loreto-impressiona-fas-ao-carregar-eliana-em-desafio-do-bambole-veja/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T20:48:48+00:00",
-      "summary": "Dinâmica foi inspirada em cena de \"Quem Ama Cuida\", na qual o personagem Iuri aparece praticando atividades físicas com o objeto entre as bancadas da cozinha",
+      "publishedAt": "2026-11-16T00:24:57+00:00",
+      "summary": "Fizemos contacto com outro tipo de inteligência. Quase toda a gente disse olá e seguiu caminho",
       "category": "Mundo"
     },
     {
-      "title": "Avril Lavigne atinge pico de buscas após anunciar gravidez secreta; entenda",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/avril-lavigne-atinge-pico-de-buscas-apos-anunciar-gravidez-secreta-entenda/",
-      "source": "CNN Brasil",
+      "title": "Chuva alaga ruas de SP e provoca transbordamento de córrego na Zona Leste; vídeos mostram estragos",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/15/chuva-alaga-ruas-de-sp-e-provoca-transbordamento-de-corrego-na-zona-leste-videos-mostram-estragos.ghtml",
+      "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-15T20:45:18+00:00",
-      "summary": "Cantora canadense confirmou a chegada da primogênita, que ainda não teve seu nome divulgado, na tarde da última sexta-feira (13)",
+      "publishedAt": "2026-11-16T00:24:52+00:00",
+      "summary": "Vídeo mostra bueiro jorrando água na Bela Vista, na região central de SP, durante temporal A chuva que atingiu a cidade de São Paulo neste domingo (15), feriado da Proclamação da República, provocou alagamentos em diferentes regiões da capital. Vídeos registraram um bueiro jorrando água na Bela Vista, na região central",
+      "category": "Clima"
+    },
+    {
+      "title": "João Pedro George, o ilusionista vingativo",
+      "url": "https://observador.pt/opiniao/joao-pedro-george-o-ilusionista-vingativo/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-16T00:23:05+00:00",
+      "summary": "Sobre o trabalho que João Pedro George fez sobre mim e sobre os meus livros.",
       "category": "Cultura"
     },
     {
-      "title": "Trump pediu investigação a eleições no Brasil?",
-      "url": "https://observador.pt/factchecks/fact-check-trump-pediu-investigacao-aos-resultados-das-eleicoes-no-brasil/",
+      "title": "Sobre direitos e sacrifício",
+      "url": "https://observador.pt/opiniao/sobre-direitos-e-sacrificio/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-11-15T20:42:27+00:00",
-      "summary": "Publicações nas redes sociais e em portais brasileiros sugerem que Trump quer investigação a eleições que disse \"parecerem viciadas\". Mas o apelo não veio do Presidente dos EUA.",
-      "category": "Política"
-    },
-    {
-      "title": "Movimento Acampada de Lisboa pretende ficar nos Restauradores até ao fim da semana",
-      "url": "https://www.rtp.pt/noticias/economia/movimento-acampada-de-lisboa-pretende-ficar-nos-restauradores-ate-ao-fim-da-semana_e1779157",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T20:37:27+00:00",
-      "summary": "Por todo o país, milhares de pessoas saíram às ruas numa manifestação pelo direito à habitação no sábado. O protesto prolongou-se pelo fim de semana, em Lisboa, com os manifestantes a voltar a montar tendas na capital. Acompanhamos aqui o protesto.",
+      "publishedAt": "2026-11-16T00:21:28+00:00",
+      "summary": "Como é que uma sociedade que exclui do seu vocabulário, da sua narrativa e dos seus valores a capacidade de sacrifício pode gerar cidadãos saudáveis? Claramente não pode.",
       "category": "Mundo"
     },
     {
-      "title": "Shakira inclui Salvador em turnê que passará pelo Brasil",
-      "url": "https://www.cnnbrasil.com.br/pop/musica/shakira-inclui-salvador-em-turne-que-passara-pelo-brasil/",
+      "title": "Certidão de nascimento, RG e passaporte brasileiro: como estrangeiro ligado a Osama Bin Laden pagou R$ 200 mil por documentos",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/certidao-de-nascimento-rg-e-passaporte-brasileiro-como-estrangeiro-ligado-a-osama-bin-laden-pagou-r-200-mil-por-documentos.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-16T00:18:40+00:00",
+      "summary": "Estrangeiros ligados a terroristas entram no Brasil e tiram documentos Uma investigação da Polícia Civil do Distrito Federal descobriu um esquema que teria vendido documentos brasileiros a 15 estrangeiros por R$ 200 mil cada. Com certidões de nascimento, carteiras de identidade e passaportes obtidos de forma fraudulent",
+      "category": "Esportes"
+    },
+    {
+      "title": "OE: A louca e irracional maratona parlamentar",
+      "url": "https://observador.pt/opiniao/oe-a-louca-e-irracional-maratona-parlamentar/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-16T00:16:30+00:00",
+      "summary": "É urgente repensar o processo legislativo de apreciação do Orçamento do Estado, diminuir o número de “cavaleiros orçamentais” admitidos, e aumentar a responsabilidade dos grupos parlamentares.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Míchel Salgado explica por que escolheu o North: “Margem para trabalhar”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/michel-salgado-explica-por-que-escolheu-o-north-margem-para-trabalhar/",
       "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-15T20:35:05+00:00",
-      "summary": "Anúncio foi feito pelo prefeito da capital baiana neste domingo, Bruno Reis, que também revelou que a apresentação será na Arena Fonte Nova",
+      "publishedAt": "2026-11-16T00:15:36+00:00",
+      "summary": "Ex-jogador do Real Madrid assumiu o clube de Montes Claros, em Minas Gerais, e contou detalhes da contratação durante entrevista ao CNN Esportes S/A deste domingo (15)",
+      "category": "Esportes"
+    },
+    {
+      "title": "Os ricos saem, os contratos (por enquanto) ficam",
+      "url": "https://observador.pt/opiniao/os-ricos-saem-os-contratos-por-enquanto-ficam/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-16T00:15:09+00:00",
+      "summary": "Um Lord Mayor, num só ano fiscal, com uma agenda que Isaltino Morais consideraria frugal, teve 466 almoços. Porém, na sexta-feira anterior ao segundo sábado de novembro, não há almoços nem discursos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "As notícias das 00h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2474/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-16T00:14:54+00:00",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "category": "Mundo"
+    },
+    {
+      "title": "O Ministro da Administração Interna e as acampadas",
+      "url": "https://observador.pt/opiniao/o-ministro-da-administracao-interna-e-as-acampadas-entrada-de-leao-saida-de-sendeiro/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-16T00:14:01+00:00",
+      "summary": "As autoridades públicas têm, no âmbito das suas competências, não só o poder como o dever de pôr termo a manifestações e acampamentos com ocupação de espaço público que ocorram em violação da lei",
       "category": "Política"
     },
     {
-      "title": "Acampada de regresso a Lisboa. Restauradores são o local escolhido",
-      "url": "https://www.rtp.pt/noticias/pais/acampada-de-regresso-a-lisboa-restauradores-sao-o-local-escolhido_v1779369",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T20:32:47+00:00",
-      "summary": "As tendas voltaram às ruas de Lisboa. Desta vez, à Praça dos Restauradores.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Imagem mostra recolha de iPhones após ataque em Ormuz?",
-      "url": "https://observador.pt/factchecks/fact-check-imagem-mostra-pessoas-a-recolher-iphones-a-dar-a-costa-depois-de-navio-ter-sido-atacado-no-estreito-de-ormuz/",
+      "title": "Quando a reunião se tornou o trabalho",
+      "url": "https://observador.pt/opiniao/quando-a-reuniao-se-tornou-o-trabalho/",
       "source": "Observador",
       "region": "Portugal",
-      "publishedAt": "2026-11-15T20:30:59+00:00",
-      "summary": "Um navio afundou em outubro, no Estreito de Ormuz, e desde então que nas redes sociais circulam dezenas de imagens que mostram Iphones à deriva no mar. Serão verdadeiras?",
+      "publishedAt": "2026-11-16T00:08:52+00:00",
+      "summary": "Como as empresas transformaram a colaboração em comunicação incessante, o entrosamento em rituais digitais, os processos em fins em si mesmos e a azáfama num substituto para a produtividade",
+      "category": "Economia"
+    },
+    {
+      "title": "O oceano que deixamos às próximas gerações começa hoje",
+      "url": "https://observador.pt/opiniao/o-oceano-que-deixamos-as-proximas-geracoes-comeca-nas-escolhas-de-hoje/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-16T00:07:16+00:00",
+      "summary": "Mais do que reconhecer que somos um país de mar, é tempo de transformar essa identidade em ação e assumir um compromisso real com o oceano e com o nosso futuro comum.",
+      "category": "Clima"
+    },
+    {
+      "title": "Para atrair indústria, precisamos de mais do que terrenos",
+      "url": "https://observador.pt/opiniao/para-atrair-industria-portugal-precisa-de-mais-do-que-terrenos/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-16T00:06:12+00:00",
+      "summary": "Para captar grandes investimentos, Portugal precisa de territórios preparados, com infraestruturas, capacidade produtiva e talento. Alcanena e Torres Novas decidiram avançar em conjunto.",
       "category": "Mundo"
     },
     {
-      "title": "20h Contam-se os votos em Cabo Verde",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-contam-se-os-votos-em-cabo-verde_a1_1779367",
+      "title": "O divórcio e a casa de família",
+      "url": "https://observador.pt/opiniao/quando-o-amor-constroi-a-casa-mas-a-lei-da-as-chaves-a-apenas-um-dos-conjuges/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-16T00:05:16+00:00",
+      "summary": "Uma casa construída e paga por ambos pode, em caso de divórcio, pertencer apenas ao cônjuge que recebeu o terreno por doação. Ao outro resta uma compensação.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Defesa Civil emite alerta para chuvas intensas na Grande São Paulo",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-para-chuvas-intensas-na-grande-sao-paulo/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-15T23:49:14+00:00",
+      "summary": "Comunicado prevê descargas elétricas, rajadas de vento e queda de granizo na capital paulista e em municípios vizinhos",
+      "category": "Clima"
+    },
+    {
+      "title": "Inep deve apresentar proposta de mudança no Enem, diz ministro da Educação",
+      "url": "https://www.cnnbrasil.com.br/educacao/inep-deve-apresentar-proposta-de-mudanca-no-enem-diz-ministro-da-educacao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-15T23:47:32+00:00",
+      "summary": "Projeto deve ser discutido nas próximas semanas, segundo informação divulgada por Leonardo Barchini em coletiva de imprensa neste domingo (15)",
+      "category": "Política"
+    },
+    {
+      "title": "Gabarito do Enem sai na quarta-feira, e resultado em 18 de janeiro",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-15T23:43:00+00:00",
+      "summary": "O gabarito oficial do Exame Nacional do Ensino Médio (Enem) de 2026 será publicado na próxima quarta-feira (18). Já o resultado do exame está previsto para ser divulgado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) no dia 18 de janeiro de 2027 . O segundo dia da aplicação da prova ",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Shelton começa ATP Finals a ganhar",
+      "url": "https://www.rtp.pt/noticias/tenis/shelton-comeca-atp-finals-a-ganhar_d1779397",
       "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-11-15T20:28:03+00:00",
+      "publishedAt": "2026-11-15T23:32:47+00:00",
+      "summary": "O norte-americano Ben Shelton venceu o estreante francês Arthur Fils, por 6-2, 3-6 e 6-3, no primeiro encontro da fase de grupos das ATP Finals, a decorrer em Turim, em Itália.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sporting nas meias-finais da Taça Intercontinental de futsal",
+      "url": "https://www.rtp.pt/noticias/futsal/sporting-nas-meias-finais-da-taca-intercontinental-de-futsal_d1779396",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-15T23:29:01+00:00",
+      "summary": "O Sporting goleou por 8-2 o BTS, da Indonésia, na estreia na Taça Intercontinental de Clubes de futsal, a decorrer em Pato Branco, no Brasil, e garantiu já a passagem às meias-finais.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Inglaterra põe fim à invencibilidade espanhola",
+      "url": "https://www.rtp.pt/noticias/ligadasnacoes/inglaterra-poe-fim-a-invencibilidade-espanhola_d1779395",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-15T23:25:55+00:00",
+      "summary": "França e Bélgica rumaram aos quartos de final da Liga das Nações, após Portugal, Espanha e Inglaterra, numa sexta e última jornada da fase principal em que os britânicos travaram o recorde mundial de invencibilidade espanhol.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Problema na direção de navio-tanque causou colisão em Nova Orleans",
+      "url": "https://www.cnnbrasil.com.br/internacional/problema-na-direcao-de-navio-tanque-causou-colisao-em-nova-orleans/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-15T23:22:22+00:00",
+      "summary": "Leme ficou travado em uma única direção, levando a embarcação a desviar da rota e colidir com cruzeiro, afirma autoridade de segurança dos transportes",
+      "category": "Mundo"
+    },
+    {
+      "title": "Andreeva conquista WTA Finals",
+      "url": "https://www.rtp.pt/noticias/tenis/andreeva-conquista-wta-finals_d1779393",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-15T23:21:23+00:00",
+      "summary": "A russa Mirra Andreeva derrotou Elina Svitolina por 7-5 e 6-3, e assegurou a vitória nas WTA Finals logo na sua primeira participação.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Enem 2026 tem mais concluintes do ensino público, mas abstenção também sobe",
+      "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-tem-mais-concluintes-do-ensino-publico-mas-abstencao-tambem-sobe/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-15T23:20:31+00:00",
+      "summary": "De acordo com o Ministério da Educação, a taxa de abstenção no segundo dia de provas do exame foi de 36%; alta já era esperada pelo órgão",
+      "category": "Mundo"
+    },
+    {
+      "title": "Cabo Verde. Joana Rosa reconhece derrota eleitoral",
+      "url": "https://www.rtp.pt/noticias/mundo/cabo-verde-joana-rosa-reconhece-derrota-eleitoral_n1779388",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-15T22:42:41+00:00",
+      "summary": "Joana Rosa, primeira mulher candidata à Presidência de Cabo Verde, reconheceu a derrota nas eleições de hoje em que José Maria Neves deverá ser reeleito à primeira volta.",
+      "category": "Política"
+    },
+    {
+      "title": "22h Cabo Verde: José Maria Neves reeleito",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-cabo-verde-jose-maria-neves-reeleito_a1_1779391",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-15T22:38:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Cientistas identificam sinal de rádio raro que se repete a cada oito minutos no espaço",
-      "url": "https://www.cnnbrasil.com.br/ciencia/cientistas-identificam-sinal-de-radio-raro-que-se-repete-a-cada-oito-minutos-no-espaco/",
-      "source": "CNN Brasil",
+      "title": "Clubes, Ministério e FPF repudiam agressões em final Sub-20 feminina",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/clubes-ministerio-e-fpf-repudiam-agressoes-em-final-sub-20-feminina",
+      "source": "Agência Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-15T20:26:15+00:00",
-      "summary": "Equipe processou mais de 100 horas de dados no Centro de Pesquisa de Supercomputação Pawsey para analisar o objeto astronômico",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Arranca contagem para escolha de PR de Cabo Verde",
-      "url": "https://observador.pt/2026/11/15/mesas-de-voto-fecham-e-arranca-contagem-para-escolha-de-presidente-da-republica-de-cabo-verde/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T20:25:08+00:00",
-      "summary": "A votação decorreu de forma pacífica nas cerca de mil mesas nas ilhas e 240 no estrangeiro, tendo o dia ficado marcado por apelos dos principais intervenientes políticos à participação.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Enem 2026: 2º dia teve carga tributária, carros elétricos e sites de namoro",
-      "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-2o-dia-teve-carga-tributaria-carros-eletricos-e-sites-de-namoro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T20:23:11+00:00",
-      "summary": "Segunda etapa da prova acontece neste domingo (15) em todo o país; professores consultados pela CNN Brasil elencam os principais destaques do exame",
-      "category": "Mundo"
-    },
-    {
-      "title": "Visitar casa dos pais pode despertar nosso lado adolescente, diz psicólogo",
-      "url": "https://www.cnnbrasil.com.br/saude/visitar-casa-dos-pais-pode-despertar-nosso-lado-adolescente-diz-psicologo/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T20:18:17+00:00",
-      "summary": "Comportamento é mais comum do que parece e tem relação com os papéis que construímos dentro da família desde a infância; especialista explica que reencontro pode reativar padrões antigos de convivência",
-      "category": "Mundo"
-    },
-    {
-      "title": "Presidente do CDS-PP lembra que \"PS é casa de socialistas\"",
-      "url": "https://observador.pt/2026/11/15/presidente-do-cds-pp-lembra-a-ex-militantes-que-ps-e-casa-de-socialistas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T20:11:12+00:00",
-      "summary": "Melo lançou mensagem \"muito clara\" a ex-militantes: \"Quem deixa o CDS e se junta ao PS, nem é democrata-cristão, nem tem nada a ver com o CDS, passa a socialista.\"",
-      "category": "Política"
-    },
-    {
-      "title": "20h. Rússia adverte para regresso de ensaios nucleares",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2089/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T20:10:19+00:00",
-      "summary": "Representante permanente da Rússia junto da Agência Internacional da Energia Atómica fala em resposta adequada, se tal acontecer. Ainda, Estónia fecha fronteiras com a Rússia a partir do próximo mês.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Segredos do carro voador que a Xpeng mostrou na Web Summit",
-      "url": "https://observador.pt/2026/11/15/os-segredos-do-carro-voador-que-a-xpeng-mostrou-na-web-summit/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T19:53:30+00:00",
-      "summary": "A estratégia para o carro voador da Xpeng passa por propor um monovolume em cuja bagageira é possível instalar um drone com capacidade para dois ocupantes",
-      "category": "Mundo"
-    },
-    {
-      "title": "Portugal tricampeão europeu de râguebi sub-20",
-      "url": "https://www.rtp.pt/noticias/raguebi/portugal-tricampeao-europeu-de-raguebi-sub-20_d1779366",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T19:51:04+00:00",
-      "summary": "Portugal sagrou-se tricampeão europeu de râguebi sub-20, após vencer a Bélgica, por 31-15 na final do Europe Championship do escalão que se disputou em Praga, capital da República Checa.",
-      "category": "Economia"
-    },
-    {
-      "title": "Regresso de Ronaldinho aos 46 anos",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/regresso-de-ronaldinho-aos-46-anos_d1779365",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T19:46:40+00:00",
-      "summary": "O brasileiro Ronaldinho Gaúcho regressou no domingo aos relvados, aos 46 anos, após ter deixado o futebol profissional há onze, e foi titular no Ravenna, na receção ao Forli, em jogo do terceiro escalão de Itália.",
+      "publishedAt": "2026-11-15T22:14:00+00:00",
+      "summary": "Horas após o término da decisão do Campeonato Paulista F Sub-20 Petrobras, que teve vitória da Ferroviária sobre o Corinthians, por 2 a 0 , os dois clubes e a Federação Paulista de Futebol (FPF) se manifestaram sobre a briga generalizada que aconteceu aos 31 minutos do segundo tempo . As agressões resultaram nas expuls",
       "category": "Esportes"
     },
     {
-      "title": "Governo angolano pede firmeza da polícia para reduzir mortes",
-      "url": "https://observador.pt/2026/11/15/governo-angolano-pede-firmeza-da-policia-para-reduzir-mortes-nas-estradas/",
-      "source": "Observador",
+      "title": "Alunos cegos sem aulas. Autarquia não assegura transporte escolar",
+      "url": "https://www.rtp.pt/noticias/pais/alunos-cegos-sem-aulas-autarquia-nao-assegura-transporte-escolar_v1779387",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-11-15T19:44:21+00:00",
-      "summary": "Angola assinalou o Dia Mundial em Memória das Vítimas da Estrada com um apelo à \"atuação firme, legal e consequente\" contra comportamentos de risco.",
-      "category": "Política"
+      "publishedAt": "2026-11-15T21:59:47+00:00",
+      "summary": "Quase a chegar ao fim do primeiro período escolar, há vários alunos impedidos de ir às aulas por falta de transporte escolar. São alunos cegos e com baixa visão. Estão em casa a perder aprendizagens e a aprender o significado da palavra exclusão.",
+      "category": "Mundo"
     },
     {
-      "title": "Raimundo critica \"obsessão ideológica\" com privatizações",
-      "url": "https://observador.pt/2026/11/15/raimundo-critica-obsessao-de-privatizacoes-dos-governos-da-republica-e-dos-acores/",
-      "source": "Observador",
+      "title": "Brasil encerra Grand Prix de Judô em 1º lugar no quadro de medalhas",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-encerra-grand-prix-de-judo-em-1o-lugar-no-quadro-de-medalhas",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-15T21:55:00+00:00",
+      "summary": "Beatriz Souza (foto) e Guilherme Schmidt coroaram a participação do Brasil no Grand Prix de Judô de Zagreb, na Croácia, com mais dois ouros neste domingo (15), último dia da competição. No total, os brasileiros levaram cinco medalhas no Grand Prix, sendo quatro ouros e um bronze. Com os resultados, o Brasil terminou em",
+      "category": "Mundo"
+    },
+    {
+      "title": "Negociações de paz na Ucrânia. Mediadores terão sugerido cedência do Donbass e entrada na NATO",
+      "url": "https://www.rtp.pt/noticias/mundo/negociacoes-de-paz-na-ucrania-mediadores-terao-sugerido-cedencia-do-donbass-e-entrada-na-nato_v1779385",
+      "source": "RTP Notícias",
       "region": "Portugal",
-      "publishedAt": "2026-11-15T19:41:30+00:00",
-      "summary": "Para Paulo Raimundo as responsabilidades pela situação dos Açores não podem ser atribuídas exclusivamente ao Governo da República.",
-      "category": "Política"
+      "publishedAt": "2026-11-15T21:50:47+00:00",
+      "summary": "A Ucrânia na NATO em troca da retirada do Donbass. A hipótese terá sido levantada pelos Estados Unidos nas negociações de paz. A revelação é de Volodymyr Zelensky.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Crise da Habitação. Diminuiu a construção em Portugal",
+      "url": "https://www.rtp.pt/noticias/economia/crise-da-habitacao-diminuiu-a-construcao-em-portugal_v1779384",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-15T21:46:47+00:00",
+      "summary": "Estão a construir-se menos casas em Portugal. O sector da construção diz que a crise da habitação começa na falta de terrenos e o Banco de Portugal estima que faltam qualquer coisa como 300 mil habitações em todo o país.",
+      "category": "Mundo"
+    },
+    {
+      "title": "II Liga: Leixões retoma os triunfos",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-leixoes-retoma-os-triunfos_d1779383",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-15T21:45:10+00:00",
+      "summary": "O Leixões recebeu e venceu o Desportivo de Chaves por 2-0, no Estádio do Mar, em Matosinhos, regressando aos triunfos seis rondas depois, em encontro da 11.ª jornada da II Liga.",
+      "category": "Esportes"
+    },
+    {
+      "title": "Leão XIV no Peru. Papa vive Andes peruanos e selva amazónica",
+      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-no-peru-papa-vive-andes-peruanos-e-selva-amazonica_v1779382",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-15T21:44:47+00:00",
+      "summary": "Ao quinto dia de visita apostólica ao Peru, Leão XIV chegou a Cusco, nos Andes peruanos para unir a tradição católica às raízes populares de um povo milenar: os incas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Inter conquista Copa do Brasil de futebol feminino sobre o Flamengo",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/inter-conquista-copa-do-brasil-de-futebol-feminino-sobre-o-flamengo",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-15T21:42:00+00:00",
+      "summary": "Nesta tarde ensolarada de domingo (15) no Beira-Rio, o torcedor do Internacional soltou o grito de \"é campeão!\" da Copa do Brasil de futebol feminino, com mais uma vitória sobre o Flamengo, por 1 a 0. A equipe já havia derrotado o adversário por 3 a 1, na partida de ida, e confirmou o primeiro título nacional da equipe",
+      "category": "Esportes"
+    },
+    {
+      "title": "Pará tem 61 cidades em situação de emergência por incêndios florestais",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/para-tem-61-cidades-em-situacao-de-emergencia-por-incendios-florestais",
+      "source": "Agência Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-15T21:35:00+00:00",
+      "summary": "Incêndios florestais levaram 61 municípios do Pará a ter situação de emergência reconhecida neste domingo (15) pelo Ministério da Integração e do Desenvolvimento Regional (MIDR). A medida permite que os locais afetados pelo fogo solicitem recursos federais para ações de defesa civil . Outros 50 municípios estão em situ",
+      "category": "Clima"
     },
     {
       "title": "Inmet prevê tempestades no Centro-Sul do país até segunda-feira",
@@ -434,15 +497,6 @@
       "category": "Mundo"
     },
     {
-      "title": "19h Acampada vai decidir se fica ou não nos Restauradores",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-acampada-vai-decidir-se-fica-ou-nao-nos-restauradores_a1_1779363",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T19:26:03+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
       "title": "COP31: negociações avançam, mas financiamento é desafio para 2ª semana",
       "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-negociacoes-avancam-mas-financiamento-e-desafio-para-2a-semana",
       "source": "Agência Brasil",
@@ -450,15 +504,6 @@
       "publishedAt": "2026-11-15T19:09:00+00:00",
       "summary": "A primeira semana da Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), foi concluída oficialmente na manhã deste domingo (15) em Antália, Turquia. O balanço dos especialistas até aqui é de que houve avanços em decisões de caráter mais técnico e procedimental. Porém, questões sobre financiamento, adaptaçã",
       "category": "Mundo"
-    },
-    {
-      "title": "Nvidia tem de \"procurar candidatos fora da empresa\" para encontrar um novo CEO",
-      "url": "https://www.rtp.pt/noticias/mundo/nvidia-tem-de-procurar-candidatos-fora-da-empresa-para-encontrar-um-novo-ceo_n1779359",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-15T18:56:49+00:00",
-      "summary": "O secretário do Tesouro norte-americano defende que a Nvidia precisa de \"procurar candidatos fora da empresa\" para o cargo de diretor executivo, após a demissão de Jensen Huang no meio de revelações de casos extraconjugais.",
-      "category": "Economia"
     },
     {
       "title": "Bullying: após morte, família e especialistas pedem rigor de escolas",
@@ -477,51 +522,6 @@
       "publishedAt": "2026-11-15T18:17:00+00:00",
       "summary": "O domingo teve boa notícia para o Brasil no frio da Finlândia. Lucas Pinheiro Braathen levou o título da etapa da copa do mundo de esqui alpino, realizada em Levi. Na prova do slalom, ele fez o melhor tempo entre todos os participantes e foi campeão, superando o canadense Liam Wallace, que ficou com a prata, e o austrí",
       "category": "Clima"
-    },
-    {
-      "title": "Curso capacita servidores para inclusão de pessoas com deficiência",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/curso-capacita-servidores-para-inclusao-de-pessoas-com-deficiencia",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T18:00:00+00:00",
-      "summary": "O Programa Nacional de Inclusão Produtiva para Agentes Públicos vai oferecer formação gratuita e certificada a 3 mil profissionais. O objetivo é preparar órgãos públicos para identificar e eliminar barreiras enfrentadas por pessoas com deficiência no acesso a serviços, oportunidades de trabalho e participação social. A",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Alckmin destaca alcance do Enem e desafio logístico para a aplicação",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/alckmin-destaca-alcance-do-enem-e-desafio-logistico-para-aplicacao",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T17:20:00+00:00",
-      "summary": "O presidente em exercício, Geraldo Alckmin, destacou neste domingo (15) o papel do Exame Nacional do Ensino Médio (Enem) para a democratização do acesso ao ensino superior. Ele ressaltou também o desafio logístico necessário para a aplicação da prova em todo o país. Em visita ao Instituto Nacional de Estudos e Pesquisa",
-      "category": "Política"
-    },
-    {
-      "title": "Ferroviária bate Corinthians e é campeã do Paulista F Sub-20 Petrobras",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/ferroviaria-bate-corinthians-e-e-campea-do-paulista-f-sub-20-petrobras",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T16:56:00+00:00",
-      "summary": "Em partida que teve transmissão ao vivo da TV Brasil neste domingo (15), a Ferroviária derrotou o Corinthians por 2 a 0, na final do Campeonato Paulista F Sub-20 Petrobras, e conquistou seu terceiro título da competição. A equipe ─ que perdeu as duas últimas decisões do torneio para o São Paulo ─ foi campeã de forma in",
-      "category": "Esportes"
-    },
-    {
-      "title": "Zezé Motta participa de tributo a Milton Nascimento nesta segunda",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/zeze-motta-participa-de-tributo-milton-nascimento-nesta-segunda",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T16:48:00+00:00",
-      "summary": "A obra de um dos maiores artistas brasileiros vai ser celebrada nesta segunda-feira (16) por um encontro de gerações no concerto Raça — Uma homenagem a Milton Nascimento . A apresentação, que também comemora o Mês da Consciência Negra, será às 19h, no Teatro TotalEnergies, na Glória, zona sul do Rio de Janeiro. O show ",
-      "category": "Ciência & Tech"
-    },
-    {
-      "title": "Lula busca investimentos da Ásia para exploração de minerais críticos",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lula-busca-investimentos-na-asia-para-explorar-minerais-criticos",
-      "source": "Agência Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-15T16:30:00+00:00",
-      "summary": "O presidente Luiz Inácio Lula da Silva afirmou neste domingo (15), nas Filipinas, que o Brasil pretende atrair investimentos para a exploração e a industrialização de minerais críticos e terras raras, em uma estratégia que, segundo ele, pode ampliar a inserção do país nas cadeias produtivas ligadas à transição energéti",
-      "category": "Política"
     }
   ],
   "sources": [
