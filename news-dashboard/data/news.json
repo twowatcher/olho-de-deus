@@ -1,112 +1,373 @@
 {
-  "updatedAt": "2026-11-21T23:09:34.317890+00:00",
+  "updatedAt": "2026-11-22T03:05:50.187645+00:00",
   "items": [
     {
-      "title": "Adolescente de 17 anos morre após ser baleado por homens em moto em Marabá no PA",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/11/21/adolescente-de-17-anos-morre-apos-ser-baleado-por-homens-em-moto-em-maraba-no-pa.ghtml",
-      "source": "G1",
+      "title": "Paredes desmaia em entrevista após título do Boca contra Atlético-MG; veja",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/paredes-desmaia-em-entrevista-apos-titulo-do-boca-contra-atletico-mg-veja/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-21T23:02:59+00:00",
-      "summary": "Tiroteio durante perseguição policial assusta pessoas em cruzamento de Belém Um adolescente de 17 anos morreu após ser baleado na madrugada desta sexta-feira (20), na travessa João Passondas de Carvalho, no núcleo Velha Marabá, em Marabá, no sudeste do Pará. Segundo testemunhas, dois homens em uma motocicleta atiraram ",
+      "publishedAt": "2026-11-22T02:35:47+00:00",
+      "summary": "Volante é uma das lideranças técnicas do clube argentino, campeão sobre o Galo, após ganhar por 2 a 0, neste sábado (21), em Barranquilla, na Colômbia",
       "category": "Mundo"
     },
     {
-      "title": "Família denuncia espera de 20h por parto após morte de recém-nascido e diz que corpo ficou em caixa no PI",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/21/morte-de-recem-nascido-hospital-piaui.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T23:01:59+00:00",
-      "summary": "Família denuncia possível negligência após morte de bebê durante parto em Floriano Uma família de Paes Landim denunciou possíveis falhas no atendimento prestado pelo Hospital Regional Tibério Nunes, em Floriano, após a morte de um recém-nascido instantes depois do parto. Segundo a família, a gestante aguardou por cerca",
-      "category": "Saúde"
+      "title": "2h. Sporting vence União da Serra em casa por 4-0",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2476/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T02:15:47+00:00",
+      "summary": "Com esta vitória, o Sporting elimina o clube de Leiria e passa aos oitavos de final. Ainda, o ministro das Finanças garante que o Governo vai fazer um grande esforço para manter equilíbrio das contas.",
+      "category": "Política"
     },
     {
-      "title": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 21 de novembro de 2026",
-      "url": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/21/videos-eptv-2-sul-de-minas-de-sabado-21-de-novembro-de-2026.ghtml",
+      "title": "Novo rascunho da COP31 evita menção direta ao fim dos combustíveis fósseis",
+      "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/21/novo-rascunho-da-cop31.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-21T23:01:27+00:00",
+      "publishedAt": "2026-11-22T02:05:45+00:00",
+      "summary": "O que esperar da COP31, a conferência do clima da ONU A presidência da COP31 divulgou neste sábado (21) uma nova proposta de acordo para tentar encerrar a conferência do clima da ONU, realizada em Antália, na Turquia. A cúpula deveria ter terminado na sexta-feira (20), mas as negociações avançaram pelo fim de semana di",
+      "category": "Clima"
+    },
+    {
+      "title": "Cruzeiro bate a Chapecoense e emenda sexta vitória seguida no Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-bate-a-chapecoense-e-emenda-sexta-vitoria-seguida-no-brasileirao/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:58:11+00:00",
+      "summary": "Time celeste visitou a equipe catarinense na Arena Condá, neste sábado (21), e conseguiu mais um resultado positivo pelo Campeonato Brasileiro",
+      "category": "Esportes"
+    },
+    {
+      "title": "CNN Brasil e Itatiaia transmitem Marseille x Le Mans pela Ligue 1; confira",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cnn-brasil-e-itatiaia-transmitem-marseille-x-le-mans-pela-ligue-1-confira/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:53:01+00:00",
+      "summary": "Equipes se enfrentam neste domingo às 16h45 (de Brasília) no Velódrome, em jogo da 11ª rodada do Francês",
+      "category": "Esportes"
+    },
+    {
+      "title": "Centros de dados de IA nos EUA poluem mais que países inteiros, aponta estudo",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/centros-de-dados-de-ia-nos-eua-poluem-mais-que-paises-inteiros-aponta-estudo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:52:55+00:00",
+      "summary": "Inteligência artificial amplia pegada ambiental dos data centers Enquanto o mundo discute o futuro dos combustíveis fósseis, a expansão da inteligência artificial cria um novo desafio ambiental. Um estudo mostra que os data centers nos Estados Unidos já emitem mais poluição do que alguns países. 📱Favorite o g1 no Googl",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/novos-ataques-aumentam-a-preocupacao-de-paises-europeus-com-a-guerra-na-ucrania.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:45:11+00:00",
+      "summary": "Novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia Novos ataques aumentam a preocupação de países europeus de que conflito na Ucrânia se espalhe na região. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia A guerra não dá sinais de trégua. Em Kiev, Volodymyr Zelensky voltou",
+      "category": "Economia"
+    },
+    {
+      "title": "Michelle diz que Jair Bolsonaro está sem febre e com “cara boa”",
+      "url": "https://www.cnnbrasil.com.br/politica/michelle-diz-que-jair-bolsonaro-esta-sem-febre-e-com-cara-boa/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:39:16+00:00",
+      "summary": "Ex-primeira dama e senadora eleita pelo PL-DF visitou o ex-presidente na noite deste sábado (21); ele está internado em UTI de Brasília com diagnóstico de abdômen agudo obstrutivo",
+      "category": "Política"
+    },
+    {
+      "title": "Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/brasil-recebe-75-milhoes-de-turistas-estrangeiros-e-supera-meta-do-ano-com-dois-meses-de-antecedencia.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:29:23+00:00",
+      "summary": "Estrangeiros gastam mais de R$ 45 bi no Brasil O turismo internacional está batendo recordes no Brasil esse ano. E o valor gasto por estrangeiros já é o maior registrado pelo Ministério do Turismo. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Uma casquinha de sorvete aqui. Um prato de galinha caip",
+      "category": "Mundo"
+    },
+    {
+      "title": "Messi agride Tapia, ex-São Paulo, e escapa de expulsão na MLS; veja",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-agride-tapia-ex-sao-paulo-e-escapa-de-expulsao-na-mls-veja/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:28:48+00:00",
+      "summary": "Atacante chileno emprestado pelo Tricolor foi o grande destaque da vitória do Columbus Crew sobre o Inter Miami, neste sábado (21)",
+      "category": "Mundo"
+    },
+    {
+      "title": "01h Os ativistas da acampada decidiram ficar frente ao parlamento",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-os-ativistas-da-acampada-decidiram-ficar-frente-ao-parlamento_a1_1780874",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T01:27:02+00:00",
       "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Como uma especialista em aves foi presa na Rússia por causa de US$ 30",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/21/como-uma-especialista-em-aves-foi-presa-na-russia-por-causa-de-us-30.ghtml",
+      "title": "Cidade nos EUA se prepara para marés gigantescas; prefeito pede que moradores estoquem comida e reconsiderem viagens",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/21/cidade-nos-eua-se-prepara-para-mares-gigantescas-prefeito-pede-que-moradores-estoquem-comida-e-reconsiderem-viagens.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-21T22:59:33+00:00",
-      "summary": "Renomada cientista dedicada ao estudo de espécies no Ártico, Sofia Rosenfeld está desde outubro em uma colônia penal na Rússia. O motivo foi uma pequena doação à Fundação Anticorrupção (FBK), de Alexei Navalny. O falecido oposicionista do governo de Vladimir Putin passou a ser classificado pelas autoridades russas como",
+      "publishedAt": "2026-11-22T01:24:02+00:00",
+      "summary": "Chuvas esparsas continuaram a agravar os impactos das inundações históricas no estado da Flórida, nos Estados Unidos, enquanto autoridades no norte da Califórnia se preparam para um dilúvio sem precedentes devido as marés altas, previstas para acontecerem às vésperas da semana de viagens do Dia de Ação de Graças. Os si",
       "category": "Política"
     },
     {
-      "title": "Incêndio destrói depósito e deixa uma pessoa ferida em Araguaína; veja imagens",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/21/incendio-destroi-deposito-e-deixa-uma-pessoa-ferida-em-araguaina-veja-imagens.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:58:46+00:00",
-      "summary": "Incêndio destrói galpão e deixa uma pessoa ferida em Araguaína Um incêndio destruiu um depósito no Jardim Mônaco, em Araguaína, na tarde deste sábado (21). Durante a ocorrência, o proprietário do estabelecimento ficou ferido na cabeça após ser atingido por parte da estrutura do local. Segundo o Corpo de Bombeiros, as c",
-      "category": "Cultura"
-    },
-    {
-      "title": "Incêndio atinge terreno de creche após queima de fogos no bairro Caranazal, em Santarém",
-      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/21/incendio-atinge-terreno-de-creche-apos-queima-de-fogos-no-bairro-caranazal-em-santarem.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:58:38+00:00",
-      "summary": "Moradores observam avanço das chamas nos fundos de Cemei no bairro Caranazal, em Santarem Um incêndio atingiu o terreno de uma creche em Santarém, no oeste do Pará, neste sábado (21). O caso ocorreu no Centro Municipal de Educação Infantil (Cemei) Santa Clara de Assis, localizado no cruzamento da Rua Antônio Bastos com",
+      "title": "Acampada dupla: tendas no Parlamento e nos Restauradores",
+      "url": "https://observador.pt/2026/11/22/confluencia-de-lutas-juntou-acampada-de-lisboa-e-cgtp-em-marcha-por-lisboa-tendas-chegaram-a-assembleia/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T01:22:06+00:00",
+      "summary": "Chuva forte não intimidou centenas de manifestantes da Acampada de Lisboa",
       "category": "Clima"
     },
     {
-      "title": "VÍDEOS: NE2 de sábado, 21 de novembro de 2026",
-      "url": "https://g1.globo.com/pe/pernambuco/videos-ne2/playlist/videos-ne2-de-sabado-21-de-novembro-de-2026.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:58:12+00:00",
-      "summary": "Assista aos vídeos do telejornal com as notícias de Pernambuco.",
+      "title": "00h Os ativistas da acampada decidiram ficar frente ao parlamento",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-os-ativistas-da-acampada-decidiram-ficar-frente-ao-parlamento_a1_1780873",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T01:19:02+00:00",
+      "summary": "",
       "category": "Mundo"
     },
     {
-      "title": "Assista ao Boa Noite Espírito Santo",
-      "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
-      "source": "G1",
+      "title": "Boca Juniors quebra jejum e provoca rival após título: “O que mais ganhou”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/boca-juniors-quebra-jejum-e-provoca-rival-apos-titulo-o-que-mais-ganhou/",
+      "source": "CNN Brasil",
       "region": "Brasil",
-      "publishedAt": "2026-11-21T22:58:01+00:00",
-      "summary": "Assista ao Boa Noite Espírito Santo As principais notícias do dia no Espírito Santo.",
+      "publishedAt": "2026-11-22T01:16:56+00:00",
+      "summary": "Clube argentino encerra jejum de 18 anos e usa camisa especial para provocar o Independiente após vitória sobre Atlético-MG",
       "category": "Mundo"
     },
     {
-      "title": "Chuva forte provoca estragos e deixa moradores ilhados na zona rural de Aimorés",
-      "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/21/chuva-forte-provoca-estragos-e-deixa-moradores-ilhados-na-zona-rural-de-aimores.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:56:44+00:00",
-      "summary": "Temporal provoca estragos na zona rural de Aimorés Uma forte chuva provocou estragos na zona rural de Aimorés, no Leste de Minas, na madrugada deste sábado (21). No distrito de Alto Capim, o Córrego Todos Santos transbordou e deixou moradores ilhados. Segundo um balanço parcial divulgado pela Defesa Civil Municipal, pe",
-      "category": "Clima"
-    },
-    {
-      "title": "Câmera flagra momento em que carro de aplicativo capota após batida; motorista é presa em Jacareí",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/21/camera-flagra-momento-em-que-carro-de-aplicativo-capota-apos-batida-motorista-e-presa-em-jacarei.ghtml",
-      "source": "G1",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:54:03+00:00",
-      "summary": "VÍDEO: carro capota após ser atingido por veículo guiado por motorista embriagada Uma câmera instalada dentro de um carro de aplicativo registrou o momento em que o veículo capota após ser atingido por outro automóvel em Jacareí (SP). O acidente aconteceu na tarde desta sexta-feira (20), na Vila Formosa. De acordo com ",
+      "title": "1h. Ventura apresenta listas para órgãos nacionais do Chega",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2453/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T01:15:21+00:00",
+      "summary": "Apresentadas as listas aos órgãos nacionais do Chega, as votações decorrem amanhã. Ainda, o Sporting venceu a União da Serra em casa por 4-0.",
       "category": "Mundo"
     },
     {
-      "title": "Água caindo pelo teto de Cais, Marginal Botafogo alagada e mais: veja estragos causados pela chuva em Goiânia",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/11/21/agua-caindo-pelo-teto-de-cais-marginal-botafogo-alagada-e-mais-veja-estragos-causados-pela-chuva-em-goiania.ghtml",
+      "title": "Bernard desaba no choro em campo após mais um vice com o Atlético-MG",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/bernard-desaba-no-choro-em-campo-apos-mais-um-vice-com-o-atletico-mg/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:12:21+00:00",
+      "summary": "Meia-atacante foi às lágrimas após derrota do Galo para o Boca Juniors em Barranquilla, na Colômbia; time mineiro foi apático em campo",
+      "category": "Mundo"
+    },
+    {
+      "title": "Passagens de tornados no Paraná deixam mais de 50 mil casas sem energia",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/passagens-de-tornados-no-parana-deixam-mais-de-50-mil-casas-sem-energia.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-21T22:53:38+00:00",
-      "summary": "Veja estragos causados pela chuva em Goiânia A forte chuva que atingiu Goiânia e Região Metropolitana neste sábado (21) provocou uma série de estragos e transtornos pela capital, como pontos de alagamento na Marginal Botafogo e água vazando pelo teto de duas unidades de Centro de Atenção Integral à Saúde (Cais). Com ac",
+      "publishedAt": "2026-11-22T01:10:38+00:00",
+      "summary": "50 mil casas estão sem energia depois da passagem de tornados no PR No Paraná, mais de 50 mil casas ainda estão sem energia depois da passagem de dois tornados pelo estado. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia \"Olha lá, olha lá! Ahhhh! Ahhhh! Caiu todas as árvores de lá!\", disse uma pessoa",
+      "category": "Mundo"
+    },
+    {
+      "title": "Kaio Jorge, do Cruzeiro, provoca o Atlético-MG após vice da Sul-Americana",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/kaio-jorge-do-cruzeiro-provoca-o-atletico-mg-apos-vice-da-sul-americana/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:10:37+00:00",
+      "summary": "Atacante usou as redes sociais para alfinetar o Galo logo após a final da Sul-Americana, vencida pelo Boca Juniors",
+      "category": "Mundo"
+    },
+    {
+      "title": "Atlético-MG 0 x 2 Boca: veja os melhores momentos da final da Sul-Americana",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-0-x-2-boca-veja-os-melhores-momentos-da-final-da-sul-americana/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T01:02:14+00:00",
+      "summary": "Time mineiro não foi páreo para os argentinos e ficou com o vice na competição continental",
+      "category": "Mundo"
+    },
+    {
+      "title": "Sul-Americana: saiba quanto o Atlético-MG deixou de ganhar após a derrota",
+      "url": "https://www.cnnbrasil.com.br/noticias/sul-americana-saiba-quanto-o-atletico-mg-deixou-de-ganhar-apos-a-derrota/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T00:57:48+00:00",
+      "summary": "Galo ficou com o vice-campeonato contra o Boca na Colômbia",
+      "category": "Esportes"
+    },
+    {
+      "title": "Amigos e parentes se despedem de Joe Wallach",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/amigos-e-parentes-se-despedem-de-joe-wallach.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T00:54:24+00:00",
+      "summary": "Amigos e parentes se despedem de Joe Wallach Joe Wallach foi muito além de um empresário de sucesso, cativou, com afetos, muitos amigos brasileiros que, junto com a família, lamentaram a morte dele. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Joe Wallach era americano de alma brasileira. A neta d",
+      "category": "Mundo"
+    },
+    {
+      "title": "Presidente do Flamengo provoca o Palmeiras após título: “Não tem fax”",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/presidente-do-flamengo-provoca-o-palmeiras-apos-titulo-nao-tem-fax/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T00:48:17+00:00",
+      "summary": "Equipe carioca conquistou o Campeonato Brasileiro depois de empatar em 1 a 1 com o time alviverde neste sábado (21), no Nubank Parque",
+      "category": "Política"
+    },
+    {
+      "title": "Seria um dado irreparável, diz integrante do Cidadania sobre fim do partido",
+      "url": "https://www.cnnbrasil.com.br/politica/seria-um-dado-irreparavel-diz-integrante-do-cidadania-sobre-fim-do-partido/",
+      "source": "CNN Brasil",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T00:46:07+00:00",
+      "summary": "Decisão de Zanin suspendendo o congresso que decidiria a incorporação do Cidadania ao PP (Progressistas) foi publicada no mesmo dia que o evento aconteceria",
+      "category": "Política"
+    },
+    {
+      "title": "Morre aos 103 anos Joe Wallach, executivo que ajudou a consolidar a TV Globo",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/morre-aos-103-anos-joe-wallach-executivo-que-ajudou-a-consolidar-a-tv-globo.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T00:36:54+00:00",
+      "summary": "Morre aos 103 anos Joe Wallach, executivo que ajudou a consolidar a TV Globo Morreu, em Los Angeles, nos Estados Unidos, aos 103 anos, Joe Wallach. Ele foi um dos executivos que ajudaram a consolidar a TV Globo. Wallach chegou ao Brasil em 1965, ano de inauguração da emissora. 📱Favorite o g1 no Google e acompanhe as pr",
+      "category": "Mundo"
+    },
+    {
+      "title": "André Ventura repete lista para a direção nacional",
+      "url": "https://observador.pt/2026/11/22/andre-ventura-repete-direcao-nacional-mesa-e-muda-apenas-um-nome-na-jurisdicao/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:25:55+00:00",
+      "summary": "Nem uma mexida. André Ventura recusou mudar a equipa que o acompanhou nos últimos anos e repetiu exatamente os mesmos nomes na direção nacional. Mesa mantém-se, Jurisdição muda um nome.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Crise política - outra vez",
+      "url": "https://observador.pt/opiniao/crise-politica-outra-vez/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:24:48+00:00",
+      "summary": "O PSD derrotado viabilizará um governo do (ou com o) PS, ou um governo do (ou com o) Chega? Não é difícil antever os efeitos catastróficos que uma discussão deste tipo produziria sobre o PSD",
+      "category": "Política"
+    },
+    {
+      "title": "Pode ser pior que Yalta",
+      "url": "https://observador.pt/opiniao/pode-ser-pior-que-yalta/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:22:52+00:00",
+      "summary": "Mais que uma vitória na Ucrânia, Putin quer destruir a UE. Aliás, o armamento da Ucrânia, Polónia e Alemanha já são meio caminho andado para assustar uma França sem condições para entrar na corrida",
+      "category": "Mundo"
+    },
+    {
+      "title": "00h Presidente da COP 31 otimista num acordo sobre o texto final",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-presidente-da-cop-31-otimista-num-acordo-sobre-o-texto-final_a1_1780871",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:21:02+00:00",
+      "summary": "",
+      "category": "Política"
+    },
+    {
+      "title": "Adulteraram a minha imagem",
+      "url": "https://observador.pt/opiniao/adulteraram-a-minha-imagem/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:20:45+00:00",
+      "summary": "Toda a nossa comunicação através da internet implica um nível em que nós não somos nós. A fotografia pode estar intocável mas a realidade já não é a mesma.",
+      "category": "Ciência & Tech"
+    },
+    {
+      "title": "Fim de ano pode abrir 530 mil vagas temporárias; número de contratações deve crescer 1,5% em relação a 2025",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/fim-de-ano-deve-abrir-530-mil-vagas-temporarias-20percent-dos-trabalhadores-podem-ser-efetivados.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-22T00:19:15+00:00",
+      "summary": "Contratações de trabalhadores temporários deve crescer 1,5% este ano em relação a 2025 O fim do ano traz oportunidades para quem está em busca de emprego. A expectativa é de mais de 500 mil vagas temporárias abertas em diversos setores. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Fim de ano é tem",
+      "category": "Economia"
+    },
+    {
+      "title": "00h. Acampada. Tendas continuam montadas em frente à AR",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2478/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:16:29+00:00",
+      "summary": "O objetivo é que as tendas fiquem instaladas até à votação final no parlamento do Orçamento do Estado, agendada para terça-feira. Ainda, Sporting vence União da Serra por 4-0 e passa aos oitavos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "A difícil alquimia do coração humano",
+      "url": "https://observador.pt/opiniao/a-dificil-alquimia-do-coracao-humano/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:15:17+00:00",
+      "summary": "O Génesis recorda-nos que a barbárie não é uma realidade exterior à civilização. Está sempre latente no coração humano, à espera de que enfraqueçam os freios que a contêm.",
+      "category": "Mundo"
+    },
+    {
+      "title": "A bela fragilidade das decisões nas democracias liberais",
+      "url": "https://observador.pt/opiniao/a-bela-fragilidade-das-decisoes-nas-democracias-liberais/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:14:08+00:00",
+      "summary": "A democracia liberal é incompatível com a vanguarda. A decisão democrática é imperfeita e incompleta, mas é assim e por ser assim que ela não pode nem deve ser aperfeiçoada por educadores ou profetas.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Para a CONFAP, a escola é um depósito de crianças",
+      "url": "https://observador.pt/opiniao/para-a-confap-a-escola-e-um-deposito-de-criancas/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:11:42+00:00",
+      "summary": "Quatro greves em duas semanas incomodam toda a gente. Quem passa o tempo a contar os dias de aulas perdidos sem perguntar porque param os profissionais está a medir a febre e a ignorar a doença.",
       "category": "Saúde"
     },
     {
-      "title": "VÍDEO: Casal é assaltado dentro de carro na Avenida Jerônimo de Albuquerque, em São Luís",
-      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/11/21/video-casal-e-assaltado-dentro-de-carro-na-avenida-jeronimo-de-albuquerque-em-sao-luis.ghtml",
+      "title": "O sofrimento não é património",
+      "url": "https://observador.pt/opiniao/o-sofrimento-nao-e-patrimonio/",
+      "source": "Observador",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:08:30+00:00",
+      "summary": "Há decisões que dizem mais sobre um país do que muitos discursos.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Convenção do Chega. Advogada de membros do grupo 1143 encabeça lista ao Conselho de Jurisdição",
+      "url": "https://www.rtp.pt/noticias/politica/convencao-do-chega-advogada-de-membros-do-grupo-1143-encabeca-lista-ao-conselho-de-jurisdicao_n1780869",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-22T00:00:41+00:00",
+      "summary": "A advogada de vários alegados membros da organização de ideologia nazi 1143, Mayza Consentino, apresentou uma lista ao Conselho de Jurisdição Nacional do Chega.",
+      "category": "Mundo"
+    },
+    {
+      "title": "Após temporal que deixou 5 mortos, moradores e voluntários começam a reconstruir Tupanciretã (RS)",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/temporal-deixa-5-mortos-e-mais-de-8-mil-imoveis-atingidos-em-tupancireta-rs-cidade-comeca-reconstrucao.ghtml",
       "source": "G1",
       "region": "Brasil",
-      "publishedAt": "2026-11-21T22:52:15+00:00",
-      "summary": "Casal é assaltado dentro de carro na Avenida Jerônimo de Albuquerque, em São Luís Um casal foi assaltado por dois homens na manhã deste sábado (21), enquanto estava dentro de um carro na região da Curva do 90, na Avenida Jerônimo de Albuquerque, em São Luís. O crime foi registrado por câmeras de segurança. 📲 Clique aqu",
+      "publishedAt": "2026-11-21T23:58:42+00:00",
+      "summary": "Tupanciretã começa a reconstrução após tempestade que matou cinco pessoas Moradores e voluntários deram início à tarefa de reconstruir Tupanciretã, no Rio Grande do Sul. A tempestade, na madrugada de sexta-feira (20), durou menos de uma hora e deixou marcas que vão ser sentidas por muito tempo. Neste sábado (21), subiu",
+      "category": "Clima"
+    },
+    {
+      "title": "Com Psirico e Tony Salles, blocos Lá Vem Elas e Lá Vem Eles arrastam foliões na Micareta de Feira",
+      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/21/com-psirico-e-tony-salles-blocos-la-vem-elas-e-la-vem-eles-arrastam-folioes-na-micareta-de-feira.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-21T23:57:40+00:00",
+      "summary": "Blocos 'Lá Vem Elas' e 'Lá Vem Eles' mantêm tradição de fantasias na Micareta de Feira Fantasia, irreverência e uma multidão atrás dos trios elétricos. Os blocos Lá Vem Elas e Lá Vem Eles tomaram conta do Circuito Maneca Ferreira na noite deste sábado (21), durante a Micareta de Feira de Santana, com milhares de foliõe",
+      "category": "Mundo"
+    },
+    {
+      "title": "VÍDEOS: Jornal Anhanguera 2ª edição de sábado, 21 de novembro de 2026",
+      "url": "https://g1.globo.com/go/goias/playlist/videos-jornal-anhanguera-2-edicao-de-sabado-21-de-novembro-de-2026.ghtml",
+      "source": "G1",
+      "region": "Brasil",
+      "publishedAt": "2026-11-21T23:57:33+00:00",
+      "summary": "Assista todos os vídeos do Jornal Anhanguera 2ª edição.",
+      "category": "Mundo"
+    },
+    {
+      "title": "23h As tendas pelo direito à habitação vão ficar no parlamento",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-as-tendas-pelo-direito-a-habitacao-vao-ficar-no-parlamento_a1_1780868",
+      "source": "RTP Notícias",
+      "region": "Portugal",
+      "publishedAt": "2026-11-21T23:25:02+00:00",
+      "summary": "",
       "category": "Mundo"
     },
     {
@@ -119,15 +380,6 @@
       "category": "Esportes"
     },
     {
-      "title": "Sporting de Braga afasta Vitória de Guimarães da Taça",
-      "url": "https://observador.pt/2026/11/21/sporting-de-braga-afasta-vitoria-de-guimaraes-da-taca-de-portugal/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:44:38+00:00",
-      "summary": "O Sporting de Braga qualificou-se para os oitavos de final da Taça de Portugal em futebol, ao vencer fora o rival Vitória de Guimarães por 2-0.",
-      "category": "Esportes"
-    },
-    {
       "title": "Feyenoord perde em casa com o Excelsior antes de receber o FC Porto",
       "url": "https://www.rtp.pt/noticias/futebol-internacional/feyenoord-perde-em-casa-com-o-excelsior-antes-de-receber-o-fc-porto_d1780866",
       "source": "RTP Notícias",
@@ -135,33 +387,6 @@
       "publishedAt": "2026-11-21T22:43:59+00:00",
       "summary": "O Feyenoord, adversário do FC Porto na Liga dos Campeões de futebol, perdeu hoje em casa com o Excelsior (3-2), na 13.ª jornada da Liga neerlandesa, e pode terminar a ronda fora do pódio.",
       "category": "Esportes"
-    },
-    {
-      "title": "Zverev bate Medvedev e vai enfrentar Alcaraz na decisão do ATP Finals",
-      "url": "https://www.cnnbrasil.com.br/esportes/tenis/zverev-bate-medvedev-e-vai-enfrentar-alcaraz-na-decisao-do-atp-finals/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:42:35+00:00",
-      "summary": "Alemão número um do mundo superou o russo em 1h25 de partida na tarde deste sábado (21), em Turim, na Itália, e decidirá a taça contra o espanhol, atual 3 do ranking da ATP",
-      "category": "Mundo"
-    },
-    {
-      "title": "Noiva mostra detalhe de velório de Gabriel Félix: “Vou esperar por você”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/noiva-mostra-detalhe-de-velorio-de-gabriel-felix-vou-esperar-por-voce/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:42:30+00:00",
-      "summary": "Cerimônia restrita a familiares e amigos foi realizada neste sábado (21), após o influenciador morrer aos 29 anos devido a um mal súbito",
-      "category": "Mundo"
-    },
-    {
-      "title": "Manteigas mantém plano de emergência por risco de derrocadas",
-      "url": "https://observador.pt/2026/11/21/manteigas-mantem-plano-municipal-de-emergencia-porque-risco-de-derrocadas-continua/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:42:16+00:00",
-      "summary": "A Câmara de Manteigas vai manter ativo o plano municipal de emergência e proteção civil, porque o risco de derrocadas mantém-se.",
-      "category": "Política"
     },
     {
       "title": "Jorge Jesus desbravou o caminho e o Brasil descobriu o treinador português",
@@ -182,15 +407,6 @@
       "category": "Esportes"
     },
     {
-      "title": "“Flamengo tem um treinador melhor”: Abel dispara após vice do Palmeiras",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-tem-um-treinador-melhor-abel-dispara-apos-vice-do-palmeiras/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:39:27+00:00",
-      "summary": "Técnico do Verdão falou após o empate que garantiu o título ao Rubro-Negro",
-      "category": "Mundo"
-    },
-    {
       "title": "Eisenkot convida partido de Netanyahu para negociações de coligação",
       "url": "https://www.rtp.pt/noticias/mundo/eisenkot-convida-partido-de-netanyahu-para-negociacoes-de-coligacao_n1780854",
       "source": "RTP Notícias",
@@ -198,15 +414,6 @@
       "publishedAt": "2026-11-21T22:38:39+00:00",
       "summary": "O líder opositor Gadi Eisenkot, encarregado de formar o próximo governo israelita, convidou hoje o partido de direita Likud, do primeiro-ministro cessante Benjamin Netanyahu, para conversações com vista a uma eventual coligação governamental.",
       "category": "Política"
-    },
-    {
-      "title": "Guardiola vê Coritiba vencer Bahia e chegar aos 45 pontos no Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/guardiola-ve-coritiba-vencer-bahia-e-chegar-aos-45-pontos-no-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:37:59+00:00",
-      "summary": "Em plena Arena Fonte Nova, Breno Lopes marca e se torna o herói da permanência do Coxa na Série A, após susto nas últimas rodadas",
-      "category": "Mundo"
     },
     {
       "title": "Vítor Matos estreia-se com derrota e Carlos Vicens com vitória em Lille",
@@ -223,152 +430,8 @@
       "source": "RTP Notícias",
       "region": "Portugal",
       "publishedAt": "2026-11-21T22:35:14+00:00",
-      "summary": "Cinco distritos estiveram sob aviso vermelho este sábado devido à chuva intensa e persistente. Estradas ficaram alagadas e em Lisboa alguns túneis fecharam à circulação. Acompanhamos aqui todos os desenvolvimentos.",
+      "summary": "Cinco distritos estiveram sob aviso vermelho este sábado devido à chuva intensa e persistente. Estradas ficaram alagadas e em Lisboa alguns túneis fecharam à circulação. Acompanhámos aqui todos os desenvolvimentos.",
       "category": "Clima"
-    },
-    {
-      "title": "Premiê da Espanha pede que eleitores sigam exemplo da vitória de Lula",
-      "url": "https://www.cnnbrasil.com.br/internacional/premie-da-espanha-pede-que-eleitores-sigam-exemplo-da-vitoria-de-lula/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:32:46+00:00",
-      "summary": "Pedro Sánchez convocou eleições antecipadas para o dia 29 de novembro por conta de uma crise habitacional em curso, que gerou protestos e uma crise política",
-      "category": "Política"
-    },
-    {
-      "title": "Sporting de Braga afasta Vitória de Guimarães da Taça de Portugal",
-      "url": "https://www.rtp.pt/noticias/taca-de-portugal/sporting-de-braga-afasta-vitoria-de-guimaraes-da-taca-de-portugal_d1780859",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:31:45+00:00",
-      "summary": "O Sporting de Braga qualificou-se hoje para os oitavos de final da Taça de Portugal em futebol, ao vencer fora o rival Vitória de Guimarães por 2-0, no dérbi minhoto da quarta ronda da prova.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Zverev vai lutar pelo terceiro título nas ATP Finals após afastar Medvedev",
-      "url": "https://www.rtp.pt/noticias/tenis/zverev-vai-lutar-pelo-terceiro-titulo-nas-atp-finals-apos-afastar-medvedev_d1780858",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:30:53+00:00",
-      "summary": "O número um mundial Alexander Zverev vai defrontar Carlos Alcaraz na final das ATP Finals, após ter derrotado o tenista russo Daniil Medvedev, o campeão de 2020, em dois sets, na segunda meia-final.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Epilepsia infantil: Genética impacta tratamento, dizem médicos a Dr. Kalil",
-      "url": "https://www.cnnbrasil.com.br/saude/epilepsia-infantil-genetica-impacta-tratamento-dizem-medicos-a-dr-kalil/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:30:26+00:00",
-      "summary": "Avanços em biologia molecular permitem diagnósticos genéticos que guiam escolha de medicamentos e terapias para crianças com epilepsia; Carlos Guerreiro, neurologista e professor colaborador do Departamento de Neurologia da Faculdade de Ciências Médicas da Unicamp, e Kette Valente, professora livre-docente em Neurologi",
-      "category": "Economia"
-    },
-    {
-      "title": "Flamengo só precisou de um empate em São Paulo para se sagrar campeão",
-      "url": "https://www.rtp.pt/noticias/mundo/flamengo-so-precisou-de-um-empate-em-sao-paulo-para-se-sagrar-campeao_d1780857",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:28:30+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Associação da GNR denuncia pressão do Governo em negociações",
-      "url": "https://observador.pt/2026/11/21/associacao-da-gnr-denuncia-pressoes-do-governo-na-negociacao-de-salarios/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:28:23+00:00",
-      "summary": "Governo chegou a acordo com a maioria dos sindicatos da PSP e associações socioprofissionais da GNR para aumentos, segundo o ministro da Administração Interna, Luís Neves.",
-      "category": "Política"
-    },
-    {
-      "title": "22h Manifestantes querem tendas montadas até terça feira",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-manifestantes-querem-tendas-montadas-ate-terca-feira_a1_1780856",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:22:02+00:00",
-      "summary": "",
-      "category": "Mundo"
-    },
-    {
-      "title": "Isaltino entrega medalha de ouro de Oeiras a Bryan Adams",
-      "url": "https://observador.pt/2026/11/21/isaltino-entrega-medalha-de-ouro-de-oeiras-a-bryan-adams/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:18:26+00:00",
-      "summary": "O músico estudou nos anos 60 na St. Columban’s School, agora Quinta da Casa Branca, em Carnaxide",
-      "category": "Mundo"
-    },
-    {
-      "title": "Flamengo contraria CBF, leva taça de 2025 e faz festa na casa do Palmeiras",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-contraria-cbf-leva-taca-de-2025-e-faz-festa-na-casa-do-palmeiras/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:14:49+00:00",
-      "summary": "Com gol de Samuel Lino, o time carioca buscou o empate diante do rival paulista, confirmando o título antecipado da Série A do Brasileirão de 2026 neste sábado (21)",
-      "category": "Esportes"
-    },
-    {
-      "title": "As notícias das 22h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1903/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:11:44+00:00",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "category": "Mundo"
-    },
-    {
-      "title": "Kristin. Marcelo destaca liderança do autarca de Leiria",
-      "url": "https://observador.pt/2026/11/21/marcelo-destaca-lideranca-do-autarca-de-leiria-na-gestao-da-tempestade-kristin/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:03:37+00:00",
-      "summary": "Marcelo Rebelo de Sousa destacou a liderança do presidente da Câmara de Leiria, que hoje apresentou o livro \"Kristin - Os dias que mudaram Leiria\".",
-      "category": "Política"
-    },
-    {
-      "title": "Se o Real tem Nadal, Mourinho tem um verdadeiro ás",
-      "url": "https://observador.pt/2026/11/21/se-o-real-tem-nadal-mourinho-tem-um-verdadeiro-as-merengues-vencem-celta-e-levam-nove-triunfos-seguidos/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T22:03:27+00:00",
-      "summary": "O avançado de 21 marcou o golo decisivo já na ponta final",
-      "category": "Esportes"
-    },
-    {
-      "title": "Arrascaeta e Bruno Henrique igualam marca de Zico no Flamengo; entenda",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/arrascaeta-e-bruno-henrique-igualam-marca-de-zico-no-flamengo-entenda/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:02:18+00:00",
-      "summary": "Dupla flamenguista chegou ao quarto título do Campeonato Brasileiro, igualando o feito de ídolos",
-      "category": "Esportes"
-    },
-    {
-      "title": "Por que a gente continua vendo uma imagem mesmo depois de desviar o olhar?",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-a-gente-continua-vendo-uma-imagem-mesmo-depois-de-desviar-o-olhar/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T22:00:56+00:00",
-      "summary": "Células da retina e áreas do cérebro precisam se adaptar após exposição intensa à luz ou cor, gerando cópias visuais temporárias do que acabou de observar",
-      "category": "Clima"
-    },
-    {
-      "title": "André Ventura discorda de Passos Coelho e rejeita estar a governar a partir do Parlamento",
-      "url": "https://www.rtp.pt/noticias/politica/andre-ventura-discorda-de-passos-coelho-e-rejeita-estar-a-governar-a-partir-do-parlamento_n1780853",
-      "source": "RTP Notícias",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T21:59:31+00:00",
-      "summary": "O líder do Chega explica que o seu partido fez \"o mínimo possível\" ao aprovar o IVA zero nos bens alimentares.",
-      "category": "Política"
-    },
-    {
-      "title": "Palmeiras 1 x 1 Flamengo: veja os melhores momentos pelo Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-1-x-1-flamengo-veja-os-melhores-momentos-pelo-brasileirao/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T21:59:07+00:00",
-      "summary": "Time carioca assegurou o título do Campeonato Brasileiro com o empate deste sábado (21), em duelo válido pela 36ª rodada da competição",
-      "category": "Esportes"
     },
     {
       "title": "Deputada Talíria Petrone é ameaçada de morte e violência sexual",
@@ -378,24 +441,6 @@
       "publishedAt": "2026-11-21T21:59:00+00:00",
       "summary": "A deputada federal Talíria Petrone (Psol- RJ) recebeu ameaça de morte às vésperas do Dia da Consciência Negra , lembrado nessa sexta sexta-feira (20). Segundo a parlamentar, trata-se de ameaça explícita de morte, violência sexual e extermínio político, assinada por alguém que se diz representante de um partido neofasci",
       "category": "Política"
-    },
-    {
-      "title": "Suposto affair de Virginia curte show em camarote com a influenciadora",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/suposto-affair-de-virginia-curte-show-em-camarote-com-a-influenciadora/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T21:54:09+00:00",
-      "summary": "Jogador Kauã Elias, do time de futebol Shakhtar Donetsk, esteve no Caldas Country Festival nesta sexta-feira (21) e assistiu apresentação próximo à influenciadora",
-      "category": "Esportes"
-    },
-    {
-      "title": "Leonardo Jardim: de contestado no Flamengo a campeão brasileiro",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/leonardo-jardim-de-contestado-no-flamengo-a-campeao-brasileiro/",
-      "source": "CNN Brasil",
-      "region": "Brasil",
-      "publishedAt": "2026-11-21T21:51:42+00:00",
-      "summary": "Contratado para substituir o ídolo Filipe Luís, treinador português conquista o segundo troféu da temporada no comando do Rubro-Negro, superando pressão e eliminações",
-      "category": "Clima"
     },
     {
       "title": "Flamengo empata com Palmeiras e é campeão brasileiro de 2026",
@@ -416,57 +461,12 @@
       "category": "Saúde"
     },
     {
-      "title": "Samuel deu a Leonardo o que Abel já tinha dado numa bandeja",
-      "url": "https://observador.pt/2026/11/21/samuel-deu-a-leonardo-o-que-abel-ja-tinha-entregado-numa-bandeja-flamengo-e-bicampeao-brasileiro/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T21:26:06+00:00",
-      "summary": "O avançado que jogou no Gil Vicente marcou o golo que deu o título à equipa do Rio de Janeiro",
-      "category": "Esportes"
-    },
-    {
-      "title": "SCP x UDS. \"Penálti por marcar a favor dos leões\"",
-      "url": "https://observador.pt/programas/sem-falta/scp-x-uds-penalti-por-marcar-a-favor-dos-leoes/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T21:25:59+00:00",
-      "summary": "Nota 5 para Diogo Rosa, árbitro da vitória do Sporting frente ao União da Serra. Alguns erros num jogo sem VAR: golo mal validado, um penálti bem assinalado e outro por assinalar a favor dos Leões.",
-      "category": "Esportes"
-    },
-    {
-      "title": "21h. Mais de 1000 ocorrências registadas até às 18h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1824/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T21:18:23+00:00",
-      "summary": "1036 são os números registados pelas autoridades por todo o país, com a região de Lisboa e Vale Tejo a registar mais de 700 ocorrências.",
-      "category": "Mundo"
-    },
-    {
       "title": "Mostra apresenta legado de Milton Santos para pensar o Brasil",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-apresenta-legado-de-milton-santos-para-pensar-o-brasil",
       "source": "Agência Brasil",
       "region": "Brasil",
       "publishedAt": "2026-11-21T21:04:00+00:00",
       "summary": "O Museu da História e da Cultura Afro-Brasileira (Muhcab), que fica na região conhecida por Pequena África, na zona portuária da cidade do Rio de Janeiro, exibe a mostra Milton Santos e Cidadania: um geógrafo negro pensando o Brasil e o mundo. Ocupando uma das salas do museu, a exibição é dividida em três eixos e tem p",
-      "category": "Cultura"
-    },
-    {
-      "title": "SCP x UDS. “Enquanto o União teve pernas…\"",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/scp-x-uds-enquanto-o-uniao-teve-pernas/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T20:50:45+00:00",
-      "summary": "Sporting \"pouco esclarecido\" vence equipa do quarto escalão com golos só na segunda parte. Do União da Serra, Gabriel Alves destaca David Santos, guarda-redes que adiou ao máximo o golo dos leões.",
-      "category": "Esportes"
-    },
-    {
-      "title": "Detido líder de cartel na lista dos mais procurados do FBI",
-      "url": "https://observador.pt/2026/11/21/detido-lider-de-cartel-mexicano-na-lista-dos-10-mais-procurados-do-fbi-eua-ofereciam-mais-de-4-milhoes-pela-captura/",
-      "source": "Observador",
-      "region": "Portugal",
-      "publishedAt": "2026-11-21T20:50:08+00:00",
-      "summary": "A operação decorreu na cidade mexicana de Guasave",
       "category": "Cultura"
     },
     {
